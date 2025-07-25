@@ -232,11 +232,11 @@ Anchor Rewards → More Guidance → Better Ventures
 
 Now that you understand the core concepts:
 
-1. **Choose Your Role**: [Founder](../founders/), [Supporter](../echoes/), or [Validator](../anchors/)
+1. **Choose Your Role**: [Founder](../founders/index.md), [Supporter](../echoes/index.md), or [Validator](../anchors/index.md)
 2. **Acquire $SIGNAL**: Through participation or initial distribution
 3. **Pick Your Arena**: Find ventures that match your interests
 4. **Start Participating**: Signal, build, or validate
 5. **Grow Your Reputation**: Consistent success builds influence
 
 !!! success "Ready to Dive Deeper?"
-    Explore the [Seven-Phase Lifecycle](../lifecycle/) to understand how ventures progress from idea to independence.
+    Explore the [Seven-Phase Lifecycle](../lifecycle/index.md) to understand how ventures progress from idea to independence.

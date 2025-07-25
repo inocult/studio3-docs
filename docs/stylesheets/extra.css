@@ -47,6 +47,25 @@
   --md-default-bg-color--lighter: #0f3460;
 }
 
+/* Header Styling */
+.md-header {
+  background-color: white !important;
+  color: var(--studio3-navy) !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.md-header__title {
+  color: var(--studio3-navy) !important;
+}
+
+.md-header__button {
+  color: var(--studio3-navy) !important;
+}
+
+.md-header__button:hover {
+  opacity: 0.7;
+}
+
 /* Logo Styling */
 .md-header__button.md-logo {
   margin: 0.2rem;
@@ -56,6 +75,41 @@
 .md-header__button.md-logo img {
   height: 2.5rem;
   width: auto;
+  filter: none !important;
+}
+
+/* Search Bar */
+.md-search__form {
+  background-color: rgba(43, 76, 140, 0.1) !important;
+}
+
+.md-search__input {
+  color: var(--studio3-navy) !important;
+}
+
+.md-search__input::placeholder {
+  color: rgba(43, 76, 140, 0.6) !important;
+}
+
+/* Navigation items in header */
+.md-tabs {
+  background-color: white !important;
+  border-bottom: 1px solid rgba(43, 76, 140, 0.1);
+}
+
+.md-tabs__link {
+  color: var(--studio3-navy) !important;
+  opacity: 0.7;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: var(--studio3-pink) !important;
+  opacity: 1;
+}
+
+.md-tabs__indicator {
+  background-color: var(--studio3-pink) !important;
 }
 
 /* Typography */
@@ -161,12 +215,52 @@ body {
 .arena-card h3 {
   color: var(--studio3-navy);
   margin-top: 0;
+  margin-bottom: 1rem;
   font-weight: 700;
 }
 
 .arena-card h4 {
   color: var(--studio3-dark-blue);
   font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* Arena card content formatting */
+.arena-card p {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+}
+
+.arena-card p:first-of-type {
+  margin-top: 0;
+}
+
+.arena-card p:last-child {
+  margin-bottom: 0;
+}
+
+.arena-card ul,
+.arena-card ol {
+  margin: 0.75rem 0;
+  padding-left: 1.5rem;
+}
+
+.arena-card li {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+}
+
+.arena-card li strong {
+  color: var(--studio3-navy);
+  font-weight: 600;
+}
+
+.arena-card code {
+  background-color: rgba(233, 30, 99, 0.1);
+  color: var(--studio3-pink);
+  padding: 0.125rem 0.375rem;
+  border-radius: 4px;
+  font-size: 0.875em;
 }
 
 /* Dark mode arena cards */
@@ -378,6 +472,108 @@ body {
   background-color: var(--studio3-pink);
   -webkit-mask-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z"/></svg>');
   mask-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z"/></svg>');
+}
+
+/* Fix formatting inside all admonitions */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: inherit;
+}
+
+.md-typeset .admonition p,
+.md-typeset details p {
+  margin: 0.8em 0;
+  line-height: 1.6;
+}
+
+.md-typeset .admonition p:first-child,
+.md-typeset details p:first-child {
+  margin-top: 0;
+}
+
+.md-typeset .admonition p:last-child,
+.md-typeset details p:last-child {
+  margin-bottom: 0;
+}
+
+.md-typeset .admonition code,
+.md-typeset details code {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  font-size: 0.85em;
+}
+
+.md-typeset .admonition ul,
+.md-typeset .admonition ol,
+.md-typeset details ul,
+.md-typeset details ol {
+  margin: 0.5em 0 0.5em 0;
+  padding-left: 1.5em;
+  list-style-position: outside;
+}
+
+.md-typeset .admonition ul:last-child,
+.md-typeset .admonition ol:last-child,
+.md-typeset details ul:last-child,
+.md-typeset details ol:last-child {
+  margin-bottom: 0;
+}
+
+.md-typeset .admonition li,
+.md-typeset details li {
+  margin: 0.25em 0;
+  line-height: 1.5;
+}
+
+.md-typeset .admonition li p,
+.md-typeset details li p {
+  margin: 0;
+  display: inline;
+}
+
+/* Ensure proper formatting for strong/bold text in admonitions */
+.md-typeset .admonition strong,
+.md-typeset details strong {
+  font-weight: 600;
+  color: inherit;
+}
+
+/* Specific admonition type styling */
+.md-typeset .admonition.tip,
+.md-typeset .admonition.hint {
+  border-left-color: var(--studio3-pink);
+}
+
+.md-typeset .admonition.info,
+.md-typeset .admonition.note {
+  border-left-color: var(--studio3-navy);
+}
+
+.md-typeset .admonition.warning,
+.md-typeset .admonition.caution {
+  border-left-color: var(--warning);
+}
+
+.md-typeset .admonition.danger,
+.md-typeset .admonition.error {
+  border-left-color: var(--error);
+}
+
+.md-typeset .admonition.success,
+.md-typeset .admonition.check {
+  border-left-color: var(--success);
+}
+
+.md-typeset .admonition.question,
+.md-typeset .admonition.help {
+  border-left-color: var(--info);
+}
+
+.md-typeset .admonition.quote,
+.md-typeset .admonition.cite {
+  border-left-color: var(--studio3-dark-blue);
+  font-style: italic;
 }
 
 /* Tables */

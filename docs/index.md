@@ -1,10 +1,8 @@
 # Welcome to Studio3
 
 <div class="hero-section">
-<img src="assets/logo.png" alt="Studio3" style="height: 120px; width: auto; margin-bottom: 2rem; filter: brightness(0) invert(1);">
 <h1>Where Belief Becomes Momentum</h1>
 <p class="hero-subtitle">The gamified venture building platform that transforms ideas into reality through transparent milestones, community validation, and tangible rewards.</p>
-<div class="signal-orb"></div>
 </div>
 
 ## 🚀 Start Your Journey
@@ -51,64 +49,32 @@ Studio3 revolutionizes how ventures are built:
 
 - [What is Studio3?](getting-started/what-is-studio3.md) - Understand our mission
 - [Core Concepts](getting-started/core-concepts.md) - Master the fundamentals
-- [The Arena System](arena/belief-doubt.md) - Learn signal mechanics
-- [7-Phase Lifecycle](lifecycle/overview.md) - Navigate the journey
-- [NFT System](nfts/) - Explore the three-NFT model
+- [The Arena System](arena/index.md) - Learn signal mechanics
+- [7-Phase Lifecycle](lifecycle/index.md) - Navigate the journey
+- [NFT System](nfts/index.md) - Explore the three-NFT model
 
 ## 🌟 Recent Successes
 
 <div class="grid">
 <div class="arena-card">
 <h4>🚀 DataVault</h4>
-<p>Graduated to <span class="phase-indicator phase-ascension">🎖️ Ascension</span> in record time with revolutionary privacy tech</p>
-<p><strong>$SIGNAL Raised:</strong> <span class="animate-number token-display" data-value="250000">0</span></p>
+Graduated to Ascension in record time with revolutionary privacy tech
 </div>
 
 <div class="arena-card">
 <h4>⚡ EnergyDAO</h4>
-<p>From <span class="phase-indicator phase-spark">✨ Spark</span> to <span class="phase-indicator phase-flare">🔥 Flare</span> in 6 months</p>
-<p><strong>Impact:</strong> <span class="animate-number" data-value="10000">0</span>+ homes powered</p>
+From Spark to Flare in 6 months, now powering 10,000+ homes
 </div>
 
 <div class="arena-card">
 <h4>🎮 PlayForge</h4>
-<p>Community-built gaming platform in <span class="phase-indicator phase-orbit">🛸 Orbit</span></p>
-<p><strong>Active Users:</strong> <span class="animate-number" data-value="1000000">0</span>+</p>
-</div>
-</div>
-
-## 📊 Platform Statistics
-
-<div class="grid">
-<div class="arena-card">
-<h4>Active Ventures</h4>
-<p class="animate-number" data-value="147" style="font-size: 2.5rem; font-weight: 700; color: var(--studio3-navy);">0</p>
-<p>Building in public</p>
-</div>
-
-<div class="arena-card">
-<h4>Total Signals</h4>
-<p class="animate-number token-display" data-value="12500000" style="font-size: 2rem; padding: 0.5rem 1rem;">0</p>
-<p>Belief expressed</p>
-</div>
-
-<div class="arena-card">
-<h4>Success Rate</h4>
-<p class="animate-number" data-value="73" style="font-size: 2.5rem; font-weight: 700; color: var(--studio3-pink);">0</p>
-<p>Ventures reaching Orbit+</p>
+Community-built gaming platform with 1M+ active users
 </div>
 </div>
 
 ## 🎓 Ready to Begin?
 
-<div class="arena-card" style="text-align: center; background: var(--studio3-gradient); color: white;">
-<h2 style="color: white; border: none;">Start Your Studio3 Journey Today</h2>
-<p style="font-size: 1.125rem; margin-bottom: 2rem;">Join thousands of builders, supporters, and validators creating the future of venture building.</p>
-<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-<a href="getting-started/" class="md-button" style="background: white; color: var(--studio3-navy);">Get Started</a>
-<a href="getting-started/what-is-studio3/" class="md-button" style="background: transparent; border: 2px solid white; color: white;">Learn More</a>
-</div>
-</div>
+Start with our [Getting Started Guide](getting-started/index.md) to understand how Studio3 can transform your venture building journey.
 
 !!! tip "Join the Revolution"
     Studio3 is more than a platform - it's a movement toward transparent, community-driven innovation. Your journey starts with a single signal.
