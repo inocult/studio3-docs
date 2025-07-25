@@ -1,0 +1,214 @@
+site_name: Studio3 Guide
+site_description: The Complete Guide to Building Ventures Through Belief-Driven Arenas
+site_url: https://studio3.guide
+site_author: Studio3 Team
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+    - announce.dismiss
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+
+  font:
+    text: Inter
+    code: Fira Code
+
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+  - glightbox
+  - awesome-pages
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/studio3
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/studio3
+    - icon: fontawesome/brands/github
+      link: https://github.com/studio3
+  
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - getting-started/index.md
+    - What is Studio3: getting-started/what-is-studio3.md
+    - Core Concepts: getting-started/core-concepts.md
+    - Your First Arena: getting-started/first-arena.md
+    - Understanding Roles: getting-started/roles.md
+    - Quick Start Guide: getting-started/quickstart.md
+  
+  - The Arena System:
+    - arena/index.md
+    - How Arenas Work: arena/how-arenas-work.md
+    - Arena Types: arena/types.md
+    - Milestone System: arena/milestones.md
+    - Belief & Doubt: arena/belief-doubt.md
+    - Signal Mechanics: arena/signal-mechanics.md
+    - Arena Calendar: arena/calendar.md
+  
+  - Company Lifecycle:
+    - lifecycle/index.md
+    - Overview: lifecycle/overview.md
+    - Phase 1 - Spark: lifecycle/spark.md
+    - Phase 2 - Forge: lifecycle/forge.md
+    - Phase 3 - Ignition: lifecycle/ignition.md
+    - Phase 4 - Drift: lifecycle/drift.md
+    - Phase 5 - Orbit: lifecycle/orbit.md
+    - Phase 6 - Flare: lifecycle/flare.md
+    - Phase 7 - Ascension: lifecycle/ascension.md
+    - TRL Progression: lifecycle/trl.md
+  
+  - NFT System:
+    - nfts/index.md
+    - Spark NFT: nfts/spark.md
+    - Signal NFT: nfts/signal.md
+    - Halo NFT: nfts/halo.md
+    - Genesis Wallet: nfts/genesis-wallet.md
+    - IP Remixing: nfts/ip-remixing.md
+  
+  - For Founders:
+    - founders/index.md
+    - Preparing for Duels: founders/duels.md
+    - Building Your MVP: founders/mvp.md
+    - Managing Milestones: founders/milestones.md
+    - Container DAO Model: founders/container-dao.md
+    - Growth Strategies: founders/growth.md
+    - Exit & Ascension: founders/exit.md
+  
+  - For Echoes:
+    - echoes/index.md
+    - Understanding XP: echoes/xp.md
+    - Signal Strategy: echoes/signal-strategy.md
+    - Belief vs Doubt: echoes/belief-doubt.md
+    - Community Participation: echoes/community.md
+    - Advanced Tactics: echoes/advanced.md
+  
+  - For Anchors:
+    - anchors/index.md
+    - Validation Process: anchors/validation.md
+    - Mentorship Guide: anchors/mentorship.md
+    - Earning & Influence: anchors/earning.md
+    - Best Practices: anchors/best-practices.md
+  
+  - Token Economics:
+    - tokens/index.md
+    - $SIGNAL Token: tokens/signal.md
+    - Token Mechanics: tokens/mechanics.md
+    - Rewards System: tokens/rewards.md
+    - Belief Economy: tokens/belief-economy.md
+  
+  - Tools & Platform:
+    - tools/index.md
+    - Dashboard Overview: tools/dashboard.md
+    - Arena Interface: tools/arena-ui.md
+    - Signal Orb: tools/signal-orb.md
+    - Analytics & Tracking: tools/analytics.md
+    - Flambette Integration: tools/flambette.md
+  
+  - Case Studies:
+    - cases/index.md
+    - Successful Ventures: cases/success-stories.md
+    - Learning from Pivots: cases/pivots.md
+    - Community Highlights: cases/community.md
+  
+  - Resources:
+    - resources/index.md
+    - Templates: resources/templates.md
+    - FAQ: resources/faq.md
+    - Glossary: resources/glossary.md
+    - Support: resources/support.md
+
