@@ -8,8 +8,7 @@ Studio3's revolutionary design aligns the interests of all participants, creatin
 
 ### Breaking Traditional Misalignment
 
-<div class="arena-card">
-<h3>🔗 Traditional vs Studio3 Model</h3>
+### 🔗 Traditional vs Studio3 Model
 
 **Traditional Venture Ecosystem:**
 
@@ -24,7 +23,6 @@ Studio3's revolutionary design aligns the interests of all participants, creatin
 - Transparent milestones align timelines
 - Active participation rewarded fairly
 - Community captures value they create
-</div>
 
 ### The Positive-Sum Game
 
@@ -47,8 +45,7 @@ graph TD
 
 ### For Senders (Founders)
 
-<div class="arena-card">
-<h3>🏗️ Founder Incentive Stack</h3>
+### 🏗️ Founder Incentive Stack
 
 **Short-term Incentives:**
 
@@ -70,12 +67,10 @@ graph TD
 - Consistent delivery builds belief momentum
 - Community engagement multiplies resources
 - Long-term thinking enables graduation
-</div>
 
 ### For Echoes (Supporters)
 
-<div class="arena-card">
-<h3>📡 Echo Incentive Matrix</h3>
+### 📡 Echo Incentive Matrix
 
 **Direct Returns:**
 
@@ -99,32 +94,18 @@ graph TD
 - Diversification encouraged through portfolio approach
 - Active engagement improves outcomes
 - Long-term holders gain reputation compound
-</div>
 
 ### For Anchors (Validators)
 
-<div class="arena-card">
-<h3>⚓ Anchor Reward System</h3>
+### ⚓ Anchor Reward System
 
 **Fee Structure:**
 
-```python
-def calculate_anchor_compensation(milestone):
-    base_fee = milestone.value * 0.03  # 3% base
-    
-    # Quality multiplier (1-3x)
-    quality_score = get_validation_quality_score()
-    quality_mult = 1 + (quality_score - 0.7) * 2
-    
-    # Speed bonus (up to 20%)
-    speed_bonus = 0.2 if completed_within_24h else 0
-    
-    # Reputation multiplier
-    rep_mult = 1 + (anchor.xp / 10000) * 0.1
-    
-    total = base_fee * quality_mult * (1 + speed_bonus) * rep_mult
-    return min(total, milestone.value * 0.1)  # Cap at 10%
-```
+- **Base fee**: 3% of milestone value
+- **Quality multiplier**: 1x to 3x based on validation score
+- **Speed bonus**: Up to 20% for 24-hour completion
+- **Reputation multiplier**: +10% per 10,000 XP
+- **Maximum fee**: Capped at 10% of milestone value
 
 **Additional Incentives:**
 
@@ -139,7 +120,6 @@ def calculate_anchor_compensation(milestone):
 - Mentorship improves venture success rates
 - Fair judgments build long-term reputation
 - Ecosystem health creates more opportunities
-</div>
 
 ## Systemic Alignments
 
@@ -236,8 +216,7 @@ flowchart TD
 
 ### Reputation as Currency
 
-<div class="arena-card">
-<h3>🌟 The XP Economy</h3>
+### 🌟 The XP Economy
 
 **How Reputation Aligns Behavior:**
 
@@ -252,7 +231,6 @@ flowchart TD
 - 🗿️ Governance voting weight
 - 🎆 Priority access to opportunities
 - 🤝 Trust in interactions
-</div>
 
 ### Network Effect Alignment
 
@@ -307,8 +285,7 @@ flowchart TD
 
 ### Preventing Gaming
 
-<div class="arena-card">
-<h3>🚫 Anti-Gaming Mechanisms</h3>
+### 🚫 Anti-Gaming Mechanisms
 
 **Prevented Behaviors:**
 
@@ -331,7 +308,6 @@ flowchart TD
    - All updates public
    - Insider trading impossible
    - Equal access to data
-</div>
 
 ### Conflict Resolution
 
@@ -347,33 +323,28 @@ When incentives seem misaligned:
 
 ### Continuous Improvement
 
-```python
-class IncentiveOptimizer:
-    def analyze_behavior(self):
-        """
-        Monitor if incentives drive desired behavior
-        """
-        metrics = {
-            'venture_quality': self.measure_success_rates(),
-            'echo_participation': self.measure_signal_volume(),
-            'anchor_performance': self.measure_validation_quality(),
-            'ecosystem_growth': self.measure_new_participants()
-        }
-        return metrics
-    
-    def adjust_parameters(self, metrics):
-        """
-        Tune incentives based on outcomes
-        """
-        if metrics['venture_quality'] < target:
-            increase_failure_penalties()
-        
-        if metrics['echo_participation'] < target:
-            increase_return_multipliers()
-        
-        if metrics['anchor_performance'] < target:
-            increase_quality_bonuses()
-```
+### Continuous Improvement
+
+**Behavior Monitoring:**
+
+- Track venture success rates
+- Measure Echo participation volume
+- Assess Anchor validation quality
+- Monitor ecosystem growth
+
+**Parameter Adjustment:**
+
+- If venture quality drops: Increase failure penalties
+- If Echo participation lags: Boost return multipliers
+- If Anchor performance suffers: Enhance quality bonuses
+- If growth slows: Introduce new incentives
+
+**Feedback Loop:**
+
+- Analyze behavior patterns
+- Identify misalignments
+- Propose adjustments
+- Test and iterate
 
 ### Future Incentive Features
 
@@ -426,21 +397,21 @@ class IncentiveOptimizer:
 
 ### Alignment in Action
 
-<div class="arena-card">
-<h4>🌟 The DataMesh Success</h4>
-<p><strong>Situation:</strong> Complex technical venture needing patient capital</p>
-<p><strong>Alignment:</strong> Long-term Echoes matched with technical Anchors</p>
-<p><strong>Result:</strong> 18-month journey to profitability, 5x returns</p>
-<blockquote>"The aligned incentives meant our Echoes supported us through the hard times, knowing the long-term payoff. Traditional VCs would have pushed for premature scaling." - DataMesh CTO</blockquote>
-</div>
+#### 🌟 The DataMesh Success
 
-<div class="arena-card">
-<h4>💪 The QuickPivot Comeback</h4>
-<p><strong>Situation:</strong> Failed first product, needed major pivot</p>
-<p><strong>Alignment:</strong> Burn mechanics motivated honest assessment</p>
-<p><strong>Result:</strong> Fast pivot, community retained, eventual success</p>
-<blockquote>"Losing tokens hurt, but it forced us to be honest about our failure. The quick pivot saved the venture and our supporters appreciated the transparency." - QuickPivot Founder</blockquote>
-</div>
+**Situation:** Complex technical venture needing patient capital  
+**Alignment:** Long-term Echoes matched with technical Anchors  
+**Result:** 18-month journey to profitability, 5x returns
+
+> "The aligned incentives meant our Echoes supported us through the hard times, knowing the long-term payoff. Traditional VCs would have pushed for premature scaling." - DataMesh CTO
+
+#### 💪 The QuickPivot Comeback
+
+**Situation:** Failed first product, needed major pivot  
+**Alignment:** Burn mechanics motivated honest assessment  
+**Result:** Fast pivot, community retained, eventual success
+
+> "Losing tokens hurt, but it forced us to be honest about our failure. The quick pivot saved the venture and our supporters appreciated the transparency." - QuickPivot Founder
 
 ## Your Incentive Strategy
 

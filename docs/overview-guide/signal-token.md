@@ -8,8 +8,7 @@ The $SIGNAL token is the lifeblood of Studio3's ecosystem, transforming belief i
 
 ### What is $SIGNAL?
 
-<div class="arena-card">
-<h3>📡 $SIGNAL Essentials</h3>
+### 📡 $SIGNAL Essentials
 
 **Utility Token Properties:**
 
@@ -26,7 +25,6 @@ The $SIGNAL token is the lifeblood of Studio3's ecosystem, transforming belief i
 - ❌ Not a speculative trading asset
 - ❌ Not a share in any company
 - ❌ Not a stablecoin or currency
-</div>
 
 ### Token Utility
 
@@ -96,21 +94,20 @@ graph TD
 
 ### Earning $SIGNAL
 
-<div class="arena-card">
-<h3>💰 Ways to Earn</h3>
+### 💰 Ways to Earn
 
 **1. Signal Accuracy (Echoes)**
-```python
-reward = stake * multiplier * accuracy_bonus
-# multiplier: 1.5x - 3x for belief, 1.2x - 2x for doubt
-# accuracy_bonus: Based on prediction success rate
-```
+
+- Earn rewards based on: stake × multiplier × accuracy bonus
+- Belief multiplier: 1.5x - 3x
+- Doubt multiplier: 1.2x - 2x
+- Accuracy bonus based on prediction success rate
 
 **2. Validation Services (Anchors)**
-```python
-fee = milestone_value * 0.03 * quality_multiplier
-# quality_multiplier: 1x - 3x based on thoroughness
-```
+
+- Base fee: 3% of milestone value
+- Quality multiplier: 1x - 3x based on thoroughness
+- Additional bonuses for mentorship and speed
 
 **3. Participation Rewards**
 
@@ -124,7 +121,6 @@ fee = milestone_value * 0.03 * quality_multiplier
 - DEX liquidity mining
 - Lending protocol yields
 - Staking rewards
-</div>
 
 ### Using $SIGNAL
 
@@ -152,8 +148,7 @@ fee = milestone_value * 0.03 * quality_multiplier
 
 ### Burn Scenarios
 
-<div class="arena-card">
-<h3>🔥 When Tokens Burn</h3>
+### 🔥 When Tokens Burn
 
 **Permanent Burns Occur When:**
 
@@ -164,22 +159,13 @@ fee = milestone_value * 0.03 * quality_multiplier
 5. **Expired Options** - Unused allocations
 
 **Burn Impact:**
-```python
-def calculate_burn_impact(burned_amount):
-    total_supply = get_current_supply()
-    burn_percentage = burned_amount / total_supply
-    
-    # Deflationary pressure increases token value
-    supply_reduction = total_supply - burned_amount
-    scarcity_multiplier = total_supply / supply_reduction
-    
-    return {
-        'new_supply': supply_reduction,
-        'scarcity_increase': scarcity_multiplier,
-        'holder_benefit': (scarcity_multiplier - 1) * 100
-    }
-```
-</div>
+
+- **Supply Reduction**: Permanently removes tokens from circulation
+- **Scarcity Increase**: Remaining tokens become more valuable
+- **Holder Benefit**: All token holders benefit from reduced supply
+- **Deflationary Pressure**: Creates natural price support
+
+**Example**: If 1% of supply burns, remaining tokens gain ~1% in scarcity value
 
 ## Token Velocity
 
@@ -228,17 +214,13 @@ graph LR
 
 ### Token-Weighted Voting
 
-<div class="arena-card">
-<h3>🗿️ Governance Powers</h3>
+### 🗿️ Governance Powers
 
 **Voting Weight Calculation:**
-```python
-voting_power = (
-    held_tokens * 1.0 +
-    staked_tokens * 1.5 +
-    reputation_bonus * 0.1
-)
-```
+
+- Held tokens: 1.0x weight
+- Staked tokens: 1.5x weight  
+- Reputation bonus: +0.1x per 1000 XP
 
 **Governance Decisions Include:**
 
@@ -256,7 +238,6 @@ voting_power = (
 - 7-day voting window
 - 10% quorum requirement
 - 66% approval threshold
-</div>
 
 ## Market Dynamics
 
@@ -315,8 +296,7 @@ voting_power = (
 
 ### Where to Use $SIGNAL
 
-<div class="arena-card">
-<h3>🌐 Ecosystem Integration</h3>
+### 🌐 Ecosystem Integration
 
 **Native Platform:**
 
@@ -338,28 +318,22 @@ voting_power = (
 - Partner platform utility
 - NFT marketplace currency
 - Service payments
-</div>
 
 ## Token Metrics
 
 ### Key Performance Indicators
 
-```python
-# Current Token Metrics (Example)
-metrics = {
-    'circulating_supply': 45_000_000,
-    'total_burned': 5_000_000,
-    'average_daily_volume': 2_500_000,
-    'unique_holders': 15_000,
-    'staking_percentage': 0.35,
-    'velocity_ratio': 0.12,
-    'burn_rate_monthly': 0.02
-}
+**Current Token Metrics (Example):**
 
-# Health Indicators
-health_score = calculate_token_health(metrics)
-# Returns: 8.5/10 - Healthy ecosystem
-```
+- **Circulating Supply**: 45,000,000 $SIGNAL
+- **Total Burned**: 5,000,000 $SIGNAL
+- **Average Daily Volume**: 2,500,000 $SIGNAL
+- **Unique Holders**: 15,000 addresses
+- **Staking Percentage**: 35%
+- **Velocity Ratio**: 0.12
+- **Monthly Burn Rate**: 2%
+
+**Health Score**: 8.5/10 - Healthy ecosystem
 
 ## Future Developments
 

@@ -31,8 +31,7 @@ graph TB
 
 ### Sender ↔ Echo Dynamics
 
-<div class="arena-card">
-<h3>🤝 The Investment Relationship</h3>
+### 🤝 The Investment Relationship
 
 **How They Connect:**
 
@@ -55,7 +54,6 @@ graph TB
    - Results determine rewards
    - Relationships strengthen or end
    - Lessons learned by both
-</div>
 
 ### Communication Patterns
 
@@ -87,8 +85,7 @@ graph TB
 
 ### The Mentorship Bond
 
-<div class="arena-card">
-<h3>🎓 Growth Through Guidance</h3>
+### 🎓 Growth Through Guidance
 
 **Key Interactions:**
 
@@ -112,7 +109,6 @@ graph TB
    - Fair hearings
    - Evidence-based decisions
    - Learning opportunities
-</div>
 
 ### Interaction Protocols
 
@@ -162,8 +158,7 @@ sequenceDiagram
 
 ### The Quality Assurance Loop
 
-<div class="arena-card">
-<h3>🔍 Trust Through Verification</h3>
+### 🔍 Trust Through Verification
 
 **How They Collaborate:**
 
@@ -186,7 +181,6 @@ sequenceDiagram
    - Both identify bad actors
    - Collaborative defense
    - Maintains platform integrity
-</div>
 
 ### Information Asymmetry
 
@@ -291,29 +285,31 @@ graph LR
 
 ### When Interactions Break Down
 
-<div class="arena-card">
-<h3>⚖️ Dispute Resolution Framework</h3>
+### ⚖️ Dispute Resolution Framework
 
 **Level 1: Direct Resolution**
+
 - Parties attempt to resolve directly
 - Open communication encouraged
 - Focus on mutual benefit
 
 **Level 2: Community Mediation**
+
 - Neutral Echoes facilitate
 - Public discussion if appropriate
 - Seek consensus solution
 
 **Level 3: Anchor Arbitration**
+
 - Formal Anchor review
 - Evidence-based decision
 - Binding resolution
 
 **Level 4: Council Judgment**
+
 - Anchor Council final say
 - Sets precedent for future
 - Reputation consequences
-</div>
 
 ### Common Conflicts
 
@@ -329,33 +325,14 @@ graph LR
 
 ### How Interactions Scale
 
-```python
-# Network Value Calculation
-def calculate_network_value(participants):
-    senders = participants['senders']
-    echoes = participants['echoes']
-    anchors = participants['anchors']
-    
-    # Metcalfe's Law applied to each role
-    sender_value = senders ** 2
-    echo_value = echoes ** 2
-    anchor_value = anchors ** 2
-    
-    # Cross-role interactions multiply value
-    interaction_multiplier = (
-        (senders * echoes) +
-        (senders * anchors) +
-        (echoes * anchors)
-    )
-    
-    total_value = (
-        sender_value + 
-        echo_value + 
-        anchor_value
-    ) * interaction_multiplier
-    
-    return total_value
-```
+**Network Value Calculation:**
+
+- **Each role creates value**: Senders² + Echoes² + Anchors²
+- **Cross-role interactions multiply**: Senders × Echoes + Senders × Anchors + Echoes × Anchors
+- **Total network value**: Role value × Interaction multiplier
+- **Result**: Exponential growth as ecosystem expands
+
+**Example**: 100 Senders + 1000 Echoes + 50 Anchors = 150,000 base value × 155,000 interactions = 23.25M network value units
 
 ### Emergent Behaviors
 
@@ -408,8 +385,7 @@ def calculate_network_value(participants):
 
 ### The Studio3 Way
 
-<div class="arena-card">
-<h3>🌐 Interaction Principles</h3>
+### 🌐 Interaction Principles
 
 **Core Values:**
 
@@ -432,20 +408,19 @@ def calculate_network_value(participants):
    - Ideas over identities
    - Performance over politics
    - Results over rhetoric
-</div>
 
 ## Success Stories
 
 ### Interaction Excellence
 
-<div class="arena-card">
-<h4>🌟 Case: The Pivot Partnership</h4>
-<p><strong>Participants:</strong> TechVenture (Sender), 200+ Echoes, 3 Anchors</p>
-<p><strong>Situation:</strong> Major pivot needed after market shift</p>
-<p><strong>Interaction:</strong> Transparent communication, collaborative replanning</p>
-<p><strong>Outcome:</strong> 85% Echo retention, successful pivot, 3x returns</p>
-<blockquote>"The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors." - TechVenture Founder</blockquote>
-</div>
+#### 🌟 Case: The Pivot Partnership
+
+**Participants:** TechVenture (Sender), 200+ Echoes, 3 Anchors  
+**Situation:** Major pivot needed after market shift  
+**Interaction:** Transparent communication, collaborative replanning  
+**Outcome:** 85% Echo retention, successful pivot, 3x returns
+
+> "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors." - TechVenture Founder
 
 ## Interaction Evolution
 

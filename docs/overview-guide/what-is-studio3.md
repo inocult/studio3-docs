@@ -95,15 +95,12 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 </ul>
 </div>
 
-<div class="arena-card">
-<h3>For Individual Participants</h3>
-<ul>
-<li><strong>Founders</strong> - Access to resources without traditional gatekeepers</li>
-<li><strong>Supporters</strong> - Direct participation in venture success</li>
-<li><strong>Validators</strong> - Rewarded for expertise and guidance</li>
-<li><strong>Everyone</strong> - Transparent, fair, merit-based system</li>
-</ul>
-</div>
+### For Individual Participants
+
+- **Founders** - Access to resources without traditional gatekeepers
+- **Supporters** - Direct participation in venture success
+- **Validators** - Rewarded for expertise and guidance
+- **Everyone** - Transparent, fair, merit-based system
 
 ## Key Differentiators
 

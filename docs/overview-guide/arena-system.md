@@ -121,20 +121,23 @@ sequenceDiagram
 
 ### The Belief Economy
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 Signal Mechanics</h3>
 
 **Belief Signals** 👍
+
 - Stake tokens on successful completion
 - Earn 1.5x - 3x multiplier if correct
 - Lose entire stake if wrong
 
 **Doubt Signals** 👎
+
 - Stake tokens on milestone failure
 - Earn 1.2x - 2x multiplier if correct  
 - Lose entire stake if wrong
 
 **Multiplier Factors:**
+
 - Early signals earn higher multipliers
 - Contrarian correct signals bonus
 - Reputation level affects multipliers
@@ -264,20 +267,24 @@ The Arena system evolves through:
 
 ### Arena Champions
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🏆 DataMesh Protocol</h4>
-<p><strong>Arena Performance:</strong> 12/12 milestones completed</p>
-<p><strong>Total Signals:</strong> 2.3M $SIGNAL belief</p>
-<p><strong>Outcome:</strong> Graduated in record time</p>
-<blockquote>"The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable." - DataMesh Founder</blockquote>
+
+**Arena Performance:** 12/12 milestones completed  
+**Total Signals:** 2.3M $SIGNAL belief  
+**Outcome:** Graduated in record time
+
+> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable." - DataMesh Founder
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>💡 EcoChain Initiative</h4>
-<p><strong>Arena Performance:</strong> Pivoted after milestone 3 failure</p>
-<p><strong>Community Response:</strong> 80% maintained belief post-pivot</p>
-<p><strong>Outcome:</strong> Successful with new direction</p>
-<blockquote>"Failing in public was painful but invaluable. The Arena's feedback helped us find our real product-market fit." - EcoChain Founder</blockquote>
+
+**Arena Performance:** Pivoted after milestone 3 failure  
+**Community Response:** 80% maintained belief post-pivot  
+**Outcome:** Successful with new direction
+
+> "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product-market fit." - EcoChain Founder
 </div>
 
 ## Common Pitfalls
