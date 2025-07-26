@@ -80,6 +80,7 @@ MkDocs + Material Theme
 
 ### Style Guidelines
 - Use **arena-card** class for important callouts
+- **ALWAYS** add `markdown="1"` attribute to arena-card divs for proper markdown rendering
 - Apply **phase-indicator** classes with appropriate colors
 - Format tokens with **token-display** class
 - Include **emoji indicators** for visual navigation

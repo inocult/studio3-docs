@@ -130,6 +130,11 @@ def main():
     # Define guides
     guides = [
         {
+            'name': 'Quickstart',
+            'path': 'quickstart',
+            'output': 'studio3-quickstart.pdf'
+        },
+        {
             'name': 'Overview',
             'path': 'overview-guide',
             'output': 'overview-guide.pdf'

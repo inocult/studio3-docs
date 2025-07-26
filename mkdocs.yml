@@ -38,7 +38,6 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.top
-    - toc.follow
     - search.suggest
     - search.highlight
     - search.share
@@ -132,6 +131,13 @@ extra_javascript:
 
 nav:
   - Home: index.md
+  
+  - Quickstart:
+    - quickstart/index.md
+    - What is Studio3?: quickstart/what-is-studio3.md
+    - How It Works: quickstart/how-it-works.md
+    - Key Benefits: quickstart/key-benefits.md
+    - Get Started: quickstart/get-started.md
   
   - Overview Guide:
     - overview-guide/index.md

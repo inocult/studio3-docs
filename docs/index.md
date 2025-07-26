@@ -5,6 +5,41 @@
 <p class="hero-subtitle">Choose your guide to navigate the Studio3 ecosystem</p>
 </div>
 
+## 🚀 Quick Start
+
+<div class="arena-card" markdown="1">
+<h3>⚡ 5-Minute Introduction</h3>
+
+<p>New to Studio3? Get the essence of our platform in just 5 minutes with our Quickstart guide.</p>
+
+<div class="card-actions">
+<a href="quickstart/" class="md-button md-button--primary">Start Here</a>
+<a href="pdf/studio3-quickstart.pdf" class="md-button">Download PDF</a>
+</div>
+</div>
+
+<div class="quick-start-grid">
+<div class="quick-start-card">
+<h4>New to Studio3?</h4>
+<p>Start with the <a href="overview-guide/">Overview Guide</a> to understand the ecosystem</p>
+</div>
+
+<div class="quick-start-card">
+<h4>Ready to Build?</h4>
+<p>Jump into the <a href="senders-guide/">Senders Guide</a> to launch your venture</p>
+</div>
+
+<div class="quick-start-card">
+<h4>Want to Support?</h4>
+<p>Check the <a href="echoes-guide/">Echoes Guide</a> to start signaling</p>
+</div>
+
+<div class="quick-start-card">
+<h4>Experienced Builder?</h4>
+<p>Read the <a href="anchors-guide/">Anchors Guide</a> to become a validator</p>
+</div>
+</div>
+
 ## 📚 Available Guides
 
 <div class="grid">
@@ -49,30 +84,6 @@
 </div>
 </div>
 
-## 🚀 Quick Start
-
-<div class="quick-start-grid">
-<div class="quick-start-card">
-<h4>New to Studio3?</h4>
-<p>Start with the <a href="overview-guide/">Overview Guide</a> to understand the ecosystem</p>
-</div>
-
-<div class="quick-start-card">
-<h4>Ready to Build?</h4>
-<p>Jump into the <a href="senders-guide/">Senders Guide</a> to launch your venture</p>
-</div>
-
-<div class="quick-start-card">
-<h4>Want to Support?</h4>
-<p>Check the <a href="echoes-guide/">Echoes Guide</a> to start signaling</p>
-</div>
-
-<div class="quick-start-card">
-<h4>Experienced Builder?</h4>
-<p>Read the <a href="anchors-guide/">Anchors Guide</a> to become a validator</p>
-</div>
-</div>
-
 ## 🌟 The Studio3 Difference
 
 Studio3 transforms venture building through:
@@ -86,6 +97,7 @@ Studio3 transforms venture building through:
 ## 📖 About These Guides
 
 Each guide is:
+
 - **Self-contained** - Everything you need in one place
 - **Role-specific** - Tailored to your journey
 - **Downloadable** - Available as PDF for offline reading
