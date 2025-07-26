@@ -29,6 +29,7 @@ Imagine if building a startup was like playing a video game where:
 ### Why "Arenas"?
 
 Just like gladiators competed in ancient arenas:
+
 - **Ventures compete** for support and resources
 - **Spectators place bets** on who will succeed
 - **Performance is public** - no hiding failures
@@ -106,6 +107,7 @@ Every venture follows the same path:
 ### Why This Matters
 
 Studio3 solves real problems:
+
 - **Great ideas** get funding regardless of founder's network
 - **Community wisdom** catches problems early
 - **Public accountability** reduces failure rates

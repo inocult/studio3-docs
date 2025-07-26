@@ -215,6 +215,7 @@ graph TD
 **Financial Penalties:**
 
 If validation is overturned:
+
 - **Fee Clawback**: Must return 2x the original fee
 - **Reputation Loss**: -500 XP penalty
 - **Future Rate Cut**: 20% reduction in fee rates
@@ -355,6 +356,7 @@ sequenceDiagram
 **Record Keeping:**
 
 For tax purposes, maintain records of:
+
 - Date and time of transaction
 - Type of reward received
 - Amount of tokens
@@ -416,10 +418,14 @@ For tax purposes, maintain records of:
 <div class="arena-card" markdown="1">
 
 #### 🌟 The Perfect Signal
-<p><strong>Echo:</strong> CryptoSage</p>
-<p><strong>Signal:</strong> 10,000 $SIGNAL belief on DeFiVault Phase 4</p>
-<p><strong>Timing:</strong> 14 days early</p>
-<p><strong>Result:</strong> 2.8x return (28,000 $SIGNAL)</p>
+<strong>Echo:</strong> CryptoSage
+
+<strong>Signal:</strong> 10,000 $SIGNAL belief on DeFiVault Phase 4
+
+<strong>Timing:</strong> 14 days early
+
+<strong>Result:</strong> 2.8x return (28,000 $SIGNAL)
+
 <blockquote>"I spent days analyzing their code and team. The early signal risk paid off beautifully." - CryptoSage</blockquote>
 
 </div>
@@ -429,9 +435,12 @@ For tax purposes, maintain records of:
 <div class="arena-card" markdown="1">
 
 #### 💥 The Costly Mistake
-<p><strong>Sender:</strong> RushProtocol</p>
-<p><strong>Failure:</strong> Overpromised on scaling milestone</p>
-<p><strong>Penalty:</strong> 250,000 $SIGNAL burned, -2000 XP</p>
+<strong>Sender:</strong> RushProtocol
+
+<strong>Failure:</strong> Overpromised on scaling milestone
+
+<strong>Penalty:</strong> 250,000 $SIGNAL burned, -2000 XP
+
 <blockquote>"We learned to be realistic with timelines. The penalty hurt but taught us valuable lessons." - RushProtocol CEO</blockquote>
 
 </div>

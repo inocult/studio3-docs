@@ -97,6 +97,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 #### 📊 Analytics Dashboard
 
 Access real-time metrics:
+
 - Venture performance
 - Signal accuracy
 - Token flows
@@ -111,6 +112,7 @@ Access real-time metrics:
 #### 🔍 Arena Explorer
 
 Browse and filter:
+
 - Active ventures
 - Historical data
 - Success patterns
@@ -410,6 +412,7 @@ Browse and filter:
 ### Language Support
 
 Currently available in:
+
 - 🇺🇸 English
 - 🇪🇸 Español
 - 🇫🇷 Français

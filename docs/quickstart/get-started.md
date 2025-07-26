@@ -338,6 +338,7 @@ Getting started with Studio3 is simple:
 ### Success Metrics
 
 You'll know you're on track when:
+
 - **Community recognizes** your username
 - **Actions succeed** more than fail
 - **Reputation grows** steadily

@@ -15,66 +15,54 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <div class="arena-card" markdown="1">
 
 ### 1. Anchor Fundamentals
-<ul>
-<li><a href="anchor-role/">The Anchor Role</a></li>
-<li><a href="responsibilities/">Core Responsibilities</a></li>
-<li><a href="requirements/">Qualification Requirements</a></li>
-</ul>
+- <a href="anchor-role/">The Anchor Role</a>
+- <a href="responsibilities/">Core Responsibilities</a>
+- <a href="requirements/">Qualification Requirements</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 2. Validation Process
-<ul>
-<li><a href="validation-framework/">Validation Framework</a></li>
-<li><a href="milestone-review/">Milestone Review Process</a></li>
-<li><a href="evidence-assessment/">Evidence Assessment</a></li>
-</ul>
+- <a href="validation-framework/">Validation Framework</a>
+- <a href="milestone-review/">Milestone Review Process</a>
+- <a href="evidence-assessment/">Evidence Assessment</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 3. Mentorship
-<ul>
-<li><a href="guiding-founders/">Guiding Founders</a></li>
-<li><a href="strategic-advice/">Strategic Advice</a></li>
-<li><a href="crisis-management/">Crisis Management</a></li>
-</ul>
+- <a href="guiding-founders/">Guiding Founders</a>
+- <a href="strategic-advice/">Strategic Advice</a>
+- <a href="crisis-management/">Crisis Management</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 4. Quality Standards
-<ul>
-<li><a href="quality-criteria/">Quality Criteria</a></li>
-<li><a href="red-flags/">Identifying Red Flags</a></li>
-<li><a href="best-practices/">Validation Best Practices</a></li>
-</ul>
+- <a href="quality-criteria/">Quality Criteria</a>
+- <a href="red-flags/">Identifying Red Flags</a>
+- <a href="best-practices/">Validation Best Practices</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 5. Advanced Topics
-<ul>
-<li><a href="dispute-resolution/">Dispute Resolution</a></li>
-<li><a href="ecosystem-governance/">Ecosystem Governance</a></li>
-<li><a href="anchor-council/">Anchor Council</a></li>
-</ul>
+- <a href="dispute-resolution/">Dispute Resolution</a>
+- <a href="ecosystem-governance/">Ecosystem Governance</a>
+- <a href="anchor-council/">Anchor Council</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 6. Growth & Rewards
-<ul>
-<li><a href="anchor-progression/">Progression Levels</a></li>
-<li><a href="compensation/">Compensation Structure</a></li>
-<li><a href="reputation-management/">Reputation Management</a></li>
-</ul>
+- <a href="anchor-progression/">Progression Levels</a>
+- <a href="compensation/">Compensation Structure</a>
+- <a href="reputation-management/">Reputation Management</a>
 
 </div>
 </div>
@@ -102,26 +90,14 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <div class="arena-card" markdown="1">
 
 ### Minimum Requirements
-<ul>
-<li>✅ Successful venture exit (any ecosystem)</li>
-<li>✅ 5+ years building experience</li>
-<li>✅ Strong reputation in community</li>
-<li>✅ Time commitment availability</li>
-<li>✅ Stake requirement met</li>
-</ul>
+- ✅ Successful venture exit (any ecosystem)- ✅ 5+ years building experience- ✅ Strong reputation in community- ✅ Time commitment availability- ✅ Stake requirement met
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### Preferred Qualifications
-<ul>
-<li>🌟 Multiple successful ventures</li>
-<li>🌟 Domain expertise in key areas</li>
-<li>🌟 Mentorship experience</li>
-<li>🌟 Technical due diligence skills</li>
-<li>🌟 Network connections</li>
-</ul>
+- 🌟 Multiple successful ventures- 🌟 Domain expertise in key areas- 🌟 Mentorship experience- 🌟 Technical due diligence skills- 🌟 Network connections
 
 </div>
 </div>
@@ -142,24 +118,14 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <div class="arena-card" markdown="1">
 
 #### 📋 Checklists
-<ul>
-<li>Milestone Validation Checklist</li>
-<li>Technical Review Template</li>
-<li>Market Validation Framework</li>
-<li>Team Assessment Guide</li>
-</ul>
+- Milestone Validation Checklist- Technical Review Template- Market Validation Framework- Team Assessment Guide
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 #### 🔍 Assessment Tools
-<ul>
-<li>Code Review Platform</li>
-<li>Market Analysis Dashboard</li>
-<li>Team Performance Metrics</li>
-<li>Risk Assessment Matrix</li>
-</ul>
+- Code Review Platform- Market Analysis Dashboard- Team Performance Metrics- Risk Assessment Matrix
 
 </div>
 </div>
@@ -179,14 +145,16 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <div class="arena-card" markdown="1">
 
 #### The Architect
-<p>Master Anchor who guided 12 ventures to Ascension, specializing in technical architecture and scalability.</p>
+Master Anchor who guided 12 ventures to Ascension, specializing in technical architecture and scalability.
+
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 #### The Strategist
-<p>Council Member known for helping ventures navigate difficult pivots and find product-market fit.</p>
+Council Member known for helping ventures navigate difficult pivots and find product-market fit.
+
 
 </div>
 </div>

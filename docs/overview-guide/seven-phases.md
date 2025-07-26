@@ -47,7 +47,8 @@ graph LR
 <div class="arena-card" markdown="1">
 
 ### 🎯 Objective
-<p>Transform a remixed IP concept into a validated venture idea with initial community support.</p>
+Transform a remixed IP concept into a validated venture idea with initial community support.
+
 
 **Key Activities:**
 
@@ -85,7 +86,8 @@ graph LR
 <div class="arena-card" markdown="1">
 
 ### 🏆 Objective
-<p>Determine the most capable founder through competitive dueling.</p>
+Determine the most capable founder through competitive dueling.
+
 
 **Duel Format:**
 
@@ -121,7 +123,8 @@ graph LR
 <div class="arena-card" markdown="1">
 
 ### 🔨 Objective
-<p>Form Container DAO, assemble team, and deliver initial MVP.</p>
+Form Container DAO, assemble team, and deliver initial MVP.
+
 
 **Critical Tasks:**
 
@@ -169,7 +172,8 @@ graph TD
 <div class="arena-card" markdown="1">
 
 ### 🎯 Objective
-<p>Iterate rapidly to find product-market fit through community feedback.</p>
+Iterate rapidly to find product-market fit through community feedback.
+
 
 **Key Characteristics:**
 
@@ -215,7 +219,8 @@ When pivoting during Drift:
 <div class="arena-card" markdown="1">
 
 ### 🎯 Objective
-<p>Establish sustainable operations with consistent growth and reliable delivery.</p>
+Establish sustainable operations with consistent growth and reliable delivery.
+
 
 **Orbit Characteristics:**
 
@@ -262,7 +267,8 @@ graph LR
 <div class="arena-card" markdown="1">
 
 ### 🚀 Objective
-<p>Scale rapidly with external capital and aggressive expansion.</p>
+Scale rapidly with external capital and aggressive expansion.
+
 
 **Flare Characteristics:**
 
@@ -309,7 +315,8 @@ gross_margins = > 70%  # For software
 <div class="arena-card" markdown="1">
 
 ### 👑 Objective
-<p>Graduate from Studio3 oversight to complete independence.</p>
+Graduate from Studio3 oversight to complete independence.
+
 
 **Ascension Requirements:**
 

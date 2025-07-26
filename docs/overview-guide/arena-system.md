@@ -9,6 +9,7 @@ The Arena is Studio3's revolutionary public execution environment where ventures
 ### The Digital Colosseum
 
 An Arena is a transparent, public space where:
+
 - **Ventures declare** their milestones
 - **Supporters signal** their belief or doubt
 - **Progress unfolds** in real-time

@@ -12,42 +12,33 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
     <div class="arena-card" markdown="1">
 
 ### 🎨 Spark NFT
-        <p><strong>The Origin</strong></p>
-        <p>Represents the original idea and IP combination</p>
-        <ul>
-            <li>Created from Flambette marketplace</li>
-            <li>Contains remixed IP metadata</li>
-            <li>Tradeable and collectible</li>
-            <li>Required for Forge entry</li>
-        </ul>
+        <strong>The Origin</strong>
+
+        Represents the original idea and IP combination
+
+        - Created from Flambette marketplace- Contains remixed IP metadata- Tradeable and collectible- Required for Forge entry
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 ### 📡 Signal NFT
-        <p><strong>The Journey</strong></p>
-        <p>Dynamic NFT tracking the venture's entire lifecycle</p>
-        <ul>
-            <li>Awarded to Forge winner</li>
-            <li>Updates with each milestone</li>
-            <li>Records all signals received</li>
-            <li>Becomes more valuable over time</li>
-        </ul>
+        <strong>The Journey</strong>
+
+        Dynamic NFT tracking the venture's entire lifecycle
+
+        - Awarded to Forge winner- Updates with each milestone- Records all signals received- Becomes more valuable over time
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 ### 🛡️ Halo NFT
-        <p><strong>The Achievement</strong></p>
-        <p>Soulbound proof of successful graduation</p>
-        <ul>
-            <li>Created at venture inception</li>
-            <li>Locked until Ascension</li>
-            <li>Non-transferable honor</li>
-            <li>Unlocks sovereign rights</li>
-        </ul>
+        <strong>The Achievement</strong>
+
+        Soulbound proof of successful graduation
+
+        - Created at venture inception- Locked until Ascension- Non-transferable honor- Unlocks sovereign rights
 
 </div>
 </div>
@@ -127,14 +118,13 @@ graph TD
 <div class="arena-card" markdown="1">
 
 ### 🎨 Visual Evolution
-<p>The Signal NFT's appearance changes based on:</p>
-<ul>
-    <li><strong>Phase Progress:</strong> Color shifts with each phase</li>
-    <li><strong>Signal Strength:</strong> Brightness indicates support</li>
-    <li><strong>Milestone Success:</strong> New elements appear</li>
-    <li><strong>Community Size:</strong> Complexity increases</li>
-    <li><strong>Time Active:</strong> Aged patina develops</li>
-</ul>
+The Signal NFT's appearance changes based on:
+
+- <strong>Phase Progress:</strong> Color shifts with each phase
+- <strong>Signal Strength:</strong> Brightness indicates support
+- <strong>Milestone Success:</strong> New elements appear
+- <strong>Community Size:</strong> Complexity increases
+- <strong>Time Active:</strong> Aged patina develops
 
 </div>
 
@@ -251,13 +241,9 @@ sequenceDiagram
 <div class="arena-card" markdown="1">
 
 ### 🔗 The Trinity Effect
-<p>When all three NFTs are united in one wallet:</p>
-<ul>
-    <li>🎨 <strong>Spark</strong> provides the origin story</li>
-    <li>📡 <strong>Signal</strong> shows the journey</li>
-    <li>🛡️ <strong>Halo</strong> proves the achievement</li>
-</ul>
-<p><strong>Result:</strong> Complete sovereignty over the venture's future</p>
+When all three NFTs are united in one wallet:
+
+- 🎨 <strong>Spark</strong> provides the origin story- 📡 <strong>Signal</strong> shows the journey- 🛡️ <strong>Halo</strong> proves the achievement<strong>Result:</strong> Complete sovereignty over the venture's future
 
 </div>
 
@@ -319,6 +305,7 @@ interface IHaloNFT {
 ### Metadata Standards
 
 All NFTs follow extended ERC-721 with:
+
 - On-chain core properties
 - IPFS metadata for rich content
 - Upgradeable visual renderers
@@ -373,9 +360,12 @@ A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
 <div class="arena-card" markdown="1">
 
 #### 🌟 The First Trinity
-<p><strong>Venture:</strong> DecentralHealth</p>
-<p><strong>Journey:</strong> 18 months from Spark to Sovereignty</p>
-<p><strong>Current Value:</strong> Spark (50 ETH), Signal (200 ETH), Halo (Priceless)</p>
+<strong>Venture:</strong> DecentralHealth
+
+<strong>Journey:</strong> 18 months from Spark to Sovereignty
+
+<strong>Current Value:</strong> Spark (50 ETH), Signal (200 ETH), Halo (Priceless)
+
 <blockquote>"Watching our Signal NFT evolve with each milestone was magical. When we finally unlocked our Halo, it felt like graduation day." - DecentralHealth Founder</blockquote>
 
 </div>

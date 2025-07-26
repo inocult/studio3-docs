@@ -52,78 +52,42 @@ All phase transitions require:
     <div class="arena-card" markdown="1">
 
 #### ✨ Spark → Forge
-        <ul>
-            <li>100+ $SIGNAL in belief</li>
-            <li>10+ unique supporters</li>
-            <li>Clear problem-solution fit</li>
-            <li>Feasible execution plan</li>
-            <li>7-day minimum duration</li>
-        </ul>
+        - 100+ $SIGNAL in belief- 10+ unique supporters- Clear problem-solution fit- Feasible execution plan- 7-day minimum duration
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 #### ⚔️ Forge → Ignition
-        <ul>
-            <li>Win founder duel</li>
-            <li>Claim Signal NFT</li>
-            <li>1,000+ $SIGNAL staked</li>
-            <li>Present winning vision</li>
-            <li>Automatic upon victory</li>
-        </ul>
+        - Win founder duel- Claim Signal NFT- 1,000+ $SIGNAL staked- Present winning vision- Automatic upon victory
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 #### 🚀 Ignition → Drift
-        <ul>
-            <li>Container DAO formed</li>
-            <li>Core team assembled (3+)</li>
-            <li>MVP launched publicly</li>
-            <li>Initial users onboarded</li>
-            <li>14-day minimum</li>
-        </ul>
+        - Container DAO formed- Core team assembled (3+)- MVP launched publicly- Initial users onboarded- 14-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 #### 🌊 Drift → Orbit
-        <ul>
-            <li>Product-market fit signals</li>
-            <li>40%+ user retention</li>
-            <li>Sustainable unit economics</li>
-            <li>Clear growth trajectory</li>
-            <li>60-day minimum</li>
-        </ul>
+        - Product-market fit signals- 40%+ user retention- Sustainable unit economics- Clear growth trajectory- 60-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 #### 🛸 Orbit → Flare
-        <ul>
-            <li>6 months stable operations</li>
-            <li>80%+ milestone success rate</li>
-            <li>Revenue/usage growing 10%+ monthly</li>
-            <li>External funding interest</li>
-            <li>180-day minimum</li>
-        </ul>
+        - 6 months stable operations- 80%+ milestone success rate- Revenue/usage growing 10%+ monthly- External funding interest- 180-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 #### 🔥 Flare → Ascension
-        <ul>
-            <li>Funding secured</li>
-            <li>20+ team members</li>
-            <li>Market leadership position</li>
-            <li>Buyback funds available</li>
-            <li>180-day minimum</li>
-        </ul>
+        - Funding secured- 20+ team members- Market leadership position- Buyback funds available- 180-day minimum
 
 </div>
 </div>

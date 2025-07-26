@@ -12,42 +12,33 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
     <div class="arena-card" markdown="1">
 
 ### 🏗️ Senders (Founders)
-        <p><strong>The Builders</strong></p>
-        <p>Entrepreneurs who transform ideas into ventures through transparent execution</p>
-        <ul>
-            <li>Create and lead ventures</li>
-            <li>Execute public milestones</li>
-            <li>Build in the Arena</li>
-            <li>Achieve sovereignty</li>
-        </ul>
+        <strong>The Builders</strong>
+
+        Entrepreneurs who transform ideas into ventures through transparent execution
+
+        - Create and lead ventures- Execute public milestones- Build in the Arena- Achieve sovereignty
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 ### 📡 Echoes (Supporters)
-        <p><strong>The Believers</strong></p>
-        <p>Community members who signal conviction through token stakes</p>
-        <ul>
-            <li>Evaluate ventures</li>
-            <li>Signal belief or doubt</li>
-            <li>Earn from accuracy</li>
-            <li>Guide through wisdom</li>
-        </ul>
+        <strong>The Believers</strong>
+
+        Community members who signal conviction through token stakes
+
+        - Evaluate ventures- Signal belief or doubt- Earn from accuracy- Guide through wisdom
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 ### ⚓ Anchors (Validators)
-        <p><strong>The Guardians</strong></p>
-        <p>Experienced builders who ensure quality and provide guidance</p>
-        <ul>
-            <li>Validate milestones</li>
-            <li>Mentor founders</li>
-            <li>Maintain standards</li>
-            <li>Resolve disputes</li>
-        </ul>
+        <strong>The Guardians</strong>
+
+        Experienced builders who ensure quality and provide guidance
+
+        - Validate milestones- Mentor founders- Maintain standards- Resolve disputes
 
 </div>
 </div>

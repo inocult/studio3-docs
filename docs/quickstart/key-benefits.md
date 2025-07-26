@@ -7,6 +7,7 @@
 ### 🎯 The Core Value Proposition
 
 Studio3 solves the biggest problems in venture building:
+
 - **Access** - Anyone can participate based on merit
 - **Transparency** - No more black box decisions
 - **Alignment** - Everyone wins when ventures succeed
@@ -190,6 +191,7 @@ From day one, you have:
 ### 🔗 Value Compounds with Growth
 
 As more people join:
+
 - **More ventures** = More opportunities
 - **More signals** = Better price discovery
 - **More validators** = Higher quality
@@ -200,6 +202,7 @@ As more people join:
 ### 2. Aligned Incentives
 
 Everyone benefits from the same outcome:
+
 - **Founders** want to build great ventures
 - **Echoes** want ventures to succeed
 - **Anchors** want quality outcomes

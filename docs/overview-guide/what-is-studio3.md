@@ -7,7 +7,8 @@ Studio3 is a revolutionary venture building platform that transforms how startup
 <div class="arena-card" markdown="1">
 
 ### Where Belief Becomes Momentum
-<p>Studio3 creates an ecosystem where great ideas can find support, validation, and resources through a transparent, community-driven process. By gamifying the entrepreneurship journey and aligning incentives across all participants, we're building the future of venture creation.</p>
+Studio3 creates an ecosystem where great ideas can find support, validation, and resources through a transparent, community-driven process. By gamifying the entrepreneurship journey and aligning incentives across all participants, we're building the future of venture creation.
+
 
 </div>
 
@@ -46,42 +47,48 @@ Everyone wins when ventures succeed:
 <div class="arena-card" markdown="1">
 
 ### 1. Ideas Enter
-<p>Ventures begin as Spark NFTs created from remixed intellectual property</p>
+Ventures begin as Spark NFTs created from remixed intellectual property
+
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 2. Founders Compete
-<p>Forge Duels determine who leads each venture forward</p>
+Forge Duels determine who leads each venture forward
+
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 3. Building Begins
-<p>Winners form Container DAOs and start public development</p>
+Winners form Container DAOs and start public development
+
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 4. Community Signals
-<p>Supporters express belief or doubt through $SIGNAL tokens</p>
+Supporters express belief or doubt through $SIGNAL tokens
+
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 5. Progress Validated
-<p>Anchors verify milestones and guide development</p>
+Anchors verify milestones and guide development
+
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 6. Ventures Graduate
-<p>Successful ventures achieve sovereignty through Ascension</p>
+Successful ventures achieve sovereignty through Ascension
+
 
 </div>
 </div>
@@ -102,12 +109,10 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 <div class="arena-card" markdown="1">
 
 ### For the Startup Ecosystem
-<ul>
-<li><strong>Reduced Failure Rate</strong> - Community validation catches issues early</li>
-<li><strong>Better Resource Allocation</strong> - Support flows to promising ventures</li>
-<li><strong>Faster Iteration</strong> - Public feedback accelerates learning</li>
-<li><strong>Stronger Networks</strong> - Built-in community from day one</li>
-</ul>
+- <strong>Reduced Failure Rate</strong> - Community validation catches issues early
+- <strong>Better Resource Allocation</strong> - Support flows to promising ventures
+- <strong>Faster Iteration</strong> - Public feedback accelerates learning
+- <strong>Stronger Networks</strong> - Built-in community from day one
 
 </div>
 

@@ -205,6 +205,7 @@ graph LR
 #### 🌱 Complete Beginner
 
 Start as an **Echo** with small signals to:
+
 - Learn the ecosystem
 - Build reputation
 - Network with others
@@ -218,6 +219,7 @@ Start as an **Echo** with small signals to:
 #### 🚀 Experienced Entrepreneur
 
 Jump in as a **Sender** if you have:
+
 - Clear venture idea
 - Execution track record
 - Risk tolerance
@@ -231,6 +233,7 @@ Jump in as a **Sender** if you have:
 #### 🎓 Industry Expert
 
 Consider **Anchor** role if you have:
+
 - 5+ years experience
 - Mentorship history
 - Quality standards

@@ -249,26 +249,18 @@ flowchart TD
     <div class="arena-card" markdown="1">
 
 #### ⏱️ Short-term Alignment
-        <p><strong>Immediate Rewards for Good Behavior</strong></p>
-        <ul>
-            <li>Quick signal returns</li>
-            <li>Milestone funding</li>
-            <li>Validation fees</li>
-            <li>Daily XP gains</li>
-        </ul>
+        <strong>Immediate Rewards for Good Behavior</strong>
+
+        - Quick signal returns- Milestone funding- Validation fees- Daily XP gains
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 #### 📈 Long-term Alignment
-        <p><strong>Compound Benefits for Patience</strong></p>
-        <ul>
-            <li>Reputation accumulation</li>
-            <li>Network building</li>
-            <li>Venture graduation</li>
-            <li>Ecosystem ownership</li>
-        </ul>
+        <strong>Compound Benefits for Patience</strong>
+
+        - Reputation accumulation- Network building- Venture graduation- Ecosystem ownership
 
 </div>
 </div>

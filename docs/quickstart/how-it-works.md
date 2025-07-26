@@ -51,6 +51,7 @@
 ### 🏗️ Public Development
 
 The winning founder:
+
 - Forms a **Container DAO** (lightweight governance structure)
 - Declares specific **milestones** with deadlines
 - Works transparently with daily updates

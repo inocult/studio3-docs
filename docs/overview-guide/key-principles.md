@@ -19,6 +19,7 @@ In traditional venture building, progress happens behind closed doors. Studio3 f
 - **All successes** are celebrated openly
 
 This radical transparency creates:
+
 - **Accountability** through public commitment
 - **Trust** through verifiable progress
 - **Learning** through shared experiences
@@ -122,6 +123,7 @@ graph LR
 ```
 
 Ventures gradually gain independence:
+
 1. **Start** with platform support
 2. **Grow** with community governance
 3. **Mature** with increasing autonomy
@@ -146,6 +148,7 @@ Failure isn't hidden or minimized:
 ### Trust Builds Over Time
 
 Reputation (XP) in Studio3:
+
 - **Cannot be bought** - only earned
 - **Cannot be transferred** - tied to identity
 - **Cannot be gamed** - based on results
@@ -193,18 +196,24 @@ These aren't just ideas - they're daily practices:
 <div class="arena-card" markdown="1">
 
 #### 🌟 Case Study: OpenHealth Venture
-<p><strong>Principle Applied:</strong> Radical Transparency</p>
-<p>When OpenHealth hit technical challenges in Phase 3, they shared their struggles publicly. The community rallied with technical support, and they pivoted successfully.</p>
-<p><strong>Result:</strong> Stronger product, loyal community, successful graduation</p>
+<strong>Principle Applied:</strong> Radical Transparency
+
+When OpenHealth hit technical challenges in Phase 3, they shared their struggles publicly. The community rallied with technical support, and they pivoted successfully.
+
+<strong>Result:</strong> Stronger product, loyal community, successful graduation
+
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 #### 💥 Case Study: QuickFlip Failure
-<p><strong>Principle Applied:</strong> Failure as Feature</p>
-<p>QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their detailed post-mortem became required reading for new founders.</p>
-<p><strong>Result:</strong> Expensive lesson that improved ecosystem quality</p>
+<strong>Principle Applied:</strong> Failure as Feature
+
+QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their detailed post-mortem became required reading for new founders.
+
+<strong>Result:</strong> Expensive lesson that improved ecosystem quality
+
 
 </div>
 
@@ -224,6 +233,7 @@ These aren't just ideas - they're daily practices:
 ### Continuous Refinement
 
 These principles evolve through:
+
 - **Community feedback** shapes interpretation
 - **Edge cases** refine implementation
 - **Success patterns** inform best practices

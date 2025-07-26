@@ -21,6 +21,7 @@ This quickstart guide gives you the essential overview of Studio3 in just a few 
 ### ⏱️ Reading Time: 5 minutes
 
 Perfect for:
+
 - First-time visitors
 - Potential participants
 - Investors evaluating Studio3

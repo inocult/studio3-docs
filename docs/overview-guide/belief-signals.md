@@ -14,24 +14,18 @@ Signals are token-backed predictions about a venture's ability to achieve specif
     <div class="arena-card" markdown="1">
 
 ### 👍 Belief Signals
-        <p>Express confidence that a milestone will be achieved</p>
-        <ul>
-            <li>Stake $SIGNAL tokens on success</li>
-            <li>Earn multipliers if correct (1.5x - 3x)</li>
-            <li>Lose entire stake if wrong</li>
-        </ul>
+        Express confidence that a milestone will be achieved
+
+        - Stake $SIGNAL tokens on success- Earn multipliers if correct (1.5x - 3x)- Lose entire stake if wrong
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 ### 👎 Doubt Signals
-        <p>Express skepticism that a milestone will be achieved</p>
-        <ul>
-            <li>Stake $SIGNAL tokens on failure</li>
-            <li>Earn multipliers if correct (1.2x - 2x)</li>
-            <li>Lose entire stake if wrong</li>
-        </ul>
+        Express skepticism that a milestone will be achieved
+
+        - Stake $SIGNAL tokens on failure- Earn multipliers if correct (1.2x - 2x)- Lose entire stake if wrong
 
 </div>
 </div>
@@ -334,9 +328,12 @@ A: Immediately after validation completes.
 <div class="arena-card" markdown="1">
 
 #### 🏆 EchoMaster_7
-<p><strong>Stats:</strong> 342 signals, 78% accuracy</p>
-<p><strong>Specialty:</strong> Technical infrastructure milestones</p>
-<p><strong>Best Call:</strong> 2.9x on CloudScale's Phase 5</p>
+<strong>Stats:</strong> 342 signals, 78% accuracy
+
+<strong>Specialty:</strong> Technical infrastructure milestones
+
+<strong>Best Call:</strong> 2.9x on CloudScale's Phase 5
+
 <blockquote>"I only signal on what I understand deeply. Better to miss opportunities than lose on ignorance."</blockquote>
 
 </div>
@@ -344,9 +341,12 @@ A: Immediately after validation completes.
 <div class="arena-card" markdown="1">
 
 #### 🌟 SignalSavant
-<p><strong>Stats:</strong> 567 signals, 71% accuracy</p>
-<p><strong>Specialty:</strong> Early-stage technical ventures</p>
-<p><strong>Strategy:</strong> Small stakes, high volume</p>
+<strong>Stats:</strong> 567 signals, 71% accuracy
+
+<strong>Specialty:</strong> Early-stage technical ventures
+
+<strong>Strategy:</strong> Small stakes, high volume
+
 <blockquote>"Diversification is my protection. I'd rather earn steady 1.5x returns than chase 3x moonshots."</blockquote>
 
 </div>

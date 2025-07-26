@@ -214,26 +214,18 @@ graph LR
     <div class="arena-card" markdown="1">
 
 #### 🎭 Scenario: Pivot Decision
-        <p><strong>Participants:</strong> Sender + Multiple Echoes + Anchor</p>
-        <ul>
-            <li>Sender proposes major pivot</li>
-            <li>Echoes debate merits</li>
-            <li>Anchor provides expert opinion</li>
-            <li>Collective decision emerges</li>
-        </ul>
+        <strong>Participants:</strong> Sender + Multiple Echoes + Anchor
+
+        - Sender proposes major pivot- Echoes debate merits- Anchor provides expert opinion- Collective decision emerges
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 #### ⚖️ Scenario: Disputed Validation
-        <p><strong>Participants:</strong> Sender + Echoes + Multiple Anchors</p>
-        <ul>
-            <li>Sender claims success</li>
-            <li>Primary Anchor disagrees</li>
-            <li>Echoes split on outcome</li>
-            <li>Anchor Council decides</li>
-        </ul>
+        <strong>Participants:</strong> Sender + Echoes + Multiple Anchors
+
+        - Sender claims success- Primary Anchor disagrees- Echoes split on outcome- Anchor Council decides
 
 </div>
 </div>

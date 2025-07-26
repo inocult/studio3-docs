@@ -11,7 +11,8 @@
 
 ### ⚡ 5-Minute Introduction
 
-<p>New to Studio3? Get the essence of our platform in just 5 minutes with our Quickstart guide.</p>
+New to Studio3? Get the essence of our platform in just 5 minutes with our Quickstart guide.
+
 
 <div class="card-actions">
 <a href="quickstart/" class="md-button md-button--primary">Start Here</a>
@@ -48,8 +49,10 @@
 <div class="arena-card" markdown="1">
 
 ### 🌐 Overview Guide
-<p>Complete introduction to Studio3's venture building platform, core concepts, and ecosystem mechanics.</p>
-<p><strong>Perfect for:</strong> New users, investors, and anyone wanting to understand Studio3</p>
+Complete introduction to Studio3's venture building platform, core concepts, and ecosystem mechanics.
+
+<strong>Perfect for:</strong> New users, investors, and anyone wanting to understand Studio3
+
 <div class="card-actions">
 <a href="overview-guide/" class="md-button md-button--primary">Browse Guide</a>
 <a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
@@ -60,8 +63,10 @@
 <div class="arena-card" markdown="1">
 
 ### 🏗️ Senders Guide
-<p>Everything founders need to build ventures through Studio3's transparent, gamified ecosystem.</p>
-<p><strong>Perfect for:</strong> Entrepreneurs, builders, and teams ready to launch ventures</p>
+Everything founders need to build ventures through Studio3's transparent, gamified ecosystem.
+
+<strong>Perfect for:</strong> Entrepreneurs, builders, and teams ready to launch ventures
+
 <div class="card-actions">
 <a href="senders-guide/" class="md-button md-button--primary">Browse Guide</a>
 <a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
@@ -72,8 +77,10 @@
 <div class="arena-card" markdown="1">
 
 ### 📡 Echoes Guide
-<p>Master the art of signaling belief, earning rewards, and supporting ventures to success.</p>
-<p><strong>Perfect for:</strong> Supporters, investors, and community members</p>
+Master the art of signaling belief, earning rewards, and supporting ventures to success.
+
+<strong>Perfect for:</strong> Supporters, investors, and community members
+
 <div class="card-actions">
 <a href="echoes-guide/" class="md-button md-button--primary">Browse Guide</a>
 <a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
@@ -84,8 +91,10 @@
 <div class="arena-card" markdown="1">
 
 ### ⚓ Anchors Guide
-<p>Essential handbook for validators who guide ventures and maintain ecosystem integrity.</p>
-<p><strong>Perfect for:</strong> Experienced builders, mentors, and ecosystem validators</p>
+Essential handbook for validators who guide ventures and maintain ecosystem integrity.
+
+<strong>Perfect for:</strong> Experienced builders, mentors, and ecosystem validators
+
 <div class="card-actions">
 <a href="anchors-guide/" class="md-button md-button--primary">Browse Guide</a>
 <a href="pdf/anchors-guide.pdf" class="md-button">Download PDF</a>

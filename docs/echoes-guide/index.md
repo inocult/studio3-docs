@@ -15,66 +15,54 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="arena-card" markdown="1">
 
 ### 1. Echo Fundamentals
-<ul>
-<li><a href="echo-basics/">Understanding Your Role</a></li>
-<li><a href="signal-mechanics/">Signal Mechanics</a></li>
-<li><a href="rewards-system/">Rewards & Risks</a></li>
-</ul>
+- <a href="echo-basics/">Understanding Your Role</a>
+- <a href="signal-mechanics/">Signal Mechanics</a>
+- <a href="rewards-system/">Rewards & Risks</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 2. Getting Started
-<ul>
-<li><a href="first-signals/">Your First Signals</a></li>
-<li><a href="token-management/">Managing $SIGNAL Tokens</a></li>
-<li><a href="reputation-building/">Building Reputation</a></li>
-</ul>
+- <a href="first-signals/">Your First Signals</a>
+- <a href="token-management/">Managing $SIGNAL Tokens</a>
+- <a href="reputation-building/">Building Reputation</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 3. Venture Analysis
-<ul>
-<li><a href="evaluating-ventures/">Evaluating Ventures</a></li>
-<li><a href="reading-signals/">Reading Market Signals</a></li>
-<li><a href="due-diligence/">Due Diligence Framework</a></li>
-</ul>
+- <a href="evaluating-ventures/">Evaluating Ventures</a>
+- <a href="reading-signals/">Reading Market Signals</a>
+- <a href="due-diligence/">Due Diligence Framework</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 4. Signal Strategies
-<ul>
-<li><a href="belief-strategies/">When to Believe</a></li>
-<li><a href="doubt-strategies/">Strategic Doubt</a></li>
-<li><a href="portfolio-management/">Portfolio Management</a></li>
-</ul>
+- <a href="belief-strategies/">When to Believe</a>
+- <a href="doubt-strategies/">Strategic Doubt</a>
+- <a href="portfolio-management/">Portfolio Management</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 5. Advanced Tactics
-<ul>
-<li><a href="phase-strategies/">Phase-Based Strategies</a></li>
-<li><a href="contrarian-plays/">Contrarian Opportunities</a></li>
-<li><a href="risk-management/">Risk Management</a></li>
-</ul>
+- <a href="phase-strategies/">Phase-Based Strategies</a>
+- <a href="contrarian-plays/">Contrarian Opportunities</a>
+- <a href="risk-management/">Risk Management</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### 6. Community & Growth
-<ul>
-<li><a href="community-engagement/">Community Participation</a></li>
-<li><a href="influence-building/">Building Influence</a></li>
-<li><a href="echo-networks/">Echo Networks</a></li>
-</ul>
+- <a href="community-engagement/">Community Participation</a>
+- <a href="influence-building/">Building Influence</a>
+- <a href="echo-networks/">Echo Networks</a>
 
 </div>
 </div>
@@ -102,24 +90,20 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="arena-card" markdown="1">
 
 ### Key Metrics
-<ul>
-<li><strong>Accuracy Rate</strong> - Signal success percentage</li>
-<li><strong>Token Returns</strong> - Multiplication achieved</li>
-<li><strong>XP Level</strong> - Experience progression</li>
-<li><strong>Reputation Score</strong> - Community standing</li>
-</ul>
+- <strong>Accuracy Rate</strong> - Signal success percentage
+- <strong>Token Returns</strong> - Multiplication achieved
+- <strong>XP Level</strong> - Experience progression
+- <strong>Reputation Score</strong> - Community standing
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 ### Leaderboards
-<ul>
-<li><strong>Top Echoes</strong> - Overall performance</li>
-<li><strong>Phase Specialists</strong> - Phase-specific experts</li>
-<li><strong>Contrarians</strong> - Against-the-grain winners</li>
-<li><strong>Consistent Performers</strong> - Steady returners</li>
-</ul>
+- <strong>Top Echoes</strong> - Overall performance
+- <strong>Phase Specialists</strong> - Phase-specific experts
+- <strong>Contrarians</strong> - Against-the-grain winners
+- <strong>Consistent Performers</strong> - Steady returners
 
 </div>
 </div>
@@ -130,24 +114,14 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="arena-card" markdown="1">
 
 #### 📚 Essential Reading
-<ul>
-<li>Signal Psychology 101</li>
-<li>Venture Evaluation Basics</li>
-<li>Risk vs Reward Analysis</li>
-<li>Community Dynamics</li>
-</ul>
+- Signal Psychology 101- Venture Evaluation Basics- Risk vs Reward Analysis- Community Dynamics
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 #### 🛠️ Tools & Calculators
-<ul>
-<li>Signal ROI Calculator</li>
-<li>Portfolio Analyzer</li>
-<li>Risk Assessment Tool</li>
-<li>Performance Tracker</li>
-</ul>
+- Signal ROI Calculator- Portfolio Analyzer- Risk Assessment Tool- Performance Tracker
 
 </div>
 </div>
@@ -169,14 +143,16 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="arena-card" markdown="1">
 
 #### The Contrarian
-<p>Turned 1,000 $SIGNAL into 127,000 by correctly doubting overhyped ventures and believing in overlooked gems.</p>
+Turned 1,000 $SIGNAL into 127,000 by correctly doubting overhyped ventures and believing in overlooked gems.
+
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 #### The Specialist
-<p>Focused exclusively on DeFi ventures, achieving 89% accuracy through deep domain expertise.</p>
+Focused exclusively on DeFi ventures, achieving 89% accuracy through deep domain expertise.
+
 
 </div>
 </div>
