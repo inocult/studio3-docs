@@ -244,10 +244,10 @@ body {
 
 .arena-card ul,
 .arena-card ol {
-  margin: 1rem 0;
-  padding-left: 1.5rem;
-  list-style-position: outside;
-  display: block;
+  margin: 1rem 0 !important;
+  padding-left: 1.5rem !important;
+  list-style-position: outside !important;
+  display: block !important;
 }
 
 .arena-card ul:last-child,
@@ -258,13 +258,20 @@ body {
 .arena-card li {
   margin: 0.5rem 0;
   line-height: 1.6;
-  display: list-item;
+  display: list-item !important;
+  list-style: disc;
 }
 
 .arena-card li strong,
 .arena-card strong {
   color: var(--studio3-navy);
   font-weight: 600;
+}
+
+/* Fix inline list issue in arena cards */
+.arena-card li p {
+  display: block !important;
+  margin: 0;
 }
 
 .arena-card code {
