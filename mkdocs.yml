@@ -1,5 +1,5 @@
-site_name: Studio3 Guide
-site_description: The Complete Guide to Building Ventures Through Belief-Driven Arenas
+site_name: Studio3 Guides
+site_description: Complete documentation for Studio3 - Where Belief Becomes Momentum
 site_url: https://studio3.guide
 site_author: Studio3 Team
 
@@ -7,6 +7,7 @@ theme:
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
+  custom_dir: overrides
   
   palette:
     # Light mode
@@ -66,7 +67,7 @@ plugins:
       media_type: print
       enabled_if_env: ENABLE_PDF_EXPORT
       combined: true
-      combined_output_path: pdf/studio3-guide.pdf
+      combined_output_path: pdf/studio3-complete-guide.pdf
 
 markdown_extensions:
   - abbr
@@ -131,92 +132,111 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Getting Started:
-    - getting-started/index.md
-    - What is Studio3: getting-started/what-is-studio3.md
-    - Core Concepts: getting-started/core-concepts.md
-    - Understanding Roles: getting-started/roles.md
-    # - Your First Arena: getting-started/first-arena.md
-    # - Quick Start Guide: getting-started/quickstart.md
   
-  - The Arena System:
-    - arena/index.md
-    - Belief & Doubt: arena/belief-doubt.md
-    # - How Arenas Work: arena/how-arenas-work.md
-    # - Arena Types: arena/types.md
-    # - Milestone System: arena/milestones.md
-    # - Signal Mechanics: arena/signal-mechanics.md
-    # - Arena Calendar: arena/calendar.md
+  - Overview Guide:
+    - overview-guide/index.md
+    - Introduction:
+      - What is Studio3: overview-guide/what-is-studio3.md
+      - Ecosystem Overview: overview-guide/ecosystem-overview.md
+      - Key Principles: overview-guide/key-principles.md
+    - Core Concepts:
+      - The Arena System: overview-guide/arena-system.md
+      - Belief & Doubt Signals: overview-guide/belief-signals.md
+      - Three-NFT System: overview-guide/nft-system.md
+    - The Journey:
+      - Seven Phase Lifecycle: overview-guide/seven-phases.md
+      - Milestone System: overview-guide/milestones.md
+      - Progression Rules: overview-guide/progression.md
+    - Participants:
+      - Three Roles Overview: overview-guide/roles-overview.md
+      - How They Interact: overview-guide/interactions.md
+      - Aligned Incentives: overview-guide/incentives.md
+    - Economics:
+      - $SIGNAL Token: overview-guide/signal-token.md
+      - Rewards & Penalties: overview-guide/rewards-system.md
+      - Value Flow: overview-guide/value-flow.md
+    - Getting Started:
+      - Choosing Your Role: overview-guide/choosing-role.md
+      - First Steps: overview-guide/first-steps.md
+      - Resources & Support: overview-guide/resources.md
   
-  - Company Lifecycle:
-    - lifecycle/index.md
-    - Overview: lifecycle/overview.md
-    - Phase 1 - Spark: lifecycle/spark.md
-    - Phase 2 - Forge: lifecycle/forge.md
-    - Phase 3 - Ignition: lifecycle/ignition.md
-    - Phase 4 - Drift: lifecycle/drift.md
-    - Phase 5 - Orbit: lifecycle/orbit.md
-    - Phase 6 - Flare: lifecycle/flare.md
-    - Phase 7 - Ascension: lifecycle/ascension.md
-    # - TRL Progression: lifecycle/trl.md
+  - Senders Guide:
+    - senders-guide/index.md
+    - Getting Started:
+      - Founder Basics: senders-guide/founder-basics.md
+      - Requirements: senders-guide/requirements.md
+      - Creating Your Spark: senders-guide/creating-spark.md
+    - The Forge:
+      - Understanding Duels: senders-guide/forge-duels.md
+      - Winning Strategies: senders-guide/winning-strategies.md
+      - Duel Preparation: senders-guide/duel-preparation.md
+    - Building:
+      - Container DAO Setup: senders-guide/container-dao.md
+      - Milestone Planning: senders-guide/milestone-planning.md
+      - MVP Development: senders-guide/mvp-development.md
+    - Community:
+      - Engaging Supporters: senders-guide/engaging-echoes.md
+      - Handling Doubt: senders-guide/handling-doubt.md
+      - Building Momentum: senders-guide/building-momentum.md
+    - Growth:
+      - Navigating Drift: senders-guide/drift-navigation.md
+      - Achieving Orbit: senders-guide/achieving-orbit.md
+      - Flare Scaling: senders-guide/flare-scaling.md
+    - Exit:
+      - Planning Ascension: senders-guide/ascension-planning.md
+      - Buyback Process: senders-guide/buyback-process.md
+      - Post-Graduation: senders-guide/post-graduation.md
   
-  - NFT System:
-    - nfts/index.md
-    # - Spark NFT: nfts/spark.md
-    # - Signal NFT: nfts/signal.md
-    # - Halo NFT: nfts/halo.md
-    # - Genesis Wallet: nfts/genesis-wallet.md
-    # - IP Remixing: nfts/ip-remixing.md
+  - Echoes Guide:
+    - echoes-guide/index.md
+    - Fundamentals:
+      - Understanding Your Role: echoes-guide/echo-basics.md
+      - Signal Mechanics: echoes-guide/signal-mechanics.md
+      - Rewards & Risks: echoes-guide/rewards-system.md
+    - Getting Started:
+      - Your First Signals: echoes-guide/first-signals.md
+      - Managing Tokens: echoes-guide/token-management.md
+      - Building Reputation: echoes-guide/reputation-building.md
+    - Analysis:
+      - Evaluating Ventures: echoes-guide/evaluating-ventures.md
+      - Reading Signals: echoes-guide/reading-signals.md
+      - Due Diligence: echoes-guide/due-diligence.md
+    - Strategies:
+      - When to Believe: echoes-guide/belief-strategies.md
+      - Strategic Doubt: echoes-guide/doubt-strategies.md
+      - Portfolio Management: echoes-guide/portfolio-management.md
+    - Advanced:
+      - Phase Strategies: echoes-guide/phase-strategies.md
+      - Contrarian Plays: echoes-guide/contrarian-plays.md
+      - Risk Management: echoes-guide/risk-management.md
+    - Community:
+      - Participation: echoes-guide/community-engagement.md
+      - Building Influence: echoes-guide/influence-building.md
+      - Echo Networks: echoes-guide/echo-networks.md
   
-  - For Founders:
-    - founders/index.md
-    # - Preparing for Duels: founders/duels.md
-    # - Building Your MVP: founders/mvp.md
-    # - Managing Milestones: founders/milestones.md
-    # - Container DAO Model: founders/container-dao.md
-    # - Growth Strategies: founders/growth.md
-    # - Exit & Ascension: founders/exit.md
-  
-  - For Echoes:
-    - echoes/index.md
-    # - Understanding XP: echoes/xp.md
-    # - Signal Strategy: echoes/signal-strategy.md
-    # - Belief vs Doubt: echoes/belief-doubt.md
-    # - Community Participation: echoes/community.md
-    # - Advanced Tactics: echoes/advanced.md
-  
-  - For Anchors:
-    - anchors/index.md
-    # - Validation Process: anchors/validation.md
-    # - Mentorship Guide: anchors/mentorship.md
-    # - Earning & Influence: anchors/earning.md
-    # - Best Practices: anchors/best-practices.md
-  
-  - Token Economics:
-    - tokens/index.md
-    # - $SIGNAL Token: tokens/signal.md
-    # - Token Mechanics: tokens/mechanics.md
-    # - Rewards System: tokens/rewards.md
-    # - Belief Economy: tokens/belief-economy.md
-  
-  - Tools & Platform:
-    - tools/index.md
-    # - Dashboard Overview: tools/dashboard.md
-    # - Arena Interface: tools/arena-ui.md
-    # - Signal Orb: tools/signal-orb.md
-    # - Analytics & Tracking: tools/analytics.md
-    # - Flambette Integration: tools/flambette.md
-  
-  - Case Studies:
-    - cases/index.md
-    # - Successful Ventures: cases/success-stories.md
-    # - Learning from Pivots: cases/pivots.md
-    # - Community Highlights: cases/community.md
-  
-  - Resources:
-    - resources/index.md
-    # - Templates: resources/templates.md
-    # - FAQ: resources/faq.md
-    # - Glossary: resources/glossary.md
-    # - Support: resources/support.md
-
+  - Anchors Guide:
+    - anchors-guide/index.md
+    - Fundamentals:
+      - The Anchor Role: anchors-guide/anchor-role.md
+      - Responsibilities: anchors-guide/responsibilities.md
+      - Requirements: anchors-guide/requirements.md
+    - Validation:
+      - Framework: anchors-guide/validation-framework.md
+      - Milestone Review: anchors-guide/milestone-review.md
+      - Evidence Assessment: anchors-guide/evidence-assessment.md
+    - Mentorship:
+      - Guiding Founders: anchors-guide/guiding-founders.md
+      - Strategic Advice: anchors-guide/strategic-advice.md
+      - Crisis Management: anchors-guide/crisis-management.md
+    - Standards:
+      - Quality Criteria: anchors-guide/quality-criteria.md
+      - Red Flags: anchors-guide/red-flags.md
+      - Best Practices: anchors-guide/best-practices.md
+    - Advanced:
+      - Dispute Resolution: anchors-guide/dispute-resolution.md
+      - Governance: anchors-guide/ecosystem-governance.md
+      - Anchor Council: anchors-guide/anchor-council.md
+    - Growth:
+      - Progression: anchors-guide/anchor-progression.md
+      - Compensation: anchors-guide/compensation.md
+      - Reputation: anchors-guide/reputation-management.md

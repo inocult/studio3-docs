@@ -1,76 +1,95 @@
-# Welcome to Studio3
+# Studio3 Documentation
 
 <div class="hero-section">
 <h1>Where Belief Becomes Momentum</h1>
-<p class="hero-subtitle">The gamified venture building platform that transforms ideas into reality through transparent milestones, community validation, and tangible rewards.</p>
+<p class="hero-subtitle">Choose your guide to navigate the Studio3 ecosystem</p>
 </div>
 
-## 🚀 Start Your Journey
+## 📚 Available Guides
 
 <div class="grid">
 <div class="arena-card">
-<h3>🏗️ For Builders</h3>
-<p>Turn your ideas into ventures through public execution and community support.</p>
-<p><a href="getting-started/roles/#founders-senders">Start Building →</a></p>
+<h3>🌐 Overview Guide</h3>
+<p>Complete introduction to Studio3's venture building platform, core concepts, and ecosystem mechanics.</p>
+<p><strong>Perfect for:</strong> New users, investors, and anyone wanting to understand Studio3</p>
+<div class="card-actions">
+<a href="overview-guide/" class="md-button md-button--primary">Browse Guide</a>
+<a href="pdf/studio3-overview-guide.pdf" class="md-button">Download PDF</a>
+</div>
 </div>
 
 <div class="arena-card">
-<h3>📡 For Supporters</h3>
-<p>Signal belief in ventures and earn rewards for accurate predictions.</p>
-<p><a href="getting-started/roles/#supporters-echoes">Start Supporting →</a></p>
+<h3>🏗️ Senders Guide</h3>
+<p>Everything founders need to build ventures through Studio3's transparent, gamified ecosystem.</p>
+<p><strong>Perfect for:</strong> Entrepreneurs, builders, and teams ready to launch ventures</p>
+<div class="card-actions">
+<a href="senders-guide/" class="md-button md-button--primary">Browse Guide</a>
+<a href="pdf/studio3-senders-guide.pdf" class="md-button">Download PDF</a>
+</div>
 </div>
 
 <div class="arena-card">
-<h3>⚓ For Validators</h3>
-<p>Guide ventures and ensure ecosystem integrity through expert validation.</p>
-<p><a href="getting-started/roles/#validators-anchors">Start Validating →</a></p>
+<h3>📡 Echoes Guide</h3>
+<p>Master the art of signaling belief, earning rewards, and supporting ventures to success.</p>
+<p><strong>Perfect for:</strong> Supporters, investors, and community members</p>
+<div class="card-actions">
+<a href="echoes-guide/" class="md-button md-button--primary">Browse Guide</a>
+<a href="pdf/studio3-echoes-guide.pdf" class="md-button">Download PDF</a>
 </div>
-</div>
-
-## 🎯 What Makes Studio3 Different?
-
-<div class="arena-card">
-<h3>Not Your Average Incubator</h3>
-<p>Studio3 revolutionizes how ventures are built:</p>
-<ul>
-<li><strong>🏟️ Public Arenas</strong> - All progress happens transparently</li>
-<li><strong>📊 Belief Signals</strong> - Community conviction drives support</li>
-<li><strong>🎮 Gamified Journey</strong> - Seven phases from idea to sovereignty</li>
-<li><strong>🏆 Real Stakes</strong> - Success brings rewards, failure has consequences</li>
-<li><strong>🤝 Community-Driven</strong> - Collective intelligence guides development</li>
-</ul>
-</div>
-
-## 📚 Quick Links
-
-- [What is Studio3?](getting-started/what-is-studio3.md) - Understand our mission
-- [Core Concepts](getting-started/core-concepts.md) - Master the fundamentals
-- [The Arena System](arena/index.md) - Learn signal mechanics
-- [7-Phase Lifecycle](lifecycle/index.md) - Navigate the journey
-- [NFT System](nfts/index.md) - Explore the three-NFT model
-
-## 🌟 Recent Successes
-
-<div class="grid">
-<div class="arena-card">
-<h4>🚀 DataVault</h4>
-<p>Graduated to Ascension in record time with revolutionary privacy tech</p>
 </div>
 
 <div class="arena-card">
-<h4>⚡ EnergyDAO</h4>
-<p>From Spark to Flare in 6 months, now powering 10,000+ homes</p>
+<h3>⚓ Anchors Guide</h3>
+<p>Essential handbook for validators who guide ventures and maintain ecosystem integrity.</p>
+<p><strong>Perfect for:</strong> Experienced builders, mentors, and ecosystem validators</p>
+<div class="card-actions">
+<a href="anchors-guide/" class="md-button md-button--primary">Browse Guide</a>
+<a href="pdf/studio3-anchors-guide.pdf" class="md-button">Download PDF</a>
+</div>
+</div>
 </div>
 
-<div class="arena-card">
-<h4>🎮 PlayForge</h4>
-<p>Community-built gaming platform with 1M+ active users</p>
+## 🚀 Quick Start
+
+<div class="quick-start-grid">
+<div class="quick-start-card">
+<h4>New to Studio3?</h4>
+<p>Start with the <a href="overview-guide/">Overview Guide</a> to understand the ecosystem</p>
+</div>
+
+<div class="quick-start-card">
+<h4>Ready to Build?</h4>
+<p>Jump into the <a href="senders-guide/">Senders Guide</a> to launch your venture</p>
+</div>
+
+<div class="quick-start-card">
+<h4>Want to Support?</h4>
+<p>Check the <a href="echoes-guide/">Echoes Guide</a> to start signaling</p>
+</div>
+
+<div class="quick-start-card">
+<h4>Experienced Builder?</h4>
+<p>Read the <a href="anchors-guide/">Anchors Guide</a> to become a validator</p>
 </div>
 </div>
 
-## 🎓 Ready to Begin?
+## 🌟 The Studio3 Difference
 
-Start with our [Getting Started Guide](getting-started/index.md) to understand how Studio3 can transform your venture building journey.
+Studio3 transforms venture building through:
 
-!!! tip "Join the Revolution"
-    Studio3 is more than a platform - it's a movement toward transparent, community-driven innovation. Your journey starts with a single signal.
+- **🏟️ Public Arenas** - All progress happens transparently
+- **📊 Belief Signals** - Community conviction drives support  
+- **🎮 Seven Phases** - From idea spark to full sovereignty
+- **🏆 Real Stakes** - Success brings rewards, failure has consequences
+- **🤝 Community-Driven** - Collective intelligence guides development
+
+## 📖 About These Guides
+
+Each guide is:
+- **Self-contained** - Everything you need in one place
+- **Role-specific** - Tailored to your journey
+- **Downloadable** - Available as PDF for offline reading
+- **Regularly updated** - Always current with platform changes
+
+!!! tip "Choose Your Path"
+    Not sure which guide to start with? The **Overview Guide** provides a complete introduction to help you decide your role in the Studio3 ecosystem.
