@@ -4,7 +4,7 @@ The final phase where ventures achieve complete sovereignty and graduate from th
 
 ## Overview
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Ultimate Achievement</h3>
 
 Ascension represents the pinnacle of the Studio3 journey. Like a spacecraft breaking free from orbit, ventures in Ascension:
@@ -32,7 +32,7 @@ Qualifying for Ascension requires:
 ### 1. Declaration of Intent
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Formal Announcement</h4>
 
 The founding team must:
@@ -45,7 +45,7 @@ The founding team must:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Community Vote</h4>
 
 Ascension requires approval:
@@ -86,7 +86,7 @@ The ceremony includes:
 
 ### Path 1: True Independence
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Complete Sovereignty</h3>
 
 The purest form of Ascension:
@@ -118,7 +118,7 @@ Some ventures choose hybrid Ascension:
 
 ### Path 3: Ecosystem Leadership
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Giving Back</h3>
 
 Successful ventures often choose to:
@@ -147,7 +147,7 @@ Buyback pricing considers:
 ### Buyback Execution
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Payment Options</h4>
 
 - Lump sum payment
@@ -158,7 +158,7 @@ Buyback pricing considers:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Fair Value Guarantee</h4>
 
 - Independent valuation
@@ -174,7 +174,7 @@ Buyback pricing considers:
 
 ### Alumni Benefits
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Ascended Network</h3>
 
 Graduated ventures receive:
@@ -213,7 +213,7 @@ Ascension achievements to track:
 ### Legendary Ascensions
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>DataVault's Triumph</h4>
 
 - 18-month journey to Ascension
@@ -224,7 +224,7 @@ Ascension achievements to track:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>EcoChain's Legacy</h4>
 
 - 24-month complete journey
@@ -248,7 +248,7 @@ Ascension achievements to track:
 
 ### Preparing Throughout
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Start Planning Early</h3>
 
 Successful Ascensions are planned from day one:
@@ -285,7 +285,7 @@ Many founders start new journeys:
 
 ### Creating Your Legacy
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Beyond Business Success</h3>
 
 True Ascension includes:

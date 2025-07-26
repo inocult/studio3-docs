@@ -14,7 +14,7 @@ Every venture in Studio3 follows a carefully designed seven-phase journey from i
 
 ## 🎯 Lifecycle Philosophy
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Progressive Validation Model</h3>
 
 The seven phases aren't arbitrary - they map to the natural evolution of ventures:
@@ -223,22 +223,22 @@ Ascension marks the transition from Studio3 venture to sovereign company.
 Each phase transition requires:
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>✅ Milestone Completion</h4>
 All phase-specific objectives met and validated
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🏆 Anchor Approval</h4>
 Independent validation of readiness to progress
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📊 Metric Achievement</h4>
 Quantitative thresholds reached and sustained
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>⏱️ Time Requirements</h4>
 Minimum phase duration completed (no rushing)
 </div>
@@ -260,7 +260,7 @@ Ventures can move backward under certain conditions:
 
 ### Quantitative Thresholds
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <table>
 <tr>
 <th>Phase</th>
@@ -353,7 +353,7 @@ Each phase unlocks unique benefits:
 Studio3 provides different support based on phase:
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Early Phases (Spark-Ignition)</h4>
 - Idea validation tools
 - Founder matching
@@ -361,7 +361,7 @@ Studio3 provides different support based on phase:
 - Community feedback
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Middle Phases (Drift-Orbit)</h4>
 - Product development support
 - User testing resources
@@ -369,7 +369,7 @@ Studio3 provides different support based on phase:
 - Mentor networks
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Late Phases (Flare-Ascension)</h4>
 - Growth capital
 - Strategic partnerships
@@ -382,7 +382,7 @@ Studio3 provides different support based on phase:
 
 ### Fastest Phase Progressions
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏆 Speed Records</h3>
 
 - **Spark → Forge**: 3 days (DeFi Dashboard)
@@ -421,7 +421,7 @@ These records inspire but aren't targets - each venture should progress at its n
 
 ## 🚀 Your Phase Journey
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Ready to Begin?</h3>
 
 Understanding the lifecycle is just the start. Your journey will be unique, shaped by your idea, team, and market. The phases provide structure, but success comes from execution.

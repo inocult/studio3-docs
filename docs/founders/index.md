@@ -4,7 +4,7 @@ Welcome to the Founders section - your comprehensive guide to building ventures 
 
 ## 🏗️ The Builder's Journey
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>From Spark to Sovereignty</h3>
 
 As a founder in Studio3, you'll:
@@ -31,17 +31,17 @@ As a founder in Studio3, you'll:
 ## 🎯 Founder Success Factors
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📣 Communication</h4>
 Regular updates and transparent progress build trust and attract believers.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Execution</h4>
 Consistent delivery on milestones creates momentum and unlocks resources.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🤝 Community</h4>
 Engaging with supporters and incorporating feedback strengthens your venture.
 </div>

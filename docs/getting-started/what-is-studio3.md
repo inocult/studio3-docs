@@ -7,7 +7,7 @@ Studio3 is a **venture building platform** where belief becomes momentum. Unlike
 
 ## 🎯 The Studio3 Difference
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Not Your Average Incubator</h3>
 
 Studio3 breaks the mold of traditional venture building:
@@ -42,17 +42,17 @@ Successful ventures can eventually buy back their NFTs and graduate to full inde
 Every Studio3 venture is represented by three unique NFTs:
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎨 Spark NFT</h3>
 The original idea, created from remixed research and IP. This is where every venture begins.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 Signal NFT</h3>
 The venture's dynamic identity, tracking its entire journey through all seven phases.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🛡️ Halo NFT</h3>
 The soulbound mark of sovereignty, unlocked only when a venture achieves full independence.
 </div>
@@ -85,7 +85,7 @@ Each phase has specific milestones, requirements, and rewards. Progress is track
 
 ## 🔮 Why Studio3 Matters
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>For the Ecosystem</h3>
 
 - **Transparency**: All progress happens in public view
@@ -101,21 +101,21 @@ Studio3 isn't just another platform - it's a new way of building ventures that a
 ## 🚦 Ready to Begin?
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏗️ For Builders</h3>
 Have an idea? Learn how to create your Spark and enter the Arena.
 
 [Start Building →](../roles/#founders-senders)
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 For Supporters</h3>
 Want to back great ideas? Discover how to signal belief and earn rewards.
 
 [Start Supporting →](../roles/#supporters-echoes)
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚓ For Validators</h3>
 Experienced builder? Help guide ventures and validate progress.
 

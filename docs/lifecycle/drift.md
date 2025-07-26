@@ -4,7 +4,7 @@ The exploration phase where ventures find product-market fit through rapid itera
 
 ## Overview
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Navigating the Unknown</h3>
 
 Drift is where ventures discover their true path. Named for the necessary wandering that leads to product-market fit, this phase embraces:
@@ -32,7 +32,7 @@ To enter Drift from Ignition:
 ### 1. Market Discovery
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>User Research</h4>
 
 - Interview early adopters
@@ -43,7 +43,7 @@ To enter Drift from Ignition:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Competitive Analysis</h4>
 
 - Study alternatives
@@ -91,7 +91,7 @@ Drift sees the most signal movement:
 
 ### Milestone Flexibility
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Adaptive Targets</h3>
 
 Unlike rigid early-phase milestones, Drift allows:
@@ -119,7 +119,7 @@ Key indicators you're getting close:
 ### Common Pivots
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Successful Pivot Types</h4>
 
 - **Customer Segment** - New target market
@@ -130,7 +130,7 @@ Key indicators you're getting close:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Pivot Best Practices</h4>
 
 - Communicate early and often
@@ -188,7 +188,7 @@ Drift fails when:
 
 ## Drift Strategies
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Three Drift Paths</h3>
 
 1. **Narrow Drift** - Minor adjustments to original vision
@@ -234,14 +234,14 @@ Monthly milestones:
 ## Success Stories
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>DataVault's Drift</h4>
 
 Started as file storage, pivoted to privacy-first analytics after discovering enterprise need. 4-month drift led to 10x growth.
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>EcoChain's Journey</h4>
 
 Originally carbon credits, drifted to supply chain transparency. Community signals guided successful transformation.

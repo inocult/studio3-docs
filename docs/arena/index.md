@@ -6,7 +6,7 @@ Welcome to the Arena System documentation - the heart of Studio3's transparent v
 
 Arenas are public spaces where ventures compete, grow, and prove themselves through transparent milestones and community validation. Every action is visible, every milestone is measurable, and every outcome has real consequences.
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Arena Principles</h3>
 
 - **Full Transparency**: All progress happens in public view
@@ -31,17 +31,17 @@ Arenas are public spaces where ventures compete, grow, and prove themselves thro
 ## 🎯 Quick Start
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>For Founders</h4>
 Learn how to enter arenas, declare milestones, and build in public.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>For Supporters</h4>
 Discover how to signal belief, track ventures, and earn rewards.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>For Validators</h4>
 Understand validation processes and guide ventures to success.
 </div>

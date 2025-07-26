@@ -5,7 +5,7 @@ Learn from real ventures that have succeeded, pivoted, and grown through the Stu
 ## 🏆 Success Stories
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🚀 DataVault</h3>
 <p>From Spark to <span class="phase-indicator phase-ascension">🏅 Ascension</span> in 18 months</p>
 <p><strong>Key Success Factors:</strong></p>
@@ -16,7 +16,7 @@ Learn from real ventures that have succeeded, pivoted, and grown through the Stu
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚡ EnergyDAO</h3>
 <p>Renewable energy platform powering 10,000+ homes</p>
 <p><strong>Key Success Factors:</strong></p>
@@ -27,7 +27,7 @@ Learn from real ventures that have succeeded, pivoted, and grown through the Stu
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎮 PlayForge</h3>
 <p>Gaming platform with 1M+ active users</p>
 <p><strong>Key Success Factors:</strong></p>
@@ -54,7 +54,7 @@ Learn from real ventures that have succeeded, pivoted, and grown through the Stu
 
 ## 🔄 Pivot Stories
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Power of Adaptation</h3>
 
 **SocialRecover** started as a social media aggregator but pivoted to become a leading social recovery tool after listening to doubt signals. Key learnings:
@@ -86,7 +86,7 @@ Learn from real ventures that have succeeded, pivoted, and grown through the Stu
 ## 🌟 Lessons Learned
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>For Founders</h4>
 - Build in public consistently
 - Set realistic milestones
@@ -94,7 +94,7 @@ Learn from real ventures that have succeeded, pivoted, and grown through the Stu
 - Pivot when necessary
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>For Echoes</h4>
 - Research thoroughly
 - Provide constructive doubt
@@ -102,7 +102,7 @@ Learn from real ventures that have succeeded, pivoted, and grown through the Stu
 - Learn from patterns
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>For Anchors</h4>
 - Guide through challenges
 - Validate objectively

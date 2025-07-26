@@ -4,7 +4,7 @@ The hypergrowth phase where ventures scale rapidly with capital injection and ag
 
 ## Overview
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Igniting Explosive Growth</h3>
 
 Flare is the venture equivalent of pouring rocket fuel on a fire. With proven models and fresh capital, ventures in Flare pursue:
@@ -32,7 +32,7 @@ Launching into Flare requires:
 ### 1. Capital Deployment
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Funding Strategy</h4>
 
 - Series A/B rounds
@@ -43,7 +43,7 @@ Launching into Flare requires:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Capital Allocation</h4>
 
 - Sales team expansion (40%)
@@ -92,7 +92,7 @@ Flare creates unique signal patterns:
 
 ### Milestone Magnitude
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Thinking in Millions</h3>
 
 Flare milestones scale dramatically:
@@ -110,7 +110,7 @@ Flare milestones scale dramatically:
 ### The Flare Formula
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Blitzscaling Tactics</h4>
 
 1. **Hire ahead of need**
@@ -121,7 +121,7 @@ Flare milestones scale dramatically:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Sustainable Scaling</h4>
 
 1. **Maintain unit economics**
@@ -147,7 +147,7 @@ Rapid scaling risks:
 
 ### Navigating Challenges
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Flare Survival Guide</h3>
 
 Critical practices:
@@ -175,7 +175,7 @@ Key Flare KPIs:
 ### Scaling Structure
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Leadership Team</h4>
 
 - CEO & Founders
@@ -187,7 +187,7 @@ Key Flare KPIs:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Support Functions</h4>
 
 - People & Culture
@@ -214,7 +214,7 @@ Typical Flare funding progression:
 
 ### Investor Relations
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Managing Stakeholders</h3>
 
 Board management becomes crucial:
@@ -274,14 +274,14 @@ Growth trajectory:
 ## Success Stories
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>NeuralNet's Flare</h4>
 
 Scaled from $2M to $50M ARR in 18 months, capturing 40% market share before successful Ascension.
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>GreenGrid's Journey</h4>
 
 Used Flare funding to expand globally, reaching 15 countries and 1M users before strategic acquisition.

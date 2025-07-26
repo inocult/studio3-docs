@@ -5,17 +5,17 @@ Essential resources, templates, and support materials for your Studio3 journey.
 ## 📦 Resource Library
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📝 Templates</h3>
 Ready-to-use templates for milestones, pitches, and updates.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>❓ FAQ</h3>
 Answers to common questions about Studio3 mechanics.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📖 Glossary</h3>
 Definitions of key terms and concepts in the ecosystem.
 </div>
@@ -37,7 +37,7 @@ Definitions of key terms and concepts in the ecosystem.
 
 ## 📄 Essential Templates
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>For Founders</h3>
 
 - **Spark Pitch Template**: Structure your initial presentation
@@ -47,7 +47,7 @@ Definitions of key terms and concepts in the ecosystem.
 - **Ascension Plan**: Sovereignty transition checklist
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>For Echoes</h3>
 
 - **Signal Strategy**: Portfolio planning worksheet
@@ -56,7 +56,7 @@ Definitions of key terms and concepts in the ecosystem.
 - **Feedback Templates**: Constructive signal rationale
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>For Anchors</h3>
 
 - **Validation Checklist**: Systematic review process
@@ -94,17 +94,17 @@ Definitions of key terms and concepts in the ecosystem.
 ## 🌐 Community Support
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>💬 Discord</h4>
 Join our active community for real-time support and discussions.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📧 Email Support</h4>
 Reach out to support@studio3.xyz for technical assistance.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📚 Knowledge Base</h4>
 Search our comprehensive documentation for detailed answers.
 </div>

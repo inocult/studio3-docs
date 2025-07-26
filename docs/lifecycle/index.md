@@ -36,17 +36,17 @@ Every Studio3 venture follows a carefully designed seven-phase journey from init
 ## 🎯 Quick Navigation
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🚀 Starting Out?</h4>
 Begin with the [Overview](overview.md) to understand the complete journey.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>✨ Have an Idea?</h4>
 Learn about the [Spark phase](spark.md) where all ventures begin.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🏆 Ready to Scale?</h4>
 Explore later phases for growth and sovereignty guidance.
 </div>

@@ -27,22 +27,22 @@ The Spark phase tests whether an idea resonates with the Studio3 community befor
 ### Success Metrics
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Minimum Threshold</h4>
 1,000 $SIGNAL in net belief required
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📈 Engagement Rate</h4>
 Active daily discussion and iteration
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>👥 Supporter Count</h4>
 Diverse believer base (not concentrated)
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🔄 Iteration Velocity</h4>
 Rapid refinement based on feedback
 </div>
@@ -54,7 +54,7 @@ Rapid refinement based on feedback
 
 Browse the Flambette marketplace for remixable IP-NFTs:
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🔍 What to Look For</h3>
 
 - **Complementary Technologies**: IPs that combine well
@@ -93,7 +93,7 @@ Once minted, enter your Spark into an active Arena:
 
 Your initial presentation should include:
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📋 Essential Elements</h3>
 
 1. **Problem Statement** (1-2 sentences)
@@ -141,7 +141,7 @@ Your initial presentation should include:
 ### Signal Acquisition Strategies
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Early Believers</h4>
 - Engage IP original creators
 - Leverage existing networks
@@ -149,7 +149,7 @@ Your initial presentation should include:
 - Offer advisor positions
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📊 Data-Driven Believers</h4>
 - Share market research
 - Provide competitive analysis
@@ -157,7 +157,7 @@ Your initial presentation should include:
 - Demonstrate traction
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🤝 Strategic Believers</h4>
 - Identify potential partners
 - Engage industry experts
@@ -165,7 +165,7 @@ Your initial presentation should include:
 - Build ecosystem allies
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🌊 Community Believers</h4>
 - Host AMA sessions
 - Create educational content
@@ -201,7 +201,7 @@ Consider pivoting when:
 
 ### Pivot Types
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🔄 Common Spark Pivots</h3>
 
 1. **Customer Segment Pivot**: Same solution, different market
@@ -230,7 +230,7 @@ Monitor these metrics daily:
 ### Momentum Patterns
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📈 Healthy Momentum</h4>
 - Steady daily growth
 - Increasing supporter count
@@ -238,7 +238,7 @@ Monitor these metrics daily:
 - Natural viral moments
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📉 Warning Signs</h4>
 - Declining daily signals
 - Same supporters only
@@ -271,7 +271,7 @@ Monitor these metrics daily:
 
 Before your Spark phase ends:
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>✅ Forge Readiness Checklist</h3>
 
 - [ ] Achieved 1,000+ $SIGNAL threshold
@@ -323,7 +323,7 @@ Failed Sparks provide valuable data:
 
 ### Case Study: DeFi Dashboard
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📈 Record-Breaking Spark</h3>
 
 **Concept**: Combined 3 DeFi protocol IPs into unified dashboard  
@@ -341,7 +341,7 @@ Failed Sparks provide valuable data:
 
 ### Case Study: Social Recovery
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🔄 The Pivot Master</h3>
 
 **Original**: Social media aggregator  
@@ -381,7 +381,7 @@ The gap between Spark and Forge is critical:
 
 ## 🎯 Your Spark Journey
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>✨ Ready to Ignite?</h3>
 
 The Spark phase is your first test in Studio3's gauntlet. Success requires:

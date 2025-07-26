@@ -4,7 +4,7 @@ Studio3 operates through three distinct but interconnected roles. Each role has 
 
 ## 🏗️ Founders (Senders)
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Builders of Studio3</h3>
 
 Founders are the entrepreneurs who bring ideas to life through public execution. They:
@@ -51,22 +51,22 @@ Founders are the entrepreneurs who bring ideas to life through public execution.
 ### Founder Rewards
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>💰 Milestone Funding</h4>
 Successful completion unlocks treasury allocations
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🏆 Reputation Points</h4>
 XP accumulation improves future opportunities
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎖️ NFT Ownership</h4>
 Signal and eventual Halo NFT control
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🚀 Resource Access</h4>
 Unlocked tools, mentorship, and networks
 </div>
@@ -82,7 +82,7 @@ Unlocked tools, mentorship, and networks
 
 ## 📡 Supporters (Echoes)
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Signal Network</h3>
 
 Echoes are community members who express belief or doubt in ventures. They:
@@ -125,22 +125,22 @@ Echoes are community members who express belief or doubt in ventures. They:
 ### Echo Rewards
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🪙 Token Multipliers</h4>
 2-10x returns on correct predictions
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📈 Reputation Gains</h4>
 XP affects future signal weights
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎖️ Special Access</h4>
 Early Arena entry for high performers
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🏆 Leaderboard Status</h4>
 Recognition as top signal provider
 </div>
@@ -168,7 +168,7 @@ Recognition as top signal provider
 
 ## ⚓ Validators (Anchors)
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Trust Layer</h3>
 
 Anchors are experienced participants who validate progress and guide ventures. They:
@@ -211,22 +211,22 @@ Anchors are experienced participants who validate progress and guide ventures. T
 ### Anchor Rewards
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>💎 Validation Fees</h4>
 Percentage of milestone value
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🌟 Reputation Multipliers</h4>
 Enhanced earning potential
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🗳️ Governance Rights</h4>
 Shape platform evolution
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎓 Mentorship Rewards</h4>
 Bonus for venture success
 </div>
@@ -269,7 +269,7 @@ Anchors need → Founders for purpose → Echoes for consensus
 
 ### Collaboration Points
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Where Roles Intersect</h3>
 
 - **Milestone Planning**: Founders propose, Echoes signal interest, Anchors advise
@@ -309,17 +309,17 @@ Consider these factors when selecting your primary role:
 ### Time Commitment
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🏗️ Founders</h4>
 Full-time commitment through all phases
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📡 Echoes</h4>
 Flexible, from minutes to hours daily
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>⚓ Anchors</h4>
 Part-time, increasing with seniority
 </div>
@@ -364,7 +364,7 @@ You can transition between roles:
 ## 🎮 Getting Started in Your Role
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏗️ Start as Founder</h3>
 
 1. Browse Flambette for IPs
@@ -376,7 +376,7 @@ You can transition between roles:
 [Founder Guide →](../founders/)
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 Start as Echo</h3>
 
 1. Acquire $SIGNAL tokens
@@ -388,7 +388,7 @@ You can transition between roles:
 [Echo Guide →](../echoes/)
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚓ Start as Anchor</h3>
 
 1. Build Echo reputation

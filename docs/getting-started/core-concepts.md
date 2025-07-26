@@ -4,7 +4,7 @@ Understanding Studio3's core concepts is essential for participating effectively
 
 ## 🎯 The Arena System
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Public Performance Spaces</h3>
 
 Arenas are where ventures live and breathe. Think of them as transparent stages where:
@@ -30,7 +30,7 @@ Every action in an Arena is recorded on-chain, creating an immutable history of 
 ## 📡 The $SIGNAL Token
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🟢 Belief Signals</h3>
 
 Express conviction that a venture will achieve its milestones:
@@ -39,7 +39,7 @@ Express conviction that a venture will achieve its milestones:
 - Wrong predictions burn tokens
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🔴 Doubt Signals</h3>
 
 Express skepticism about execution ability:
@@ -66,7 +66,7 @@ Every Studio3 venture is defined by three interconnected NFTs:
 
 ### 1. Spark NFT 🎨
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 The **genesis** of every venture:
 
 - Created from remixed IP-NFTs via the Flambette marketplace
@@ -78,7 +78,7 @@ The **genesis** of every venture:
 
 ### 2. Signal NFT 📡
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 The **living identity** of the venture:
 
 - Minted when a founder wins their Forge Duel
@@ -90,7 +90,7 @@ The **living identity** of the venture:
 
 ### 3. Halo NFT 🛡️
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 The **mark of sovereignty**:
 
 - Created during Container DAO formation
@@ -102,7 +102,7 @@ The **mark of sovereignty**:
 
 ## 🏗️ Container DAO Architecture
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Lightweight Governance Wrapper</h3>
 
 Container DAOs are minimal governance structures that:
@@ -154,7 +154,7 @@ Studio3 transforms venture building into an engaging experience:
 ### Experience Points (XP)
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏆 Founder XP</h3>
 
 - Earned by completing milestones
@@ -163,7 +163,7 @@ Studio3 transforms venture building into an engaging experience:
 - Unlocks advanced features
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📊 Echo XP</h3>
 
 - Earned through accurate signals
@@ -172,7 +172,7 @@ Studio3 transforms venture building into an engaging experience:
 - Grants voting privileges
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚓ Anchor XP</h3>
 
 - Earned by validating milestones
@@ -215,7 +215,7 @@ Anchor Rewards → More Guidance → Better Ventures
 
 ## 💡 Key Principles
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Core Values That Drive Studio3</h3>
 
 1. **Transparency First**: All progress happens in public

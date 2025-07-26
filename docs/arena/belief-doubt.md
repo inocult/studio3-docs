@@ -2,7 +2,7 @@
 
 The heart of Studio3's ecosystem beats through the flow of belief and doubt signals. This sophisticated system transforms community sentiment into actionable data, rewards accurate predictions, and guides ventures toward success.
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 The Signal System</h3>
 
 Unlike traditional betting or investment:
@@ -20,7 +20,7 @@ The system creates a living, breathing prediction market for venture success.
 
 ### What Belief Means
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Expressing Positive Conviction</h3>
 
 When you signal belief, you're stating:
@@ -39,7 +39,7 @@ Belief signals fuel founder confidence and attract resources.
 Signal belief when you observe:
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Strong Indicators</h4>
 - Experienced founder team
 - Clear execution plan
@@ -48,7 +48,7 @@ Signal belief when you observe:
 - Responsive to feedback
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📊 Positive Patterns</h4>
 - Consistent progress updates
 - Growing community engagement
@@ -57,7 +57,7 @@ Signal belief when you observe:
 - Resource efficiency
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🚀 Momentum Signals</h4>
 - Beating timeline estimates
 - Exceeding metric targets
@@ -66,7 +66,7 @@ Signal belief when you observe:
 - Creating viral moments
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>✨ Intangibles</h4>
 - Founder authenticity
 - Community chemistry
@@ -109,7 +109,7 @@ Signal belief when you observe:
 
 ### The Value of Doubt
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Constructive Skepticism</h3>
 
 Doubt signals are NOT attacks. They:
@@ -128,7 +128,7 @@ Healthy doubt makes ventures stronger.
 Express doubt when you see:
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>⚠️ Red Flags</h4>
 - Unrealistic timelines
 - No relevant experience
@@ -137,7 +137,7 @@ Express doubt when you see:
 - Resource miscalculation
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📉 Warning Patterns</h4>
 - Missed early milestones
 - Team dysfunction
@@ -146,7 +146,7 @@ Express doubt when you see:
 - Technical blockers
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🚨 Structural Issues</h4>
 - Flawed business model
 - Regulatory challenges
@@ -155,7 +155,7 @@ Express doubt when you see:
 - Scalability limits
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>💭 Intuition Triggers</h4>
 - Something feels off
 - Founder defensiveness
@@ -179,7 +179,7 @@ When signaling doubt:
 
 ### Token Flow Dynamics
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>How Signals Work</h3>
 
 1. **Allocation**: Choose belief or doubt position
@@ -207,7 +207,7 @@ Signal returns depend on multiple factors:
 ### Risk/Reward Profiles
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🟢 Belief Rewards</h4>
 **Success**: 2-5x multiplier
 **Failure**: Lose 100%
@@ -215,7 +215,7 @@ Signal returns depend on multiple factors:
 **Worst Case**: Late wrong belief
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🔴 Doubt Rewards</h4>
 **Success**: 3-8x multiplier  
 **Failure**: Lose 100%
@@ -228,7 +228,7 @@ Signal returns depend on multiple factors:
 
 ### Portfolio Theory
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Diversification Approaches</h3>
 
 **Venture Diversification**:
@@ -282,7 +282,7 @@ Building advantages:
 
 Essential metrics to monitor:
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📊 Your Signal Dashboard</h3>
 
 **Accuracy Metrics**:
@@ -324,22 +324,22 @@ Analyze your history:
 Be aware of these mental traps:
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Confirmation Bias</h4>
 Seeking info that confirms existing beliefs
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📈 Recency Bias</h4>
 Overweighting recent successes/failures
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🐑 Herd Mentality</h4>
 Following crowd without analysis
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>💰 Sunk Cost Fallacy</h4>
 Throwing good tokens after bad
 </div>
@@ -365,7 +365,7 @@ Throwing good tokens after bad
 
 ### The Contrarian Win
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎯 Against the Crowd</h3>
 
 **Venture**: Decentralized Education Platform  
@@ -379,7 +379,7 @@ Throwing good tokens after bad
 
 ### The Early Believer
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🚀 Conviction Rewarded</h3>
 
 **Venture**: Climate Data Marketplace  
@@ -395,7 +395,7 @@ Throwing good tokens after bad
 
 ### Position Sizing
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Kelly Criterion Adapted</h3>
 
 For each signal, consider:
@@ -447,7 +447,7 @@ While signals lock until milestone completion:
 
 ## 🚀 Your Signal Journey
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 Ready to Signal?</h3>
 
 The belief and doubt system is Studio3's core innovation. Master it to:

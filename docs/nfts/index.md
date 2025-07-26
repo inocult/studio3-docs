@@ -5,17 +5,17 @@ The three-NFT system is the backbone of Studio3's venture identity and ownership
 ## 🎭 The Three NFTs
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎨 Spark NFT</h3>
 The genesis of every venture - created from remixed IP-NFTs, representing the original idea.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 Signal NFT</h3>
 The living identity of your venture - dynamically updates as you progress through phases.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🛡️ Halo NFT</h3>
 The mark of sovereignty - soulbound proof of successful graduation from Studio3.
 </div>
@@ -34,7 +34,7 @@ The mark of sovereignty - soulbound proof of successful graduation from Studio3.
 
 ## 🌐 NFT Lifecycle
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Evolution Path</h3>
 
 1. **Creation**: Spark NFT minted from remixed IPs

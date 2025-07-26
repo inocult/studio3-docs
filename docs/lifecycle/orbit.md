@@ -4,7 +4,7 @@ The stability phase where ventures achieve sustainable operations and predictabl
 
 ## Overview
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Achieving Stable Trajectory</h3>
 
 Orbit represents the first taste of true stability. Like a satellite finding its path around Earth, ventures in Orbit have:
@@ -32,7 +32,7 @@ Graduating from Drift to Orbit requires:
 ### 1. Operations Excellence
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Process Optimization</h4>
 
 - Automate repetitive tasks
@@ -43,7 +43,7 @@ Graduating from Drift to Orbit requires:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Quality Systems</h4>
 
 - Customer support flows
@@ -91,7 +91,7 @@ Orbit sees stabilized signal patterns:
 
 ### Milestone Evolution
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>From Sprints to Marathons</h3>
 
 Orbit milestones become:
@@ -109,7 +109,7 @@ Orbit milestones become:
 ### The Three Pillars
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>1. Market Penetration</h4>
 
 - Deepen current market
@@ -120,7 +120,7 @@ Orbit milestones become:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>2. Product Enhancement</h4>
 
 - Add power features
@@ -131,7 +131,7 @@ Orbit milestones become:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>3. Operational Scale</h4>
 
 - Hire key roles
@@ -157,7 +157,7 @@ Many ventures stall in Orbit:
 
 ### Breaking Through
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Escape Velocity Tactics</h3>
 
 To prepare for Flare phase:
@@ -194,7 +194,7 @@ Typical Orbit budget allocation:
 ### Team Structure
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Core Roles</h4>
 
 - Founder/CEO
@@ -205,7 +205,7 @@ Typical Orbit budget allocation:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Growth Roles</h4>
 
 - Sales Leader
@@ -263,14 +263,14 @@ Quarterly focuses:
 ## Case Studies
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>StreamForge Success</h4>
 
 Used Orbit to refine streaming infrastructure, growing from 1K to 50K users while maintaining 95% retention.
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>HealthLink Journey</h4>
 
 Extended Orbit for 18 months, bootstrapping to $2M ARR before moving to Flare with strong fundamentals.

@@ -8,32 +8,42 @@
 ## 🚀 Start Your Journey
 
 <div class="grid">
-<div class="arena-card">
-<h3>🏗️ For Builders</h3>
+<div class="arena-card" markdown="1">
+
+### 🏗️ For Builders
+
 Turn your ideas into ventures through public execution and community support.
 
 [Start Building →](getting-started/roles/#founders-senders)
+
 </div>
 
-<div class="arena-card">
-<h3>📡 For Supporters</h3>
+<div class="arena-card" markdown="1">
+
+### 📡 For Supporters
+
 Signal belief in ventures and earn rewards for accurate predictions.
 
 [Start Supporting →](getting-started/roles/#supporters-echoes)
+
 </div>
 
-<div class="arena-card">
-<h3>⚓ For Validators</h3>
+<div class="arena-card" markdown="1">
+
+### ⚓ For Validators
+
 Guide ventures and ensure ecosystem integrity through expert validation.
 
 [Start Validating →](getting-started/roles/#validators-anchors)
+
 </div>
 </div>
 
 ## 🎯 What Makes Studio3 Different?
 
-<div class="arena-card">
-<h3>Not Your Average Incubator</h3>
+<div class="arena-card" markdown="1">
+
+### Not Your Average Incubator
 
 Studio3 revolutionizes how ventures are built:
 
@@ -56,19 +66,28 @@ Studio3 revolutionizes how ventures are built:
 ## 🌟 Recent Successes
 
 <div class="grid">
-<div class="arena-card">
-<h4>🚀 DataVault</h4>
+<div class="arena-card" markdown="1">
+
+#### 🚀 DataVault
+
 Graduated to Ascension in record time with revolutionary privacy tech
+
 </div>
 
-<div class="arena-card">
-<h4>⚡ EnergyDAO</h4>
+<div class="arena-card" markdown="1">
+
+#### ⚡ EnergyDAO
+
 From Spark to Flare in 6 months, now powering 10,000+ homes
+
 </div>
 
-<div class="arena-card">
-<h4>🎮 PlayForge</h4>
+<div class="arena-card" markdown="1">
+
+#### 🎮 PlayForge
+
 Community-built gaming platform with 1M+ active users
+
 </div>
 </div>
 

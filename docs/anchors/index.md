@@ -4,7 +4,7 @@ Welcome to the Anchors section - your guide to validating progress, mentoring fo
 
 ## ⚓ The Trust Layer
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Guardian of Progress</h3>
 
 As an Anchor in Studio3, you:
@@ -39,17 +39,17 @@ As an Anchor in Studio3, you:
 ## 📊 Validation Framework
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🔍 Verification</h4>
 Review evidence, check criteria, and ensure authentic progress.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📝 Documentation</h4>
 Provide clear rationale and constructive feedback.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🤝 Guidance</h4>
 Offer strategic advice and connect founders with resources.
 </div>
@@ -71,7 +71,7 @@ Offer strategic advice and connect founders with resources.
 
 ## 🎯 Best Practices
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Anchor Code</h3>
 
 - **Objectivity**: Judge based on criteria, not preferences

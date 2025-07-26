@@ -4,7 +4,7 @@ Understanding the $SIGNAL token ecosystem - the lifeblood of belief and convicti
 
 ## 🪙 The $SIGNAL Token
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Utility, Not Speculation</h3>
 
 $SIGNAL tokens represent:
@@ -27,7 +27,7 @@ $SIGNAL tokens represent:
 ## 📊 Token Flow Dynamics
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📥 Token Sources</h4>
 - Initial distribution
 - Accuracy rewards
@@ -35,7 +35,7 @@ $SIGNAL tokens represent:
 - Ecosystem growth
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📤 Token Uses</h4>
 - Signaling belief/doubt
 - Accessing features
@@ -43,7 +43,7 @@ $SIGNAL tokens represent:
 - Reputation staking
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🔥 Token Burns</h4>
 - Failed predictions
 - Penalty mechanisms
@@ -71,7 +71,7 @@ $SIGNAL tokens represent:
 
 ## 🌐 Economic Design
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Sustainable Tokenomics</h3>
 
 **Supply Dynamics**:

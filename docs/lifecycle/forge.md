@@ -18,7 +18,7 @@ Forge Duels create a meritocratic selection process where execution capability m
 
 ### Why Duels Matter
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Selection Pressure</h3>
 
 Traditional startups often fail due to founder-market mismatch. Forge Duels solve this by:
@@ -50,7 +50,7 @@ When multiple founders claim a Spark:
 Before entering a duel:
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🔍 Research Opponents</h4>
 - Previous venture history
 - Community reputation
@@ -59,7 +59,7 @@ Before entering a duel:
 - Technical capabilities
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📊 Analyze Spark Data</h4>
 - Signal distribution
 - Supporter segments
@@ -68,7 +68,7 @@ Before entering a duel:
 - Community sentiment
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Identify Advantages</h4>
 - Unique expertise
 - Resource access
@@ -77,7 +77,7 @@ Before entering a duel:
 - Execution speed
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🛡️ Address Weaknesses</h4>
 - Knowledge gaps
 - Resource constraints
@@ -91,7 +91,7 @@ Before entering a duel:
 
 **Positioning Options**:
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Strategic Approaches</h3>
 
 1. **The Executor**: Emphasize past success and operational excellence
@@ -124,7 +124,7 @@ Choose based on your strengths and opponent weaknesses.
 ### Day 4-7: Mid-Duel Momentum
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📈 Momentum Building</h4>
 - Release detailed roadmaps
 - Announce key partnerships
@@ -133,7 +133,7 @@ Choose based on your strengths and opponent weaknesses.
 - Engage doubt signals
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Differentiation</h4>
 - Highlight unique approaches
 - Compare execution plans
@@ -161,7 +161,7 @@ Choose based on your strengths and opponent weaknesses.
 
 ### Day 12-14: Final Sprint
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏃 Closing Strong</h3>
 
 The final 72 hours often determine outcomes:
@@ -192,22 +192,22 @@ Duel scoring considers:
 ### Signal Strategies
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Early Bird</h4>
 Build massive early lead to discourage competitors
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📈 Steady Growth</h4>
 Consistent daily increases showing reliability
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🚀 Late Surge</h4>
 Save ammunition for dramatic final push
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🌊 Wave Riding</h4>
 Create multiple momentum spikes throughout
 </div>
@@ -235,7 +235,7 @@ Duels are intense. Mental preparation is crucial:
 
 ### Competitor Dynamics
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🤝 Respectful Competition</h3>
 
 The Studio3 way emphasizes:
@@ -276,7 +276,7 @@ When things go wrong:
 
 ### Victory Conditions
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>✅ Duel Success Factors</h3>
 
 Analysis of 100+ successful duels shows winners typically:
@@ -309,7 +309,7 @@ When you win:
 
 If you lose:
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🤝 The Graceful Exit</h3>
 
 - **Congratulate Winner**: Show class and professionalism
@@ -348,7 +348,7 @@ Track these KPIs during your duel:
 ### Momentum Indicators
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📊 Positive Signals</h4>
 - Accelerating daily growth
 - Increasing comment quality
@@ -357,7 +357,7 @@ Track these KPIs during your duel:
 - Opponent supporters switching
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>⚠️ Warning Signs</h4>
 - Declining daily additions
 - Rising doubt ratio
@@ -371,7 +371,7 @@ Track these KPIs during your duel:
 
 ### The Underdog Victory
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📈 David vs Goliath</h3>
 
 **Scenario**: Unknown founder vs. serial entrepreneur  
@@ -390,7 +390,7 @@ Track these KPIs during your duel:
 
 ### The Collaboration Win
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🤝 Competitors to Co-founders</h3>
 
 **Scenario**: Two strong founders, complementary skills  
@@ -413,7 +413,7 @@ Track these KPIs during your duel:
 
 Within 24 hours of victory:
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>✅ Victory Checklist</h3>
 
 1. [ ] Claim Signal NFT
@@ -463,7 +463,7 @@ The transition to Ignition is critical:
 
 ## 🎮 Your Forge Strategy
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚔️ Ready for Battle?</h3>
 
 Forge Duels are intense, competitive, and transformative. Success requires:

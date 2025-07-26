@@ -4,7 +4,7 @@ Welcome to the Echoes section - your guide to signaling belief, earning rewards,
 
 ## 📡 The Signal Network
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Be the Voice of Conviction</h3>
 
 As an Echo in Studio3, you:
@@ -30,17 +30,17 @@ As an Echo in Studio3, you:
 ## 🎯 Echo Success Metrics
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🎯 Accuracy Rate</h4>
 Track your prediction success across ventures and phases.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>💰 Token Returns</h4>
 Measure your $SIGNAL multiplication through correct signals.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🏆 Reputation Score</h4>
 Build influence through consistent, accurate predictions.
 </div>
@@ -62,7 +62,7 @@ Build influence through consistent, accurate predictions.
 
 ## 🌟 Top Echo Benefits
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Rewards & Recognition</h3>
 
 - **Token Multipliers**: 2-10x returns on correct signals

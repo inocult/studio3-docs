@@ -5,17 +5,17 @@ Explore the tools and features that power the Studio3 ecosystem.
 ## 🔧 Platform Features
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📊 Dashboard</h3>
 Your command center for tracking ventures, signals, and performance.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏟️ Arena Interface</h3>
 The public stage where ventures compete and grow.
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🔮 Signal Orb</h3>
 Visualize belief flows and venture momentum in real-time.
 </div>
@@ -34,7 +34,7 @@ Visualize belief flows and venture momentum in real-time.
 
 ## 🎯 Key Features
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>For Founders</h3>
 
 - **Milestone Tracker**: Set and monitor public goals
@@ -43,7 +43,7 @@ Visualize belief flows and venture momentum in real-time.
 - **Analytics Suite**: Deep insights into venture performance
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>For Echoes</h3>
 
 - **Signal Interface**: Express belief/doubt efficiently
@@ -52,7 +52,7 @@ Visualize belief flows and venture momentum in real-time.
 - **Leaderboards**: Compare with other Echoes
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>For Anchors</h3>
 
 - **Validation Queue**: Manage milestone reviews

@@ -4,7 +4,7 @@ The critical launch phase where Container DAOs form and MVP development begins.
 
 ## Overview
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>The Ignition Moment</h3>
 
 After winning the Forge Duel, founders enter Ignition - the phase where ideas transform into tangible products. This is where:
@@ -32,7 +32,7 @@ To enter the Ignition phase:
 ### 1. Container DAO Formation
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Genesis Wallet Setup</h4>
 
 - 2-of-3 multisig initially
@@ -42,7 +42,7 @@ To enter the Ignition phase:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>Governance Structure</h4>
 
 - Lightweight wrapper
@@ -85,7 +85,7 @@ During Ignition, signal mechanics intensify:
 
 ### Resource Allocation
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Treasury Management</h3>
 
 Your Container DAO treasury must balance:
@@ -153,7 +153,7 @@ Ignition can fail if:
 ## Best Practices
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>✅ Do This</h4>
 
 - Build incrementally
@@ -164,7 +164,7 @@ Ignition can fail if:
 
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>❌ Avoid This</h4>
 
 - Feature creep
