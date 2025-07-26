@@ -1,7 +1,10 @@
 site_name: Studio3 Guides
 site_description: Complete documentation for Studio3 - Where Belief Becomes Momentum
-site_url: https://studio3.guide
+site_url: https://inocult.github.io/studio3-docs/
 site_author: Studio3 Team
+repo_url: https://github.com/inocult/studio3-docs
+repo_name: inocult/studio3-docs
+edit_uri: edit/main/docs/
 
 theme:
   name: material
