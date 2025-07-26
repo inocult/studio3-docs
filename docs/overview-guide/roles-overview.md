@@ -10,7 +10,8 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 
 <div class="grid cards">
     <div class="arena-card" markdown="1">
-        <h3>🏗️ Senders (Founders)</h3>
+
+### 🏗️ Senders (Founders)
         <p><strong>The Builders</strong></p>
         <p>Entrepreneurs who transform ideas into ventures through transparent execution</p>
         <ul>
@@ -19,10 +20,12 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
             <li>Build in the Arena</li>
             <li>Achieve sovereignty</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h3>📡 Echoes (Supporters)</h3>
+
+### 📡 Echoes (Supporters)
         <p><strong>The Believers</strong></p>
         <p>Community members who signal conviction through token stakes</p>
         <ul>
@@ -31,10 +34,12 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
             <li>Earn from accuracy</li>
             <li>Guide through wisdom</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h3>⚓ Anchors (Validators)</h3>
+
+### ⚓ Anchors (Validators)
         <p><strong>The Guardians</strong></p>
         <p>Experienced builders who ensure quality and provide guidance</p>
         <ul>
@@ -43,7 +48,8 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
             <li>Maintain standards</li>
             <li>Resolve disputes</li>
         </ul>
-    </div>
+
+</div>
 </div>
 
 ## Role Relationships
@@ -81,7 +87,8 @@ graph TD
 ### The Builder's Journey
 
 <div class="arena-card" markdown="1">
-<h3>🏗️ What Senders Do</h3>
+
+### 🏗️ What Senders Do
 
 **Primary Activities:**
 
@@ -104,6 +111,7 @@ graph TD
    - Scale ventures
    - Achieve sovereignty
    - Launch sub-studios
+
 </div>
 
 ### Sender Requirements
@@ -155,7 +163,8 @@ graph TD
 ### The Believer's Path
 
 <div class="arena-card" markdown="1">
-<h3>📡 What Echoes Do</h3>
+
+### 📡 What Echoes Do
 
 **Primary Activities:**
 
@@ -182,6 +191,7 @@ graph TD
    - Adjust strategies
    - Learn from outcomes
    - Build reputation
+
 </div>
 
 ### Echo Skills
@@ -219,7 +229,8 @@ def calculate_echo_returns(signal):
 ### The Guardian's Duty
 
 <div class="arena-card" markdown="1">
-<h3>⚓ What Anchors Do</h3>
+
+### ⚓ What Anchors Do
 
 **Primary Activities:**
 
@@ -246,6 +257,7 @@ def calculate_echo_returns(signal):
    - Shape policies
    - Lead councils
    - Drive improvements
+
 </div>
 
 ### Anchor Qualifications
@@ -321,7 +333,8 @@ sequenceDiagram
 ### Self-Assessment Framework
 
 <div class="arena-card" markdown="1">
-<h3>🤔 Which Role Fits You?</h3>
+
+### 🤔 Which Role Fits You?
 
 **Consider Sender If You:**
 
@@ -346,6 +359,7 @@ sequenceDiagram
 - Enjoy mentoring others
 - Value ecosystem health
 - Can commit time regularly
+
 </div>
 
 ### Role Progression

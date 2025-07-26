@@ -122,7 +122,8 @@ sequenceDiagram
 ### The Belief Economy
 
 <div class="arena-card" markdown="1">
-<h3>📡 Signal Mechanics</h3>
+
+### 📡 Signal Mechanics
 
 **Belief Signals** 👍
 
@@ -142,6 +143,7 @@ sequenceDiagram
 - Contrarian correct signals bonus
 - Reputation level affects multipliers
 - Phase difficulty impacts rewards
+
 </div>
 
 ### Signal Strategies
@@ -270,23 +272,27 @@ The Arena system evolves through:
 ### Arena Champions
 
 <div class="arena-card" markdown="1">
-<h4>🏆 DataMesh Protocol</h4>
+
+#### 🏆 DataMesh Protocol
 
 **Arena Performance:** 12/12 milestones completed  
 **Total Signals:** 2.3M $SIGNAL belief  
 **Outcome:** Graduated in record time
 
 > "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable." - DataMesh Founder
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>💡 EcoChain Initiative</h4>
+
+#### 💡 EcoChain Initiative
 
 **Arena Performance:** Pivoted after milestone 3 failure  
 **Community Response:** 80% maintained belief post-pivot  
 **Outcome:** Successful with new direction
 
 > "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product-market fit." - EcoChain Founder
+
 </div>
 
 ## Common Pitfalls

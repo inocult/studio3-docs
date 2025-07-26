@@ -8,7 +8,8 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h3>🏗️ Become a Sender</h3>
+
+### 🏗️ Become a Sender
 
 **You should be a Sender if you:**
 
@@ -25,10 +26,12 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Communication skills
 - Risk tolerance
 - Long-term vision
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>📡 Become an Echo</h3>
+
+### 📡 Become an Echo
 
 **You should be an Echo if you:**
 
@@ -45,10 +48,12 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Risk management
 - Active engagement
 - Learning appetite
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>⚓ Become an Anchor</h3>
+
+### ⚓ Become an Anchor
 
 **You should be an Anchor if you:**
 
@@ -65,6 +70,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Time commitment
 - Fair judgment
 - Mentor mindset
+
 </div>
 </div>
 
@@ -89,7 +95,8 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 ### Risk Profile
 
 <div class="arena-card" markdown="1">
-<h3>⚖️ Risk vs Reward Analysis</h3>
+
+### ⚖️ Risk vs Reward Analysis
 
 **Highest Risk, Highest Reward: Sender**
 - Can lose entire venture
@@ -108,6 +115,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Steady fee income
 - Reputation-based growth
 - Network value accrual
+
 </div>
 
 ## Skills Assessment
@@ -193,7 +201,8 @@ graph LR
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>🌱 Complete Beginner</h4>
+
+#### 🌱 Complete Beginner
 
 Start as an **Echo** with small signals to:
 - Learn the ecosystem
@@ -201,10 +210,12 @@ Start as an **Echo** with small signals to:
 - Network with others
 - Understand ventures
 - Minimize risk
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>🚀 Experienced Entrepreneur</h4>
+
+#### 🚀 Experienced Entrepreneur
 
 Jump in as a **Sender** if you have:
 - Clear venture idea
@@ -212,10 +223,12 @@ Jump in as a **Sender** if you have:
 - Risk tolerance
 - Time to commit
 - Public comfort
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>🎓 Industry Expert</h4>
+
+#### 🎓 Industry Expert
 
 Consider **Anchor** role if you have:
 - 5+ years experience
@@ -223,6 +236,7 @@ Consider **Anchor** role if you have:
 - Quality standards
 - Available time
 - Ecosystem vision
+
 </div>
 </div>
 

@@ -45,7 +45,8 @@ graph LR
 ### Where Ideas Take Flight
 
 <div class="arena-card" markdown="1">
-<h3>🎯 Objective</h3>
+
+### 🎯 Objective
 <p>Transform a remixed IP concept into a validated venture idea with initial community support.</p>
 
 **Key Activities:**
@@ -62,6 +63,7 @@ graph LR
 - At least 10 unique supporters
 - Clear problem-solution fit
 - Feasible execution plan
+
 </div>
 
 ### Spark Dynamics
@@ -81,7 +83,8 @@ graph LR
 ### The Battle for Leadership
 
 <div class="arena-card" markdown="1">
-<h3>🏆 Objective</h3>
+
+### 🏆 Objective
 <p>Determine the most capable founder through competitive dueling.</p>
 
 **Duel Format:**
@@ -99,6 +102,7 @@ graph LR
 - Leadership experience
 - Community engagement
 - Commitment level
+
 </div>
 
 ### Forge Strategies
@@ -115,7 +119,8 @@ graph LR
 ### Building the Foundation
 
 <div class="arena-card" markdown="1">
-<h3>🔨 Objective</h3>
+
+### 🔨 Objective
 <p>Form Container DAO, assemble team, and deliver initial MVP.</p>
 
 **Critical Tasks:**
@@ -134,6 +139,7 @@ graph LR
 3. Technical spec approved
 4. MVP launched
 5. First users onboarded
+
 </div>
 
 ### Container DAO Setup
@@ -161,7 +167,8 @@ graph TD
 ### Finding Your Current
 
 <div class="arena-card" markdown="1">
-<h3>🎯 Objective</h3>
+
+### 🎯 Objective
 <p>Iterate rapidly to find product-market fit through community feedback.</p>
 
 **Key Characteristics:**
@@ -179,6 +186,7 @@ graph TD
 - Clear use case emerging
 - Positive unit economics
 - Community enthusiasm growing
+
 </div>
 
 ### Drift Strategies
@@ -205,7 +213,8 @@ When pivoting during Drift:
 ### Achieving Stability
 
 <div class="arena-card" markdown="1">
-<h3>🎯 Objective</h3>
+
+### 🎯 Objective
 <p>Establish sustainable operations with consistent growth and reliable delivery.</p>
 
 **Orbit Characteristics:**
@@ -223,6 +232,7 @@ When pivoting during Drift:
 - Team retention: 90%+
 - User satisfaction: 4.5/5+
 - Token velocity: Increasing
+
 </div>
 
 ### Operational Excellence
@@ -250,7 +260,8 @@ graph LR
 ### Igniting Growth
 
 <div class="arena-card" markdown="1">
-<h3>🚀 Objective</h3>
+
+### 🚀 Objective
 <p>Scale rapidly with external capital and aggressive expansion.</p>
 
 **Flare Characteristics:**
@@ -268,6 +279,7 @@ graph LR
 - Revenue-based financing
 - Token sales (if applicable)
 - Community rounds
+
 </div>
 
 ### Scaling Strategies
@@ -295,7 +307,8 @@ gross_margins = > 70%  # For software
 ### Achieving Sovereignty
 
 <div class="arena-card" markdown="1">
-<h3>👑 Objective</h3>
+
+### 👑 Objective
 <p>Graduate from Studio3 oversight to complete independence.</p>
 
 **Ascension Requirements:**
@@ -314,6 +327,7 @@ gross_margins = > 70%  # For software
 4. Unlock Halo NFT
 5. Transfer Genesis Wallet control
 6. Achieve full sovereignty
+
 </div>
 
 ### Sovereignty Benefits
@@ -338,7 +352,8 @@ gross_margins = > 70%  # For software
 ### Moving Forward
 
 <div class="arena-card" markdown="1">
-<h3>📈 Advancement Criteria</h3>
+
+### 📈 Advancement Criteria
 
 **General Requirements:**
 
@@ -354,6 +369,7 @@ gross_margins = > 70%  # For software
 - **Extended Duration**: Complex ventures may need more time
 - **Phase Skipping**: Not allowed - all phases required
 - **Regression**: Can fall back during Drift only
+
 </div>
 
 ### Failure Modes

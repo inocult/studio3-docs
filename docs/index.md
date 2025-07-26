@@ -8,13 +8,15 @@
 ## 🚀 Quick Start
 
 <div class="arena-card" markdown="1">
-<h3>⚡ 5-Minute Introduction</h3>
+
+### ⚡ 5-Minute Introduction
 
 <p>New to Studio3? Get the essence of our platform in just 5 minutes with our Quickstart guide.</p>
 
 <div class="card-actions">
 <a href="quickstart/" class="md-button md-button--primary">Start Here</a>
 <a href="pdf/studio3-quickstart.pdf" class="md-button">Download PDF</a>
+
 </div>
 </div>
 
@@ -44,42 +46,50 @@
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h3>🌐 Overview Guide</h3>
+
+### 🌐 Overview Guide
 <p>Complete introduction to Studio3's venture building platform, core concepts, and ecosystem mechanics.</p>
 <p><strong>Perfect for:</strong> New users, investors, and anyone wanting to understand Studio3</p>
 <div class="card-actions">
 <a href="overview-guide/" class="md-button md-button--primary">Browse Guide</a>
 <a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
+
 </div>
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>🏗️ Senders Guide</h3>
+
+### 🏗️ Senders Guide
 <p>Everything founders need to build ventures through Studio3's transparent, gamified ecosystem.</p>
 <p><strong>Perfect for:</strong> Entrepreneurs, builders, and teams ready to launch ventures</p>
 <div class="card-actions">
 <a href="senders-guide/" class="md-button md-button--primary">Browse Guide</a>
 <a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
+
 </div>
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>📡 Echoes Guide</h3>
+
+### 📡 Echoes Guide
 <p>Master the art of signaling belief, earning rewards, and supporting ventures to success.</p>
 <p><strong>Perfect for:</strong> Supporters, investors, and community members</p>
 <div class="card-actions">
 <a href="echoes-guide/" class="md-button md-button--primary">Browse Guide</a>
 <a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
+
 </div>
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>⚓ Anchors Guide</h3>
+
+### ⚓ Anchors Guide
 <p>Essential handbook for validators who guide ventures and maintain ecosystem integrity.</p>
 <p><strong>Perfect for:</strong> Experienced builders, mentors, and ecosystem validators</p>
 <div class="card-actions">
 <a href="anchors-guide/" class="md-button md-button--primary">Browse Guide</a>
 <a href="pdf/anchors-guide.pdf" class="md-button">Download PDF</a>
+
 </div>
 </div>
 </div>

@@ -9,7 +9,8 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ### Day 1: Platform Orientation
 
 <div class="arena-card" markdown="1">
-<h3>🚀 Essential Setup</h3>
+
+### 🚀 Essential Setup
 
 **1. Create Your Account**
 - Connect wallet with $SIGNAL tokens
@@ -28,6 +29,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - Read recent milestones
 - Check leaderboards
 - Review success stories
+
 </div>
 
 ### Day 2-3: Learn the Basics
@@ -50,21 +52,25 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>🤝 Connect with Veterans</h4>
+
+#### 🤝 Connect with Veterans
 
 - Introduce yourself properly
 - Ask thoughtful questions
 - Offer help where possible
 - Build genuine relationships
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>📚 Find Your Mentors</h4>
+
+#### 📚 Find Your Mentors
 
 - Identify successful role models
 - Study their strategies
 - Engage with their content
 - Request guidance respectfully
+
 </div>
 </div>
 
@@ -115,7 +121,8 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 #### Week 3-4: Launch Preparation
 
 <div class="arena-card" markdown="1">
-<h3>⚡ Pre-Launch Checklist</h3>
+
+### ⚡ Pre-Launch Checklist
 
 **Technical Ready:**
 
@@ -137,6 +144,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - [ ] Stress management plan
 - [ ] Support system in place
 - [ ] Failure contingencies
+
 </div>
 
 ### 📡 First Steps for Echoes
@@ -184,7 +192,8 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 #### Week 3-4: Scaling Up
 
 <div class="arena-card" markdown="1">
-<h3>📈 Progressive Scaling</h3>
+
+### 📈 Progressive Scaling
 
 **Signal Sizing:**
 
@@ -199,6 +208,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - Minimum 5 active positions
 - Balance belief/doubt signals
 - Reserve 30% for opportunities
+
 </div>
 
 ### ⚓ First Steps for Anchors
@@ -246,7 +256,8 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 #### Week 3-4: First Validations
 
 <div class="arena-card" markdown="1">
-<h3>⚖️ Validation Excellence</h3>
+
+### ⚖️ Validation Excellence
 
 **Quality Standards:**
 
@@ -262,6 +273,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - 24-48 hour turnaround
 - Batch similar reviews
 - Avoid rush decisions
+
 </div>
 
 ## Common Early Mistakes
@@ -289,33 +301,39 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>🏗️ Sender Success</h4>
+
+#### 🏗️ Sender Success
 
 - Spark NFT created
 - First milestone funded
 - 50+ engaged Echoes
 - Daily update rhythm
 - Positive momentum
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>📡 Echo Success</h4>
+
+#### 📡 Echo Success
 
 - 10+ signals placed
 - 60%+ accuracy rate
 - 100+ $SIGNAL profit
 - Active in 3+ ventures
 - Growing reputation
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>⚓ Anchor Success</h4>
+
+#### ⚓ Anchor Success
 
 - Approved status
 - 5+ validations complete
 - 4.5+ quality rating
 - Zero disputes
 - Positive feedback
+
 </div>
 </div>
 
@@ -350,7 +368,8 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ### Recommended Time Allocation
 
 <div class="arena-card" markdown="1">
-<h3>⏰ Daily Success Habits</h3>
+
+### ⏰ Daily Success Habits
 
 **Morning (30-60 min)**
 - Check overnight activity
@@ -369,6 +388,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - Respond to messages
 - Plan tomorrow
 - Reflect on progress
+
 </div>
 
 ## Resources for Success
@@ -403,21 +423,25 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>🆘 Help Channels</h4>
+
+#### 🆘 Help Channels
 
 - #newbie-questions
 - #role-specific-help  
 - #technical-support
 - #general-discussion
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>👥 Human Support</h4>
+
+#### 👥 Human Support
 
 - Community mentors
 - Role ambassadors
 - Support tickets
 - Office hours
+
 </div>
 </div>
 

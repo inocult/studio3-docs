@@ -9,7 +9,8 @@ Milestones are the fundamental units of progress in Studio3. They represent spec
 ### Definition
 
 <div class="arena-card" markdown="1">
-<h3>🎯 Milestone Essentials</h3>
+
+### 🎯 Milestone Essentials
 
 A milestone is a public commitment to achieve a specific outcome by a defined deadline.
 
@@ -20,6 +21,7 @@ A milestone is a public commitment to achieve a specific outcome by a defined de
 - **Timeline**: Fixed deadline for achievement
 - **Evidence Requirements**: Proof needed for validation
 - **Token Value**: Amount at stake for signals
+
 </div>
 
 ### Milestone Lifecycle
@@ -159,7 +161,8 @@ flowchart TD
 ### Declaration Requirements
 
 <div class="arena-card" markdown="1">
-<h3>📝 Declaration Checklist</h3>
+
+### 📝 Declaration Checklist
 
 **Required Elements:**
 
@@ -177,6 +180,7 @@ flowchart TD
 - [ ] Partial success criteria
 - [ ] Progress checkpoints
 - [ ] Contingency plans
+
 </div>
 
 ## Milestone Valuation
@@ -261,7 +265,8 @@ flowchart TD
 ### Best Practices
 
 <div class="arena-card" markdown="1">
-<h3>🏆 Execution Excellence</h3>
+
+### 🏆 Execution Excellence
 
 **During Development:**
 
@@ -278,6 +283,7 @@ flowchart TD
 - Respond to community questions
 - Acknowledge concerns promptly
 - Celebrate small wins
+
 </div>
 
 ### Common Pitfalls

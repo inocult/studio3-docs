@@ -3,13 +3,15 @@
 ## The Studio3 Process in Simple Steps
 
 <div class="arena-card" markdown="1">
-<h3>🎯 The Core Loop</h3>
+
+### 🎯 The Core Loop
 
 1. **Founders declare** what they'll build
 2. **Community signals** belief or doubt with tokens
 3. **Work happens** in public view
 4. **Progress is validated** by experts
 5. **Rewards flow** to those who predicted correctly
+
 </div>
 
 ## 🚀 Step-by-Step Journey
@@ -17,31 +19,36 @@
 ### Step 1: Ideas Enter the Arena
 
 <div class="arena-card" markdown="1">
-<h3>✨ The Spark Phase</h3>
+
+### ✨ The Spark Phase
 
 - Entrepreneurs create **Spark NFTs** from existing research/IP
 - Ideas are presented in public **Arenas**
 - Community members browse and evaluate
 - Initial interest gathering begins
 - Best ideas attract early believers
+
 </div>
 
 ### Step 2: Founders Compete
 
 <div class="arena-card" markdown="1">
-<h3>⚔️ The Forge Duel</h3>
+
+### ⚔️ The Forge Duel
 
 - Multiple founders can compete for the same idea
 - They enter a **public competition** (The Forge)
 - Each presents their vision and capabilities
 - Community votes determine the winner
 - Winner gets exclusive rights to build
+
 </div>
 
 ### Step 3: Building Begins
 
 <div class="arena-card" markdown="1">
-<h3>🏗️ Public Development</h3>
+
+### 🏗️ Public Development
 
 The winning founder:
 - Forms a **Container DAO** (lightweight governance structure)
@@ -49,12 +56,14 @@ The winning founder:
 - Works transparently with daily updates
 - Engages with community feedback
 - Builds toward declared goals
+
 </div>
 
 ### Step 4: Community Participation
 
 <div class="arena-card" markdown="1">
-<h3>📡 Signaling Mechanics</h3>
+
+### 📡 Signaling Mechanics
 
 **How the community participates:**
 
@@ -70,12 +79,14 @@ The winning founder:
 - You stake 1,000 $SIGNAL tokens as a belief signal
 - If they succeed: You get 1,500-3,000 tokens back (1.5x-3x)
 - If they fail: Your 1,000 tokens are burned forever
+
 </div>
 
 ### Step 5: Validation Process
 
 <div class="arena-card" markdown="1">
-<h3>⚓ Quality Assurance</h3>
+
+### ⚓ Quality Assurance
 
 When milestones are complete:
 
@@ -84,12 +95,14 @@ When milestones are complete:
 - They verify claims are accurate
 - Decision is made: Success or Failure
 - Results trigger automatic settlements
+
 </div>
 
 ### Step 6: Rewards & Consequences
 
 <div class="arena-card" markdown="1">
-<h3>💰 The Settlement</h3>
+
+### 💰 The Settlement
 
 **If Milestone Succeeds:**
 
@@ -104,6 +117,7 @@ When milestones are complete:
 - Believers lose their entire stake
 - Founder faces reputation damage
 - Must pivot or abandon
+
 </div>
 
 ## 🎮 The Seven Phase Journey
@@ -112,32 +126,39 @@ Every venture progresses through seven phases:
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>Phase 1-3: Foundation</h4>
+
+#### Phase 1-3: Foundation
 
 1. **Spark** ✨ - Idea validation
 2. **Forge** ⚔️ - Founder selection
 3. **Ignition** 🚀 - MVP building
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>Phase 4-6: Growth</h4>
+
+#### Phase 4-6: Growth
 
 4. **Drift** 🌊 - Finding product-market fit
 5. **Orbit** 🛸 - Stable operations
 6. **Flare** 🔥 - Scaling up
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>Phase 7: Graduation</h4>
+
+#### Phase 7: Graduation
 
 7. **Ascension** 🎖️ - Full independence
+
 </div>
 </div>
 
 ## 🔄 The Ecosystem Cycle
 
 <div class="arena-card" markdown="1">
-<h3>How Value Flows</h3>
+
+### How Value Flows
 
 1. **Supporters provide capital** through signals
 2. **Founders use capital** to build ventures
@@ -145,6 +166,7 @@ Every venture progresses through seven phases:
 4. **Value returns** to correct predictors
 5. **Failed ventures** burn incorrect stakes
 6. **System improves** through natural selection
+
 </div>
 
 ## 💡 Key Innovations
@@ -176,7 +198,8 @@ Every venture progresses through seven phases:
 ## 🎯 Simple Example
 
 <div class="arena-card" markdown="1">
-<h3>Sarah's Journey</h3>
+
+### Sarah's Journey
 
 1. **Sarah has an idea** for a sustainability app
 2. **She creates a Spark** and enters the Arena
@@ -190,12 +213,14 @@ Every venture progresses through seven phases:
 10. **Believers earn 2x** their stakes, doubters lose all
 11. **Sarah unlocks funding** for the next milestone
 12. **The cycle continues** through all seven phases
+
 </div>
 
 ## ⚡ Why This Works
 
 <div class="arena-card" markdown="1">
-<h3>The Magic Formula</h3>
+
+### The Magic Formula
 
 **Transparency** + **Skin in the Game** + **Community Wisdom** = **Better Outcomes**
 
@@ -204,6 +229,7 @@ Every venture progresses through seven phases:
 - Collective intelligence catches problems early
 - Aligned incentives drive collaboration
 - Gamification makes it engaging
+
 </div>
 
 ## Next Steps

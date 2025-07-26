@@ -160,7 +160,8 @@ graph TD
 ### For Senders
 
 <div class="arena-card" markdown="1">
-<h3>💥 Sender Penalty Framework</h3>
+
+### 💥 Sender Penalty Framework
 
 **Failure Consequences:**
 
@@ -188,12 +189,14 @@ graph TD
 - **XP Loss**: -100 points multiplied by milestone difficulty
 - **Trust Reduction**: 30% decrease in trust score
 - **Future Penalty**: Next milestones 10% harder to fund
+
 </div>
 
 ### For Anchors
 
 <div class="arena-card" markdown="1">
-<h3>⚠️ Anchor Accountability</h3>
+
+### ⚠️ Anchor Accountability
 
 **Quality Failures:**
 
@@ -215,6 +218,7 @@ If validation is overturned:
 - **Fee Clawback**: Must return 2x the original fee
 - **Reputation Loss**: -500 XP penalty
 - **Future Rate Cut**: 20% reduction in fee rates
+
 </div>
 
 ## Distribution Mechanics
@@ -267,7 +271,8 @@ sequenceDiagram
 ### Ecosystem Incentives
 
 <div class="arena-card" markdown="1">
-<h3>🎆 Bonus Reward Programs</h3>
+
+### 🎆 Bonus Reward Programs
 
 **Active Programs:**
 
@@ -291,6 +296,7 @@ sequenceDiagram
    - Voting rewards: 10 $SIGNAL/vote
    - Proposal rewards: 1,000 $SIGNAL
    - Implementation: Revenue share
+
 </div>
 
 ### Seasonal Campaigns
@@ -306,7 +312,8 @@ sequenceDiagram
 ### Insurance Mechanisms
 
 <div class="arena-card" markdown="1">
-<h3>🛡️ Protection Options</h3>
+
+### 🛡️ Protection Options
 
 **Signal Insurance** (Coming Soon)
 
@@ -328,6 +335,7 @@ sequenceDiagram
 - Dispute resolution support
 - Legal defense fund
 - Professional insurance
+
 </div>
 
 ## Tax Considerations
@@ -406,22 +414,26 @@ For tax purposes, maintain records of:
 ### Reward Success Stories
 
 <div class="arena-card" markdown="1">
-<h4>🌟 The Perfect Signal</h4>
+
+#### 🌟 The Perfect Signal
 <p><strong>Echo:</strong> CryptoSage</p>
 <p><strong>Signal:</strong> 10,000 $SIGNAL belief on DeFiVault Phase 4</p>
 <p><strong>Timing:</strong> 14 days early</p>
 <p><strong>Result:</strong> 2.8x return (28,000 $SIGNAL)</p>
 <blockquote>"I spent days analyzing their code and team. The early signal risk paid off beautifully." - CryptoSage</blockquote>
+
 </div>
 
 ### Penalty Lessons
 
 <div class="arena-card" markdown="1">
-<h4>💥 The Costly Mistake</h4>
+
+#### 💥 The Costly Mistake
 <p><strong>Sender:</strong> RushProtocol</p>
 <p><strong>Failure:</strong> Overpromised on scaling milestone</p>
 <p><strong>Penalty:</strong> 250,000 $SIGNAL burned, -2000 XP</p>
 <blockquote>"We learned to be realistic with timelines. The penalty hurt but taught us valuable lessons." - RushProtocol CEO</blockquote>
+
 </div>
 
 ## Future Enhancements

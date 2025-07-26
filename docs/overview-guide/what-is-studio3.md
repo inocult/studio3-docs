@@ -5,8 +5,10 @@ Studio3 is a revolutionary venture building platform that transforms how startup
 ## The Vision
 
 <div class="arena-card" markdown="1">
-<h3>Where Belief Becomes Momentum</h3>
+
+### Where Belief Becomes Momentum
 <p>Studio3 creates an ecosystem where great ideas can find support, validation, and resources through a transparent, community-driven process. By gamifying the entrepreneurship journey and aligning incentives across all participants, we're building the future of venture creation.</p>
+
 </div>
 
 ## Core Philosophy
@@ -42,33 +44,45 @@ Everyone wins when ventures succeed:
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h3>1. Ideas Enter</h3>
+
+### 1. Ideas Enter
 <p>Ventures begin as Spark NFTs created from remixed intellectual property</p>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>2. Founders Compete</h3>
+
+### 2. Founders Compete
 <p>Forge Duels determine who leads each venture forward</p>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>3. Building Begins</h3>
+
+### 3. Building Begins
 <p>Winners form Container DAOs and start public development</p>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>4. Community Signals</h3>
+
+### 4. Community Signals
 <p>Supporters express belief or doubt through $SIGNAL tokens</p>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>5. Progress Validated</h3>
+
+### 5. Progress Validated
 <p>Anchors verify milestones and guide development</p>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>6. Ventures Graduate</h3>
+
+### 6. Ventures Graduate
 <p>Successful ventures achieve sovereignty through Ascension</p>
+
 </div>
 </div>
 
@@ -86,13 +100,15 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 ## Why Studio3 Matters
 
 <div class="arena-card" markdown="1">
-<h3>For the Startup Ecosystem</h3>
+
+### For the Startup Ecosystem
 <ul>
 <li><strong>Reduced Failure Rate</strong> - Community validation catches issues early</li>
 <li><strong>Better Resource Allocation</strong> - Support flows to promising ventures</li>
 <li><strong>Faster Iteration</strong> - Public feedback accelerates learning</li>
 <li><strong>Stronger Networks</strong> - Built-in community from day one</li>
 </ul>
+
 </div>
 
 ### For Individual Participants

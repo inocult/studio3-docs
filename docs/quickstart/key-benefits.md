@@ -3,7 +3,8 @@
 ## Why Studio3 Changes Everything
 
 <div class="arena-card" markdown="1">
-<h3>🎯 The Core Value Proposition</h3>
+
+### 🎯 The Core Value Proposition
 
 Studio3 solves the biggest problems in venture building:
 - **Access** - Anyone can participate based on merit
@@ -11,6 +12,7 @@ Studio3 solves the biggest problems in venture building:
 - **Alignment** - Everyone wins when ventures succeed
 - **Efficiency** - Community wisdom prevents failures
 - **Engagement** - Gamification makes it exciting
+
 </div>
 
 ## 🏗️ Benefits for Founders
@@ -18,7 +20,8 @@ Studio3 solves the biggest problems in venture building:
 ### 1. Democratic Access to Capital
 
 <div class="arena-card" markdown="1">
-<h3>💰 No More Gatekeepers</h3>
+
+### 💰 No More Gatekeepers
 
 **Traditional Way:**
 
@@ -33,12 +36,14 @@ Studio3 solves the biggest problems in venture building:
 - Public evaluation process
 - Clear feedback from community
 - Global participation
+
 </div>
 
 ### 2. Built-in Community
 
 <div class="arena-card" markdown="1">
-<h3>👥 Never Build Alone</h3>
+
+### 👥 Never Build Alone
 
 From day one, you have:
 
@@ -46,6 +51,7 @@ From day one, you have:
 - **Expert mentors** guiding your journey
 - **Real-time feedback** on every decision
 - **Network effects** from the ecosystem
+
 </div>
 
 ### 3. Progressive Funding
@@ -67,18 +73,21 @@ From day one, you have:
 ### 1. Early Access to Innovation
 
 <div class="arena-card" markdown="1">
-<h3>🚀 Get In Early</h3>
+
+### 🚀 Get In Early
 
 - **Discover ventures** before mainstream
 - **Support ideas** you believe in
 - **Direct participation** in success
 - **No accredited investor** requirements
+
 </div>
 
 ### 2. Transparent Risk/Reward
 
 <div class="arena-card" markdown="1">
-<h3>📊 Know What You're Getting</h3>
+
+### 📊 Know What You're Getting
 
 **Clear Mechanics:**
 
@@ -86,6 +95,7 @@ From day one, you have:
 - Public track records of all participants
 - Real-time progress visibility
 - Defined success criteria
+
 </div>
 
 ### 3. Active Participation
@@ -107,12 +117,14 @@ From day one, you have:
 ### 1. Monetize Expertise
 
 <div class="arena-card" markdown="1">
-<h3>💎 Your Experience Has Value</h3>
+
+### 💎 Your Experience Has Value
 
 - **Earn fees** for validations (3-10%)
 - **Build reputation** as trusted expert
 - **Guide next generation** of founders
 - **Stay connected** to innovation
+
 </div>
 
 ### 2. Meaningful Impact
@@ -134,7 +146,8 @@ From day one, you have:
 ### 1. Higher Success Rates
 
 <div class="arena-card" markdown="1">
-<h3>📈 Better Outcomes for All</h3>
+
+### 📈 Better Outcomes for All
 
 **Traditional Startup Failure Rate:** 90%
 
@@ -144,6 +157,7 @@ From day one, you have:
 - Public accountability drives execution
 - Continuous feedback enables quick pivots
 - Aligned incentives prevent conflicts
+
 </div>
 
 ### 2. Efficient Capital Allocation
@@ -172,13 +186,15 @@ From day one, you have:
 ### 1. The Network Effect
 
 <div class="arena-card" markdown="1">
-<h3>🔗 Value Compounds with Growth</h3>
+
+### 🔗 Value Compounds with Growth
 
 As more people join:
 - **More ventures** = More opportunities
 - **More signals** = Better price discovery
 - **More validators** = Higher quality
 - **More success** = More attraction
+
 </div>
 
 ### 2. Aligned Incentives
@@ -207,40 +223,47 @@ Everyone benefits from the same outcome:
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>🌟 Perfect for Founders Who:</h4>
+
+#### 🌟 Perfect for Founders Who:
 
 - Lack traditional VC connections
 - Want to build transparently
 - Believe in community wisdom
 - Seek progressive funding
 - Value true ownership
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>🌟 Perfect for Supporters Who:</h4>
+
+#### 🌟 Perfect for Supporters Who:
 
 - Want early-stage exposure
 - Enjoy evaluating ideas
 - Have risk capital to deploy
 - Believe in democratization
 - Like active participation
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>🌟 Perfect for Validators Who:</h4>
+
+#### 🌟 Perfect for Validators Who:
 
 - Have deep expertise
 - Want to give back
 - Enjoy mentoring
 - Seek flexible income
 - Value ecosystem building
+
 </div>
 </div>
 
 ## ⚡ The Bottom Line
 
 <div class="arena-card" markdown="1">
-<h3>Why Studio3 Wins</h3>
+
+### Why Studio3 Wins
 
 **For Individuals:**
 
@@ -262,6 +285,7 @@ Everyone benefits from the same outcome:
 - Community-driven innovation
 - Aligned stakeholder interests
 - Sustainable growth model
+
 </div>
 
 ## Next Steps

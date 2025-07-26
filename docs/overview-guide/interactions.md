@@ -212,7 +212,8 @@ graph LR
 
 <div class="grid cards">
     <div class="arena-card" markdown="1">
-        <h4>🎭 Scenario: Pivot Decision</h4>
+
+#### 🎭 Scenario: Pivot Decision
         <p><strong>Participants:</strong> Sender + Multiple Echoes + Anchor</p>
         <ul>
             <li>Sender proposes major pivot</li>
@@ -220,10 +221,12 @@ graph LR
             <li>Anchor provides expert opinion</li>
             <li>Collective decision emerges</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h4>⚖️ Scenario: Disputed Validation</h4>
+
+#### ⚖️ Scenario: Disputed Validation
         <p><strong>Participants:</strong> Sender + Echoes + Multiple Anchors</p>
         <ul>
             <li>Sender claims success</li>
@@ -231,7 +234,8 @@ graph LR
             <li>Echoes split on outcome</li>
             <li>Anchor Council decides</li>
         </ul>
-    </div>
+
+</div>
 </div>
 
 ## Communication Channels

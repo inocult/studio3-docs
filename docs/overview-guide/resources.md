@@ -10,7 +10,8 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h3>🏛️ Studio3 Platform</h3>
+
+### 🏛️ Studio3 Platform
 
 **Main Website**: [studio3.xyz](https://studio3.xyz)
 - Launch Arenas
@@ -22,10 +23,12 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - System health
 - Maintenance windows
 - Incident reports
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>💬 Community Hub</h3>
+
+### 💬 Community Hub
 
 **Discord**: [discord.gg/studio3](https://discord.gg/studio3)
 - Real-time chat
@@ -38,6 +41,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - Proposals
 - Guides
 - Q&A
+
 </div>
 </div>
 
@@ -60,7 +64,8 @@ This comprehensive resource guide provides links, tools, templates, and support 
 ### Quick References
 
 <div class="arena-card" markdown="1">
-<h3>📋 Cheat Sheets</h3>
+
+### 📋 Cheat Sheets
 
 **Phase Progression**
 - Requirements per phase
@@ -79,6 +84,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - Quality standards
 - Report template
 - [Download PDF](../assets/validation-checklist.pdf)
+
 </div>
 
 ## 🛠️ Tools & Templates
@@ -87,7 +93,8 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>📊 Analytics Dashboard</h4>
+
+#### 📊 Analytics Dashboard
 
 Access real-time metrics:
 - Venture performance
@@ -96,10 +103,12 @@ Access real-time metrics:
 - Network growth
 
 [Launch Dashboard →](https://app.studio3.xyz/analytics)
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>🔍 Arena Explorer</h4>
+
+#### 🔍 Arena Explorer
 
 Browse and filter:
 - Active ventures
@@ -108,6 +117,7 @@ Browse and filter:
 - Failure analysis
 
 [Explore Arenas →](https://app.studio3.xyz/explore)
+
 </div>
 </div>
 
@@ -173,7 +183,8 @@ Browse and filter:
 ### Learning Paths
 
 <div class="arena-card" markdown="1">
-<h3>🚀 Quick Start Courses</h3>
+
+### 🚀 Quick Start Courses
 
 **Studio3 Fundamentals** (2 hours)
 - Platform overview
@@ -192,6 +203,7 @@ Browse and filter:
 - Validation mastery
 - Ethics & standards
 - [Start Course →](https://learn.studio3.xyz/anchor-cert)
+
 </div>
 
 ### Video Library
@@ -225,7 +237,8 @@ Browse and filter:
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>🆘 Support Levels</h4>
+
+#### 🆘 Support Levels
 
 **Self-Service**
 - Knowledge base
@@ -244,10 +257,12 @@ Browse and filter:
 - Office hours
 - Email support
 - Emergency hotline
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>📞 Contact Methods</h4>
+
+#### 📞 Contact Methods
 
 **General Support**
 - Email: support@studio3.xyz
@@ -260,6 +275,7 @@ Browse and filter:
 **Urgent Matters**
 - Hotline: +1-555-STUDIO3
 - Discord: @emergency-mod
+
 </div>
 </div>
 
@@ -288,7 +304,8 @@ Browse and filter:
 ### Achievements & Rewards
 
 <div class="arena-card" markdown="1">
-<h3>🌟 Community Recognition</h3>
+
+### 🌟 Community Recognition
 
 **Monthly Awards**
 - Top Sender
@@ -308,6 +325,7 @@ Browse and filter:
 - Achievement NFTs
 - Special editions
 - Legacy markers
+
 </div>
 
 ### Ambassador Program
@@ -331,7 +349,8 @@ Browse and filter:
 ### Best Practices
 
 <div class="arena-card" markdown="1">
-<h3>🛡️ Security Essentials</h3>
+
+### 🛡️ Security Essentials
 
 **Wallet Security**
 - Hardware wallet guide
@@ -350,6 +369,7 @@ Browse and filter:
 - Red flag indicators
 - Reporting process
 - [Stay Safe Guide](../assets/scam-prevention.pdf)
+
 </div>
 
 ### Emergency Procedures
@@ -411,7 +431,8 @@ Currently available in:
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>📰 News & Updates</h4>
+
+#### 📰 News & Updates
 
 **Weekly Newsletter**
 - Platform updates
@@ -424,10 +445,12 @@ Currently available in:
 - Roadmap progress
 - Feature previews
 - [Read Blog](https://dev.studio3.xyz)
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>🎙️ Podcast & Media</h4>
+
+#### 🎙️ Podcast & Media
 
 **Studio3 Podcast**
 - Founder stories
@@ -440,6 +463,7 @@ Currently available in:
 - Tutorial releases
 - Live events
 - [Subscribe](https://youtube.com/studio3)
+
 </div>
 </div>
 

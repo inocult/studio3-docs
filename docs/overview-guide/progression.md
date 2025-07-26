@@ -9,13 +9,15 @@ Progression through Studio3's seven phases follows clear rules designed to ensur
 ### Fundamental Rules
 
 <div class="arena-card" markdown="1">
-<h3>📏 The Five Laws</h3>
+
+### 📏 The Five Laws
 
 1. **Sequential Progress** - Phases must be completed in order
 2. **No Skipping** - Every venture experiences every phase
 3. **Merit-Based** - Advancement requires proven achievement
 4. **Community Validated** - Progress confirmed by ecosystem
 5. **Time Bounded** - Minimum and maximum durations apply
+
 </div>
 
 ### The Progression Framework
@@ -48,7 +50,8 @@ All phase transitions require:
 
 <div class="grid cards">
     <div class="arena-card" markdown="1">
-        <h4>✨ Spark → Forge</h4>
+
+#### ✨ Spark → Forge
         <ul>
             <li>100+ $SIGNAL in belief</li>
             <li>10+ unique supporters</li>
@@ -56,10 +59,12 @@ All phase transitions require:
             <li>Feasible execution plan</li>
             <li>7-day minimum duration</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h4>⚔️ Forge → Ignition</h4>
+
+#### ⚔️ Forge → Ignition
         <ul>
             <li>Win founder duel</li>
             <li>Claim Signal NFT</li>
@@ -67,10 +72,12 @@ All phase transitions require:
             <li>Present winning vision</li>
             <li>Automatic upon victory</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h4>🚀 Ignition → Drift</h4>
+
+#### 🚀 Ignition → Drift
         <ul>
             <li>Container DAO formed</li>
             <li>Core team assembled (3+)</li>
@@ -78,10 +85,12 @@ All phase transitions require:
             <li>Initial users onboarded</li>
             <li>14-day minimum</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h4>🌊 Drift → Orbit</h4>
+
+#### 🌊 Drift → Orbit
         <ul>
             <li>Product-market fit signals</li>
             <li>40%+ user retention</li>
@@ -89,10 +98,12 @@ All phase transitions require:
             <li>Clear growth trajectory</li>
             <li>60-day minimum</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h4>🛸 Orbit → Flare</h4>
+
+#### 🛸 Orbit → Flare
         <ul>
             <li>6 months stable operations</li>
             <li>80%+ milestone success rate</li>
@@ -100,10 +111,12 @@ All phase transitions require:
             <li>External funding interest</li>
             <li>180-day minimum</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h4>🔥 Flare → Ascension</h4>
+
+#### 🔥 Flare → Ascension
         <ul>
             <li>Funding secured</li>
             <li>20+ team members</li>
@@ -111,7 +124,8 @@ All phase transitions require:
             <li>Buyback funds available</li>
             <li>180-day minimum</li>
         </ul>
-    </div>
+
+</div>
 </div>
 
 ## Validation Process
@@ -119,7 +133,8 @@ All phase transitions require:
 ### Anchor Assessment
 
 <div class="arena-card" markdown="1">
-<h3>⚓ Validation Framework</h3>
+
+### ⚓ Validation Framework
 
 **Anchors evaluate:**
 
@@ -144,6 +159,7 @@ All phase transitions require:
    - Growth potential
 
 **Minimum score: 70% to proceed**
+
 </div>
 
 ### Community Confirmation
@@ -243,7 +259,8 @@ def calculate_phase_health(venture):
 ### Accelerated Progression
 
 <div class="arena-card" markdown="1">
-<h3>⚡ Fast Track Qualification</h3>
+
+### ⚡ Fast Track Qualification
 
 **Exceptional ventures may progress faster if:**
 
@@ -259,6 +276,7 @@ def calculate_phase_health(venture):
 - Cannot skip phases
 - Extra scrutiny on validation
 - Higher evidence standards
+
 </div>
 
 ### Regression Scenarios
@@ -331,7 +349,8 @@ When ventures can't advance:
 ### Complex Scenarios
 
 <div class="arena-card" markdown="1">
-<h3>🤔 What If...</h3>
+
+### 🤔 What If...
 
 **Q: Venture succeeds wildly but hasn't met time minimum?**
 A: Must wait. Time requirements ensure proper foundation.
@@ -347,6 +366,7 @@ A: Force majeure provisions allow special extensions.
 
 **Q: Founders want to stay in current phase longer?**
 A: Allowed in Orbit/Flare. Other phases have maximums.
+
 </div>
 
 ## Historical Progression Data

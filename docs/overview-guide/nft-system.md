@@ -10,7 +10,8 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
 <div class="grid cards">
     <div class="arena-card" markdown="1">
-        <h3>🎨 Spark NFT</h3>
+
+### 🎨 Spark NFT
         <p><strong>The Origin</strong></p>
         <p>Represents the original idea and IP combination</p>
         <ul>
@@ -19,10 +20,12 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
             <li>Tradeable and collectible</li>
             <li>Required for Forge entry</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h3>📡 Signal NFT</h3>
+
+### 📡 Signal NFT
         <p><strong>The Journey</strong></p>
         <p>Dynamic NFT tracking the venture's entire lifecycle</p>
         <ul>
@@ -31,10 +34,12 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
             <li>Records all signals received</li>
             <li>Becomes more valuable over time</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h3>🛡️ Halo NFT</h3>
+
+### 🛡️ Halo NFT
         <p><strong>The Achievement</strong></p>
         <p>Soulbound proof of successful graduation</p>
         <ul>
@@ -43,7 +48,8 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
             <li>Non-transferable honor</li>
             <li>Unlocks sovereign rights</li>
         </ul>
-    </div>
+
+</div>
 </div>
 
 ## NFT Lifecycle
@@ -119,7 +125,8 @@ graph TD
 ### Dynamic Properties
 
 <div class="arena-card" markdown="1">
-<h3>🎨 Visual Evolution</h3>
+
+### 🎨 Visual Evolution
 <p>The Signal NFT's appearance changes based on:</p>
 <ul>
     <li><strong>Phase Progress:</strong> Color shifts with each phase</li>
@@ -128,6 +135,7 @@ graph TD
     <li><strong>Community Size:</strong> Complexity increases</li>
     <li><strong>Time Active:</strong> Aged patina develops</li>
 </ul>
+
 </div>
 
 ### Signal NFT Metadata Structure
@@ -241,7 +249,8 @@ sequenceDiagram
 ### How They Work Together
 
 <div class="arena-card" markdown="1">
-<h3>🔗 The Trinity Effect</h3>
+
+### 🔗 The Trinity Effect
 <p>When all three NFTs are united in one wallet:</p>
 <ul>
     <li>🎨 <strong>Spark</strong> provides the origin story</li>
@@ -249,6 +258,7 @@ sequenceDiagram
     <li>🛡️ <strong>Halo</strong> proves the achievement</li>
 </ul>
 <p><strong>Result:</strong> Complete sovereignty over the venture's future</p>
+
 </div>
 
 ### Cross-NFT Benefits
@@ -361,11 +371,13 @@ A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
 ### Notable NFT Journeys
 
 <div class="arena-card" markdown="1">
-<h4>🌟 The First Trinity</h4>
+
+#### 🌟 The First Trinity
 <p><strong>Venture:</strong> DecentralHealth</p>
 <p><strong>Journey:</strong> 18 months from Spark to Sovereignty</p>
 <p><strong>Current Value:</strong> Spark (50 ETH), Signal (200 ETH), Halo (Priceless)</p>
 <blockquote>"Watching our Signal NFT evolve with each milestone was magical. When we finally unlocked our Halo, it felt like graduation day." - DecentralHealth Founder</blockquote>
+
 </div>
 
 ## Getting Started

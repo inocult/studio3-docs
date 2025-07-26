@@ -17,7 +17,8 @@ This quickstart guide gives you the essential overview of Studio3 in just a few 
 - **How to get started** today
 
 <div class="arena-card" markdown="1">
-<h3>⏱️ Reading Time: 5 minutes</h3>
+
+### ⏱️ Reading Time: 5 minutes
 
 Perfect for:
 - First-time visitors
@@ -26,6 +27,7 @@ Perfect for:
 - Anyone curious about the platform
 
 After reading, you'll understand the core concepts and be ready to choose your role.
+
 </div>
 
 ## 🎯 The Big Picture
@@ -43,35 +45,43 @@ That's Studio3.
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h3>1. What is Studio3?</h3>
+
+### 1. What is Studio3?
 
 The revolutionary platform transforming how ventures are built.
 
 [Read More →](what-is-studio3.md)
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>2. How It Works</h3>
+
+### 2. How It Works
 
 Simple explanation of the core mechanics and process.
 
 [Read More →](how-it-works.md)
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>3. Key Benefits</h3>
+
+### 3. Key Benefits
 
 Why participants choose Studio3 over traditional methods.
 
 [Read More →](key-benefits.md)
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>4. Get Started</h3>
+
+### 4. Get Started
 
 Your first steps into the Studio3 ecosystem.
 
 [Read More →](get-started.md)
+
 </div>
 </div>
 
@@ -87,7 +97,9 @@ Before diving into detailed guides, this quickstart:
 ## 📥 Download Options
 
 <div class="download-box">
-<h3>📄 Quickstart PDF</h3>
+
+### 📄 Quickstart PDF
+
 <a href="../pdf/studio3-quickstart.pdf" class="md-button md-button--primary">
 📥 Download PDF Guide
 </a>

@@ -3,7 +3,8 @@
 ## Your First Steps into Studio3
 
 <div class="arena-card" markdown="1">
-<h3>🚀 Ready to Begin?</h3>
+
+### 🚀 Ready to Begin?
 
 Getting started with Studio3 is simple:
 
@@ -12,6 +13,7 @@ Getting started with Studio3 is simple:
 3. **Start small** to learn the system
 4. **Engage actively** with the community
 5. **Build your reputation** over time
+
 </div>
 
 ## 🎯 Step 1: Choose Your Path
@@ -20,7 +22,8 @@ Getting started with Studio3 is simple:
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h3>🏗️ Become a Sender</h3>
+
+### 🏗️ Become a Sender
 
 **If you have:**
 
@@ -36,10 +39,12 @@ Getting started with Studio3 is simple:
 - Team building skills
 
 [Start as Sender →](../senders-guide/)
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>📡 Become an Echo</h3>
+
+### 📡 Become an Echo
 
 **If you have:**
 
@@ -55,10 +60,12 @@ Getting started with Studio3 is simple:
 - Research mindset
 
 [Start as Echo →](../echoes-guide/)
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>⚓ Become an Anchor</h3>
+
+### ⚓ Become an Anchor
 
 **If you have:**
 
@@ -74,6 +81,7 @@ Getting started with Studio3 is simple:
 - Fair judgment
 
 [Start as Anchor →](../anchors-guide/)
+
 </div>
 </div>
 
@@ -82,7 +90,8 @@ Getting started with Studio3 is simple:
 ### Technical Requirements
 
 <div class="arena-card" markdown="1">
-<h3>💻 What You Need</h3>
+
+### 💻 What You Need
 
 1. **Web3 Wallet**
    - MetaMask (recommended)
@@ -98,6 +107,7 @@ Getting started with Studio3 is simple:
    - Visit [studio3.xyz](https://studio3.xyz)
    - Connect wallet
    - Complete profile
+
 </div>
 
 ### Account Setup Process
@@ -115,7 +125,8 @@ Getting started with Studio3 is simple:
 ### Essential Knowledge
 
 <div class="arena-card" markdown="1">
-<h3>📖 Must-Read Resources</h3>
+
+### 📖 Must-Read Resources
 
 **For All Participants:**
 
@@ -129,6 +140,7 @@ Getting started with Studio3 is simple:
 - Your chosen role's complete guide
 - Success stories from veterans
 - Common mistakes to avoid
+
 </div>
 
 ### Key Concepts to Master
@@ -145,33 +157,39 @@ Getting started with Studio3 is simple:
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>🏗️ First Sender Steps</h4>
+
+#### 🏗️ First Sender Steps
 
 1. Browse existing ventures
 2. Study successful patterns
 3. Prepare your Spark idea
 4. Engage with community
 5. Plan first milestone
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>📡 First Echo Steps</h4>
+
+#### 📡 First Echo Steps
 
 1. Make tiny test signal (10 $SIGNAL)
 2. Research 5 ventures daily
 3. Join Echo discussion groups
 4. Track your predictions
 5. Learn from outcomes
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>⚓ First Anchor Steps</h4>
+
+#### ⚓ First Anchor Steps
 
 1. Apply for Anchor status
 2. Shadow current validators
 3. Study quality standards
 4. Prepare validation tools
 5. Start with simple reviews
+
 </div>
 </div>
 
@@ -180,7 +198,8 @@ Getting started with Studio3 is simple:
 ### Where to Connect
 
 <div class="arena-card" markdown="1">
-<h3>💬 Community Channels</h3>
+
+### 💬 Community Channels
 
 **Discord Server**
 - Real-time chat
@@ -198,6 +217,7 @@ Getting started with Studio3 is simple:
 - Twitter for updates
 - YouTube for tutorials
 - Medium for insights
+
 </div>
 
 ### Building Relationships
@@ -213,7 +233,8 @@ Getting started with Studio3 is simple:
 ### The XP System
 
 <div class="arena-card" markdown="1">
-<h3>🌟 Reputation Matters</h3>
+
+### 🌟 Reputation Matters
 
 **How to earn XP:**
 
@@ -230,6 +251,7 @@ Getting started with Studio3 is simple:
 - Trusted status
 - Governance weight
 - Network effects
+
 </div>
 
 ### Long-term Strategy
@@ -243,7 +265,8 @@ Getting started with Studio3 is simple:
 ## 🎯 Quick Start Checklist
 
 <div class="arena-card" markdown="1">
-<h3>✅ Your First Week</h3>
+
+### ✅ Your First Week
 
 **Day 1:**
 
@@ -265,6 +288,7 @@ Getting started with Studio3 is simple:
 - [ ] Connect with 5 community members
 - [ ] Attend one community event
 - [ ] Plan your strategy
+
 </div>
 
 ## 💡 Pro Tips for Beginners
@@ -273,7 +297,8 @@ Getting started with Studio3 is simple:
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>✅ DO:</h4>
+
+#### ✅ DO:
 
 - Start small and learn
 - Ask questions freely
@@ -282,10 +307,12 @@ Getting started with Studio3 is simple:
 - Think long-term
 - Stay transparent
 - Celebrate others' wins
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>❌ DON'T:</h4>
+
+#### ❌ DON'T:
 
 - Rush into big stakes
 - Ignore community wisdom
@@ -294,6 +321,7 @@ Getting started with Studio3 is simple:
 - Neglect reputation
 - Create multiple accounts
 - Spread negativity
+
 </div>
 </div>
 
@@ -319,7 +347,8 @@ You'll know you're on track when:
 ## 🎉 Welcome to Studio3!
 
 <div class="arena-card" markdown="1">
-<h3>🌟 You're Part of Something Special</h3>
+
+### 🌟 You're Part of Something Special
 
 By joining Studio3, you're not just participating in a platform - you're helping build the future of venture creation. Every signal, every validation, every milestone contributes to an ecosystem where:
 
@@ -328,6 +357,7 @@ By joining Studio3, you're not just participating in a platform - you're helping
 - **Transparency builds trust**
 - **Community creates value**
 - **Everyone can succeed**
+
 </div>
 
 ## Next Steps

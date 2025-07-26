@@ -247,7 +247,8 @@ flowchart TD
 
 <div class="grid cards">
     <div class="arena-card" markdown="1">
-        <h4>⏱️ Short-term Alignment</h4>
+
+#### ⏱️ Short-term Alignment
         <p><strong>Immediate Rewards for Good Behavior</strong></p>
         <ul>
             <li>Quick signal returns</li>
@@ -255,10 +256,12 @@ flowchart TD
             <li>Validation fees</li>
             <li>Daily XP gains</li>
         </ul>
-    </div>
+
+</div>
     
     <div class="arena-card" markdown="1">
-        <h4>📈 Long-term Alignment</h4>
+
+#### 📈 Long-term Alignment
         <p><strong>Compound Benefits for Patience</strong></p>
         <ul>
             <li>Reputation accumulation</li>
@@ -266,7 +269,8 @@ flowchart TD
             <li>Venture graduation</li>
             <li>Ecosystem ownership</li>
         </ul>
-    </div>
+
+</div>
 </div>
 
 ### Phase-Based Incentives

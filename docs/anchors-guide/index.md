@@ -13,57 +13,69 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h3>1. Anchor Fundamentals</h3>
+
+### 1. Anchor Fundamentals
 <ul>
 <li><a href="anchor-role/">The Anchor Role</a></li>
 <li><a href="responsibilities/">Core Responsibilities</a></li>
 <li><a href="requirements/">Qualification Requirements</a></li>
 </ul>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>2. Validation Process</h3>
+
+### 2. Validation Process
 <ul>
 <li><a href="validation-framework/">Validation Framework</a></li>
 <li><a href="milestone-review/">Milestone Review Process</a></li>
 <li><a href="evidence-assessment/">Evidence Assessment</a></li>
 </ul>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>3. Mentorship</h3>
+
+### 3. Mentorship
 <ul>
 <li><a href="guiding-founders/">Guiding Founders</a></li>
 <li><a href="strategic-advice/">Strategic Advice</a></li>
 <li><a href="crisis-management/">Crisis Management</a></li>
 </ul>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>4. Quality Standards</h3>
+
+### 4. Quality Standards
 <ul>
 <li><a href="quality-criteria/">Quality Criteria</a></li>
 <li><a href="red-flags/">Identifying Red Flags</a></li>
 <li><a href="best-practices/">Validation Best Practices</a></li>
 </ul>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>5. Advanced Topics</h3>
+
+### 5. Advanced Topics
 <ul>
 <li><a href="dispute-resolution/">Dispute Resolution</a></li>
 <li><a href="ecosystem-governance/">Ecosystem Governance</a></li>
 <li><a href="anchor-council/">Anchor Council</a></li>
 </ul>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>6. Growth & Rewards</h3>
+
+### 6. Growth & Rewards
 <ul>
 <li><a href="anchor-progression/">Progression Levels</a></li>
 <li><a href="compensation/">Compensation Structure</a></li>
 <li><a href="reputation-management/">Reputation Management</a></li>
 </ul>
+
 </div>
 </div>
 
@@ -88,7 +100,8 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h3>Minimum Requirements</h3>
+
+### Minimum Requirements
 <ul>
 <li>✅ Successful venture exit (any ecosystem)</li>
 <li>✅ 5+ years building experience</li>
@@ -96,10 +109,12 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <li>✅ Time commitment availability</li>
 <li>✅ Stake requirement met</li>
 </ul>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h3>Preferred Qualifications</h3>
+
+### Preferred Qualifications
 <ul>
 <li>🌟 Multiple successful ventures</li>
 <li>🌟 Domain expertise in key areas</li>
@@ -107,6 +122,7 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <li>🌟 Technical due diligence skills</li>
 <li>🌟 Network connections</li>
 </ul>
+
 </div>
 </div>
 
@@ -124,23 +140,27 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>📋 Checklists</h4>
+
+#### 📋 Checklists
 <ul>
 <li>Milestone Validation Checklist</li>
 <li>Technical Review Template</li>
 <li>Market Validation Framework</li>
 <li>Team Assessment Guide</li>
 </ul>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>🔍 Assessment Tools</h4>
+
+#### 🔍 Assessment Tools
 <ul>
 <li>Code Review Platform</li>
 <li>Market Analysis Dashboard</li>
 <li>Team Performance Metrics</li>
 <li>Risk Assessment Matrix</li>
 </ul>
+
 </div>
 </div>
 
@@ -157,13 +177,17 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>The Architect</h4>
+
+#### The Architect
 <p>Master Anchor who guided 12 ventures to Ascension, specializing in technical architecture and scalability.</p>
+
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>The Strategist</h4>
+
+#### The Strategist
 <p>Council Member known for helping ventures navigate difficult pivots and find product-market fit.</p>
+
 </div>
 </div>
 
