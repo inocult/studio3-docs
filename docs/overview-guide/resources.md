@@ -11,7 +11,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-### 🏛️ Studio3 Platform
+<h3>🏛️ Studio3 Platform</h3>
 
 **Main Website**: [studio3.xyz](https://studio3.xyz)
 - Launch Arenas
@@ -28,7 +28,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-### 💬 Community Hub
+<h3>💬 Community Hub</h3>
 
 **Discord**: [discord.gg/studio3](https://discord.gg/studio3)
 - Real-time chat
@@ -65,21 +65,24 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-### 📋 Cheat Sheets
+<h3>📋 Cheat Sheets</h3>
 
 **Phase Progression**
+
 - Requirements per phase
 - Success metrics
 - Common pitfalls
 - [Download PDF](../assets/phase-progression-cheatsheet.pdf)
 
 **Signal Strategy**
+
 - Multiplier calculations
 - Risk management
 - Portfolio balance
 - [Download PDF](../assets/signal-strategy-cheatsheet.pdf)
 
 **Validation Checklist**
+
 - Evidence requirements
 - Quality standards
 - Report template
@@ -94,7 +97,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 📊 Analytics Dashboard
+<h4>📊 Analytics Dashboard</h4>
 
 Access real-time metrics:
 
@@ -109,7 +112,7 @@ Access real-time metrics:
 
 <div class="arena-card" markdown="1">
 
-#### 🔍 Arena Explorer
+<h4>🔍 Arena Explorer</h4>
 
 Browse and filter:
 
@@ -128,6 +131,7 @@ Browse and filter:
 #### 🏗️ Sender Tools
 
 **Venture Planning Kit**
+
 - Milestone template
 - Budget calculator
 - Timeline planner
@@ -186,7 +190,7 @@ Browse and filter:
 
 <div class="arena-card" markdown="1">
 
-### 🚀 Quick Start Courses
+<h3>🚀 Quick Start Courses</h3>
 
 **Studio3 Fundamentals** (2 hours)
 - Platform overview
@@ -240,21 +244,24 @@ Browse and filter:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 🆘 Support Levels
+<h4>🆘 Support Levels</h4>
 
 **Self-Service**
+
 - Knowledge base
 - FAQs
 - Video guides
 - Community wiki
 
 **Community Support**
+
 - Discord help channels
 - Forum Q&A
 - Peer mentoring
 - Study groups
 
 **Official Support**
+
 - Support tickets
 - Office hours
 - Email support
@@ -264,17 +271,20 @@ Browse and filter:
 
 <div class="arena-card" markdown="1">
 
-#### 📞 Contact Methods
+<h4>📞 Contact Methods</h4>
 
 **General Support**
+
 - Email: support@studio3.xyz
 - Response: 24-48 hours
 
 **Technical Issues**
+
 - Email: tech@studio3.xyz
 - Discord: #tech-support
 
 **Urgent Matters**
+
 - Hotline: +1-555-STUDIO3
 - Discord: @emergency-mod
 
@@ -307,9 +317,10 @@ Browse and filter:
 
 <div class="arena-card" markdown="1">
 
-### 🌟 Community Recognition
+<h3>🌟 Community Recognition</h3>
 
 **Monthly Awards**
+
 - Top Sender
 - Accurate Echo
 - Quality Anchor
@@ -317,12 +328,14 @@ Browse and filter:
 - Community Helper
 
 **Leaderboards**
+
 - Global rankings
 - Role-specific
 - Regional boards
 - All-time records
 
 **Badges & NFTs**
+
 - Milestone badges
 - Achievement NFTs
 - Special editions
@@ -352,21 +365,24 @@ Browse and filter:
 
 <div class="arena-card" markdown="1">
 
-### 🛡️ Security Essentials
+<h3>🛡️ Security Essentials</h3>
 
 **Wallet Security**
+
 - Hardware wallet guide
 - Backup strategies
 - Recovery planning
 - [Security Guide](../assets/wallet-security.pdf)
 
 **Account Protection**
+
 - 2FA setup required
 - Password managers
 - Session monitoring
 - [Protection Guide](../assets/account-security.pdf)
 
 **Scam Prevention**
+
 - Common scam types
 - Red flag indicators
 - Reporting process
@@ -435,15 +451,17 @@ Currently available in:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 📰 News & Updates
+<h4>📰 News & Updates</h4>
 
 **Weekly Newsletter**
+
 - Platform updates
 - Featured ventures
 - Community highlights
 - [Subscribe](https://studio3.xyz/newsletter)
 
 **Development Blog**
+
 - Technical updates
 - Roadmap progress
 - Feature previews
@@ -453,15 +471,17 @@ Currently available in:
 
 <div class="arena-card" markdown="1">
 
-#### 🎙️ Podcast & Media
+<h4>🎙️ Podcast & Media</h4>
 
 **Studio3 Podcast**
+
 - Founder stories
 - Strategy deep dives
 - Market analysis
 - [Listen Now](https://podcast.studio3.xyz)
 
 **YouTube Updates**
+
 - Weekly summaries
 - Tutorial releases
 - Live events

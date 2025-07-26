@@ -9,9 +9,11 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-### 🏗️ Become a Sender
+<h3>🏗️ Become a Sender</h3>
 
-**You should be a Sender if you:**
+**You should be a Sender if you:
+
+**
 
 - Have a venture idea ready to build
 - Enjoy public accountability
@@ -19,7 +21,9 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Want full ownership potential
 - Can handle transparent failure
 
-**Required:**
+**Required:
+
+**
 
 - Entrepreneurial drive
 - Execution ability
@@ -31,9 +35,11 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 <div class="arena-card" markdown="1">
 
-### 📡 Become an Echo
+<h3>📡 Become an Echo</h3>
 
-**You should be an Echo if you:**
+**You should be an Echo if you:
+
+**
 
 - Enjoy evaluating opportunities
 - Have capital to deploy
@@ -41,7 +47,9 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Like community participation
 - Seek merit-based returns
 
-**Required:**
+**Required:
+
+**
 
 - $SIGNAL tokens
 - Analytical mindset
@@ -53,9 +61,11 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 <div class="arena-card" markdown="1">
 
-### ⚓ Become an Anchor
+<h3>⚓ Become an Anchor</h3>
 
-**You should be an Anchor if you:**
+**You should be an Anchor if you:
+
+**
 
 - Have venture experience
 - Enjoy mentoring founders
@@ -63,7 +73,9 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Value quality standards
 - Seek consistent income
 
-**Required:**
+**Required:
+
+**
 
 - Proven track record
 - Validation skills
@@ -96,21 +108,24 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 <div class="arena-card" markdown="1">
 
-### ⚖️ Risk vs Reward Analysis
+<h3>⚖️ Risk vs Reward Analysis</h3>
 
 **Highest Risk, Highest Reward: Sender**
+
 - Can lose entire venture
 - Can achieve full sovereignty
 - Reputation permanently affected
 - Unlimited value creation
 
 **Moderate Risk, Moderate Reward: Echo**
+
 - Can lose signal stakes
 - Can earn consistent multipliers
 - Diversification possible
 - Compound growth potential
 
 **Lowest Risk, Steady Reward: Anchor**
+
 - Minimal financial risk
 - Steady fee income
 - Reputation-based growth
@@ -166,13 +181,17 @@ Rate yourself 1-5 on each:
 
 ### Can You Play Multiple Roles?
 
-**Yes, with restrictions:**
+**Yes, with restrictions:
+
+**
 
 - **Echo + Future Sender**: Common progression path
 - **Successful Sender → Anchor**: Natural evolution
 - **Echo + Anchor**: Allowed with disclosure
 
-**Conflicts to avoid:**
+**Conflicts to avoid:
+
+**
 
 - Don't signal on ventures you validate
 - Don't validate ventures you founded
@@ -202,7 +221,7 @@ graph LR
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 🌱 Complete Beginner
+<h4>🌱 Complete Beginner</h4>
 
 Start as an **Echo** with small signals to:
 
@@ -216,7 +235,7 @@ Start as an **Echo** with small signals to:
 
 <div class="arena-card" markdown="1">
 
-#### 🚀 Experienced Entrepreneur
+<h4>🚀 Experienced Entrepreneur</h4>
 
 Jump in as a **Sender** if you have:
 
@@ -230,7 +249,7 @@ Jump in as a **Sender** if you have:
 
 <div class="arena-card" markdown="1">
 
-#### 🎓 Industry Expert
+<h4>🎓 Industry Expert</h4>
 
 Consider **Anchor** role if you have:
 

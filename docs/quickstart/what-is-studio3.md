@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-### 🌟 The One-Liner
+<h3>🌟 The One-Liner</h3>
 
 Studio3 is a gamified venture building platform where entrepreneurs compete for resources, supporters bet on success with tokens, and everything happens transparently in public "Arenas."
 
@@ -26,7 +26,7 @@ Imagine if building a startup was like playing a video game where:
 
 <div class="arena-card" markdown="1">
 
-### Why "Arenas"?
+<h3>Why "Arenas"?</h3>
 
 Just like gladiators competed in ancient arenas:
 
@@ -62,7 +62,7 @@ Just like gladiators competed in ancient arenas:
 
 <div class="arena-card" markdown="1">
 
-### How Belief Becomes Real Support
+<h3>How Belief Becomes Real Support</h3>
 
 - **$SIGNAL** tokens represent conviction
 - **Stake tokens** to show belief (or doubt)
@@ -104,7 +104,7 @@ Every venture follows the same path:
 
 <div class="arena-card" markdown="1">
 
-### Why This Matters
+<h3>Why This Matters</h3>
 
 Studio3 solves real problems:
 
@@ -140,7 +140,7 @@ Studio3 might be perfect if you:
 
 <div class="arena-card" markdown="1">
 
-### Studio3 in One Paragraph
+<h3>Studio3 in One Paragraph</h3>
 
 Studio3 gamifies venture building by creating public arenas where entrepreneurs compete for community support, backers signal belief with tokens that can multiply or burn based on outcomes, and experienced builders validate progress. Through seven phases from idea to independence, ventures grow transparently with aligned incentives ensuring everyone benefits from success.
 

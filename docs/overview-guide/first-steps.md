@@ -10,21 +10,24 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-### 🚀 Essential Setup
+<h3>🚀 Essential Setup</h3>
 
 **1. Create Your Account**
+
 - Connect wallet with $SIGNAL tokens
 - Set up profile with real information
 - Verify email for notifications
 - Enable two-factor authentication
 
 **2. Join the Community**
+
 - Discord server for real-time chat
 - Forum for deeper discussions
 - Follow official Twitter
 - Subscribe to newsletter
 
 **3. Explore the Platform**
+
 - Browse active Arenas
 - Read recent milestones
 - Check leaderboards
@@ -34,14 +37,18 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 ### Day 2-3: Learn the Basics
 
-**Essential Reading:**
+**Essential Reading:
+
+**
 
 - This Overview Guide (you're here!)
 - Platform Terms of Service
 - Community Code of Conduct
 - Your role-specific guide
 
-**Watch and Learn:**
+**Watch and Learn:
+
+**
 
 - Observe 5 active ventures
 - Read 10 milestone declarations
@@ -53,7 +60,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 🤝 Connect with Veterans
+<h4>🤝 Connect with Veterans</h4>
 
 - Introduce yourself properly
 - Ask thoughtful questions
@@ -64,7 +71,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-#### 📚 Find Your Mentors
+<h4>📚 Find Your Mentors</h4>
 
 - Identify successful role models
 - Study their strategies
@@ -81,6 +88,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 #### Week 1: Foundation
 
 1. **Refine Your Idea**
+
    - Write clear problem statement
    - Define target market
    - Research existing solutions
@@ -122,23 +130,29 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-### ⚡ Pre-Launch Checklist
+<h3>⚡ Pre-Launch Checklist</h3>
 
-**Technical Ready:**
+**Technical Ready:
+
+**
 
 - [ ] Wallet funded with $SIGNAL
 - [ ] Development environment set
 - [ ] Version control configured
 - [ ] Communication tools ready
 
-**Content Ready:**
+**Content Ready:
+
+**
 
 - [ ] Compelling venture story
 - [ ] Clear milestone plan
 - [ ] Evidence templates
 - [ ] FAQ prepared
 
-**Mental Ready:**
+**Mental Ready:
+
+**
 
 - [ ] Prepared for public scrutiny
 - [ ] Stress management plan
@@ -193,16 +207,20 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-### 📈 Progressive Scaling
+<h3>📈 Progressive Scaling</h3>
 
-**Signal Sizing:**
+**Signal Sizing:
+
+**
 
 - Week 1: 10-50 $SIGNAL per signal
 - Week 2: 50-100 $SIGNAL per signal  
 - Week 3: 100-500 $SIGNAL per signal
 - Week 4: Your comfort level
 
-**Portfolio Rules:**
+**Portfolio Rules:
+
+**
 
 - Maximum 10% in one venture
 - Minimum 5 active positions
@@ -257,9 +275,11 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-### ⚖️ Validation Excellence
+<h3>⚖️ Validation Excellence</h3>
 
-**Quality Standards:**
+**Quality Standards:
+
+**
 
 - Thorough evidence review
 - Clear documentation
@@ -267,7 +287,9 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - Timely completion
 - Fair judgment
 
-**Time Management:**
+**Time Management:
+
+**
 
 - 2-4 hours per validation
 - 24-48 hour turnaround
@@ -302,7 +324,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 🏗️ Sender Success
+<h4>🏗️ Sender Success</h4>
 
 - Spark NFT created
 - First milestone funded
@@ -314,7 +336,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-#### 📡 Echo Success
+<h4>📡 Echo Success</h4>
 
 - 10+ signals placed
 - 60%+ accuracy rate
@@ -326,7 +348,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-#### ⚓ Anchor Success
+<h4>⚓ Anchor Success</h4>
 
 - Approved status
 - 5+ validations complete
@@ -369,21 +391,24 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-### ⏰ Daily Success Habits
+<h3>⏰ Daily Success Habits</h3>
 
 **Morning (30-60 min)**
+
 - Check overnight activity
 - Review notifications
 - Plan day's priorities
 - Update progress
 
 **Midday (60-90 min)**
+
 - Execute core activities
 - Engage with community
 - Research opportunities
 - Document learnings
 
 **Evening (30-60 min)**
+
 - Review day's results
 - Respond to messages
 - Plan tomorrow
@@ -424,7 +449,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 🆘 Help Channels
+<h4>🆘 Help Channels</h4>
 
 - #newbie-questions
 - #role-specific-help  
@@ -435,7 +460,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-#### 👥 Human Support
+<h4>👥 Human Support</h4>
 
 - Community mentors
 - Role ambassadors

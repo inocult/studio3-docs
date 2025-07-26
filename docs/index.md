@@ -9,7 +9,7 @@
 
 <div class="arena-card" markdown="1">
 
-### ⚡ 5-Minute Introduction
+<h3>⚡ 5-Minute Introduction</h3>
 
 New to Studio3? Get the essence of our platform in just 5 minutes with our Quickstart guide.
 
@@ -48,7 +48,7 @@ New to Studio3? Get the essence of our platform in just 5 minutes with our Quick
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-### 🌐 Overview Guide
+<h3>🌐 Overview Guide</h3>
 Complete introduction to Studio3's venture building platform, core concepts, and ecosystem mechanics.
 
 <strong>Perfect for:</strong> New users, investors, and anyone wanting to understand Studio3
@@ -62,7 +62,7 @@ Complete introduction to Studio3's venture building platform, core concepts, and
 
 <div class="arena-card" markdown="1">
 
-### 🏗️ Senders Guide
+<h3>🏗️ Senders Guide</h3>
 Everything founders need to build ventures through Studio3's transparent, gamified ecosystem.
 
 <strong>Perfect for:</strong> Entrepreneurs, builders, and teams ready to launch ventures
@@ -76,7 +76,7 @@ Everything founders need to build ventures through Studio3's transparent, gamifi
 
 <div class="arena-card" markdown="1">
 
-### 📡 Echoes Guide
+<h3>📡 Echoes Guide</h3>
 Master the art of signaling belief, earning rewards, and supporting ventures to success.
 
 <strong>Perfect for:</strong> Supporters, investors, and community members
@@ -90,7 +90,7 @@ Master the art of signaling belief, earning rewards, and supporting ventures to 
 
 <div class="arena-card" markdown="1">
 
-### ⚓ Anchors Guide
+<h3>⚓ Anchors Guide</h3>
 Essential handbook for validators who guide ventures and maintain ecosystem integrity.
 
 <strong>Perfect for:</strong> Experienced builders, mentors, and ecosystem validators

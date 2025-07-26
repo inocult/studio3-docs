@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-### 🎯 The Core Loop
+<h3>🎯 The Core Loop</h3>
 
 1. **Founders declare** what they'll build
 2. **Community signals** belief or doubt with tokens
@@ -20,10 +20,11 @@
 
 <div class="arena-card" markdown="1">
 
-### ✨ The Spark Phase
+<h3>✨ The Spark Phase</h3>
 
 - Entrepreneurs create **Spark NFTs** from existing research/IP
 - Ideas are presented in public **Arenas**
+
 - Community members browse and evaluate
 - Initial interest gathering begins
 - Best ideas attract early believers
@@ -34,7 +35,7 @@
 
 <div class="arena-card" markdown="1">
 
-### ⚔️ The Forge Duel
+<h3>⚔️ The Forge Duel</h3>
 
 - Multiple founders can compete for the same idea
 - They enter a **public competition** (The Forge)
@@ -48,7 +49,7 @@
 
 <div class="arena-card" markdown="1">
 
-### 🏗️ Public Development
+<h3>🏗️ Public Development</h3>
 
 The winning founder:
 
@@ -64,9 +65,11 @@ The winning founder:
 
 <div class="arena-card" markdown="1">
 
-### 📡 Signaling Mechanics
+<h3>📡 Signaling Mechanics</h3>
 
-**How the community participates:**
+**How the community participates:
+
+**
 
 1. **Research** the venture and team
 2. **Decide** to signal belief or doubt
@@ -74,7 +77,9 @@ The winning founder:
 4. **Monitor** progress actively
 5. **Earn or lose** based on results
 
-**Example:**
+**Example:
+
+**
 
 - You believe TeamX will deliver their app by March 1st
 - You stake 1,000 $SIGNAL tokens as a belief signal
@@ -87,7 +92,7 @@ The winning founder:
 
 <div class="arena-card" markdown="1">
 
-### ⚓ Quality Assurance
+<h3>⚓ Quality Assurance</h3>
 
 When milestones are complete:
 
@@ -103,16 +108,20 @@ When milestones are complete:
 
 <div class="arena-card" markdown="1">
 
-### 💰 The Settlement
+<h3>💰 The Settlement</h3>
 
-**If Milestone Succeeds:**
+**If Milestone Succeeds:
+
+**
 
 - Believers earn token multipliers (1.5x-3x)
 - Doubters lose their entire stake
 - Founder unlocks next funding
 - Anchor earns validation fee
 
-**If Milestone Fails:**
+**If Milestone Fails:
+
+**
 
 - Doubters earn token multipliers (1.2x-2x)
 - Believers lose their entire stake
@@ -128,7 +137,7 @@ Every venture progresses through seven phases:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### Phase 1-3: Foundation
+<h4>Phase 1-3: Foundation</h4>
 
 1. **Spark** ✨ - Idea validation
 2. **Forge** ⚔️ - Founder selection
@@ -138,7 +147,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card" markdown="1">
 
-#### Phase 4-6: Growth
+<h4>Phase 4-6: Growth</h4>
 
 4. **Drift** 🌊 - Finding product-market fit
 5. **Orbit** 🛸 - Stable operations
@@ -148,7 +157,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card" markdown="1">
 
-#### Phase 7: Graduation
+<h4>Phase 7: Graduation</h4>
 
 7. **Ascension** 🎖️ - Full independence
 
@@ -159,7 +168,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card" markdown="1">
 
-### How Value Flows
+<h3>How Value Flows</h3>
 
 1. **Supporters provide capital** through signals
 2. **Founders use capital** to build ventures
@@ -200,7 +209,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card" markdown="1">
 
-### Sarah's Journey
+<h3>Sarah's Journey</h3>
 
 1. **Sarah has an idea** for a sustainability app
 2. **She creates a Spark** and enters the Arena
@@ -221,7 +230,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card" markdown="1">
 
-### The Magic Formula
+<h3>The Magic Formula</h3>
 
 **Transparency** + **Skin in the Game** + **Community Wisdom** = **Better Outcomes**
 

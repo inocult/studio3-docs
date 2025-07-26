@@ -18,7 +18,7 @@ This quickstart guide gives you the essential overview of Studio3 in just a few 
 
 <div class="arena-card" markdown="1">
 
-### ⏱️ Reading Time: 5 minutes
+<h3>⏱️ Reading Time: 5 minutes</h3>
 
 Perfect for:
 
@@ -47,7 +47,7 @@ That's Studio3.
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-### 1. What is Studio3?
+<h3>1. What is Studio3?</h3>
 
 The revolutionary platform transforming how ventures are built.
 
@@ -57,7 +57,7 @@ The revolutionary platform transforming how ventures are built.
 
 <div class="arena-card" markdown="1">
 
-### 2. How It Works
+<h3>2. How It Works</h3>
 
 Simple explanation of the core mechanics and process.
 
@@ -67,7 +67,7 @@ Simple explanation of the core mechanics and process.
 
 <div class="arena-card" markdown="1">
 
-### 3. Key Benefits
+<h3>3. Key Benefits</h3>
 
 Why participants choose Studio3 over traditional methods.
 
@@ -77,7 +77,7 @@ Why participants choose Studio3 over traditional methods.
 
 <div class="arena-card" markdown="1">
 
-### 4. Get Started
+<h3>4. Get Started</h3>
 
 Your first steps into the Studio3 ecosystem.
 

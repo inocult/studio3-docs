@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-### 🚀 Ready to Begin?
+<h3>🚀 Ready to Begin?</h3>
 
 Getting started with Studio3 is simple:
 
@@ -23,16 +23,20 @@ Getting started with Studio3 is simple:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-### 🏗️ Become a Sender
+<h3>🏗️ Become a Sender</h3>
 
-**If you have:**
+**If you have:
+
+**
 
 - A venture idea
 - Execution ability
 - Public comfort
 - Risk tolerance
 
-**You'll need:**
+**You'll need:
+
+**
 
 - 1,000+ $SIGNAL tokens
 - Time commitment (full-time)
@@ -44,16 +48,20 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-### 📡 Become an Echo
+<h3>📡 Become an Echo</h3>
 
-**If you have:**
+**If you have:
+
+**
 
 - Investment capital
 - Analysis skills
 - Risk appetite
 - Market intuition
 
-**You'll need:**
+**You'll need:
+
+**
 
 - 100+ $SIGNAL tokens
 - Daily time (30-60 min)
@@ -65,16 +73,20 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-### ⚓ Become an Anchor
+<h3>⚓ Become an Anchor</h3>
 
-**If you have:**
+**If you have:
+
+**
 
 - Industry expertise
 - Mentoring experience
 - Quality standards
 - Available time
 
-**You'll need:**
+**You'll need:
+
+**
 
 - Proven track record
 - 2-4 hours daily
@@ -91,19 +103,22 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-### 💻 What You Need
+<h3>💻 What You Need</h3>
 
 1. **Web3 Wallet**
+
    - MetaMask (recommended)
    - WalletConnect compatible
    - Hardware wallet (optional but recommended)
 
 2. **$SIGNAL Tokens**
+
    - Minimum based on role
    - Available on major DEXs
    - Start small to learn
 
 3. **Platform Access**
+
    - Visit [studio3.xyz](https://studio3.xyz)
    - Connect wallet
    - Complete profile
@@ -126,16 +141,20 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-### 📖 Must-Read Resources
+<h3>📖 Must-Read Resources</h3>
 
-**For All Participants:**
+**For All Participants:
+
+**
 
 - This Quickstart guide (you're here!)
 - [Overview Guide](../overview-guide/) - Complete system understanding
 - Community Code of Conduct
 - Platform Terms of Service
 
-**Role-Specific:**
+**Role-Specific:
+
+**
 
 - Your chosen role's complete guide
 - Success stories from veterans
@@ -158,7 +177,7 @@ Getting started with Studio3 is simple:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 🏗️ First Sender Steps
+<h4>🏗️ First Sender Steps</h4>
 
 1. Browse existing ventures
 2. Study successful patterns
@@ -170,7 +189,7 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-#### 📡 First Echo Steps
+<h4>📡 First Echo Steps</h4>
 
 1. Make tiny test signal (10 $SIGNAL)
 2. Research 5 ventures daily
@@ -182,7 +201,7 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-#### ⚓ First Anchor Steps
+<h4>⚓ First Anchor Steps</h4>
 
 1. Apply for Anchor status
 2. Shadow current validators
@@ -199,21 +218,24 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-### 💬 Community Channels
+<h3>💬 Community Channels</h3>
 
 **Discord Server**
+
 - Real-time chat
 - Role-specific channels
 - Voice rooms for discussions
 - Event announcements
 
 **Forum**
+
 - Deep discussions
 - Proposal debates
 - Strategy sharing
 - Knowledge base
 
 **Social Media**
+
 - Twitter for updates
 - YouTube for tutorials
 - Medium for insights
@@ -234,9 +256,11 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-### 🌟 Reputation Matters
+<h3>🌟 Reputation Matters</h3>
 
-**How to earn XP:**
+**How to earn XP:
+
+**
 
 - Successful milestones (Senders)
 - Accurate signals (Echoes)
@@ -244,7 +268,9 @@ Getting started with Studio3 is simple:
 - Community contributions
 - Consistent participation
 
-**Benefits of high XP:**
+**Benefits of high XP:
+
+**
 
 - Better multipliers
 - Priority access
@@ -266,23 +292,29 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-### ✅ Your First Week
+<h3>✅ Your First Week</h3>
 
-**Day 1:**
+**Day 1:
+
+**
 
 - [ ] Choose your role
 - [ ] Set up wallet
 - [ ] Get $SIGNAL tokens
 - [ ] Create account
 
-**Day 2-3:**
+**Day 2-3:
+
+**
 
 - [ ] Read your role guide
 - [ ] Join Discord
 - [ ] Introduce yourself
 - [ ] Observe active ventures
 
-**Day 4-7:**
+**Day 4-7:
+
+**
 
 - [ ] Make first action (signal/pitch/application)
 - [ ] Connect with 5 community members
@@ -298,7 +330,7 @@ Getting started with Studio3 is simple:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### ✅ DO:
+<h4>✅ DO:</h4>
 
 - Start small and learn
 - Ask questions freely
@@ -312,7 +344,7 @@ Getting started with Studio3 is simple:
 
 <div class="arena-card" markdown="1">
 
-#### ❌ DON'T:
+<h4>❌ DON'T:</h4>
 
 - Rush into big stakes
 - Ignore community wisdom
@@ -349,14 +381,18 @@ You'll know you're on track when:
 
 <div class="arena-card" markdown="1">
 
-### 🌟 You're Part of Something Special
+<h3>🌟 You're Part of Something Special</h3>
 
 By joining Studio3, you're not just participating in a platform - you're helping build the future of venture creation. Every signal, every validation, every milestone contributes to an ecosystem where:
 
 - **Great ideas find support**
+
 - **Merit beats connections**
+
 - **Transparency builds trust**
+
 - **Community creates value**
+
 - **Everyone can succeed**
 
 </div>

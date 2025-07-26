@@ -10,14 +10,18 @@ Studio3's rewards and penalties system creates powerful incentives for quality e
 
 ### ⚖️ Rewards vs Penalties
 
-**Core Philosophy:**
+**Core Philosophy:
+
+**
 
 - 🏆 **Rewards** incentivize positive behavior
 - 🔥 **Penalties** discourage negative behavior
 - ⚖️ **Balance** creates sustainable ecosystem
 - 🎯 **Fairness** ensures long-term participation
 
-**Key Principles:**
+**Key Principles:
+
+**
 
 1. Rewards proportional to risk taken
 2. Penalties severe enough to deter gaming
@@ -51,13 +55,17 @@ graph TD
 
 ### 📡 Echo Reward Matrix
 
-**Base Reward Calculation:**
+**Base Reward Calculation:
+
+**
 
 - Base multiplier for correct belief signals: 1.5x
 - Base multiplier for correct doubt signals: 1.2x
 - Wrong predictions result in 100% loss
 
-**Bonus Multipliers:**
+**Bonus Multipliers:
+
+**
 
 - **Timing Bonus**: Up to 0.5x for early signals (decreases linearly over time)
 - **Contrarian Bonus**: 0.3x for going against the majority and being right
@@ -65,7 +73,9 @@ graph TD
 - **Phase Bonus**: Higher multipliers for later-stage ventures
 - **Maximum Total Multiplier**: 3x (capped to prevent extreme returns)
 
-**Reward Examples:**
+**Reward Examples:
+
+**
 
 | Scenario | Stake | Multiplier | Reward | Profit |
 |----------|-------|------------|--------|--------|
@@ -78,7 +88,9 @@ graph TD
 
 ### 🏗️ Sender Reward System
 
-**Milestone Completion Rewards:**
+**Milestone Completion Rewards:
+
+**
 
 1. **Unlock Milestone Funds**
    - Pre-declared budget released
@@ -100,7 +112,9 @@ graph TD
    - Access new resources
    - Greater autonomy
 
-**Success Multipliers:**
+**Success Multipliers:
+
+**
 
 - **Funding Unlock**: 100% of milestone budget released
 - **XP Gain**: Base XP multiplied by milestone difficulty
@@ -111,7 +125,9 @@ graph TD
 
 ### ⚓ Anchor Compensation Structure
 
-**Base Validation Fees:**
+**Base Validation Fees:
+
+**
 
 | Milestone Value | Base Fee | Range with Bonuses |
 |-----------------|----------|--------------------|
@@ -120,7 +136,9 @@ graph TD
 | 100K-1M | 2% | 2-6% |
 | > 1M | 1.5% | 1.5-4.5% |
 
-**Performance Multipliers:**
+**Performance Multipliers:
+
+**
 
 - **Quality Multiplier**: 1x to 3x based on validation thoroughness
 - **Speed Bonus**: +20% for completion within 24 hours
@@ -134,14 +152,18 @@ graph TD
 
 ### 🔥 Echo Penalty System
 
-**Wrong Signal Penalties:**
+**Wrong Signal Penalties:
+
+**
 
 - **Total Loss**: 100% of staked tokens burned
 - **No Partial Refunds**: Binary outcome
 - **Reputation Impact**: XP reduction
 - **Permanent Record**: Affects future multipliers
 
-**Penalty Scenarios:**
+**Penalty Scenarios:
+
+**
 
 | Signal Type | Outcome | Penalty |
 |-------------|---------|----------|
@@ -150,7 +172,9 @@ graph TD
 | Any | Venture Abandoned | 100% burn |
 | Any | Invalid Evidence | 100% burn |
 
-**Additional Penalties:**
+**Additional Penalties:
+
+**
 
 - Market manipulation: Account suspension
 - Collusion detected: Permanent ban
@@ -161,29 +185,36 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-### 💥 Sender Penalty Framework
+<h3>💥 Sender Penalty Framework</h3>
 
-**Failure Consequences:**
+**Failure Consequences:
+
+**
 
 1. **Immediate Penalties**
+
    - Milestone funds locked/returned
    - Belief signals burned
    - Reputation damage (-XP)
    - Public failure record
 
 2. **Ongoing Impact**
+
    - Reduced future support
    - Higher evidence requirements
    - Limited phase progression
    - Anchor scrutiny increase
 
 3. **Severe Violations**
+
    - Venture dissolution
    - Founder blacklisting
    - NFT lockdown
    - Legal action possible
 
-**Penalty Calculation:**
+**Penalty Calculation:
+
+**
 
 - **Tokens Burned**: All belief signals on failed milestone
 - **XP Loss**: -100 points multiplied by milestone difficulty
@@ -196,23 +227,29 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-### ⚠️ Anchor Accountability
+<h3>⚠️ Anchor Accountability</h3>
 
-**Quality Failures:**
+**Quality Failures:
+
+**
 
 - Poor validation: Reduced future assignments
 - Biased judgments: Council review
 - Negligent approval: Fee clawback
 - Repeated issues: Anchor status loss
 
-**Penalty Progression:**
+**Penalty Progression:
+
+**
 
 1. **Warning** - First minor issue
 2. **Probation** - Reduced fee rate
 3. **Suspension** - No new validations
 4. **Removal** - Permanent status loss
 
-**Financial Penalties:**
+**Financial Penalties:
+
+**
 
 If validation is overturned:
 
@@ -273,21 +310,26 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-### 🎆 Bonus Reward Programs
+<h3>🎆 Bonus Reward Programs</h3>
 
-**Active Programs:**
+**Active Programs:
+
+**
 
 1. **Early Adopter Rewards**
+
    - 2x XP for first 1000 users
    - Bonus multipliers for early ventures
    - Exclusive NFT badges
 
 2. **Referral Program**
+
    - 5% of referred user's earnings
    - Bonus for successful ventures
    - Network growth rewards
 
 3. **Bug Bounties**
+
    - Critical: 10,000 $SIGNAL
    - High: 5,000 $SIGNAL
    - Medium: 1,000 $SIGNAL
@@ -314,7 +356,7 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-### 🛡️ Protection Options
+<h3>🛡️ Protection Options</h3>
 
 **Signal Insurance** (Coming Soon)
 
@@ -346,14 +388,18 @@ sequenceDiagram
 !!! warning "Tax Disclaimer"
     Consult professional tax advisors. Rules vary by jurisdiction.
 
-**Potential Tax Events:**
+**Potential Tax Events:
+
+**
 
 - Receiving reward tokens
 - Converting to fiat
 - Staking rewards
 - Governance distributions
 
-**Record Keeping:**
+**Record Keeping:
+
+**
 
 For tax purposes, maintain records of:
 
@@ -393,19 +439,25 @@ For tax purposes, maintain records of:
 
 ### Reward Optimization Strategy
 
-**For Echoes:**
+**For Echoes:
+
+**
 
 - **Strategy**: Focus on early contrarian signals
 - **Expected Return**: 2.3x average multiplier
 - **Risk Level**: High
 
-**For Senders:**
+**For Senders:
+
+**
 
 - **Strategy**: Under-promise and over-deliver
 - **Expected Bonus**: 15% above baseline
 - **Risk Level**: Medium
 
-**For Anchors:**
+**For Anchors:
+
+**
 
 - **Strategy**: Thorough validation plus active mentorship
 - **Expected Return**: 5.5% average fee rate
@@ -417,7 +469,7 @@ For tax purposes, maintain records of:
 
 <div class="arena-card" markdown="1">
 
-#### 🌟 The Perfect Signal
+<h4>🌟 The Perfect Signal</h4>
 <strong>Echo:</strong> CryptoSage
 
 <strong>Signal:</strong> 10,000 $SIGNAL belief on DeFiVault Phase 4
@@ -434,7 +486,7 @@ For tax purposes, maintain records of:
 
 <div class="arena-card" markdown="1">
 
-#### 💥 The Costly Mistake
+<h4>💥 The Costly Mistake</h4>
 <strong>Sender:</strong> RushProtocol
 
 <strong>Failure:</strong> Overpromised on scaling milestone

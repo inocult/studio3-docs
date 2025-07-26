@@ -10,14 +10,18 @@ Studio3's revolutionary design aligns the interests of all participants, creatin
 
 ### 🔗 Traditional vs Studio3 Model
 
-**Traditional Venture Ecosystem:**
+**Traditional Venture Ecosystem:
+
+**
 
 - VCs want huge returns, founders want control
 - Investors seek quick exits, builders need time
 - Advisors give minimal time for maximum equity
 - Community gets nothing despite creating value
 
-**Studio3 Alignment:**
+**Studio3 Alignment:
+
+**
 
 - Everyone profits from venture success
 - Transparent milestones align timelines
@@ -47,21 +51,27 @@ graph TD
 
 ### 🏗️ Founder Incentive Stack
 
-**Short-term Incentives:**
+**Short-term Incentives:
+
+**
 
 - 💰 **Milestone Funding**: Immediate resources for execution
 - 📡 **Community Support**: Belief signals provide validation
 - 🎓 **Expert Guidance**: Anchor mentorship accelerates growth
 - 🏆 **Public Recognition**: Arena success builds reputation
 
-**Long-term Incentives:**
+**Long-term Incentives:
+
+**
 
 - 👑 **Full Ownership**: Sovereignty through Ascension
 - 🚀 **Unlimited Upside**: No cap on venture value
 - 🌐 **Network Effects**: Alumni status opens doors
 - 🏭 **Sub-Studio Rights**: Launch your own ecosystem
 
-**Behavioral Alignment:**
+**Behavioral Alignment:
+
+**
 
 - Transparency rewarded with more support
 - Consistent delivery builds belief momentum
@@ -72,7 +82,9 @@ graph TD
 
 ### 📡 Echo Incentive Matrix
 
-**Direct Returns:**
+**Direct Returns:
+
+**
 
 | Signal Type | Accuracy | Return Multiple | Risk |
 |-------------|----------|-----------------|------|
@@ -81,14 +93,18 @@ graph TD
 | Early Doubt | Correct | 1.8-2x | Medium |
 | Contrarian | Correct | +0.3x bonus | Varies |
 
-**Indirect Benefits:**
+**Indirect Benefits:
+
+**
 
 - 🌟 **Reputation Growth**: XP from accurate predictions
 - 🤝 **Network Access**: Connect with winners early
 - 🎓 **Learning Opportunity**: Understand venture building
 - 🎯 **Influence Power**: Shape venture direction
 
-**Behavioral Incentives:**
+**Behavioral Incentives:
+
+**
 
 - Research rewarded over speculation
 - Diversification encouraged through portfolio approach
@@ -99,7 +115,9 @@ graph TD
 
 ### ⚓ Anchor Reward System
 
-**Fee Structure:**
+**Fee Structure:
+
+**
 
 - **Base fee**: 3% of milestone value
 - **Quality multiplier**: 1x to 3x based on validation score
@@ -107,14 +125,18 @@ graph TD
 - **Reputation multiplier**: +10% per 10,000 XP
 - **Maximum fee**: Capped at 10% of milestone value
 
-**Additional Incentives:**
+**Additional Incentives:
+
+**
 
 - 🎆 **Success Participation**: Tokens in validated ventures
 - 👥 **Network Premium**: Access to top founders
 - 🏅 **Status Recognition**: Elite validator standing
 - 🌱 **Ecosystem Impact**: Shape quality standards
 
-**Behavioral Alignment:**
+**Behavioral Alignment:
+
+**
 
 - Thorough validation rewarded over rushed
 - Mentorship improves venture success rates
@@ -146,18 +168,27 @@ graph LR
 
 !!! warning "Negative Incentives Also Align"
     
-    **For Senders:**
-    - Failed milestones damage reputation permanently
+    **For Senders:
+
+**
+
+- Failed milestones damage reputation permanently
     - Poor communication reduces future support
     - Abandoned ventures blacklist founders
     
-    **For Echoes:**
-    - Wrong signals burn tokens irrecoverably  
+    **For Echoes:
+
+**
+
+- Wrong signals burn tokens irrecoverably  
     - Herd following punished through contrarian bonuses
     - Inactive accounts lose reputation over time
     
-    **For Anchors:**
-    - Poor validations reduce future assignments
+    **For Anchors:
+
+**
+
+- Poor validations reduce future assignments
     - Biased judgments trigger Council review
     - Inactive Anchors lose status quickly
 
@@ -218,14 +249,18 @@ flowchart TD
 
 ### 🌟 The XP Economy
 
-**How Reputation Aligns Behavior:**
+**How Reputation Aligns Behavior:
+
+**
 
 1. **Cannot Be Bought** - Only earned through performance
 2. **Cannot Be Transferred** - Prevents gaming
 3. **Decays Without Activity** - Encourages participation
 4. **Multiplies Opportunities** - Success breeds success
 
-**Reputation Benefits:**
+**Reputation Benefits:
+
+**
 
 - 🎯 Higher signal multipliers
 - 🗿️ Governance voting weight
@@ -248,7 +283,7 @@ flowchart TD
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-#### ⏱️ Short-term Alignment
+<h4>⏱️ Short-term Alignment</h4>
         <strong>Immediate Rewards for Good Behavior</strong>
 
         - Quick signal returns- Milestone funding- Validation fees- Daily XP gains
@@ -257,7 +292,7 @@ flowchart TD
     
     <div class="arena-card" markdown="1">
 
-#### 📈 Long-term Alignment
+<h4>📈 Long-term Alignment</h4>
         <strong>Compound Benefits for Patience</strong>
 
         - Reputation accumulation- Network building- Venture graduation- Ecosystem ownership
@@ -283,7 +318,9 @@ flowchart TD
 
 ### 🚫 Anti-Gaming Mechanisms
 
-**Prevented Behaviors:**
+**Prevented Behaviors:
+
+**
 
 1. **Sybil Attacks**
    - Reputation tied to single identity
@@ -321,21 +358,27 @@ When incentives seem misaligned:
 
 ### Continuous Improvement
 
-**Behavior Monitoring:**
+**Behavior Monitoring:
+
+**
 
 - Track venture success rates
 - Measure Echo participation volume
 - Assess Anchor validation quality
 - Monitor ecosystem growth
 
-**Parameter Adjustment:**
+**Parameter Adjustment:
+
+**
 
 - If venture quality drops: Increase failure penalties
 - If Echo participation lags: Boost return multipliers
 - If Anchor performance suffers: Enhance quality bonuses
 - If growth slows: Introduce new incentives
 
-**Feedback Loop:**
+**Feedback Loop:
+
+**
 
 - Analyze behavior patterns
 - Identify misalignments
@@ -395,17 +438,29 @@ When incentives seem misaligned:
 
 #### 🌟 The DataMesh Success
 
-**Situation:** Complex technical venture needing patient capital  
-**Alignment:** Long-term Echoes matched with technical Anchors  
-**Result:** 18-month journey to profitability, 5x returns
+**Situation:
+
+** Complex technical venture needing patient capital  
+**Alignment:
+
+** Long-term Echoes matched with technical Anchors  
+**Result:
+
+** 18-month journey to profitability, 5x returns
 
 > "The aligned incentives meant our Echoes supported us through the hard times, knowing the long-term payoff. Traditional VCs would have pushed for premature scaling." - DataMesh CTO
 
 #### 💪 The QuickPivot Comeback
 
-**Situation:** Failed first product, needed major pivot  
-**Alignment:** Burn mechanics motivated honest assessment  
-**Result:** Fast pivot, community retained, eventual success
+**Situation:
+
+** Failed first product, needed major pivot  
+**Alignment:
+
+** Burn mechanics motivated honest assessment  
+**Result:
+
+** Fast pivot, community retained, eventual success
 
 > "Losing tokens hurt, but it forced us to be honest about our failure. The quick pivot saved the venture and our supporters appreciated the transparency." - QuickPivot Founder
 

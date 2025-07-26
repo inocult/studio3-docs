@@ -46,11 +46,13 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-### 🎯 Objective
+<h3>🎯 Objective</h3>
 Transform a remixed IP concept into a validated venture idea with initial community support.
 
 
-**Key Activities:**
+**Key Activities:
+
+**
 
 - Create Spark NFT from Flambette marketplace
 - Enter idea into Spark Arena
@@ -58,7 +60,9 @@ Transform a remixed IP concept into a validated venture idea with initial commun
 - Refine concept based on feedback
 - Build initial supporter base
 
-**Success Criteria:**
+**Success Criteria:
+
+**
 
 - Minimum 100 $SIGNAL in belief
 - At least 10 unique supporters
@@ -85,11 +89,13 @@ Transform a remixed IP concept into a validated venture idea with initial commun
 
 <div class="arena-card" markdown="1">
 
-### 🏆 Objective
+<h3>🏆 Objective</h3>
 Determine the most capable founder through competitive dueling.
 
 
-**Duel Format:**
+**Duel Format:
+
+**
 
 - **Entry Stakes**: 1,000 $SIGNAL minimum
 - **Preparation**: 72 hours to prepare pitch
@@ -97,7 +103,9 @@ Determine the most capable founder through competitive dueling.
 - **Voting**: Token-weighted community decision
 - **Winner Takes All**: Signal NFT + leadership rights
 
-**Evaluation Criteria:**
+**Evaluation Criteria:
+
+**
 
 - Vision clarity and ambition
 - Technical capability
@@ -122,11 +130,13 @@ Determine the most capable founder through competitive dueling.
 
 <div class="arena-card" markdown="1">
 
-### 🔨 Objective
+<h3>🔨 Objective</h3>
 Form Container DAO, assemble team, and deliver initial MVP.
 
 
-**Critical Tasks:**
+**Critical Tasks:
+
+**
 
 - Create Container DAO structure
 - Mint Halo NFT (locked)
@@ -135,7 +145,9 @@ Form Container DAO, assemble team, and deliver initial MVP.
 - Build and launch MVP
 - Secure initial users/testers
 
-**Milestones:**
+**Milestones:
+
+**
 
 1. DAO formation complete
 2. Core team assembled
@@ -171,11 +183,13 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-### 🎯 Objective
+<h3>🎯 Objective</h3>
 Iterate rapidly to find product-market fit through community feedback.
 
 
-**Key Characteristics:**
+**Key Characteristics:
+
+**
 
 - High experimentation rate
 - Rapid pivots allowed
@@ -183,7 +197,9 @@ Iterate rapidly to find product-market fit through community feedback.
 - Flexible milestone adjustments
 - Community-guided development
 
-**Success Indicators:**
+**Success Indicators:
+
+**
 
 - User retention > 40%
 - Organic growth starting
@@ -197,7 +213,8 @@ Iterate rapidly to find product-market fit through community feedback.
 
 !!! warning "Navigating Drift"
     This phase has the highest failure rate. Success requires:
-    - **Humility** to accept when things aren't working
+
+- **Humility** to accept when things aren't working
     - **Speed** to iterate faster than resources deplete
     - **Focus** to avoid feature creep
     - **Communication** to maintain supporter confidence
@@ -218,11 +235,13 @@ When pivoting during Drift:
 
 <div class="arena-card" markdown="1">
 
-### 🎯 Objective
+<h3>🎯 Objective</h3>
 Establish sustainable operations with consistent growth and reliable delivery.
 
 
-**Orbit Characteristics:**
+**Orbit Characteristics:
+
+**
 
 - Predictable revenue/usage
 - Stable team operations
@@ -230,7 +249,9 @@ Establish sustainable operations with consistent growth and reliable delivery.
 - Growing community confidence
 - Clear scaling path
 
-**Key Metrics:**
+**Key Metrics:
+
+**
 
 - MRR/MAU growth: 10%+ monthly
 - Milestone success rate: 80%+
@@ -266,11 +287,13 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-### 🚀 Objective
+<h3>🚀 Objective</h3>
 Scale rapidly with external capital and aggressive expansion.
 
 
-**Flare Characteristics:**
+**Flare Characteristics:
+
+**
 
 - External funding rounds
 - Aggressive hiring
@@ -278,7 +301,9 @@ Scale rapidly with external capital and aggressive expansion.
 - Product scaling
 - Brand building
 
-**Capital Sources:**
+**Capital Sources:
+
+**
 
 - Traditional VCs (now interested)
 - Strategic partners
@@ -314,11 +339,13 @@ gross_margins = > 70%  # For software
 
 <div class="arena-card" markdown="1">
 
-### 👑 Objective
+<h3>👑 Objective</h3>
 Graduate from Studio3 oversight to complete independence.
 
 
-**Ascension Requirements:**
+**Ascension Requirements:
+
+**
 
 - All phases successfully completed
 - Sustainable business model proven
@@ -326,7 +353,9 @@ Graduate from Studio3 oversight to complete independence.
 - Community support maintained
 - Buyback funds available
 
-**The Buyback Process:**
+**The Buyback Process:
+
+**
 
 1. Initiate graduation request
 2. Final Anchor validation
@@ -360,9 +389,11 @@ Graduate from Studio3 oversight to complete independence.
 
 <div class="arena-card" markdown="1">
 
-### 📈 Advancement Criteria
+<h3>📈 Advancement Criteria</h3>
 
-**General Requirements:**
+**General Requirements:
+
+**
 
 - Complete all phase milestones
 - Maintain community support (>60% belief)
@@ -370,7 +401,9 @@ Graduate from Studio3 oversight to complete independence.
 - Meet minimum duration
 - Achieve phase-specific metrics
 
-**Special Cases:**
+**Special Cases:
+
+**
 
 - **Fast Track**: Exceptional ventures can accelerate
 - **Extended Duration**: Complex ventures may need more time

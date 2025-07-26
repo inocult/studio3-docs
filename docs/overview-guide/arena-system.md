@@ -124,7 +124,7 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-### 📡 Signal Mechanics
+<h3>📡 Signal Mechanics</h3>
 
 **Belief Signals** 👍
 
@@ -138,7 +138,9 @@ sequenceDiagram
 - Earn 1.2x - 2x multiplier if correct  
 - Lose entire stake if wrong
 
-**Multiplier Factors:**
+**Multiplier Factors:
+
+**
 
 - Early signals earn higher multipliers
 - Contrarian correct signals bonus
@@ -168,7 +170,9 @@ graph TD
 
 ### Everything is Visible
 
-**Public Information:**
+**Public Information:
+
+**
 
 - All milestone declarations
 - All signal amounts and timing
@@ -176,7 +180,9 @@ graph TD
 - All validator comments and scores
 - All reward distributions
 
-**Performance Metrics:**
+**Performance Metrics:
+
+**
 
 - Success/failure rates by founder
 - Signal accuracy by Echo
@@ -274,11 +280,17 @@ The Arena system evolves through:
 
 <div class="arena-card" markdown="1">
 
-#### 🏆 DataMesh Protocol
+<h4>🏆 DataMesh Protocol</h4>
 
-**Arena Performance:** 12/12 milestones completed  
-**Total Signals:** 2.3M $SIGNAL belief  
-**Outcome:** Graduated in record time
+**Arena Performance:
+
+** 12/12 milestones completed  
+**Total Signals:
+
+** 2.3M $SIGNAL belief  
+**Outcome:
+
+** Graduated in record time
 
 > "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable." - DataMesh Founder
 
@@ -286,11 +298,17 @@ The Arena system evolves through:
 
 <div class="arena-card" markdown="1">
 
-#### 💡 EcoChain Initiative
+<h4>💡 EcoChain Initiative</h4>
 
-**Arena Performance:** Pivoted after milestone 3 failure  
-**Community Response:** 80% maintained belief post-pivot  
-**Outcome:** Successful with new direction
+**Arena Performance:
+
+** Pivoted after milestone 3 failure  
+**Community Response:
+
+** 80% maintained belief post-pivot  
+**Outcome:
+
+** Successful with new direction
 
 > "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product-market fit." - EcoChain Founder
 

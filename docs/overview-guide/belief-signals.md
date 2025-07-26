@@ -13,7 +13,7 @@ Signals are token-backed predictions about a venture's ability to achieve specif
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-### 👍 Belief Signals
+<h3>👍 Belief Signals</h3>
         Express confidence that a milestone will be achieved
 
         - Stake $SIGNAL tokens on success- Earn multipliers if correct (1.5x - 3x)- Lose entire stake if wrong
@@ -22,7 +22,7 @@ Signals are token-backed predictions about a venture's ability to achieve specif
     
     <div class="arena-card" markdown="1">
 
-### 👎 Doubt Signals
+<h3>👎 Doubt Signals</h3>
         Express skepticism that a milestone will be achieved
 
         - Stake $SIGNAL tokens on failure- Earn multipliers if correct (1.2x - 2x)- Lose entire stake if wrong
@@ -89,21 +89,27 @@ flowchart TD
 
 <div class="arena-card" markdown="1">
 
-### 📊 Multiplier Formula
+<h3>📊 Multiplier Formula</h3>
 
-**Base Multipliers:**
+**Base Multipliers:
+
+**
 
 - Belief (Success): 1.5x base
 - Doubt (Failure): 1.2x base
 
-**Bonus Factors:**
+**Bonus Factors:
+
+**
 
 - Early Signal: +0.1x per 24 hours early
 - Contrarian: +0.3x if against majority
 - Reputation: +0.01x per 1000 XP
 - Phase Difficulty: +0.1x per phase level
 
-**Maximum Possible:**
+**Maximum Possible:
+
+**
 
 - Belief: 3x multiplier
 - Doubt: 2x multiplier
@@ -217,7 +223,9 @@ graph LR
 
 ### Your Rights as an Echo
 
-✅ **You have the right to:**
+✅ **You have the right to:
+
+**
 
 - Signal on any open milestone
 - Access all public information
@@ -227,7 +235,9 @@ graph LR
 
 ### Your Responsibilities
 
-⚠️ **You must:**
+⚠️ **You must:
+
+**
 
 - Accept permanent loss risk
 - Not manipulate markets
@@ -241,7 +251,7 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-### 🔮 Future Signal Features
+<h3>🔮 Future Signal Features</h3>
 
 **Conditional Signals** 🎯
 - "I believe IF [condition] is met"
@@ -313,7 +323,9 @@ A: Immediately after validation completes.
 
 ### Prohibited Behaviors
 
-❌ **Never:**
+❌ **Never:
+
+**
 
 - Coordinate signals in private groups
 - Spread false information to influence signals
@@ -327,7 +339,7 @@ A: Immediately after validation completes.
 
 <div class="arena-card" markdown="1">
 
-#### 🏆 EchoMaster_7
+<h4>🏆 EchoMaster_7</h4>
 <strong>Stats:</strong> 342 signals, 78% accuracy
 
 <strong>Specialty:</strong> Technical infrastructure milestones
@@ -340,7 +352,7 @@ A: Immediately after validation completes.
 
 <div class="arena-card" markdown="1">
 
-#### 🌟 SignalSavant
+<h4>🌟 SignalSavant</h4>
 <strong>Stats:</strong> 567 signals, 71% accuracy
 
 <strong>Specialty:</strong> Early-stage technical ventures

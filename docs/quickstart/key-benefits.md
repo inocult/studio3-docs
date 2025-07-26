@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-### 🎯 The Core Value Proposition
+<h3>🎯 The Core Value Proposition</h3>
 
 Studio3 solves the biggest problems in venture building:
 
@@ -22,16 +22,20 @@ Studio3 solves the biggest problems in venture building:
 
 <div class="arena-card" markdown="1">
 
-### 💰 No More Gatekeepers
+<h3>💰 No More Gatekeepers</h3>
 
-**Traditional Way:**
+**Traditional Way:
+
+**
 
 - Need connections to VCs
 - Months of closed-door meetings
 - Arbitrary rejection reasons
 - Geography limitations
 
-**Studio3 Way:**
+**Studio3 Way:
+
+**
 
 - Open to anyone with merit
 - Public evaluation process
@@ -44,7 +48,7 @@ Studio3 solves the biggest problems in venture building:
 
 <div class="arena-card" markdown="1">
 
-### 👥 Never Build Alone
+<h3>👥 Never Build Alone</h3>
 
 From day one, you have:
 
@@ -75,7 +79,7 @@ From day one, you have:
 
 <div class="arena-card" markdown="1">
 
-### 🚀 Get In Early
+<h3>🚀 Get In Early</h3>
 
 - **Discover ventures** before mainstream
 - **Support ideas** you believe in
@@ -88,9 +92,11 @@ From day one, you have:
 
 <div class="arena-card" markdown="1">
 
-### 📊 Know What You're Getting
+<h3>📊 Know What You're Getting</h3>
 
-**Clear Mechanics:**
+**Clear Mechanics:
+
+**
 
 - Exact multipliers for correct predictions (1.5x-3x)
 - Public track records of all participants
@@ -119,7 +125,7 @@ From day one, you have:
 
 <div class="arena-card" markdown="1">
 
-### 💎 Your Experience Has Value
+<h3>💎 Your Experience Has Value</h3>
 
 - **Earn fees** for validations (3-10%)
 - **Build reputation** as trusted expert
@@ -148,11 +154,15 @@ From day one, you have:
 
 <div class="arena-card" markdown="1">
 
-### 📈 Better Outcomes for All
+<h3>📈 Better Outcomes for All</h3>
 
-**Traditional Startup Failure Rate:** 90%
+**Traditional Startup Failure Rate:
 
-**Studio3 Advantages:**
+** 90%
+
+**Studio3 Advantages:
+
+**
 
 - Community validation catches bad ideas early
 - Public accountability drives execution
@@ -188,7 +198,7 @@ From day one, you have:
 
 <div class="arena-card" markdown="1">
 
-### 🔗 Value Compounds with Growth
+<h3>🔗 Value Compounds with Growth</h3>
 
 As more people join:
 
@@ -227,7 +237,7 @@ Everyone benefits from the same outcome:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-#### 🌟 Perfect for Founders Who:
+<h4>🌟 Perfect for Founders Who:</h4>
 
 - Lack traditional VC connections
 - Want to build transparently
@@ -239,7 +249,7 @@ Everyone benefits from the same outcome:
 
 <div class="arena-card" markdown="1">
 
-#### 🌟 Perfect for Supporters Who:
+<h4>🌟 Perfect for Supporters Who:</h4>
 
 - Want early-stage exposure
 - Enjoy evaluating ideas
@@ -251,7 +261,7 @@ Everyone benefits from the same outcome:
 
 <div class="arena-card" markdown="1">
 
-#### 🌟 Perfect for Validators Who:
+<h4>🌟 Perfect for Validators Who:</h4>
 
 - Have deep expertise
 - Want to give back
@@ -266,23 +276,29 @@ Everyone benefits from the same outcome:
 
 <div class="arena-card" markdown="1">
 
-### Why Studio3 Wins
+<h3>Why Studio3 Wins</h3>
 
-**For Individuals:**
+**For Individuals:
+
+**
 
 - Better access to opportunities
 - Transparent risk and rewards
 - Active participation in innovation
 - Merit-based success
 
-**For the Ecosystem:**
+**For the Ecosystem:
+
+**
 
 - Higher venture success rates
 - Efficient capital allocation
 - Collective intelligence
 - Global accessibility
 
-**For the Future:**
+**For the Future:
+
+**
 
 - Democratized venture building
 - Community-driven innovation
@@ -297,6 +313,7 @@ Ready to join? Learn [How to Get Started →](get-started.md)
 
 !!! success "Convinced?"
     If you're ready to dive in, choose your path:
-    - **Founders** → [Senders Guide](../senders-guide/)
+
+- **Founders** → [Senders Guide](../senders-guide/)
     - **Supporters** → [Echoes Guide](../echoes-guide/)
     - **Validators** → [Anchors Guide](../anchors-guide/)

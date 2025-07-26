@@ -11,7 +11,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-### 🏗️ Senders (Founders)
+<h3>🏗️ Senders (Founders)</h3>
         <strong>The Builders</strong>
 
         Entrepreneurs who transform ideas into ventures through transparent execution
@@ -22,7 +22,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
     
     <div class="arena-card" markdown="1">
 
-### 📡 Echoes (Supporters)
+<h3>📡 Echoes (Supporters)</h3>
         <strong>The Believers</strong>
 
         Community members who signal conviction through token stakes
@@ -33,7 +33,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
     
     <div class="arena-card" markdown="1">
 
-### ⚓ Anchors (Validators)
+<h3>⚓ Anchors (Validators)</h3>
         <strong>The Guardians</strong>
 
         Experienced builders who ensure quality and provide guidance
@@ -79,21 +79,26 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-### 🏗️ What Senders Do
+<h3>🏗️ What Senders Do</h3>
 
-**Primary Activities:**
+**Primary Activities:
+
+**
 
 1. **Ideation & Creation**
+
    - Remix IPs into Spark NFTs
    - Develop venture concepts
    - Enter ideas into Arena
 
 2. **Competition & Leadership**
+
    - Compete in Forge duels
    - Win Signal NFT rights
    - Form founding teams
 
 3. **Execution & Delivery**
+
    - Declare public milestones
    - Build transparently
    - Deliver on promises
@@ -155,23 +160,28 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-### 📡 What Echoes Do
+<h3>📡 What Echoes Do</h3>
 
-**Primary Activities:**
+**Primary Activities:
+
+**
 
 1. **Research & Analysis**
+
    - Evaluate ventures
    - Assess founders
    - Study milestones
    - Track patterns
 
 2. **Signal Placement**
+
    - Stake $SIGNAL tokens
    - Express belief or doubt
    - Size positions wisely
    - Diversify portfolio
 
 3. **Community Participation**
+
    - Provide feedback
    - Share insights
    - Support builders
@@ -221,23 +231,28 @@ def calculate_echo_returns(signal):
 
 <div class="arena-card" markdown="1">
 
-### ⚓ What Anchors Do
+<h3>⚓ What Anchors Do</h3>
 
-**Primary Activities:**
+**Primary Activities:
+
+**
 
 1. **Validation Services**
+
    - Review milestone evidence
    - Score completion quality
    - Provide detailed feedback
    - Resolve disputes
 
 2. **Mentorship & Guidance**
+
    - Advise founders
    - Share expertise
    - Prevent failures
    - Accelerate growth
 
 3. **Ecosystem Protection**
+
    - Maintain standards
    - Identify bad actors
    - Ensure fairness
@@ -308,13 +323,19 @@ sequenceDiagram
 
 !!! warning "When Roles Clash"
     
-    **Common Conflicts:**
-    - Sender overpromises, Echo loses tokens
+    **Common Conflicts:
+
+**
+
+- Sender overpromises, Echo loses tokens
     - Echo signals doubt, Sender feels attacked
     - Anchor validates strictly, Sender disputes
     
-    **Resolution Mechanisms:**
-    - Public dialogue for transparency
+    **Resolution Mechanisms:
+
+**
+
+- Public dialogue for transparency
     - Anchor Council for disputes
     - Community votes for deadlocks
     - Reputation impacts for bad behavior
@@ -325,9 +346,11 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-### 🤔 Which Role Fits You?
+<h3>🤔 Which Role Fits You?</h3>
 
-**Consider Sender If You:**
+**Consider Sender If You:
+
+**
 
 - Have a venture idea
 - Love building things
@@ -335,7 +358,9 @@ sequenceDiagram
 - Communicate well publicly
 - Accept high risk/reward
 
-**Consider Echo If You:**
+**Consider Echo If You:
+
+**
 
 - Enjoy analysis and research
 - Have risk capital available
@@ -343,7 +368,9 @@ sequenceDiagram
 - Prefer supporting to leading
 - Learn from patterns
 
-**Consider Anchor If You:**
+**Consider Anchor If You:
+
+**
 
 - Have deep expertise
 - Built ventures before

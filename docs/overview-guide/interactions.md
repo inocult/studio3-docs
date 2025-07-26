@@ -33,7 +33,9 @@ graph TB
 
 ### 🤝 The Investment Relationship
 
-**How They Connect:**
+**How They Connect:
+
+**
 
 1. **Discovery Phase**
    - Senders pitch ventures in Arenas
@@ -87,7 +89,9 @@ graph TB
 
 ### 🎓 Growth Through Guidance
 
-**Key Interactions:**
+**Key Interactions:
+
+**
 
 1. **Validation Moments**
    - Senders submit evidence
@@ -160,7 +164,9 @@ sequenceDiagram
 
 ### 🔍 Trust Through Verification
 
-**How They Collaborate:**
+**How They Collaborate:
+
+**
 
 1. **Signal Confidence**
    - Anchors provide quality assurance
@@ -213,7 +219,7 @@ graph LR
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-#### 🎭 Scenario: Pivot Decision
+<h4>🎭 Scenario: Pivot Decision</h4>
         <strong>Participants:</strong> Sender + Multiple Echoes + Anchor
 
         - Sender proposes major pivot- Echoes debate merits- Anchor provides expert opinion- Collective decision emerges
@@ -222,7 +228,7 @@ graph LR
     
     <div class="arena-card" markdown="1">
 
-#### ⚖️ Scenario: Disputed Validation
+<h4>⚖️ Scenario: Disputed Validation</h4>
         <strong>Participants:</strong> Sender + Echoes + Multiple Anchors
 
         - Sender claims success- Primary Anchor disagrees- Echoes split on outcome- Anchor Council decides
@@ -264,15 +270,21 @@ graph LR
 
 !!! tip "Effective Interaction Guidelines"
     
-    **For All Parties:**
-    - Be respectful and professional
+    **For All Parties:
+
+**
+
+- Be respectful and professional
     - Respond promptly to queries
     - Document important decisions
     - Maintain transparency
     - Build relationships beyond transactions
     
-    **Channel Selection:**
-    - Public forums for general updates
+    **Channel Selection:
+
+**
+
+- Public forums for general updates
     - Direct messages for specific questions
     - Video calls for complex discussions
     - Written summaries after verbal agreements
@@ -321,7 +333,9 @@ graph LR
 
 ### How Interactions Scale
 
-**Network Value Calculation:**
+**Network Value Calculation:
+
+**
 
 - **Each role creates value**: Senders² + Echoes² + Anchors²
 - **Cross-role interactions multiply**: Senders × Echoes + Senders × Anchors + Echoes × Anchors
@@ -383,7 +397,9 @@ graph LR
 
 ### 🌐 Interaction Principles
 
-**Core Values:**
+**Core Values:
+
+**
 
 1. **Transparency Above All**
    - Share information openly
@@ -411,10 +427,18 @@ graph LR
 
 #### 🌟 Case: The Pivot Partnership
 
-**Participants:** TechVenture (Sender), 200+ Echoes, 3 Anchors  
-**Situation:** Major pivot needed after market shift  
-**Interaction:** Transparent communication, collaborative replanning  
-**Outcome:** 85% Echo retention, successful pivot, 3x returns
+**Participants:
+
+** TechVenture (Sender), 200+ Echoes, 3 Anchors  
+**Situation:
+
+** Major pivot needed after market shift  
+**Interaction:
+
+** Transparent communication, collaborative replanning  
+**Outcome:
+
+** 85% Echo retention, successful pivot, 3x returns
 
 > "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors." - TechVenture Founder
 

@@ -10,7 +10,7 @@ Progression through Studio3's seven phases follows clear rules designed to ensur
 
 <div class="arena-card" markdown="1">
 
-### 📏 The Five Laws
+<h3>📏 The Five Laws</h3>
 
 1. **Sequential Progress** - Phases must be completed in order
 2. **No Skipping** - Every venture experiences every phase
@@ -51,42 +51,42 @@ All phase transitions require:
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-#### ✨ Spark → Forge
+<h4>✨ Spark → Forge</h4>
         - 100+ $SIGNAL in belief- 10+ unique supporters- Clear problem-solution fit- Feasible execution plan- 7-day minimum duration
 
 </div>
     
     <div class="arena-card" markdown="1">
 
-#### ⚔️ Forge → Ignition
+<h4>⚔️ Forge → Ignition</h4>
         - Win founder duel- Claim Signal NFT- 1,000+ $SIGNAL staked- Present winning vision- Automatic upon victory
 
 </div>
     
     <div class="arena-card" markdown="1">
 
-#### 🚀 Ignition → Drift
+<h4>🚀 Ignition → Drift</h4>
         - Container DAO formed- Core team assembled (3+)- MVP launched publicly- Initial users onboarded- 14-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
-#### 🌊 Drift → Orbit
+<h4>🌊 Drift → Orbit</h4>
         - Product-market fit signals- 40%+ user retention- Sustainable unit economics- Clear growth trajectory- 60-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
-#### 🛸 Orbit → Flare
+<h4>🛸 Orbit → Flare</h4>
         - 6 months stable operations- 80%+ milestone success rate- Revenue/usage growing 10%+ monthly- External funding interest- 180-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
-#### 🔥 Flare → Ascension
+<h4>🔥 Flare → Ascension</h4>
         - Funding secured- 20+ team members- Market leadership position- Buyback funds available- 180-day minimum
 
 </div>
@@ -98,9 +98,11 @@ All phase transitions require:
 
 <div class="arena-card" markdown="1">
 
-### ⚓ Validation Framework
+<h3>⚓ Validation Framework</h3>
 
-**Anchors evaluate:**
+**Anchors evaluate:
+
+**
 
 1. **Milestone Completion** (40%)
    - All declared goals achieved?
@@ -224,9 +226,11 @@ def calculate_phase_health(venture):
 
 <div class="arena-card" markdown="1">
 
-### ⚡ Fast Track Qualification
+<h3>⚡ Fast Track Qualification</h3>
 
-**Exceptional ventures may progress faster if:**
+**Exceptional ventures may progress faster if:
+
+**
 
 - Exceed all metrics by 200%+
 - Unanimous Anchor approval
@@ -234,7 +238,9 @@ def calculate_phase_health(venture):
 - Demonstrated exceptional execution
 - Strategic opportunity requires speed
 
-**Fast Track Limits:**
+**Fast Track Limits:
+
+**
 
 - Minimum durations still apply
 - Cannot skip phases
@@ -247,12 +253,17 @@ def calculate_phase_health(venture):
 
 !!! danger "When Ventures Move Backward"
     
-    **Regression only allowed during Drift phase:**
-    - Failed product-market fit
+    **Regression only allowed during Drift phase:
+
+**
+
+- Failed product-market fit
     - Major pivot required
     - Team reformation needed
     
-    **Regression Process:**
+    **Regression Process:
+
+**
     1. Founder requests regression
     2. Anchors assess situation
     3. Community votes on allowing
@@ -314,7 +325,7 @@ When ventures can't advance:
 
 <div class="arena-card" markdown="1">
 
-### 🤔 What If...
+<h3>🤔 What If...</h3>
 
 **Q: Venture succeeds wildly but hasn't met time minimum?**
 A: Must wait. Time requirements ensure proper foundation.

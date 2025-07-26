@@ -14,7 +14,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-### 1. Introduction
+<h3>1. Introduction</h3>
 - <a href="what-is-studio3/">What is Studio3?</a>
 - <a href="ecosystem-overview/">Ecosystem Overview</a>
 - <a href="key-principles/">Key Principles</a>
@@ -23,7 +23,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-### 2. Core Concepts
+<h3>2. Core Concepts</h3>
 - <a href="arena-system/">The Arena System</a>
 - <a href="belief-signals/">Belief & Doubt Signals</a>
 - <a href="nft-system/">Three-NFT System</a>
@@ -32,7 +32,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-### 3. The Journey
+<h3>3. The Journey</h3>
 - <a href="seven-phases/">Seven Phase Lifecycle</a>
 - <a href="milestones/">Milestone System</a>
 - <a href="progression/">Progression Rules</a>
@@ -41,7 +41,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-### 4. Participants
+<h3>4. Participants</h3>
 - <a href="roles-overview/">Three Roles Overview</a>
 - <a href="interactions/">How They Interact</a>
 - <a href="incentives/">Aligned Incentives</a>
@@ -50,7 +50,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-### 5. Economics
+<h3>5. Economics</h3>
 - <a href="signal-token/">$SIGNAL Token</a>
 - <a href="rewards-system/">Rewards & Penalties</a>
 - <a href="value-flow/">Value Flow</a>
@@ -59,7 +59,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-### 6. Getting Started
+<h3>6. Getting Started</h3>
 - <a href="choosing-role/">Choosing Your Role</a>
 - <a href="first-steps/">First Steps</a>
 - <a href="resources/">Resources & Support</a>

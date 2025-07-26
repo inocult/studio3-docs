@@ -10,11 +10,13 @@ Milestones are the fundamental units of progress in Studio3. They represent spec
 
 <div class="arena-card" markdown="1">
 
-### 🎯 Milestone Essentials
+<h3>🎯 Milestone Essentials</h3>
 
 A milestone is a public commitment to achieve a specific outcome by a defined deadline.
 
-**Key Components:**
+**Key Components:
+
+**
 
 - **Specific Goal**: Clear, unambiguous objective
 - **Success Criteria**: Measurable completion requirements  
@@ -162,9 +164,11 @@ flowchart TD
 
 <div class="arena-card" markdown="1">
 
-### 📝 Declaration Checklist
+<h3>📝 Declaration Checklist</h3>
 
-**Required Elements:**
+**Required Elements:
+
+**
 
 - [ ] Clear objective statement
 - [ ] Success criteria (3-5 points)
@@ -174,7 +178,9 @@ flowchart TD
 - [ ] Risk assessment
 - [ ] Dependencies identified
 
-**Optional Enhancements:**
+**Optional Enhancements:
+
+**
 
 - [ ] Stretch goals
 - [ ] Partial success criteria
@@ -189,7 +195,8 @@ flowchart TD
 
 !!! info "Valuation Factors"
     Token values should reflect:
-    - **Difficulty**: Technical or operational complexity
+
+- **Difficulty**: Technical or operational complexity
     - **Impact**: Importance to venture success
     - **Risk**: Probability of failure
     - **Timeline**: Urgency and duration
@@ -266,9 +273,11 @@ flowchart TD
 
 <div class="arena-card" markdown="1">
 
-### 🏆 Execution Excellence
+<h3>🏆 Execution Excellence</h3>
 
-**During Development:**
+**During Development:
+
+**
 
 1. **Daily Updates**: Keep community informed
 2. **Progress Tracking**: Show incremental advancement
@@ -276,7 +285,9 @@ flowchart TD
 4. **Resource Management**: Allocate wisely
 5. **Time Buffering**: Plan for unexpected delays
 
-**Communication Guidelines:**
+**Communication Guidelines:
+
+**
 
 - Post updates at consistent times
 - Use visual progress indicators
@@ -404,7 +415,8 @@ graph TD
 
 !!! tip "Coming Soon: Conditional Logic"
     Future milestones will support:
-    - **IF-THEN** statements
+
+- **IF-THEN** statements
     - **AND/OR** requirements  
     - **Prerequisite** chains
     - **Fallback** options
