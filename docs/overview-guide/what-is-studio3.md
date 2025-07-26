@@ -14,6 +14,7 @@ Studio3 is a revolutionary venture building platform that transforms how startup
 ### 🌟 Transparency First
 
 Every venture in Studio3 operates in public view:
+
 - **Open Milestones** - All goals and deadlines are visible
 - **Public Progress** - Development happens in the open
 - **Clear Metrics** - Success and failure are measurable
@@ -22,6 +23,7 @@ Every venture in Studio3 operates in public view:
 ### 🎮 Gamified Entrepreneurship
 
 Building ventures becomes an engaging experience:
+
 - **Seven Phases** - Clear progression from idea to independence
 - **XP System** - Earn experience and unlock capabilities
 - **Achievements** - Recognize exceptional performance
@@ -30,6 +32,7 @@ Building ventures becomes an engaging experience:
 ### 🤝 Aligned Incentives
 
 Everyone wins when ventures succeed:
+
 - **Founders** gain resources and support
 - **Supporters** earn rewards for accurate predictions
 - **Validators** receive compensation for guidance
@@ -115,6 +118,7 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 ## Success Metrics
 
 Studio3 measures success through:
+
 - **Venture Graduation Rate** - Percentage reaching Ascension
 - **Community Satisfaction** - Participant NPS scores
 - **Ecosystem Growth** - New ventures and participants
