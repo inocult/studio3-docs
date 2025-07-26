@@ -93,16 +93,19 @@ flowchart TD
 <h3>📊 Multiplier Formula</h3>
 
 **Base Multipliers:**
+
 - Belief (Success): 1.5x base
 - Doubt (Failure): 1.2x base
 
 **Bonus Factors:**
+
 - Early Signal: +0.1x per 24 hours early
 - Contrarian: +0.3x if against majority
 - Reputation: +0.01x per 1000 XP
 - Phase Difficulty: +0.1x per phase level
 
 **Maximum Possible:**
+
 - Belief: 3x multiplier
 - Doubt: 2x multiplier
 </div>
@@ -215,6 +218,7 @@ graph LR
 ### Your Rights as an Echo
 
 ✅ **You have the right to:**
+
 - Signal on any open milestone
 - Access all public information
 - Change strategy between milestones
@@ -224,6 +228,7 @@ graph LR
 ### Your Responsibilities
 
 ⚠️ **You must:**
+
 - Accept permanent loss risk
 - Not manipulate markets
 - Not coordinate signals illegally
@@ -307,6 +312,7 @@ A: Immediately after validation completes.
 ### Prohibited Behaviors
 
 ❌ **Never:**
+
 - Coordinate signals in private groups
 - Spread false information to influence signals
 - Use insider information

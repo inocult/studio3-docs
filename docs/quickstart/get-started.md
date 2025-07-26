@@ -23,12 +23,14 @@ Getting started with Studio3 is simple:
 <h3>🏗️ Become a Sender</h3>
 
 **If you have:**
+
 - A venture idea
 - Execution ability
 - Public comfort
 - Risk tolerance
 
 **You'll need:**
+
 - 1,000+ $SIGNAL tokens
 - Time commitment (full-time)
 - Team building skills
@@ -40,12 +42,14 @@ Getting started with Studio3 is simple:
 <h3>📡 Become an Echo</h3>
 
 **If you have:**
+
 - Investment capital
 - Analysis skills
 - Risk appetite
 - Market intuition
 
 **You'll need:**
+
 - 100+ $SIGNAL tokens
 - Daily time (30-60 min)
 - Research mindset
@@ -57,12 +61,14 @@ Getting started with Studio3 is simple:
 <h3>⚓ Become an Anchor</h3>
 
 **If you have:**
+
 - Industry expertise
 - Mentoring experience
 - Quality standards
 - Available time
 
 **You'll need:**
+
 - Proven track record
 - 2-4 hours daily
 - Fair judgment
@@ -112,12 +118,14 @@ Getting started with Studio3 is simple:
 <h3>📖 Must-Read Resources</h3>
 
 **For All Participants:**
+
 - This Quickstart guide (you're here!)
 - [Overview Guide](../overview-guide/) - Complete system understanding
 - Community Code of Conduct
 - Platform Terms of Service
 
 **Role-Specific:**
+
 - Your chosen role's complete guide
 - Success stories from veterans
 - Common mistakes to avoid
@@ -208,6 +216,7 @@ Getting started with Studio3 is simple:
 <h3>🌟 Reputation Matters</h3>
 
 **How to earn XP:**
+
 - Successful milestones (Senders)
 - Accurate signals (Echoes)
 - Quality validations (Anchors)
@@ -215,6 +224,7 @@ Getting started with Studio3 is simple:
 - Consistent participation
 
 **Benefits of high XP:**
+
 - Better multipliers
 - Priority access
 - Trusted status
@@ -236,18 +246,21 @@ Getting started with Studio3 is simple:
 <h3>✅ Your First Week</h3>
 
 **Day 1:**
+
 - [ ] Choose your role
 - [ ] Set up wallet
 - [ ] Get $SIGNAL tokens
 - [ ] Create account
 
 **Day 2-3:**
+
 - [ ] Read your role guide
 - [ ] Join Discord
 - [ ] Introduce yourself
 - [ ] Observe active ventures
 
 **Day 4-7:**
+
 - [ ] Make first action (signal/pitch/application)
 - [ ] Connect with 5 community members
 - [ ] Attend one community event

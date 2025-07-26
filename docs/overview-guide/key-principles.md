@@ -41,6 +41,7 @@ graph TD
 ```
 
 **Key aspects:**
+
 - Belief must be **backed by tokens**
 - Conviction carries **real risk**
 - Accuracy builds **lasting reputation**

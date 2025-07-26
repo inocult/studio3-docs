@@ -118,18 +118,21 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <h3>⚡ Pre-Launch Checklist</h3>
 
 **Technical Ready:**
+
 - [ ] Wallet funded with $SIGNAL
 - [ ] Development environment set
 - [ ] Version control configured
 - [ ] Communication tools ready
 
 **Content Ready:**
+
 - [ ] Compelling venture story
 - [ ] Clear milestone plan
 - [ ] Evidence templates
 - [ ] FAQ prepared
 
 **Mental Ready:**
+
 - [ ] Prepared for public scrutiny
 - [ ] Stress management plan
 - [ ] Support system in place
@@ -184,12 +187,14 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <h3>📈 Progressive Scaling</h3>
 
 **Signal Sizing:**
+
 - Week 1: 10-50 $SIGNAL per signal
 - Week 2: 50-100 $SIGNAL per signal  
 - Week 3: 100-500 $SIGNAL per signal
 - Week 4: Your comfort level
 
 **Portfolio Rules:**
+
 - Maximum 10% in one venture
 - Minimum 5 active positions
 - Balance belief/doubt signals
@@ -244,6 +249,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <h3>⚖️ Validation Excellence</h3>
 
 **Quality Standards:**
+
 - Thorough evidence review
 - Clear documentation
 - Constructive feedback
@@ -251,6 +257,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - Fair judgment
 
 **Time Management:**
+
 - 2-4 hours per validation
 - 24-48 hour turnaround
 - Batch similar reviews

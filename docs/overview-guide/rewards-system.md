@@ -384,16 +384,19 @@ For tax purposes, maintain records of:
 ### Reward Optimization Strategy
 
 **For Echoes:**
+
 - **Strategy**: Focus on early contrarian signals
 - **Expected Return**: 2.3x average multiplier
 - **Risk Level**: High
 
 **For Senders:**
+
 - **Strategy**: Under-promise and over-deliver
 - **Expected Bonus**: 15% above baseline
 - **Risk Level**: Medium
 
 **For Anchors:**
+
 - **Strategy**: Thorough validation plus active mentorship
 - **Expected Return**: 5.5% average fee rate
 - **Risk Level**: Low

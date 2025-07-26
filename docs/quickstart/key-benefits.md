@@ -21,12 +21,14 @@ Studio3 solves the biggest problems in venture building:
 <h3>💰 No More Gatekeepers</h3>
 
 **Traditional Way:**
+
 - Need connections to VCs
 - Months of closed-door meetings
 - Arbitrary rejection reasons
 - Geography limitations
 
 **Studio3 Way:**
+
 - Open to anyone with merit
 - Public evaluation process
 - Clear feedback from community
@@ -79,6 +81,7 @@ From day one, you have:
 <h3>📊 Know What You're Getting</h3>
 
 **Clear Mechanics:**
+
 - Exact multipliers for correct predictions (1.5x-3x)
 - Public track records of all participants
 - Real-time progress visibility
@@ -136,6 +139,7 @@ From day one, you have:
 **Traditional Startup Failure Rate:** 90%
 
 **Studio3 Advantages:**
+
 - Community validation catches bad ideas early
 - Public accountability drives execution
 - Continuous feedback enables quick pivots
@@ -239,18 +243,21 @@ Everyone benefits from the same outcome:
 <h3>Why Studio3 Wins</h3>
 
 **For Individuals:**
+
 - Better access to opportunities
 - Transparent risk and rewards
 - Active participation in innovation
 - Merit-based success
 
 **For the Ecosystem:**
+
 - Higher venture success rates
 - Efficient capital allocation
 - Collective intelligence
 - Global accessibility
 
 **For the Future:**
+
 - Democratized venture building
 - Community-driven innovation
 - Aligned stakeholder interests

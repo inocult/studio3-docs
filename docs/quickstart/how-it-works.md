@@ -65,6 +65,7 @@ The winning founder:
 5. **Earn or lose** based on results
 
 **Example:**
+
 - You believe TeamX will deliver their app by March 1st
 - You stake 1,000 $SIGNAL tokens as a belief signal
 - If they succeed: You get 1,500-3,000 tokens back (1.5x-3x)
@@ -91,12 +92,14 @@ When milestones are complete:
 <h3>💰 The Settlement</h3>
 
 **If Milestone Succeeds:**
+
 - Believers earn token multipliers (1.5x-3x)
 - Doubters lose their entire stake
 - Founder unlocks next funding
 - Anchor earns validation fee
 
 **If Milestone Fails:**
+
 - Doubters earn token multipliers (1.2x-2x)
 - Believers lose their entire stake
 - Founder faces reputation damage

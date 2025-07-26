@@ -163,6 +163,7 @@ graph TD
 - **Governance value**: Voting power uses quadratic formula
 
 **Total Value Impact:**
+
 - Higher XP compounds all benefits
 - Creates virtuous cycle of success
 - Reputation becomes valuable asset
@@ -220,6 +221,7 @@ graph TD
 - **Monthly cap** prevents farming
 
 **Token Utility:**
+
 - Vote on platform changes
 - Elect Anchor Council
 - Allocate treasury funds
@@ -372,6 +374,7 @@ graph LR
 - **Growth rate**: Net value divided by total locked value
 
 **Health Indicators:**
+
 - **Healthy**: Months of runway > 24
 - **Growing**: Positive net value creation
 - **Sustainable**: Balanced velocity ratio
@@ -425,6 +428,7 @@ graph LR
 **Value Created:** $10M → $250M in 18 months  
 
 **Flow Optimization:**
+
 - Reinvested 80% of early revenues
 - Created token incentive loops
 - Built strong network effects

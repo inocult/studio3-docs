@@ -19,6 +19,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Can handle transparent failure
 
 **Required:**
+
 - Entrepreneurial drive
 - Execution ability
 - Communication skills
@@ -38,6 +39,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Seek merit-based returns
 
 **Required:**
+
 - $SIGNAL tokens
 - Analytical mindset
 - Risk management
@@ -57,6 +59,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 - Seek consistent income
 
 **Required:**
+
 - Proven track record
 - Validation skills
 - Time commitment

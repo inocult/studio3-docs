@@ -166,6 +166,7 @@ graph TD
 ### Everything is Visible
 
 **Public Information:**
+
 - All milestone declarations
 - All signal amounts and timing
 - All founder updates and evidence
@@ -173,6 +174,7 @@ graph TD
 - All reward distributions
 
 **Performance Metrics:**
+
 - Success/failure rates by founder
 - Signal accuracy by Echo
 - Validation quality by Anchor
