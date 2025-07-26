@@ -227,11 +227,14 @@ body {
 
 /* Arena card content formatting */
 .arena-card p {
-  margin: 0.5rem 0;
+  margin: 0.75rem 0;
   line-height: 1.6;
+  display: block;
 }
 
-.arena-card p:first-of-type {
+.arena-card p:first-child,
+.arena-card h3 + p,
+.arena-card h4 + p {
   margin-top: 0;
 }
 
@@ -241,16 +244,25 @@ body {
 
 .arena-card ul,
 .arena-card ol {
-  margin: 0.75rem 0;
+  margin: 1rem 0;
   padding-left: 1.5rem;
+  list-style-position: outside;
+  display: block;
+}
+
+.arena-card ul:last-child,
+.arena-card ol:last-child {
+  margin-bottom: 0;
 }
 
 .arena-card li {
   margin: 0.5rem 0;
   line-height: 1.6;
+  display: list-item;
 }
 
-.arena-card li strong {
+.arena-card li strong,
+.arena-card strong {
   color: var(--studio3-navy);
   font-weight: 600;
 }
@@ -261,6 +273,17 @@ body {
   padding: 0.125rem 0.375rem;
   border-radius: 4px;
   font-size: 0.875em;
+}
+
+/* Ensure proper rendering of markdown elements */
+.arena-card a {
+  color: var(--studio3-pink);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.arena-card a:hover {
+  text-decoration: underline;
 }
 
 /* Dark mode arena cards */

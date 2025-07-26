@@ -8,51 +8,37 @@
 ## 🚀 Start Your Journey
 
 <div class="grid">
-<div class="arena-card" markdown="1">
-
-### 🏗️ For Builders
-
-Turn your ideas into ventures through public execution and community support.
-
-[Start Building →](getting-started/roles/#founders-senders)
-
+<div class="arena-card">
+<h3>🏗️ For Builders</h3>
+<p>Turn your ideas into ventures through public execution and community support.</p>
+<p><a href="getting-started/roles/#founders-senders">Start Building →</a></p>
 </div>
 
-<div class="arena-card" markdown="1">
-
-### 📡 For Supporters
-
-Signal belief in ventures and earn rewards for accurate predictions.
-
-[Start Supporting →](getting-started/roles/#supporters-echoes)
-
+<div class="arena-card">
+<h3>📡 For Supporters</h3>
+<p>Signal belief in ventures and earn rewards for accurate predictions.</p>
+<p><a href="getting-started/roles/#supporters-echoes">Start Supporting →</a></p>
 </div>
 
-<div class="arena-card" markdown="1">
-
-### ⚓ For Validators
-
-Guide ventures and ensure ecosystem integrity through expert validation.
-
-[Start Validating →](getting-started/roles/#validators-anchors)
-
+<div class="arena-card">
+<h3>⚓ For Validators</h3>
+<p>Guide ventures and ensure ecosystem integrity through expert validation.</p>
+<p><a href="getting-started/roles/#validators-anchors">Start Validating →</a></p>
 </div>
 </div>
 
 ## 🎯 What Makes Studio3 Different?
 
-<div class="arena-card" markdown="1">
-
-### Not Your Average Incubator
-
-Studio3 revolutionizes how ventures are built:
-
-- **🏟️ Public Arenas** - All progress happens transparently
-- **📊 Belief Signals** - Community conviction drives support  
-- **🎮 Gamified Journey** - Seven phases from idea to sovereignty
-- **🏆 Real Stakes** - Success brings rewards, failure has consequences
-- **🤝 Community-Driven** - Collective intelligence guides development
-
+<div class="arena-card">
+<h3>Not Your Average Incubator</h3>
+<p>Studio3 revolutionizes how ventures are built:</p>
+<ul>
+<li><strong>🏟️ Public Arenas</strong> - All progress happens transparently</li>
+<li><strong>📊 Belief Signals</strong> - Community conviction drives support</li>
+<li><strong>🎮 Gamified Journey</strong> - Seven phases from idea to sovereignty</li>
+<li><strong>🏆 Real Stakes</strong> - Success brings rewards, failure has consequences</li>
+<li><strong>🤝 Community-Driven</strong> - Collective intelligence guides development</li>
+</ul>
 </div>
 
 ## 📚 Quick Links
@@ -66,28 +52,19 @@ Studio3 revolutionizes how ventures are built:
 ## 🌟 Recent Successes
 
 <div class="grid">
-<div class="arena-card" markdown="1">
-
-#### 🚀 DataVault
-
-Graduated to Ascension in record time with revolutionary privacy tech
-
+<div class="arena-card">
+<h4>🚀 DataVault</h4>
+<p>Graduated to Ascension in record time with revolutionary privacy tech</p>
 </div>
 
-<div class="arena-card" markdown="1">
-
-#### ⚡ EnergyDAO
-
-From Spark to Flare in 6 months, now powering 10,000+ homes
-
+<div class="arena-card">
+<h4>⚡ EnergyDAO</h4>
+<p>From Spark to Flare in 6 months, now powering 10,000+ homes</p>
 </div>
 
-<div class="arena-card" markdown="1">
-
-#### 🎮 PlayForge
-
-Community-built gaming platform with 1M+ active users
-
+<div class="arena-card">
+<h4>🎮 PlayForge</h4>
+<p>Community-built gaming platform with 1M+ active users</p>
 </div>
 </div>
 

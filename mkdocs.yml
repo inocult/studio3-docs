@@ -76,6 +76,7 @@ markdown_extensions:
   - footnotes
   - md_in_html
   - tables
+  - pymdownx.extra
   - toc:
       permalink: true
       toc_depth: 3
