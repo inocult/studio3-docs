@@ -77,6 +77,7 @@ The winning founder:
 <h3>⚓ Quality Assurance</h3>
 
 When milestones are complete:
+
 - Founder submits **evidence** of completion
 - **Anchors** (validators) review thoroughly
 - They verify claims are accurate

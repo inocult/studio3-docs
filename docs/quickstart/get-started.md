@@ -6,6 +6,7 @@
 <h3>🚀 Ready to Begin?</h3>
 
 Getting started with Studio3 is simple:
+
 1. **Choose your role** based on your goals
 2. **Create your account** and connect wallet
 3. **Start small** to learn the system

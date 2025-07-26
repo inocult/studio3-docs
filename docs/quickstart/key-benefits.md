@@ -39,6 +39,7 @@ Studio3 solves the biggest problems in venture building:
 <h3>👥 Never Build Alone</h3>
 
 From day one, you have:
+
 - **Hundreds of supporters** invested in your success
 - **Expert mentors** guiding your journey
 - **Real-time feedback** on every decision
