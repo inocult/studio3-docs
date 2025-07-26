@@ -12,7 +12,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 ## 📚 Guide Contents
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>1. Introduction</h3>
 <ul>
 <li><a href="what-is-studio3/">What is Studio3?</a></li>
@@ -21,7 +21,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>2. Core Concepts</h3>
 <ul>
 <li><a href="arena-system/">The Arena System</a></li>
@@ -30,7 +30,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>3. The Journey</h3>
 <ul>
 <li><a href="seven-phases/">Seven Phase Lifecycle</a></li>
@@ -39,7 +39,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>4. Participants</h3>
 <ul>
 <li><a href="roles-overview/">Three Roles Overview</a></li>
@@ -48,7 +48,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>5. Economics</h3>
 <ul>
 <li><a href="signal-token/">$SIGNAL Token</a></li>
@@ -57,7 +57,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>6. Getting Started</h3>
 <ul>
 <li><a href="choosing-role/">Choosing Your Role</a></li>

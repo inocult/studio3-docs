@@ -246,7 +246,7 @@ flowchart TD
 ### Short vs Long Term
 
 <div class="grid cards">
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>⏱️ Short-term Alignment</h4>
         <p><strong>Immediate Rewards for Good Behavior</strong></p>
         <ul>
@@ -257,7 +257,7 @@ flowchart TD
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>📈 Long-term Alignment</h4>
         <p><strong>Compound Benefits for Patience</strong></p>
         <ul>

@@ -211,7 +211,7 @@ graph LR
 ### Complex Scenarios
 
 <div class="grid cards">
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>🎭 Scenario: Pivot Decision</h4>
         <p><strong>Participants:</strong> Sender + Multiple Echoes + Anchor</p>
         <ul>
@@ -222,7 +222,7 @@ graph LR
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>⚖️ Scenario: Disputed Validation</h4>
         <p><strong>Participants:</strong> Sender + Echoes + Multiple Anchors</p>
         <ul>

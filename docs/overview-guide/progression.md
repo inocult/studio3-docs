@@ -8,7 +8,7 @@ Progression through Studio3's seven phases follows clear rules designed to ensur
 
 ### Fundamental Rules
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📏 The Five Laws</h3>
 
 1. **Sequential Progress** - Phases must be completed in order
@@ -47,7 +47,7 @@ All phase transitions require:
 ### Phase-Specific Requirements
 
 <div class="grid cards">
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>✨ Spark → Forge</h4>
         <ul>
             <li>100+ $SIGNAL in belief</li>
@@ -58,7 +58,7 @@ All phase transitions require:
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>⚔️ Forge → Ignition</h4>
         <ul>
             <li>Win founder duel</li>
@@ -69,7 +69,7 @@ All phase transitions require:
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>🚀 Ignition → Drift</h4>
         <ul>
             <li>Container DAO formed</li>
@@ -80,7 +80,7 @@ All phase transitions require:
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>🌊 Drift → Orbit</h4>
         <ul>
             <li>Product-market fit signals</li>
@@ -91,7 +91,7 @@ All phase transitions require:
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>🛸 Orbit → Flare</h4>
         <ul>
             <li>6 months stable operations</li>
@@ -102,7 +102,7 @@ All phase transitions require:
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h4>🔥 Flare → Ascension</h4>
         <ul>
             <li>Funding secured</li>
@@ -118,7 +118,7 @@ All phase transitions require:
 
 ### Anchor Assessment
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚓ Validation Framework</h3>
 
 **Anchors evaluate:**
@@ -242,7 +242,7 @@ def calculate_phase_health(venture):
 
 ### Accelerated Progression
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚡ Fast Track Qualification</h3>
 
 **Exceptional ventures may progress faster if:**
@@ -330,7 +330,7 @@ When ventures can't advance:
 
 ### Complex Scenarios
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🤔 What If...</h3>
 
 **Q: Venture succeeds wildly but hasn't met time minimum?**

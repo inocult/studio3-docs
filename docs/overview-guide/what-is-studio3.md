@@ -4,7 +4,7 @@ Studio3 is a revolutionary venture building platform that transforms how startup
 
 ## The Vision
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Where Belief Becomes Momentum</h3>
 <p>Studio3 creates an ecosystem where great ideas can find support, validation, and resources through a transparent, community-driven process. By gamifying the entrepreneurship journey and aligning incentives across all participants, we're building the future of venture creation.</p>
 </div>
@@ -41,32 +41,32 @@ Everyone wins when ventures succeed:
 ## How It Works
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>1. Ideas Enter</h3>
 <p>Ventures begin as Spark NFTs created from remixed intellectual property</p>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>2. Founders Compete</h3>
 <p>Forge Duels determine who leads each venture forward</p>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>3. Building Begins</h3>
 <p>Winners form Container DAOs and start public development</p>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>4. Community Signals</h3>
 <p>Supporters express belief or doubt through $SIGNAL tokens</p>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>5. Progress Validated</h3>
 <p>Anchors verify milestones and guide development</p>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>6. Ventures Graduate</h3>
 <p>Successful ventures achieve sovereignty through Ascension</p>
 </div>
@@ -85,7 +85,7 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 
 ## Why Studio3 Matters
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>For the Startup Ecosystem</h3>
 <ul>
 <li><strong>Reduced Failure Rate</strong> - Community validation catches issues early</li>

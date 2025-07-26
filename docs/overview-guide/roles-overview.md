@@ -9,7 +9,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 ### At a Glance
 
 <div class="grid cards">
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>🏗️ Senders (Founders)</h3>
         <p><strong>The Builders</strong></p>
         <p>Entrepreneurs who transform ideas into ventures through transparent execution</p>
@@ -21,7 +21,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>📡 Echoes (Supporters)</h3>
         <p><strong>The Believers</strong></p>
         <p>Community members who signal conviction through token stakes</p>
@@ -33,7 +33,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>⚓ Anchors (Validators)</h3>
         <p><strong>The Guardians</strong></p>
         <p>Experienced builders who ensure quality and provide guidance</p>
@@ -80,7 +80,7 @@ graph TD
 
 ### The Builder's Journey
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏗️ What Senders Do</h3>
 
 **Primary Activities:**
@@ -154,7 +154,7 @@ graph TD
 
 ### The Believer's Path
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 What Echoes Do</h3>
 
 **Primary Activities:**
@@ -218,7 +218,7 @@ def calculate_echo_returns(signal):
 
 ### The Guardian's Duty
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚓ What Anchors Do</h3>
 
 **Primary Activities:**
@@ -320,7 +320,7 @@ sequenceDiagram
 
 ### Self-Assessment Framework
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🤔 Which Role Fits You?</h3>
 
 **Consider Sender If You:**

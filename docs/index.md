@@ -8,7 +8,7 @@
 ## 📚 Available Guides
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🌐 Overview Guide</h3>
 <p>Complete introduction to Studio3's venture building platform, core concepts, and ecosystem mechanics.</p>
 <p><strong>Perfect for:</strong> New users, investors, and anyone wanting to understand Studio3</p>
@@ -18,7 +18,7 @@
 </div>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏗️ Senders Guide</h3>
 <p>Everything founders need to build ventures through Studio3's transparent, gamified ecosystem.</p>
 <p><strong>Perfect for:</strong> Entrepreneurs, builders, and teams ready to launch ventures</p>
@@ -28,7 +28,7 @@
 </div>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📡 Echoes Guide</h3>
 <p>Master the art of signaling belief, earning rewards, and supporting ventures to success.</p>
 <p><strong>Perfect for:</strong> Supporters, investors, and community members</p>
@@ -38,7 +38,7 @@
 </div>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚓ Anchors Guide</h3>
 <p>Essential handbook for validators who guide ventures and maintain ecosystem integrity.</p>
 <p><strong>Perfect for:</strong> Experienced builders, mentors, and ecosystem validators</p>

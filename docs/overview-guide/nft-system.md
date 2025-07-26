@@ -9,7 +9,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 ### Overview
 
 <div class="grid cards">
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>🎨 Spark NFT</h3>
         <p><strong>The Origin</strong></p>
         <p>Represents the original idea and IP combination</p>
@@ -21,7 +21,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>📡 Signal NFT</h3>
         <p><strong>The Journey</strong></p>
         <p>Dynamic NFT tracking the venture's entire lifecycle</p>
@@ -33,7 +33,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>🛡️ Halo NFT</h3>
         <p><strong>The Achievement</strong></p>
         <p>Soulbound proof of successful graduation</p>
@@ -118,7 +118,7 @@ graph TD
 
 ### Dynamic Properties
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎨 Visual Evolution</h3>
 <p>The Signal NFT's appearance changes based on:</p>
 <ul>
@@ -240,7 +240,7 @@ sequenceDiagram
 
 ### How They Work Together
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🔗 The Trinity Effect</h3>
 <p>When all three NFTs are united in one wallet:</p>
 <ul>
@@ -360,7 +360,7 @@ A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
 
 ### Notable NFT Journeys
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🌟 The First Trinity</h4>
 <p><strong>Venture:</strong> DecentralHealth</p>
 <p><strong>Journey:</strong> 18 months from Spark to Sovereignty</p>

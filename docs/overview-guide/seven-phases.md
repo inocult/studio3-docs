@@ -44,7 +44,7 @@ graph LR
 
 ### Where Ideas Take Flight
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎯 Objective</h3>
 <p>Transform a remixed IP concept into a validated venture idea with initial community support.</p>
 
@@ -80,7 +80,7 @@ graph LR
 
 ### The Battle for Leadership
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🏆 Objective</h3>
 <p>Determine the most capable founder through competitive dueling.</p>
 
@@ -114,7 +114,7 @@ graph LR
 
 ### Building the Foundation
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🔨 Objective</h3>
 <p>Form Container DAO, assemble team, and deliver initial MVP.</p>
 
@@ -160,7 +160,7 @@ graph TD
 
 ### Finding Your Current
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎯 Objective</h3>
 <p>Iterate rapidly to find product-market fit through community feedback.</p>
 
@@ -204,7 +204,7 @@ When pivoting during Drift:
 
 ### Achieving Stability
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎯 Objective</h3>
 <p>Establish sustainable operations with consistent growth and reliable delivery.</p>
 
@@ -249,7 +249,7 @@ graph LR
 
 ### Igniting Growth
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🚀 Objective</h3>
 <p>Scale rapidly with external capital and aggressive expansion.</p>
 
@@ -294,7 +294,7 @@ gross_margins = > 70%  # For software
 
 ### Achieving Sovereignty
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>👑 Objective</h3>
 <p>Graduate from Studio3 oversight to complete independence.</p>
 
@@ -337,7 +337,7 @@ gross_margins = > 70%  # For software
 
 ### Moving Forward
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📈 Advancement Criteria</h3>
 
 **General Requirements:**

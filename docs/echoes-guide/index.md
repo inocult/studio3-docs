@@ -12,7 +12,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 📚 Guide Contents
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>1. Echo Fundamentals</h3>
 <ul>
 <li><a href="echo-basics/">Understanding Your Role</a></li>
@@ -21,7 +21,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>2. Getting Started</h3>
 <ul>
 <li><a href="first-signals/">Your First Signals</a></li>
@@ -30,7 +30,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>3. Venture Analysis</h3>
 <ul>
 <li><a href="evaluating-ventures/">Evaluating Ventures</a></li>
@@ -39,7 +39,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>4. Signal Strategies</h3>
 <ul>
 <li><a href="belief-strategies/">When to Believe</a></li>
@@ -48,7 +48,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>5. Advanced Tactics</h3>
 <ul>
 <li><a href="phase-strategies/">Phase-Based Strategies</a></li>
@@ -57,7 +57,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>6. Community & Growth</h3>
 <ul>
 <li><a href="community-engagement/">Community Participation</a></li>
@@ -87,7 +87,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 📊 Performance Tracking
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Key Metrics</h3>
 <ul>
 <li><strong>Accuracy Rate</strong> - Signal success percentage</li>
@@ -97,7 +97,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>Leaderboards</h3>
 <ul>
 <li><strong>Top Echoes</strong> - Overall performance</li>
@@ -111,7 +111,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 🎓 Learning Resources
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>📚 Essential Reading</h4>
 <ul>
 <li>Signal Psychology 101</li>
@@ -121,7 +121,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🛠️ Tools & Calculators</h4>
 <ul>
 <li>Signal ROI Calculator</li>
@@ -146,12 +146,12 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 🌟 Echo Success Stories
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>The Contrarian</h4>
 <p>Turned 1,000 $SIGNAL into 127,000 by correctly doubting overhyped ventures and believing in overlooked gems.</p>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>The Specialist</h4>
 <p>Focused exclusively on DeFi ventures, achieving 89% accuracy through deep domain expertise.</p>
 </div>

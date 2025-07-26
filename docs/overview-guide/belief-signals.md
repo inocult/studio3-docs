@@ -11,7 +11,7 @@ In Studio3, belief isn't just an opinion - it's a commitment backed by tokens. T
 Signals are token-backed predictions about a venture's ability to achieve specific milestones:
 
 <div class="grid cards">
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>👍 Belief Signals</h3>
         <p>Express confidence that a milestone will be achieved</p>
         <ul>
@@ -21,7 +21,7 @@ Signals are token-backed predictions about a venture's ability to achieve specif
         </ul>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>👎 Doubt Signals</h3>
         <p>Express skepticism that a milestone will be achieved</p>
         <ul>
@@ -89,7 +89,7 @@ flowchart TD
 
 ### Reward Multipliers
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📊 Multiplier Formula</h3>
 
 **Base Multipliers:**
@@ -234,7 +234,7 @@ graph LR
 
 ### Coming Soon
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🔮 Future Signal Features</h3>
 
 **Conditional Signals** 🎯
@@ -317,7 +317,7 @@ A: Immediately after validation completes.
 
 ### Signal Legends
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🏆 EchoMaster_7</h4>
 <p><strong>Stats:</strong> 342 signals, 78% accuracy</p>
 <p><strong>Specialty:</strong> Technical infrastructure milestones</p>
@@ -325,7 +325,7 @@ A: Immediately after validation completes.
 <blockquote>"I only signal on what I understand deeply. Better to miss opportunities than lose on ignorance."</blockquote>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🌟 SignalSavant</h4>
 <p><strong>Stats:</strong> 567 signals, 71% accuracy</p>
 <p><strong>Specialty:</strong> Early-stage technical ventures</p>

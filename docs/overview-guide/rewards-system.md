@@ -159,7 +159,7 @@ graph TD
 
 ### For Senders
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>💥 Sender Penalty Framework</h3>
 
 **Failure Consequences:**
@@ -192,7 +192,7 @@ graph TD
 
 ### For Anchors
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>⚠️ Anchor Accountability</h3>
 
 **Quality Failures:**
@@ -266,7 +266,7 @@ sequenceDiagram
 
 ### Ecosystem Incentives
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎆 Bonus Reward Programs</h3>
 
 **Active Programs:**
@@ -305,7 +305,7 @@ sequenceDiagram
 
 ### Insurance Mechanisms
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🛡️ Protection Options</h3>
 
 **Signal Insurance** (Coming Soon)
@@ -402,7 +402,7 @@ For tax purposes, maintain records of:
 
 ### Reward Success Stories
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>🌟 The Perfect Signal</h4>
 <p><strong>Echo:</strong> CryptoSage</p>
 <p><strong>Signal:</strong> 10,000 $SIGNAL belief on DeFiVault Phase 4</p>
@@ -413,7 +413,7 @@ For tax purposes, maintain records of:
 
 ### Penalty Lessons
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>💥 The Costly Mistake</h4>
 <p><strong>Sender:</strong> RushProtocol</p>
 <p><strong>Failure:</strong> Overpromised on scaling milestone</p>

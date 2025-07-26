@@ -12,7 +12,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 ## 📚 Guide Contents
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>1. Getting Started</h3>
 <ul>
 <li><a href="founder-basics/">Founder Basics</a></li>
@@ -21,7 +21,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>2. The Forge</h3>
 <ul>
 <li><a href="forge-duels/">Understanding Duels</a></li>
@@ -30,7 +30,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>3. Building Your Venture</h3>
 <ul>
 <li><a href="container-dao/">Container DAO Setup</a></li>
@@ -39,7 +39,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>4. Community Management</h3>
 <ul>
 <li><a href="engaging-echoes/">Engaging Supporters</a></li>
@@ -48,7 +48,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>5. Growth Phases</h3>
 <ul>
 <li><a href="drift-navigation/">Navigating Drift</a></li>
@@ -57,7 +57,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>6. Exit & Sovereignty</h3>
 <ul>
 <li><a href="ascension-planning/">Planning Ascension</a></li>
@@ -87,7 +87,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 ## 🛠️ Practical Resources
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>📝 Templates</h3>
 <ul>
 <li>Milestone Declaration Template</li>
@@ -97,7 +97,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 </ul>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h3>🎥 Tutorials</h3>
 <ul>
 <li>Creating Your First Spark</li>
@@ -121,12 +121,12 @@ Track your progress through key indicators:
 ## 🌟 Featured Success Stories
 
 <div class="grid">
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>DataVault Journey</h4>
 <p>From privacy idea to $500M acquisition in 18 months. Learn their strategies for rapid growth and community engagement.</p>
 </div>
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 <h4>EcoChain Pivot</h4>
 <p>Successfully pivoted from carbon credits to supply chain transparency. Master the art of strategic direction changes.</p>
 </div>
