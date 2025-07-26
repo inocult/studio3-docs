@@ -42,7 +42,7 @@ jobs:
           ENABLE_PDF_EXPORT: 1
         run: |
           mkdocs build
-          python generate_pdfs.py
+          python generate_guide_pdfs.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
