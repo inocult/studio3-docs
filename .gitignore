@@ -12,6 +12,7 @@ ENV/
 # MkDocs
 site/
 .cache/
+site-*/
 
 # IDE
 .vscode/
