@@ -14,7 +14,6 @@
 <p><strong>Perfect for:</strong> New users, investors, and anyone wanting to understand Studio3</p>
 <div class="card-actions">
 <a href="overview-guide/" class="md-button md-button--primary">Browse Guide</a>
-<a href="pdf/studio3-overview-guide.pdf" class="md-button">Download PDF</a>
 </div>
 </div>
 
@@ -24,7 +23,6 @@
 <p><strong>Perfect for:</strong> Entrepreneurs, builders, and teams ready to launch ventures</p>
 <div class="card-actions">
 <a href="senders-guide/" class="md-button md-button--primary">Browse Guide</a>
-<a href="pdf/studio3-senders-guide.pdf" class="md-button">Download PDF</a>
 </div>
 </div>
 
@@ -34,7 +32,6 @@
 <p><strong>Perfect for:</strong> Supporters, investors, and community members</p>
 <div class="card-actions">
 <a href="echoes-guide/" class="md-button md-button--primary">Browse Guide</a>
-<a href="pdf/studio3-echoes-guide.pdf" class="md-button">Download PDF</a>
 </div>
 </div>
 
@@ -44,7 +41,6 @@
 <p><strong>Perfect for:</strong> Experienced builders, mentors, and ecosystem validators</p>
 <div class="card-actions">
 <a href="anchors-guide/" class="md-button md-button--primary">Browse Guide</a>
-<a href="pdf/studio3-anchors-guide.pdf" class="md-button">Download PDF</a>
 </div>
 </div>
 </div>
@@ -88,7 +84,7 @@ Studio3 transforms venture building through:
 Each guide is:
 - **Self-contained** - Everything you need in one place
 - **Role-specific** - Tailored to your journey
-- **Downloadable** - Available as PDF for offline reading
+- **Accessible** - Available online anytime
 - **Regularly updated** - Always current with platform changes
 
 !!! tip "Choose Your Path"
