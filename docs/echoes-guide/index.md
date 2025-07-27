@@ -16,53 +16,53 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <h3>1. Echo Fundamentals</h3>
 - <a href="echo-basics.md">Understanding Your Role</a>
-- <a href="signal-mechanics/">Signal Mechanics</a>
-- <a href="rewards-system/">Rewards & Risks</a>
+- <a href="signal-mechanics.md">Signal Mechanics</a>
+- <a href="rewards-system.md">Rewards & Risks</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>2. Getting Started</h3>
-- <a href="first-signals/">Your First Signals</a>
-- <a href="token-management/">Managing $SIGNAL Tokens</a>
-- <a href="reputation-building/">Building Reputation</a>
+- <a href="first-signals.md">Your First Signals</a>
+- <a href="token-management.md">Managing $SIGNAL Tokens</a>
+- <a href="reputation-building.md">Building Reputation</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>3. Venture Analysis</h3>
-- <a href="evaluating-ventures/">Evaluating Ventures</a>
-- <a href="reading-signals/">Reading Market Signals</a>
-- <a href="due-diligence/">Due Diligence Framework</a>
+- <a href="evaluating-ventures.md">Evaluating Ventures</a>
+- <a href="reading-signals.md">Reading Market Signals</a>
+- <a href="due-diligence.md">Due Diligence Framework</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>4. Signal Strategies</h3>
-- <a href="belief-strategies/">When to Believe</a>
-- <a href="doubt-strategies/">Strategic Doubt</a>
-- <a href="portfolio-management/">Portfolio Management</a>
+- <a href="belief-strategies.md">When to Believe</a>
+- <a href="doubt-strategies.md">Strategic Doubt</a>
+- <a href="portfolio-management.md">Portfolio Management</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>5. Advanced Tactics</h3>
-- <a href="phase-strategies/">Phase-Based Strategies</a>
-- <a href="contrarian-plays/">Contrarian Opportunities</a>
-- <a href="risk-management/">Risk Management</a>
+- <a href="phase-strategies.md">Phase-Based Strategies</a>
+- <a href="contrarian-plays.md">Contrarian Opportunities</a>
+- <a href="risk-management.md">Risk Management</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>6. Community & Growth</h3>
-- <a href="community-engagement/">Community Participation</a>
-- <a href="influence-building/">Building Influence</a>
-- <a href="echo-networks/">Echo Networks</a>
+- <a href="community-engagement.md">Community Participation</a>
+- <a href="influence-building.md">Building Influence</a>
+- <a href="echo-networks.md">Echo Networks</a>
 
 </div>
 </div>
@@ -193,4 +193,4 @@ Focused exclusively on DeFi ventures, achieving 89% accuracy through deep domain
 ## 🚀 Start Signaling
 
 !!! success "Ready to Echo?"
-    Begin with [Echo Basics](echo-basics/) to understand your role and the power of belief signals in Studio3.
+    Begin with [Echo Basics](echo-basics.md) to understand your role and the power of belief signals in Studio3.

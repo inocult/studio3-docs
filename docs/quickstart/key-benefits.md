@@ -470,10 +470,6 @@ Ready to join? Learn [How to Get Started →](get-started.md)
 !!! success "Convinced?"
     If you're ready to dive in, choose your path:
 
-- **Founders
-
-- * → [Senders Guide](../senders-guide/)
-    - **Supporters
-    - → [Echoes Guide](../echoes-guide/)
-    - **Validators
-    - → [Anchors Guide](../anchors-guide/)
+- **Founders** → [Senders Guide](../senders-guide/index.md)
+    - **Supporters** → [Echoes Guide](../echoes-guide/index.md)
+    - **Validators** → [Anchors Guide](../anchors-guide/index.md)
