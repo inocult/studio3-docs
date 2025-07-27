@@ -3,7 +3,7 @@
 ## Studio3 in 5 Minutes
 
 <div class="hero-section">
-<h2>The Future of Venture Building is Here</h2>
+<h1>The Future of Venture Building is Here</h1>
 <p class="hero-subtitle">Where great ideas meet community support to build tomorrow's breakthrough ventures</p>
 </div>
 
