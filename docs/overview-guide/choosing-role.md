@@ -351,19 +351,19 @@ Once you've chosen your role:
 ## Role Resources
 
 ### Sender Resources
-- [Senders Guide](../../senders-guide/) - Complete founder handbook
+- [Senders Guide](../senders-guide/index.md) - Complete founder handbook
 - Founder community channels
 - Mentorship matching
 - Venture templates
 
 ### Echo Resources
-- [Echoes Guide](../../echoes-guide/) - Signal strategy guide
+- [Echoes Guide](../echoes-guide/index.md) - Signal strategy guide
 - Analysis tools and dashboards
 - Echo strategy groups
 - Portfolio trackers
 
 ### Anchor Resources
-- [Anchors Guide](../../anchors-guide/) - Validation framework
+- [Anchors Guide](../anchors-guide/index.md) - Validation framework
 - Anchor Council access
 - Quality guidelines
 - Mentor training

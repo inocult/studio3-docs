@@ -139,4 +139,4 @@ Before diving into detailed guides, this quickstart:
 Ready? Let's begin with [What is Studio3?](what-is-studio3.md) →
 
 !!! tip "Already convinced?"
-    If you're ready to dive deeper, check out our comprehensive [Overview Guide](../overview-guide/) or jump straight to your role-specific guide.
+    If you're ready to dive deeper, check out our comprehensive [Overview Guide](../overview-guide/index.md) or jump straight to your role-specific guide.

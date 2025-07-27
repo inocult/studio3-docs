@@ -60,9 +60,9 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - **[Overview Guide](../index.md)* 
 
 - You are here!
-- **[Senders Guide](../../senders-guide/)** - Complete founder handbook
-- **[Echoes Guide](../../echoes-guide/)** - Signal strategy mastery
-- **[Anchors Guide](../../anchors-guide/)** - Validation framework
+- **[Senders Guide](../senders-guide/index.md)** - Complete founder handbook
+- **[Echoes Guide](../echoes-guide/index.md)** - Signal strategy mastery
+- **[Anchors Guide](../anchors-guide/index.md)** - Validation framework
 
 ### Quick References
 

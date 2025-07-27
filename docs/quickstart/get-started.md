@@ -129,7 +129,7 @@ Getting started with Studio3 is simple:
 <h3>📖 Must-Read Resources</h3>
 
 **For All Participants:** - This Quickstart guide (you're here!)
-- [Overview Guide](../overview-guide/) - Complete system understanding
+- [Overview Guide](../overview-guide/index.md) - Complete system understanding
 - Community Code of Conduct
 - Platform Terms of Service
 
@@ -387,7 +387,7 @@ By joining Studio3, you're not just participating in a platform - you're helping
 
 ### Continue Your Journey
 
-1. **Dive deeper** with the [Overview Guide](../overview-guide/)
+1. **Dive deeper** with the [Overview Guide](../overview-guide/index.md)
 2. **Master your role** with specific guides
 3. **Join the community** on [Discord](https://discord.gg/studio3)
 4. **Start participating** today

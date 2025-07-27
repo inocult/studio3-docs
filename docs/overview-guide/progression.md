@@ -450,4 +450,4 @@ If progression is denied:
 - Study [Seven Phase Lifecycle](seven-phases.md) in detail
 - Review [Milestone System](milestones.md) for execution
 - Learn [Validation Framework](../anchors-guide/validation-framework.md)
-- Explore phase-specific guides in [Senders Guide](../senders-guide/)
+- Explore phase-specific guides in [Senders Guide](../senders-guide/index.md)

@@ -15,9 +15,9 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <div class="arena-card" markdown="1">
 
 <h3>1. Anchor Fundamentals</h3>
-- <a href="anchor-role/">The Anchor Role</a>
-- <a href="responsibilities/">Core Responsibilities</a>
-- <a href="requirements/">Qualification Requirements</a>
+- <a href="anchor-role.md">The Anchor Role</a>
+- <a href="responsibilities.md">Core Responsibilities</a>
+- <a href="requirements.md">Qualification Requirements</a>
 
 </div>
 
@@ -201,10 +201,10 @@ Council Member known for helping ventures navigate difficult pivots and find pro
 ## ⚡ Quick Actions
 
 !!! success "Ready to Validate?"
-    Start with [The Anchor Role](anchor-role/) to understand your responsibilities and impact in the ecosystem.
+    Start with [The Anchor Role](anchor-role.md) to understand your responsibilities and impact in the ecosystem.
 
 !!! tip "Experienced Builder?"
-    Check [Qualification Requirements](requirements/) to see if you meet the criteria to become an Anchor.
+    Check [Qualification Requirements](requirements.md) to see if you meet the criteria to become an Anchor.
 
 !!! warning "Time Commitment"
-    Anchoring requires dedication. Review [Core Responsibilities](responsibilities/) to ensure you can fulfill the role.
+    Anchoring requires dedication. Review [Core Responsibilities](responsibilities.md) to ensure you can fulfill the role.

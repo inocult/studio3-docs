@@ -213,4 +213,4 @@ Studio3 gamifies venture building by creating public arenas where entrepreneurs 
 Now that you understand what Studio3 is, learn [How It Works →](how-it-works.md)
 
 !!! info "Want more detail?"
-    This is just the essence. For comprehensive information, check out our [Overview Guide](../overview-guide/).
+    This is just the essence. For comprehensive information, check out our [Overview Guide](../overview-guide/index.md).

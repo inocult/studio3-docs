@@ -512,9 +512,9 @@ success_metrics = {
 
 ### Role Resources
 
-- **For Senders**: [Senders Guide](../senders-guide/) - Complete founder handbook
-- **For Echoes**: [Echoes Guide](../echoes-guide/) - Master signaling
-- **For Anchors**: [Anchors Guide](../anchors-guide/) - Validation excellence
+- **For Senders**: [Senders Guide](../senders-guide/index.md) - Complete founder handbook
+- **For Echoes**: [Echoes Guide](../echoes-guide/index.md) - Master signaling
+- **For Anchors**: [Anchors Guide](../anchors-guide/index.md) - Validation excellence
 
 ## Next Steps
 

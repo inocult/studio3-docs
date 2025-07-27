@@ -258,4 +258,4 @@ Every venture progresses through seven phases:
 Now you understand how it works. Discover the [Key Benefits →](key-benefits.md)
 
 !!! info "Want to go deeper?"
-    This is the simplified version. For detailed mechanics, see our [Overview Guide](../overview-guide/).
+    This is the simplified version. For detailed mechanics, see our [Overview Guide](../overview-guide/index.md).

@@ -15,7 +15,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="arena-card" markdown="1">
 
 <h3>1. Echo Fundamentals</h3>
-- <a href="echo-basics/">Understanding Your Role</a>
+- <a href="echo-basics.md">Understanding Your Role</a>
 - <a href="signal-mechanics/">Signal Mechanics</a>
 - <a href="rewards-system/">Rewards & Risks</a>
 

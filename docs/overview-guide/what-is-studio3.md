@@ -185,14 +185,14 @@ Studio3 measures success through:
 Ready to join the Studio3 ecosystem? Your next steps depend on your goals:
 
 !!! tip "For Potential Founders"
-    Continue reading this Overview Guide, then explore the [Senders Guide](../../senders-guide/) for detailed building instructions.
+    Continue reading this Overview Guide, then explore the [Senders Guide](../senders-guide/index.md) for detailed building instructions.
 
 !!! tip "For Potential Supporters"
-    Finish the Overview to understand the system, then check the [Echoes Guide](../../echoes-guide/) for signaling strategies.
+    Finish the Overview to understand the system, then check the [Echoes Guide](../echoes-guide/index.md) for signaling strategies.
 
 !!! tip "For Potential Validators"
-    Complete this guide, then review the [Anchors Guide](../../anchors-guide/) to understand validation requirements.
+    Complete this guide, then review the [Anchors Guide](../anchors-guide/index.md) to understand validation requirements.
 
 ## Next Steps
 
-Continue to [Ecosystem Overview](../ecosystem-overview/) to understand how all the pieces of Studio3 work together.
+Continue to [Ecosystem Overview](ecosystem-overview.md) to understand how all the pieces of Studio3 work together.

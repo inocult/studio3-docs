@@ -15,36 +15,36 @@ This guide is specifically designed for founders (Senders) who want to build ven
 <div class="arena-card" markdown="1">
 
 <h3>1. Getting Started</h3>
-- <a href="founder-basics/">Founder Basics</a>
-- <a href="requirements/">Requirements & Prerequisites</a>
-- <a href="creating-spark/">Creating Your Spark</a>
+- <a href="founder-basics.md">Founder Basics</a>
+- <a href="requirements.md">Requirements & Prerequisites</a>
+- <a href="creating-spark.md">Creating Your Spark</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>2. The Forge</h3>
-- <a href="forge-duels/">Understanding Duels</a>
-- <a href="winning-strategies/">Winning Strategies</a>
-- <a href="duel-preparation/">Duel Preparation</a>
+- <a href="forge-duels.md">Understanding Duels</a>
+- <a href="winning-strategies.md">Winning Strategies</a>
+- <a href="duel-preparation.md">Duel Preparation</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>3. Building Your Venture</h3>
-- <a href="container-dao/">Container DAO Setup</a>
-- <a href="milestone-planning/">Milestone Planning</a>
-- <a href="mvp-development/">MVP Development</a>
+- <a href="container-dao.md">Container DAO Setup</a>
+- <a href="milestone-planning.md">Milestone Planning</a>
+- <a href="mvp-development.md">MVP Development</a>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>4. Community Management</h3>
-- <a href="engaging-echoes/">Engaging Supporters</a>
-- <a href="handling-doubt/">Handling Doubt Signals</a>
-- <a href="building-momentum/">Building Momentum</a>
+- <a href="engaging-echoes.md">Engaging Supporters</a>
+- <a href="handling-doubt.md">Handling Doubt Signals</a>
+- <a href="building-momentum.md">Building Momentum</a>
 
 </div>
 
@@ -166,7 +166,7 @@ Successfully pivoted from carbon credits to supply chain transparency. Master th
 ## 🚀 Your Journey Starts Here
 
 !!! success "Ready to Build?"
-    Start with [Founder Basics](founder-basics/) to understand your role and responsibilities in the Studio3 ecosystem.
+    Start with [Founder Basics](founder-basics.md) to understand your role and responsibilities in the Studio3 ecosystem.
 
 !!! tip "Already Have an Idea?"
-    Jump to [Creating Your Spark](creating-spark/) to learn how to transform your vision into a venture.
+    Jump to [Creating Your Spark](creating-spark.md) to learn how to transform your vision into a venture.
