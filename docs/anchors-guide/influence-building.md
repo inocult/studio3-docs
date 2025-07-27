@@ -251,5 +251,5 @@ Influence as an Anchor directly correlates with your ability to guide ventures s
 ## Next Steps
 
 → [Reputation Management](reputation-management.md) - Maintain your standing  
-→ [Advanced Techniques](advanced-techniques.md) - Master the craft  
-→ [Anchor Tools](../tools-guide/anchor-dashboard.md) - Leverage platform features
+→ [Validation Framework](validation-framework.md) - Master the craft  
+→ [Best Practices](best-practices.md) - Leverage proven strategies

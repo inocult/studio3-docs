@@ -243,4 +243,4 @@ Your success reflects on the entire ecosystem. Build something amazing.
 ## Next Steps
 
 → [Alumni Portal](https://alumni.studio3.xyz) - Access exclusive resources  
-→ [Mentor Application](../anchors-guide/becoming-anchor.md) - Give back to community
+→ [Anchor Guide](../anchors-guide/index.md) - Give back to community
