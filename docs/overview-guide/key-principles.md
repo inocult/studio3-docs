@@ -13,17 +13,41 @@ In traditional venture building, progress happens behind closed doors. Studio3 f
 !!! quote "The Arena Principle"
     "In the Arena, there are no secrets - only execution."
 
-- **All milestones** are declared publicly
-- **All progress** is tracked transparently
-- **All failures** are visible to everyone
-- **All successes** are celebrated openly
+- **All milestones
+
+- * are declared publicly
+* **All progress
+
+* * is tracked transparently
+
+* **All failures
+
+* * are visible to everyone
+
+* **All successes
+
+*
+
+* are celebrated openly
 
 This radical transparency creates:
 
-- **Accountability** through public commitment
-- **Trust** through verifiable progress
-- **Learning** through shared experiences
-- **Speed** through immediate feedback
+- **Accountability
+
+- * through public commitment
+* **Trust
+
+* * through verifiable progress
+
+* **Learning
+
+* * through shared experiences
+
+* **Speed
+
+*
+
+* through immediate feedback
 
 ## 2. Belief as Currency
 
@@ -41,14 +65,20 @@ graph TD
     E --> G[Token Burn]
 ```
 
-**Key aspects:
+**Key aspects:** - Belief must be **backed by tokens
+ * *
+ * Conviction carries **real risk
 
-**
+* *
 
-- Belief must be **backed by tokens**
-- Conviction carries **real risk**
-- Accuracy builds **lasting reputation**
-- Mistakes have **permanent consequences**
+* Accuracy builds **lasting reputation
+
+* *
+
+* Mistakes have **permanent consequences
+
+*
+*
 
 ## 3. Community Validation
 
@@ -77,11 +107,26 @@ No single authority determines success. Instead:
 
 Venture building becomes a game with:
 
-- **Defined stages** from Spark to Ascension
-- **Clear objectives** for each phase
-- **Measurable progress** through milestones
-- **Tangible rewards** for achievement
-- **Real penalties** for failure
+- **Defined stages
+
+- * from Spark to Ascension
+* **Clear objectives
+
+* * for each phase
+
+* **Measurable progress
+
+* * through milestones
+
+* **Tangible rewards
+
+* * for achievement
+
+* **Real penalties
+
+*
+
+* for failure
 
 !!! info "Game Mechanics"
     Unlike traditional "gamification," Studio3's game has real stakes. Tokens are burned, reputations are built or destroyed, and ventures live or die based on performance.
@@ -105,10 +150,22 @@ The ecosystem aligns all participants:
 
 No gatekeepers, no applications, no committees:
 
-- **Any idea** can become a Spark
-- **Any founder** can enter the Forge
-- **Any supporter** can signal belief
-- **Any expert** can become an Anchor
+- **Any idea
+
+- * can become a Spark
+* **Any founder
+
+* * can enter the Forge
+
+* **Any supporter
+
+* * can signal belief
+
+* **Any expert
+
+*
+
+* can become an Anchor
 
 !!! warning "With Freedom Comes Responsibility"
     Permissionless doesn't mean consequence-free. Bad actors are naturally filtered out through token burns and reputation loss.
@@ -137,10 +194,22 @@ Ventures gradually gain independence:
 
 Failure isn't hidden or minimized:
 
-- **Failed milestones** burn tokens permanently
-- **Failed ventures** become case studies
-- **Failed predictions** damage reputation
-- **Failed strategies** inform future attempts
+- **Failed milestones
+
+- * burn tokens permanently
+* **Failed ventures
+
+* * become case studies
+
+* **Failed predictions
+
+* * damage reputation
+
+* **Failed strategies
+
+*
+
+* inform future attempts
 
 !!! quote "The Failure Principle"
     "In Studio3, failure is expensive but educational. Every burned token teaches the ecosystem what doesn't work."
@@ -151,10 +220,15 @@ Failure isn't hidden or minimized:
 
 Reputation (XP) in Studio3:
 
-- **Cannot be bought** - only earned
-- **Cannot be transferred** - tied to identity
-- **Cannot be gamed** - based on results
-- **Compounds over time** - early success matters
+- **Cannot be bought* 
+
+- only earned
+- **Cannot be transferred* 
+- tied to identity
+- **Cannot be gamed* 
+- based on results
+- **Compounds over time* 
+- early success matters
 
 ## 10. Recursive Growth
 
@@ -236,10 +310,22 @@ QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their det
 
 These principles evolve through:
 
-- **Community feedback** shapes interpretation
-- **Edge cases** refine implementation
-- **Success patterns** inform best practices
-- **Failure modes** highlight necessary adjustments
+- **Community feedback
+
+- * shapes interpretation
+* **Edge cases
+
+* * refine implementation
+
+* **Success patterns
+
+* * inform best practices
+
+* **Failure modes
+
+*
+
+* highlight necessary adjustments
 
 !!! info "Living Document"
     These principles are living guidelines, not rigid rules. They evolve as the ecosystem learns and grows.

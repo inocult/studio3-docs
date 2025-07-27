@@ -16,7 +16,15 @@ Signals are token-backed predictions about a venture's ability to achieve specif
 <h3>👍 Belief Signals</h3>
         Express confidence that a milestone will be achieved
 
-        - Stake $SIGNAL tokens on success- Earn multipliers if correct (1.5x - 3x)- Lose entire stake if wrong
+        - Stake $SIGNAL tokens on success
+
+        - Earn multipliers if correct (1.5x 
+
+
+        - 3x)
+
+
+        - Lose entire stake if wrong
 
 </div>
     
@@ -25,7 +33,15 @@ Signals are token-backed predictions about a venture's ability to achieve specif
 <h3>👎 Doubt Signals</h3>
         Express skepticism that a milestone will be achieved
 
-        - Stake $SIGNAL tokens on failure- Earn multipliers if correct (1.2x - 2x)- Lose entire stake if wrong
+        - Stake $SIGNAL tokens on failure
+
+        - Earn multipliers if correct (1.2x 
+
+
+        - 2x)
+
+
+        - Lose entire stake if wrong
 
 </div>
 </div>
@@ -91,27 +107,15 @@ flowchart TD
 
 <h3>📊 Multiplier Formula</h3>
 
-**Base Multipliers:
-
-**
-
-- Belief (Success): 1.5x base
+**Base Multipliers:** - Belief (Success): 1.5x base
 - Doubt (Failure): 1.2x base
 
-**Bonus Factors:
-
-**
-
-- Early Signal: +0.1x per 24 hours early
+**Bonus Factors:** - Early Signal: +0.1x per 24 hours early
 - Contrarian: +0.3x if against majority
 - Reputation: +0.01x per 1000 XP
 - Phase Difficulty: +0.1x per phase level
 
-**Maximum Possible:
-
-**
-
-- Belief: 3x multiplier
+**Maximum Possible:** - Belief: 3x multiplier
 - Doubt: 2x multiplier
 
 </div>
@@ -131,24 +135,32 @@ flowchart TD
 
 !!! tip "Successful Signaling"
     1. **Research Thoroughly**
-       - Review founder's track record
-       - Analyze milestone specificity
+       
+- Review founder's track record
+       
+- Analyze milestone specificity
        - Check available resources
        - Consider market conditions
     
     2. **Time Your Entry**
-       - Early signals earn more
-       - But less information available
+       
+- Early signals earn more
+       
+- But less information available
        - Balance risk vs reward
     
     3. **Size Your Stakes**
-       - Never signal more than you can lose
-       - Diversify across multiple milestones
+       
+- Never signal more than you can lose
+       
+- Diversify across multiple milestones
        - Increase stakes as confidence grows
     
     4. **Monitor Progress**
-       - Follow daily updates
-       - Engage with founders
+       
+- Follow daily updates
+       
+- Engage with founders
        - Learn from outcomes
 
 ### Signal Patterns
@@ -223,11 +235,7 @@ graph LR
 
 ### Your Rights as an Echo
 
-✅ **You have the right to:
-
-**
-
-- Signal on any open milestone
+✅ **You have the right to:** - Signal on any open milestone
 - Access all public information
 - Change strategy between milestones
 - Withdraw unused tokens anytime
@@ -235,11 +243,7 @@ graph LR
 
 ### Your Responsibilities
 
-⚠️ **You must:
-
-**
-
-- Accept permanent loss risk
+⚠️ **You must:** - Accept permanent loss risk
 - Not manipulate markets
 - Not coordinate signals illegally
 - Respect validation outcomes
@@ -323,11 +327,7 @@ A: Immediately after validation completes.
 
 ### Prohibited Behaviors
 
-❌ **Never:
-
-**
-
-- Coordinate signals in private groups
+❌ **Never:** - Coordinate signals in private groups
 - Spread false information to influence signals
 - Use insider information
 - Create fake accounts for signaling

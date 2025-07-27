@@ -69,11 +69,26 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 ## 🎯 Who Should Read This Guide?
 
-- **🏆 Experienced Builders** with proven track records
-- **👨‍🏫 Mentors** wanting to guide ventures
-- **🛡️ Quality Guardians** ensuring standards
-- **⚖️ Fair Judges** of venture progress
-- **🌟 Ecosystem Leaders** shaping Studio3's future
+- **🏆 Experienced Builders
+
+- * with proven track records
+* **👨‍🏫 Mentors
+
+* * wanting to guide ventures
+
+* **🛡️ Quality Guardians
+
+* * ensuring standards
+
+* **⚖️ Fair Judges
+
+* * of venture progress
+
+* **🌟 Ecosystem Leaders
+
+*
+
+* shaping Studio3's future
 
 ## 📄 Download Options
 
@@ -90,14 +105,28 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <div class="arena-card" markdown="1">
 
 <h3>Minimum Requirements</h3>
-- ✅ Successful venture exit (any ecosystem)- ✅ 5+ years building experience- ✅ Strong reputation in community- ✅ Time commitment availability- ✅ Stake requirement met
+- ✅ Successful venture exit (any ecosystem)
+- ✅ 5+ years building experience
+
+- ✅ Strong reputation in community
+
+- ✅ Time commitment availability
+
+- ✅ Stake requirement met
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>Preferred Qualifications</h3>
-- 🌟 Multiple successful ventures- 🌟 Domain expertise in key areas- 🌟 Mentorship experience- 🌟 Technical due diligence skills- 🌟 Network connections
+- 🌟 Multiple successful ventures
+- 🌟 Domain expertise in key areas
+
+- 🌟 Mentorship experience
+
+- 🌟 Technical due diligence skills
+
+- 🌟 Network connections
 
 </div>
 </div>
@@ -118,14 +147,24 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <div class="arena-card" markdown="1">
 
 <h4>📋 Checklists</h4>
-- Milestone Validation Checklist- Technical Review Template- Market Validation Framework- Team Assessment Guide
+- Milestone Validation Checklist
+- Technical Review Template
+
+- Market Validation Framework
+
+- Team Assessment Guide
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h4>🔍 Assessment Tools</h4>
-- Code Review Platform- Market Analysis Dashboard- Team Performance Metrics- Risk Assessment Matrix
+- Code Review Platform
+- Market Analysis Dashboard
+
+- Team Performance Metrics
+
+- Risk Assessment Matrix
 
 </div>
 </div>

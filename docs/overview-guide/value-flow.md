@@ -55,7 +55,9 @@ graph TB
 
 **The Signal Cycle:**
 
-1. **Echoes stake $SIGNAL** on milestone outcomes
+1. **Echoes stake $SIGNAL
+*
+* on milestone outcomes
 2. **Stakes pool** in milestone smart contract
 3. **Ventures execute** using pooled confidence
 4. **Validation determines** success or failure
@@ -64,18 +66,30 @@ graph TB
 
 **Value Multiplication:**
 
-- **If milestone succeeds:**
-  - Belief signals multiply by average 1.5x - 3x
-  - Doubt signals are burned (100% loss)
+- **If milestone succeeds:
+
+- *  
+* Belief signals multiply by average 1.5x 
+- 3x
+- Doubt signals are burned (100% loss)
   - Net value created equals rewards minus original stakes
+  - **If milestone fails:
 
-- **If milestone fails:**
-  - Doubt signals multiply by average 1.2x - 2x  
-  - Belief signals are burned (100% loss)
+
+* *
+
+
+* Doubt signals multiply by average 1.2x 
+- 2x  
+- Belief signals are burned (100% loss)
   - Net value destroyed equals burned tokens
+  - **Overall impact:
 
-- **Overall impact:**
-  - Success creates value through multipliers
+
+* *
+
+
+* Success creates value through multipliers
   - Failure destroys value through burns
   - System naturally rewards accuracy
 
@@ -113,19 +127,26 @@ flowchart LR
 **Fee Distribution:**
 
 - **Base fee**: 3% of milestone value
-- **Distribution breakdown:**
-  - 70% to validating anchor
+
+- **Distribution breakdown:
+
+* *
+
+* 70% to validating anchor
   - 20% to anchor backup pool
   - 10% to platform operations
 
-- **Performance adjustments:**
-  - Quality score > 90%: 1.5x multiplier
+- **Performance adjustments:
+
+- *  
+* Quality score > 90%: 1.5x multiplier
   - Many anchors reinvest 30% back into ecosystem
   - Creates compound growth effect
 
 **Value Multiplication:**
 
 - Quality validation increases venture success
+
 - Successful ventures create more milestones
 - More milestones generate more fees
 - Ecosystem growth benefits all
@@ -158,6 +179,7 @@ graph TD
 **XP Value Components:**
 
 - **Direct monetary value**: 0.01% bonus per 100 XP on signals
+
 - **Access value**: Unlock exclusive high-value opportunities
 - **Network value**: Trust score equals XP/100 for connections
 - **Governance value**: Voting power uses quadratic formula
@@ -165,6 +187,7 @@ graph TD
 **Total Value Impact:**
 
 - Higher XP compounds all benefits
+
 - Creates virtuous cycle of success
 - Reputation becomes valuable asset
 - Cannot be bought or transferred
@@ -183,21 +206,26 @@ graph TD
 
 **Value Accrual Mechanics:**
 
-1. **Spark NFTs** gain value from:
-   - Successful venture launches
+1. **Spark NFTs
+* * gain value from:
+* Successful venture launches
    - IP combination uniqueness
    - Historical significance
    - Collector demand
 
 2. **Signal NFTs** appreciate through:
-   - Milestone achievements
-   - Community growth
+
+- Milestone achievements
+
+- Community growth
    - Revenue generation
    - Visual evolution
 
 3. **Halo NFTs** unlock value via:
-   - Governance rights
-   - Alumni network
+
+- Governance rights
+
+- Alumni network
    - Sub-studio creation
    - Legacy status
 
@@ -207,22 +235,38 @@ graph TD
 
 **Governance Distribution:**
 
-- **40%** to active Echoes (supporters)
-- **30%** to successful Senders (graduated ventures)
-- **20%** to Anchor Council (validators)
-- **10%** to treasury reserve (future use)
+- **40%
+
+- * to active Echoes (supporters)
+* **30%
+
+* * to successful Senders (graduated ventures)
+
+* **20%
+
+* * to Anchor Council (validators)
+
+* **10%
+
+*
+
+* to treasury reserve (future use)
 
 **Earning Mechanics:**
 
-- **Base rewards** vary by action type
-- **Activity multiplier**: Monthly actions / 100
+- **Base rewards
+
+- * vary by action type
+* **Activity multiplier**: Monthly actions / 100
 - **Quality multiplier**: Success rate × 2
 - **Tenure multiplier**: 1 + (months active / 12) × 0.1
-- **Monthly cap** prevents farming
+- **Monthly cap
+- * prevents farming
 
 **Token Utility:**
 
 - Vote on platform changes
+
 - Elect Anchor Council
 - Allocate treasury funds
 - Shape ecosystem future
@@ -277,24 +321,31 @@ graph LR
 
 **Protection Systems:**
 
-1. **Burn Mechanics**
-   - Failed signals don't redistribute
+1. **Burn Mechanics
+* *
+* Failed signals don't redistribute
    - Tokens permanently removed
    - Increases scarcity for holders
 
 2. **Reputation Locks**
-   - XP can't be transferred
-   - Benefits tied to participation
+   
+- XP can't be transferred
+   
+- Benefits tied to participation
    - No account selling value
 
 3. **Vesting Schedules**
-   - Gradual token release
-   - Long-term alignment
+   
+- Gradual token release
+   
+- Long-term alignment
    - Reduced dump risk
 
 4. **Graduation Requirements**
-   - Must complete all phases
-   - Community approval needed
+   
+- Must complete all phases
+   
+- Community approval needed
    - Value creation mandatory
 
 ### Economic Security
@@ -314,6 +365,7 @@ graph LR
 **Revenue Sources:**
 
 - **Platform fees**: 1% of milestone values
+
 - **Graduation fees**: 0.5% of venture value at exit
 - **Premium services**: Subscription revenue from advanced features
 - **Partnership deals**: Strategic income from integrations
@@ -332,6 +384,7 @@ graph LR
 **Value Recycling:**
 
 - Treasury funds ecosystem growth
+
 - Growth creates more revenue
 - Revenue strengthens treasury
 - Sustainable value loop
@@ -369,6 +422,7 @@ graph LR
 **Health Calculation Metrics:**
 
 - **Net value creation**: Total inflows minus outflows and burns
+
 - **Value velocity**: Outflows divided by total value locked
 - **Sustainability score**: Treasury divided by monthly burn rate
 - **Growth rate**: Net value divided by total locked value
@@ -376,6 +430,7 @@ graph LR
 **Health Indicators:**
 
 - **Healthy**: Months of runway > 24
+
 - **Growing**: Positive net value creation
 - **Sustainable**: Balanced velocity ratio
 - **Thriving**: All metrics in green zone
@@ -388,21 +443,24 @@ graph LR
 
 **Echo Strategies:**
 
-1. **Compound Earnings** - Reinvest rewards
+1. **Compound Earnings* 
+- Reinvest rewards
 2. **Reputation Building** - Long-term multipliers
 3. **Network Leverage** - Collaborative strategies
 4. **Timing Optimization** - Enter/exit efficiency
 
 **Sender Strategies:**
 
-1. **Bootstrap Efficiently** - Minimize burn rate
+1. **Bootstrap Efficiently* 
+- Minimize burn rate
 2. **Milestone Sizing** - Optimal funding amounts
 3. **Community Building** - Increase believer base
 4. **Value Demonstration** - Clear success metrics
 
 **Anchor Strategies:**
 
-1. **Quality Premium** - Thorough validation
+1. **Quality Premium* 
+- Thorough validation
 2. **Mentor Actively** - Success bonuses
 3. **Reputation Focus** - Compound opportunities
 4. **Selective Engagement** - High-value milestones
@@ -430,6 +488,7 @@ graph LR
 **Flow Optimization:**
 
 - Reinvested 80% of early revenues
+
 - Created token incentive loops
 - Built strong network effects
 - Graduated with 25x value multiple

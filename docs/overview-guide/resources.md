@@ -48,6 +48,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 ### Social Media
 
 - **Twitter/X**: [@Studio3Official](https://twitter.com/Studio3Official)
+
 - **LinkedIn**: [Studio3 Ventures](https://linkedin.com/company/studio3)
 - **YouTube**: [Studio3 Channel](https://youtube.com/studio3)
 - **Medium**: [Studio3 Blog](https://medium.com/studio3)
@@ -56,7 +57,9 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 ### Core Guides
 
-- **[Overview Guide](../index.md)** - You are here!
+- **[Overview Guide](../index.md)* 
+
+- You are here!
 - **[Senders Guide](../../senders-guide/)** - Complete founder handbook
 - **[Echoes Guide](../../echoes-guide/)** - Signal strategy mastery
 - **[Anchors Guide](../../anchors-guide/)** - Validation framework
@@ -70,6 +73,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 **Phase Progression**
 
 - Requirements per phase
+
 - Success metrics
 - Common pitfalls
 - [Download PDF](../assets/phase-progression-cheatsheet.pdf)
@@ -77,6 +81,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 **Signal Strategy**
 
 - Multiplier calculations
+
 - Risk management
 - Portfolio balance
 - [Download PDF](../assets/signal-strategy-cheatsheet.pdf)
@@ -84,6 +89,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 **Validation Checklist**
 
 - Evidence requirements
+
 - Quality standards
 - Report template
 - [Download PDF](../assets/validation-checklist.pdf)
@@ -102,6 +108,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 Access real-time metrics:
 
 - Venture performance
+
 - Signal accuracy
 - Token flows
 - Network growth
@@ -117,6 +124,7 @@ Access real-time metrics:
 Browse and filter:
 
 - Active ventures
+
 - Historical data
 - Success patterns
 - Failure analysis
@@ -133,6 +141,7 @@ Browse and filter:
 **Venture Planning Kit**
 
 - Milestone template
+
 - Budget calculator
 - Timeline planner
 - Evidence tracker
@@ -231,10 +240,14 @@ Browse and filter:
 ### Reading List
 
 **Essential Articles**
-- "The Arena Mindset" - CEO Blog
-- "Signal Theory 101" - Chief Economist
-- "Building in Public" - Top Founder
-- "Validation Excellence" - Anchor Council
+- "The Arena Mindset" 
+- CEO Blog
+- "Signal Theory 101" 
+- Chief Economist
+- "Building in Public" 
+- Top Founder
+- "Validation Excellence" 
+- Anchor Council
 - [View All Articles](https://medium.com/studio3/essential)
 
 ## 💡 Support System
@@ -249,6 +262,7 @@ Browse and filter:
 **Self-Service**
 
 - Knowledge base
+
 - FAQs
 - Video guides
 - Community wiki
@@ -256,6 +270,7 @@ Browse and filter:
 **Community Support**
 
 - Discord help channels
+
 - Forum Q&A
 - Peer mentoring
 - Study groups
@@ -263,6 +278,7 @@ Browse and filter:
 **Official Support**
 
 - Support tickets
+
 - Office hours
 - Email support
 - Emergency hotline
@@ -276,11 +292,13 @@ Browse and filter:
 **General Support**
 
 - Email: support@studio3.xyz
+
 - Response: 24-48 hours
 
 **Technical Issues**
 
 - Email: tech@studio3.xyz
+
 - Discord: #tech-support
 
 **Urgent Matters**
@@ -322,6 +340,7 @@ Browse and filter:
 **Monthly Awards**
 
 - Top Sender
+
 - Accurate Echo
 - Quality Anchor
 - Rising Star
@@ -330,6 +349,7 @@ Browse and filter:
 **Leaderboards**
 
 - Global rankings
+
 - Role-specific
 - Regional boards
 - All-time records
@@ -337,6 +357,7 @@ Browse and filter:
 **Badges & NFTs**
 
 - Milestone badges
+
 - Achievement NFTs
 - Special editions
 - Legacy markers
@@ -370,6 +391,7 @@ Browse and filter:
 **Wallet Security**
 
 - Hardware wallet guide
+
 - Backup strategies
 - Recovery planning
 - [Security Guide](../assets/wallet-security.pdf)
@@ -377,6 +399,7 @@ Browse and filter:
 **Account Protection**
 
 - 2FA setup required
+
 - Password managers
 - Session monitoring
 - [Protection Guide](../assets/account-security.pdf)
@@ -384,6 +407,7 @@ Browse and filter:
 **Scam Prevention**
 
 - Common scam types
+
 - Red flag indicators
 - Reporting process
 - [Stay Safe Guide](../assets/scam-prevention.pdf)
@@ -430,6 +454,7 @@ Browse and filter:
 Currently available in:
 
 - 🇺🇸 English
+
 - 🇪🇸 Español
 - 🇫🇷 Français
 - 🇩🇪 Deutsch
@@ -456,6 +481,7 @@ Currently available in:
 **Weekly Newsletter**
 
 - Platform updates
+
 - Featured ventures
 - Community highlights
 - [Subscribe](https://studio3.xyz/newsletter)
@@ -463,6 +489,7 @@ Currently available in:
 **Development Blog**
 
 - Technical updates
+
 - Roadmap progress
 - Feature previews
 - [Read Blog](https://dev.studio3.xyz)
@@ -476,6 +503,7 @@ Currently available in:
 **Studio3 Podcast**
 
 - Founder stories
+
 - Strategy deep dives
 - Market analysis
 - [Listen Now](https://podcast.studio3.xyz)
@@ -483,6 +511,7 @@ Currently available in:
 **YouTube Updates**
 
 - Weekly summaries
+
 - Tutorial releases
 - Live events
 - [Subscribe](https://youtube.com/studio3)
@@ -494,10 +523,15 @@ Currently available in:
 
 ### Ecosystem Partners
 
-- **Flambette Marketplace** - IP-NFT source
-- **MindfulTech Institute** - Founder network
-- **Major DEXs** - Token liquidity
-- **Media Partners** - Coverage and PR
+- **Flambette Marketplace* 
+
+- IP-NFT source
+- **MindfulTech Institute* 
+- Founder network
+- **Major DEXs* 
+- Token liquidity
+- **Media Partners* 
+- Coverage and PR
 
 ### Integration Tools
 
@@ -520,6 +554,7 @@ Currently available in:
 ### Most Used Links
 
 - **Platform**: [app.studio3.xyz](https://app.studio3.xyz)
+
 - **Discord**: [discord.gg/studio3](https://discord.gg/studio3)
 - **Support**: [support@studio3.xyz](mailto:support@studio3.xyz)
 - **Docs**: [docs.studio3.xyz](https://docs.studio3.xyz)
@@ -528,6 +563,7 @@ Currently available in:
 ### Emergency Contacts
 
 - **Security Issues**: security@studio3.xyz
+
 - **Press Inquiries**: press@studio3.xyz
 - **Legal Matters**: legal@studio3.xyz
 - **Partnerships**: partners@studio3.xyz
@@ -536,11 +572,26 @@ Currently available in:
 
 Remember: Every resource here exists to help you succeed. Don't hesitate to:
 
-- **Ask questions** when stuck
-- **Share feedback** for improvements
-- **Help others** with your knowledge
-- **Stay engaged** with community
-- **Keep learning** and growing
+- **Ask questions
+
+- * when stuck
+* **Share feedback
+
+* * for improvements
+
+* **Help others
+
+* * with your knowledge
+
+* **Stay engaged
+
+* * with community
+
+* **Keep learning
+
+*
+
+* and growing
 
 The Studio3 ecosystem thrives when all participants have the tools and support they need. Bookmark this page and refer back often as you progress in your journey.
 

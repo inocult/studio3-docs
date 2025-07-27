@@ -33,28 +33,31 @@ graph TB
 
 ### 🤝 The Investment Relationship
 
-**How They Connect:
-
-**
-
-1. **Discovery Phase**
-   - Senders pitch ventures in Arenas
+**How They Connect:** 1. **Discovery Phase
+* *
+* Senders pitch ventures in Arenas
    - Echoes research and evaluate
    - Initial conversations begin
 
 2. **Signaling Phase**
-   - Echoes place belief/doubt stakes
-   - Senders see support levels
+   
+- Echoes place belief/doubt stakes
+   
+- Senders see support levels
    - Feedback flows both ways
 
 3. **Execution Phase**
-   - Senders deliver on promises
-   - Echoes monitor progress
+   
+- Senders deliver on promises
+   
+- Echoes monitor progress
    - Communication stays open
 
 4. **Settlement Phase**
-   - Results determine rewards
-   - Relationships strengthen or end
+   
+- Results determine rewards
+   
+- Relationships strengthen or end
    - Lessons learned by both
 
 ### Communication Patterns
@@ -89,29 +92,32 @@ graph TB
 
 ### 🎓 Growth Through Guidance
 
-**Key Interactions:
-
-**
-
-1. **Validation Moments**
-   - Senders submit evidence
+**Key Interactions:** 1. **Validation Moments
+* *
+* Senders submit evidence
    - Anchors review thoroughly
    - Feedback improves execution
 
 2. **Mentorship Sessions**
-   - Strategic planning help
-   - Technical guidance
+   
+- Strategic planning help
+   
+- Technical guidance
    - Network introductions
    - Crisis management
 
 3. **Standards Setting**
-   - Anchors define quality
-   - Senders strive to exceed
+   
+- Anchors define quality
+   
+- Senders strive to exceed
    - Continuous improvement
 
 4. **Dispute Resolution**
-   - Fair hearings
-   - Evidence-based decisions
+   
+- Fair hearings
+   
+- Evidence-based decisions
    - Learning opportunities
 
 ### Interaction Protocols
@@ -164,37 +170,44 @@ sequenceDiagram
 
 ### 🔍 Trust Through Verification
 
-**How They Collaborate:
-
-**
-
-1. **Signal Confidence**
-   - Anchors provide quality assurance
+**How They Collaborate:** 1. **Signal Confidence
+* *
+* Anchors provide quality assurance
    - Echoes trust validation process
    - Reduces investment risk
 
 2. **Information Flow**
-   - Anchors share insights
-   - Echoes provide market sentiment
+   
+- Anchors share insights
+   
+- Echoes provide market sentiment
    - Collective intelligence emerges
 
 3. **Dispute Mediation**
-   - Anchors investigate concerns
-   - Echoes present evidence
+   
+- Anchors investigate concerns
+   
+- Echoes present evidence
    - Fair resolutions build trust
 
 4. **Ecosystem Protection**
-   - Both identify bad actors
-   - Collaborative defense
+   
+- Both identify bad actors
+   
+- Collaborative defense
    - Maintains platform integrity
 
 ### Information Asymmetry
 
 !!! warning "Balancing Knowledge"
-    - **Anchors know more** about technical execution
-    - **Echoes know more** about market sentiment
-    - **Together they create** complete picture
-    - **Transparency bridges** information gaps
+    - **Anchors know more
+    - about technical execution
+    - **Echoes know more
+    - about market sentiment
+    - **Together they create
+    - complete picture
+    - **Transparency bridges
+    - information gaps
 
 ## Multi-Party Interactions
 
@@ -222,7 +235,15 @@ graph LR
 <h4>🎭 Scenario: Pivot Decision</h4>
         <strong>Participants:</strong> Sender + Multiple Echoes + Anchor
 
-        - Sender proposes major pivot- Echoes debate merits- Anchor provides expert opinion- Collective decision emerges
+        - Sender proposes major pivot
+
+        - Echoes debate merits
+
+
+        - Anchor provides expert opinion
+
+
+        - Collective decision emerges
 
 </div>
     
@@ -231,7 +252,15 @@ graph LR
 <h4>⚖️ Scenario: Disputed Validation</h4>
         <strong>Participants:</strong> Sender + Echoes + Multiple Anchors
 
-        - Sender claims success- Primary Anchor disagrees- Echoes split on outcome- Anchor Council decides
+        - Sender claims success
+
+        - Primary Anchor disagrees
+
+
+        - Echoes split on outcome
+
+
+        - Anchor Council decides
 
 </div>
 </div>
@@ -270,22 +299,20 @@ graph LR
 
 !!! tip "Effective Interaction Guidelines"
     
-    **For All Parties:
-
-**
+    **For All Parties:**
 
 - Be respectful and professional
-    - Respond promptly to queries
+
+- Respond promptly to queries
     - Document important decisions
     - Maintain transparency
     - Build relationships beyond transactions
     
-    **Channel Selection:
-
-**
+    **Channel Selection:**
 
 - Public forums for general updates
-    - Direct messages for specific questions
+
+- Direct messages for specific questions
     - Video calls for complex discussions
     - Written summaries after verbal agreements
 
@@ -298,24 +325,28 @@ graph LR
 **Level 1: Direct Resolution**
 
 - Parties attempt to resolve directly
+
 - Open communication encouraged
 - Focus on mutual benefit
 
 **Level 2: Community Mediation**
 
 - Neutral Echoes facilitate
+
 - Public discussion if appropriate
 - Seek consensus solution
 
 **Level 3: Anchor Arbitration**
 
 - Formal Anchor review
+
 - Evidence-based decision
 - Binding resolution
 
 **Level 4: Council Judgment**
 
 - Anchor Council final say
+
 - Sets precedent for future
 - Reputation consequences
 
@@ -333,11 +364,7 @@ graph LR
 
 ### How Interactions Scale
 
-**Network Value Calculation:
-
-**
-
-- **Each role creates value**: Senders² + Echoes² + Anchors²
+**Network Value Calculation:** - **Each role creates value**: Senders² + Echoes² + Anchors²
 - **Cross-role interactions multiply**: Senders × Echoes + Senders × Anchors + Echoes × Anchors
 - **Total network value**: Role value × Interaction multiplier
 - **Result**: Exponential growth as ecosystem expands
@@ -397,28 +424,31 @@ graph LR
 
 ### 🌐 Interaction Principles
 
-**Core Values:
-
-**
-
-1. **Transparency Above All**
-   - Share information openly
+**Core Values:** 1. **Transparency Above All
+* *
+* Share information openly
    - Admit mistakes quickly
    - Celebrate successes together
 
 2. **Constructive Engagement**
-   - Criticism with solutions
-   - Support through challenges
+   
+- Criticism with solutions
+   
+- Support through challenges
    - Learn from failures
 
 3. **Long-term Thinking**
-   - Build lasting relationships
-   - Reputation over quick gains
+   
+- Build lasting relationships
+   
+- Reputation over quick gains
    - Ecosystem health priority
 
 4. **Meritocratic Respect**
-   - Ideas over identities
-   - Performance over politics
+   
+- Ideas over identities
+   
+- Performance over politics
    - Results over rhetoric
 
 ## Success Stories
@@ -427,18 +457,10 @@ graph LR
 
 #### 🌟 Case: The Pivot Partnership
 
-**Participants:
-
-** TechVenture (Sender), 200+ Echoes, 3 Anchors  
-**Situation:
-
-** Major pivot needed after market shift  
-**Interaction:
-
-** Transparent communication, collaborative replanning  
-**Outcome:
-
-** 85% Echo retention, successful pivot, 3x returns
+**Participants:** TechVenture (Sender), 200+ Echoes, 3 Anchors  
+**Situation:** Major pivot needed after market shift  
+**Interaction:** Transparent communication, collaborative replanning  
+**Outcome:** 85% Echo retention, successful pivot, 3x returns
 
 > "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors." - TechVenture Founder
 
@@ -466,6 +488,7 @@ graph LR
 ## Next Steps
 
 - Understand [Aligned Incentives](incentives.md) driving interactions
+
 - Learn role-specific communication in respective guides
 - Study [Arena System](arena-system.md) for interaction context
 - Review [Progression Rules](progression.md) for phase interactions

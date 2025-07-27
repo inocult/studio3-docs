@@ -10,10 +10,20 @@ The Arena is Studio3's revolutionary public execution environment where ventures
 
 An Arena is a transparent, public space where:
 
-- **Ventures declare** their milestones
-- **Supporters signal** their belief or doubt
-- **Progress unfolds** in real-time
-- **Results determine** rewards and penalties
+- **Ventures declare
+
+- * their milestones
+* **Supporters signal
+
+* * their belief or doubt
+
+* **Progress unfolds
+
+*
+
+* in real-time
+- **Results determine
+- * rewards and penalties
 
 !!! quote "The Arena Philosophy"
     "In the Arena, there are no hidden failures, no private pivots, no secret struggles. Everything happens in the open, creating radical accountability."
@@ -107,7 +117,8 @@ sequenceDiagram
 - Failed Sparks can be re-submitted after 30 days
 
 #### Forge Arena Rules  
-- Winner takes all - only one founder proceeds
+- Winner takes all 
+- only one founder proceeds
 - Minimum stake of 1,000 $SIGNAL to enter
 - 72-hour preparation period before duel
 - Judgment based on vision, capability, and commitment
@@ -129,20 +140,24 @@ sequenceDiagram
 **Belief Signals** 👍
 
 - Stake tokens on successful completion
-- Earn 1.5x - 3x multiplier if correct
+
+- Earn 1.5x 
+
+- 3x multiplier if correct
+
 - Lose entire stake if wrong
 
 **Doubt Signals** 👎
 
 - Stake tokens on milestone failure
-- Earn 1.2x - 2x multiplier if correct  
+
+- Earn 1.2x 
+
+- 2x multiplier if correct  
+
 - Lose entire stake if wrong
 
-**Multiplier Factors:
-
-**
-
-- Early signals earn higher multipliers
+**Multiplier Factors:** - Early signals earn higher multipliers
 - Contrarian correct signals bonus
 - Reputation level affects multipliers
 - Phase difficulty impacts rewards
@@ -170,21 +185,13 @@ graph TD
 
 ### Everything is Visible
 
-**Public Information:
-
-**
-
-- All milestone declarations
+**Public Information:** - All milestone declarations
 - All signal amounts and timing
 - All founder updates and evidence
 - All validator comments and scores
 - All reward distributions
 
-**Performance Metrics:
-
-**
-
-- Success/failure rates by founder
+**Performance Metrics:** - Success/failure rates by founder
 - Signal accuracy by Echo
 - Validation quality by Anchor
 - Phase progression timelines
@@ -195,29 +202,44 @@ graph TD
 ### For Founders
 
 !!! tip "Arena Best Practices"
-    - **Declare realistic milestones** - Under-promise, over-deliver
-    - **Update progress daily** - Keep supporters engaged
-    - **Share challenges openly** - Build trust through transparency
-    - **Submit evidence early** - Allow time for validation
-    - **Engage with feedback** - Community wisdom is valuable
+    - **Declare realistic milestones* 
+    - Under-promise, over-deliver
+    - **Update progress daily* 
+    - Keep supporters engaged
+    - **Share challenges openly* 
+    - Build trust through transparency
+    - **Submit evidence early* 
+    - Allow time for validation
+    - **Engage with feedback* 
+    - Community wisdom is valuable
 
 ### For Echoes
 
 !!! tip "Signaling Strategies"
-    - **Research thoroughly** - Past performance predicts future
-    - **Diversify signals** - Don't put all tokens on one milestone
-    - **Time entries well** - Early signals earn more
-    - **Monitor actively** - Adjust strategies based on progress
-    - **Learn from losses** - Failed signals teach valuable lessons
+    - **Research thoroughly* 
+    - Past performance predicts future
+    - **Diversify signals* 
+    - Don't put all tokens on one milestone
+    - **Time entries well* 
+    - Early signals earn more
+    - **Monitor actively* 
+    - Adjust strategies based on progress
+    - **Learn from losses* 
+    - Failed signals teach valuable lessons
 
 ### For Anchors
 
 !!! tip "Validation Excellence"
-    - **Set clear criteria** - Define success before evaluation
-    - **Document thoroughly** - Justify all decisions
-    - **Remain impartial** - Ignore signal dynamics
-    - **Provide feedback** - Help ventures improve
-    - **Maintain standards** - Ecosystem quality depends on you
+    - **Set clear criteria* 
+    - Define success before evaluation
+    - **Document thoroughly* 
+    - Justify all decisions
+    - **Remain impartial* 
+    - Ignore signal dynamics
+    - **Provide feedback* 
+    - Help ventures improve
+    - **Maintain standards* 
+    - Ecosystem quality depends on you
 
 ## Arena Technology
 
@@ -268,11 +290,16 @@ The Arena system evolves through:
 ### Future Enhancements
 
 !!! info "Coming Soon"
-    - **Conditional Signals** - "I believe IF X happens"
-    - **Signal Combinations** - Portfolio strategies
-    - **Arena Leagues** - Competitive seasons
-    - **Achievement Badges** - Visual reputation markers
-    - **Arena Streaming** - Live video updates
+    - **Conditional Signals* 
+    - "I believe IF X happens"
+    - **Signal Combinations* 
+    - Portfolio strategies
+    - **Arena Leagues* 
+    - Competitive seasons
+    - **Achievement Badges* 
+    - Visual reputation markers
+    - **Arena Streaming* 
+    - Live video updates
 
 ## Success Stories
 
@@ -282,15 +309,9 @@ The Arena system evolves through:
 
 <h4>🏆 DataMesh Protocol</h4>
 
-**Arena Performance:
-
-** 12/12 milestones completed  
-**Total Signals:
-
-** 2.3M $SIGNAL belief  
-**Outcome:
-
-** Graduated in record time
+**Arena Performance:** 12/12 milestones completed  
+**Total Signals:** 2.3M $SIGNAL belief  
+**Outcome:** Graduated in record time
 
 > "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable." - DataMesh Founder
 
@@ -300,15 +321,9 @@ The Arena system evolves through:
 
 <h4>💡 EcoChain Initiative</h4>
 
-**Arena Performance:
-
-** Pivoted after milestone 3 failure  
-**Community Response:
-
-** 80% maintained belief post-pivot  
-**Outcome:
-
-** Successful with new direction
+**Arena Performance:** Pivoted after milestone 3 failure  
+**Community Response:** 80% maintained belief post-pivot  
+**Outcome:** Successful with new direction
 
 > "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product-market fit." - EcoChain Founder
 
@@ -321,8 +336,10 @@ The Arena system evolves through:
 !!! danger "Arena Mistakes"
     - **Over-promising** - Unrealistic milestones destroy credibility
     - **Under-communicating** - Silent founders lose support
-    - **Ignoring feedback** - Community wisdom is valuable
-    - **Gaming metrics** - Artificial activity is easily detected
+    - **Ignoring feedback* 
+    - Community wisdom is valuable
+    - **Gaming metrics* 
+    - Artificial activity is easily detected
     - **Blame-shifting** - Take responsibility for failures
 
 ## Getting Started

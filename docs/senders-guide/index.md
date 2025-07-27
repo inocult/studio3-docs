@@ -69,11 +69,26 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 ## 🎯 Who Should Read This Guide?
 
-- **🚀 Entrepreneurs** ready to build in public
-- **👥 Founding Teams** preparing to launch
-- **🔄 Serial Builders** exploring Studio3
-- **💡 Innovators** with breakthrough ideas
-- **🏆 Ambitious Founders** seeking sovereignty
+- **🚀 Entrepreneurs
+
+- * ready to build in public
+* **👥 Founding Teams
+
+* * preparing to launch
+
+* **🔄 Serial Builders
+
+* * exploring Studio3
+
+* **💡 Innovators
+
+* * with breakthrough ideas
+
+* **🏆 Ambitious Founders
+
+*
+
+* seeking sovereignty
 
 ## 📄 Download Options
 
@@ -90,14 +105,24 @@ This guide is specifically designed for founders (Senders) who want to build ven
 <div class="arena-card" markdown="1">
 
 <h3>📝 Templates</h3>
-- Milestone Declaration Template- Progress Update Format- Pivot Proposal Structure- Ascension Plan Checklist
+- Milestone Declaration Template
+- Progress Update Format
+
+- Pivot Proposal Structure
+
+- Ascension Plan Checklist
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>🎥 Tutorials</h3>
-- Creating Your First Spark- Setting Up Container DAO- Running Effective Arenas- Managing Token Burns
+- Creating Your First Spark
+- Setting Up Container DAO
+
+- Running Effective Arenas
+
+- Managing Token Burns
 
 </div>
 </div>
@@ -106,11 +131,17 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 Track your progress through key indicators:
 
-- **Phase Progression** - Current lifecycle stage
-- **Belief Ratio** - Support vs doubt signals
-- **Milestone Completion** - On-time delivery rate
-- **Community Growth** - Active supporter count
-- **XP Accumulation** - Founder experience points
+- **Phase Progression* 
+
+- Current lifecycle stage
+- **Belief Ratio* 
+- Support vs doubt signals
+- **Milestone Completion* 
+- On-time delivery rate
+- **Community Growth* 
+- Active supporter count
+- **XP Accumulation* 
+- Founder experience points
 
 ## 🌟 Featured Success Stories
 

@@ -69,11 +69,26 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 ## 🎯 Who Should Read This Guide?
 
-- **📊 Active Supporters** signaling daily
-- **💰 Token Holders** maximizing returns
-- **🔍 Analysts** evaluating ventures
-- **🌐 Community Members** growing influence
-- **🎮 Gamers** enjoying the competition
+- **📊 Active Supporters
+
+- * signaling daily
+* **💰 Token Holders
+
+* * maximizing returns
+
+* **🔍 Analysts
+
+* * evaluating ventures
+
+* **🌐 Community Members
+
+* * growing influence
+
+* **🎮 Gamers
+
+*
+
+* enjoying the competition
 
 ## 📄 Download Options
 
@@ -90,20 +105,28 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="arena-card" markdown="1">
 
 <h3>Key Metrics</h3>
-- <strong>Accuracy Rate</strong> - Signal success percentage
-- <strong>Token Returns</strong> - Multiplication achieved
-- <strong>XP Level</strong> - Experience progression
-- <strong>Reputation Score</strong> - Community standing
+- <strong>Accuracy Rate</strong> 
+- Signal success percentage
+- <strong>Token Returns</strong> 
+- Multiplication achieved
+- <strong>XP Level</strong> 
+- Experience progression
+- <strong>Reputation Score</strong> 
+- Community standing
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h3>Leaderboards</h3>
-- <strong>Top Echoes</strong> - Overall performance
-- <strong>Phase Specialists</strong> - Phase-specific experts
-- <strong>Contrarians</strong> - Against-the-grain winners
-- <strong>Consistent Performers</strong> - Steady returners
+- <strong>Top Echoes</strong> 
+- Overall performance
+- <strong>Phase Specialists</strong> 
+- Phase-specific experts
+- <strong>Contrarians</strong> 
+- Against-the-grain winners
+- <strong>Consistent Performers</strong> 
+- Steady returners
 
 </div>
 </div>
@@ -114,14 +137,24 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="arena-card" markdown="1">
 
 <h4>📚 Essential Reading</h4>
-- Signal Psychology 101- Venture Evaluation Basics- Risk vs Reward Analysis- Community Dynamics
+- Signal Psychology 101
+- Venture Evaluation Basics
+
+- Risk vs Reward Analysis
+
+- Community Dynamics
 
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h4>🛠️ Tools & Calculators</h4>
-- Signal ROI Calculator- Portfolio Analyzer- Risk Assessment Tool- Performance Tracker
+- Signal ROI Calculator
+- Portfolio Analyzer
+
+- Risk Assessment Tool
+
+- Performance Tracker
 
 </div>
 </div>

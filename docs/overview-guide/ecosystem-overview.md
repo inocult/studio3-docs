@@ -58,6 +58,7 @@ graph LR
 ### Supporting Infrastructure
 
 - **Container DAOs**: Lightweight governance wrappers for each venture
+
 - **Genesis Wallets**: Multisig treasuries holding venture NFTs
 - **Signal Pools**: Aggregated belief/doubt for each milestone
 - **Reputation System**: XP tracking for all participants
@@ -86,6 +87,7 @@ graph LR
 The source of all Spark NFTs through IP remixing:
 
 - Browse research and patents
+
 - Combine IPs into venture concepts
 - Mint Spark NFTs from combinations
 - Access to global innovation
@@ -93,6 +95,7 @@ The source of all Spark NFTs through IP remixing:
 ### 🤝 Partner Networks
 
 - **Technical Validators**: Specialized anchors for deep tech
+
 - **Capital Partners**: Funding sources for Flare phase
 - **Service Providers**: Legal, marketing, development support
 - **Alumni Network**: Graduated ventures supporting newcomers
@@ -109,6 +112,7 @@ The source of all Spark NFTs through IP remixing:
 ### Defensive Moats
 
 - **Reputation persistence**: XP can't be gamed or transferred
+
 - **Skin in the game**: Real token stakes prevent spam
 - **Public execution**: Transparency deters bad actors
 - **Community memory**: Past performance influences future
@@ -127,6 +131,7 @@ The source of all Spark NFTs through IP remixing:
 ### Growth Indicators
 
 - New venture creation rate
+
 - Average signal pool sizes
 - Anchor response times
 - Graduation success rate
@@ -168,7 +173,8 @@ The source of all Spark NFTs through IP remixing:
 ## Key Takeaways
 
 !!! success "Remember"
-    - Studio3 is more than a platform - it's a living ecosystem
+    - Studio3 is more than a platform 
+    - it's a living ecosystem
     - Success comes from understanding and leveraging network effects
     - Every participant plays a crucial role in ecosystem health
     - Transparency and alignment create sustainable growth

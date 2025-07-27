@@ -52,42 +52,83 @@ All phase transitions require:
     <div class="arena-card" markdown="1">
 
 <h4>✨ Spark → Forge</h4>
-        - 100+ $SIGNAL in belief- 10+ unique supporters- Clear problem-solution fit- Feasible execution plan- 7-day minimum duration
+        - 100+ $SIGNAL in belief
+        - 10+ unique supporters
+
+        - Clear problem-solution fit
+
+        - Feasible execution plan
+
+        - 7-day minimum duration
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 <h4>⚔️ Forge → Ignition</h4>
-        - Win founder duel- Claim Signal NFT- 1,000+ $SIGNAL staked- Present winning vision- Automatic upon victory
+        - Win founder duel
+        - Claim Signal NFT
+
+        - 1,000+ $SIGNAL staked
+
+        - Present winning vision
+
+        - Automatic upon victory
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 <h4>🚀 Ignition → Drift</h4>
-        - Container DAO formed- Core team assembled (3+)- MVP launched publicly- Initial users onboarded- 14-day minimum
+        - Container DAO formed
+        - Core team assembled (3+)
+
+        - MVP launched publicly
+
+        - Initial users onboarded
+
+        - 14-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 <h4>🌊 Drift → Orbit</h4>
-        - Product-market fit signals- 40%+ user retention- Sustainable unit economics- Clear growth trajectory- 60-day minimum
+        - Product-market fit signals- 40%+ user retention
+
+        - Sustainable unit economics
+
+        - Clear growth trajectory
+
+        - 60-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 <h4>🛸 Orbit → Flare</h4>
-        - 6 months stable operations- 80%+ milestone success rate- Revenue/usage growing 10%+ monthly- External funding interest- 180-day minimum
+        - 6 months stable operations
+        - 80%+ milestone success rate
+
+        - Revenue/usage growing 10%+ monthly
+
+        - External funding interest
+
+        - 180-day minimum
 
 </div>
     
     <div class="arena-card" markdown="1">
 
 <h4>🔥 Flare → Ascension</h4>
-        - Funding secured- 20+ team members- Market leadership position- Buyback funds available- 180-day minimum
+        - Funding secured
+        - 20+ team members
+
+        - Market leadership position
+
+        - Buyback funds available
+
+        - 180-day minimum
 
 </div>
 </div>
@@ -100,12 +141,9 @@ All phase transitions require:
 
 <h3>⚓ Validation Framework</h3>
 
-**Anchors evaluate:
-
-**
-
-1. **Milestone Completion** (40%)
-   - All declared goals achieved?
+**Anchors evaluate:** 1. **Milestone Completion
+* * (40%)
+* All declared goals achieved?
    - Evidence properly documented?
    - Quality meets standards?
 
@@ -228,21 +266,13 @@ def calculate_phase_health(venture):
 
 <h3>⚡ Fast Track Qualification</h3>
 
-**Exceptional ventures may progress faster if:
-
-**
-
-- Exceed all metrics by 200%+
+**Exceptional ventures may progress faster if:** - Exceed all metrics by 200%+
 - Unanimous Anchor approval
 - 90%+ community support
 - Demonstrated exceptional execution
 - Strategic opportunity requires speed
 
-**Fast Track Limits:
-
-**
-
-- Minimum durations still apply
+**Fast Track Limits:** - Minimum durations still apply
 - Cannot skip phases
 - Extra scrutiny on validation
 - Higher evidence standards
@@ -253,15 +283,13 @@ def calculate_phase_health(venture):
 
 !!! danger "When Ventures Move Backward"
     
-    **Regression only allowed during Drift phase:
-
-**
+    **Regression only allowed during Drift phase:** 
 
 - Failed product-market fit
     - Major pivot required
     - Team reformation needed
     
-    **Regression Process:
+    Regression Process:
 
 **
     1. Founder requests regression
@@ -313,11 +341,16 @@ When ventures can't advance:
 ### For Echoes
 
 !!! tip "Supporting Smart Progression"
-    - **Signal strategically** on transition milestones
-    - **Provide feedback** during phase reviews
-    - **Support extensions** when justified
-    - **Challenge rushers** who aren't ready
-    - **Reward consistency** over speed
+    - **Signal strategically
+    - on transition milestones
+    - **Provide feedback
+    - during phase reviews
+    - **Support extensions
+    - when justified
+    - **Challenge rushers
+    - who aren't ready
+    - **Reward consistency
+    - over speed
 
 ## Edge Cases
 
@@ -376,11 +409,16 @@ graph LR
 ### Progression Pitfalls
 
 !!! danger "Avoid These Errors"
-    - **Rushing progression** - Meeting minimums isn't enough
-    - **Ignoring community** - Support can evaporate quickly
-    - **Weak documentation** - Evidence must be bulletproof
-    - **Surprise pivots** - Changes need community buy-in
-    - **Burning bridges** - Failed progressions damage reputation
+    - **Rushing progression* 
+    - Meeting minimums isn't enough
+    - **Ignoring community* 
+    - Support can evaporate quickly
+    - **Weak documentation* 
+    - Evidence must be bulletproof
+    - **Surprise pivots* 
+    - Changes need community buy-in
+    - **Burning bridges* 
+    - Failed progressions damage reputation
 
 ## Appeals Process
 

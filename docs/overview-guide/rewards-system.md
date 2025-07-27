@@ -10,20 +10,23 @@ Studio3's rewards and penalties system creates powerful incentives for quality e
 
 ### ⚖️ Rewards vs Penalties
 
-**Core Philosophy:
+**Core Philosophy:** - 🏆 **Rewards
+ * incentivize positive behavior
+ * 🔥 **Penalties
 
-**
+* * discourage negative behavior
 
-- 🏆 **Rewards** incentivize positive behavior
-- 🔥 **Penalties** discourage negative behavior
-- ⚖️ **Balance** creates sustainable ecosystem
-- 🎯 **Fairness** ensures long-term participation
+* ⚖️ **Balance
 
-**Key Principles:
+* * creates sustainable ecosystem
 
-**
+* 🎯 **Fairness
 
-1. Rewards proportional to risk taken
+*
+
+* ensures long-term participation
+
+**Key Principles:** 1. Rewards proportional to risk taken
 2. Penalties severe enough to deter gaming
 3. Transparent calculation methods
 4. Immediate settlement when possible
@@ -55,29 +58,17 @@ graph TD
 
 ### 📡 Echo Reward Matrix
 
-**Base Reward Calculation:
-
-**
-
-- Base multiplier for correct belief signals: 1.5x
+**Base Reward Calculation:** - Base multiplier for correct belief signals: 1.5x
 - Base multiplier for correct doubt signals: 1.2x
 - Wrong predictions result in 100% loss
 
-**Bonus Multipliers:
-
-**
-
-- **Timing Bonus**: Up to 0.5x for early signals (decreases linearly over time)
+**Bonus Multipliers:** - **Timing Bonus**: Up to 0.5x for early signals (decreases linearly over time)
 - **Contrarian Bonus**: 0.3x for going against the majority and being right
 - **Reputation Bonus**: Up to 0.3x based on your XP level
 - **Phase Bonus**: Higher multipliers for later-stage ventures
 - **Maximum Total Multiplier**: 3x (capped to prevent extreme returns)
 
-**Reward Examples:
-
-**
-
-| Scenario | Stake | Multiplier | Reward | Profit |
+**Reward Examples:** | Scenario | Stake | Multiplier | Reward | Profit |
 |----------|-------|------------|--------|--------|
 | Early belief, success | 1,000 | 2.1x | 2,100 | 1,100 |
 | Late belief, success | 1,000 | 1.6x | 1,600 | 600 |
@@ -88,35 +79,34 @@ graph TD
 
 ### 🏗️ Sender Reward System
 
-**Milestone Completion Rewards:
-
-**
-
-1. **Unlock Milestone Funds**
-   - Pre-declared budget released
+**Milestone Completion Rewards:** 1. **Unlock Milestone Funds
+* *
+* Pre-declared budget released
    - Can exceed if over-deliver
    - Immediate availability
 
 2. **Reputation Boost**
-   - XP based on difficulty
-   - Compounds future opportunities
+   
+- XP based on difficulty
+   
+- Compounds future opportunities
    - Permanent record
 
 3. **Community Trust**
-   - Increased future support
-   - Higher belief ratios
+   
+- Increased future support
+   
+- Higher belief ratios
    - Network effects
 
 4. **Phase Progression**
-   - Unlock next stage
-   - Access new resources
+   
+- Unlock next stage
+   
+- Access new resources
    - Greater autonomy
 
-**Success Multipliers:
-
-**
-
-- **Funding Unlock**: 100% of milestone budget released
+**Success Multipliers:** - **Funding Unlock**: 100% of milestone budget released
 - **XP Gain**: Base XP multiplied by milestone difficulty
 - **Trust Score**: 10% increase on successful delivery
 - **Next Milestone**: 5% boost to belief ratio per success
@@ -125,22 +115,14 @@ graph TD
 
 ### ⚓ Anchor Compensation Structure
 
-**Base Validation Fees:
-
-**
-
-| Milestone Value | Base Fee | Range with Bonuses |
+**Base Validation Fees:** | Milestone Value | Base Fee | Range with Bonuses |
 |-----------------|----------|--------------------|
 | < 10K $SIGNAL | 3% | 3-9% |
 | 10K-100K | 2.5% | 2.5-7.5% |
 | 100K-1M | 2% | 2-6% |
 | > 1M | 1.5% | 1.5-4.5% |
 
-**Performance Multipliers:
-
-**
-
-- **Quality Multiplier**: 1x to 3x based on validation thoroughness
+**Performance Multipliers:** - **Quality Multiplier**: 1x to 3x based on validation thoroughness
 - **Speed Bonus**: +20% for completion within 24 hours
 - **Accuracy History**: Up to +30% based on past performance
 - **Mentorship Bonus**: +50% if venture succeeds after your guidance
@@ -152,31 +134,19 @@ graph TD
 
 ### 🔥 Echo Penalty System
 
-**Wrong Signal Penalties:
-
-**
-
-- **Total Loss**: 100% of staked tokens burned
+**Wrong Signal Penalties:** - **Total Loss**: 100% of staked tokens burned
 - **No Partial Refunds**: Binary outcome
 - **Reputation Impact**: XP reduction
 - **Permanent Record**: Affects future multipliers
 
-**Penalty Scenarios:
-
-**
-
-| Signal Type | Outcome | Penalty |
+**Penalty Scenarios:** | Signal Type | Outcome | Penalty |
 |-------------|---------|----------|
 | Belief | Milestone Failed | 100% burn |
 | Doubt | Milestone Succeeded | 100% burn |
 | Any | Venture Abandoned | 100% burn |
 | Any | Invalid Evidence | 100% burn |
 
-**Additional Penalties:
-
-**
-
-- Market manipulation: Account suspension
+**Additional Penalties:** - Market manipulation: Account suspension
 - Collusion detected: Permanent ban
 - Spam signaling: Escalating fees
 - Inactive account: XP decay
@@ -187,36 +157,34 @@ graph TD
 
 <h3>💥 Sender Penalty Framework</h3>
 
-**Failure Consequences:
-
-**
-
-1. **Immediate Penalties**
-
-   - Milestone funds locked/returned
+**Failure Consequences:** 1. **Immediate Penalties
+* *
+* Milestone funds locked/returned
    - Belief signals burned
    - Reputation damage (-XP)
    - Public failure record
 
 2. **Ongoing Impact**
 
-   - Reduced future support
-   - Higher evidence requirements
+   
+- Reduced future support
+
+   
+- Higher evidence requirements
    - Limited phase progression
    - Anchor scrutiny increase
 
 3. **Severe Violations**
 
-   - Venture dissolution
-   - Founder blacklisting
+   
+- Venture dissolution
+
+   
+- Founder blacklisting
    - NFT lockdown
    - Legal action possible
 
-**Penalty Calculation:
-
-**
-
-- **Tokens Burned**: All belief signals on failed milestone
+**Penalty Calculation:** - **Tokens Burned**: All belief signals on failed milestone
 - **XP Loss**: -100 points multiplied by milestone difficulty
 - **Trust Reduction**: 30% decrease in trust score
 - **Future Penalty**: Next milestones 10% harder to fund
@@ -229,31 +197,21 @@ graph TD
 
 <h3>⚠️ Anchor Accountability</h3>
 
-**Quality Failures:
-
-**
-
-- Poor validation: Reduced future assignments
+**Quality Failures:** - Poor validation: Reduced future assignments
 - Biased judgments: Council review
 - Negligent approval: Fee clawback
 - Repeated issues: Anchor status loss
 
-**Penalty Progression:
-
-**
-
-1. **Warning** - First minor issue
+**Penalty Progression:** 1. **Warning* 
+- First minor issue
 2. **Probation** - Reduced fee rate
 3. **Suspension** - No new validations
 4. **Removal** - Permanent status loss
 
-**Financial Penalties:
-
-**
-
-If validation is overturned:
+**Financial Penalties:** If validation is overturned:
 
 - **Fee Clawback**: Must return 2x the original fee
+
 - **Reputation Loss**: -500 XP penalty
 - **Future Rate Cut**: 20% reduction in fee rates
 
@@ -312,32 +270,36 @@ sequenceDiagram
 
 <h3>🎆 Bonus Reward Programs</h3>
 
-**Active Programs:
-
-**
-
-1. **Early Adopter Rewards**
-
-   - 2x XP for first 1000 users
+**Active Programs:** 1. **Early Adopter Rewards
+* *
+* 2x XP for first 1000 users
    - Bonus multipliers for early ventures
    - Exclusive NFT badges
 
 2. **Referral Program**
 
-   - 5% of referred user's earnings
-   - Bonus for successful ventures
+   
+- 5% of referred user's earnings
+
+   
+- Bonus for successful ventures
    - Network growth rewards
 
 3. **Bug Bounties**
 
-   - Critical: 10,000 $SIGNAL
-   - High: 5,000 $SIGNAL
+   
+- Critical: 10,000 $SIGNAL
+
+   
+- High: 5,000 $SIGNAL
    - Medium: 1,000 $SIGNAL
    - Low: 100 $SIGNAL
 
 4. **Governance Participation**
-   - Voting rewards: 10 $SIGNAL/vote
-   - Proposal rewards: 1,000 $SIGNAL
+   
+- Voting rewards: 10 $SIGNAL/vote
+   
+- Proposal rewards: 1,000 $SIGNAL
    - Implementation: Revenue share
 
 </div>
@@ -361,6 +323,7 @@ sequenceDiagram
 **Signal Insurance** (Coming Soon)
 
 - Pay 10% premium
+
 - Get 50% refund on wrong signals
 - Limited to 3 uses per month
 - Not available for contrarian positions
@@ -368,6 +331,7 @@ sequenceDiagram
 **Founder Protection**
 
 - Force majeure provisions
+
 - Medical emergency extensions
 - Natural disaster considerations
 - Regulatory change adaptations
@@ -375,6 +339,7 @@ sequenceDiagram
 **Anchor Indemnity**
 
 - Good faith protection
+
 - Dispute resolution support
 - Legal defense fund
 - Professional insurance
@@ -388,22 +353,15 @@ sequenceDiagram
 !!! warning "Tax Disclaimer"
     Consult professional tax advisors. Rules vary by jurisdiction.
 
-**Potential Tax Events:
-
-**
-
-- Receiving reward tokens
+**Potential Tax Events:** - Receiving reward tokens
 - Converting to fiat
 - Staking rewards
 - Governance distributions
 
-**Record Keeping:
-
-**
-
-For tax purposes, maintain records of:
+**Record Keeping:** For tax purposes, maintain records of:
 
 - Date and time of transaction
+
 - Type of reward received
 - Amount of tokens
 - USD value at time of receipt
@@ -439,27 +397,15 @@ For tax purposes, maintain records of:
 
 ### Reward Optimization Strategy
 
-**For Echoes:
-
-**
-
-- **Strategy**: Focus on early contrarian signals
+**For Echoes:** - **Strategy**: Focus on early contrarian signals
 - **Expected Return**: 2.3x average multiplier
 - **Risk Level**: High
 
-**For Senders:
-
-**
-
-- **Strategy**: Under-promise and over-deliver
+**For Senders:** - **Strategy**: Under-promise and over-deliver
 - **Expected Bonus**: 15% above baseline
 - **Risk Level**: Medium
 
-**For Anchors:
-
-**
-
-- **Strategy**: Thorough validation plus active mentorship
+**For Anchors:** - **Strategy**: Thorough validation plus active mentorship
 - **Expected Return**: 5.5% average fee rate
 - **Risk Level**: Low
 

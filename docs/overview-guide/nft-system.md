@@ -16,7 +16,15 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         Represents the original idea and IP combination
 
-        - Created from Flambette marketplace- Contains remixed IP metadata- Tradeable and collectible- Required for Forge entry
+        - Created from Flambette marketplace
+
+        - Contains remixed IP metadata
+
+
+        - Tradeable and collectible
+
+
+        - Required for Forge entry
 
 </div>
     
@@ -27,7 +35,15 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         Dynamic NFT tracking the venture's entire lifecycle
 
-        - Awarded to Forge winner- Updates with each milestone- Records all signals received- Becomes more valuable over time
+        - Awarded to Forge winner
+
+        - Updates with each milestone
+
+
+        - Records all signals received
+
+
+        - Becomes more valuable over time
 
 </div>
     
@@ -38,7 +54,15 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         Soulbound proof of successful graduation
 
-        - Created at venture inception- Locked until Ascension- Non-transferable honor- Unlocks sovereign rights
+        - Created at venture inception
+
+        - Locked until Ascension
+
+
+        - Non-transferable honor
+
+
+        - Unlocks sovereign rights
 
 </div>
 </div>
@@ -63,18 +87,9 @@ graph TD
 ### The Beginning of Everything
 
 !!! info "Spark NFT Details"
-    **Purpose:
-
-** Capture and validate innovative ideas  
-    **Creation:
-
-** Remix existing IP-NFTs on Flambette  
-    **Utility:
-
-** Entry ticket to Studio3 ecosystem  
+    **Purpose:** Creation:
+    Utility:
     **Trading:
-
-** Fully transferable on secondary markets
 
 ### Creation Process
 
@@ -116,18 +131,9 @@ graph TD
 ### The Living Chronicle
 
 !!! info "Signal NFT Details"
-    **Purpose:
-
-** Track and visualize venture progress  
-    **Creation:
-
-** Awarded to Forge duel winner  
-    **Utility:
-
-** Governance rights and milestone tracking  
+    **Purpose:** Creation:
+    Utility:
     **Updates:
-
-** Dynamically evolves with venture progress
 
 ### Dynamic Properties
 
@@ -137,6 +143,7 @@ graph TD
 The Signal NFT's appearance changes based on:
 
 - <strong>Phase Progress:</strong> Color shifts with each phase
+
 - <strong>Signal Strength:</strong> Brightness indicates support
 - <strong>Milestone Success:</strong> New elements appear
 - <strong>Community Size:</strong> Complexity increases
@@ -187,18 +194,9 @@ The Signal NFT's appearance changes based on:
 ### The Ultimate Achievement
 
 !!! info "Halo NFT Details"
-    **Purpose:
-
-** Represent ultimate venture sovereignty  
-    **Creation:
-
-** Minted at Ignition, locked until Ascension  
-    **Utility:
-
-** Unlock full venture control  
+    **Purpose:** Creation:
+    Utility:
     **Transfer:
-
-** Soulbound - forever tied to venture
 
 ### Sovereignty Rights
 
@@ -267,7 +265,13 @@ sequenceDiagram
 <h3>🔗 The Trinity Effect</h3>
 When all three NFTs are united in one wallet:
 
-- 🎨 <strong>Spark</strong> provides the origin story- 📡 <strong>Signal</strong> shows the journey- 🛡️ <strong>Halo</strong> proves the achievement<strong>Result:</strong> Complete sovereignty over the venture's future
+- 🎨 <strong>Spark</strong> provides the origin story
+
+- 📡 <strong>Signal</strong> shows the journey
+
+
+
+- 🛡️ <strong>Halo</strong> proves the achievement<strong>Result:</strong> Complete sovereignty over the venture's future
 
 </div>
 

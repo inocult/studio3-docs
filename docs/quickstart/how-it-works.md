@@ -22,10 +22,14 @@
 
 <h3>✨ The Spark Phase</h3>
 
-- Entrepreneurs create **Spark NFTs** from existing research/IP
-- Ideas are presented in public **Arenas**
+- Entrepreneurs create **Spark NFTs
 
-- Community members browse and evaluate
+- * from existing research/IP
+* Ideas are presented in public **Arenas
+
+* *
+
+* Community members browse and evaluate
 - Initial interest gathering begins
 - Best ideas attract early believers
 
@@ -38,8 +42,12 @@
 <h3>⚔️ The Forge Duel</h3>
 
 - Multiple founders can compete for the same idea
-- They enter a **public competition** (The Forge)
-- Each presents their vision and capabilities
+
+- They enter a **public competition
+
+* * (The Forge)
+
+* Each presents their vision and capabilities
 - Community votes determine the winner
 - Winner gets exclusive rights to build
 
@@ -53,9 +61,14 @@
 
 The winning founder:
 
-- Forms a **Container DAO** (lightweight governance structure)
-- Declares specific **milestones** with deadlines
-- Works transparently with daily updates
+- Forms a **Container DAO
+
+- * (lightweight governance structure)
+* Declares specific **milestones
+
+* * with deadlines
+
+* Works transparently with daily updates
 - Engages with community feedback
 - Builds toward declared goals
 
@@ -67,21 +80,15 @@ The winning founder:
 
 <h3>📡 Signaling Mechanics</h3>
 
-**How the community participates:
-
-**
-
-1. **Research** the venture and team
+**How the community participates:** 1. **Research
+*
+* the venture and team
 2. **Decide** to signal belief or doubt
 3. **Stake** $SIGNAL tokens on outcome
 4. **Monitor** progress actively
 5. **Earn or lose** based on results
 
-**Example:
-
-**
-
-- You believe TeamX will deliver their app by March 1st
+**Example:** - You believe TeamX will deliver their app by March 1st
 - You stake 1,000 $SIGNAL tokens as a belief signal
 - If they succeed: You get 1,500-3,000 tokens back (1.5x-3x)
 - If they fail: Your 1,000 tokens are burned forever
@@ -96,9 +103,14 @@ The winning founder:
 
 When milestones are complete:
 
-- Founder submits **evidence** of completion
-- **Anchors** (validators) review thoroughly
-- They verify claims are accurate
+- Founder submits **evidence
+
+- * of completion
+* **Anchors
+
+* * (validators) review thoroughly
+
+* They verify claims are accurate
 - Decision is made: Success or Failure
 - Results trigger automatic settlements
 
@@ -110,20 +122,12 @@ When milestones are complete:
 
 <h3>💰 The Settlement</h3>
 
-**If Milestone Succeeds:
-
-**
-
-- Believers earn token multipliers (1.5x-3x)
+**If Milestone Succeeds:** - Believers earn token multipliers (1.5x-3x)
 - Doubters lose their entire stake
 - Founder unlocks next funding
 - Anchor earns validation fee
 
-**If Milestone Fails:
-
-**
-
-- Doubters earn token multipliers (1.2x-2x)
+**If Milestone Fails:** - Doubters earn token multipliers (1.2x-2x)
 - Believers lose their entire stake
 - Founder faces reputation damage
 - Must pivot or abandon
@@ -139,9 +143,12 @@ Every venture progresses through seven phases:
 
 <h4>Phase 1-3: Foundation</h4>
 
-1. **Spark** ✨ - Idea validation
-2. **Forge** ⚔️ - Founder selection
-3. **Ignition** 🚀 - MVP building
+1. **Spark** ✨ 
+- Idea validation
+2. **Forge** ⚔️ 
+- Founder selection
+3. **Ignition** 🚀 
+- MVP building
 
 </div>
 
@@ -149,9 +156,12 @@ Every venture progresses through seven phases:
 
 <h4>Phase 4-6: Growth</h4>
 
-4. **Drift** 🌊 - Finding product-market fit
-5. **Orbit** 🛸 - Stable operations
-6. **Flare** 🔥 - Scaling up
+4. **Drift** 🌊 
+- Finding product-market fit
+5. **Orbit** 🛸 
+- Stable operations
+6. **Flare** 🔥 
+- Scaling up
 
 </div>
 
@@ -159,7 +169,8 @@ Every venture progresses through seven phases:
 
 <h4>Phase 7: Graduation</h4>
 
-7. **Ascension** 🎖️ - Full independence
+7. **Ascension** 🎖️ 
+- Full independence
 
 </div>
 </div>
@@ -232,9 +243,9 @@ Every venture progresses through seven phases:
 
 <h3>The Magic Formula</h3>
 
-**Transparency** + **Skin in the Game** + **Community Wisdom** = **Better Outcomes**
-
-- Public pressure creates accountability
+**Transparency** + **Skin in the Game** + **Community Wisdom** = **Better Outcomes
+* *
+* Public pressure creates accountability
 - Token stakes ensure serious participation  
 - Collective intelligence catches problems early
 - Aligned incentives drive collaboration

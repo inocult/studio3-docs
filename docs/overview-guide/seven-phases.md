@@ -50,21 +50,13 @@ graph LR
 Transform a remixed IP concept into a validated venture idea with initial community support.
 
 
-**Key Activities:
-
-**
-
-- Create Spark NFT from Flambette marketplace
+**Key Activities:** - Create Spark NFT from Flambette marketplace
 - Enter idea into Spark Arena
 - Gather initial belief signals
 - Refine concept based on feedback
 - Build initial supporter base
 
-**Success Criteria:
-
-**
-
-- Minimum 100 $SIGNAL in belief
+**Success Criteria:** - Minimum 100 $SIGNAL in belief
 - At least 10 unique supporters
 - Clear problem-solution fit
 - Feasible execution plan
@@ -78,10 +70,15 @@ Transform a remixed IP concept into a validated venture idea with initial commun
 
 ### Common Pitfalls
 
-- **Vague Concepts** - Be specific about what you're building
-- **Ignoring Feedback** - Community wisdom is valuable
-- **Overselling** - Unrealistic promises backfire
-- **Poor Timing** - Market readiness matters
+- **Vague Concepts* 
+
+- Be specific about what you're building
+- **Ignoring Feedback* 
+- Community wisdom is valuable
+- **Overselling* 
+- Unrealistic promises backfire
+- **Poor Timing* 
+- Market readiness matters
 
 ## Phase 2: Forge ⚔️
 
@@ -93,21 +90,13 @@ Transform a remixed IP concept into a validated venture idea with initial commun
 Determine the most capable founder through competitive dueling.
 
 
-**Duel Format:
-
-**
-
-- **Entry Stakes**: 1,000 $SIGNAL minimum
+**Duel Format:** - **Entry Stakes**: 1,000 $SIGNAL minimum
 - **Preparation**: 72 hours to prepare pitch
 - **Presentation**: Live pitch to community
 - **Voting**: Token-weighted community decision
 - **Winner Takes All**: Signal NFT + leadership rights
 
-**Evaluation Criteria:
-
-**
-
-- Vision clarity and ambition
+**Evaluation Criteria:** - Vision clarity and ambition
 - Technical capability
 - Leadership experience
 - Community engagement
@@ -134,22 +123,14 @@ Determine the most capable founder through competitive dueling.
 Form Container DAO, assemble team, and deliver initial MVP.
 
 
-**Critical Tasks:
-
-**
-
-- Create Container DAO structure
+**Critical Tasks:** - Create Container DAO structure
 - Mint Halo NFT (locked)
 - Recruit 2-4 team members
 - Define technical architecture
 - Build and launch MVP
 - Secure initial users/testers
 
-**Milestones:
-
-**
-
-1. DAO formation complete
+**Milestones:** 1. DAO formation complete
 2. Core team assembled
 3. Technical spec approved
 4. MVP launched
@@ -187,21 +168,13 @@ graph TD
 Iterate rapidly to find product-market fit through community feedback.
 
 
-**Key Characteristics:
-
-**
-
-- High experimentation rate
+**Key Characteristics:** - High experimentation rate
 - Rapid pivots allowed
 - Constant user feedback
 - Flexible milestone adjustments
 - Community-guided development
 
-**Success Indicators:
-
-**
-
-- User retention > 40%
+**Success Indicators:** - User retention > 40%
 - Organic growth starting
 - Clear use case emerging
 - Positive unit economics
@@ -214,10 +187,20 @@ Iterate rapidly to find product-market fit through community feedback.
 !!! warning "Navigating Drift"
     This phase has the highest failure rate. Success requires:
 
-- **Humility** to accept when things aren't working
-    - **Speed** to iterate faster than resources deplete
-    - **Focus** to avoid feature creep
-    - **Communication** to maintain supporter confidence
+- **Humility
+
+- * to accept when things aren't working
+* **Speed
+
+    * to iterate faster than resources deplete
+
+    * **Focus
+
+    * to avoid feature creep
+
+    * **Communication
+
+    * to maintain supporter confidence
 
 ### Pivot Mechanics
 
@@ -239,21 +222,13 @@ When pivoting during Drift:
 Establish sustainable operations with consistent growth and reliable delivery.
 
 
-**Orbit Characteristics:
-
-**
-
-- Predictable revenue/usage
+**Orbit Characteristics:** - Predictable revenue/usage
 - Stable team operations
 - Consistent milestone achievement
 - Growing community confidence
 - Clear scaling path
 
-**Key Metrics:
-
-**
-
-- MRR/MAU growth: 10%+ monthly
+**Key Metrics:** - MRR/MAU growth: 10%+ monthly
 - Milestone success rate: 80%+
 - Team retention: 90%+
 - User satisfaction: 4.5/5+
@@ -291,21 +266,13 @@ graph LR
 Scale rapidly with external capital and aggressive expansion.
 
 
-**Flare Characteristics:
-
-**
-
-- External funding rounds
+**Flare Characteristics:** - External funding rounds
 - Aggressive hiring
 - Market expansion
 - Product scaling
 - Brand building
 
-**Capital Sources:
-
-**
-
-- Traditional VCs (now interested)
+**Capital Sources:** - Traditional VCs (now interested)
 - Strategic partners
 - Revenue-based financing
 - Token sales (if applicable)
@@ -343,21 +310,13 @@ gross_margins = > 70%  # For software
 Graduate from Studio3 oversight to complete independence.
 
 
-**Ascension Requirements:
-
-**
-
-- All phases successfully completed
+**Ascension Requirements:** - All phases successfully completed
 - Sustainable business model proven
 - Team fully autonomous
 - Community support maintained
 - Buyback funds available
 
-**The Buyback Process:
-
-**
-
-1. Initiate graduation request
+**The Buyback Process:** 1. Initiate graduation request
 2. Final Anchor validation
 3. Buyback Spark + Signal NFTs
 4. Unlock Halo NFT
@@ -391,23 +350,18 @@ Graduate from Studio3 oversight to complete independence.
 
 <h3>📈 Advancement Criteria</h3>
 
-**General Requirements:
-
-**
-
-- Complete all phase milestones
+**General Requirements:** - Complete all phase milestones
 - Maintain community support (>60% belief)
 - Pass Anchor validation
 - Meet minimum duration
 - Achieve phase-specific metrics
 
-**Special Cases:
-
-**
-
-- **Fast Track**: Exceptional ventures can accelerate
+**Special Cases:** - **Fast Track**: Exceptional ventures can accelerate
 - **Extended Duration**: Complex ventures may need more time
-- **Phase Skipping**: Not allowed - all phases required
+- **Phase Skipping**: Not allowed 
+
+- all phases required
+
 - **Regression**: Can fall back during Drift only
 
 </div>
@@ -473,6 +427,7 @@ Graduate from Studio3 oversight to complete independence.
 ## Next Steps
 
 - Master the [Milestone System](milestones.md) for each phase
+
 - Understand [Progression Rules](progression.md) in detail
 - Learn about [Container DAO Setup](../senders-guide/container-dao.md) for Ignition
 - Study [Ascension Planning](../senders-guide/ascension-planning.md) early
