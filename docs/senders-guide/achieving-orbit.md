@@ -6,7 +6,7 @@
 **Phase**: Orbit 🛨  
 **Focus**: Operational Excellence  
 **Duration**: 6-12 months typical
-</div>
+**</div>**
 
 ## Overview
 
@@ -50,9 +50,8 @@ Orbit represents stable operations with consistent delivery. Your venture has fo
 
 ### Regular Cadence
 1. **Weekly**: Team syncs, metrics review
-2. **Monthly**: Milestone declarations, Echo updates
-3. **Quarterly**: Strategic planning, Anchor reviews
-
+**2. **Monthly**: Milestone declarations, Echo updates
+**3. **Quarterly**: Strategic planning, Anchor reviews
 ### Risk Management
 - Monitor signal sentiment
 - Address concerns quickly

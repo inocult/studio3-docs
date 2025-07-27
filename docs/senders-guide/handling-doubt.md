@@ -223,9 +223,7 @@ def choose_response_channel(doubt_signal):
 
 <h3>🔄 From Skeptic to Supporter
 
-**Conversion Strategy:**
-
-**Step 1: Acknowledge**
+**Conversion Strategy:** Step 1: Acknowledge
 "You raised concerns about [X]. You were right."
 
 **Step 2: Show Action**
@@ -398,9 +396,7 @@ We need your continued feedback as we evolve.
 
 <h3>🎯 Controversy as Catalyst
 
-**Strategic Controversy:**
-
-**When Doubt Helps:**
+**Strategic Controversy:** When Doubt Helps:
 - Challenges status quo
 - Sparks discussion
 - Increases visibility

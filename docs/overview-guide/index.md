@@ -69,30 +69,16 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 ## 🎯 Who Should Read This Guide?
 
-- **🆕 Newcomers
+- **🆕 Newcomers** wanting to understand Studio3
+- **💼 Investors** evaluating the ecosystem
 
-- * wanting to understand Studio3
-* **💼 Investors
+- **🏗️ Potential Founders** exploring the platform
 
-* * evaluating the ecosystem
+- **📡 Future Supporters** learning the mechanics
 
-* **🏗️ Potential Founders
+- **⚓ Aspiring Validators** understanding requirements
 
-* * exploring the platform
-
-* **📡 Future Supporters
-
-* * learning the mechanics
-
-* **⚓ Aspiring Validators
-
-* * understanding requirements
-
-* **🏛️ Partners
-
-*
-
-* considering integration
+- **🏛️ Partners** considering integration
 
 ## 📄 Download Options
 

@@ -6,7 +6,7 @@
 **Status**: Alumni 🎓  
 **Focus**: Independent Growth  
 **Benefits**: Lifetime Access
-</div>
+**</div>**
 
 ## Overview
 
@@ -94,17 +94,14 @@ Graduation from Studio3 marks the beginning of true sovereignty. Alumni ventures
 **Pre-Graduation**: 10% MoM growth  
 **Post-Graduation**: 20-30% MoM growth  
 **Key Factor**: Full autonomy and focus
-
 ### Team Scaling
 **Pre-Graduation**: 5-10 team members  
 **Year 1 Post**: 25-50 team members  
 **Year 2 Post**: 100+ team members
-
 ### Valuation Growth
 **Buyback Price**: $5-10M typical  
 **Year 1 Post**: $25-50M  
 **Year 2 Post**: $100M+
-
 ## Common Challenges
 
 ### 1. Operational Gaps
@@ -173,13 +170,11 @@ Graduation from Studio3 marks the beginning of true sovereignty. Alumni ventures
 - **Current Valuation**: $500M
 - **Team Size**: 150
 - **Global Reach**: 50 countries
-
 ### AI Platform Alumni
 - **Graduation**: 2022
 - **Acquisition**: $1.2B (2024)
 - **Original Buyback**: $8M
 - **Return Multiple**: 150x
-
 ## Resources
 
 ### Alumni Portal

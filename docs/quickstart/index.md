@@ -16,7 +16,6 @@ This quickstart guide gives you the essential overview of Studio3 in just a few 
 **Key benefits** — *for all participants*  
 **How to get started** — *today*
 
-
 <div class="arena-card" markdown="1">
 
 <h3>⏱️ Reading Time: 5 minutes</h3>
@@ -36,20 +35,10 @@ After reading, you'll understand the core concepts and be ready to choose your r
 
 Imagine a world where:
 
-- **Great ideas
-
-- * don't die from lack of resources
-* **Community wisdom
-
-* * guides venture development
-
-* **Transparent progress
-
-*
-
-* replaces closed-door decisions
-- **Everyone wins
-- * when ventures succeed
+- **Great ideas** don't die from lack of resources
+- **Community wisdom** guides venture development
+- **Transparent progress** replaces closed-door decisions
+- **Everyone wins** when ventures succeed
 
 That's Studio3.
 
@@ -62,7 +51,9 @@ That's Studio3.
 
 The revolutionary platform transforming how ventures are built.
 
-[Read More →](what-is-studio3.md)
+<div class="text-center">
+<a href="what-is-studio3.md" class="md-button md-button--primary">Read More →</a>
+</div>
 
 </div>
 
@@ -72,7 +63,9 @@ The revolutionary platform transforming how ventures are built.
 
 Simple explanation of the core mechanics and process.
 
-[Read More →](how-it-works.md)
+<div class="text-center">
+<a href="how-it-works.md" class="md-button md-button--primary">Read More →</a>
+</div>
 
 </div>
 
@@ -82,7 +75,9 @@ Simple explanation of the core mechanics and process.
 
 Why participants choose Studio3 over traditional methods.
 
-[Read More →](key-benefits.md)
+<div class="text-center">
+<a href="key-benefits.md" class="md-button md-button--primary">Read More →</a>
+</div>
 
 </div>
 
@@ -92,7 +87,9 @@ Why participants choose Studio3 over traditional methods.
 
 Your first steps into the Studio3 ecosystem.
 
-[Read More →](get-started.md)
+<div class="text-center">
+<a href="get-started.md" class="md-button md-button--primary">Read More →</a>
+</div>
 
 </div>
 </div>
@@ -101,26 +98,22 @@ Your first steps into the Studio3 ecosystem.
 
 Before diving into detailed guides, this quickstart:
 
-- **Saves time* 
-
-- Get the essence without the details
-- **Clarifies concepts* 
-- Simple language, no jargon
-- **Helps you decide* 
-- Is Studio3 right for you?
-- **Points the way* 
-- Know where to go next
+- **Saves time** - Get the essence without the details
+- **Helps you decide** - Is Studio3 right for you?
 
 ## 📥 Download Options
 
-<div class="download-box">
+<div class="arena-card" markdown="1">
 
-### 📄 Quickstart PDF
+<h3>📄 Quickstart PDF</h3>
 
+<div class="text-center">
 <a href="../pdf/studio3-quickstart.pdf" class="md-button md-button--primary">
 📥 Download PDF Guide
 </a>
 <p>8 pages • 1.2 MB • Perfect for sharing</p>
+</div>
+
 </div>
 
 ## ⚡ Start Your Journey

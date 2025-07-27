@@ -33,9 +33,7 @@ graph TB
 
 ### 🤝 The Investment Relationship
 
-**How They Connect:** 1. **Discovery Phase
-* *
-* Senders pitch ventures in Arenas
+**How They Connect:** 1. **Discovery Phase** Senders pitch ventures in Arenas
    - Echoes research and evaluate
    - Initial conversations begin
 
@@ -64,18 +62,16 @@ graph TB
 
 !!! info "Sender → Echo Communications"
     - **Milestone Declarations**: Clear, specific commitments
-    - **Progress Updates**: Daily during active periods
-    - **Challenge Transparency**: Honest about obstacles
-    - **Success Celebrations**: Share wins with supporters
-    - **Pivot Explanations**: Justify major changes
-
+**    - **Progress Updates**: Daily during active periods
+**    - **Challenge Transparency**: Honest about obstacles
+**    - **Success Celebrations**: Share wins with supporters
+**    - **Pivot Explanations**: Justify major changes
 !!! info "Echo → Sender Communications"
     - **Due Diligence Questions**: Understand the venture
-    - **Constructive Feedback**: Improve execution
-    - **Market Intelligence**: Share relevant insights
-    - **Network Connections**: Introduce helpful contacts
-    - **Moral Support**: Encourage during challenges
-
+**    - **Constructive Feedback**: Improve execution
+**    - **Market Intelligence**: Share relevant insights
+**    - **Network Connections**: Introduce helpful contacts
+**    - **Moral Support**: Encourage during challenges
 ### Value Exchange
 
 | What Senders Give | What Echoes Give |
@@ -92,9 +88,7 @@ graph TB
 
 ### 🎓 Growth Through Guidance
 
-**Key Interactions:** 1. **Validation Moments
-* *
-* Senders submit evidence
+**Key Interactions:** 1. **Validation Moments** Senders submit evidence
    - Anchors review thoroughly
    - Feedback improves execution
 
@@ -170,9 +164,7 @@ sequenceDiagram
 
 ### 🔍 Trust Through Verification
 
-**How They Collaborate:** 1. **Signal Confidence
-* *
-* Anchors provide quality assurance
+**How They Collaborate:** 1. **Signal Confidence** Anchors provide quality assurance
    - Echoes trust validation process
    - Reduces investment risk
 
@@ -200,14 +192,9 @@ sequenceDiagram
 ### Information Asymmetry
 
 !!! warning "Balancing Knowledge"
-    - **Anchors know more
-    - about technical execution
-    - **Echoes know more
-    - about market sentiment
-    - **Together they create
-    - complete picture
-    - **Transparency bridges
-    - information gaps
+    - **Anchors know more** - about technical execution Echoes know more**
+    - about market sentiment** Together they create** - complete picture** Transparency bridges
+**    - information gaps**
 
 ## Multi-Party Interactions
 
@@ -239,9 +226,7 @@ graph LR
 
         - Echoes debate merits
 
-
         - Anchor provides expert opinion
-
 
         - Collective decision emerges
 
@@ -256,9 +241,7 @@ graph LR
 
         - Primary Anchor disagrees
 
-
         - Echoes split on outcome
-
 
         - Anchor Council decides
 
@@ -300,7 +283,6 @@ graph LR
 !!! tip "Effective Interaction Guidelines"
     
     **For All Parties:**
-
 - Be respectful and professional
 
 - Respond promptly to queries
@@ -309,7 +291,6 @@ graph LR
     - Build relationships beyond transactions
     
     **Channel Selection:**
-
 - Public forums for general updates
 
 - Direct messages for specific questions
@@ -364,22 +345,20 @@ graph LR
 
 ### How Interactions Scale
 
-**Network Value Calculation:** - **Each role creates value**: Senders² + Echoes² + Anchors²
+**Network Value Calculation:**
+- **Each role creates value**: Senders² + Echoes² + Anchors²
 - **Cross-role interactions multiply**: Senders × Echoes + Senders × Anchors + Echoes × Anchors
 - **Total network value**: Role value × Interaction multiplier
 - **Result**: Exponential growth as ecosystem expands
-
 **Example**: 100 Senders + 1000 Echoes + 50 Anchors = 150,000 base value × 155,000 interactions = 23.25M network value units
-
 ### Emergent Behaviors
 
 !!! info "Positive Emergent Patterns"
     - **Reputation Networks**: Trust builds exponentially
-    - **Knowledge Sharing**: Collective intelligence emerges
-    - **Innovation Clusters**: Similar ventures collaborate
-    - **Mentorship Chains**: Successful founders become Anchors
-    - **Investment Syndicates**: Echoes coordinate strategies
-
+**    - **Knowledge Sharing**: Collective intelligence emerges
+**    - **Innovation Clusters**: Similar ventures collaborate
+**    - **Mentorship Chains**: Successful founders become Anchors
+**    - **Investment Syndicates**: Echoes coordinate strategies
 ## Interaction Metrics
 
 ### Measuring Interaction Health
@@ -424,9 +403,7 @@ graph LR
 
 ### 🌐 Interaction Principles
 
-**Core Values:** 1. **Transparency Above All
-* *
-* Share information openly
+**Core Values:** 1. **Transparency Above All** Share information openly
    - Admit mistakes quickly
    - Celebrate successes together
 
@@ -457,11 +434,10 @@ graph LR
 
 #### 🌟 Case: The Pivot Partnership
 
-**Participants:** TechVenture (Sender), 200+ Echoes, 3 Anchors  
-**Situation:** Major pivot needed after market shift  
-**Interaction:** Transparent communication, collaborative replanning  
+**Participants:** TechVenture (Sender), 200+ Echoes, 3 Anchors
+**Situation:** Major pivot needed after market shift
+**Interaction:** Transparent communication, collaborative replanning
 **Outcome:** 85% Echo retention, successful pivot, 3x returns
-
 > "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors." - TechVenture Founder
 
 ## Interaction Evolution
@@ -470,21 +446,19 @@ graph LR
 
 !!! tip "Coming Interaction Features"
     - **AI-Mediated Discussions**: Better conversation facilitation
-    - **Reputation Weighted Voting**: Influence based on track record
-    - **Cross-Venture Collaboration**: Formal partnership tools
-    - **Automated Conflict Detection**: Early warning systems
-    - **Interaction Rewards**: Incentivize quality engagement
-
+**    - **Reputation Weighted Voting**: Influence based on track record
+**    - **Cross-Venture Collaboration**: Formal partnership tools
+**    - **Automated Conflict Detection**: Early warning systems
+**    - **Interaction Rewards**: Incentivize quality engagement
 ## Your Interaction Strategy
 
 ### Building Strong Relationships
 
 1. **Start with Empathy** - Understand other perspectives
-2. **Communicate Clearly** - Avoid ambiguity
-3. **Follow Through** - Do what you say
-4. **Add Value** - Give before you receive
-5. **Think Long-term** - Reputation compounds
-
+**2. **Communicate Clearly** - Avoid ambiguity
+**3. **Follow Through** - Do what you say
+**4. **Add Value** - Give before you receive
+**5. **Think Long-term** - Reputation compounds
 ## Next Steps
 
 - Understand [Aligned Incentives](incentives.md) driving interactions

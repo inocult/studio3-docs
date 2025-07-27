@@ -199,7 +199,7 @@ Extremes tend to revert to mean
    - You: "I've seen similar work"
    - Bet on execution
 
-2. **"Too Simple" Projects**  
+2. **"Too Simple" Projects**
    - Crowd: "No moat"
    - You: "Execution is the moat"
    - Bet on team

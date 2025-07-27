@@ -533,11 +533,10 @@ Give 10x more than you take
 
 **Long-term Strategy:**
 1. **Year 1:** Build foundation
-2. **Year 2:** Establish expertise
-3. **Year 3:** Lead initiatives
-4. **Year 4:** Drive innovation
-5. **Year 5:** Legacy building
-
+**2. **Year 2:** Establish expertise
+**3. **Year 3:** Lead initiatives
+**4. **Year 4:** Drive innovation
+**5. **Year 5:** Legacy building
 **Network Effects:**
 - Each connection multiplies value
 - Reputation compounds
@@ -557,11 +556,10 @@ Give 10x more than you take
 
 **Core Principles:**
 1. **Integrity** - Always be honest
-2. **Generosity** - Share freely
-3. **Respect** - Value everyone
-4. **Growth** - Help others succeed
-5. **Innovation** - Push boundaries
-
+**2. **Generosity** - Share freely
+**3. **Respect** - Value everyone
+**4. **Growth** - Help others succeed
+**5. **Innovation** - Push boundaries
 **The Community Pledge:**
 "I will contribute more than I consume, help more than I ask, and leave the community better than I found it."
 

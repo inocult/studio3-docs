@@ -20,9 +20,7 @@ Signals are token-backed predictions about a venture's ability to achieve specif
 
         - Earn multipliers if correct (1.5x 
 
-
         - 3x)
-
 
         - Lose entire stake if wrong
 
@@ -37,9 +35,7 @@ Signals are token-backed predictions about a venture's ability to achieve specif
 
         - Earn multipliers if correct (1.2x 
 
-
         - 2x)
-
 
         - Lose entire stake if wrong
 
@@ -75,27 +71,27 @@ flowchart TD
 ### Signal Lifecycle
 
 1. **Declaration Phase** (0-2 hours)
-   - Founder declares specific milestone
+**   - Founder declares specific milestone**
    - System verifies milestone validity
    - Arena opens for signaling
 
 2. **Signal Phase** (48-168 hours)
-   - Echoes analyze milestone feasibility
+**   - Echoes analyze milestone feasibility**
    - Signals placed with token stakes
    - Real-time sentiment tracking
 
 3. **Execution Phase** (Variable)
-   - Founder works toward milestone
+**   - Founder works toward milestone**
    - Progress updates posted
    - No new signals accepted
 
 4. **Validation Phase** (24-48 hours)
-   - Evidence submitted by founder
+**   - Evidence submitted by founder**
    - Anchors verify achievement
    - Results determined
 
 5. **Settlement Phase** (Automatic)
-   - Rewards distributed to correct signals
+**   - Rewards distributed to correct signals**
    - Wrong signals burned permanently
    - Reputation points updated
 
@@ -107,15 +103,16 @@ flowchart TD
 
 <h3>📊 Multiplier Formula</h3>
 
-**Base Multipliers:** - Belief (Success): 1.5x base
-- Doubt (Failure): 1.2x base
-
-**Bonus Factors:** - Early Signal: +0.1x per 24 hours early
+**Base Multipliers:**
+- Belief (Success): 1.5x base
+- Doubt (Failure): 1.2x base** Bonus Factors:**
+- Early Signal: +0.1x per 24 hours early
 - Contrarian: +0.3x if against majority
 - Reputation: +0.01x per 1000 XP
 - Phase Difficulty: +0.1x per phase level
 
-**Maximum Possible:** - Belief: 3x multiplier
+**Maximum Possible:**
+- Belief: 3x multiplier
 - Doubt: 2x multiplier
 
 </div>
@@ -214,11 +211,10 @@ graph LR
 
 !!! info "Market Indicators"
     - **Signal Velocity**: How fast signals accumulate
-    - **Belief Ratio**: Belief vs doubt balance
-    - **Whale Activity**: Large stake movements
-    - **Anchor Sentiment**: Validator early opinions
-    - **Historical Patterns**: Similar milestone outcomes
-
+**    - **Belief Ratio**: Belief vs doubt balance
+**    - **Whale Activity**: Large stake movements
+**    - **Anchor Sentiment**: Validator early opinions
+**    - **Historical Patterns**: Similar milestone outcomes
 ## Signal Psychology
 
 ### Cognitive Biases to Avoid
@@ -235,7 +231,8 @@ graph LR
 
 ### Your Rights as an Echo
 
-✅ **You have the right to:** - Signal on any open milestone
+✅ **You have the right to:**
+- Signal on any open milestone
 - Access all public information
 - Change strategy between milestones
 - Withdraw unused tokens anytime
@@ -243,7 +240,8 @@ graph LR
 
 ### Your Responsibilities
 
-⚠️ **You must:** - Accept permanent loss risk
+⚠️ **You must:**
+- Accept permanent loss risk
 - Not manipulate markets
 - Not coordinate signals illegally
 - Respect validation outcomes
@@ -294,11 +292,10 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 
 !!! tip "Level Up Your Signaling"
     1. **Track Everything** - Log all signals and outcomes
-    2. **Analyze Patterns** - Find what works for you
-    3. **Specialize** - Focus on domains you understand
-    4. **Network** - Learn from successful Echoes
-    5. **Stay Humble** - Markets can humble anyone
-
+**    2. **Analyze Patterns** - Find what works for you
+**    3. **Specialize** - Focus on domains you understand
+**    4. **Network** - Learn from successful Echoes
+**    5. **Stay Humble** - Markets can humble anyone
 ## Common Questions
 
 ### FAQ
@@ -327,7 +324,8 @@ A: Immediately after validation completes.
 
 ### Prohibited Behaviors
 
-❌ **Never:** - Coordinate signals in private groups
+❌ **Never:**
+- Coordinate signals in private groups
 - Spread false information to influence signals
 - Use insider information
 - Create fake accounts for signaling
@@ -368,11 +366,10 @@ A: Immediately after validation completes.
 ### Your First Signal
 
 1. **Start Small** - Use minimum stakes initially
-2. **Pick Carefully** - Choose milestones you understand
-3. **Document Why** - Write down your reasoning
-4. **Track Results** - Learn from every outcome
-5. **Adjust Strategy** - Refine based on results
-
+**2. **Pick Carefully** - Choose milestones you understand
+**3. **Document Why** - Write down your reasoning
+**4. **Track Results** - Learn from every outcome
+**5. **Adjust Strategy** - Refine based on results
 ## Next Steps
 
 - Explore the [Three-NFT System](nft-system.md) for ownership mechanics

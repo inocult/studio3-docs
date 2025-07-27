@@ -208,9 +208,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <h3>📱 Omnichannel Influence</h3>
 
-**Platform Strategy:**
-
-**Discord (Daily)**
+**Platform Strategy:** Discord (Daily)
 - Active helpful presence
 - Quick insights
 - Real-time support
@@ -567,7 +565,6 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 **Year 3:** Lead initiatives
 **Year 4:** Shape ecosystem
 **Year 5:** Create legacy
-
 **Ultimate Impact:**
 - Thousands helped
 - Ecosystem improved

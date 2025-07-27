@@ -69,27 +69,11 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 ## 🎯 Who Should Read This Guide?
 
-- **🚀 Entrepreneurs
-
-- * ready to build in public
-* **👥 Founding Teams
-
-* * preparing to launch
-
-* **🔄 Serial Builders
-
-* * exploring Studio3
-
-* **💡 Innovators
-
-* * with breakthrough ideas
-
-* **🏆 Ambitious Founders
-
-*
-
-* seeking sovereignty
-
+- **🚀 Entrepreneurs** ready to build in public
+- **👥 Founding Teams** preparing to launch
+- **🔄 Serial Builders** exploring Studio3
+- **💡 Innovators** with breakthrough ideas
+- **🏆 Ambitious Founders** seeking sovereignty
 ## 📄 Download Options
 
 <div class="download-section">
@@ -131,17 +115,11 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 Track your progress through key indicators:
 
-- **Phase Progression* 
-
-- Current lifecycle stage
-- **Belief Ratio* 
-- Support vs doubt signals
-- **Milestone Completion* 
-- On-time delivery rate
-- **Community Growth* 
-- Active supporter count
-- **XP Accumulation* 
-- Founder experience points
+- **Phase Progression** - Current lifecycle stage
+- **Belief Ratio** - Support vs doubt signals
+- **Milestone Completion** - On-time delivery rate
+- **Community Growth** - Active supporter count
+- **XP Accumulation** - Founder experience points
 
 ## 🌟 Featured Success Stories
 
@@ -151,14 +129,12 @@ Track your progress through key indicators:
 <h4>DataVault Journey</h4>
 From privacy idea to $500M acquisition in 18 months. Learn their strategies for rapid growth and community engagement.
 
-
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h4>EcoChain Pivot</h4>
 Successfully pivoted from carbon credits to supply chain transparency. Master the art of strategic direction changes.
-
 
 </div>
 </div>

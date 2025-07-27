@@ -39,12 +39,14 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 ### Day 2-3: Learn the Basics
 
-**Essential Reading:** - This Overview Guide (you're here!)
+**Essential Reading:**
+- This Overview Guide (you're here!)
 - Platform Terms of Service
 - Community Code of Conduct
 - Your role-specific guide
 
-**Watch and Learn:** - Observe 5 active ventures
+**Watch and Learn:**
+- Observe 5 active ventures
 - Read 10 milestone declarations
 - Study 5 validation reports
 - Note patterns of success
@@ -140,17 +142,20 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <h3>⚡ Pre-Launch Checklist</h3>
 
-**Technical Ready:** - [ ] Wallet funded with $SIGNAL
+**Technical Ready:**
+- [ ] Wallet funded with $SIGNAL
 - [ ] Development environment set
 - [ ] Version control configured
 - [ ] Communication tools ready
 
-**Content Ready:** - [ ] Compelling venture story
+**Content Ready:**
+- [ ] Compelling venture story
 - [ ] Clear milestone plan
 - [ ] Evidence templates
 - [ ] FAQ prepared
 
-**Mental Ready:** - [ ] Prepared for public scrutiny
+**Mental Ready:**
+- [ ] Prepared for public scrutiny
 - [ ] Stress management plan
 - [ ] Support system in place
 - [ ] Failure contingencies
@@ -217,12 +222,14 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <h3>📈 Progressive Scaling</h3>
 
-**Signal Sizing:** - Week 1: 10-50 $SIGNAL per signal
-- Week 2: 50-100 $SIGNAL per signal  
+**Signal Sizing:**
+- Week 1: 10-50 $SIGNAL per signal
+- Week 2: 50-100 $SIGNAL per signal
 - Week 3: 100-500 $SIGNAL per signal
 - Week 4: Your comfort level
 
-**Portfolio Rules:** - Maximum 10% in one venture
+**Portfolio Rules:**
+- Maximum 10% in one venture
 - Minimum 5 active positions
 - Balance belief/doubt signals
 - Reserve 30% for opportunities
@@ -289,13 +296,15 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <h3>⚖️ Validation Excellence</h3>
 
-**Quality Standards:** - Thorough evidence review
+**Quality Standards:**
+- Thorough evidence review
 - Clear documentation
 - Constructive feedback
 - Timely completion
 - Fair judgment
 
-**Time Management:** - 2-4 hours per validation
+**Time Management:**
+- 2-4 hours per validation
 - 24-48 hour turnaround
 - Batch similar reviews
 - Avoid rush decisions
@@ -307,16 +316,11 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ### Universal Pitfalls
 
 !!! danger "Avoid These Errors"
-    - **Information Overload* 
-    - Trying to learn everything at once
-    - **Premature Big Moves* 
-    - Going all-in too early
-    - **Ignoring Community* 
-    - Working in isolation
-    - **Emotional Decisions* 
-    - Reacting vs responding
-    - **Poor Time Management* 
-    - Overcommitting early
+    - **Information Overload** - Trying to learn everything at once
+    - **Premature Big Moves** - Going all-in too early
+    - **Ignoring Community** - Working in isolation
+    - **Emotional Decisions** - Reacting vs responding
+    - **Poor Time Management** - Overcommitting early
 
 ### Role-Specific Warnings
 
@@ -436,12 +440,10 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ### Essential Tools
 
 - **Wallet**: MetaMask or compatible
-
 - **Analytics**: Platform dashboard
 - **Communication**: Discord, Twitter
 - **Documentation**: Notion or similar
 - **Time Tracking**: Toggle or similar
-
 ### Learning Resources
 
 - **Official Docs**: Always up-to-date
@@ -449,17 +451,15 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - **Video Tutorials**: Visual learning
 - **Office Hours**: Live Q&A sessions
 - **Mentor Matching**: 1-on-1 guidance
-
 ## Getting Unstuck
 
 ### When You Feel Overwhelmed
 
 1. **Pause and breathe** - It's a marathon, not sprint
-2. **Return to basics** - Review fundamental concepts
-3. **Ask for help** - Community is supportive
-4. **Reduce scope** - Focus on fewer things
-5. **Take breaks** - Prevent burnout
-
+**2. **Return to basics** - Review fundamental concepts
+**3. **Ask for help** - Community is supportive
+**4. **Reduce scope** - Focus on fewer things
+**5. **Take breaks** - Prevent burnout
 ### Finding Support
 
 <div class="grid">
@@ -530,9 +530,8 @@ You'll know you've successfully completed your first steps when:
 Congratulations on taking your first steps! Continue your journey:
 
 1. **Dive deeper** into your role-specific guide
-2. **Access resources** in [Resources & Support](resources.md)
-3. **Execute daily** on your action plan
-4. **Engage actively** with the community
-5. **Track progress** and iterate
-
+**2. **Access resources** in [Resources & Support](resources.md)
+**3. **Execute daily** on your action plan
+**4. **Engage actively** with the community
+**5. **Track progress** and iterate
 Remember: Everyone started where you are now. Stay consistent, stay engaged, and trust the process. Your Studio3 journey has officially begun! 🚀

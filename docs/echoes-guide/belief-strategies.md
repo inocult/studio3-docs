@@ -23,9 +23,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 - Early bonus: Up to +1.0x
 - Reputation bonus: Up to +0.5x
 - Phase bonus: Up to +0.5x
-- **Maximum possible: 4.0x**
-
-**Success Requirements:**
+- **Maximum possible: 4.0x** Success Requirements:
 - Milestone achieved
 - Validation passed
 - No major delays
@@ -69,7 +67,6 @@ Successful belief signaling requires more than optimism - it demands strategic t
 **E** - Economic model
 **V** - Venture momentum
 **E** - Exit potential
-
 Score each 1-10, belief threshold: 56/70
 
 </div>
@@ -85,21 +82,15 @@ Score each 1-10, belief threshold: 56/70
 - Clear market need
 - Working product
 - Conservative milestone
-- **Stake: 5% of bankroll**
-
-**High Conviction (75-90%)**
+- **Stake: 5% of bankroll** High Conviction (75-90%)
 - Strong indicators
 - Some uncertainties
 - Good risk/reward
-- **Stake: 3% of bankroll**
-
-**Moderate Conviction (60-75%)**
+- **Stake: 3% of bankroll** Moderate Conviction (60-75%)
 - Balanced outlook
 - Normal risks
 - Standard play
-- **Stake: 2% of bankroll**
-
-**Low Conviction (50-60%)**
+- **Stake: 2% of bankroll** Low Conviction (50-60%)
 - Marginal belief
 - High uncertainty
 - Small position
@@ -201,19 +192,19 @@ Score each 1-10, belief threshold: 56/70
 
 **Historically Strong:**
 1. **Infrastructure** (75% success)
-   - Developer tools
+**   - Developer tools**
    - Security solutions
    - Performance optimization
    - Integration platforms
 
 2. **B2B SaaS** (70% success)
-   - Clear ROI
+**   - Clear ROI**
    - Recurring revenue
    - Sticky products
    - Enterprise focus
 
 3. **DeFi Protocols** (65% success)
-   - Proven models
+**   - Proven models**
    - Audit requirements
    - Community need
    - Revenue generation
@@ -347,17 +338,17 @@ Experimental: 5% (Learning/lottery)
 
 **Laddering Strategy:**
 1. **Initial Position** (25%)
-   - Test the waters
+**   - Test the waters**
    - Verify thesis
    - Build confidence
 
 2. **Progress Position** (35%)
-   - Add on evidence
+**   - Add on evidence**
    - Momentum confirmation
    - Increase exposure
 
 3. **Confidence Position** (40%)
-   - Final addition
+**   - Final addition**
    - High conviction
    - Maximize returns
 
@@ -392,7 +383,6 @@ Experimental: 5% (Learning/lottery)
 - Pivot discussions
 
 **Note:** No actual exit possible, but stop promoting/supporting
-
 </div>
 
 ### Psychological Management

@@ -28,11 +28,10 @@ Echo Networks are organized groups of Echoes who collaborate to:
 
 **Network Types:**
 1. **Research Collectives** - Deep analysis focus
-2. **Signal Syndicates** - Coordinated investments
-3. **Sector Specialists** - Domain expertise
-4. **Regional Groups** - Geographic focus
-5. **Strategy Circles** - Method alignment
-
+**2. **Signal Syndicates** - Coordinated investments
+**3. **Sector Specialists** - Domain expertise
+**4. **Regional Groups** - Geographic focus
+**5. **Strategy Circles** - Method alignment
 **Key Principle:**
 The whole becomes greater than the sum of its parts
 

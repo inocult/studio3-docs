@@ -69,26 +69,14 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 ## 🎯 Who Should Read This Guide?
 
-- **🏆 Experienced Builders
+- **🏆 Experienced Builders** with proven track records
+- **👨‍🏫 Mentors** wanting to guide ventures
 
-- * with proven track records
-* **👨‍🏫 Mentors
+- **🛡️ Quality Guardians** ensuring standards
 
-* * wanting to guide ventures
+- **⚖️ Fair Judges** of venture progress
 
-* **🛡️ Quality Guardians
-
-* * ensuring standards
-
-* **⚖️ Fair Judges
-
-* * of venture progress
-
-* **🌟 Ecosystem Leaders
-
-*
-
-* shaping Studio3's future
+- **🌟 Ecosystem Leaders** shaping Studio3's future
 
 ## 📄 Download Options
 
@@ -173,11 +161,10 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 
 !!! info "Anchor Rewards"
     - **Base Fee**: 2-5% of milestone value
-    - **Performance Bonus**: Up to 3x for quality
-    - **Long-term Upside**: Success participation
-    - **Reputation Rewards**: Increased influence
-    - **Governance Rights**: Shape platform future
-
+**    - **Performance Bonus**: Up to 3x for quality
+**    - **Long-term Upside**: Success participation
+**    - **Reputation Rewards**: Increased influence
+**    - **Governance Rights**: Shape platform future
 ## 🌟 Notable Anchors
 
 <div class="grid">
@@ -186,14 +173,12 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 <h4>The Architect</h4>
 Master Anchor who guided 12 ventures to Ascension, specializing in technical architecture and scalability.
 
-
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h4>The Strategist</h4>
 Council Member known for helping ventures navigate difficult pivots and find product-market fit.
-
 
 </div>
 </div>

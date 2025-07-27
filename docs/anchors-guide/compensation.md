@@ -196,9 +196,7 @@ monthly_excellence_bonus = {
 
 <h3>⏱️ Speed and Scale Bonuses</h3>
 
-**Velocity Incentives:**
-
-**Fast Turnaround Bonus:**
+**Velocity Incentives:** Fast Turnaround Bonus:
 - Same day: +30%
 - Next day: +20%
 - 2 days: +10%
@@ -228,9 +226,7 @@ monthly_excellence_bonus = {
 
 <h3>🤝 Teaching and Guiding</h3>
 
-**Mentorship Compensation:**
-
-**Formal Mentoring:**
+**Mentorship Compensation:** Formal Mentoring:
 - Junior Anchor mentor: $500/month per mentee
 - Group sessions: $200/hour
 - Training workshops: $500/session
@@ -284,9 +280,7 @@ Compensation: $500-1,000/month
 
 <h3>🎯 High-Level Consulting</h3>
 
-**Advisory Opportunities:**
-
-**Venture Advisory:**
+**Advisory Opportunities:** Venture Advisory:
 - Strategic guidance: $500-1,500/hour
 - Board advisory: $2,000-5,000/month
 - Crisis intervention: $5,000-10,000/project
@@ -393,9 +387,7 @@ career_earnings = {
 
 <h3>🎯 Token Value Maximization</h3>
 
-**Token Management Best Practices:**
-
-**Earning Strategies:**
+**Token Management Best Practices:** Earning Strategies:
 - Focus on high-value validations
 - Maintain perfect accuracy
 - Build streak bonuses
@@ -428,9 +420,7 @@ Decision Framework:
 
 <h3>🏊 Advanced Token Strategies</h3>
 
-**DeFi Integration:**
-
-**Liquidity Provision:**
+**DeFi Integration:** Liquidity Provision:
 - Provide $SIGNAL liquidity
 - Earn trading fees
 - Receive LP rewards
@@ -458,9 +448,7 @@ Decision Framework:
 
 <h3>🎁 Beyond Direct Compensation</h3>
 
-**Included Benefits:**
-
-**Professional Development:**
+**Included Benefits:** Professional Development:
 - Free training courses
 - Conference attendance
 - Certification support
@@ -488,9 +476,7 @@ Decision Framework:
 
 <h3>🚀 Growth Resources</h3>
 
-**Career Development:**
-
-**Advancement Support:**
+**Career Development:** Advancement Support:
 - Performance coaching
 - Leadership training
 - Skill assessments
@@ -521,9 +507,7 @@ Decision Framework:
 
 <h3>📊 Tax Optimization</h3>
 
-**Tax Planning Strategies:**
-
-**Income Classification:**
+**Tax Planning Strategies:** Income Classification:
 - Validation fees: Business income
 - Token rewards: Capital gains/income
 - Mentorship: Service income

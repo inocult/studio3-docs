@@ -19,14 +19,13 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 <h3>🏰 Systematic Analysis</h3>
 
 **F** - Founder Assessment
-**O** - Opportunity Analysis  
+**O** - Opportunity Analysis
 **R** - Risk Evaluation
 **T** - Technical Feasibility
 **R** - Roadmap Review
 **E** - Execution Track Record
 **S** - Signal Analysis
 **S** - Sustainability Check
-
 Each element scored 1-10, minimum 56/80 for positive signal.
 
 </div>

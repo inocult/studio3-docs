@@ -18,12 +18,9 @@ Effective token management separates successful Echoes from those who burn out q
 
 <h3>🏦 Initial Setup</h3>
 
-**Recommended Starting Amounts:**
-- **Beginner:** 500-1,000 $SIGNAL
-- **Intermediate:** 2,000-5,000 $SIGNAL
-- **Advanced:** 10,000+ $SIGNAL
-
-**Capital Allocation:**
+**Recommended Starting Amounts:** Beginner:** 500-1,000 $SIGNAL**
+- **Intermediate:** Advanced:
+- ** Capital Allocation:**
 - 80% for signals
 - 15% for gas fees
 - 5% emergency reserve
@@ -113,7 +110,6 @@ q = probability of failure (1 - p)
 - 2x multiplier
 - Kelly suggests: 40% of bankroll
 - **Use 1/4 Kelly:** 10% max
-
 **Position Size Matrix:**
 | Confidence | Multiplier | Max Stake |
 |------------|-----------|-----------|
@@ -203,12 +199,8 @@ Net Result: ___
 
 <h3>📈 Compound Growth</h3>
 
-**The 50/30/20 Rule:**
-- **50% Reinvest:** Back into signals
-- **30% Reserve:** Build safety net
-- **20% Profit:** Take off table
-
-**Growth Phases:**
+**The 50/30/20 Rule:** 50% Reinvest:** Back into signals**
+- **30% Reserve:** 20% Profit: Growth Phases:**
 1. **Building (0-6 months)**
    - 80% reinvest
    - 20% reserve
@@ -262,12 +254,10 @@ Net Result: ___
 
 **After Major Loss:**
 1. **Take a Break** (24-48 hours)
-2. **Analyze What Happened**
+**2. **Analyze What Happened
 3. **Reduce Position Sizes** (50%)
-4. **Focus on High-Confidence**
-5. **Rebuild Gradually**
-
-**Recovery Timeline:**
+**4. **Focus on High-Confidence
+5. **Rebuild Gradually** Recovery Timeline:
 - Week 1: Half stakes
 - Week 2-3: 75% stakes
 - Week 4+: Normal if profitable
@@ -352,14 +342,10 @@ Net Result: ___
 
 <h3>📊 Monitor Success</h3>
 
-**Essential Tracking:**
-- **ROI:** (Current - Initial) / Initial
-- **Win Rate:** Successful / Total Signals
-- **Average Return:** Total Return / Signal Count
-- **Sharpe Ratio:** Return / Risk
-- **Maximum Drawdown:** Largest % decline
-
-**Monthly Review:**
+**Essential Tracking:** ROI:** (Current - Initial) / Initial**
+- **Win Rate:** Average Return:
+- **Sharpe Ratio:** Maximum Drawdown:
+- ** Monthly Review:**
 ```
 Signals Made: ___
 Success Rate: ___%

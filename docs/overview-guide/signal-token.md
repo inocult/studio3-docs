@@ -11,16 +11,12 @@ The $SIGNAL token is the lifeblood of Studio3's ecosystem, transforming belief i
 ### 📡 $SIGNAL Essentials
 
 **Utility Token Properties:**
-
 - **Purpose**: Express belief or doubt in venture milestones
-
 - **Type**: Utility token for platform participation
 - **Supply**: Fixed maximum with deflationary mechanics
 - **Distribution**: Fair launch with no pre-mine
 - **Governance**: Future DAO voting rights
-
 **What $SIGNAL is NOT:**
-
 - ❌ Not a security or investment contract
 
 - ❌ Not a gambling or betting token
@@ -175,23 +171,18 @@ graph TD
 
 **Permanent Burns Occur When:**
 
-1. **Wrong Signals* 
+1. **Wrong Signals**
 - 100% of stake burned
 2. **Failed Milestones** - All belief signals burned
-3. **Abandoned Ventures** - Founder stakes burned
-4. **Penalty Violations** - Bad behavior fines
-5. **Expired Options** - Unused allocations
-
+**3. **Abandoned Ventures** - Founder stakes burned
+**4. **Penalty Violations** - Bad behavior fines
+**5. **Expired Options** - Unused allocations
 **Burn Impact:**
-
 - **Supply Reduction**: Permanently removes tokens from circulation
-
 - **Scarcity Increase**: Remaining tokens become more valuable
 - **Holder Benefit**: All token holders benefit from reduced supply
 - **Deflationary Pressure**: Creates natural price support
-
 **Example**: If 1% of supply burns, remaining tokens gain ~1% in scarcity value
-
 ## Token Velocity
 
 ### Circulation Dynamics
@@ -242,14 +233,12 @@ graph LR
 ### 🗿️ Governance Powers
 
 **Voting Weight Calculation:**
-
 - Held tokens: 1.0x weight
 
 - Staked tokens: 1.5x weight  
 - Reputation bonus: +0.1x per 1000 XP
 
 **Governance Decisions Include:**
-
 - Platform parameter adjustments
 
 - Fee structure modifications
@@ -259,7 +248,6 @@ graph LR
 - Anchor Council elections
 
 **Proposal Requirements:**
-
 - Minimum 10,000 $SIGNAL to propose
 
 - 48-hour discussion period
@@ -327,7 +315,6 @@ graph LR
 ### 🌐 Ecosystem Integration
 
 **Native Platform:**
-
 - Studio3 Arena signaling
 
 - Reputation staking
@@ -335,7 +322,6 @@ graph LR
 - Premium features
 
 **Partner Integrations:**
-
 - DEX trading pairs
 
 - Lending collateral
@@ -343,7 +329,6 @@ graph LR
 - Cross-chain bridges
 
 **Future Integrations:**
-
 - Sub-studio currencies
 - Partner platform utility
 - NFT marketplace currency
@@ -354,18 +339,14 @@ graph LR
 ### Key Performance Indicators
 
 **Current Token Metrics (Example):**
-
 - **Circulating Supply**: 45,000,000 $SIGNAL
-
 - **Total Burned**: 5,000,000 $SIGNAL
 - **Average Daily Volume**: 2,500,000 $SIGNAL
 - **Unique Holders**: 15,000 addresses
 - **Staking Percentage**: 35%
 - **Velocity Ratio**: 0.12
 - **Monthly Burn Rate**: 2%
-
 **Health Score**: 8.5/10 - Healthy ecosystem
-
 ## Future Developments
 
 ### Roadmap Items
@@ -373,26 +354,22 @@ graph LR
 !!! tip "Upcoming Token Features"
     
     **Q1 2025:**
-    
 - Cross-chain bridges
     - Enhanced staking options
     - Governance V2 launch
     
     **Q2 2025:**
-    
 - Conditional signal tokens
     
 - Reputation NFT integration
     - Yield optimization
     
     **Q3 2025:**
-    
 - Sub-studio token framework
     - Advanced DeFi integrations
     - Mobile wallet support
     
     **Q4 2025:**
-    
 - Full DAO transition
     
 - Treasury diversification
@@ -422,20 +399,18 @@ A: Yes, through reputation staking and liquidity provision.
 ### Getting Started with $SIGNAL
 
 1. **Acquire Initial Tokens** - Start small to learn
-2. **Practice Signaling** - Low stakes initially
-3. **Build Reputation** - Stake for XP boost
-4. **Diversify Usage** - Try different features
-5. **Participate in Governance** - Shape the future
-
+**2. **Practice Signaling** - Low stakes initially
+**3. **Build Reputation** - Stake for XP boost
+**4. **Diversify Usage** - Try different features
+**5. **Participate in Governance** - Shape the future
 ## Risk Disclosure
 
 !!! danger "Important Risks"
     - **Total Loss Possible**: Wrong signals burn 100%
-    - **No Guarantees**: Utility token, not investment
-    - **Volatility**: Price can fluctuate significantly
-    - **Smart Contract Risk**: Despite audits, bugs possible
-    - **Regulatory Risk**: Token laws evolving globally
-
+**    - **No Guarantees**: Utility token, not investment
+**    - **Volatility**: Price can fluctuate significantly
+**    - **Smart Contract Risk**: Despite audits, bugs possible
+**    - **Regulatory Risk**: Token laws evolving globally
 ## Next Steps
 
 - Learn [Belief & Doubt Signals](belief-signals.md) mechanics

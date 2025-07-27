@@ -20,9 +20,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         - Contains remixed IP metadata
 
-
         - Tradeable and collectible
-
 
         - Required for Forge entry
 
@@ -39,9 +37,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         - Updates with each milestone
 
-
         - Records all signals received
-
 
         - Becomes more valuable over time
 
@@ -58,9 +54,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         - Locked until Ascension
 
-
         - Non-transferable honor
-
 
         - Unlocks sovereign rights
 
@@ -88,17 +82,14 @@ graph TD
 
 !!! info "Spark NFT Details"
     **Purpose:** Creation:
-    Utility:
-    **Trading:
-
+**    Utility:** Trading:
 ### Creation Process
 
 1. **Browse Flambette** - Explore available IP-NFTs
-2. **Select Components** - Choose 2-5 IPs to combine
-3. **Define Synthesis** - Explain how they connect
-4. **Mint Spark** - Pay minting fee, receive NFT
-5. **Enter Arena** - Use Spark to launch venture
-
+**2. **Select Components** - Choose 2-5 IPs to combine
+**3. **Define Synthesis** - Explain how they connect
+**4. **Mint Spark** - Pay minting fee, receive NFT
+**5. **Enter Arena** - Use Spark to launch venture
 ### Spark Metadata
 
 ```json
@@ -132,9 +123,7 @@ graph TD
 
 !!! info "Signal NFT Details"
     **Purpose:** Creation:
-    Utility:
-    **Updates:
-
+**    Utility:** Updates:
 ### Dynamic Properties
 
 <div class="arena-card" markdown="1">
@@ -195,9 +184,7 @@ The Signal NFT's appearance changes based on:
 
 !!! info "Halo NFT Details"
     **Purpose:** Creation:
-    Utility:
-    **Transfer:
-
+**    Utility:** Transfer:
 ### Sovereignty Rights
 
 The Halo NFT unlocks:
@@ -269,8 +256,6 @@ When all three NFTs are united in one wallet:
 
 - 📡 <strong>Signal</strong> shows the journey
 
-
-
 - 🛡️ <strong>Halo</strong> proves the achievement<strong>Result:</strong> Complete sovereignty over the venture's future
 
 </div>
@@ -302,10 +287,9 @@ graph LR
 
 !!! tip "Trading Strategies"
     - **Spark Trading**: Buy promising ideas early
-    - **Signal Watching**: Track rising ventures
-    - **Halo Hunting**: Identify near-graduation ventures
-    - **Trinity Collecting**: Acquire complete sets
-
+**    - **Signal Watching**: Track rising ventures
+**    - **Halo Hunting**: Identify near-graduation ventures
+**    - **Trinity Collecting**: Acquire complete sets
 ## Technical Implementation
 
 ### Smart Contract Architecture
@@ -366,19 +350,19 @@ All NFTs follow extended ERC-721 with:
 
 ### NFT FAQ
 
-**Q: Can I sell my Signal NFT during the journey?**  
+**Q: Can I sell my Signal NFT during the journey?**
 A: Yes, but it transfers all governance rights and future claims.
 
-**Q: What happens to NFTs if a venture fails?**  
+**Q: What happens to NFTs if a venture fails?**
 A: Spark remains tradeable, Signal stops updating, Halo stays locked.
 
-**Q: Can multiple Sparks be combined?**  
+**Q: Can multiple Sparks be combined?**
 A: Not directly, but you can reference multiple Sparks in proposals.
 
-**Q: Are NFTs required to participate as an Echo?**  
+**Q: Are NFTs required to participate as an Echo?**
 A: No, only Founders need NFTs. Echoes only need $SIGNAL tokens.
 
-**Q: Can NFTs be used as collateral?**  
+**Q: Can NFTs be used as collateral?**
 A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
 
 ## Success Stories
@@ -403,10 +387,9 @@ A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
 ### Your NFT Journey
 
 1. **As a Creator**: Start on Flambette, mint your Spark
-2. **As a Founder**: Win the Forge, earn your Signal
-3. **As a Collector**: Trade Sparks, watch Signals
-4. **As a Builder**: Work toward your Halo
-
+**2. **As a Founder**: Win the Forge, earn your Signal
+**3. **As a Collector**: Trade Sparks, watch Signals
+**4. **As a Builder**: Work toward your Halo
 ## Next Steps
 
 - Explore [Seven Phase Lifecycle](seven-phases.md) to understand the journey

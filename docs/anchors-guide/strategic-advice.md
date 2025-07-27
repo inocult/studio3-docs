@@ -94,9 +94,7 @@ graph TD
 
 <h3>📊 Understanding Market Dynamics</h3>
 
-**Market Assessment Framework:**
-
-**TAM/SAM/SOM Analysis**
+**Market Assessment Framework:** TAM/SAM/SOM Analysis
 ```
 TAM (Total Addressable Market)
 ├── SAM (Serviceable Addressable Market)
@@ -127,9 +125,7 @@ TAM (Total Addressable Market)
 
 <h3>⚔️ Winning in the Market</h3>
 
-**Porter's Five Forces Applied:**
-
-**1. Competitive Rivalry**
+**Porter's Five Forces Applied:** 1. Competitive Rivalry
 - Current competitors
 - Intensity factors
 - Differentiation opportunities
@@ -167,9 +163,7 @@ TAM (Total Addressable Market)
 
 <h3>🎯 Finding Your Space</h3>
 
-**Positioning Framework:**
-
-**Value Proposition Canvas:**
+**Positioning Framework:** Value Proposition Canvas:
 ```
 Customer Jobs → Products/Services
 Pain Points → Pain Relievers  
@@ -205,9 +199,7 @@ Desired Gains → Gain Creators
 
 <h3>💰 Designing Sustainable Models</h3>
 
-**Revenue Model Options:**
-
-**Transaction-Based**
+**Revenue Model Options:** Transaction-Based
 - One-time purchase
 - Pay-per-use
 - Commission/fees
@@ -279,9 +271,7 @@ Payback Period < 12 months
 
 <h3>🚀 Scaling Strategically</h3>
 
-**Growth Stages:**
-
-**Stage 1: Product-Market Fit**
+**Growth Stages:** Stage 1: Product-Market Fit
 - Problem validation
 - Solution refinement
 - Early adopters
@@ -340,9 +330,7 @@ Payback Period < 12 months
 
 <h3>💡 Staying Ahead</h3>
 
-**Innovation Horizons:**
-
-**Horizon 1: Core (70%)**
+**Innovation Horizons:** Horizon 1: Core (70%)
 - Current business
 - Incremental improvement
 - Optimization focus
@@ -375,9 +363,7 @@ Payback Period < 12 months
 
 <h3>🔧 Technical Strategic Decisions</h3>
 
-**Technology Choices:**
-
-**Build vs Buy vs Partner**
+**Technology Choices:** Build vs Buy vs Partner
 ```
 Build When:
 - Core differentiator
@@ -414,9 +400,7 @@ Partner When:
 
 <h3>👥 Building for Scale</h3>
 
-**Organizational Evolution:**
-
-**Founder-Led (1-10)**
+**Organizational Evolution:** Founder-Led (1-10)
 - Flat structure
 - Direct communication
 - Rapid decisions
@@ -483,9 +467,7 @@ Partner When:
 
 <h3>💵 Capital Planning</h3>
 
-**Funding Options Analysis:**
-
-**Bootstrapping**
+**Funding Options Analysis:** Bootstrapping
 - Full control
 - Slow growth
 - Customer funded
@@ -524,9 +506,7 @@ Partner When:
 
 <h3>🎯 Planning the Endgame</h3>
 
-**Exit Options:**
-
-**Acquisition**
+**Exit Options:** Acquisition
 - Strategic buyers
 - Financial buyers
 - Competitor consolidation
@@ -567,9 +547,7 @@ Partner When:
 
 <h3>⚠️ Strategic Risk Management</h3>
 
-**Risk Categories:**
-
-**Market Risks**
+**Risk Categories:** Market Risks
 - Demand disappearance
 - Competition intensity
 - Technology disruption
@@ -604,9 +582,7 @@ Partner When:
 
 <h3>📊 Strategic Alignment</h3>
 
-**Communication Framework:**
-
-**Strategic Updates**
+**Communication Framework:** Strategic Updates
 - Market dynamics
 - Competitive position
 - Progress metrics
@@ -638,15 +614,10 @@ Partner When:
 <h3>🛠️ Strategic Toolbox</h3>
 
 **Essential Frameworks:**
-1. **SWOT Analysis**
-2. **Value Chain Analysis**
-3. **BCG Matrix**
-4. **Ansoff Matrix**
-5. **Blue Ocean Strategy**
-6. **Jobs-to-be-Done**
-7. **OKR Planning**
-
-**When to Use Each:**
+1. **SWOT Analysis**: 2. Value Chain Analysis**
+3. **BCG Matrix**: 4. Ansoff Matrix**
+5. **Blue Ocean Strategy**: 6. Jobs-to-be-Done**
+7. **OKR Planning** When to Use Each:
 - SWOT: Initial assessment
 - Value Chain: Efficiency
 - BCG: Portfolio decisions

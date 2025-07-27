@@ -13,7 +13,6 @@
 
 New to Studio3? Get the essence of our platform in just 5 minutes with our Quickstart guide.
 
-
 <div class="card-actions">
 <a href="quickstart/" class="md-button md-button--primary">Start Here</a>
 <a href="pdf/studio3-quickstart.pdf" class="md-button">Download PDF</a>
@@ -105,33 +104,12 @@ Essential handbook for validators who guide ventures and maintain ecosystem inte
 
 ## 🌟 The Studio3 Difference
 
-Studio3 transforms venture building through:
-
-- **🏟️ Public Arenas* 
-
-- All progress happens transparently
-- **📊 Belief Signals* 
-- Community conviction drives support  
-- **🎮 Seven Phases* 
-- From idea spark to full sovereignty
-- **🏆 Real Stakes* 
-- Success brings rewards, failure has consequences
-- **🤝 Community-Driven** - Collective intelligence guides development
-
+Studio3 transforms venture building through **🏟️ Public Arenas** where all progress happens transparently, **📊 Belief Signals** where community conviction drives support, and **🎮 Seven Phases** that guide ventures from idea spark to full sovereignty. With **🏆 Real Stakes**, success brings rewards while failure has consequences, all within a **🤝 Community-Driven** ecosystem where collective intelligence guides development.
 ## 📖 About These Guides
 
-Each guide is:
-
-- **Self-contained** - Everything you need in one place
-- **Role-specific** - Tailored to your journey
-- **Downloadable* 
-- Available as PDF for offline reading
-- **Regularly updated* 
-- Always current with platform changes
-
+Each guide is **self-contained** with everything you need in one place and **role-specific**, tailored to your journey. All guides are **downloadable** as PDFs for offline reading and **regularly updated** to stay current with platform changes.
 !!! tip "Choose Your Path"
     Not sure which guide to start with? The **Overview Guide** provides a complete introduction to help you decide your role in the Studio3 ecosystem.
-
 ---
 
 ## 📜 License

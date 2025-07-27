@@ -20,11 +20,10 @@ Building and managing a diversified signal portfolio is the key to long-term suc
 
 **Core Concepts:**
 1. **Diversification** - Spread risk across ventures
-2. **Correlation** - Avoid similar bets
-3. **Risk/Return** - Optimize the ratio
-4. **Rebalancing** - Maintain target allocation
-5. **Time Horizon** - Match strategy to goals
-
+**2. **Correlation** - Avoid similar bets
+**3. **Risk/Return** - Optimize the ratio
+**4. **Rebalancing** - Maintain target allocation
+**5. **Time Horizon** - Match strategy to goals
 **Signal Portfolio Differences:**
 - Binary outcomes (win/lose)
 - No partial exits
@@ -318,9 +317,7 @@ Strategic Doubt: 5%
 
 <h3>🎮 Active Portfolio Management</h3>
 
-**Market Conditions:**
-
-**Bull Market Adjustments:**
+**Market Conditions:** Bull Market Adjustments:
 - Increase growth allocation
 - Larger positions
 - Earlier phase focus

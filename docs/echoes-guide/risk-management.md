@@ -20,11 +20,10 @@ Risk management separates professional Echoes from gamblers. This comprehensive 
 
 **Unique Signal Risks:**
 1. **Binary Outcomes** - 100% loss possible
-2. **No Stop Losses** - Can't exit mid-signal
-3. **Time Decay** - Locked until milestone
-4. **Liquidity Risk** - Capital tied up
-5. **Correlation Risk** - Ventures may be connected
-
+**2. **No Stop Losses** - Can't exit mid-signal
+**3. **Time Decay** - Locked until milestone
+**4. **Liquidity Risk** - Capital tied up
+**5. **Correlation Risk** - Ventures may be connected
 **Systemic Risks:**
 - Market-wide downturns
 - Platform risks
@@ -195,9 +194,7 @@ Volatility: ___% (daily)
 
 <h3>📉 Drawdown Recovery Protocol</h3>
 
-**Drawdown Levels & Actions:**
-
-**Level 1: -10% Drawdown**
+**Drawdown Levels & Actions:** Level 1: -10% Drawdown
 - Review all positions
 - Check thesis validity
 - No new risky signals
@@ -258,11 +255,10 @@ Volatility: ___% (daily)
 
 **Diversification Dimensions:**
 1. **Venture Count:** 15-30 active signals
-2. **Phase Spread:** All 7 phases represented
-3. **Sector Mix:** 4+ different sectors
-4. **Time Spread:** Outcomes over 90+ days
-5. **Signal Types:** Both belief and doubt
-
+**2. **Phase Spread:** All 7 phases represented
+**3. **Sector Mix:** 4+ different sectors
+**4. **Time Spread:** Outcomes over 90+ days
+**5. **Signal Types:** Both belief and doubt
 **Correlation Matrix:**
 Track correlation between positions
 Maximum correlation coefficient: 0.3
@@ -343,11 +339,10 @@ Never ignore tail risks
 
 **Crisis Response Plan:**
 1. **Immediate:** Stop all new signals
-2. **Hour 1:** Assess total exposure
-3. **Day 1:** Document all positions
-4. **Week 1:** Create recovery plan
-5. **Month 1:** Execute carefully
-
+**2. **Hour 1:** Assess total exposure
+**3. **Day 1:** Document all positions
+**4. **Week 1:** Create recovery plan
+**5. **Month 1:** Execute carefully
 **Communication Plan:**
 - Inform stakeholders
 - Seek community support
@@ -556,7 +551,6 @@ Continuous education
 **Advanced:** Intuitive risk sense
 **Expert:** Teaching others
 **Master:** Innovation in risk
-
 **Timeline:**
 - Month 1-3: Learn rules
 - Month 4-12: Apply consistently

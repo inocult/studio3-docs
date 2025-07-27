@@ -70,11 +70,10 @@ graph LR
 
 **Flywheel Components:**
 1. **Achievement** → Confidence
-2. **Confidence** → Investment
-3. **Investment** → Capability
-4. **Capability** → Achievement
-5. **Repeat** → Acceleration
-
+**2. **Confidence** → Investment
+**3. **Investment** → Capability
+**4. **Capability** → Achievement
+**5. **Repeat** → Acceleration
 **Critical Mass Point:**
 - When momentum becomes self-sustaining
 - External push no longer needed
@@ -91,9 +90,7 @@ graph LR
 
 <h3>🏆 Stacking Small Victories
 
-**30-Day Quick Win Plan:**
-
-**Week 1: Foundation Wins**
+**30-Day Quick Win Plan:** Week 1: Foundation Wins
 ```markdown
 Day 1-2: Launch announcement
 - ✅ Website live
@@ -381,9 +378,7 @@ def prevent_momentum_stall():
 
 <h3>🔄 Restarting Stalled Momentum
 
-**Momentum Recovery Plan:**
-
-**Week 1: Diagnosis**
+**Momentum Recovery Plan:** Week 1: Diagnosis
 - Identify stall cause
 - Survey community
 - Analyze metrics
@@ -554,9 +549,7 @@ Individual Momentum
 
 <h3>📢 Broadcasting Acceleration
 
-**Communication Framework:**
-
-**Internal (Team):**
+**Communication Framework:** Internal (Team):
 - Real-time dashboards
 - Slack celebrations
 - Weekly win emails

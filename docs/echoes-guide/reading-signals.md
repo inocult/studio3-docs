@@ -18,14 +18,10 @@ Understanding what other Echoes are signaling - and why - provides crucial intel
 
 <h3>📈 Core Signal Metrics</h3>
 
-**Primary Indicators:**
-- **Total Pool Size** - Overall interest level
-- **Belief/Doubt Ratio** - Market sentiment
-- **Signal Velocity** - Momentum indicator
-- **Average Stake Size** - Confidence level
-- **Echo Distribution** - Who's signaling
-
-**Time-Based Metrics:**
+**Primary Indicators:** Total Pool Size** - Overall interest level**
+- **Belief/Doubt Ratio** Signal Velocity
+- **Average Stake Size** Echo Distribution
+- ** Time-Based Metrics:**
 - Signals per hour
 - Acceleration/deceleration
 - Peak activity times
@@ -252,18 +248,14 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <h3>⏰ Temporal Analysis</h3>
 
-**Daily Patterns:**
-- **Morning (9-12 EST)**: Institutional activity
+**Daily Patterns:** Morning (9-12 EST)**: Institutional activity
 - **Afternoon (12-5 EST)**: Retail participation
 - **Evening (5-9 EST)**: Research time
 - **Night (9-12 EST)**: Global players
-
-**Weekly Patterns:**
-- **Monday**: Cautious start
+**Weekly Patterns:** Monday**: Cautious start
 - **Tuesday-Thursday**: Peak activity
 - **Friday**: Position closing
 - **Weekend**: Research/planning
-
 </div>
 
 ## Signal Arbitrage
@@ -414,7 +406,7 @@ SV = (Belief% [now] - Belief%[1h ago]) / hour
 - Sentiment shifted
 - Smart money entered
 
-**Lesson:** 
+**Lesson:**
 Extreme doubt can reverse quickly with new information.
 
 </div>

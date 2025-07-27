@@ -16,26 +16,11 @@ Studio3 is a gamified venture building platform where entrepreneurs compete for 
 
 Imagine if building a startup was like playing a video game where:
 
-- You **level up
-
-- * through 7 phases (from idea to independence)
-* You earn **experience points
-
-* * (XP) for achievements
-
-* The **community votes
-
-* * with tokens on your success
-
-* Everything happens in **public view
-
-* * for accountability
-
-* **Real money and stakes
-
-*
-
-* make it serious, not just fun
+- You **level up** through 7 phases (from idea to independence)
+- You earn **experience points** (XP) for achievements
+- The **community votes** with tokens on your success
+- Everything happens in **public view** for accountability
+- **Real money and stakes** make it serious, not just fun
 
 ## 🏟️ The Arena Concept
 
@@ -45,26 +30,11 @@ Imagine if building a startup was like playing a video game where:
 
 Just like gladiators competed in ancient arenas:
 
-- **Ventures compete
-
-- * for support and resources
-* **Spectators place bets
-
-* * on who will succeed
-
-* **Performance is public* 
-
-- no hiding failures
-
-- **Winners earn glory
-
-* * (and funding)
-
-* **The crowd decides
-
-*
-
-* who deserves support
+- **Ventures compete** for support and resources
+- **Spectators place bets** on who will succeed
+- **Performance is public** - no hiding failures
+- **Winners earn glory** (and funding)
+- **The crowd decides** who deserves support
 
 </div>
 
@@ -94,26 +64,11 @@ Just like gladiators competed in ancient arenas:
 
 <h3>How Belief Becomes Real Support</h3>
 
-- **$SIGNAL
-
-- * tokens represent conviction
-* **Stake tokens
-
-* * to show belief (or doubt)
-
-* **Correct predictions
-
-* * multiply your tokens
-
-* **Wrong predictions
-
-* * burn your tokens
-
-* Creates **skin in the game
-
-*
-
-* for everyone
+- **$SIGNAL** tokens represent conviction
+- **Stake tokens** to show belief (or doubt)
+- **Correct predictions** multiply your tokens
+- **Wrong predictions** burn your tokens
+- Creates **skin in the game** for everyone
 
 </div>
 
@@ -128,7 +83,6 @@ Every venture follows the same path:
 5. **🛸 Orbit** - Achieve stable operations
 6. **🔥 Flare** - Scale with major funding
 7. **🎖️ Ascension** - Graduate to full independence
-
 ## 🎯 What Makes Studio3 Different?
 
 ### Traditional Venture Building
@@ -153,26 +107,11 @@ Every venture follows the same path:
 
 Studio3 solves real problems:
 
-- **Great ideas
-
-- * get funding regardless of founder's network
-* **Community wisdom
-
-* * catches problems early
-
-* **Public accountability
-
-* * reduces failure rates
-
-* **Aligned incentives
-
-* * mean everyone wins together
-
-* **Transparent process
-
-*
-
-* builds trust
+- **Great ideas** get funding regardless of founder's network
+- **Community wisdom** catches problems early
+- **Public accountability** reduces failure rates
+- **Aligned incentives** mean everyone wins together
+- **Transparent process** builds trust
 
 </div>
 
@@ -181,7 +120,6 @@ Studio3 solves real problems:
 We're building a world where:
 
 - Anyone can launch a venture based on merit
-
 - Communities collectively fund the future
 - Transparency replaces backroom deals
 - Success is shared, not hoarded
@@ -192,7 +130,6 @@ We're building a world where:
 Studio3 might be perfect if you:
 
 - Have a venture idea but lack traditional funding access
-
 - Want to support innovative projects and earn returns
 - Have expertise to guide and validate ventures
 - Believe in transparency and community-driven development

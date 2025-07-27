@@ -27,11 +27,10 @@ Identifying problems before they become crises is a critical Anchor skill. This 
 
 **Red Flag Categories:**
 1. **Critical** - Immediate action needed
-2. **Serious** - Close monitoring required
-3. **Concerning** - Investigation warranted
-4. **Minor** - Note and track
-5. **Potential** - Keep awareness
-
+**2. **Serious** - Close monitoring required
+**3. **Concerning** - Investigation warranted
+**4. **Minor** - Note and track
+**5. **Potential** - Keep awareness
 **Why Red Flags Matter:**
 - Enable early intervention
 - Prevent major failures
@@ -110,9 +109,7 @@ def calculate_all_users():
 
 <h3>🔒 Security Red Flags</h3>
 
-**Critical Security Issues:**
-
-**Authentication/Authorization**
+**Critical Security Issues:** Authentication/Authorization
 - Passwords in plain text
 - No rate limiting
 - Weak session management
@@ -213,9 +210,7 @@ Month 6: <20% (Major issue)
 
 <h3>💰 Financial Warning Signs</h3>
 
-**Cash Management Issues:**
-
-**Burn Rate Problems**
+**Cash Management Issues:** Burn Rate Problems
 ```python
 def calculate_runway_risk(cash, burn_rate, revenue_growth):
     runway_months = cash / burn_rate
@@ -278,9 +273,7 @@ def calculate_runway_risk(cash, burn_rate, revenue_growth):
 
 <h3>👥 Leadership Warning Signs</h3>
 
-**Founder Red Flags:**
-
-**Behavioral Issues:**
+**Founder Red Flags:** Behavioral Issues:
 - Defensive about feedback
 - Blaming others constantly
 - Avoiding hard decisions
@@ -465,9 +458,7 @@ Warning Signs Checklist:
 
 <h3>🚨 Taking Action</h3>
 
-**Response Framework:**
-
-**Level 1: Monitor**
+**Response Framework:** Level 1: Monitor
 - Note in records
 - Track progress
 - Set checkpoints

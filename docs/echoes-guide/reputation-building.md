@@ -20,11 +20,10 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 **Components:**
 1. **XP Score** - Quantified experience points
-2. **Accuracy Rate** - Historical performance
-3. **Community Standing** - Social reputation
-4. **Specializations** - Recognized expertise
-5. **Achievements** - Milestone markers
-
+**2. **Accuracy Rate** - Historical performance
+**3. **Community Standing** - Social reputation
+**4. **Specializations** - Recognized expertise
+**5. **Achievements** - Milestone markers
 **Why It Matters:**
 - Higher reward multipliers
 - Increased stake limits

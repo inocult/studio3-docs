@@ -27,11 +27,10 @@ Congratulations on winning your Forge Duel! Now it's time to establish your Cont
 
 **Key Benefits:**
 1. **No Equity Dilution** - Community participates without taking shares
-2. **Clear Governance** - Transparent decision-making
-3. **NFT Security** - All NFTs secured in Genesis Wallet
-4. **Flexibility** - Adapt governance as you grow
-5. **Exit Path** - Clear route to full sovereignty
-
+**2. **Clear Governance** - Transparent decision-making
+**3. **NFT Security** - All NFTs secured in Genesis Wallet
+**4. **Flexibility** - Adapt governance as you grow
+**5. **Exit Path** - Clear route to full sovereignty
 </div>
 
 ### The Genesis Wallet
@@ -145,11 +144,10 @@ def initialize_container_dao():
 
 **Decision Types:**
 1. **Operational** - Day-to-day (Founder discretion)
-2. **Strategic** - Major pivots (60% approval)
-3. **Financial** - Treasury use (70% approval)
-4. **Constitutional** - DAO changes (80% approval)
-5. **Emergency** - Crisis response (Founder + Platform)
-
+**2. **Strategic** - Major pivots (60% approval)
+**3. **Financial** - Treasury use (70% approval)
+**4. **Constitutional** - DAO changes (80% approval)
+**5. **Emergency** - Crisis response (Founder + Platform)
 </div>
 
 ### Proposal System
@@ -164,14 +162,10 @@ Idea → Draft → Review → Vote → Execute
  (1d)   (2d)    (1d)    (3d)    (1d)
 ```
 
-**Proposal Types:**
-- **Milestone Proposals** - Define next goals
-- **Budget Proposals** - Allocate resources
-- **Strategy Proposals** - Major decisions
-- **Emergency Proposals** - Fast-track critical
-- **Upgrade Proposals** - DAO improvements
-
-**Best Practices:**
+**Proposal Types:** Milestone Proposals** - Define next goals**
+- **Budget Proposals** Strategy Proposals
+- **Emergency Proposals** Upgrade Proposals
+- ** Best Practices:**
 - Clear problem statement
 - Specific solutions
 - Success metrics
@@ -225,11 +219,10 @@ Container DAO Treasury
 
 **Revenue Sources:**
 1. **Milestone Rewards** - Platform incentives
-2. **Echo Contributions** - Community investment
-3. **Service Revenue** - Customer payments
-4. **Partnership Income** - Strategic deals
-5. **Token Appreciation** - $SIGNAL value growth
-
+**2. **Echo Contributions** - Community investment
+**3. **Service Revenue** - Customer payments
+**4. **Partnership Income** - Strategic deals
+**5. **Token Appreciation** - $SIGNAL value growth
 **Revenue Allocation:**
 - 40% - Operations
 - 30% - Growth initiatives
@@ -246,9 +239,7 @@ Container DAO Treasury
 
 <h3>👥 Activating Your Community
 
-**Engagement Strategies:**
-
-**Communication Channels:**
+**Engagement Strategies:** Communication Channels:
 - Discord server setup
 - Telegram groups
 - Forum creation
@@ -269,13 +260,9 @@ def calculate_participation_rewards():
     return total_rewards
 ```
 
-**Community Roles:**
-- **Contributors** - Active participants
-- **Moderators** - Community managers
-- **Ambassadors** - External advocates
-- **Advisors** - Strategic guidance
-- **Validators** - Quality assurance
-
+**Community Roles:** Contributors** - Active participants**
+- **Moderators** Ambassadors
+- **Advisors** Validators
 </div>
 
 ### Echo Integration
@@ -308,9 +295,7 @@ def calculate_participation_rewards():
 
 <h3>🔄 From Founder-Led to Community-Driven
 
-**Decentralization Phases:**
-
-**Phase 1: Ignition (Months 1-6)**
+**Decentralization Phases:** Phase 1: Ignition (Months 1-6)
 - Founder control: 80%
 - Focus: Product building
 - Community: Advisory
@@ -345,11 +330,10 @@ def calculate_participation_rewards():
 
 **Control Mechanisms:**
 1. **Veto Rights** - On critical decisions
-2. **Golden Shares** - Special voting class
-3. **Time Locks** - Gradual transition
-4. **Buy-back Options** - Exit rights
-5. **Emergency Powers** - Crisis management
-
+**2. **Golden Shares** - Special voting class
+**3. **Time Locks** - Gradual transition
+**4. **Buy-back Options** - Exit rights
+**5. **Emergency Powers** - Crisis management
 **Balance Strategies:**
 - Clear communication
 - Transparent roadmap
@@ -376,11 +360,10 @@ def calculate_participation_rewards():
 
 **Common Structures:**
 1. **Wyoming DAO LLC** - US flexibility
-2. **Cayman Foundation** - International
-3. **Swiss Association** - European option
-4. **Singapore Structure** - Asian base
-5. **Hybrid Model** - Multi-jurisdiction
-
+**2. **Cayman Foundation** - International
+**3. **Swiss Association** - European option
+**4. **Singapore Structure** - Asian base
+**5. **Hybrid Model** - Multi-jurisdiction
 **Legal Checklist:**
 - [ ] Entity formation
 - [ ] Operating agreement

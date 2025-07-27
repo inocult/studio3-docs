@@ -100,9 +100,7 @@ echo_motivations = {
 
 <h3>🚀 Before You Need Them</h3>
 
-**Foundation Building:**
-
-**Week -4: Story Development**
+**Foundation Building:** Week -4: Story Development
 ```markdown
 Craft Your Narrative:
 - Problem clarity
@@ -141,9 +139,7 @@ Craft Your Narrative:
 
 <h3>💫 Making Your Debut</h3>
 
-**Launch Week Activities:**
-
-**Day 1: Announcement**
+**Launch Week Activities:** Day 1: Announcement
 ```javascript
 const launchStrategy = {
     morning: {
@@ -296,9 +292,7 @@ const launchStrategy = {
 
 <h3>🌐 Network Effects
 
-**Network Activation:**
-
-**Customer Acquisition**
+**Network Activation:** Customer Acquisition
 - Echo referral programs
 - Network introductions
 - Social amplification

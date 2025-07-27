@@ -23,9 +23,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 - Contrarian bonus: Up to +0.5x
 - Accuracy bonus: Up to +0.3x
 - Protection bonus: Up to +0.2x
-- **Maximum possible: 2.5x**
-
-**Success Conditions:**
+- **Maximum possible: 2.5x** Success Conditions:
 - Milestone failed
 - Major delays
 - Quality issues
@@ -76,7 +74,6 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 **T** - Timeline unrealistic
 **I** - Information missing
 **C** - Competition superior
-
 Score each 1-10, doubt threshold: 35/70
 
 </div>
@@ -92,21 +89,15 @@ Score each 1-10, doubt threshold: 35/70
 - Impossible claims
 - Team issues
 - No evidence
-- **Stake: 3% of bankroll**
-
-**High Doubt (75-90%)**
+- **Stake: 3% of bankroll** High Doubt (75-90%)
 - Multiple concerns
 - Weak fundamentals
 - Poor progress
-- **Stake: 2% of bankroll**
-
-**Moderate Doubt (60-75%)**
+- **Stake: 2% of bankroll** Moderate Doubt (60-75%)
 - Significant risks
 - Overvaluation
 - Execution questions
-- **Stake: 1.5% of bankroll**
-
-**Low Doubt (50-60%)**
+- **Stake: 1.5% of bankroll** Low Doubt (50-60%)
 - Some concerns
 - Worth flagging
 - Small position

@@ -13,41 +13,21 @@ In traditional venture building, progress happens behind closed doors. Studio3 f
 !!! quote "The Arena Principle"
     "In the Arena, there are no secrets - only execution."
 
-- **All milestones
+- **All milestones** are declared publicly
+- **All progress** is tracked transparently
 
-- * are declared publicly
-* **All progress
+- **All failures** are visible to everyone
 
-* * is tracked transparently
-
-* **All failures
-
-* * are visible to everyone
-
-* **All successes
-
-*
-
-* are celebrated openly
+- **All successes** are celebrated openly
 
 This radical transparency creates:
 
-- **Accountability
+- **Accountability** through public commitment
+- **Trust** through verifiable progress
 
-- * through public commitment
-* **Trust
+- **Learning** through shared experiences
 
-* * through verifiable progress
-
-* **Learning
-
-* * through shared experiences
-
-* **Speed
-
-*
-
-* through immediate feedback
+- **Speed** through immediate feedback
 
 ## 2. Belief as Currency
 
@@ -65,22 +45,12 @@ graph TD
     E --> G[Token Burn]
 ```
 
-**Key aspects:** - Belief must be **backed by tokens
- * *
- * Conviction carries **real risk
+**Key aspects:**
+- Belief must be **backed by tokens** * * Conviction carries **real risk** *
 
-* *
+* Accuracy builds **lasting reputation** *
 
-* Accuracy builds **lasting reputation
-
-* *
-
-* Mistakes have **permanent consequences
-
-*
-*
-
-## 3. Community Validation
+* Mistakes have **permanent consequences** ## 3. Community Validation
 
 ### The Crowd Decides
 
@@ -107,26 +77,14 @@ No single authority determines success. Instead:
 
 Venture building becomes a game with:
 
-- **Defined stages
+- **Defined stages** from Spark to Ascension
+- **Clear objectives** for each phase
 
-- * from Spark to Ascension
-* **Clear objectives
+- **Measurable progress** through milestones
 
-* * for each phase
+- **Tangible rewards** for achievement
 
-* **Measurable progress
-
-* * through milestones
-
-* **Tangible rewards
-
-* * for achievement
-
-* **Real penalties
-
-*
-
-* for failure
+- **Real penalties** for failure
 
 !!! info "Game Mechanics"
     Unlike traditional "gamification," Studio3's game has real stakes. Tokens are burned, reputations are built or destroyed, and ventures live or die based on performance.
@@ -150,22 +108,12 @@ The ecosystem aligns all participants:
 
 No gatekeepers, no applications, no committees:
 
-- **Any idea
+- **Any idea** can become a Spark
+- **Any founder** can enter the Forge
 
-- * can become a Spark
-* **Any founder
+- **Any supporter** can signal belief
 
-* * can enter the Forge
-
-* **Any supporter
-
-* * can signal belief
-
-* **Any expert
-
-*
-
-* can become an Anchor
+- **Any expert** can become an Anchor
 
 !!! warning "With Freedom Comes Responsibility"
     Permissionless doesn't mean consequence-free. Bad actors are naturally filtered out through token burns and reputation loss.
@@ -184,32 +132,21 @@ graph LR
 Ventures gradually gain independence:
 
 1. **Start** with platform support
-2. **Grow** with community governance
-3. **Mature** with increasing autonomy
-4. **Graduate** to full sovereignty
-
+**2. **Grow** with community governance
+**3. **Mature** with increasing autonomy
+**4. **Graduate** to full sovereignty
 ## 8. Failure as Feature
 
 ### Learning Through Loss
 
 Failure isn't hidden or minimized:
 
-- **Failed milestones
+- **Failed milestones** burn tokens permanently
+- **Failed ventures** become case studies
 
-- * burn tokens permanently
-* **Failed ventures
+- **Failed predictions** damage reputation
 
-* * become case studies
-
-* **Failed predictions
-
-* * damage reputation
-
-* **Failed strategies
-
-*
-
-* inform future attempts
+- **Failed strategies** inform future attempts
 
 !!! quote "The Failure Principle"
     "In Studio3, failure is expensive but educational. Every burned token teaches the ecosystem what doesn't work."
@@ -220,15 +157,10 @@ Failure isn't hidden or minimized:
 
 Reputation (XP) in Studio3:
 
-- **Cannot be bought* 
-
-- only earned
-- **Cannot be transferred* 
-- tied to identity
-- **Cannot be gamed* 
-- based on results
-- **Compounds over time* 
-- early success matters
+- **Cannot be bought** - only earned
+- **Cannot be transferred** - tied to identity
+- **Cannot be gamed** - based on results
+- **Compounds over time** - early success matters
 
 ## 10. Recursive Growth
 
@@ -237,10 +169,9 @@ Reputation (XP) in Studio3:
 The ecosystem is designed for exponential growth:
 
 1. **Successful ventures** graduate to sovereignty
-2. **Sovereign ventures** can launch sub-studios
-3. **Sub-studios** follow the same principles
-4. **Network effects** compound across levels
-
+**2. **Sovereign ventures** can launch sub-studios
+**3. **Sub-studios** follow the same principles
+**4. **Network effects** compound across levels
 ## Living These Principles
 
 ### Daily Practice
@@ -278,7 +209,6 @@ When OpenHealth hit technical challenges in Phase 3, they shared their struggles
 
 <strong>Result:</strong> Stronger product, loyal community, successful graduation
 
-
 </div>
 
 <div class="arena-card" markdown="1">
@@ -289,7 +219,6 @@ When OpenHealth hit technical challenges in Phase 3, they shared their struggles
 QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their detailed post-mortem became required reading for new founders.
 
 <strong>Result:</strong> Expensive lesson that improved ecosystem quality
-
 
 </div>
 
@@ -310,22 +239,12 @@ QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their det
 
 These principles evolve through:
 
-- **Community feedback
+- **Community feedback** shapes interpretation
+- **Edge cases** refine implementation
 
-- * shapes interpretation
-* **Edge cases
+- **Success patterns** inform best practices
 
-* * refine implementation
-
-* **Success patterns
-
-* * inform best practices
-
-* **Failure modes
-
-*
-
-* highlight necessary adjustments
+- **Failure modes** highlight necessary adjustments
 
 !!! info "Living Document"
     These principles are living guidelines, not rigid rules. They evolve as the ecosystem learns and grows.
@@ -335,10 +254,9 @@ These principles evolve through:
 ### Applying the Principles
 
 1. **Understand** how principles guide decisions
-2. **Observe** them in action in the Arena
-3. **Practice** applying them to your role
-4. **Share** experiences with the community
-
+**2. **Observe** them in action in the Arena
+**3. **Practice** applying them to your role
+**4. **Share** experiences with the community
 ## Related Reading
 
 - Dive into [The Arena System](arena-system.md) to see principles in practice

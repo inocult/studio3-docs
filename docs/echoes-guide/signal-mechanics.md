@@ -18,14 +18,10 @@ Understanding the mechanics behind signaling is crucial for maximizing returns a
 
 <h3>✅ Positive Conviction Mechanics</h3>
 
-**Technical Specifications:**
-- **Minimum Stake:** 10 $SIGNAL
-- **Maximum Stake:** Varies by phase and reputation
-- **Lock Period:** Until milestone completion
-- **Success Multiplier:** 1.5x - 3.0x
-- **Failure Result:** 100% burn
-
-**Multiplier Formula:**
+**Technical Specifications:** Minimum Stake:** 10 $SIGNAL**
+- **Maximum Stake:** Lock Period:
+- **Success Multiplier:** Failure Result:
+- ** Multiplier Formula:**
 ```
 Base Multiplier × Time Bonus × Reputation Modifier × Phase Factor
 ```
@@ -38,14 +34,10 @@ Base Multiplier × Time Bonus × Reputation Modifier × Phase Factor
 
 <h3>❌ Negative Conviction Mechanics</h3>
 
-**Technical Specifications:**
-- **Minimum Stake:** 10 $SIGNAL
-- **Maximum Stake:** 50% of belief pool
-- **Lock Period:** Until milestone completion
-- **Success Multiplier:** 1.2x - 2.0x
-- **Failure Result:** 100% burn
-
-**Multiplier Formula:**
+**Technical Specifications:** Minimum Stake:** 10 $SIGNAL**
+- **Maximum Stake:** Lock Period:
+- **Success Multiplier:** Failure Result:
+- ** Multiplier Formula:**
 ```
 Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor
 ```
@@ -215,26 +207,14 @@ Sentiment = (Belief - Doubt) / Total Pool
 
 <h3>⏰ Timing Your Signals</h3>
 
-**Early Stage (0-20% filled):**
-- **Pros:** Maximum multipliers, first-mover advantage
-- **Cons:** Limited information, higher risk
-- **Best for:** High conviction plays
-
-**Growth Stage (20-60% filled):**
-- **Pros:** Some validation, decent multipliers
-- **Cons:** Reduced upside, following crowd
-- **Best for:** Balanced approach
-
-**Late Stage (60-90% filled):**
-- **Pros:** Maximum information, lower risk
-- **Cons:** Minimal multipliers, limited upside
-- **Best for:** Safe plays
-
-**Final Stage (90-100% filled):**
-- **Pros:** Near-certain outcomes
-- **Cons:** Tiny returns, opportunity cost
-- **Best for:** Completionists
-
+**Early Stage (0-20% filled):** Pros:** Maximum multipliers, first-mover advantage**
+- **Cons:** Best for:
+- ** Growth Stage (20-60% filled):** Some validation, decent multipliers
+- **Cons:** Best for:
+- ** Late Stage (60-90% filled):** Maximum information, lower risk
+- **Cons:** Best for:
+- ** Final Stage (90-100% filled):** Near-certain outcomes
+- **Cons:** Best for:
 </div>
 
 ## Risk Calculations

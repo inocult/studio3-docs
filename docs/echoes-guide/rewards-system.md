@@ -20,11 +20,10 @@ Understanding how rewards work is essential for Echo success. This comprehensive
 
 **Primary Sources:**
 1. **Signal Rewards** - Correct predictions
-2. **Bonus Multipliers** - Enhanced returns
-3. **Streak Bonuses** - Consistency rewards
-4. **XP Benefits** - Reputation perks
-5. **Special Events** - Limited opportunities
-
+**2. **Bonus Multipliers** - Enhanced returns
+**3. **Streak Bonuses** - Consistency rewards
+**4. **XP Benefits** - Reputation perks
+**5. **Special Events** - Limited opportunities
 **Reward Formula:**
 ```
 Total Reward = Base Stake × Multiplier × Bonuses - Fees
@@ -48,14 +47,10 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 
 <h3>🏃 First Mover Advantages</h3>
 
-**Bonus Structure:**
-- **First 10 signals:** +50% multiplier
-- **Signals 11-50:** +30% multiplier
-- **Signals 51-200:** +15% multiplier
-- **Signals 201-500:** +5% multiplier
-- **After 500:** Base multiplier only
-
-**Example:**
+**Bonus Structure:** First 10 signals:** +50% multiplier**
+- **Signals 11-50:** Signals 51-200:
+- **Signals 201-500:** After 500:
+- ** Example:**
 - Base belief multiplier: 1.5x
 - You're signal #7: +50% bonus
 - Final multiplier: 2.25x
@@ -111,27 +106,27 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 **Phase Multipliers:**
 
 1. **Spark Phase** (Highest Risk)
-   - Base: 2.5x - 3.0x
+**   - Base: 2.5x - 3.0x**
    - Limited information
    - Maximum potential
 
 2. **Forge Phase** (High Risk)
-   - Base: 2.0x - 2.5x
+**   - Base: 2.0x - 2.5x**
    - Competition insights
    - Strong upside
 
 3. **Ignition Phase** (Moderate Risk)
-   - Base: 1.7x - 2.0x
+**   - Base: 1.7x - 2.0x**
    - MVP validation
    - Balanced returns
 
 4. **Drift Phase** (Lower Risk)
-   - Base: 1.5x - 1.7x
+**   - Base: 1.5x - 1.7x**
    - Market feedback
    - Steady gains
 
 5. **Later Phases** (Minimal Risk)
-   - Base: 1.2x - 1.5x
+**   - Base: 1.2x - 1.5x**
    - Proven execution
    - Safe returns
 

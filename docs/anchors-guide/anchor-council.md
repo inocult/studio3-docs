@@ -56,14 +56,10 @@ The Anchor Council represents the highest level of responsibility and influence 
 
 <h3>👥 Who Serves on the Council</h3>
 
-**Council Structure:**
-- **Size:** 9-15 members
-- **Composition:** Senior and Master Anchors
-- **Terms:** 12 months (renewable once)
-- **Leadership:** Rotating chair (quarterly)
-- **Diversity:** Required across domains/regions
-
-**Member Requirements:**
+**Council Structure:** Size:** 9-15 members**
+- **Composition:** Terms:
+- **Leadership:** Diversity:
+- ** Member Requirements:**
 - Master or Senior Anchor status
 - 18+ months active anchoring
 - 95%+ performance rating
@@ -88,9 +84,7 @@ The Anchor Council represents the highest level of responsibility and influence 
 
 <h3>📅 How the Council Functions</h3>
 
-**Regular Meetings:**
-
-**Weekly Operational (2 hours)**
+**Regular Meetings:** Weekly Operational (2 hours)
 ```
 Agenda Structure:
 1. Opening & Quorum (5 min)
@@ -127,9 +121,7 @@ Deep Dive Topics:
 
 <h3>⚖️ Council Governance Process</h3>
 
-**Decision Framework:**
-
-**Voting Requirements:**
+**Decision Framework:** Voting Requirements:
 | Decision Type | Quorum | Threshold |
 |--------------|--------|-----------|
 | Operational | 60% | Simple majority |
@@ -167,9 +159,7 @@ Deep Dive Topics:
 
 <h3>📏 Maintaining Excellence</h3>
 
-**Standards Oversight:**
-
-**Regular Review Cycle:**
+**Standards Oversight:** Regular Review Cycle:
 ```python
 def quarterly_standards_review():
     # Collect performance data
@@ -208,9 +198,7 @@ def quarterly_standards_review():
 
 <h3>⚖️ Final Appeals Authority</h3>
 
-**Dispute Handling Process:**
-
-**Case Acceptance Criteria:**
+**Dispute Handling Process:** Case Acceptance Criteria:
 - Significant precedent value
 - Systemic issues raised
 - Standard interpretation needed
@@ -251,9 +239,7 @@ def quarterly_standards_review():
 
 <h3>🌱 Nurturing Excellence</h3>
 
-**Development Programs:**
-
-**Training Oversight:**
+**Development Programs:** Training Oversight:
 - Curriculum design
 - Quality assurance
 - Instructor certification
@@ -294,9 +280,7 @@ Council Responsibilities:
 
 <h3>🔮 Shaping the Future</h3>
 
-**Strategic Planning Areas:**
-
-**5-Year Vision Development:**
+**Strategic Planning Areas:** 5-Year Vision Development:
 1. **Anchor Role Evolution**
    - Expanded responsibilities
    - New specializations
@@ -329,9 +313,7 @@ Council Responsibilities:
 
 <h3>💡 Driving Progress</h3>
 
-**Innovation Initiatives:**
-
-**Current Focus Areas:**
+**Innovation Initiatives:** Current Focus Areas:
 - AI-assisted validation
 - Automated quality checks
 - Predictive analytics
@@ -367,9 +349,7 @@ Council Responsibilities:
 
 <h3>👥 Specialized Teams</h3>
 
-**Standing Committees:**
-
-**1. Standards Committee**
+**Standing Committees:** 1. Standards Committee
 - Technical standards
 - Business criteria
 - Process requirements
@@ -405,9 +385,7 @@ Council Responsibilities:
 
 <h3>⚡ Rapid Response Teams</h3>
 
-**Ad Hoc Groups:**
-
-**Formation Triggers:**
+**Ad Hoc Groups:** Formation Triggers:
 - Crisis events
 - Major opportunities
 - Complex problems
@@ -438,9 +416,7 @@ Council Responsibilities:
 
 <h3>🎯 Your Journey to Council</h3>
 
-**Prerequisites:**
-
-**Performance Excellence:**
+**Prerequisites:** Performance Excellence:
 - 95%+ validation accuracy
 - <5% dispute rate
 - High founder satisfaction
@@ -469,9 +445,7 @@ Council Responsibilities:
 
 <h3>🏃 Running for Council</h3>
 
-**Campaign Timeline:**
-
-**6 Weeks Before Election:**
+**Campaign Timeline:** 6 Weeks Before Election:
 - Declare candidacy
 - Prepare platform
 - Build support
@@ -512,9 +486,7 @@ Council Responsibilities:
 
 <h3>⭐ Being a Great Council Member</h3>
 
-**Excellence Principles:**
-
-**1. Preparation**
+**Excellence Principles:** 1. Preparation
 - Read all materials
 - Research issues
 - Consult experts
@@ -550,9 +522,7 @@ Council Responsibilities:
 
 <h3>⚠️ Common Council Mistakes</h3>
 
-**What to Avoid:**
-
-**Personal Agenda**
+**What to Avoid:** Personal Agenda
 - Self-interest
 - Favoritism
 - Power plays
@@ -583,9 +553,7 @@ Council Responsibilities:
 
 <h3>📊 Council Effectiveness</h3>
 
-**Success Metrics:**
-
-**Quantitative Measures:**
+**Success Metrics:** Quantitative Measures:
 - Decision implementation rate
 - Dispute resolution time
 - Standard adoption
@@ -614,9 +582,7 @@ Council Responsibilities:
 
 <h3>🔄 Ensuring Continuity</h3>
 
-**Knowledge Transfer:**
-
-**Documentation:**
+**Knowledge Transfer:** Documentation:
 - Decision rationales
 - Process improvements
 - Lessons learned
@@ -647,9 +613,7 @@ Council Responsibilities:
 
 <h3>🛠️ Supporting Infrastructure</h3>
 
-**Available Resources:**
-
-**Administrative Support:**
+**Available Resources:** Administrative Support:
 - Meeting coordination
 - Document management
 - Communication tools

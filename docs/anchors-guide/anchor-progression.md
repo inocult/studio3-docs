@@ -124,9 +124,7 @@ junior_targets = {
 
 <h3>📈 Accelerating Growth</h3>
 
-**Month-by-Month Goals:**
-
-**Month 1-2: Learn**
+**Month-by-Month Goals:** Month 1-2: Learn
 - Shadow senior anchors
 - Complete all training
 - Practice on test cases
@@ -197,9 +195,7 @@ junior_targets = {
 
 <h3>🚀 Growing Your Impact</h3>
 
-**Advanced Skills Development:**
-
-**Technical Mastery**
+**Advanced Skills Development:** Technical Mastery
 ```
 Focus Areas:
 ├── Deep Specialization
@@ -268,9 +264,7 @@ Focus Areas:
 
 <h3>💡 Innovation and Impact</h3>
 
-**Growth Strategies:**
-
-**Year 2-3 Focus:**
+**Growth Strategies:** Year 2-3 Focus:
 1. **Specialization Depth**
    - Become go-to expert
    - Publish insights
@@ -305,9 +299,7 @@ Focus Areas:
 
 <h3>🌟 The Mastery Phase</h3>
 
-**Master Anchor Profile:**
-
-**Exceptional Performance:**
+**Master Anchor Profile:** Exceptional Performance:
 - 95%+ success rate
 - <2% dispute rate
 - 300+ validations
@@ -413,9 +405,7 @@ Focus Areas:
 
 <h3>📚 Continuous Learning</h3>
 
-**Skill Building Framework:**
-
-**Technical Skills:**
+**Skill Building Framework:** Technical Skills:
 - New technologies
 - Industry trends
 - Advanced tools
@@ -453,9 +443,7 @@ Focus Areas:
 
 <h3>📊 Tracking Progress</h3>
 
-**Review Cycle:**
-
-**Monthly Self-Review:**
+**Review Cycle:** Monthly Self-Review:
 ```markdown
 ## Monthly Performance Check
 

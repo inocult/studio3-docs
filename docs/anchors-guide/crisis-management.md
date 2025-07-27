@@ -36,10 +36,9 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 **Crisis Categories:**
 1. **Acute** - Sudden, severe
-2. **Chronic** - Slow burning
-3. **Compound** - Multiple issues
-4. **Cascading** - Domino effect
-
+**2. **Chronic** - Slow burning
+**3. **Compound** - Multiple issues
+**4. **Cascading** - Domino effect
 </div>
 
 ### Types of Venture Crises
@@ -132,9 +131,7 @@ Crisis Triage:
 
 <h3>🎖️ Organizing for Action</h3>
 
-**Crisis Team Roles:**
-
-**Crisis Leader** (Usually CEO)
+**Crisis Team Roles:** Crisis Leader** (Usually CEO)
 - Final decisions
 - External face
 - Resource allocation
@@ -174,9 +171,7 @@ Crisis Triage:
 
 <h3>💸 When Money Runs Out</h3>
 
-**Immediate Actions:**
-
-**Week 1: Reality Check**
+**Immediate Actions:** Week 1: Reality Check
 ```python
 def assess_financial_crisis():
     current_burn = calculate_monthly_burn()
@@ -192,19 +187,19 @@ def assess_financial_crisis():
 
 **Cost Reduction Options:**
 1. **Personnel** (50-70% of costs)
-   - Salary cuts/deferrals
+**   - Salary cuts/deferrals**
    - Hiring freeze
    - Layoffs if necessary
    - Contractor reduction
 
 2. **Operations** (20-30%)
-   - Office reduction
+**   - Office reduction**
    - Tool consolidation
    - Travel elimination
    - Marketing pause
 
 3. **Strategic** (Variable)
-   - Feature scope reduction
+**   - Feature scope reduction**
    - Market focus
    - Partnership emphasis
    - Revenue acceleration
@@ -217,9 +212,7 @@ def assess_financial_crisis():
 
 <h3>💰 Capital in Crisis</h3>
 
-**Funding Options Ranked:**
-
-**1. Revenue Acceleration**
+**Funding Options Ranked:** 1. Revenue Acceleration
 - Discounts for prepayment
 - Annual plan push
 - New revenue streams
@@ -260,9 +253,7 @@ def assess_financial_crisis():
 
 <h3>🔒 Data Breach Protocol</h3>
 
-**Immediate Response:**
-
-**Hour 1: Contain**
+**Immediate Response:** Hour 1: Contain
 ```bash
 # Emergency Protocol
 1. Isolate affected systems
@@ -301,14 +292,10 @@ def assess_financial_crisis():
 
 <h3>💻 Critical Outage Management</h3>
 
-**Outage Response Framework:**
-
-**Severity Levels:**
-- **SEV1**: Complete outage
+**Outage Response Framework:** Severity Levels:** SEV1**: Complete outage
 - **SEV2**: Major degradation  
 - **SEV3**: Partial impact
 - **SEV4**: Minor issues
-
 **Response Protocol:**
 1. **Declare Incident**
    - Severity level
@@ -344,9 +331,7 @@ def assess_financial_crisis():
 
 <h3>👥 When Leaders Clash</h3>
 
-**Conflict Escalation Stages:**
-
-**Stage 1: Tension**
+**Conflict Escalation Stages:** Stage 1: Tension
 - Communication breakdown
 - Avoidance behaviors
 - Team taking sides
@@ -391,9 +376,7 @@ def assess_financial_crisis():
 
 <h3>🚪 Team Exodus Management</h3>
 
-**When Teams Leave:**
-
-**Immediate Response:**
+**When Teams Leave:** Immediate Response:
 - Understand why
 - Identify critical roles
 - Assess knowledge loss
@@ -427,9 +410,7 @@ Retention Toolkit:
 
 <h3>⚖️ Legal/Regulatory Crisis</h3>
 
-**Regulatory Response:**
-
-**Day 1: Assess**
+**Regulatory Response:** Day 1: Assess
 - Understand violation
 - Gauge severity
 - Legal counsel
@@ -465,9 +446,7 @@ Retention Toolkit:
 
 <h3>📰 Public Relations Crisis</h3>
 
-**PR Crisis Response:**
-
-**Hour 1-4: Control Narrative**
+**PR Crisis Response:** Hour 1-4: Control Narrative
 ```
 Communication Priority:
 1. Internal team first
@@ -533,9 +512,7 @@ Communication Priority:
 
 <h3>👥 Keeping Team Aligned</h3>
 
-**Team Communication Framework:**
-
-**Daily Standups**
+**Team Communication Framework:** Daily Standups
 - Situation update
 - Progress report
 - Blockers identified
@@ -570,9 +547,7 @@ Feedback Loop ↑
 
 <h3>🔄 Building Back Better</h3>
 
-**Recovery Phases:**
-
-**Phase 1: Stabilization (Week 1-2)**
+**Recovery Phases:** Phase 1: Stabilization (Week 1-2)
 - Crisis contained
 - Bleeding stopped
 - Team stabilized
@@ -601,9 +576,7 @@ Feedback Loop ↑
 
 <h3>📚 Post-Mortem Excellence</h3>
 
-**Post-Crisis Analysis:**
-
-**Blameless Review:**
+**Post-Crisis Analysis:** Blameless Review:
 1. Timeline reconstruction
 2. Decision analysis
 3. What went well
@@ -663,9 +636,7 @@ Feedback Loop ↑
 
 <h3>🧠 Crisis Thinking Tools</h3>
 
-**Useful Frameworks:**
-
-**OODA Loop** (Observe, Orient, Decide, Act)
+**Useful Frameworks:** OODA Loop** (Observe, Orient, Decide, Act)
 - Rapid decision cycling
 - Continuous adjustment
 - Speed advantage

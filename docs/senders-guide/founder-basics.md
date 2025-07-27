@@ -16,24 +16,13 @@ As a Sender in Studio3, you're not just a founder - you're a public builder who 
 
 Senders are the entrepreneurs who:
 
-- **Create ventures
+- **Create ventures** from remixed IP-NFTs
+- **Compete publicly** for the right to build
+- **Execute transparently** with community oversight
 
-- * from remixed IP-NFTs
-- **Compete publicly
-- * for the right to build
-* **Execute transparently
+- **Progress through phases** to achieve sovereignty
 
-* * with community oversight
-
-* **Progress through phases
-
-* * to achieve sovereignty
-
-* **Inspire belief
-
-*
-
-* through consistent delivery
+- **Inspire belief** through consistent delivery
 
 ### Key Differences from Traditional Founders
 
@@ -54,13 +43,12 @@ Senders are the entrepreneurs who:
 <h3>📈 Your Progression Path</h3>
 
 1. **✨ Spark** - Create and pitch your idea
-2. **⚔️ Forge** - Compete for ownership rights
-3. **🚀 Ignition** - Build your MVP publicly
-4. **🌊 Drift** - Find product-market fit
-5. **🛸 Orbit** - Achieve stable operations
-6. **🔥 Flare** - Scale with major funding
-7. **🎖️ Ascension** - Graduate to full independence
-
+**2. **⚔️ Forge** - Compete for ownership rights
+**3. **🚀 Ignition** - Build your MVP publicly
+**4. **🌊 Drift** - Find product-market fit
+**5. **🛸 Orbit** - Achieve stable operations
+**6. **🔥 Flare** - Scale with major funding
+**7. **🎖️ Ascension** - Graduate to full independence
 </div>
 
 ## Core Responsibilities
@@ -72,7 +60,6 @@ Senders are the entrepreneurs who:
 <h3>🔍 Public Accountability</h3>
 
 **Daily Requirements:**
-
 - Progress updates in Arena
 
 - Respond to community questions
@@ -81,7 +68,6 @@ Senders are the entrepreneurs who:
 - Engage with supporters
 
 **Benefits:**
-
 - Early problem detection
 
 - Community wisdom access
@@ -94,7 +80,6 @@ Senders are the entrepreneurs who:
 ### 2. Milestone Delivery
 
 **Your Success Depends On:**
-
 - Setting realistic goals
 
 - Meeting declared deadlines
@@ -109,7 +94,6 @@ Senders are the entrepreneurs who:
 <h3>👥 Building Your Echo Army</h3>
 
 **Engagement Strategies:**
-
 - Host weekly AMAs
 
 - Share behind-the-scenes content
@@ -163,8 +147,7 @@ Senders are the entrepreneurs who:
 
 <h3>🎨 NFT Progression</h3>
 
-1. **Spark NFT** 
-   
+1. **Spark NFT**
 - Your original idea
    
 - Created from remixed IPs
@@ -191,7 +174,6 @@ Senders are the entrepreneurs who:
 ### How Funding Works
 
 **Progressive Capital Access:**
-
 - **Spark Phase**: Initial signals (100-1,000 $SIGNAL)
 - **Forge Phase**: Competition stakes (1,000-10,000 $SIGNAL)
 - **Ignition Phase**: MVP funding (10,000-50,000 $SIGNAL)
@@ -199,7 +181,6 @@ Senders are the entrepreneurs who:
 - **Orbit Phase**: Stability funding (200,000-1M $SIGNAL)
 - **Flare Phase**: Scale capital (1M-10M $SIGNAL)
 - **Ascension**: Buyback funds (Variable)
-
 ### Token Economics
 
 <div class="arena-card" markdown="1">
@@ -262,7 +243,6 @@ Senders are the entrepreneurs who:
 <h3>⚠️ Sender Mistakes</h3>
 
 **Fatal Errors:**
-
 - Overpromising on milestones
 
 - Going dark during challenges
@@ -271,7 +251,6 @@ Senders are the entrepreneurs who:
 - Focusing only on believers
 
 **Early Warning Signs:**
-
 - Decreasing signal strength
 
 - Rising doubt percentages
@@ -319,15 +298,13 @@ Senders are the entrepreneurs who:
 
 **Core Roles Needed:**
 
-1. **Technical Lead* 
+1. **Technical Lead**
 - Build the product
 2. **Community Manager** - Engage supporters
-3. **Operations Lead** - Handle logistics
-4. **Growth Lead** - Drive adoption
-5. **Anchor Liaison** - Manage validations
-
+**3. **Operations Lead** - Handle logistics
+**4. **Growth Lead** - Drive adoption
+**5. **Anchor Liaison** - Manage validations
 **Equity Alternative:**
-
 - Token allocations
 
 - Revenue sharing
@@ -341,7 +318,6 @@ Senders are the entrepreneurs who:
 ### Your Most Valuable Asset
 
 **XP Accumulation:**
-
 - +100 XP per successful milestone
 
 - +500 XP per phase advancement
@@ -350,7 +326,6 @@ Senders are the entrepreneurs who:
 - +1000 XP for Ascension
 
 **Reputation Benefits:**
-
 - Higher funding caps
 
 - Lower evidence requirements
@@ -367,7 +342,6 @@ Senders are the entrepreneurs who:
 <h3>📊 Key Performance Indicators</h3>
 
 **Weekly Metrics:**
-
 - Signal growth rate
 
 - Belief/doubt ratio
@@ -376,7 +350,6 @@ Senders are the entrepreneurs who:
 - Team velocity
 
 **Phase Metrics:**
-
 - Time to advancement
 
 - Success rate
@@ -413,7 +386,6 @@ Senders are the entrepreneurs who:
 ### Where to Get Help
 
 **Official Channels:**
-
 - Sender-only Discord channels
 - Weekly founder office hours
 - Mentor matching program
@@ -421,7 +393,6 @@ Senders are the entrepreneurs who:
 - Success story library
 
 **Community Resources:**
-
 - Peer support groups
 
 - Skill-sharing workshops

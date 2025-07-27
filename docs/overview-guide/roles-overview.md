@@ -20,9 +20,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 
         - Execute public milestones
 
-
         - Build in the Arena
-
 
         - Achieve sovereignty
 
@@ -39,9 +37,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 
         - Signal belief or doubt
 
-
         - Earn from accuracy
-
 
         - Guide through wisdom
 
@@ -58,9 +54,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 
         - Mentor founders
 
-
         - Maintain standards
-
 
         - Resolve disputes
 
@@ -90,18 +84,10 @@ graph TD
 ### Interdependencies
 
 !!! info "Everyone Needs Everyone"
-    - **Senders need Echoes
-    - for funding and validation
-    - **Senders need Anchors
-    - for guidance and verification
-    - **Echoes need Senders
-    - for investment opportunities
-    - **Echoes need Anchors
-    - for quality assurance
-    - **Anchors need Senders
-    - for ecosystem growth
-    - **Anchors need Echoes
-    - for decentralized wisdom
+    - **Senders need Echoes** - for funding and validation Senders need Anchors**
+    - for guidance and verification** Echoes need Senders** - for investment opportunities** Echoes need Anchors
+**    - for quality assurance** Anchors need Senders** - for ecosystem growth** Anchors need Echoes
+**    - for decentralized wisdom**
 
 ## Senders (Founders) Deep Dive
 
@@ -111,9 +97,7 @@ graph TD
 
 <h3>🏗️ What Senders Do</h3>
 
-**Primary Activities:** 1. **Ideation & Creation
-* *
-* Remix IPs into Spark NFTs
+**Primary Activities:** 1. **Ideation & Creation** Remix IPs into Spark NFTs
    - Develop venture concepts
    - Enter ideas into Arena
 
@@ -196,9 +180,7 @@ graph TD
 
 <h3>📡 What Echoes Do</h3>
 
-**Primary Activities:** 1. **Research & Analysis
-* *
-* Evaluate ventures
+**Primary Activities:** 1. **Research & Analysis** Evaluate ventures
    - Assess founders
    - Study milestones
    - Track patterns
@@ -236,16 +218,11 @@ graph TD
 ### Echo Skills
 
 !!! tip "Successful Echo Traits"
-    - **Analytical Mind* 
-    - Evaluate objectively
-    - **Risk Management* 
-    - Size stakes appropriately
-    - **Pattern Recognition* 
-    - Spot trends early
-    - **Emotional Control* 
-    - Avoid FOMO/FUD
-    - **Continuous Learning* 
-    - Adapt strategies
+    - **Analytical Mind** - Evaluate objectively
+    - **Risk Management** - Size stakes appropriately
+    - **Pattern Recognition** - Spot trends early
+    - **Emotional Control** - Avoid FOMO/FUD
+    - **Continuous Learning** - Adapt strategies
 
 ### Echo Earnings
 
@@ -276,9 +253,7 @@ def calculate_echo_returns(signal):
 
 <h3>⚓ What Anchors Do</h3>
 
-**Primary Activities:** 1. **Validation Services
-* *
-* Review milestone evidence
+**Primary Activities:** 1. **Validation Services** Review milestone evidence
    - Score completion quality
    - Provide detailed feedback
    - Resolve disputes
@@ -371,14 +346,12 @@ sequenceDiagram
 !!! warning "When Roles Clash"
     
     **Common Conflicts:**
-
 - Sender overpromises, Echo loses tokens
 
 - Echo signals doubt, Sender feels attacked
     - Anchor validates strictly, Sender disputes
     
     **Resolution Mechanisms:**
-
 - Public dialogue for transparency
 
 - Anchor Council for disputes
@@ -393,19 +366,22 @@ sequenceDiagram
 
 <h3>🤔 Which Role Fits You?</h3>
 
-**Consider Sender If You:** - Have a venture idea
+**Consider Sender If You:**
+- Have a venture idea
 - Love building things
 - Thrive under pressure
 - Communicate well publicly
 - Accept high risk/reward
 
-**Consider Echo If You:** - Enjoy analysis and research
+**Consider Echo If You:**
+- Enjoy analysis and research
 - Have risk capital available
 - Want portfolio approach
 - Prefer supporting to leading
 - Learn from patterns
 
-**Consider Anchor If You:** - Have deep expertise
+**Consider Anchor If You:**
+- Have deep expertise
 - Built ventures before
 - Enjoy mentoring others
 - Value ecosystem health
@@ -417,10 +393,9 @@ sequenceDiagram
 
 !!! info "Roles Can Evolve"
     - **Echo → Sender**: Build reputation, then launch venture
-    - **Sender → Anchor**: After successful exit, give back
-    - **Anchor → Sender**: Use expertise for new venture
-    - **Multiple Roles**: Can be Echo while building as Sender
-
+**    - **Sender → Anchor**: After successful exit, give back
+**    - **Anchor → Sender**: Use expertise for new venture
+**    - **Multiple Roles**: Can be Echo while building as Sender
 ## Role Statistics
 
 ### Current Distribution
@@ -450,8 +425,7 @@ success_metrics = {
 |--------|---------|--------|----------|
 | **Avg Weekly Hours** | 50-60 | 5-10 | 10-15 |
 | **Success Rate** | 34% | 67% | 89% |
-| **Avg Earnings** | $500K
-* | $45K | $120K |
+| **Avg Earnings** | $500K** | $45K | $120K |
 | **Reputation Growth** | High | Medium | Very High |
 
 *If successful to Ascension
@@ -480,14 +454,8 @@ success_metrics = {
 ### Role Synergies
 
 !!! success "Leveraging Multiple Perspectives"
-    - **Echo experience
-    - improves Sender fundraising
-    - **Sender experience
-    - makes better Anchors
-    - **Anchor insights
-    - enhance Echo strategies
-    - **Cross-role networks** create opportunities
-
+    - **Echo experience** - improves Sender fundraising Sender experience**
+    - makes better Anchors** Anchor insights** - enhance Echo strategies** Cross-role networks** create opportunities**
 ## Common Misconceptions
 
 ### Role Myths Debunked
@@ -505,17 +473,15 @@ success_metrics = {
 ### Getting Started
 
 1. **Explore All Roles** - Understand each deeply
-2. **Assess Yourself** - Match skills and goals
-3. **Start Small** - Test before committing
-4. **Build Reputation** - Success in any role
-5. **Stay Flexible** - Adapt as you learn
-
+**2. **Assess Yourself** - Match skills and goals
+**3. **Start Small** - Test before committing
+**4. **Build Reputation** - Success in any role
+**5. **Stay Flexible** - Adapt as you learn
 ### Role Resources
 
 - **For Senders**: [Senders Guide](../senders-guide/index.md) - Complete founder handbook
 - **For Echoes**: [Echoes Guide](../echoes-guide/index.md) - Master signaling
 - **For Anchors**: [Anchors Guide](../anchors-guide/index.md) - Validation excellence
-
 ## Next Steps
 
 - Dive deep into your chosen role's guide

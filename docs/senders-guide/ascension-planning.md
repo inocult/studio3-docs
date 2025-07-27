@@ -6,7 +6,7 @@
 **Phase**: Ascension 🏆  
 **Focus**: Exit Strategy  
 **Duration**: 3-6 months typical
-</div>
+**</div>**
 
 ## Overview
 
@@ -36,9 +36,8 @@ Ascension is the final phase where ventures achieve full sovereignty by buying b
 
 ### NFT Valuation
 1. **Spark NFT**: Original creation value + appreciation
-2. **Signal NFT**: Performance-based multiplier
-3. **Halo NFT**: Unlocks upon complete buyback
-
+**2. **Signal NFT**: Performance-based multiplier
+**3. **Halo NFT**: Unlocks upon complete buyback
 ### Pricing Formula
 ```
 Buyback Price = Base Value × Performance Multiple × Market Factor
@@ -111,13 +110,11 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 - **Exit**: $10M buyback price
 - **Multiple**: 100x return
 - **Duration**: 24 months
-
 ### AI Platform
 - **Entry**: $50K Spark value
 - **Exit**: $5M buyback price
 - **Multiple**: 100x return
 - **Duration**: 18 months
-
 ## Common Concerns
 
 ### Valuation Disputes

@@ -67,8 +67,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 **Dual Responsibility:**
 1. **To Ventures** - Help them succeed
-2. **To Ecosystem** - Maintain standards
-
+**2. **To Ecosystem** - Maintain standards
 **Balancing Act:**
 - Supportive yet objective
 - Helpful yet honest
@@ -152,9 +151,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 - Validation reviews: 1-2 hours each
 - Community engagement: 3-5 hours
 - Continued learning: 2-3 hours
-- **Total: 15-25 hours/week**
-
-**Peak Periods:**
+- **Total: 15-25 hours/week** Peak Periods:
 - Milestone deadlines
 - Crisis situations
 - Dispute resolutions
@@ -308,11 +305,10 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 **Core Principles:**
 1. **Objectivity** - No bias in validation
-2. **Integrity** - Honest assessments always
-3. **Confidentiality** - Respect private information
-4. **Transparency** - Clear communication
-5. **Service** - Ecosystem first
-
+**2. **Integrity** - Honest assessments always
+**3. **Confidentiality** - Respect private information
+**4. **Transparency** - Clear communication
+**5. **Service** - Ecosystem first
 **Conflict Management:**
 - Declare all conflicts
 - Recuse when necessary

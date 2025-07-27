@@ -25,7 +25,6 @@ Milestones are the heartbeat of Studio3 ventures. They're not just goals - they'
 - **R**elevant - Aligned with phase goals
 - **T**ime-bound - Clear deadline
 - **V**erifiable - Provable to Anchors
-
 **Examples:**
 ✅ Good: "Launch MVP with 100 beta users by March 31"
 ❌ Poor: "Build a great product soon"
@@ -79,9 +78,7 @@ Milestones are the heartbeat of Studio3 ventures. They're not just goals - they'
 
 <h3>🚀 Early Stage Goals</h3>
 
-**Typical Ignition Milestones:**
-
-**Month 1-2:**
+**Typical Ignition Milestones:** Month 1-2:
 ```markdown
 Milestone: "Complete Technical Architecture"
 - Finalize tech stack
@@ -147,9 +144,7 @@ Deliverable: Metrics dashboard + user testimonials
 
 <h3>🔥 Scaling Goals</h3>
 
-**Orbit/Flare/Ascension Examples:**
-
-**Orbit (Stability):**
+**Orbit/Flare/Ascension Examples:** Orbit (Stability):
 - $500K ARR
 - 1000+ customers
 - Team of 10+
@@ -282,8 +277,6 @@ graph LR
 - **70% Confidence** - Core milestones
 - **20% Stretch** - Ambitious targets
 - **10% Moonshot** - Breakthrough goals
-
-**Risk-Reward Matrix:**
 ```
 High Reward
     │
@@ -389,9 +382,7 @@ High Reward
 
 <h3>🏃 Breaking Down Big Goals
 
-**Milestone Sprint Structure:**
-
-**Week 1-2: Foundation**
+**Milestone Sprint Structure:** Week 1-2: Foundation
 ```
 Sprint 1 Goals:
 - Set up infrastructure

@@ -18,9 +18,7 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 <h3>🏆 Proven Track Record</h3>
 
-**Mandatory Experience:**
-
-**Venture Building:**
+**Mandatory Experience:** Venture Building:
 - Minimum 5 years building startups/projects
 - At least 1 successful exit (any ecosystem)
 - Demonstrated product development
@@ -87,9 +85,7 @@ Core Competencies:
 
 <h3>⭐ Personal Qualities</h3>
 
-**Essential Character Traits:**
-
-**Integrity:**
+**Essential Character Traits:** Integrity:
 - Unquestionable ethics
 - Consistent honesty
 - Transparent dealings
@@ -285,9 +281,7 @@ Peak Periods: 25-30 hours
 | Character | 15% | 90/100 |
 | Commitment | 10% | 85/100 |
 
-**Total Required: 82/100**
-
-**Assessment Methods:**
+**Total Required: 82/100** Assessment Methods:
 - Portfolio review
 - Technical tests
 - Case simulations
@@ -338,9 +332,7 @@ Peak Periods: 25-30 hours
 
 <h3>✨ Standing Out</h3>
 
-**Differentiation Strategies:**
-
-**Unique Value Proposition:**
+**Differentiation Strategies:** Unique Value Proposition:
 - Specialized expertise
 - Rare combinations
 - Notable achievements
@@ -446,9 +438,7 @@ Peak Periods: 25-30 hours
 
 <h3>🚀 Growing as Anchor</h3>
 
-**Level Progression Requirements:**
-
-**Junior → Anchor:**
+**Level Progression Requirements:** Junior → Anchor:
 - 6 months experience
 - 10+ validations
 - 90% satisfaction

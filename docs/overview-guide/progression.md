@@ -13,11 +13,10 @@ Progression through Studio3's seven phases follows clear rules designed to ensur
 <h3>📏 The Five Laws</h3>
 
 1. **Sequential Progress** - Phases must be completed in order
-2. **No Skipping** - Every venture experiences every phase
-3. **Merit-Based** - Advancement requires proven achievement
-4. **Community Validated** - Progress confirmed by ecosystem
-5. **Time Bounded** - Minimum and maximum durations apply
-
+**2. **No Skipping** - Every venture experiences every phase
+**3. **Merit-Based** - Advancement requires proven achievement
+**4. **Community Validated** - Progress confirmed by ecosystem
+**5. **Time Bounded** - Minimum and maximum durations apply
 </div>
 
 ### The Progression Framework
@@ -141,24 +140,22 @@ All phase transitions require:
 
 <h3>⚓ Validation Framework</h3>
 
-**Anchors evaluate:** 1. **Milestone Completion
-* * (40%)
-* All declared goals achieved?
+**Anchors evaluate:** 1. **Milestone Completion** (40%) All declared goals achieved?
    - Evidence properly documented?
    - Quality meets standards?
 
 2. **Community Health** (30%)
-   - Supporter engagement level
+**   - Supporter engagement level**
    - Belief/doubt ratio
    - Communication quality
 
 3. **Operational Excellence** (20%)
-   - Team performance
+**   - Team performance**
    - Resource management  
    - Process maturity
 
 4. **Strategic Position** (10%)
-   - Market opportunity
+**   - Market opportunity**
    - Competitive advantage
    - Growth potential
 
@@ -266,13 +263,15 @@ def calculate_phase_health(venture):
 
 <h3>⚡ Fast Track Qualification</h3>
 
-**Exceptional ventures may progress faster if:** - Exceed all metrics by 200%+
+**Exceptional ventures may progress faster if:**
+- Exceed all metrics by 200%+
 - Unanimous Anchor approval
 - 90%+ community support
 - Demonstrated exceptional execution
 - Strategic opportunity requires speed
 
-**Fast Track Limits:** - Minimum durations still apply
+**Fast Track Limits:**
+- Minimum durations still apply
 - Cannot skip phases
 - Extra scrutiny on validation
 - Higher evidence standards
@@ -283,15 +282,13 @@ def calculate_phase_health(venture):
 
 !!! danger "When Ventures Move Backward"
     
-    **Regression only allowed during Drift phase:** 
-
+    **Regression only allowed during Drift phase:**
 - Failed product-market fit
     - Major pivot required
     - Team reformation needed
     
     Regression Process:
 
-**
     1. Founder requests regression
     2. Anchors assess situation
     3. Community votes on allowing
@@ -341,16 +338,9 @@ When ventures can't advance:
 ### For Echoes
 
 !!! tip "Supporting Smart Progression"
-    - **Signal strategically
-    - on transition milestones
-    - **Provide feedback
-    - during phase reviews
-    - **Support extensions
-    - when justified
-    - **Challenge rushers
-    - who aren't ready
-    - **Reward consistency
-    - over speed
+    - **Signal strategically** - on transition milestones Provide feedback**
+    - during phase reviews** Support extensions** - when justified** Challenge rushers
+**    - who aren't ready** Reward consistency** - over speed**
 
 ## Edge Cases
 
@@ -409,16 +399,11 @@ graph LR
 ### Progression Pitfalls
 
 !!! danger "Avoid These Errors"
-    - **Rushing progression* 
-    - Meeting minimums isn't enough
-    - **Ignoring community* 
-    - Support can evaporate quickly
-    - **Weak documentation* 
-    - Evidence must be bulletproof
-    - **Surprise pivots* 
-    - Changes need community buy-in
-    - **Burning bridges* 
-    - Failed progressions damage reputation
+    - **Rushing progression** - Meeting minimums isn't enough
+    - **Ignoring community** - Support can evaporate quickly
+    - **Weak documentation** - Evidence must be bulletproof
+    - **Surprise pivots** - Changes need community buy-in
+    - **Burning bridges** - Failed progressions damage reputation
 
 ## Appeals Process
 
@@ -427,11 +412,10 @@ graph LR
 If progression is denied:
 
 1. **Review Feedback** - Understand specific issues
-2. **Prepare Appeal** - Address each concern
-3. **Submit to Council** - Anchor Council reviews
-4. **Community Input** - Public comment period
-5. **Final Decision** - Binding determination
-
+**2. **Prepare Appeal** - Address each concern
+**3. **Submit to Council** - Anchor Council reviews
+**4. **Community Input** - Public comment period
+**5. **Final Decision** - Binding determination
 !!! info "Appeal Success Rate: 23%"
     Most denials are upheld. Better to address issues than appeal.
 
@@ -440,11 +424,10 @@ If progression is denied:
 ### Planning Your Journey
 
 1. **Map Requirements** - Know every phase's needs
-2. **Build Buffers** - Plan for delays
-3. **Track Metrics** - Monitor continuously
-4. **Engage Community** - Maintain support
-5. **Document Progress** - Evidence from day one
-
+**2. **Build Buffers** - Plan for delays
+**3. **Track Metrics** - Monitor continuously
+**4. **Engage Community** - Maintain support
+**5. **Document Progress** - Evidence from day one
 ## Next Steps
 
 - Study [Seven Phase Lifecycle](seven-phases.md) in detail

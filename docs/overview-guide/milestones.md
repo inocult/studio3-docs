@@ -14,12 +14,12 @@ Milestones are the fundamental units of progress in Studio3. They represent spec
 
 A milestone is a public commitment to achieve a specific outcome by a defined deadline.
 
-**Key Components:** - **Specific Goal**: Clear, unambiguous objective
+**Key Components:**
+- **Specific Goal**: Clear, unambiguous objective
 - **Success Criteria**: Measurable completion requirements  
 - **Timeline**: Fixed deadline for achievement
 - **Evidence Requirements**: Proof needed for validation
 - **Token Value**: Amount at stake for signals
-
 </div>
 
 ### Milestone Lifecycle
@@ -108,11 +108,8 @@ stateDiagram-v2
 
 !!! tip "SMART Milestones"
     - **S**pecific: Clear and unambiguous
-    - **M**easurable: Quantifiable success criteria
-    - **A**chievable: Realistic given resources
-    - **R**elevant: Aligned with venture goals
-    - **T**ime-bound: Fixed deadline
-
+**    - **M**easurable: Quantifiable success criteria** - **A**chievable: Realistic given resources
+**    - **R**elevant: Aligned with venture goals** - **T**ime-bound: Fixed deadline
 ### Good vs Bad Milestones
 
 <div class="grid">
@@ -162,7 +159,8 @@ flowchart TD
 
 <h3>📝 Declaration Checklist</h3>
 
-**Required Elements:** - [ ] Clear objective statement
+**Required Elements:**
+- [ ] Clear objective statement
 - [ ] Success criteria (3-5 points)
 - [ ] Evidence requirements
 - [ ] Realistic timeline
@@ -170,7 +168,8 @@ flowchart TD
 - [ ] Risk assessment
 - [ ] Dependencies identified
 
-**Optional Enhancements:** - [ ] Stretch goals
+**Optional Enhancements:**
+- [ ] Stretch goals
 - [ ] Partial success criteria
 - [ ] Progress checkpoints
 - [ ] Contingency plans
@@ -185,25 +184,23 @@ flowchart TD
     Token values should reflect:
 
 - **Difficulty**: Technical or operational complexity
-
 - **Impact**: Importance to venture success
-    - **Risk**: Probability of failure
-    - **Timeline**: Urgency and duration
-    - **Dependencies**: External factors
-
+**    - **Risk**: Probability of failure
+**    - **Timeline**: Urgency and duration
+**    - **Dependencies**: External factors
 ### Valuation Guidelines
 
 | Milestone Type | Typical Range | Factors |
 |----------------|---------------|----------|
-| **Minor Feature** | 1K 
+| **Minor Feature** | 1K
 - 10K | Low complexity, quick delivery |
-| **Major Feature** | 10K 
+| **Major Feature** | 10K
 - 50K | High complexity, critical path |
-| **Growth Target** | 20K 
+| **Growth Target** | 20K
 - 100K | Market dependent, measurable |
-| **Funding Round** | 50K 
+| **Funding Round** | 50K
 - 500K | High impact, binary outcome |
-| **Phase Transition** | 100K 
+| **Phase Transition** | 100K
 - 1M | Comprehensive requirements |
 
 ## Evidence Requirements
@@ -256,11 +253,10 @@ flowchart TD
 
 !!! warning "Evidence Must Be"
     - **Authentic**: Not fabricated or manipulated
-    - **Relevant**: Directly proves milestone completion
-    - **Sufficient**: Comprehensive enough for validation
-    - **Timely**: Generated within milestone period
-    - **Accessible**: Validators can verify independently
-
+**    - **Relevant**: Directly proves milestone completion
+**    - **Sufficient**: Comprehensive enough for validation
+**    - **Timely**: Generated within milestone period
+**    - **Accessible**: Validators can verify independently
 ## Milestone Execution
 
 ### Best Practices
@@ -270,12 +266,12 @@ flowchart TD
 <h3>🏆 Execution Excellence</h3>
 
 **During Development:** 1. **Daily Updates**: Keep community informed
-2. **Progress Tracking**: Show incremental advancement
-3. **Challenge Transparency**: Share obstacles openly
-4. **Resource Management**: Allocate wisely
-5. **Time Buffering**: Plan for unexpected delays
-
-**Communication Guidelines:** - Post updates at consistent times
+**2. **Progress Tracking**: Show incremental advancement
+**3. **Challenge Transparency**: Share obstacles openly
+**4. **Resource Management**: Allocate wisely
+**5. **Time Buffering**: Plan for unexpected delays
+**Communication Guidelines:**
+- Post updates at consistent times
 - Use visual progress indicators
 - Respond to community questions
 - Acknowledge concerns promptly
@@ -318,11 +314,10 @@ sequenceDiagram
 
 !!! info "Anchors Evaluate"
     1. **Completeness**: All requirements met?
-    2. **Quality**: Meets professional standards?
-    3. **Timeliness**: Delivered on schedule?
-    4. **Evidence**: Properly documented?
-    5. **Impact**: Achieves intended outcome?
-
+**    2. **Quality**: Meets professional standards?
+**    3. **Timeliness**: Delivered on schedule?
+**    4. **Evidence**: Properly documented?
+**    5. **Impact**: Achieves intended outcome?
 ### Validation Outcomes
 
 | Outcome | Result | Token Impact |
@@ -403,14 +398,9 @@ graph TD
     Future milestones will support:
 
 - **IF-THEN** statements
-    - **AND/OR
-    - requirements  
-    - **Prerequisite
-    - chains
-    - **Fallback
-    - options
-    - **Bonus
-    - objectives
+**    - **AND/OR
+** - requirements   Prerequisite** - chains** Fallback
+**    - options** Bonus** - objectives**
 
 ## Success Metrics
 
@@ -439,19 +429,19 @@ class MilestoneMetrics:
 
 ### Milestone FAQ
 
-**Q: Can I modify a milestone after declaration?**  
+**Q: Can I modify a milestone after declaration?**
 A: No, declared milestones are immutable. Plan carefully.
 
-**Q: What happens if I get sick during execution?**  
+**Q: What happens if I get sick during execution?**
 A: Apply for extension with medical evidence. Community decides.
 
-**Q: Can I declare multiple milestones simultaneously?**  
+**Q: Can I declare multiple milestones simultaneously?**
 A: Yes, but ensure you have resources for parallel execution.
 
-**Q: How do partial completions work?**  
+**Q: How do partial completions work?**
 A: Anchors score 0-100%. 70%+ may receive partial rewards.
 
-**Q: Can milestones be cancelled?**  
+**Q: Can milestones be cancelled?**
 A: Only in extreme circumstances with Anchor approval.
 
 ## Your Milestone Journey
@@ -459,11 +449,10 @@ A: Only in extreme circumstances with Anchor approval.
 ### Getting Started
 
 1. **Study Examples** - Learn from successful milestones
-2. **Start Small** - Build confidence with achievable goals
-3. **Engage Early** - Discuss plans with community
-4. **Document Everything** - Evidence collection from day one
-5. **Deliver Consistently** - Build reputation over time
-
+**2. **Start Small** - Build confidence with achievable goals
+**3. **Engage Early** - Discuss plans with community
+**4. **Document Everything** - Evidence collection from day one
+**5. **Deliver Consistently** - Build reputation over time
 ## Next Steps
 
 - Review [Progression Rules](progression.md) for phase requirements

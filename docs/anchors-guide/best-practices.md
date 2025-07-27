@@ -149,9 +149,7 @@ def prepare_for_validation():
 
 <h3>🔍 Thorough Yet Efficient</h3>
 
-**Systematic Review Process:**
-
-**First Pass (30 min)**
+**Systematic Review Process:** First Pass (30 min)
 - Completeness check
 - Quality scan
 - Red flag identification
@@ -229,9 +227,7 @@ Evidence Review Framework:
 
 <h3>✍️ Clear and Constructive Writing</h3>
 
-**Validation Report Excellence:**
-
-**Structure for Clarity:**
+**Validation Report Excellence:** Structure for Clarity:
 ```markdown
 # Executive Summary
 - Decision upfront
@@ -274,9 +270,7 @@ Evidence Review Framework:
 
 <h3>🗣️ Effective Conversations</h3>
 
-**Meeting Best Practices:**
-
-**Preparation:**
+**Meeting Best Practices:** Preparation:
 - Agenda shared ahead
 - Time respected
 - Environment comfortable
@@ -311,9 +305,7 @@ Meeting Flow:
 
 <h3>🤝 The Foundation of Influence</h3>
 
-**Trust Building Actions:**
-
-**Reliability**
+**Trust Building Actions:** Reliability
 - Always meet deadlines
 - Respond within 24 hours
 - Keep all promises
@@ -349,9 +341,7 @@ Meeting Flow:
 
 <h3>😤 Grace Under Pressure</h3>
 
-**Handling Pushback:**
-
-**When Founders Disagree:**
+**Handling Pushback:** When Founders Disagree:
 1. Listen completely
 2. Acknowledge feelings
 3. Review evidence together
@@ -460,9 +450,7 @@ Essential Security Checks:
 
 <h3>📚 Always Be Learning</h3>
 
-**Learning Plan Best Practices:**
-
-**Weekly Learning (2-3 hours):**
+**Learning Plan Best Practices:** Weekly Learning (2-3 hours):
 - Industry articles
 - Technical tutorials
 - Peer discussions
@@ -524,9 +512,7 @@ Essential Security Checks:
 
 <h3>🌐 Contributing to Collective Wisdom</h3>
 
-**Sharing Best Practices:**
-
-**What to Share:**
+**Sharing Best Practices:** What to Share:
 - Validation insights
 - Tool discoveries
 - Process improvements
@@ -555,9 +541,7 @@ Essential Security Checks:
 
 <h3>👥 Working with Other Anchors</h3>
 
-**Collaboration Best Practices:**
-
-**Peer Reviews:**
+**Collaboration Best Practices:** Peer Reviews:
 - Request regularly
 - Provide thoughtfully
 - Learn actively

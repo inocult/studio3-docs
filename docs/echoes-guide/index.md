@@ -69,26 +69,14 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 ## 🎯 Who Should Read This Guide?
 
-- **📊 Active Supporters
+- **📊 Active Supporters** signaling daily
+- **💰 Token Holders** maximizing returns
 
-- * signaling daily
-* **💰 Token Holders
+- **🔍 Analysts** evaluating ventures
 
-* * maximizing returns
+- **🌐 Community Members** growing influence
 
-* **🔍 Analysts
-
-* * evaluating ventures
-
-* **🌐 Community Members
-
-* * growing influence
-
-* **🎮 Gamers
-
-*
-
-* enjoying the competition
+- **🎮 Gamers** enjoying the competition
 
 ## 📄 Download Options
 
@@ -178,14 +166,12 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <h4>The Contrarian</h4>
 Turned 1,000 $SIGNAL into 127,000 by correctly doubting overhyped ventures and believing in overlooked gems.
 
-
 </div>
 
 <div class="arena-card" markdown="1">
 
 <h4>The Specialist</h4>
 Focused exclusively on DeFi ventures, achieving 89% accuracy through deep domain expertise.
-
 
 </div>
 </div>

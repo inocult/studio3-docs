@@ -9,11 +9,10 @@
 Getting started with Studio3 is simple:
 
 1. **Choose your role** based on your goals
-2. **Create your account** and connect wallet
-3. **Start small** to learn the system
-4. **Engage actively** with the community
-5. **Build your reputation** over time
-
+**2. **Create your account** and connect wallet
+**3. **Start small** to learn the system
+**4. **Engage actively** with the community
+**5. **Build your reputation** over time
 </div>
 
 ## 🎯 Step 1: Choose Your Path
@@ -25,12 +24,14 @@ Getting started with Studio3 is simple:
 
 <h3>🏗️ Become a Sender</h3>
 
-**If you have:** - A venture idea
+**If you have:**
+- A venture idea
 - Execution ability
 - Public comfort
 - Risk tolerance
 
-**You'll need:** - 1,000+ $SIGNAL tokens
+**You'll need:**
+- 1,000+ $SIGNAL tokens
 - Time commitment (full-time)
 - Team building skills
 
@@ -42,12 +43,14 @@ Getting started with Studio3 is simple:
 
 <h3>📡 Become an Echo</h3>
 
-**If you have:** - Investment capital
+**If you have:**
+- Investment capital
 - Analysis skills
 - Risk appetite
 - Market intuition
 
-**You'll need:** - 100+ $SIGNAL tokens
+**You'll need:**
+- 100+ $SIGNAL tokens
 - Daily time (30-60 min)
 - Research mindset
 
@@ -59,12 +62,14 @@ Getting started with Studio3 is simple:
 
 <h3>⚓ Become an Anchor</h3>
 
-**If you have:** - Industry expertise
+**If you have:**
+- Industry expertise
 - Mentoring experience
 - Quality standards
 - Available time
 
-**You'll need:** - Proven track record
+**You'll need:**
+- Proven track record
 - 2-4 hours daily
 - Fair judgment
 
@@ -113,13 +118,12 @@ Getting started with Studio3 is simple:
 ### Account Setup Process
 
 1. **Install MetaMask** or compatible wallet
-2. **Fund with ETH** for gas fees
-3. **Acquire $SIGNAL** tokens via DEX
-4. **Connect to Studio3** platform
-5. **Complete profile** with real information
-6. **Verify email** for notifications
-7. **Join Discord** community
-
+**2. **Fund with ETH** for gas fees
+**3. **Acquire $SIGNAL** tokens via DEX
+**4. **Connect to Studio3** platform
+**5. **Complete profile** with real information
+**6. **Verify email** for notifications
+**7. **Join Discord** community
 ## 📚 Step 3: Learn the Basics
 
 ### Essential Knowledge
@@ -128,12 +132,14 @@ Getting started with Studio3 is simple:
 
 <h3>📖 Must-Read Resources</h3>
 
-**For All Participants:** - This Quickstart guide (you're here!)
+**For All Participants:**
+- This Quickstart guide (you're here!)
 - [Overview Guide](../overview-guide/index.md) - Complete system understanding
 - Community Code of Conduct
 - Platform Terms of Service
 
-**Role-Specific:** - Your chosen role's complete guide
+**Role-Specific:**
+- Your chosen role's complete guide
 - Success stories from veterans
 - Common mistakes to avoid
 
@@ -142,11 +148,10 @@ Getting started with Studio3 is simple:
 ### Key Concepts to Master
 
 1. **The Arena System** - How public building works
-2. **Signal Mechanics** - Belief/doubt token stakes
-3. **Seven Phases** - Venture progression path
-4. **Rewards & Burns** - Economic incentives
-5. **Reputation (XP)** - Long-term value building
-
+**2. **Signal Mechanics** - Belief/doubt token stakes
+**3. **Seven Phases** - Venture progression path
+**4. **Rewards & Burns** - Economic incentives
+**5. **Reputation (XP)** - Long-term value building
 ## 🌱 Step 4: Start Small
 
 ### Your First Actions
@@ -224,11 +229,10 @@ Getting started with Studio3 is simple:
 ### Building Relationships
 
 1. **Introduce yourself** in newcomer channels
-2. **Ask questions** - community loves helping
-3. **Share insights** from your experience
-4. **Attend events** like office hours
-5. **Find mentors** who've succeeded
-
+**2. **Ask questions** - community loves helping
+**3. **Share insights** from your experience
+**4. **Attend events** like office hours
+**5. **Find mentors** who've succeeded
 ## 📈 Step 6: Build Your Reputation
 
 ### The XP System
@@ -237,13 +241,15 @@ Getting started with Studio3 is simple:
 
 <h3>🌟 Reputation Matters</h3>
 
-**How to earn XP:** - Successful milestones (Senders)
+**How to earn XP:**
+- Successful milestones (Senders)
 - Accurate signals (Echoes)
 - Quality validations (Anchors)
 - Community contributions
 - Consistent participation
 
-**Benefits of high XP:** - Better multipliers
+**Benefits of high XP:**
+- Better multipliers
 - Priority access
 - Trusted status
 - Governance weight
@@ -254,28 +260,30 @@ Getting started with Studio3 is simple:
 ### Long-term Strategy
 
 1. **Consistency beats intensity** - Daily engagement
-2. **Quality over quantity** - Thoughtful participation
-3. **Learn from failures** - They're valuable too
-4. **Share knowledge** - Teaching solidifies learning
-5. **Stay positive** - Support ecosystem growth
-
+**2. **Quality over quantity** - Thoughtful participation
+**3. **Learn from failures** - They're valuable too
+**4. **Share knowledge** - Teaching solidifies learning
+**5. **Stay positive** - Support ecosystem growth
 ## 🎯 Quick Start Checklist
 
 <div class="arena-card" markdown="1">
 
 <h3>✅ Your First Week</h3>
 
-**Day 1:** - [ ] Choose your role
+**Day 1:**
+- [ ] Choose your role
 - [ ] Set up wallet
 - [ ] Get $SIGNAL tokens
 - [ ] Create account
 
-**Day 2-3:** - [ ] Read your role guide
+**Day 2-3:**
+- [ ] Read your role guide
 - [ ] Join Discord
 - [ ] Introduce yourself
 - [ ] Observe active ventures
 
-**Day 4-7:** - [ ] Make first action (signal/pitch/application)
+**Day 4-7:**
+- [ ] Make first action (signal/pitch/application)
 - [ ] Connect with 5 community members
 - [ ] Attend one community event
 - [ ] Plan your strategy
@@ -323,35 +331,22 @@ Getting started with Studio3 is simple:
 ### What Happens Next?
 
 1. **Week 1**: Learn and observe
-2. **Week 2-4**: Active participation
-3. **Month 2-3**: Build reputation
-4. **Month 4-6**: Scale involvement
-5. **Month 6+**: Become veteran helper
-
+**2. **Week 2-4**: Active participation
+**3. **Month 2-3**: Build reputation
+**4. **Month 4-6**: Scale involvement
+**5. **Month 6+**: Become veteran helper
 ### Success Metrics
 
 You'll know you're on track when:
 
-- **Community recognizes
+- **Community recognizes** your username
+- **Actions succeed** more than fail
 
-- * your username
-* **Actions succeed
+- **Reputation grows** steadily
 
-* * more than fail
+- **Opportunities increase** naturally
 
-* **Reputation grows
-
-* * steadily
-
-* **Opportunities increase
-
-* * naturally
-
-* **You help newcomers
-
-*
-
-* confidently
+- **You help newcomers** confidently
 
 ## 🎉 Welcome to Studio3!
 
@@ -361,25 +356,11 @@ You'll know you're on track when:
 
 By joining Studio3, you're not just participating in a platform - you're helping build the future of venture creation. Every signal, every validation, every milestone contributes to an ecosystem where:
 
-- **Great ideas find support
+- **Great ideas find support** - Merit beats connections** 
 
-- *
+- **Transparency builds trust** - Community creates value** 
 
-- **Merit beats connections
-
-- *
-
-- **Transparency builds trust
-
-- *
-
-- **Community creates value
-
-- *
-
-- **Everyone can succeed
-
-- *
+- **Everyone can succeed** 
 
 </div>
 
@@ -388,18 +369,15 @@ By joining Studio3, you're not just participating in a platform - you're helping
 ### Continue Your Journey
 
 1. **Dive deeper** with the [Overview Guide](../overview-guide/index.md)
-2. **Master your role** with specific guides
-3. **Join the community** on [Discord](https://discord.gg/studio3)
-4. **Start participating** today
-
+**2. **Master your role** with specific guides
+**3. **Join the community** on [Discord](https://discord.gg/studio3)
+**4. **Start participating** today
 ### Quick Links
 
 - **Platform**: [studio3.xyz](https://studio3.xyz)
-
 - **Support**: support@studio3.xyz
 - **Discord**: [discord.gg/studio3](https://discord.gg/studio3)
 - **Twitter**: [@Studio3Official](https://twitter.com/Studio3Official)
-
 !!! success "Ready to Begin?"
     Your Studio3 journey starts now. Choose your role, take the first step, and join thousands building the future of venture creation together.
     

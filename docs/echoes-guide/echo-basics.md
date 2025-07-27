@@ -16,12 +16,9 @@ As an Echo in Studio3, you're not just an investor - you're a signal broadcaster
 
 Echoes are participants who:
 
-- **Express conviction** through token stakes
-- **Earn rewards** from accurate predictions
-- **Shape venture trajectories** with collective wisdom
-- **Build reputation** through consistent accuracy
+- **Express conviction** Earn rewards
+- **Shape venture trajectories** Build reputation
 - **Create momentum** for deserving projects
-
 ### Beyond Traditional Investing
 
 | Traditional Investor | Studio3 Echo |
@@ -141,25 +138,25 @@ Echoes are participants who:
 <h3>📈 Your Growth Trajectory</h3>
 
 1. **Novice Echo** (0-100 XP)
-   - Learning basics
+**   - Learning basics**
    - Small test signals
    - Observing patterns
    - Building knowledge
 
 2. **Active Echo** (100-500 XP)
-   - Regular participation
+**   - Regular participation**
    - Growing accuracy
    - Developing strategies
    - Finding specialties
 
 3. **Expert Echo** (500-2000 XP)
-   - High accuracy rate
+**   - High accuracy rate**
    - Larger positions
    - Community influence
    - Mentoring others
 
 4. **Master Echo** (2000+ XP)
-   - Top performer
+**   - Top performer**
    - Market mover
    - Strategy leader
    - Platform governance

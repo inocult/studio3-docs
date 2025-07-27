@@ -18,9 +18,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <h3>🚀 Emotional and Professional Phases</h3>
 
-**The Emotional Rollercoaster:**
-
-**Phase 1: Euphoria** (Spark/Early Forge)
+**The Emotional Rollercoaster:** Phase 1: Euphoria** (Spark/Early Forge)
 - High energy and optimism
 - Unrealistic expectations
 - Need: Grounding without crushing dreams
@@ -53,9 +51,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <h3>👥 Recognizing Different Types</h3>
 
-**Common Founder Types:**
-
-**The Visionary**
+**Common Founder Types:** The Visionary
 - Big picture thinker
 - Inspiration machine
 - Weakness: Execution details
@@ -95,9 +91,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <h3>👂 The Foundation of Good Guidance</h3>
 
-**Listening Techniques:**
-
-**Level 1: Content Listening**
+**Listening Techniques:** Level 1: Content Listening
 - What are they saying?
 - Facts and information
 - Specific challenges
@@ -130,9 +124,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <h3>❓ Questions That Transform</h3>
 
-**Question Categories:**
-
-**Clarifying Questions**
+**Question Categories:** Clarifying Questions
 - "What specifically do you mean by...?"
 - "Can you give me an example?"
 - "How does this connect to...?"
@@ -166,9 +158,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <h3>🎯 High-Level Direction</h3>
 
-**Strategic Support Areas:**
-
-**Vision Refinement**
+**Strategic Support Areas:** Vision Refinement
 - Challenge assumptions
 - Clarify value proposition
 - Identify unique advantages
@@ -207,9 +197,7 @@ Key Questions:
 
 <h3>🛠️ Practical Problem Solving</h3>
 
-**Common Tactical Needs:**
-
-**Technical Challenges**
+**Common Tactical Needs:** Technical Challenges
 ```python
 def guide_technical_decisions():
     assess_current_state()
@@ -250,9 +238,7 @@ def guide_technical_decisions():
 
 <h3>💬 Constructive Communication</h3>
 
-**The SBI Model:**
-
-**Situation**
+**The SBI Model:** Situation
 - Set specific context
 - When and where
 - Objective facts
@@ -281,9 +267,7 @@ def guide_technical_decisions():
 
 <h3>😓 Handling Hard Topics</h3>
 
-**Conversation Framework:**
-
-**1. Prepare Thoroughly**
+**Conversation Framework:** 1. Prepare Thoroughly
 - Clear objective
 - Specific examples
 - Desired outcome
@@ -324,9 +308,7 @@ def guide_technical_decisions():
 
 <h3>🚨 Early Warning Signs</h3>
 
-**Crisis Indicators:**
-
-**Technical Crisis**
+**Crisis Indicators:** Technical Crisis
 - Major bugs/failures
 - Security breaches
 - Scalability collapse
@@ -362,9 +344,7 @@ def guide_technical_decisions():
 
 <h3>🆘 Emergency Response</h3>
 
-**Crisis Management Steps:**
-
-**1. Stabilize First**
+**Crisis Management Steps:** 1. Stabilize First
 - Emotional support
 - Calm assessment
 - Stop bleeding
@@ -404,9 +384,7 @@ def guide_technical_decisions():
 
 <h3>🤝 Foundation of Influence</h3>
 
-**Trust Building Blocks:**
-
-**Reliability**
+**Trust Building Blocks:** Reliability
 - Consistent availability
 - Promise keeping
 - Timely responses
@@ -438,9 +416,7 @@ def guide_technical_decisions():
 
 <h3>⚖️ Professional Relationships</h3>
 
-**Healthy Boundaries:**
-
-**Time Boundaries**
+**Healthy Boundaries:** Time Boundaries
 - Set office hours
 - Emergency definitions
 - Response expectations
@@ -474,9 +450,7 @@ def guide_technical_decisions():
 
 <h3>📈 Helping Founders Grow</h3>
 
-**Core Growth Areas:**
-
-**Leadership Development**
+**Core Growth Areas:** Leadership Development
 - Vision articulation
 - Team inspiration
 - Decision making
@@ -512,9 +486,7 @@ def guide_technical_decisions():
 
 <h3>🌐 Leveraging Your Network</h3>
 
-**Connection Categories:**
-
-**Expert Advisors**
+**Connection Categories:** Expert Advisors
 - Technical specialists
 - Industry veterans
 - Function experts
@@ -552,9 +524,7 @@ def guide_technical_decisions():
 
 <h3>🌱 Growing Together</h3>
 
-**Relationship Stages:**
-
-**Early Stage: Teacher**
+**Relationship Stages:** Early Stage: Teacher
 - Heavy guidance
 - Frequent check-ins
 - Basic education
