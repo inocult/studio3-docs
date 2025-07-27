@@ -155,16 +155,14 @@ We welcome contributions to improve the documentation! Please:
 
 ## 📝 License
 
-This documentation is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0).
+<a href="https://creativecommons.org">Studio 3</a> © 2025 by <a href="https://creativecommons.org">Studio 3 Canada</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 This means you are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
+- **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit to Studio3, provide a link to the license, and indicate if changes were made
-- **NonCommercial** — You may not use the material for commercial purposes
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
+- **Attribution** — You must give appropriate credit to "Studio 3 © 2025 by Studio 3 Canada", provide a link to the license, and indicate if changes were made
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material
 
 See [LICENSE](LICENSE) for the full license text.
 

@@ -1,17 +1,13 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+Creative Commons Attribution-NoDerivatives 4.0 International License
 
-Copyright (c) 2024 Studio3 Documentation Contributors
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 
-4.0 International License.
+Studio 3 © 2025 by Studio 3 Canada is licensed under CC BY-ND 4.0
 
 =======================================================================
 
 You are free to:
 
   Share — copy and redistribute the material in any medium or format
-  
-  Adapt — remix, transform, and build upon the material
+  for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
@@ -24,20 +20,22 @@ Under the following terms:
   but not in any way that suggests the licensor endorses you or your use.
   
   Specifically, you must:
-  - Credit "Studio3 Documentation" with a link to https://github.com/inocult/studio3-docs
-  - Indicate if you modified the material and retain an indication of previous modifications
-  - Include a copy of this license or a link to it
+  - Credit "Studio 3 © 2025 by Studio 3 Canada"
+  - Provide a link to the license (https://creativecommons.org/licenses/by-nd/4.0/)
+  - Indicate if you made any changes to the material
 
-  NonCommercial — You may not use the material for commercial purposes.
+  NoDerivatives — If you remix, transform, or build upon the material, you may 
+  not distribute the modified material.
   
-  Commercial purposes include but are not limited to:
-  - Selling the documentation or access to it
-  - Using the documentation in paid training or consulting
-  - Including the documentation in commercial products
-  - Using the documentation to promote commercial services
-
-  ShareAlike — If you remix, transform, or build upon the material, you must 
-  distribute your contributions under the same license as the original.
+  You may:
+  - Share the work in its original form
+  - Use portions under fair use/fair dealing provisions
+  - Create adaptations for personal/private use only
+  
+  You may NOT:
+  - Distribute modified versions
+  - Create derivative works for public distribution
+  - Alter, transform, or build upon this work for redistribution
 
   No additional restrictions — You may not apply legal terms or technological 
   measures that legally restrict others from doing anything the license permits.
@@ -58,30 +56,42 @@ Notices:
 
 Full License Text:
 
-The complete Creative Commons Attribution-NonCommercial-ShareAlike 4.0 
-International License can be found at:
+The complete Creative Commons Attribution-NoDerivatives 4.0 International 
+License can be found at:
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+https://creativecommons.org/licenses/by-nd/4.0/legalcode
 
 =======================================================================
 
 Attribution Notice:
 
+When using this material, please include the following attribution:
+
+Studio 3 © 2025 by Studio 3 Canada is licensed under CC BY-ND 4.0
+https://creativecommons.org/licenses/by-nd/4.0/
+
+For web usage, you may use this HTML attribution:
+<a href="https://creativecommons.org">Studio 3</a> © 2025 by <a href="https://creativecommons.org">Studio 3 Canada</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+
+With icons:
+<a href="https://creativecommons.org">Studio 3</a> © 2025 by <a href="https://creativecommons.org">Studio 3 Canada</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+=======================================================================
+
+About This Documentation:
+
 This documentation was created for the Studio3 platform, a venture building 
 ecosystem where belief becomes momentum. The documentation includes:
 
-- Comprehensive guides for all platform participants
+- Comprehensive guides for all platform participants (Senders, Echoes, Anchors)
 - Technical specifications and implementation details  
 - Visual assets and branding elements
 - Code examples and configurations
 
-When using this material, please attribute as follows:
-
-"Based on Studio3 Documentation (https://github.com/inocult/studio3-docs) 
-licensed under CC BY-NC-SA 4.0"
+This is the official, unmodified version of the Studio3 documentation.
 
 =======================================================================
 
 For permissions beyond the scope of this license, please contact:
+- Studio 3 Canada through official channels
 - Open an issue at: https://github.com/inocult/studio3-docs/issues
-- Or reach out to the Studio3 team through official channels

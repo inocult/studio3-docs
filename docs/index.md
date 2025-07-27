@@ -131,3 +131,9 @@ Each guide is:
 
 !!! tip "Choose Your Path"
     Not sure which guide to start with? The **Overview Guide** provides a complete introduction to help you decide your role in the Studio3 ecosystem.
+
+---
+
+## 📜 License
+
+<a href="https://creativecommons.org">Studio 3</a> © 2025 by <a href="https://creativecommons.org">Studio 3 Canada</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;display: inline-block;vertical-align: middle;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;display: inline-block;vertical-align: middle;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;display: inline-block;vertical-align: middle;">
