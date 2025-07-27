@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- Phase circles -->
+  <g transform="translate(50,100)">
+    <circle r="30" fill="#FFE66D" stroke="#FFB627" stroke-width="2"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="20">✨</text>
+    <text y="60" text-anchor="middle" font-family="Arial" font-size="12">Spark</text>
+  </g>
+  
+  <g transform="translate(170,100)">
+    <circle r="30" fill="#FF6B6B" stroke="#FF5252" stroke-width="2"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="20">⚔️</text>
+    <text y="60" text-anchor="middle" font-family="Arial" font-size="12">Forge</text>
+  </g>
+  
+  <g transform="translate(290,100)">
+    <circle r="30" fill="#FFA726" stroke="#FF9800" stroke-width="2"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="20">🚀</text>
+    <text y="60" text-anchor="middle" font-family="Arial" font-size="12">Ignition</text>
+  </g>
+  
+  <g transform="translate(410,100)">
+    <circle r="30" fill="#42A5F5" stroke="#2196F3" stroke-width="2"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="20">🌊</text>
+    <text y="60" text-anchor="middle" font-family="Arial" font-size="12">Drift</text>
+  </g>
+  
+  <g transform="translate(530,100)">
+    <circle r="30" fill="#AB47BC" stroke="#9C27B0" stroke-width="2"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="20">🛸</text>
+    <text y="60" text-anchor="middle" font-family="Arial" font-size="12">Orbit</text>
+  </g>
+  
+  <g transform="translate(650,100)">
+    <circle r="30" fill="#EF5350" stroke="#F44336" stroke-width="2"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="20">🔥</text>
+    <text y="60" text-anchor="middle" font-family="Arial" font-size="12">Flare</text>
+  </g>
+  
+  <g transform="translate(770,100)">
+    <circle r="30" fill="#66BB6A" stroke="#4CAF50" stroke-width="2"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="20">🎖️</text>
+    <text y="60" text-anchor="middle" font-family="Arial" font-size="12">Ascension</text>
+  </g>
+  
+  <!-- Connecting lines -->
+  <line x1="80" y1="100" x2="140" y2="100" stroke="#ccc" stroke-width="2"/>
+  <line x1="200" y1="100" x2="260" y2="100" stroke="#ccc" stroke-width="2"/>
+  <line x1="320" y1="100" x2="380" y2="100" stroke="#ccc" stroke-width="2"/>
+  <line x1="440" y1="100" x2="500" y2="100" stroke="#ccc" stroke-width="2"/>
+  <line x1="560" y1="100" x2="620" y2="100" stroke="#ccc" stroke-width="2"/>
+  <line x1="680" y1="100" x2="740" y2="100" stroke="#ccc" stroke-width="2"/>
+</svg>

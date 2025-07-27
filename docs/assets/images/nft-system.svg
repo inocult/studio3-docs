@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <!-- Spark NFT -->
+  <g transform="translate(50,50)">
+    <rect x="-30" y="-30" width="60" height="60" rx="5" fill="#FFE66D" stroke="#FFB627" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">SPARK</text>
+    <text x="0" y="-40" text-anchor="middle" font-family="Arial" font-size="20">✨</text>
+  </g>
+  
+  <!-- Signal NFT -->
+  <g transform="translate(150,50)">
+    <rect x="-30" y="-30" width="60" height="60" rx="5" fill="#4ECDC4" stroke="#45B7AA" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">SIGNAL</text>
+    <text x="0" y="-40" text-anchor="middle" font-family="Arial" font-size="20">📡</text>
+  </g>
+  
+  <!-- Halo NFT -->
+  <g transform="translate(250,50)">
+    <rect x="-30" y="-30" width="60" height="60" rx="5" fill="#C5E1A5" stroke="#AED581" stroke-width="2"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">HALO</text>
+    <text x="0" y="-40" text-anchor="middle" font-family="Arial" font-size="20">🛡️</text>
+  </g>
+  
+  <!-- Arrows -->
+  <path d="M 80 50 L 120 50" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 180 50 L 220 50" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Labels -->
+  <text x="50" y="120" text-anchor="middle" font-family="Arial" font-size="10" fill="#666">Idea Origin</text>
+  <text x="150" y="120" text-anchor="middle" font-family="Arial" font-size="10" fill="#666">Journey Identity</text>
+  <text x="250" y="120" text-anchor="middle" font-family="Arial" font-size="10" fill="#666">Sovereignty Seal</text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666" />
+    </marker>
+  </defs>
+</svg>

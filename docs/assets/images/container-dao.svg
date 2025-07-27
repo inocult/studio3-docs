@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- Container box -->
+  <rect x="100" y="50" width="200" height="150" rx="10" fill="#E8F5E9" stroke="#4CAF50" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="200" y="30" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold">Container DAO</text>
+  
+  <!-- NFTs inside container -->
+  <g transform="translate(150,100)">
+    <rect x="-20" y="-20" width="40" height="40" rx="3" fill="#FFE66D" stroke="#FFB627" stroke-width="1"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="10">Spark</text>
+  </g>
+  
+  <g transform="translate(200,100)">
+    <rect x="-20" y="-20" width="40" height="40" rx="3" fill="#4ECDC4" stroke="#45B7AA" stroke-width="1"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="10">Signal</text>
+  </g>
+  
+  <g transform="translate(250,100)">
+    <rect x="-20" y="-20" width="40" height="40" rx="3" fill="#C5E1A5" stroke="#AED581" stroke-width="1"/>
+    <text y="5" text-anchor="middle" font-family="Arial" font-size="10">Halo</text>
+  </g>
+  
+  <!-- Genesis Wallet label -->
+  <text x="200" y="170" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Genesis Wallet (Multisig)</text>
+  
+  <!-- Community members -->
+  <circle cx="80" cy="250" r="15" fill="#B39DDB" stroke="#9575CD" stroke-width="1"/>
+  <circle cx="120" cy="250" r="15" fill="#B39DDB" stroke="#9575CD" stroke-width="1"/>
+  <circle cx="280" cy="250" r="15" fill="#B39DDB" stroke="#9575CD" stroke-width="1"/>
+  <circle cx="320" cy="250" r="15" fill="#B39DDB" stroke="#9575CD" stroke-width="1"/>
+  
+  <!-- Arrows -->
+  <path d="M 100 230 L 150 210" stroke="#666" stroke-width="1" stroke-dasharray="2,2"/>
+  <path d="M 300 230 L 250 210" stroke="#666" stroke-width="1" stroke-dasharray="2,2"/>
+  
+  <text x="200" y="270" text-anchor="middle" font-family="Arial" font-size="10" fill="#666">Community Participation</text>
+</svg>

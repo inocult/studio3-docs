@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200">
+  <!-- Flow boxes -->
+  <rect x="20" y="60" width="100" height="60" rx="5" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
+  <text x="70" y="95" text-anchor="middle" font-family="Arial" font-size="12">Milestone</text>
+  <text x="70" y="110" text-anchor="middle" font-family="Arial" font-size="10">Declared</text>
+  
+  <rect x="160" y="60" width="100" height="60" rx="5" fill="#F3E5F5" stroke="#9C27B0" stroke-width="2"/>
+  <text x="210" y="95" text-anchor="middle" font-family="Arial" font-size="12">Echoes</text>
+  <text x="210" y="110" text-anchor="middle" font-family="Arial" font-size="10">Signal</text>
+  
+  <rect x="300" y="60" width="100" height="60" rx="5" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
+  <text x="350" y="95" text-anchor="middle" font-family="Arial" font-size="12">Work</text>
+  <text x="350" y="110" text-anchor="middle" font-family="Arial" font-size="10">Period</text>
+  
+  <rect x="440" y="60" width="100" height="60" rx="5" fill="#E8F5E9" stroke="#4CAF50" stroke-width="2"/>
+  <text x="490" y="95" text-anchor="middle" font-family="Arial" font-size="12">Anchor</text>
+  <text x="490" y="110" text-anchor="middle" font-family="Arial" font-size="10">Validation</text>
+  
+  <!-- Arrows -->
+  <path d="M 120 90 L 160 90" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 260 90 L 300 90" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 400 90 L 440 90" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold">Milestone Flow</text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666" />
+    </marker>
+  </defs>
+</svg>
