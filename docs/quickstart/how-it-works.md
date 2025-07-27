@@ -122,35 +122,31 @@ When milestones are complete:
 Every venture progresses through seven phases:
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
 <h4>Phase 1-3: Startup</h4>
 
-**1. Spark** ✨ - Idea validation
-
-**2. Forge** ⚔️ - Founder selection  
-
-**3. Ignition** 🚀 - MVP building
+<p><strong>1. Spark</strong> ✨ - Idea validation</p>
+<p><strong>2. Forge</strong> ⚔️ - Founder selection</p>
+<p><strong>3. Ignition</strong> 🚀 - MVP building</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
 <h4>Phase 4-6: Growth</h4>
 
-**4. Drift** 🌊 - Finding product-market fit
-
-**5. Orbit** 🛸 - Stable operations
-
-**6. Flare** 🔥 - Scaling up
+<p><strong>4. Drift</strong> 🌊 - Finding product-market fit</p>
+<p><strong>5. Orbit</strong> 🛸 - Stable operations</p>
+<p><strong>6. Flare</strong> 🔥 - Scaling up</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
 <h4>Phase 7: Exit</h4>
 
-**7. Ascension** 🎖️ - Full independence
+<p><strong>7. Ascension</strong> 🎖️ - Full independence</p>
 
 </div>
 </div>
