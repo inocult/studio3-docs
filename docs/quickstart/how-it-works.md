@@ -126,11 +126,11 @@ Every venture progresses through seven phases:
 
 <h4>Phase 1-3: Startup</h4>
 
-1. **Spark** ✨ - Idea validation
+**1. Spark** ✨ - Idea validation
 
-2. **Forge** ⚔️ - Founder selection
+**2. Forge** ⚔️ - Founder selection  
 
-3. **Ignition** 🚀 - MVP building
+**3. Ignition** 🚀 - MVP building
 
 </div>
 
@@ -138,11 +138,11 @@ Every venture progresses through seven phases:
 
 <h4>Phase 4-6: Growth</h4>
 
-4. **Drift** 🌊 - Finding product-market fit
+**4. Drift** 🌊 - Finding product-market fit
 
-5. **Orbit** 🛸 - Stable operations
+**5. Orbit** 🛸 - Stable operations
 
-6. **Flare** 🔥 - Scaling up
+**6. Flare** 🔥 - Scaling up
 
 </div>
 
@@ -150,7 +150,7 @@ Every venture progresses through seven phases:
 
 <h4>Phase 7: Exit</h4>
 
-7. **Ascension** 🎖️ - Full independence
+**7. Ascension** 🎖️ - Full independence
 
 </div>
 </div>
