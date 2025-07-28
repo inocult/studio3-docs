@@ -925,3 +925,84 @@ html {
 [data-md-color-scheme="slate"] .timeline-item:hover {
   background: rgba(233, 30, 99, 0.1);
 }
+
+/* Task List Checkboxes */
+.md-typeset .task-list-item {
+  position: relative;
+  list-style-type: none;
+  padding-left: 1.5rem;
+}
+
+.md-typeset .task-list-item input[type="checkbox"] {
+  position: absolute;
+  left: 0;
+  top: 0.25rem;
+  width: 1.125rem;
+  height: 1.125rem;
+  margin: 0;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  cursor: pointer;
+  outline: none;
+  background: transparent;
+  border: 2px solid var(--studio3-pink);
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.md-typeset .task-list-item input[type="checkbox"]:hover {
+  border-color: var(--studio3-navy);
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(233, 30, 99, 0.2);
+}
+
+.md-typeset .task-list-item input[type="checkbox"]:checked {
+  background: var(--studio3-gradient);
+  border-color: transparent;
+}
+
+.md-typeset .task-list-item input[type="checkbox"]:checked::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 0.875rem;
+  font-weight: bold;
+}
+
+/* Arena card task lists */
+.arena-card .task-list-item input[type="checkbox"] {
+  border-color: var(--studio3-navy);
+}
+
+.arena-card .task-list-item input[type="checkbox"]:hover {
+  border-color: var(--studio3-pink);
+  background: rgba(233, 30, 99, 0.05);
+}
+
+.arena-card .task-list-item input[type="checkbox"]:checked {
+  background: var(--studio3-navy);
+  border-color: transparent;
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] .md-typeset .task-list-item input[type="checkbox"] {
+  border-color: rgba(233, 30, 99, 0.7);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .task-list-item input[type="checkbox"]:hover {
+  border-color: var(--studio3-pink);
+  background: rgba(233, 30, 99, 0.1);
+}
+
+[data-md-color-scheme="slate"] .arena-card .task-list-item input[type="checkbox"] {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+[data-md-color-scheme="slate"] .arena-card .task-list-item input[type="checkbox"]:hover {
+  border-color: var(--studio3-pink);
+  background: rgba(233, 30, 99, 0.1);
+}
