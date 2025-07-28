@@ -1,4 +1,4 @@
-.PHONY: lint lint-strict lint-fix build build-strict serve clean install validate help format format-check
+.PHONY: lint lint-strict lint-fix build build-strict serve clean install validate help format format-check pdfs
 
 # Default target
 help:
@@ -9,8 +9,9 @@ help:
 	@echo "  lint-fix    - Fix common markdown issues"
 	@echo "  format      - Format markdown files with Prettier"
 	@echo "  format-check- Check markdown formatting without changes"
-	@echo "  build       - Build the documentation"
+	@echo "  build       - Build the documentation with PDFs"
 	@echo "  build-strict- Build with strict validation"
+	@echo "  pdfs        - Generate PDF guides"
 	@echo "  serve       - Serve documentation locally"
 	@echo "  clean       - Clean build artifacts"
 	@echo "  install     - Install dependencies"
@@ -34,8 +35,13 @@ lint-fix:
 	@echo "🔧 Fixing markdown issues..."
 	@echo "Note: Automated fixing not available. Please fix issues manually."
 
+# Generate PDF guides
+pdfs:
+	@echo "📚 Generating PDF guides..."
+	@bash -c "source venv/bin/activate && python3 generate_professional_pdfs.py"
+
 # Build documentation
-build:
+build: pdfs
 	@echo "🏗️ Building documentation..."
 	@bash -c "source venv/bin/activate && mkdocs build"
 
@@ -54,6 +60,7 @@ clean:
 	@echo "🧹 Cleaning build artifacts..."
 	@rm -rf site/
 	@rm -f lint_output.txt
+	@rm -f docs/pdf/*.pdf
 
 # Format markdown files with Prettier
 format:
@@ -71,8 +78,6 @@ format-check:
 install:
 	@echo "📦 Installing Python dependencies..."
 	@python3 -m venv venv || true
-	@bash -c "source venv/bin/activate && pip install mkdocs mkdocs-material pyyaml"
-	@bash -c "source venv/bin/activate && pip install mkdocs-minify-plugin mkdocs-git-revision-date-localized-plugin"
-	@bash -c "source venv/bin/activate && pip install mkdocs-glightbox mkdocs-awesome-pages-plugin mkdocs-pdf-export-plugin"
+	@bash -c "source venv/bin/activate && pip install -r requirements.txt"
 	@echo "📦 Installing Node dependencies..."
 	@npm install

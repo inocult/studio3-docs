@@ -39,7 +39,11 @@ jobs:
         cache: 'npm'
         
     - name: Install all dependencies
-      run: make install
+      run: |
+        # Install system dependencies for WeasyPrint
+        sudo apt-get update
+        sudo apt-get install -y python3-cffi python3-brotli libpango-1.0-0 libpangoft2-1.0-0
+        make install
         
     - name: Run all validations
       run: |
@@ -48,6 +52,10 @@ jobs:
         # Run format check (don't fail on this)
         echo "💅 Checking Prettier formatting..."
         make format-check || echo "⚠️ Formatting issues found (non-blocking)"
+        
+        # Generate PDFs
+        echo "📚 Generating PDF guides..."
+        make pdfs || echo "⚠️ PDF generation failed (non-blocking)"
         
         # Run strict build (this should fail on errors)
         echo "🏗️ Running MkDocs strict build..."
@@ -75,3 +83,4 @@ jobs:
         path: |
           site/
           lint_output.txt
+          docs/pdf/*.pdf

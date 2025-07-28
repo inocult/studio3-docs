@@ -15,7 +15,7 @@ New to Studio3? Get the essence of our platform in just 5 minutes with our Quick
 
 <div class="card-actions">
 <a href="quickstart/" class="md-button md-button--primary">Start Here</a>
-<a href="pdf/studio3-quickstart.pdf" class="md-button">Download PDF</a>
+<a href="pdf/studio3-quickstart-guide.pdf" class="md-button">Download PDF</a>
 
 </div>
 </div>
@@ -54,7 +54,7 @@ Complete introduction to Studio3's venture building platform, core concepts, and
 
 <div class="card-actions">
 <a href="overview-guide/" class="md-button md-button--primary">Browse Guide</a>
-<a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
+<a href="pdf/studio3-overview-guide.pdf" class="md-button">Download PDF</a>
 
 </div>
 </div>
@@ -68,7 +68,7 @@ Everything founders need to build ventures through Studio3's transparent, gamifi
 
 <div class="card-actions">
 <a href="senders-guide/" class="md-button md-button--primary">Browse Guide</a>
-<a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
+<a href="pdf/studio3-overview-guide.pdf" class="md-button">Download PDF</a>
 
 </div>
 </div>
@@ -82,7 +82,7 @@ Master the art of signaling belief, earning rewards, and supporting ventures to 
 
 <div class="card-actions">
 <a href="echoes-guide/" class="md-button md-button--primary">Browse Guide</a>
-<a href="pdf/studio3-complete-guide.pdf" class="md-button">Download PDF</a>
+<a href="pdf/studio3-overview-guide.pdf" class="md-button">Download PDF</a>
 
 </div>
 </div>
@@ -96,7 +96,7 @@ Essential handbook for validators who guide ventures and maintain ecosystem inte
 
 <div class="card-actions">
 <a href="anchors-guide/" class="md-button md-button--primary">Browse Guide</a>
-<a href="pdf/anchors-guide.pdf" class="md-button">Download PDF</a>
+<a href="pdf/studio3-anchors-guide.pdf" class="md-button">Download PDF</a>
 
 </div>
 </div>
