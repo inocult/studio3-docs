@@ -225,9 +225,9 @@ graph LR
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-<h4>🎭 Scenario: Pivot Decision</h4>
+#### 🎭 Scenario: Pivot Decision
 
-<strong>Participants:</strong> 
+**Participants:** 
 Sender + Multiple Echoes + Anchor
 
 - Sender proposes major pivot
@@ -238,9 +238,9 @@ Sender + Multiple Echoes + Anchor
     
     <div class="arena-card" markdown="1">
 
-<h4>⚖️ Scenario: Disputed Validation</h4>
+#### ⚖️ Scenario: Disputed Validation
 
-<strong>Participants:</strong> Sender + Echoes + Multiple Anchors
+**Participants:** Sender + Echoes + Multiple Anchors
 
 - Sender claims success
 - Primary Anchor disagrees

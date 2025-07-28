@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 The Foundation of Fair Validation</h3>
+### 🔍 The Foundation of Fair Validation
 
 Evidence assessment is the core skill that separates great Anchors from good ones. This comprehensive guide teaches you to evaluate evidence objectively, thoroughly, and efficiently while maintaining the highest standards of fairness and accuracy.
 
@@ -16,7 +16,7 @@ Evidence assessment is the core skill that separates great Anchors from good one
 
 <div class="arena-card" markdown="1">
 
-<h3>📦 Understanding Evidence Types</h3>
+### 📦 Understanding Evidence Types
 
 **Primary Evidence:** Direct proof of milestone achievement
 - Working code/product
@@ -47,7 +47,7 @@ Evidence assessment is the core skill that separates great Anchors from good one
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Quality Requirements</h3>
+### ⚖️ Quality Requirements
 **Acceptable Evidence Criteria:**
 
 **Verifiability**
@@ -86,7 +86,7 @@ Evidence assessment is the core skill that separates great Anchors from good one
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Evaluating Technical Deliverables</h3>
+### 💻 Evaluating Technical Deliverables
 **Code Assessment Framework:**
 ```python
 def assess_code_evidence():
@@ -133,7 +133,7 @@ def assess_code_evidence():
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ System Design Assessment</h3>
+### 🏗️ System Design Assessment
 **Architecture Evidence Review:**
 
 **Design Documentation**
@@ -170,7 +170,7 @@ def assess_code_evidence():
 
 <div class="arena-card" markdown="1">
 
-<h3>🧪 Quality Assurance Validation</h3>
+### 🧪 Quality Assurance Validation
 **Test Evidence Categories:**
 
 **Unit Testing**
@@ -221,7 +221,7 @@ Evidence Required:
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Market Evidence Evaluation</h3>
+### 📊 Market Evidence Evaluation
 
 **Market Evidence Types:**
 
@@ -262,7 +262,7 @@ Evidence Required:
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Financial Proof Assessment</h3>
+### 💰 Financial Proof Assessment
 **Financial Evidence Review:**
 
 **Revenue Evidence**
@@ -308,7 +308,7 @@ Assessment Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 User Validation Assessment</h3>
+### 👥 User Validation Assessment
 **User Evidence Framework:**
 
 **Quantitative Metrics**
@@ -356,7 +356,7 @@ user_metrics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🔐 Ensuring Authenticity</h3>
+### 🔐 Ensuring Authenticity
 **Verification Methods:**
 
 1. **Direct Testing**
@@ -393,7 +393,7 @@ user_metrics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🚩 Identifying Problems</h3>
+### 🚩 Identifying Problems
 **Common Red Flags:**
 
 **Technical Red Flags**
@@ -435,7 +435,7 @@ user_metrics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>📁 Organizing Your Assessment</h3>
+### 📁 Organizing Your Assessment
 **Evidence Organization Framework:**
 ```
 Evidence Review Structure:
@@ -471,7 +471,7 @@ Evidence Review Structure:
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Recording Your Assessment</h3>
+### 📝 Recording Your Assessment
 **Assessment Documentation:**
 
 **Evidence Log Template:**
@@ -506,7 +506,7 @@ Evidence Review Structure:
 
 <div class="arena-card" markdown="1">
 
-<h3>🧩 Assessing Complex Deliverables</h3>
+### 🧩 Assessing Complex Deliverables
 **Handling Complexity:**
 
 **Integrated Systems**
@@ -543,7 +543,7 @@ Evidence Review Structure:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Handling Controversies</h3>
+### ⚖️ Handling Controversies
 **Dispute Resolution Process:**
 
 **Common Disputes:**
@@ -580,7 +580,7 @@ Evidence Review Structure:
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Ensuring Assessment Quality</h3>
+### ✅ Ensuring Assessment Quality
 **Quality Checklist:**
 ```
 Before Finalizing:
@@ -607,7 +607,7 @@ Before Finalizing:
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Enhancing Skills</h3>
+### 📈 Enhancing Skills
 **Skill Development:**
 
 1. **Technical Skills**

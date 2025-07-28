@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 From Idea to Working Product</h3>
+### 🚀 From Idea to Working Product
 
 Your MVP (Minimum Viable Product) is your first real test in the market. It's not about perfection - it's about learning fast, validating assumptions, and building something people want. This guide shows you how to build an MVP that attracts users and signals.
 
@@ -16,7 +16,7 @@ Your MVP (Minimum Viable Product) is your first real test in the market. It's no
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 The Studio3 MVP Approach</h3>
+### 🎯 The Studio3 MVP Approach
 
 **MVP Principles:**
 1. **Minimum** - Just enough features
@@ -43,7 +43,7 @@ Your MVP (Minimum Viable Product) is your first real test in the market. It's no
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Rapid Iteration Cycle</h3>
+### 🔄 Rapid Iteration Cycle
 
 ```mermaid
 graph LR
@@ -65,7 +65,7 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 The MoSCoW Method</h3>
+### 📋 The MoSCoW Method
 **Feature Categories:**
 
 **Must Have (60%)**
@@ -128,7 +128,7 @@ features = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🗄️ Building User Journeys</h3>
+### 🗄️ Building User Journeys
 **Story Structure:**
 ```
 As a [user type]
@@ -174,7 +174,7 @@ Acceptance:
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Choosing Your Tools</h3>
+### 🛠️ Choosing Your Tools
 
 **Stack Considerations:**
 
@@ -220,7 +220,7 @@ mvp_stack = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ Building for Evolution</h3>
+### 🏗️ Building for Evolution
 **Architecture Principles:**
 ```
 MVP Architecture
@@ -253,7 +253,7 @@ MVP Architecture
 
 <div class="arena-card" markdown="1">
 
-<h3>🏃 2-Week Sprint Cycles</h3>
+### 🏃 2-Week Sprint Cycles
 **Sprint Structure:**
 
 **Week 1: Build**
@@ -292,7 +292,7 @@ Day 9-10: Release Prep
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Speed Techniques</h3>
+### ⚡ Speed Techniques
 
 **Prototyping Strategies:**
 
@@ -334,7 +334,7 @@ Day 9-10: Release Prep
 
 <div class="arena-card" markdown="1">
 
-<h3>🔐 First User Experience</h3>
+### 🔐 First User Experience
 **Auth Requirements:**
 ```javascript
 // Minimal auth flow
@@ -372,7 +372,7 @@ const authFlow = {
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 The Magic Moment</h3>
+### 💡 The Magic Moment
 **Value Delivery Framework:**
 
 1. **Identify Core Value**
@@ -402,7 +402,7 @@ const authFlow = {
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Learning from Users</h3>
+### 📊 Learning from Users
 **Essential Analytics:**
 ```javascript
 // Track these from day 1
@@ -445,7 +445,7 @@ const analytics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🧪 Pragmatic Testing</h3>
+### 🧪 Pragmatic Testing
 **Testing Priorities:**
 
 1. **Critical Path Testing**
@@ -480,7 +480,7 @@ const analytics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Getting Real Feedback</h3>
+### 👥 Getting Real Feedback
 **Beta Testing Strategy:**
 
 **Week 1: Closed Beta**
@@ -510,7 +510,7 @@ const analytics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Ready for Launch?
+### ✅ Ready for Launch?
 **Technical Checklist:**
 - [ ] Core features working
 - [ ] Authentication secure
@@ -536,7 +536,7 @@ const analytics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Making a Splash</n
+### 🚀 Making a Splash
 
 **Soft Launch Plan:**
 
@@ -565,7 +565,7 @@ const analytics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Don't Do This</h3>
+### ⚠️ Don't Do This
 **Classic Mistakes:**
 
 1. **Feature Creep**
@@ -596,7 +596,7 @@ const analytics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🌱 Growing Beyond MVP</h3>
+### 🌱 Growing Beyond MVP
 **Evolution Path:**
 
 1. **Validate Core** (Weeks 1-4)

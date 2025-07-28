@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Shaping Venture Trajectories</h3>
+### 🎯 Shaping Venture Trajectories
 
 Strategic advice is where Anchors provide their highest value - helping founders see beyond daily execution to build ventures that can scale, compete, and ultimately succeed. This guide teaches you to think and advise strategically at the level ventures need.
 
@@ -16,7 +16,7 @@ Strategic advice is where Anchors provide their highest value - helping founders
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Thinking Like a Strategist</h3>
+### 🧠 Thinking Like a Strategist
 
 **Strategic vs Tactical Thinking:| Tactical | Strategic |
 |----------|-----------|
@@ -44,7 +44,7 @@ Strategic advice is where Anchors provide their highest value - helping founders
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Understanding Interconnections</h3>
+### 🔄 Understanding Interconnections
 ** Systems Elements:
 ```mermaid
 graph TD
@@ -97,7 +97,7 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Understanding Market Dynamics</h3>
+### 📊 Understanding Market Dynamics
 **Market Assessment Framework:** TAM/SAM/SOM Analysis```
 TAM (Total Addressable Market)
 ├── SAM (Serviceable Addressable Market)
@@ -125,7 +125,7 @@ TAM (Total Addressable Market)
 
 <div class="arena-card" markdown="1">
 
-<h3>⚔️ Winning in the Market</h3>
+### ⚔️ Winning in the Market
 **Porter's Five Forces Applied:** 1. Competitive Rivalry
 - ** Current competitors
 - Intensity factors
@@ -158,7 +158,7 @@ TAM (Total Addressable Market)
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Finding Your Space</h3>
+### 🎯 Finding Your Space
 **Positioning Framework:**  Value Proposition Canvas:
 ```
 Customer Jobs → Products/Services
@@ -204,7 +204,7 @@ Desired Gains → Gain Creators
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Designing Sustainable Models</h3>
+### 💰 Designing Sustainable Models
 **Revenue Model Options:** Transaction-Based
 - ** One-time purchase
 - Pay-per-use
@@ -233,7 +233,7 @@ Desired Gains → Gain Creators
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Building Profitable Growth</h3>
+### 📈 Building Profitable Growth
 ** Unit Economic Framework:
 ```
 LTV (Lifetime Value) = ARPU × Gross Margin × Customer Lifetime
@@ -281,7 +281,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Scaling Strategically</h3>
+### 🚀 Scaling Strategically
 **Growth Stages:** Stage 1: Product-Market Fit
 - ** Problem validation
 - Solution refinement
@@ -309,7 +309,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>📢 Distribution Excellence</h3>
+### 📢 Distribution Excellence
 **Channel Assessment Matrix:| Channel | CAC | Scale Potential | Control | Fit |
 |---------|-----|----------------|---------|-----|
 | Direct Sales | High | Medium | High | B2B |
@@ -332,7 +332,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Staying Ahead</h3>
+### 💡 Staying Ahead
 **Innovation Horizons:** Horizon 1: Core (70%)
 - ** Current business
 - Incremental improvement
@@ -361,7 +361,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>🔧 Technical Strategic Decisions</h3>
+### 🔧 Technical Strategic Decisions
 **Technology Choices:** Build vs Buy vs Partner```
 ** Build When:
 - Core differentiator
@@ -396,7 +396,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Building for Scale</h3>
+### 👥 Building for Scale
 **Organizational Evolution:** Founder-Led (1-10)
 - ** Flat structure
 - Direct communication
@@ -424,7 +424,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Winning the Talent War</h3>
+### 🌟 Winning the Talent War
 ** Talent Acquisition:
 - ** Employer brand
 - Sourcing strategy
@@ -455,7 +455,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>💵 Capital Planning</h3>
+### 💵 Capital Planning
 **Funding Options Analysis:** Bootstrapping
 - ** Full control
 - Slow growth
@@ -489,7 +489,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Planning the Endgame</h3>
+### 🎯 Planning the Endgame
 **Exit Options:** Acquisition
 - ** Strategic buyers
 - Financial buyers
@@ -525,7 +525,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Strategic Risk Management</h3>
+### ⚠️ Strategic Risk Management
 **Risk Categories:** Market Risks
 - ** Demand disappearance
 - Competition intensity
@@ -556,7 +556,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Strategic Alignment</h3>
+### 📊 Strategic Alignment
 **Communication Framework:** Strategic Updates
 - ** Market dynamics
 - Competitive position
@@ -584,7 +584,7 @@ Payback Period < 12 months
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Strategic Toolbox</h3>
+### 🛠️ Strategic Toolbox
 ** Essential Frameworks:
 1. **SWOT Analysis**
 : 2. Value Chain Analysis

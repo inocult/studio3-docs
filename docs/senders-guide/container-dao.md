@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🏛️ From Duel Victory to DAO Creation</h3>
+### 🏛️ From Duel Victory to DAO Creation
 
 Congratulations on winning your Forge Duel! Now it's time to establish your Container DAO - the governance structure that will house your venture's NFTs and enable community participation without equity dilution.
 
@@ -16,7 +16,7 @@ Congratulations on winning your Forge Duel! Now it's time to establish your Cont
 
 <div class="arena-card" markdown="1">
 
-<h3>📦 Your Venture's Governance Wrapper</h3>
+### 📦 Your Venture's Governance Wrapper
 
 **Container DAO Fundamentals:**
 - ** Lightweight governance structure
@@ -41,7 +41,7 @@ Congratulations on winning your Forge Duel! Now it's time to establish your Cont
 
 <div class="arena-card" markdown="1">
 
-<h3>🔐 Your NFT Treasury</h3>
+### 🔐 Your NFT Treasury
 
 ** Genesis Wallet Structure:
 ```
@@ -70,7 +70,7 @@ Genesis Wallet (Multisig)
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Before You Begin</h3>
+### ✅ Before You Begin
 ** Required Elements:
 - ** [ ] Forge Duel victory confirmation
 - [ ] Founding team alignment
@@ -90,7 +90,7 @@ Genesis Wallet (Multisig)
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Step-by-Step Setup</h3>
+### 🚀 Step-by-Step Setup
 **Phase 1: Initialize (Day 1)
 ```python
 # DAO Initialization
@@ -130,7 +130,7 @@ Genesis Wallet (Multisig)
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Balanced Governance
+### ⚖️ Balanced Governance
 **Voting Power Distribution:| Stakeholder | Ignition | Drift | Orbit | Flare | Ascension |
 |-------------|----------|-------|-------|-------|-----------|
 | Founders | 80% | 70% | 60% | 51% | Buyback |
@@ -153,7 +153,7 @@ Genesis Wallet (Multisig)
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Making Decisions
+### 📋 Making Decisions
 
 ** Proposal Lifecycle:
 ```
@@ -179,7 +179,7 @@ Milestone Proposals** - Define next goals
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Managing DAO Resources</n
+### 💰 Managing DAO Resources</n
 
 ** Treasury Structure:
 ```
@@ -214,7 +214,7 @@ Container DAO Treasury
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Funding Your DAO
+### 📈 Funding Your DAO
 ** Revenue Sources:
 - 
 1. **Milestone Rewards**
@@ -245,7 +245,7 @@ Container DAO Treasury
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Activating Your Community
+### 👥 Activating Your Community
 **Engagement Strategies:**  Communication Channels:
 - ** Discord server setup
 - Telegram groups
@@ -275,7 +275,7 @@ Contributors** - Active participants
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Leveraging Signal Holders
+### 📡 Leveraging Signal Holders
 ** Echo Benefits in DAO:
 - ** Early access to products
 - Governance participation
@@ -297,7 +297,7 @@ Contributors** - Active participants
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 From Founder-Led to Community-Driven
+### 🔄 From Founder-Led to Community-Driven
 **Decentralization Phases:** Phase 1: Ignition (Months 1-6)
 - ** Founder control: 80%
 - Focus: Product building
@@ -325,7 +325,7 @@ Contributors** - Active participants
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Founder Protections
+### 🎯 Founder Protections
 ** Control Mechanisms:
 - 
 1. **Veto Rights**
@@ -353,7 +353,7 @@ Contributors** - Active participants
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Legal Framework
+### ⚖️ Legal Framework
 ** Key Considerations:
 - ** Jurisdiction selection
 - Entity structure
@@ -387,7 +387,7 @@ Contributors** - Active participants
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Common DAO Mistakes
+### ⚠️ Common DAO Mistakes
 ** What to Avoid:
 1. **Over-Decentralization**
 
@@ -427,7 +427,7 @@ Contributors** - Active participants
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 After DAO Creation
+### 🚀 After DAO Creation
 ** Immediate Actions:
 1. Announce DAO launch
 2. Onboard initial members

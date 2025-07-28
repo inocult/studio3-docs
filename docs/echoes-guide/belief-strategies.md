@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ The Art of Backing Winners</h3>
+### ✅ The Art of Backing Winners
 
 Successful belief signaling requires more than optimism - it demands strategic thinking, careful analysis, and disciplined execution. This guide reveals advanced strategies for identifying, timing, and maximizing belief signals that generate superior returns.
 
@@ -16,7 +16,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 Belief Signal Economics</h3>
+### 💎 Belief Signal Economics
 
 **Belief Reward Structure:**
 - ** Base multiplier: 1.5x
@@ -36,7 +36,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 The Optimist's Edge</h3>
+### 🧠 The Optimist's Edge
 ** Why Belief Succeeds:
 - ** Most ventures try to succeed
 - Teams work hard
@@ -57,7 +57,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Systematic Belief Analysis</h3>
+### 🎯 Systematic Belief Analysis
 - ** B
 - Background verification
 - **  E
@@ -81,7 +81,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Belief Confidence Scale</h3>
+### 📊 Belief Confidence Scale
 
 **Ultra-High Conviction (90%+)
 - ** Proven team
@@ -109,7 +109,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ When to Signal Belief</h3>
+### ⏰ When to Signal Belief
 ** Optimal Entry Indicators:
 1. **Technical Readiness**
 
@@ -147,7 +147,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Phase Entry Strategies</h3>
+### 📈 Phase Entry Strategies
 ** Spark/Forge Phases:
 - ** Enter early for maximum multiplier
 - Higher risk tolerance required
@@ -172,7 +172,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>🎲 Success Indicators</h3>
+### 🎲 Success Indicators
 ** Team Patterns:
 - ** Second-time founders
 - Domain experts
@@ -198,7 +198,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 High-Success Sectors</h3>
+### 🎯 High-Success Sectors
 ** Historically Strong:
 1. **Infrastructure**
  (75% success)**   - Developer tools
@@ -238,7 +238,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Riding Positive Momentum</h3>
+### 🚀 Riding Positive Momentum
 ** Momentum Indicators:
 - ** Daily progress updates
 - Ahead of schedule
@@ -263,7 +263,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Betting on Comebacks</h3>
+### 🔄 Betting on Comebacks
 ** Recovery Patterns:
 - ** Initial struggles
 - Team pivots effectively
@@ -288,7 +288,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 Premium Team Strategy</h3>
+### 💎 Premium Team Strategy
 ** Identifying Premium Teams:
 - ** Multiple successful exits
 - Industry recognition
@@ -316,7 +316,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Belief Portfolio Structure</h3>
+### 📊 Belief Portfolio Structure
 ** Optimal Mix:
 ```
 Premium Teams: 40% (Safe foundation)
@@ -338,7 +338,7 @@ Experimental: 5% (Learning/lottery)
 
 <div class="arena-card" markdown="1">
 
-<h3>🪜 Progressive Position Building</h3>
+### 🪜 Progressive Position Building
 ** Laddering Strategy:
 1. **Initial Position**
  (25%)**   - Test the waters
@@ -372,7 +372,7 @@ Experimental: 5% (Learning/lottery)
 
 <div class="arena-card" markdown="1">
 
-<h3>🎮 Position Monitoring</h3>
+### 🎮 Position Monitoring
 ** Daily Checks:
 - ** Progress updates
 - Team communication
@@ -391,7 +391,7 @@ Experimental: 5% (Learning/lottery)
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Belief Mindset</h3>
+### 🧠 Belief Mindset
 
 ** Healthy Belief Habits:
 - ** Optimistic but realistic
@@ -414,7 +414,7 @@ Experimental: 5% (Learning/lottery)
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Return Enhancement</h3>
+### 💰 Return Enhancement
 ** Tactics for Higher Returns:
 1. **Early Entry**
 
@@ -456,7 +456,7 @@ Experimental: 5% (Learning/lottery)
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Learning from Winners</h3>
+### 📚 Learning from Winners
 **Case 1: The Perfect Signal
 - ** Venture: DeFi lending protocol
 - Phase: Ignition
@@ -488,7 +488,7 @@ Experimental: 5% (Learning/lottery)
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Belief Pitfalls</h3>
+### ❌ Belief Pitfalls
 ** Fatal Errors:
 - ** Believing hype alone
 - Ignoring red flags
@@ -510,7 +510,7 @@ Experimental: 5% (Learning/lottery)
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Market Inefficiencies</h3>
+### 🎯 Market Inefficiencies
 ** Arbitrage Opportunities:
 1. **Cross-Venture**
 
@@ -544,7 +544,7 @@ Experimental: 5% (Learning/lottery)
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 KPIs for Belief Signals</h3>
+### 📊 KPIs for Belief Signals
 ** Key Metrics:
 - ** Win rate: Target 70%+
 - Average return: Target 1.8x+

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ The Sender's Path</h3>
+### 🏗️ The Sender's Path
 
 As a Sender in Studio3, you're not just a founder - you're a public builder who transforms ideas into reality through transparent milestones, community validation, and progressive funding. This guide covers everything you need to know to succeed.
 
@@ -39,7 +39,7 @@ Senders are the entrepreneurs who:
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Your Progression Path</h3>
+### 📈 Your Progression Path
 
 - 1.** ✨ Spark
 - Create and pitch your idea
@@ -62,7 +62,7 @@ Senders are the entrepreneurs who:
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Public Accountability</h3>
+### 🔍 Public Accountability
 
 ** Daily Requirements:
 - ** Progress updates in Arena
@@ -91,7 +91,7 @@ Senders are the entrepreneurs who:
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Building Your Echo Army</h3>
+### 👥 Building Your Echo Army
 ** Engagement Strategies:
 - ** Host weekly AMAs
 - Share behind-the-scenes content
@@ -143,7 +143,7 @@ Senders are the entrepreneurs who:
 
 <div class="arena-card" markdown="1">
 
-<h3>🎨 NFT Progression</h3>
+### 🎨 NFT Progression
 
 1. **Spark NFT**
 - ** Your original idea
@@ -180,7 +180,7 @@ Senders are the entrepreneurs who:
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Understanding Stakes</h3>
+### 💰 Understanding Stakes
 **Belief Signals = Your Funding
 - ** Supporters stake tokens on your success
 - You receive funds progressively
@@ -233,7 +233,7 @@ Senders are the entrepreneurs who:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Sender Mistakes</h3>
+### ⚠️ Sender Mistakes
 ** Fatal Errors:
 - ** Overpromising on milestones
 - Going dark during challenges
@@ -274,7 +274,7 @@ Senders are the entrepreneurs who:
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Team Composition</h3>
+### 👥 Team Composition
 ** Core Roles Needed:
 1. **Technical Lead**
 - ** Build the product
@@ -316,7 +316,7 @@ Senders are the entrepreneurs who:
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Key Performance Indicators</h3>
+### 📊 Key Performance Indicators
 ** Weekly Metrics:
 - ** Signal growth rate
 - Belief/doubt ratio

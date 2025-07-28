@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🤔 When Echoes Signal Against You</h3>
+### 🤔 When Echoes Signal Against You
 
 Doubt signals are not failures - they're valuable feedback. The best founders learn to embrace doubt, extract insights, and use skepticism as fuel for improvement. This guide shows you how to handle negative signals productively.
 
@@ -16,7 +16,7 @@ Doubt signals are not failures - they're valuable feedback. The best founders le
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 The Anatomy of Skepticism</h3>
+### 🔍 The Anatomy of Skepticism
 
 **Common Doubt Triggers:**
 1. **Execution Concerns**
@@ -86,7 +86,7 @@ Doubt signals are not failures - they're valuable feedback. The best founders le
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Know Your Critics
+### 👥 Know Your Critics
 ** Doubter Profiles:
 **| Type | Motivation | Value | Response |
 |------|-----------|-------|----------|
@@ -110,7 +110,7 @@ Doubt signals are not failures - they're valuable feedback. The best founders le
 
 <div class="arena-card" markdown="1">
 
-<h3>⏱️ Rapid Response Protocol
+### ⏱️ Rapid Response Protocol
 **Hour 1-4: Assessment
 ```markdown
 ** Doubt Signal Checklist:
@@ -152,7 +152,7 @@ Your skepticism helps us build better."
 
 <div class="arena-card" markdown="1">
 
-<h3>📢 Choosing Your Channel
+### 📢 Choosing Your Channel
 ** Public Response When:
 - ** Multiple people affected
 - Community-wide concern
@@ -186,7 +186,7 @@ Your skepticism helps us build better."
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Finding Gold in Criticism
+### 💡 Finding Gold in Criticism
 ** Insight Extraction Process:
 1. **Remove Emotion**
 
@@ -241,7 +241,7 @@ Your skepticism helps us build better."
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 From Skeptic to Supporter
+### 🔄 From Skeptic to Supporter
 **Conversion Strategy:** Step 1: Acknowledge**"You raised concerns about [X]. You were right."
 
 **Step 2: Show Action**"Based on your feedback, we [specific changes]."
@@ -275,7 +275,7 @@ Your skepticism helps us build better."
 
 <div class="arena-card" markdown="1">
 
-<h3>✍️ Responding with Grace
+### ✍️ Responding with Grace
 ** Message Components:
 1. **Acknowledgment**
 
@@ -329,7 +329,7 @@ Your skepticism helps us build better."
 
 <div class="arena-card" markdown="1">
 
-<h3>🌊 Preventing Doubt Cascades
+### 🌊 Preventing Doubt Cascades
 ** Sentiment Management:
 ```python
 **class SentimentManager: def monitor_community(self):
@@ -383,7 +383,7 @@ Your skepticism helps us build better."
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 When Doubt Demands Change
+### 🔄 When Doubt Demands Change
 ** Pivot Communication:
 ```markdown
 ## Community Update: Evolution Based on Your Feedback
@@ -424,7 +424,7 @@ We need your continued feedback as we evolve.
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Controversy as Catalyst
+### 🎯 Controversy as Catalyst
 **Strategic Controversy:**  When Doubt Helps:
 - ** Challenges status quo
 - Sparks discussion
@@ -474,7 +474,7 @@ We need your continued feedback as we evolve.
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Doubt-Proof Foundation
+### 🛡️ Doubt-Proof Foundation
 ** Resilience Strategies:
 1. **Systematic Improvement**
    ```python
@@ -515,7 +515,7 @@ We need your continued feedback as we evolve.
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Former Doubters = Best Advocates
+### 🤝 Former Doubters = Best Advocates
 ** Advocate Creation Process:
 1. **Identify Converted Doubters**
 
@@ -565,7 +565,7 @@ We need your continued feedback as we evolve.
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Measuring Doubt Impact
+### 📊 Measuring Doubt Impact
 ** Key Metrics:
 ```javascript
 const doubtMetrics = {
@@ -602,7 +602,7 @@ const doubtMetrics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>📖 Institutional Memory
+### 📖 Institutional Memory
 ** Learning System:
 1. **Document Everything**
 

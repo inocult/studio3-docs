@@ -14,7 +14,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>1. Getting Started</h3>
+### 1. Getting Started
 - <a href="founder-basics.md">Founder Basics</a>
 - <a href="requirements.md">Requirements & Prerequisites</a>
 - <a href="creating-spark.md">Creating Your Spark</a>
@@ -23,7 +23,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 <div class="arena-card" markdown="1">
 
-<h3>2. The Forge</h3>
+### 2. The Forge
 - <a href="forge-duels.md">Understanding Duels</a>
 - <a href="winning-strategies.md">Winning Strategies</a>
 - <a href="duel-preparation.md">Duel Preparation</a>
@@ -32,7 +32,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 <div class="arena-card" markdown="1">
 
-<h3>3. Building Your Venture</h3>
+### 3. Building Your Venture
 - <a href="container-dao.md">Container DAO Setup</a>
 - <a href="milestone-planning.md">Milestone Planning</a>
 - <a href="mvp-development.md">MVP Development</a>
@@ -41,7 +41,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 <div class="arena-card" markdown="1">
 
-<h3>4. Community Management</h3>
+### 4. Community Management
 - <a href="engaging-echoes.md">Engaging Supporters</a>
 - <a href="handling-doubt.md">Handling Doubt Signals</a>
 - <a href="building-momentum.md">Building Momentum</a>
@@ -50,7 +50,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 <div class="arena-card" markdown="1">
 
-<h3>5. Growth Phases</h3>
+### 5. Growth Phases
 - <a href="drift-navigation/">Navigating Drift</a>
 - <a href="achieving-orbit/">Achieving Orbit</a>
 - <a href="flare-scaling/">Flare Scaling</a>
@@ -59,7 +59,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 <div class="arena-card" markdown="1">
 
-<h3>6. Exit & Sovereignty</h3>
+### 6. Exit & Sovereignty
 - <a href="ascension-planning/">Planning Ascension</a>
 - <a href="buyback-process/">Buyback Process</a>
 - <a href="post-graduation/">Post-Graduation</a>
@@ -88,7 +88,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>📝 Templates</h3>
+### 📝 Templates
 - Milestone Declaration Template
 - Progress Update Format
 
@@ -100,7 +100,7 @@ This guide is specifically designed for founders (Senders) who want to build ven
 
 <div class="arena-card" markdown="1">
 
-<h3>🎥 Tutorials</h3>
+### 🎥 Tutorials
 - Creating Your First Spark
 - Setting Up Container DAO
 
@@ -130,14 +130,14 @@ Track your progress through key indicators:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>DataVault Journey</h4>
+#### DataVault Journey
 From privacy idea to $500M acquisition in 18 months. Learn their strategies for rapid growth and community engagement.
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h4>EcoChain Pivot</h4>
+#### EcoChain Pivot
 Successfully pivoted from carbon credits to supply chain transparency. Master the art of strategic direction changes.
 
 </div>

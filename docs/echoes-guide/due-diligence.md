@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🔬 Institutional-Quality Analysis</h3>
+### 🔬 Institutional-Quality Analysis
 
 This comprehensive framework elevates your research beyond basic checks to professional-grade due diligence. Master these methods to make informed decisions, minimize risks, and maximize your success rate as an Echo.
 
@@ -16,7 +16,7 @@ This comprehensive framework elevates your research beyond basic checks to profe
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Full DD Checklist</h3>
+### 📋 Full DD Checklist
 
 **Phase 1: Initial Screening (30 min)
 - ** Venture overview
@@ -45,7 +45,7 @@ This comprehensive framework elevates your research beyond basic checks to profe
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ 30-Minute Screen</h3>
+### ⚡ 30-Minute Screen
 ** The 10-Point Quick Check:
 1. ✓ Real team with LinkedIn/GitHub
 2. ✓ Clear problem statement
@@ -64,7 +64,7 @@ This comprehensive framework elevates your research beyond basic checks to profe
 
 <div class="arena-card" markdown="1">
 
-<h3>🚩 Instant Disqualifiers</h3>
+### 🚩 Instant Disqualifiers
 ** Hard Pass Triggers:
 - ** Anonymous team
 - No technical proof
@@ -83,7 +83,7 @@ This comprehensive framework elevates your research beyond basic checks to profe
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Technical Deep Dive</h3>
+### 💻 Technical Deep Dive
 ** Code Analysis:
 ```bash
 ** GitHub Repository Check:
@@ -115,7 +115,7 @@ This comprehensive framework elevates your research beyond basic checks to profe
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Market Deep Dive</h3>
+### 📊 Market Deep Dive
 ** TAM Calculation:
 ```
 Total Addressable Market (TAM)
@@ -144,7 +144,7 @@ Total Addressable Market (TAM)
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Background Verification</h3>
+### 👥 Background Verification
 ** Founder Research Template:
 ```
 Name: _______________
@@ -184,7 +184,7 @@ Role: _______________
 
 <div class="arena-card" markdown="1">
 
-<h3>💵 Financial Modeling</h3>
+### 💵 Financial Modeling
 ** Revenue Projection Model:
 ```
 ** Year 1:
@@ -222,7 +222,7 @@ Break-even: Month 18
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Comprehensive Risk Matrix</h3>
+### ⚠️ Comprehensive Risk Matrix
 **Risk Scoring (1-5 scale):| Risk Category | Score | Mitigation |
 |--------------|-------|------------|
 | Technical Risk | _/5 | Team expertise |
@@ -246,7 +246,7 @@ Break-even: Month 18
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Social Validation</h3>
+### 👥 Social Validation
 ** Community Health Check:
 - ** Discord members: ___
 - Daily active: ___%
@@ -266,7 +266,7 @@ Break-even: Month 18
 
 <div class="arena-card" markdown="1">
 
-<h3>🔨 Scenario Analysis</h3>
+### 🔨 Scenario Analysis
 ** Best Case Scenario:
 - ** Everything goes right
 - 2x planned growth
@@ -293,7 +293,7 @@ Break-even: Month 18
 
 <div class="arena-card" markdown="1">
 
-<h3>📄 Professional DD Report</h3>
+### 📄 Professional DD Report
 
 ```markdown
 # Due Diligence Report: [Venture Name]
@@ -344,7 +344,7 @@ Analyst: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>🕵️ Research Methods</h3>
+### 🕵️ Research Methods
 ** Primary Sources:
 1. **Direct Communication**
 
@@ -392,7 +392,7 @@ Analyst: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Team Psychology</h3>
+### 🧠 Team Psychology
 ** Communication Patterns:
 - ** Response time to questions
 - Transparency level
@@ -420,7 +420,7 @@ Analyst: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>🏦 DeFi-Specific Checks</h3>
+### 🏦 DeFi-Specific Checks
 ** Additional Requirements:
 - ** Smart contract audits (2+)
 - Economic model analysis
@@ -437,7 +437,7 @@ Analyst: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>🎮 Gaming-Specific Checks</h3>
+### 🎮 Gaming-Specific Checks
 ** Additional Requirements:
 - ** Gameplay loop analysis
 - Monetization model
@@ -456,7 +456,7 @@ Analyst: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Efficient Research</h3>
+### ⏰ Efficient Research
 ** Time Allocation:
 - ** Initial screen: 30 min
 - Deep dive: 2-4 hours
@@ -476,7 +476,7 @@ Analyst: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ DD Quality Checklist</h3>
+### ✅ DD Quality Checklist
 ** Before Signaling:
 - ** [ ] All sections complete
 - [ ] Sources documented
@@ -495,7 +495,7 @@ Analyst: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ DD Failures</h3>
+### ❌ DD Failures
 ** Analysis Errors:
 - ** Confirmation bias
 - Insufficient depth
@@ -517,7 +517,7 @@ Analyst: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Skill Development</h3>
+### 📈 Skill Development
 ** Learning Path:
 1. **Study Reports**
 

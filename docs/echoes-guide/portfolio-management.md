@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Institutional-Grade Portfolio Strategy</h3>
+### 📊 Institutional-Grade Portfolio Strategy
 
 Building and managing a diversified signal portfolio is the key to long-term success as an Echo. This comprehensive guide provides frameworks, strategies, and tools to construct portfolios that maximize returns while managing risk systematically.
 
@@ -16,7 +16,7 @@ Building and managing a diversified signal portfolio is the key to long-term suc
 
 <div class="arena-card" markdown="1">
 
-<h3>🎓 Adapted Portfolio Theory</h3>
+### 🎓 Adapted Portfolio Theory
 
 **Core Concepts:**
 - 
@@ -43,7 +43,7 @@ Building and managing a diversified signal portfolio is the key to long-term suc
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Risk-Return Optimization</h3>
+### 📈 Risk-Return Optimization
 ** Portfolio Efficiency Curve:
 ```
 Return
@@ -72,7 +72,7 @@ Return
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Strategic Allocation Model</h3>
+### 🎯 Strategic Allocation Model
 **Core Holdings (70%)
 - ** Established teams
 - Proven models
@@ -97,7 +97,7 @@ Return
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Multi-Factor Diversification</h3>
+### 🌐 Multi-Factor Diversification
 ** Diversification Dimensions:
 1. **Phase Distribution**
    ```
@@ -140,7 +140,7 @@ Return
 
 <div class="arena-card" markdown="1">
 
-<h3>📏 Scientific Position Sizing</h3>
+### 📏 Scientific Position Sizing
 ** Kelly Criterion (Modified):
 ```
 Position Size = (p × b - q) / b × 0.25
@@ -163,7 +163,7 @@ q = probability of failure
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Portfolio Risk Analysis</h3>
+### 📊 Portfolio Risk Analysis
 ** Key Risk Indicators:
 1. **Maximum Drawdown**
 
@@ -199,7 +199,7 @@ q = probability of failure
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Aggressive Growth Model</h3>
+### 🚀 Aggressive Growth Model
 ** Allocation:
 ```
 Early Phase: 40%
@@ -225,7 +225,7 @@ Contrarian: 10%
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Steady Growth Model</h3>
+### ⚖️ Steady Growth Model
 ** Allocation:
 ```
 Core Quality: 40%
@@ -252,7 +252,7 @@ Experimental: 5%
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Capital Preservation Model</h3>
+### 🛡️ Capital Preservation Model
 ** Allocation:
 ```
 Late Phase: 50%
@@ -280,7 +280,7 @@ Strategic Doubt: 5%
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Portfolio Rebalancing</h3>
+### 🔄 Portfolio Rebalancing
 ** Rebalancing Triggers:
 1. **Calendar-Based**
 
@@ -318,7 +318,7 @@ Strategic Doubt: 5%
 
 <div class="arena-card" markdown="1">
 
-<h3>🎮 Active Portfolio Management</h3>
+### 🎮 Active Portfolio Management
 **Market Conditions:**  Bull Market Adjustments:
 - ** Increase growth allocation
 - Larger positions
@@ -343,7 +343,7 @@ Strategic Doubt: 5%
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Key Performance Indicators</h3>
+### 📈 Key Performance Indicators
 ** Core Metrics:
 ```
 Total Return: ___%
@@ -368,7 +368,7 @@ Recovery Time: ___ days
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Performance Attribution</h3>
+### 🔍 Performance Attribution
 ** Return Sources:
 1. **Selection Effect**
 
@@ -409,7 +409,7 @@ Total: ___%
 
 <div class="arena-card" markdown="1">
 
-<h3>🔗 Reducing Correlation Risk</h3>
+### 🔗 Reducing Correlation Risk
 ** Correlation Matrix:
 ```
         DeFi  Game  B2B   AI
@@ -430,7 +430,7 @@ AI      0.4   0.2   0.3   1.0
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Factor-Based Approach</h3>
+### 🎯 Factor-Based Approach
 ** Signal Factors:
 1. **Quality Factor**
 
@@ -472,7 +472,7 @@ AI      0.4   0.2   0.3   1.0
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Portfolio Tracker Template</h3>
+### 📊 Portfolio Tracker Template
 ** Essential Columns:
 ```
 Date | Venture | Phase | Type | Amount | Status | 
@@ -491,7 +491,7 @@ Current Value | Return | Weight | Notes
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Signal Decision Checklist</h3>
+### ✅ Signal Decision Checklist
 ** Before Every Signal:
 - ** [ ] Fits portfolio strategy?
 - [ ] Within position limits?
@@ -510,7 +510,7 @@ Current Value | Return | Weight | Notes
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Portfolio Pitfalls</h3>
+### ❌ Portfolio Pitfalls
 ** Construction Errors:
 - ** Over-concentration
 - No diversification
@@ -532,7 +532,7 @@ Current Value | Return | Weight | Notes
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Growth Stages</h3>
+### 📈 Growth Stages
 **Stage 1: Learning (0-6 months)
 - ** 5-10 positions
 - Small sizes
@@ -555,7 +555,7 @@ Current Value | Return | Weight | Notes
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Portfolio Goals</h3>
+### 🎯 Portfolio Goals
 ** 1-Year Targets:
 - ** 50%+ total return
 - 70%+ win rate

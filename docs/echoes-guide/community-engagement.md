@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 The Power of Community</h3>
+### 🤝 The Power of Community
 
 Success as an Echo extends far beyond individual signals. This guide shows you how to engage meaningfully with the Studio3 community, build valuable relationships, contribute to ecosystem growth, and leverage collective intelligence for better outcomes.
 
@@ -16,7 +16,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Community Structure</h3>
+### 🌐 Community Structure
 
 **Key Community Spaces:**
 1. **Discord Server:**
@@ -61,7 +61,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Give and Receive</h3>
+### 💡 Give and Receive
 ** What You Can Offer:
 - ** Research and analysis
 - Experience and lessons
@@ -84,7 +84,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Establishing Yourself</h3>
+### 🌟 Establishing Yourself
 **Week 1-2: Introduction Phase
 - ** Introduce yourself properly
 - Share your background
@@ -116,7 +116,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Effective Communication</h3>
+### 💬 Effective Communication
 ** Written Communication:
 1. **Be Clear**
 
@@ -162,7 +162,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Sharing Knowledge</h3>
+### 📝 Sharing Knowledge
 ** Types of Content:
 1. **Analysis Posts**
 
@@ -210,7 +210,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>👨‍🏫 Teaching and Learning</h3>
+### 👨‍🏫 Teaching and Learning
 ** Becoming a Mentor:
 - ** 6+ months experience
 - 70%+ success rate
@@ -238,7 +238,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Network Strategically</h3>
+### 🌐 Network Strategically
 ** Key Relationships:
 1. **Peer Echoes**
 
@@ -286,7 +286,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Working Together</h3>
+### 🤝 Working Together
 ** Collaboration Types:
 1. **Research Partnerships**
 
@@ -336,7 +336,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>👑 Leadership Path</h3>
+### 👑 Leadership Path
 ** Leadership Qualities:
 - ** Consistent presence
 - Valuable contributions
@@ -380,7 +380,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Driving Innovation</h3>
+### 🚀 Driving Innovation
 ** Initiative Ideas:
 1. **Echo Academy**
 
@@ -430,7 +430,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Consistent Engagement</h3>
+### 📅 Consistent Engagement
 ** Daily Routine (30 min):
 - ** Morning: Check announcements
 - Midday: Engage in discussions
@@ -455,7 +455,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Engagement Mistakes</h3>
+### ❌ Engagement Mistakes
 ** What to Avoid:
 - ** Self-promotion only
 - Negativity spreading
@@ -483,7 +483,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Intelligence Gathering</h3>
+### 📡 Intelligence Gathering
 ** Information Sources:
 1. **Direct Channels**
 
@@ -517,7 +517,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Wisdom of Crowds</h3>
+### 🧠 Wisdom of Crowds
 ** Harnessing Group Wisdom:
 1. **Diverse Perspectives**
 
@@ -557,7 +557,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Essential Tools</h3>
+### 🛠️ Essential Tools
 ** Communication Tools:
 - ** Discord (real-time)
 - Forum (long-form)
@@ -582,7 +582,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Track Your Impact</h3>
+### 📊 Track Your Impact
 ** Quantitative Metrics:
 - ** Posts per month
 - Responses generated
@@ -610,7 +610,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Strategic Engagement</h3>
+### 🎯 Strategic Engagement
 ** Long-term Strategy:
 1. **Year 1:**
  Build foundation
@@ -637,7 +637,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Community Standards</h3>
+### ⚖️ Community Standards
 ** Core Principles:
 - 
 1. **Integrity**

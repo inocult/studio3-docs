@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Meeting the Standards</h3>
+### 🎯 Meeting the Standards
 
 Becoming an Anchor requires a unique combination of experience, expertise, and character. This guide details the specific requirements, application process, and preparation strategies to help qualified candidates join this elite group of ecosystem validators.
 
@@ -16,7 +16,7 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 Proven Track Record</h3>
+### 🏆 Proven Track Record
 
 **Mandatory Experience:**  Venture Building:
 - ** Minimum 5 years building startups/projects
@@ -43,7 +43,7 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Required Skills</h3>
+### 💻 Required Skills
 ** Technical Assessment Ability:
 ```
 ** Core Competencies:
@@ -78,7 +78,7 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ Personal Qualities</h3>
+### ⭐ Personal Qualities
 **Essential Character Traits:**  Integrity:
 - ** Unquestionable ethics
 - Consistent honesty
@@ -112,7 +112,7 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Economic Commitment</h3>
+### 💰 Economic Commitment
 ** Minimum Stake:
 - ** 50,000 $SIGNAL tokens
 - Locked for 12 months minimum
@@ -138,7 +138,7 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 <div class="arena-card" markdown="1">
 
-<h3>🏦 Economic Readiness</h3>
+### 🏦 Economic Readiness
 ** Personal Financial Health:
 - ** Not dependent on Anchor income
 - 6+ months emergency fund
@@ -160,7 +160,7 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Time Commitment</h3>
+### ⏰ Time Commitment
 ** Weekly Minimums:
 ```
 Regular Weeks: 15-20 hours
@@ -189,7 +189,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Duration Expectations</h3>
+### 📅 Duration Expectations
 ** Minimum Commitment:
 - ** 12 months initial term
 - 6 months notice period
@@ -211,7 +211,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Application Journey</h3>
+### 📝 Application Journey
 **Phase 1: Initial Application
 ```
 1. Complete online form
@@ -258,7 +258,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Evaluation Framework</h3>
+### 📊 Evaluation Framework
 **Scoring Matrix:| Category | Weight | Minimum Score |
 |----------|--------|---------------|
 | Experience | 30% | 80/100 |
@@ -281,7 +281,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Qualification Path</h3>
+### 🎯 Qualification Path
 ** If Lacking Experience:
 1. **Build More**
 
@@ -329,7 +329,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>✨ Standing Out</h3>
+### ✨ Standing Out
 **Differentiation Strategies:**  Unique Value Proposition:
 - ** Specialized expertise
 - Rare combinations
@@ -357,7 +357,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Automatic Disqualifiers</h3>
+### ❌ Automatic Disqualifiers
 ** Behavioral Issues:
 - ** Ethics violations
 - Legal problems
@@ -383,7 +383,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>🤔 Special Considerations</h3>
+### 🤔 Special Considerations
 ** Exceptional Candidates:
 - ** Outstanding expertise
 - Unique perspectives
@@ -405,7 +405,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Continuous Standards</h3>
+### 📈 Continuous Standards
 ** Annual Requirements:
 - ** Performance review pass
 - Continued education (20 hours)
@@ -425,7 +425,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Growing as Anchor</h3>
+### 🚀 Growing as Anchor
 **Level Progression Requirements:**  Junior → Anchor:
 - ** 6 months experience
 - 10+ validations
@@ -453,7 +453,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Onboarding Excellence</h3>
+### 🤝 Onboarding Excellence
 ** Support Provided:
 - ** Comprehensive orientation
 - Mentor assignment
@@ -475,7 +475,7 @@ Peak Periods: 25-30 hours
 
 <div class="arena-card" markdown="1">
 
-<h3>❓ Frequently Asked</h3>
+### ❓ Frequently Asked
 **Q: Can I apply without an exit?
 **A: Exceptional candidates with deep expertise and strong references may be considered.
 **Q: Is the time commitment flexible?

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ Mastering the Art of Validation</h3>
+### ⭐ Mastering the Art of Validation
 
 This comprehensive guide captures the collective wisdom of successful Anchors, providing proven best practices that ensure consistent, fair, and valuable validations. Learn from experience to accelerate your journey to Anchor excellence.
 
@@ -16,7 +16,7 @@ This comprehensive guide captures the collective wisdom of successful Anchors, p
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ Building on Solid Ground</h3>
+### 🏗️ Building on Solid Ground
 
 **The Five Pillars of Great Anchoring:**
 
@@ -84,7 +84,7 @@ This comprehensive guide captures the collective wisdom of successful Anchors, p
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Optimizing Your Impact</h3>
+### ⏰ Optimizing Your Impact
 **Weekly Schedule Best Practices:**
 ```
 Monday: Planning & Prep
@@ -124,7 +124,7 @@ Friday: Wrap-up & Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Preparation is Key</h3>
+### 📋 Preparation is Key
 **Best Practice Checklist:**
 ```python
 def prepare_for_validation():
@@ -163,7 +163,7 @@ def prepare_for_validation():
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Thorough Yet Efficient</h3>
+### 🔍 Thorough Yet Efficient
 **Systematic Review Process:**
 
 **First Pass (30 min)**
@@ -204,7 +204,7 @@ Evidence Review Framework:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Fair and Transparent Decisions</h3>
+### ⚖️ Fair and Transparent Decisions
 **Decision Framework Best Practices:**
 
 1. **Gather All Information**
@@ -254,7 +254,7 @@ Evidence Review Framework:
 
 <div class="arena-card" markdown="1">
 
-<h3>✍️ Clear and Constructive Writing</h3>
+### ✍️ Clear and Constructive Writing
 **Validation Report Excellence:**
 
 **Structure for Clarity:**
@@ -296,7 +296,7 @@ Evidence Review Framework:
 
 <div class="arena-card" markdown="1">
 
-<h3>🗣️ Effective Conversations</h3>
+### 🗣️ Effective Conversations
 **Meeting Best Practices:**
 
 **Preparation:**
@@ -330,7 +330,7 @@ Meeting Flow:
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 The Foundation of Influence</h3>
+### 🤝 The Foundation of Influence
 **Trust Building Actions:**
 
 **Reliability**
@@ -364,7 +364,7 @@ Meeting Flow:
 
 <div class="arena-card" markdown="1">
 
-<h3>😤 Grace Under Pressure</h3>
+### 😤 Grace Under Pressure
 **Handling Pushback:**
 
 **When Founders Disagree:**
@@ -397,7 +397,7 @@ Meeting Flow:
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Efficient Technical Assessment</h3>
+### 💻 Efficient Technical Assessment
 **Code Review Strategy:**
 ```python
 def review_code_effectively():
@@ -436,7 +436,7 @@ def review_code_effectively():
 
 <div class="arena-card" markdown="1">
 
-<h3>🔒 Security Best Practices</h3>
+### 🔒 Security Best Practices
 **Security Review Checklist:**
 ```
 Essential Security Checks:
@@ -466,7 +466,7 @@ Essential Security Checks:
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Always Be Learning</h3>
+### 📚 Always Be Learning
 **Learning Plan Best Practices:**
 
 **Weekly Learning (2-3 hours):**
@@ -494,7 +494,7 @@ Essential Security Checks:
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Refining Your Approach</h3>
+### 🔄 Refining Your Approach
 **Improvement Methodology:**
 
 1. **Measure Current State**
@@ -541,7 +541,7 @@ Essential Security Checks:
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Contributing to Collective Wisdom</h3>
+### 🌐 Contributing to Collective Wisdom
 **Sharing Best Practices:**
 
 **What to Share:**
@@ -569,7 +569,7 @@ Essential Security Checks:
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Working with Other Anchors</h3>
+### 👥 Working with Other Anchors
 **Collaboration Best Practices:**
 
 **Peer Reviews:**
@@ -599,7 +599,7 @@ Essential Security Checks:
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Maintaining Quality Records</h3>
+### 📝 Maintaining Quality Records
 **Documentation System:**
 ```
 Anchor Records/
@@ -636,7 +636,7 @@ Anchor Records/
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Ethical Excellence</h3>
+### ⚖️ Ethical Excellence
 **Ethical Guidelines:**
 
 1. **Independence**
@@ -687,7 +687,7 @@ Anchor Records/
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Tracking Your Impact</h3>
+### 📊 Tracking Your Impact
 ** Key Performance Indicators:
 ```python
 anchor_metrics = {

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Optimize Returns by Phase</h3>
+### 🎯 Optimize Returns by Phase
 
 Each phase in Studio3's seven-phase journey presents unique opportunities and risks. This guide provides deep insights into phase-specific strategies, helping you maximize returns by understanding the nuances of each stage in a venture's lifecycle.
 
@@ -16,7 +16,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Risk-Return by Phase</h3>
+### 📈 Risk-Return by Phase
 
 | Phase | Risk Level | Return Range | Success Rate | Typical Duration |
 |-------|------------|--------------|--------------|-----------------|
@@ -36,7 +36,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>✨ Spark Phase Mastery</h3>
+### ✨ Spark Phase Mastery
 
 **Phase Characteristics:**
 - ** Raw ideas enter Arena
@@ -63,7 +63,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Spark Tactics</h3>
+### 💡 Spark Tactics
 ** Approach Options:
 1. **Early Bird Strategy**
 
@@ -102,7 +102,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>⚔️ Forge Phase Mastery</h3>
+### ⚔️ Forge Phase Mastery
 ** Phase Characteristics:
 - ** Multiple founders compete
 - Public presentations
@@ -128,7 +128,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 Competition Tactics</h3>
+### 🏆 Competition Tactics
 ** Signal Timing:
 1. **Pre-Duel Research**
 
@@ -173,7 +173,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Ignition Phase Mastery</h3>
+### 🚀 Ignition Phase Mastery
 ** Phase Characteristics:
 - ** MVP development
 - First real building
@@ -199,7 +199,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>🔧 Building Phase Tactics</h3>
+### 🔧 Building Phase Tactics
 ** Entry Points:
 1. **Early Ignition (Days 1-15)**
 
@@ -245,7 +245,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>🌊 Drift Phase Mastery</h3>
+### 🌊 Drift Phase Mastery
 ** Phase Characteristics:
 - ** Market validation
 - User acquisition
@@ -271,7 +271,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Market Validation Tactics</h3>
+### 📊 Market Validation Tactics
 ** Signal Approach:
 1. **Growth Momentum Play**
 
@@ -311,7 +311,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>🛸 Orbit Phase Mastery</h3>
+### 🛸 Orbit Phase Mastery
 ** Phase Characteristics:
 - ** Stable operations
 - Predictable growth
@@ -337,7 +337,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Stability Investing</h3>
+### ⚖️ Stability Investing
 ** Portfolio Role:
 - ** Core holdings
 - Larger positions
@@ -365,7 +365,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>🔥 Flare Phase Mastery</h3>
+### 🔥 Flare Phase Mastery
 ** Phase Characteristics:
 - ** Aggressive scaling
 - Major funding
@@ -391,7 +391,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Scale Investment Tactics</h3>
+### 📈 Scale Investment Tactics
 ** Investment Approach:
 - ** Large, safe positions
 - Lower returns accepted
@@ -419,7 +419,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>🎖️ Ascension Phase Mastery</h3>
+### 🎖️ Ascension Phase Mastery
 ** Phase Characteristics:
 - ** Near sovereignty
 - Proven success
@@ -447,7 +447,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Transition Opportunities</h3>
+### 🔄 Transition Opportunities
 ** Phase Transition Signals:
 - ** End of current phase
 - Strong performance
@@ -477,7 +477,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 Multi-Phase Strategies</h3>
+### 💎 Multi-Phase Strategies
 ** Arbitrage Patterns:
 1. **Similar Ventures, Different Phases**
 
@@ -513,7 +513,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Phase Diversification</h3>
+### 📊 Phase Diversification
 ** Aggressive Portfolio:
 ```
 Spark: 25%
@@ -547,7 +547,7 @@ Later: 35%
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Phase Risk Matrix</h3>
+### ⚠️ Phase Risk Matrix
 
 | Phase | Primary Risk | Mitigation Strategy |
 |-------|--------------|-------------------|
@@ -567,7 +567,7 @@ Later: 35%
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Phase Performance Tracking</h3>
+### 📈 Phase Performance Tracking
 ** Track Your Success:
 ```
 Phase      | Signals | Wins | Win% | Avg Return

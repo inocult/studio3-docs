@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🚨 When Stakes Are Highest</h3>
+### 🚨 When Stakes Are Highest
 
 Crisis management is where Anchors prove their true value. When ventures face existential threats, your experience, calm leadership, and strategic thinking can mean the difference between failure and recovery. This guide prepares you for the toughest moments.
 
@@ -16,7 +16,7 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Defining True Emergencies</h3>
+### ⚡ Defining True Emergencies
 
 **Crisis Characteristics:**
 - Threatens venture survival
@@ -44,7 +44,7 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Common Crisis Scenarios</h3>
+### 🎯 Common Crisis Scenarios
 
 **Technical Crises:**
 - Critical security breach
@@ -85,7 +85,7 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 <div class="arena-card" markdown="1">
 
-<h3>🏃 First 24 Hours</h3>
+### 🏃 First 24 Hours
 **Hour 1-2: Assessment**
 ```
 Crisis Triage:
@@ -120,7 +120,7 @@ Crisis Triage:
 
 <div class="arena-card" markdown="1">
 
-<h3>🎖️ Organizing for Action</h3>
+### 🎖️ Organizing for Action
 **Crisis Team Roles:**
 
 **Crisis Leader (Usually CEO)**
@@ -157,7 +157,7 @@ Crisis Triage:
 
 <div class="arena-card" markdown="1">
 
-<h3>💸 When Money Runs Out</h3>
+### 💸 When Money Runs Out
 **Immediate Actions:**
 
 **Week 1: Reality Check**
@@ -209,7 +209,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Capital in Crisis</h3>
+### 💰 Capital in Crisis
 **Funding Options Ranked:**
 
 **1. Revenue Acceleration**
@@ -247,7 +247,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>🔒 Data Breach Protocol</h3>
+### 🔒 Data Breach Protocol
 **Immediate Response:**
 
 **Hour 1: Contain**
@@ -285,7 +285,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Critical Outage Management</h3>
+### 💻 Critical Outage Management
 **Outage Response Framework:**
 
 **Severity Levels:**
@@ -343,7 +343,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 When Leaders Clash</h3>
+### 👥 When Leaders Clash
 **Conflict Escalation Stages:**
 
 **Stage 1: Tension**
@@ -396,7 +396,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>🚪 Team Exodus Management</h3>
+### 🚪 Team Exodus Management
 **When Teams Leave:**
 
 **Immediate Response:**
@@ -429,7 +429,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Legal/Regulatory Crisis</h3>
+### ⚖️ Legal/Regulatory Crisis
 **Regulatory Response:** Day 1: Assess
 - ** Understand violation
 - Gauge severity
@@ -461,7 +461,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>📰 Public Relations Crisis</h3>
+### 📰 Public Relations Crisis
 **PR Crisis Response:** Hour 1-4: Control Narrative```
 ** Communication Priority:
 1. Internal team first
@@ -498,7 +498,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>📢 Crisis Communications</h3>
+### 📢 Crisis Communications
 **Stakeholder Priority Matrix:| Stakeholder | Priority | Key Messages | Channel |
 |------------|----------|--------------|---------|
 | Team | Immediate | Full truth, support | All-hands |
@@ -519,7 +519,7 @@ def assess_financial_crisis():
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Keeping Team Aligned</h3>
+### 👥 Keeping Team Aligned
 **Team Communication Framework:** Daily Standups
 - ** Situation update
 - Progress report
@@ -551,7 +551,7 @@ Feedback Loop ↑
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Building Back Better</h3>
+### 🔄 Building Back Better
 **Recovery Phases:** Phase 1: Stabilization (Week 1-2)
 - ** Crisis contained
 - Bleeding stopped
@@ -577,7 +577,7 @@ Feedback Loop ↑
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Post-Mortem Excellence</h3>
+### 📚 Post-Mortem Excellence
 **Post-Crisis Analysis:**  Blameless Review:
 1. Timeline reconstruction
 2. Decision analysis
@@ -605,7 +605,7 @@ Feedback Loop ↑
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Crisis Management Tools</h3>
+### 🛠️ Crisis Management Tools
 ** Contact Lists:
 - ** Emergency services
 - Legal counsel
@@ -631,7 +631,7 @@ Feedback Loop ↑
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Crisis Thinking Tools</h3>
+### 🧠 Crisis Thinking Tools
 **Useful Frameworks:** OODA Loop** (Observe, Orient, Decide, Act)
 - ** Rapid decision cycling
 - Continuous adjustment

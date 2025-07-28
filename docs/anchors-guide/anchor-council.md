@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🏛️ The Pinnacle of Anchor Achievement</h3>
+### 🏛️ The Pinnacle of Anchor Achievement
 
 The Anchor Council represents the highest level of responsibility and influence within the Anchor community. This guide details the Council's role, operations, and your potential path to joining this distinguished body of ecosystem leaders.
 
@@ -16,7 +16,7 @@ The Anchor Council represents the highest level of responsibility and influence 
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Why the Council Exists</h3>
+### 🎯 Why the Council Exists
 
 **Core Purposes:**
 
@@ -74,7 +74,7 @@ The Anchor Council represents the highest level of responsibility and influence 
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Who Serves on the Council</h3>
+### 👥 Who Serves on the Council
 **Council Structure:**
 - **Size:** 9-15 members
 - **Composition:** Balanced expertise
@@ -104,7 +104,7 @@ The Anchor Council represents the highest level of responsibility and influence 
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 How the Council Functions</h3>
+### 📅 How the Council Functions
 **Regular Meetings:**
 
 **Weekly Operational (2 hours)**
@@ -142,7 +142,7 @@ Deep Dive Topics:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Council Governance Process</h3>
+### ⚖️ Council Governance Process
 **Decision Framework:**
 
 **Voting Requirements:**
@@ -194,7 +194,7 @@ Deep Dive Topics:
 
 <div class="arena-card" markdown="1">
 
-<h3>📏 Maintaining Excellence</h3>
+### 📏 Maintaining Excellence
 **Standards Oversight:**
 
 **Regular Review Cycle:**
@@ -233,7 +233,7 @@ def quarterly_standards_review():
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Final Appeals Authority</h3>
+### ⚖️ Final Appeals Authority
 **Dispute Handling Process:**
 
 **Case Acceptance Criteria:**
@@ -286,7 +286,7 @@ def quarterly_standards_review():
 
 <div class="arena-card" markdown="1">
 
-<h3>🌱 Nurturing Excellence</h3>
+### 🌱 Nurturing Excellence
 **Development Programs:**
 
 **Training Oversight:**
@@ -326,7 +326,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>🔮 Shaping the Future</h3>
+### 🔮 Shaping the Future
 **Strategic Planning Areas:**
 
 **5-Year Vision Development:**
@@ -370,7 +370,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Driving Progress</h3>
+### 💡 Driving Progress
 **Innovation Initiatives:**
 
 **Current Focus Areas:**
@@ -419,7 +419,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Specialized Teams</h3>
+### 👥 Specialized Teams
 **Standing Committees:**
 
 **1. Standards Committee**
@@ -453,7 +453,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Rapid Response Teams</h3>
+### ⚡ Rapid Response Teams
 **Ad Hoc Groups:**
 
 **Formation Triggers:**
@@ -483,7 +483,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Your Journey to Council</h3>
+### 🎯 Your Journey to Council
 **Prerequisites:**
 
 **Performance Excellence:**
@@ -511,7 +511,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>🏃 Running for Council</h3>
+### 🏃 Running for Council
 **Campaign Timeline:**
 
 **6 Weeks Before Election:**
@@ -549,7 +549,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ Being a Great Council Member</h3>
+### ⭐ Being a Great Council Member
 **Excellence Principles:**
 
 **1. Preparation**
@@ -583,7 +583,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Common Council Mistakes</h3>
+### ⚠️ Common Council Mistakes
 **What to Avoid:**
 
 **Personal Agenda**
@@ -613,7 +613,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Council Effectiveness</h3>
+### 📊 Council Effectiveness
 **Success Metrics:**
 
 **Quantitative Measures:**
@@ -641,7 +641,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Ensuring Continuity</h3>
+### 🔄 Ensuring Continuity
 **Knowledge Transfer:**
 
 **Documentation:**
@@ -671,7 +671,7 @@ Council Responsibilities:
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Supporting Infrastructure</h3>
+### 🛠️ Supporting Infrastructure
 **Available Resources:**
 
 **Administrative Support:**

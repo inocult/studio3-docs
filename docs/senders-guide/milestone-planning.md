@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 The Art of Effective Milestones</h3>
+### 🎯 The Art of Effective Milestones
 
 Milestones are the heartbeat of Studio3 ventures. They're not just goals - they're public commitments that attract belief, drive progress, and unlock rewards. Master milestone planning to maximize your venture's momentum.
 
@@ -16,7 +16,7 @@ Milestones are the heartbeat of Studio3 ventures. They're not just goals - they'
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 The SMART-V Framework</h3>
+### 📊 The SMART-V Framework
 
 **SMART-V Criteria:**
 - **S** pecific
@@ -44,7 +44,7 @@ Milestones are the heartbeat of Studio3 ventures. They're not just goals - they'
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ Different Goals for Different Stages</h3>
+### 🏗️ Different Goals for Different Stages
 ** Technical Milestones:
 - ** Feature completion
 - Performance targets
@@ -78,7 +78,7 @@ Milestones are the heartbeat of Studio3 ventures. They're not just goals - they'
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Early Stage Goals</h3>
+### 🚀 Early Stage Goals
 **Typical Ignition Milestones:**  Month 1-2:
 ```markdown
 Milestone: "Complete Technical Architecture"
@@ -113,7 +113,7 @@ Deliverable: Metrics dashboard + user testimonials
 
 <div class="arena-card" markdown="1">
 
-<h3>🌊 Finding Your Flow</h3>
+### 🌊 Finding Your Flow
 ** Drift Milestone Examples:
 1. **Market Validation**
 
@@ -151,7 +151,7 @@ Deliverable: Metrics dashboard + user testimonials
 
 <div class="arena-card" markdown="1">
 
-<h3>🔥 Scaling Goals</h3>
+### 🔥 Scaling Goals
 **Orbit/Flare/Ascension Examples:**  Orbit (Stability):
 - ** $500K ARR
 - 1000+ customers
@@ -176,7 +176,7 @@ Deliverable: Metrics dashboard + user testimonials
 
 <div class="arena-card" markdown="1">
 
-<h3>🦭 Building Your Roadmap</h3>
+### 🦭 Building Your Roadmap
 ** Planning Steps:
 1. **Vision Setting**
    ```python
@@ -226,7 +226,7 @@ Deliverable: Metrics dashboard + user testimonials
 
 <div class="arena-card" markdown="1">
 
-<h3>🔗 Managing Dependencies
+### 🔗 Managing Dependencies
 ** Dependency Mapping:
 ```mermaid
 graph LR
@@ -262,7 +262,7 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Metrics That Matter
+### 📊 Metrics That Matter
 **Metric Selection Framework:| Phase | Primary Metrics | Secondary Metrics |
 |-------|----------------|-------------------|
 | Ignition | Users, Engagement | Features, Feedback |
@@ -282,7 +282,7 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Balancing Ambition and Reality
+### ⚖️ Balancing Ambition and Reality
 ** The 70-20-10 Rule:
 - ** 70% Confidence
 - Core milestones**
@@ -311,7 +311,7 @@ High Reward
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Compelling Milestone Declarations
+### 📝 Compelling Milestone Declarations
 ** Milestone Proposal Template:
 ```markdown
 # Milestone: [Clear Title]
@@ -352,7 +352,7 @@ High Reward
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Proving Your Success
+### 📊 Proving Your Success
 ** Evidence Categories:
 1. **Quantitative Evidence**
 
@@ -404,7 +404,7 @@ High Reward
 
 <div class="arena-card" markdown="1">
 
-<h3>🏃 Breaking Down Big Goals
+### 🏃 Breaking Down Big Goals
 **Milestone Sprint Structure:** Week 1-2: Foundation```
 ** Sprint 1 Goals:
 - Set up infrastructure
@@ -438,7 +438,7 @@ High Reward
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Getting Everyone On Board
+### 👥 Getting Everyone On Board
 
 ** Alignment Tactics:
 1. **Clear Communication:**
@@ -482,7 +482,7 @@ High Reward
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ What Not to Do
+### ⚠️ What Not to Do
 ** Common Mistakes:
 1. **Vague Objectives**
 
@@ -522,7 +522,7 @@ High Reward
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Adapting to Reality
+### 🔄 Adapting to Reality
 ** When to Adjust:
 - ** Market conditions change
 - New opportunities arise
@@ -557,7 +557,7 @@ High Reward
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Compound Progress
+### 🎯 Compound Progress
 ** Stacking Strategy:
 - ** Each milestone builds on previous
 - Create momentum cascade
@@ -579,7 +579,7 @@ High Reward
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Real-Time Visibility
+### 📊 Real-Time Visibility
 ** Dashboard Elements:
 ```javascript
 // Milestone tracking dashboard

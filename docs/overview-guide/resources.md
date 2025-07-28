@@ -11,7 +11,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>🏛️ Studio3 Platform</h3>
+### 🏛️ Studio3 Platform
 
 **Main Website**: [studio
 3. xyz](https://studio
@@ -31,7 +31,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Community Hub</h3>
+### 💬 Community Hub
 **Discord**: [discord.gg/studio3](https://discord.gg/studio3)
 - ** Real-time chat
 - Role channels
@@ -67,7 +67,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Cheat Sheets</h3>
+### 📋 Cheat Sheets
 **Phase Progression
 - ** Requirements per phase
 - Success metrics
@@ -93,7 +93,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>📊 Analytics Dashboard</h4>
+#### 📊 Analytics Dashboard
 
 ** Access real-time metrics:
 - Venture performance
@@ -108,7 +108,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-<h4>🔍 Arena Explorer</h4>
+#### 🔍 Arena Explorer
 
 ** Browse and filter:
 - Active ventures
@@ -177,7 +177,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Quick Start Courses</h3>
+### 🚀 Quick Start Courses
 **Studio3 Fundamentals** (2 hours)
 - ** Platform overview
 - Core mechanics
@@ -229,7 +229,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>🆘 Support Levels</h4>
+#### 🆘 Support Levels
 
 **Self-Service
 - ** Knowledge base
@@ -251,7 +251,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-<h4>📞 Contact Methods</h4>
+#### 📞 Contact Methods
 **General Support
 - ** Email: support@studio3.xyz
 - Response: 24-48 hours
@@ -288,7 +288,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Community Recognition</h3>
+### 🌟 Community Recognition
 **Monthly Awards
 - ** Top Sender
 - Accurate Echo
@@ -328,7 +328,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Security Essentials</h3>
+### 🛡️ Security Essentials
 **Wallet Security
 - ** Hardware wallet guide
 - Backup strategies
@@ -404,7 +404,7 @@ Currently available in:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>📰 News & Updates</h4>
+#### 📰 News & Updates
 **Weekly Newsletter
 - ** Platform updates
 - Featured ventures
@@ -420,7 +420,7 @@ Currently available in:
 
 <div class="arena-card" markdown="1">
 
-<h4>🎙️ Podcast & Media</h4>
+#### 🎙️ Podcast & Media
 **Studio3 Podcast
 - ** Founder stories
 - Strategy deep dives

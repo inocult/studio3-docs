@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Ready to Begin?</h3>
+### 🚀 Ready to Begin?
 
 **Getting started with Studio3 is simple:**
 
@@ -21,7 +21,7 @@
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ Become a Sender</h3>
+### 🏗️ Become a Sender
 
 ** If you have:
 - A venture idea
@@ -40,7 +40,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Become an Echo</h3>
+### 📡 Become an Echo
 ** If you have:
 - Investment capital
 - Analysis skills
@@ -58,7 +58,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚓ Become an Anchor</h3>
+### ⚓ Become an Anchor
 ** If you have:
 - Industry expertise
 - Mentoring experience
@@ -81,7 +81,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 What You Need</h3>
+### 💻 What You Need
 
 1. **Web3 Wallet**
 
@@ -128,7 +128,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📖 Must-Read Resources</h3>
+### 📖 Must-Read Resources
 
 ** For All Participants:
 - This Quickstart guide (you're here!)
@@ -169,7 +169,7 @@
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>🏗️ First Sender Steps</h4>
+#### 🏗️ First Sender Steps
 
 1. Browse existing ventures
 2. Study successful patterns
@@ -181,7 +181,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h4>📡 First Echo Steps</h4>
+#### 📡 First Echo Steps
 
 1. Make tiny test signal (10 $SIGNAL)
 2. Research 5 ventures daily
@@ -193,7 +193,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h4>⚓ First Anchor Steps</h4>
+#### ⚓ First Anchor Steps
 
 1. Apply for Anchor status
 2. Shadow current validators
@@ -210,7 +210,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Community Channels</h3>
+### 💬 Community Channels
 
 ** Discord Server:
 - Real-time chat
@@ -245,7 +245,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Reputation Matters</h3>
+### 🌟 Reputation Matters
 
 ** How to earn XP:
 - Successful milestones (Senders)
@@ -285,7 +285,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Your First Week</h3>
+### ✅ Your First Week
 
 ** Day 1:
 - [ ] Choose your role
@@ -314,7 +314,7 @@
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>✅ DO:</h4>
+#### ✅ DO:
 
 - Start small and learn
 
@@ -329,7 +329,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h4>❌ DON'T:</h4>
+#### ❌ DON'T:
 
 - Rush into big stakes
 
@@ -370,7 +370,7 @@ You'll know you're on track when:
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 You're Part of Something Special</h3>
+### 🌟 You're Part of Something Special
 
 ** By joining Studio3, you're not just participating in a platform - you're helping build the future of venture creation. Every signal, every validation, every milestone contributes to an ecosystem where:
 - ** Great ideas find support

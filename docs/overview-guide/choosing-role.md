@@ -9,7 +9,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ Become a Sender</h3>
+### 🏗️ Become a Sender
 
 **You should be a Sender if you:**
 - ** Have a venture idea ready to build
@@ -28,7 +28,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Become an Echo</h3>
+### 📡 Become an Echo
 ** You should be an Echo if you:
 - ** Enjoy evaluating opportunities
 - Have capital to deploy
@@ -46,7 +46,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 <div class="arena-card" markdown="1">
 
-<h3>⚓ Become an Anchor</h3>
+### ⚓ Become an Anchor
 ** You should be an Anchor if you:
 - ** Have venture experience
 - Enjoy mentoring founders
@@ -86,7 +86,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Risk vs Reward Analysis</h3>
+### ⚖️ Risk vs Reward Analysis
 **Highest Risk, Highest Reward: Sender
 - ** Can lose entire venture
 - Can achieve full sovereignty
@@ -186,7 +186,7 @@ graph LR
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>🌱 Complete Beginner</h4>
+#### 🌱 Complete Beginner
 
 Start as an**Echo**  with small signals to:
 - ** Learn the ecosystem
@@ -199,7 +199,7 @@ Start as an**Echo**  with small signals to:
 
 <div class="arena-card" markdown="1">
 
-<h4>🚀 Experienced Entrepreneur</h4>
+#### 🚀 Experienced Entrepreneur
 
 Jump in as a**Sender**  if you have:
 - ** Clear venture idea
@@ -212,7 +212,7 @@ Jump in as a**Sender**  if you have:
 
 <div class="arena-card" markdown="1">
 
-<h4>🎓 Industry Expert</h4>
+#### 🎓 Industry Expert
 
 Consider**Anchor**  role if you have:
 - ** 5+ years experience

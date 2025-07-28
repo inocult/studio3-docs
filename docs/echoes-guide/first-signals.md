@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Your Echo Journey Begins</h3>
+### 🎯 Your Echo Journey Begins
 
 Making your first signal can feel overwhelming. This guide walks you through every step, from choosing your first venture to celebrating your first successful prediction. Start small, learn fast, and build confidence.
 
@@ -16,7 +16,7 @@ Making your first signal can feel overwhelming. This guide walks you through eve
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Pre-Signal Checklist</h3>
+### 📚 Pre-Signal Checklist
 
 **Knowledge Requirements:**
 - ** [ ] Read the Echo Basics guide
@@ -45,7 +45,7 @@ Making your first signal can feel overwhelming. This guide walks you through eve
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 What to Look For</h3>
+### 🔍 What to Look For
 ** Beginner-Friendly Ventures:
 1. **Clear Milestones**
 
@@ -106,7 +106,7 @@ Making your first signal can feel overwhelming. This guide walks you through eve
 
 <div class="arena-card" markdown="1">
 
-<h3>🔬 Research Framework</h3>
+### 🔬 Research Framework
 1. Initial Scan (5 minutes)
 - ** Read venture description
 - Check current phase
@@ -146,7 +146,7 @@ Making your first signal can feel overwhelming. This guide walks you through eve
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Step-by-Step Execution</h3>
+### 🚀 Step-by-Step Execution
 **Step 1: Final Decision
 ```
 Research Score: _/10
@@ -196,7 +196,7 @@ Confidence: _%
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Safe Start Strategy</h3>
+### 🛡️ Safe Start Strategy
 ** Profile:
 - ** Risk tolerance: Low
 - Learning focus: High
@@ -220,7 +220,7 @@ Confidence: _%
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Middle Ground Strategy</h3>
+### ⚖️ Middle Ground Strategy
 ** Profile:
 - ** Risk tolerance: Medium
 - Return focus: Balanced
@@ -244,7 +244,7 @@ Confidence: _%
 
 <div class="arena-card" markdown="1">
 
-<h3>🔥 High Risk Strategy</h3>
+### 🔥 High Risk Strategy
 ** Profile:
 - ** Risk tolerance: High
 - Return focus: Maximum
@@ -270,7 +270,7 @@ Confidence: _%
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Rookie Errors</h3>
+### ❌ Rookie Errors
 **Mistake 1: Too Big Too Fast
 - ** Problem: Risking 50% on first signal
 - Result: Devastating if wrong
@@ -300,7 +300,7 @@ Confidence: _%
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ When You Win</h3>
+### ✅ When You Win
 ** What to Document:
 - ** What went right?
 - Key success factors
@@ -326,7 +326,7 @@ Confidence: _%
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ When You Lose</h3>
+### ❌ When You Lose
 ** What to Document:
 - ** What went wrong?
 - Missed red flags
@@ -354,7 +354,7 @@ Confidence: _%
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Performance Tracking</h3>
+### 📊 Performance Tracking
 ** Signal Log Template:
 ```
 Date: ___________
@@ -382,7 +382,7 @@ Lessons: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Level Up Strategy</h3>
+### 🎯 Level Up Strategy
 ** If First Signal Succeeded:
 - ** Similar venture type
 - Slightly larger stake
@@ -404,7 +404,7 @@ Lessons: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Join the Conversation</h3>
+### 👥 Join the Conversation
 ** Where to Engage:
 1. **New Echo Channel**
 
@@ -444,7 +444,7 @@ Lessons: ___________
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Week 1 Objectives</h3>
+### 🎯 Week 1 Objectives
 ** Signals:
 - ** Make 2-3 signals
 - Different ventures

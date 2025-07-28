@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 The Power of Belief</h3>
+### 📡 The Power of Belief
 
 As an Echo in Studio3, you're not just an investor - you're a signal broadcaster whose conviction shapes venture success. Your belief or doubt, backed by $SIGNAL tokens, influences funding, momentum, and validation.
 
@@ -37,7 +37,7 @@ Echoes are participants who:
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Think Like an Echo</h3>
+### 🧠 Think Like an Echo
 
 1. **Research First**
 
@@ -77,7 +77,7 @@ Echoes are participants who:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚙️ Signal Flow</h3>
+### ⚙️ Signal Flow
 
 1. **Discovery Phase**
 
@@ -165,7 +165,7 @@ Echoes are participants who:
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Your Growth Trajectory</h3>
+### 📈 Your Growth Trajectory
 
 1. **Novice Echo** (0-100 XP)
    - Learning basics
@@ -199,7 +199,7 @@ Echoes are participants who:
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Research Requirements</h3>
+### 🔍 Research Requirements
 **Always Investigate:**
 - Founder backgrounds
 - Technical feasibility
@@ -237,7 +237,7 @@ Echoes are participants who:
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Revenue Streams</h3>
+### 💰 Revenue Streams
 
 1. **Signal Rewards**
 
@@ -329,7 +329,7 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Echo Errors</h3>
+### ⚠️ Echo Errors
 **Fatal Mistakes:**
 - Signaling without research
 - Emotional decision making
@@ -370,7 +370,7 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Your Arsenal</h3>
+### 🛠️ Your Arsenal
 **Analysis Tools:**
 - Signal calculator
 - Risk assessment matrix
@@ -411,7 +411,7 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 XP & Reputation</h3>
+### 🌟 XP & Reputation
 **How to Build:**
 - Consistent accuracy
 - Quality contributions

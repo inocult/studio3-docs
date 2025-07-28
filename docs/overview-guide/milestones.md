@@ -10,7 +10,7 @@ Milestones are the fundamental units of progress in Studio3. They represent spec
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Milestone Essentials</h3>
+### 🎯 Milestone Essentials
 
 A milestone is a public commitment to achieve a specific outcome by a defined deadline.
 
@@ -114,8 +114,8 @@ stateDiagram-v2
 
 <div class="grid">
 <div class="arena-card" markdown="1">
-<h4>✅ Good Milestone</h4>
-<p><strong>"Launch MVP with 3 core features by March 15"</strong></p>
+#### ✅ Good Milestone
+<p>**"Launch MVP with 3 core features by March 15"**</p>
 <ul>
 <li>Specific features defined</li>
 <li>Clear deliverable (MVP)</li>
@@ -125,8 +125,8 @@ stateDiagram-v2
 </div>
 
 <div class="arena-card" markdown="1">
-<h4>❌ Bad Milestone</h4>
-<p><strong>"Make significant progress on product"</strong></p>
+#### ❌ Bad Milestone
+<p>**"Make significant progress on product"**</p>
 <ul>
 <li>Vague objective</li>
 <li>No success criteria</li>
@@ -157,7 +157,7 @@ flowchart TD
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Declaration Checklist</h3>
+### 📝 Declaration Checklist
 
 ** Required Elements:
 - ** [ ] Clear objective statement
@@ -261,7 +261,7 @@ flowchart TD
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 Execution Excellence</h3>
+### 🏆 Execution Excellence
 
 **During Development:**
 

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 The Core Loop</h3>
+### 🎯 The Core Loop
 
 1. **Founders declare** what they'll build**2. **Community signals** belief or doubt with tokens**3. **Work happens** in public view**4. **Progress is validated** by experts**5. **Rewards flow** to those who predicted correctly**</div>
 
@@ -14,7 +14,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>✨ The Spark Phase</h3>
+### ✨ The Spark Phase
 
 - Entrepreneurs create **Spark NFTs** from existing research/IP
 - **Ideas are presented in public ** Arenas
@@ -28,7 +28,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚔️ The Forge Duel</h3>
+### ⚔️ The Forge Duel
 
 - Multiple founders can compete for the same idea
 - They enter a**public competition** (The Forge)
@@ -42,7 +42,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ Public Development</h3>
+### 🏗️ Public Development
 
 ** The winning founder:
 - Forms a**Container DAO** (lightweight governance structure)
@@ -57,7 +57,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Signaling Mechanics</h3>
+### 📡 Signaling Mechanics
 ** How the community participates:
 1. **Research**
  the venture and team
@@ -81,7 +81,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚓ Quality Assurance</h3>
+### ⚓ Quality Assurance
 
 ** When milestones are complete:
 - Founder submits**evidence** of completion
@@ -96,7 +96,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 The Settlement</h3>
+### 💰 The Settlement
 ** If Milestone Succeeds:
 - ** Believers earn token multipliers (1.5x-3x)
 - Doubters lose their entire stake
@@ -117,31 +117,31 @@ Every venture progresses through seven phases:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>Phase 1-3: Startup</h4>
+#### Phase 1-3: Startup
 
-<p><strong>1. Spark</strong> ✨ - Idea validation</p>
-<p><strong>2. Forge</strong> ⚔️ - Founder selection</p>
-<p><strong>3. Ignition</strong> 🚀 - MVP building</p>
+<p>**1. Spark** ✨ - Idea validation</p>
+<p>**2. Forge** ⚔️ - Founder selection</p>
+<p>**3. Ignition** 🚀 - MVP building</p>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h4>Phase 4-6: Growth</h4>
+#### Phase 4-6: Growth
 
-- <p><strong>4. Drift</strong> 🌊
+- <p>**4. Drift** 🌊
 - Finding product
 - market fit</p>
-<p><strong>5. Orbit</strong> 🛸 - Stable operations</p>
-<p><strong>6. Flare</strong> 🔥 - Scaling up</p>
+<p>**5. Orbit** 🛸 - Stable operations</p>
+<p>**6. Flare** 🔥 - Scaling up</p>
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h4>Phase 7: Exit</h4>
+#### Phase 7: Exit
 
-<p><strong>7. Ascension</strong> 🎖️ - Full independence</p>
+<p>**7. Ascension** 🎖️ - Full independence</p>
 
 </div>
 </div>
@@ -150,7 +150,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card" markdown="1">
 
-<h3>How Value Flows</h3>
+### How Value Flows
 
 1. **Supporters provide capital** through signals**2. **Founders use capital** to build ventures**3. **Successful ventures** create value**4. **Value returns** to correct predictors**5. **Failed ventures** burn incorrect stakes**6. **System improves** through natural selection**</div>
 
@@ -184,7 +184,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card" markdown="1">
 
-<h3>Sarah's Journey</h3>
+### Sarah's Journey
 
 1. **Sarah has an idea** for a sustainability app**2. **She creates a Spark** and enters the Arena**3. **100 Echoes signal belief**, staking tokens**4. **Sarah wins the Forge** against 2 competitors**5. **She declares her first milestone**: "Launch MVP in 60 days"**6. **More Echoes join**, staking on her success**7. **Sarah builds publicly**, sharing daily updates**8. **Day 58**: She launches the MVP successfully**9. **Anchor validates** the milestone completion**10. **Believers earn 2x** their stakes, doubters lose all**11. **Sarah unlocks funding** for the next milestone**12. **The cycle continues** through all seven phases**</div>
 
@@ -192,7 +192,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card" markdown="1">
 
-<h3>The Magic Formula</h3>
+### The Magic Formula
 
 **Transparency** +**Skin in the Game** +**Community Wisdom** =**Better Outcomes
 - ** Public pressure creates accountability

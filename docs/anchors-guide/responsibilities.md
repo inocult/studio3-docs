@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Your Professional Obligations</h3>
+### 📋 Your Professional Obligations
 
 Being an Anchor involves multiple interconnected responsibilities that require dedication, expertise, and integrity. This comprehensive guide details every aspect of your duties, helping you excel in this critical ecosystem role.
 
@@ -16,7 +16,7 @@ Being an Anchor involves multiple interconnected responsibilities that require d
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ The Validation Mandate</h3>
+### ✅ The Validation Mandate
 
 **Core Validation Duties:**
 - ** Review all submitted evidence
@@ -43,7 +43,7 @@ Being an Anchor involves multiple interconnected responsibilities that require d
 
 <div class="arena-card" markdown="1">
 
-<h3>🧭 The Mentorship Role</h3>
+### 🧭 The Mentorship Role
 **Guidance Responsibilities:**  Strategic Support:
 - ** Roadmap review and feedback
 - Pivot strategy consultation
@@ -69,7 +69,7 @@ Being an Anchor involves multiple interconnected responsibilities that require d
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ The Standards Guardian</h3>
+### 🛡️ The Standards Guardian
 ** Quality Maintenance:
 - ** Enforce ecosystem standards
 - Identify subpar deliverables
@@ -97,7 +97,7 @@ Being an Anchor involves multiple interconnected responsibilities that require d
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Ecosystem Participation</h3>
+### 🌐 Ecosystem Participation
 **Community Duties:**  Knowledge Sharing:
 - ** Write educational content
 - Host workshops/webinars
@@ -123,7 +123,7 @@ Being an Anchor involves multiple interconnected responsibilities that require d
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ The Mediator Role</h3>
+### ⚖️ The Mediator Role
 **Dispute Handling:**  Types of Disputes:
 - ** Validation challenges
 - Evidence disagreements
@@ -151,7 +151,7 @@ Being an Anchor involves multiple interconnected responsibilities that require d
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Record Keeping Excellence</h3>
+### 📝 Record Keeping Excellence
 **Documentation Requirements:**  Validation Records:
 ```markdown
 # Validation Report
@@ -185,7 +185,7 @@ Decision: [Pass/Fail/Conditional]
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Efficiency Requirements</h3>
+### ⏰ Efficiency Requirements
 **Time Allocation Guidelines:**  Per Venture (Weekly):
 - ** Validation work: 1-2 hours
 - Founder meetings: 1 hour
@@ -210,7 +210,7 @@ Decision: [Pass/Fail/Conditional]
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Behavioral Expectations</h3>
+### ⚖️ Behavioral Expectations
 **Professional Behavior:**  Required Conduct:
 - ** Respectful communication
 - Timely responses
@@ -236,7 +236,7 @@ Decision: [Pass/Fail/Conditional]
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Excellence Metrics</h3>
+### 📊 Excellence Metrics
 **Key Performance Indicators:**  Quantitative Metrics:
 - ** Validation turnaround: <5 days
 - Founder satisfaction: >4.5/5
@@ -264,7 +264,7 @@ Decision: [Pass/Fail/Conditional]
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Phase-Adapted Responsibilities</h3>
+### 📈 Phase-Adapted Responsibilities
 ** Early Phase (Spark/Forge):
 - ** Idea validation
 - Team assessment
@@ -296,7 +296,7 @@ Decision: [Pass/Fail/Conditional]
 
 <div class="arena-card" markdown="1">
 
-<h3>🚨 Emergency Response</h3>
+### 🚨 Emergency Response
 **Crisis Scenarios:**  Technical Crises:
 - ** Security breaches
 - System failures
@@ -330,7 +330,7 @@ Decision: [Pass/Fail/Conditional]
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Founder Relations</h3>
+### 🤝 Founder Relations
 **Relationship Management:**  Communication Standards:
 - ** Weekly check-ins minimum
 - 24-hour response time
@@ -356,7 +356,7 @@ Decision: [Pass/Fail/Conditional]
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Peer Cooperation</h3>
+### 👥 Peer Cooperation
 **Collaborative Duties:**  Knowledge Exchange:
 - ** Share best practices
 - Discuss difficult cases
@@ -384,7 +384,7 @@ Decision: [Pass/Fail/Conditional]
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Regular Reporting</h3>
+### 📊 Regular Reporting
 ** Monthly Reports:
 ```
 # Monthly Anchor Report
@@ -422,7 +422,7 @@ Period: [Month/Year]
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 System Utilization</h3>
+### 💻 System Utilization
 ** Platform Duties:
 - ** Maintain updated profile
 - Use validation tools properly
@@ -444,7 +444,7 @@ Period: [Month/Year]
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Professional Development</h3>
+### 📚 Professional Development
 ** Learning Requirements:
 - ** Industry trend awareness
 - New technology understanding
@@ -464,7 +464,7 @@ Period: [Month/Year]
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Driving Progress</h3>
+### 💡 Driving Progress
 ** Innovation Areas:
 - ** Process improvements
 - Tool development
@@ -486,7 +486,7 @@ Period: [Month/Year]
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Meeting Expectations</h3>
+### 📈 Meeting Expectations
 ** Accountability Measures:
 - ** Regular performance reviews
 - Peer feedback integration

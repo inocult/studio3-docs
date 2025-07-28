@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Climbing the Anchor Ladder</h3>
+### 🎯 Climbing the Anchor Ladder
 
 The Anchor progression system recognizes and rewards excellence, providing clear pathways for advancement. This guide maps your journey from Junior Anchor to Master Anchor, detailing requirements, benefits, and strategies for growth.
 
@@ -16,7 +16,7 @@ The Anchor progression system recognizes and rewards excellence, providing clear
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Anchor Hierarchy</h3>
+### 📊 Anchor Hierarchy
 
 **Level Structure:**
 
@@ -39,7 +39,7 @@ The Anchor progression system recognizes and rewards excellence, providing clear
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Typical Progression Path</h3>
+### ⏰ Typical Progression Path
 **Year 1: Foundation Building**
 ```
 Months 1-3: Junior Anchor
@@ -79,7 +79,7 @@ Months 7-12: Approaching Anchor
 
 <div class="arena-card" markdown="1">
 
-<h3>🌱 The Foundation Phase</h3>
+### 🌱 The Foundation Phase
 **Core Focus Areas:**
 
 1. **Technical Proficiency**
@@ -128,7 +128,7 @@ junior_targets = {
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Accelerating Growth</h3>
+### 📈 Accelerating Growth
 **Month-by-Month Goals:**
 
 **Month 1-2: Learn**
@@ -160,7 +160,7 @@ junior_targets = {
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ The Professional Phase</h3>
+### ⭐ The Professional Phase
 **Elevated Responsibilities:**
 
 1. **Validation Leadership**
@@ -208,7 +208,7 @@ junior_targets = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Growing Your Impact</h3>
+### 🚀 Growing Your Impact
 **Advanced Skills Development:**
 
 **Technical Mastery**
@@ -243,7 +243,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 The Leadership Phase</h3>
+### 🏆 The Leadership Phase
 **Senior Responsibilities:**
 
 1. **Strategic Validation**
@@ -287,7 +287,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Innovation and Impact</h3>
+### 💡 Innovation and Impact
 **Growth Strategies:**
 
 **Year 2-3 Focus:**
@@ -332,7 +332,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 The Mastery Phase</h3>
+### 🌟 The Mastery Phase
 **Master Anchor Profile:**
 
 **Exceptional Performance:**
@@ -360,7 +360,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>👑 Elite Contributions</h3>
+### 👑 Elite Contributions
 **Unique Responsibilities:**
 
 1. **Apex Validations**
@@ -407,7 +407,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Fast-Track Tactics</h3>
+### 🚀 Fast-Track Tactics
 **Proven Acceleration Methods:**
 
 1. **Over-Deliver Consistently**
@@ -454,7 +454,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Continuous Learning</h3>
+### 📚 Continuous Learning
 **Skill Building Framework:**
 
 **Technical Skills:**
@@ -490,7 +490,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Tracking Progress</h3>
+### 📊 Tracking Progress
 **Review Cycle:**
 
 **Monthly Self-Review:**
@@ -528,7 +528,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>🧗 Breaking Through Barriers</h3>
+### 🧗 Breaking Through Barriers
 **Common Plateaus:**
 
 1. **Skill Plateau**
@@ -569,7 +569,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Financial Progression</h3>
+### 💰 Financial Progression
 **Compensation Scaling:**
 
 | Level | Base Multiplier | Performance Bonus | Additional Opportunities |
@@ -593,7 +593,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Your Anchor Future</h3>
+### 🎯 Your Anchor Future
 **Career Path Options:**
 
 1. **Specialist Track**
@@ -642,7 +642,7 @@ Focus Areas:
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Planning Your Journey</h3>
+### 🎯 Planning Your Journey
 **SMART Goals Framework:**
 ```
 Example 5-Year Plan:

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Protect Your Capital, Preserve Your Future</h3>
+### 🛡️ Protect Your Capital, Preserve Your Future
 
 Risk management separates professional Echoes from gamblers. This comprehensive guide provides institutional-grade risk management frameworks, tools, and strategies to help you survive market downturns, recover from losses, and build long-term wealth systematically.
 
@@ -16,7 +16,7 @@ Risk management separates professional Echoes from gamblers. This comprehensive 
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ The Risk Landscape</h3>
+### ⚠️ The Risk Landscape
 
 **Unique Signal Risks:**
 - 
@@ -49,7 +49,7 @@ Risk management separates professional Echoes from gamblers. This comprehensive 
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ The Risk Equation</h3>
+### ⚖️ The Risk Equation
 ** Expected Value Calculation:
 ```
 EV = (P(Win) × Reward) - (P(Loss) × Stake)
@@ -78,7 +78,7 @@ Target Sharpe > 1.0 for good risk-adjusted returns
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Non-Negotiable Risk Rules</h3>
+### 📋 Non-Negotiable Risk Rules
 **Rule 1: The 2% Rule
 **Never risk more than 2% of total capital on single signal
 **Rule 2: The 10% Rule
@@ -96,7 +96,7 @@ Target Sharpe > 1.0 for good risk-adjusted returns
 
 <div class="arena-card" markdown="1">
 
-<h3>📏 Mathematical Position Sizing</h3>
+### 📏 Mathematical Position Sizing
 ** Kelly Criterion (Full):
 ```
 f = (p × b - q) / b
@@ -132,7 +132,7 @@ Why 0.25?
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Risk Assessment Framework</h3>
+### ✅ Risk Assessment Framework
 ** Before Every Signal:
 ```
 □ Position size within limits?
@@ -157,7 +157,7 @@ Why 0.25?
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Key Risk Indicators</h3>
+### 📊 Key Risk Indicators
 ** Monitor Daily:
 ```
 Current Exposure: ___% of capital
@@ -182,7 +182,7 @@ Volatility: ___% (daily)
 
 <div class="arena-card" markdown="1">
 
-<h3>📉 Drawdown Recovery Protocol</h3>
+### 📉 Drawdown Recovery Protocol
 **Drawdown Levels & Actions:** Level 1: -10% Drawdown
 - ** Review all positions
 - Check thesis validity
@@ -210,7 +210,7 @@ Volatility: ___% (daily)
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Mental Risk Management</h3>
+### 🧠 Mental Risk Management
 ** Emotional States to Avoid:
 - ** Revenge trading after losses
 - Desperation for recovery
@@ -234,7 +234,7 @@ Volatility: ___% (daily)
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Smart Diversification</h3>
+### 🌐 Smart Diversification
 ** Diversification Dimensions:
 1. **Venture Count:**
  15-30 active signals
@@ -262,7 +262,7 @@ Review weekly for changes
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Portfolio Hedging</h3>
+### 🔄 Portfolio Hedging
 ** Natural Hedges:
 1. **Belief/Doubt Balance**
 
@@ -300,7 +300,7 @@ Review weekly for changes
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Stress Testing</h3>
+### 🎯 Stress Testing
 **Scenario 1: Market Crash
 - ** All signals -50% success rate
 - Portfolio impact: ___%
@@ -323,7 +323,7 @@ Never ignore tail risks
 
 <div class="arena-card" markdown="1">
 
-<h3>🚨 Emergency Protocols</h3>
+### 🚨 Emergency Protocols
 ** Crisis Response Plan:
 1. **Immediate:**
  Stop all new signals
@@ -355,7 +355,7 @@ Never ignore tail risks
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Statistical Risk Measurement</h3>
+### 📈 Statistical Risk Measurement
 ** VaR Calculation:
 **"Maximum expected loss at 95% confidence level"
 ** Example:
@@ -374,7 +374,7 @@ Typically 1.5-2x VaR
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Equal Risk Contribution</h3>
+### ⚖️ Equal Risk Contribution
 ** Concept:
 **Each position contributes equally to portfolio risk
 ** Implementation:
@@ -395,7 +395,7 @@ Typically 1.5-2x VaR
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Essential Tracking Tools</h3>
+### 📊 Essential Tracking Tools
 ** Risk Dashboard Components:
 ```
 ** Position Tracker:
@@ -422,7 +422,7 @@ Typically 1.5-2x VaR
 
 <div class="arena-card" markdown="1">
 
-<h3>🤖 Systematic Risk Management</h3>
+### 🤖 Systematic Risk Management
 ** Automation Options:
 1. **Position Size Calculator**
 
@@ -454,7 +454,7 @@ Typically 1.5-2x VaR
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Risk Routine</h3>
+### 📅 Risk Routine
 ** Morning (10 min):
 - ** Check total exposure
 - Review risk metrics
@@ -477,7 +477,7 @@ Typically 1.5-2x VaR
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Risk-First Mindset</h3>
+### 🌟 Risk-First Mindset
 ** Core Beliefs:
 1. Capital preservation > Growth
 2. Consistent singles > Home runs
@@ -498,7 +498,7 @@ Typically 1.5-2x VaR
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ What Kills Echoes</h3>
+### ❌ What Kills Echoes
 ** Account Killers:
 - ** Ignoring position limits
 - No diversification
@@ -524,7 +524,7 @@ Continuous education
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Risk Management Evolution</h3>
+### 📈 Risk Management Evolution
 **Beginner:** Follow basic rules- **Intermediate:**  Understand the mathAdvanced:** Intuitive risk sense- **Expert:**  Teaching othersMaster:**  Innovation in risk
 - ** Timeline:
 - ** Month 1-3: Learn rules

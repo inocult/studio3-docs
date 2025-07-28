@@ -134,7 +134,7 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-<h3>💥 Sender Penalty Framework</h3>
+### 💥 Sender Penalty Framework
 **Failure Consequences:**
 
 1. **Immediate Penalties** Milestone funds locked/returned
@@ -171,7 +171,7 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Anchor Accountability</h3>
+### ⚠️ Anchor Accountability
 ** Quality Failures:
 - ** Poor validation: Reduced future assignments
 - Biased judgments: Council review
@@ -244,7 +244,7 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-<h3>🎆 Bonus Reward Programs</h3>
+### 🎆 Bonus Reward Programs
 **Active Programs:**
 
 1. **Early Adopter Rewards** 2x XP for first 1000 users
@@ -288,7 +288,7 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Protection Options</h3>
+### 🛡️ Protection Options
 
 **Signal Insurance** (Coming Soon)
 - ** Pay 10% premium
@@ -373,14 +373,14 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-<h4>🌟 The Perfect Signal</h4>
-<strong>Echo:</strong> CryptoSage
+#### 🌟 The Perfect Signal
+**Echo:** CryptoSage
 
-<strong>Signal:</strong> 10,000 $SIGNAL belief on DeFiVault Phase 4
+**Signal:** 10,000 $SIGNAL belief on DeFiVault Phase 4
 
-<strong>Timing:</strong> 14 days early
+**Timing:** 14 days early
 
-<strong>Result:</strong> 2.8x return (28,000 $SIGNAL)
+**Result:** 2.8x return (28,000 $SIGNAL)
 
 <blockquote>"I spent days analyzing their code and team. The early signal risk paid off beautifully." - CryptoSage</blockquote>
 
@@ -390,12 +390,12 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-<h4>💥 The Costly Mistake</h4>
-<strong>Sender:</strong> RushProtocol
+#### 💥 The Costly Mistake
+**Sender:** RushProtocol
 
-<strong>Failure:</strong> Overpromised on scaling milestone
+**Failure:** Overpromised on scaling milestone
 
-<strong>Penalty:</strong> 250,000 $SIGNAL burned, -2000 XP
+**Penalty:** 250,000 $SIGNAL burned, -2000 XP
 
 <blockquote>"We learned to be realistic with timelines. The penalty hurt but taught us valuable lessons." - RushProtocol CEO</blockquote>
 

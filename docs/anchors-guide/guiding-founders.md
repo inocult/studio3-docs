@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🧭 Beyond Validation: True Guidance</h3>
+### 🧭 Beyond Validation: True Guidance
 
 While validation is the formal responsibility, guiding founders to success is the true art of being an Anchor. This comprehensive guide teaches you to mentor effectively, support through challenges, and help founders build ventures that thrive.
 
@@ -16,7 +16,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Emotional and Professional Phases</h3>
+### 🚀 Emotional and Professional Phases
 
 **The Emotional Rollercoaster:** Phase 1: Euphoria** (Spark/Early Forge)
 - ** High energy and optimism
@@ -45,7 +45,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Recognizing Different Types</h3>
+### 👥 Recognizing Different Types
 **Common Founder Types:** The Visionary
 - ** Big picture thinker
 - Inspiration machine
@@ -80,7 +80,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>👂 The Foundation of Good Guidance</h3>
+### 👂 The Foundation of Good Guidance
 **Listening Techniques:** Level 1: Content Listening
 - ** What are they saying?
 - Facts and information
@@ -109,7 +109,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>❓ Questions That Transform</h3>
+### ❓ Questions That Transform
 **Question Categories:** Clarifying Questions
 - ** "What specifically do you mean by...?"
 - "Can you give me an example?"
@@ -139,7 +139,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 High-Level Direction</h3>
+### 🎯 High-Level Direction
 **Strategic Support Areas:** Vision Refinement
 - ** Challenge assumptions
 - Clarify value proposition
@@ -174,7 +174,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Practical Problem Solving</h3>
+### 🛠️ Practical Problem Solving
 **Common Tactical Needs:** Technical Challenges```python
 ** def guide_technical_decisions():
     assess_current_state()
@@ -211,7 +211,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Constructive Communication</h3>
+### 💬 Constructive Communication
 **The SBI Model:** Situation
 - ** Set specific context
 - When and where
@@ -235,7 +235,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>😓 Handling Hard Topics</h3>
+### 😓 Handling Hard Topics
 **Conversation Framework:** 1. Prepare Thoroughly
 - ** Clear objective
 - Specific examples
@@ -271,7 +271,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>🚨 Early Warning Signs</h3>
+### 🚨 Early Warning Signs
 **Crisis Indicators:** Technical Crisis
 - ** Major bugs/failures
 - Security breaches
@@ -303,7 +303,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>🆘 Emergency Response</h3>
+### 🆘 Emergency Response
 **Crisis Management Steps:** 1. Stabilize First
 - ** Emotional support
 - Calm assessment
@@ -338,7 +338,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Foundation of Influence</h3>
+### 🤝 Foundation of Influence
 **Trust Building Blocks:** Reliability
 - ** Consistent availability
 - Promise keeping
@@ -366,7 +366,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Professional Relationships</h3>
+### ⚖️ Professional Relationships
 **Healthy Boundaries:** Time Boundaries
 - ** Set office hours
 - Emergency definitions
@@ -396,7 +396,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Helping Founders Grow</h3>
+### 📈 Helping Founders Grow
 **Core Growth Areas:** Leadership Development
 - ** Vision articulation
 - Team inspiration
@@ -428,7 +428,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Leveraging Your Network</h3>
+### 🌐 Leveraging Your Network
 **Connection Categories:** Expert Advisors
 - ** Technical specialists
 - Industry veterans
@@ -462,7 +462,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>🌱 Growing Together</h3>
+### 🌱 Growing Together
 **Relationship Stages:** Early Stage: Teacher
 - ** Heavy guidance
 - Frequent check-ins
@@ -490,7 +490,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Measuring Impact</h3>
+### 📊 Measuring Impact
 ** Quantitative Metrics:
 - ** Milestone success rate
 - Venture survival rate
@@ -518,7 +518,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ What to Avoid</h3>
+### ❌ What to Avoid
 **Over-Involvement
 - ** Making their decisions
 - Constant hand-holding
@@ -548,7 +548,7 @@ While validation is the formal responsibility, guiding founders to success is th
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ Guidance Excellence</h3>
+### ⭐ Guidance Excellence
 ** Daily Practices:
 1. Check in regularly
 2. Listen more than talk

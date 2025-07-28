@@ -6,7 +6,7 @@ Studio3 is a revolutionary venture building platform that transforms how startup
 
 <div class="arena-card" markdown="1">
 
-<h3>Where Belief Becomes Momentum</h3>
+### Where Belief Becomes Momentum
 Studio3 creates an ecosystem where great ideas can find support, validation, and resources through a transparent, community-driven process. By gamifying the entrepreneurship journey and aligning incentives across all participants, we're building the future of venture creation.
 
 </div>
@@ -53,42 +53,42 @@ Everyone wins when ventures succeed:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>1. Ideas Enter</h3>
+### 1. Ideas Enter
 Ventures begin as Spark NFTs created from remixed intellectual property
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h3>2. Founders Compete</h3>
+### 2. Founders Compete
 Forge Duels determine who leads each venture forward
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h3>3. Building Begins</h3>
+### 3. Building Begins
 Winners form Container DAOs and start public development
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h3>4. Community Signals</h3>
+### 4. Community Signals
 Supporters express belief or doubt through $SIGNAL tokens
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h3>5. Progress Validated</h3>
+### 5. Progress Validated
 Anchors verify milestones and guide development
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h3>6. Ventures Graduate</h3>
+### 6. Ventures Graduate
 Successful ventures achieve sovereignty through Ascension
 
 </div>
@@ -109,14 +109,14 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 
 <div class="arena-card" markdown="1">
 
-<h3>For the Startup Ecosystem</h3>
-- <strong>Reduced Failure Rate</strong> 
+### For the Startup Ecosystem
+- **Reduced Failure Rate** 
 - Community validation catches issues early
-- <strong>Better Resource Allocation</strong> 
+- **Better Resource Allocation** 
 - Support flows to promising ventures
-- <strong>Faster Iteration</strong> 
+- **Faster Iteration** 
 - Public feedback accelerates learning
-- <strong>Stronger Networks</strong> 
+- **Stronger Networks** 
 - Built-in community from day one
 
 </div>

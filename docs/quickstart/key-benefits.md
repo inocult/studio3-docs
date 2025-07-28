@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 The Core Value Proposition</h3>
+### 🎯 The Core Value Proposition
 
 **Studio3 solves the biggest problems in venture building:**
 
@@ -26,7 +26,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 No More Gatekeepers</h3>
+### 💰 No More Gatekeepers
 ** Traditional Way:
 - ** Need connections to VCs
 - Months of closed-door meetings
@@ -44,7 +44,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Never Build Alone</h3>
+### 👥 Never Build Alone
 
 ** From day one, you have:
 - **Hundreds of supporters** invested in your success
@@ -73,7 +73,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Get In Early</h3>
+### 🚀 Get In Early
 
 - **Discover ventures** before mainstream
 - **Support ideas**  you believe in
@@ -87,7 +87,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Know What You're Getting</h3>
+### 📊 Know What You're Getting
 ** Clear Mechanics:
 - ** Exact multipliers for correct predictions (1.5x-3x)
 - Public track records of all participants
@@ -118,7 +118,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 Your Experience Has Value</h3>
+### 💎 Your Experience Has Value
 
 - **Earn fees** for validations (3-10%)
 - **Build reputation**  as trusted expert
@@ -149,7 +149,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Better Outcomes for All</h3>
+### 📈 Better Outcomes for All
 **Traditional Startup Failure Rate:** 90%** Studio3 Advantages:
 - ** Community validation catches bad ideas early
 - Public accountability drives execution
@@ -188,7 +188,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🔗 Value Compounds with Growth</h3>
+### 🔗 Value Compounds with Growth
 
 ** As more people join:
 - **More ventures** = More opportunities
@@ -228,7 +228,7 @@ Everyone benefits from the same outcome:
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>🌟 Perfect for Founders Who:</h4>
+#### 🌟 Perfect for Founders Who:
 
 - Lack traditional VC connections
 
@@ -241,7 +241,7 @@ Everyone benefits from the same outcome:
 
 <div class="arena-card" markdown="1">
 
-<h4>🌟 Perfect for Supporters Who:</h4>
+#### 🌟 Perfect for Supporters Who:
 
 - Want early-stage exposure
 - Enjoy evaluating ideas
@@ -253,7 +253,7 @@ Everyone benefits from the same outcome:
 
 <div class="arena-card" markdown="1">
 
-<h4>🌟 Perfect for Validators Who:</h4>
+#### 🌟 Perfect for Validators Who:
 
 - Have deep expertise
 
@@ -269,7 +269,7 @@ Everyone benefits from the same outcome:
 
 <div class="arena-card" markdown="1">
 
-<h3>Why Studio3 Wins</h3>
+### Why Studio3 Wins
 ** For Individuals:
 - ** Better access to opportunities
 - Transparent risk and rewards

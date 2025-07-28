@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚓ The Pillars of Studio3</h3>
+### ⚓ The Pillars of Studio3
 
 As an Anchor in Studio3, you serve as both validator and mentor, ensuring venture quality while guiding founders toward success. This role combines technical expertise, strategic insight, and human wisdom to maintain the ecosystem's high standards.
 
@@ -16,7 +16,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Core Definition</h3>
+### 🎯 Core Definition
 
 **Anchors are experienced builders who:**
 - Validate milestone achievements
@@ -37,7 +37,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 The Evolution</h3>
+### 🔄 The Evolution
 
 | Traditional Advisor | Studio3 Anchor |
 |-------------------|----------------|
@@ -61,7 +61,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Thinking Like an Anchor</h3>
+### 🧠 Thinking Like an Anchor
 **Dual Responsibility:**
 
 1. **To Ventures**
@@ -84,7 +84,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ What Makes Great Anchors</h3>
+### ⭐ What Makes Great Anchors
 **Technical Excellence:**
 - Deep domain expertise
 - Current knowledge
@@ -112,7 +112,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Core Duties</h3>
+### 📋 Core Duties
 1. **Milestone Validation**
    - Review evidence thoroughly
 - Apply consistent standards
@@ -138,7 +138,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Realistic Expectations</h3>
+### ⏰ Realistic Expectations
 **Weekly Time Investment:**
 - Active ventures: 2-4 hours per venture
 - Validation reviews: 1-2 hours each
@@ -167,7 +167,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Advancement Path</h3>
+### 📈 Advancement Path
 **Level 1: Junior Anchor**
 - Learning the role
 - 1-3 ventures assigned
@@ -200,7 +200,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>🎓 Anchor Specialties</h3>
+### 🎓 Anchor Specialties
 **Domain Specialization:**
 - DeFi protocols
 - Gaming ventures
@@ -227,7 +227,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Your Contribution</h3>
+### 🌟 Your Contribution
 **Direct Impact:**
 - Ventures guided to success
 - Quality standards maintained
@@ -253,7 +253,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 What Anchors Gain</h3>
+### 💎 What Anchors Gain
 **Financial Rewards:**
 - Validation fees (2-5% of milestones)
 - Performance bonuses
@@ -281,7 +281,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Moral Foundation</h3>
+### ⚖️ Moral Foundation
 **Core Principles:**
 
 1. **Objectivity**
@@ -316,7 +316,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Day in the Life</h3>
+### 📅 Day in the Life
 **Morning (2 hours):**
 - Check venture updates
 - Review milestone progress
@@ -344,7 +344,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Your Workspace</h3>
+### 💻 Your Workspace
 **Digital Tools:**
 - Validation platform
 - Communication suite
@@ -372,7 +372,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 Excellence Indicators</h3>
+### 🏆 Excellence Indicators
 **High-Performing Anchors:**
 - Clear communication
 - Consistent availability
@@ -400,7 +400,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Challenge Management</h3>
+### ⚠️ Challenge Management
 **Typical Challenges:**
 
 1. **Difficult Decisions**
@@ -447,7 +447,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Beginning Your Journey</h3>
+### 🚀 Beginning Your Journey
 **Immediate Actions:**
 1. Complete application
 2. Pass assessment
@@ -475,7 +475,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Peer Support</h3>
+### 🤝 Peer Support
 **Community Benefits:**
 - Shared experiences
 - Best practices

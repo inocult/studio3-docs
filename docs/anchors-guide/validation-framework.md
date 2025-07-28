@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Mastering the Validation Process</h3>
+### ✅ Mastering the Validation Process
 
 The validation framework is the cornerstone of the Anchor role. This comprehensive guide provides the complete methodology, tools, and best practices for conducting thorough, fair, and consistent milestone validations that maintain Studio3's high standards.
 
@@ -16,7 +16,7 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Core Concept</h3>
+### 🎯 Core Concept
 
 **Validation Definition:The systematic process of reviewing evidence, assessing achievement, and determining whether a venture has successfully completed its declared milestone according to ecosystem standards.
 ** Validation Components:
@@ -44,7 +44,7 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 The Validation Mindset</h3>
+### 🧠 The Validation Mindset
 **Core Principles:** 1. Evidence-Based
 - ** Facts over feelings
 - Proof over promises
@@ -74,7 +74,7 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Preparation Steps</h3>
+### 📋 Preparation Steps
 ** Before Validation Begins:
 1. **Milestone Review**
    ```
@@ -115,7 +115,7 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 <div class="arena-card" markdown="1">
 
-<h3>📦 Gathering Proof</h3>
+### 📦 Gathering Proof
 **Evidence Types:**  Technical Evidence:
 - ** Code repositories
 - Live demonstrations
@@ -146,7 +146,7 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Systematic Review</h3>
+### 🔍 Systematic Review
 **Assessment Framework:** Step 1: Completeness Check```
 ** Evidence Checklist:
 □ All deliverables present
@@ -183,7 +183,7 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Evolving Expectations</h3>
+### 📈 Evolving Expectations
 **Standards by Phase:** Spark (Idea Validation)
 - ** Concept clarity: Clear
 - Market research: Basic
@@ -221,7 +221,7 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ Excellence Standards</h3>
+### ⭐ Excellence Standards
 ** Technical Quality:
 ```
 ** Code Quality Metrics:
@@ -258,7 +258,7 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Making the Call</h3>
+### ⚖️ Making the Call
 **Decision Options:** 1. PASS ✅
 - ** All criteria met
 - Quality acceptable
@@ -291,7 +291,7 @@ Score <70%: Clear FAIL
 
 <div class="arena-card" markdown="1">
 
-<h3>🤔 Handling Complexity</h3>
+### 🤔 Handling Complexity
 **Common Edge Cases:** 1. Pivot During Milestone
 - ** Assess original intent
 - Evaluate pivot rationale
@@ -325,7 +325,7 @@ Score <70%: Clear FAIL
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Complete Documentation</h3>
+### 📝 Complete Documentation
 ** Standard Report Template:
 ```markdown
 # Validation Report
@@ -388,7 +388,7 @@ Score <70%: Clear FAIL
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Clear Communication</h3>
+### 💬 Clear Communication
 **Stakeholder Communication:**  To Founders:
 - ** Decision first
 - Clear reasoning
@@ -421,7 +421,7 @@ Score <70%: Clear FAIL
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Validation Quality</h3>
+### ✅ Validation Quality
 ** Before Finalizing:
 ```
 ** Personal Review:
@@ -447,7 +447,7 @@ Score <70%: Clear FAIL
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Getting Better</h3>
+### 📈 Getting Better
 **Improvement Methods:** 1. Pattern Recognition
 - ** Track decision patterns
 - Identify biases
@@ -477,7 +477,7 @@ Score <70%: Clear FAIL
 
 <div class="arena-card" markdown="1">
 
-<h3>🎓 Master-Level Skills</h3>
+### 🎓 Master-Level Skills
 **Handling Complexity:**  Multi-Part Milestones:
 - ** Break down components
 - Weight importance
@@ -503,7 +503,7 @@ Score <70%: Clear FAIL
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Handling Challenges</h3>
+### ⚖️ Handling Challenges
 ** Appeal Process:
 1. Founder submits appeal
 2. Review original decision
@@ -531,7 +531,7 @@ Score <70%: Clear FAIL
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Essential Tools</h3>
+### 🛠️ Essential Tools
 ** Technical Tools:
 - ** Code review platforms
 - Testing frameworks

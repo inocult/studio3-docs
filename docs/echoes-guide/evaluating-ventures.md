@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Due Diligence Excellence</h3>
+### 🔍 Due Diligence Excellence
 
 Success as an Echo depends on your ability to evaluate ventures accurately. This comprehensive guide provides frameworks, tools, and strategies to analyze opportunities like a professional investor while leveraging Studio3's unique transparency.
 
@@ -16,7 +16,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>🏰 Systematic Analysis</h3>
+### 🏰 Systematic Analysis
 
 - **F** 
 - Founder Assessment
@@ -43,7 +43,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Evaluating the Builders</h3>
+### 👥 Evaluating the Builders
 
 ** Background Research:
 1. **Professional History**
@@ -104,7 +104,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Market Opportunity</h3>
+### 📊 Market Opportunity
 ** TAM Assessment:
 - ** Total Addressable Market size
 - Growth rate projections
@@ -132,7 +132,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Real Problem Check</h3>
+### 🎯 Real Problem Check
 ** Validation Criteria:
 1. **Problem Clarity**
 
@@ -172,7 +172,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Comprehensive Risk Assessment</h3>
+### ⚠️ Comprehensive Risk Assessment
 **Risk Categories:| Risk Type | Low | Medium | High |
 |-----------|-----|---------|------|
 | Technical | Proven tech | Some innovation | Breakthrough needed |
@@ -192,7 +192,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>🚩 Warning Signs</h3>
+### 🚩 Warning Signs
 ** Immediate Concerns:
 - ** Plagiarized whitepaper
 - Impossible timelines
@@ -220,7 +220,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Technical Due Diligence</h3>
+### 💻 Technical Due Diligence
 ** GitHub Analysis:
 - ** Commit frequency
 - Code quality
@@ -259,7 +259,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Roadmap Evaluation</h3>
+### 📅 Roadmap Evaluation
 ** Milestone Quality:
 1. **Specificity**
 
@@ -310,7 +310,7 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Past Performance</h3>
+### 📈 Past Performance
 ** Studio3 History:
 - ** Previous ventures
 - Success rate
@@ -340,7 +340,7 @@ Pivot Count: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Signal Intelligence</h3>
+### 📡 Signal Intelligence
 ** Current Signals:
 - ** Belief/Doubt ratio
 - Signal velocity
@@ -367,7 +367,7 @@ Pivot Count: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🌱 Sustainability Factors</h3>
+### 🌱 Sustainability Factors
 ** Business Model:
 - ** Revenue streams
 - Unit economics
@@ -395,7 +395,7 @@ Pivot Count: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Evaluation Toolkit</h3>
+### 🛠️ Evaluation Toolkit
 ** Venture Scorecard:
 ```
 FOUNDER (1-10): ___
@@ -419,7 +419,7 @@ Stake Size: ___ $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ 15-Minute Analysis</h3>
+### ⚡ 15-Minute Analysis
 ** Speed Check:
 1. Team LinkedIn (2 min)
 2. Problem statement (2 min)
@@ -468,7 +468,7 @@ Stake Size: ___ $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Research Resources</h3>
+### 🔍 Research Resources
 ** Primary Sources:
 - ** Venture Arena page
 - Team interviews
@@ -496,7 +496,7 @@ Stake Size: ___ $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Final Decision Process</h3>
+### ✅ Final Decision Process
 ** Belief Criteria:
 - ** FORTRESS score 64+/80
 - High confidence (70%+)
@@ -524,7 +524,7 @@ Stake Size: ___ $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Skill Development</h3>
+### 📚 Skill Development
 ** Learning Activities:
 1. **Post-Mortem Analysis**
 

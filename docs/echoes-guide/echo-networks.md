@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 The Power of Connected Echoes</h3>
+### 🌐 The Power of Connected Echoes
 
 Echo Networks represent the evolution from individual signaling to collective intelligence. This guide explores advanced collaboration strategies, network formation, and how groups of Echoes can achieve results impossible for individuals alone.
 
@@ -16,7 +16,7 @@ Echo Networks represent the evolution from individual signaling to collective in
 
 <div class="arena-card" markdown="1">
 
-<h3>🔗 Network Fundamentals</h3>
+### 🔗 Network Fundamentals
 
 **Definition: Echo Networks are organized groups of Echoes who collaborate to:
 - Share research and insights
@@ -45,7 +45,7 @@ Echo Networks represent the evolution from individual signaling to collective in
 
 <div class="arena-card" markdown="1">
 
-<h3>📐 Network Dynamics</h3>
+### 📐 Network Dynamics
 ** Metcalfe's Law Applied:
 **Network Value = n² (where n = active members)
 ** Network Effects:
@@ -67,7 +67,7 @@ Echo Networks represent the evolution from individual signaling to collective in
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ Creating Your Network</h3>
+### 🏗️ Creating Your Network
 ** Formation Steps:
 1. **Define Purpose**
 
@@ -115,7 +115,7 @@ Echo Networks represent the evolution from individual signaling to collective in
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Operating Models</h3>
+### ⚖️ Operating Models
 ** Governance Options:
 1. **Flat Collective**
 
@@ -160,7 +160,7 @@ Echo Networks represent the evolution from individual signaling to collective in
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Amplified Analysis</h3>
+### 🧠 Amplified Analysis
 ** Intelligence Multiplication:
 1. **Distributed Research**
 
@@ -200,7 +200,7 @@ Network analysis: 85%+ accuracy
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Strategic Coordination</h3>
+### 📡 Strategic Coordination
 ** Coordination Benefits:
 - ** Larger collective positions
 - Better timing optimization
@@ -245,7 +245,7 @@ Network analysis: 85%+ accuracy
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Information Architecture</h3>
+### 💬 Information Architecture
 ** Communication Stack:
 1. **Real-time Chat**
 
@@ -289,7 +289,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Collective Resources</h3>
+### 💰 Collective Resources
 ** Pooling Models:
 1. **Research Pool**
 
@@ -334,7 +334,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 Network-Exclusive Strategies</h3>
+### 💎 Network-Exclusive Strategies
 ** Arbitrage Types:
 1. **Information Arbitrage**
 
@@ -372,7 +372,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Pushing Boundaries</h3>
+### 🚀 Pushing Boundaries
 ** Innovation Areas:
 1. **Tool Development**
 
@@ -412,7 +412,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Sustainable Growth</h3>
+### 📈 Sustainable Growth
 ** Growth Stages:
 1. **Formation (0-6 months)**
 
@@ -455,7 +455,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Adaptive Networks</h3>
+### 🔄 Adaptive Networks
 ** Evolution Patterns:
 1. **Specialization**
 
@@ -495,7 +495,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Learning from Leaders</h3>
+### 📚 Learning from Leaders
 **The DeFi Specialists
 - ** 12 members, all DeFi experts
 - 92% signal success rate
@@ -525,7 +525,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Network Risks</h3>
+### ⚠️ Network Risks
 ** Internal Challenges:
 - ** Free rider problem
 - Coordination overhead
@@ -551,7 +551,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>🔧 Keeping Networks Healthy</h3>
+### 🔧 Keeping Networks Healthy
 ** Maintenance Activities:
 1. **Regular Reviews**
 
@@ -591,7 +591,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Your Network Journey</h3>
+### 🎯 Your Network Journey
 **Month 1: Foundation
 - ** [ ] Define network vision
 - [ ] Identify potential members
@@ -617,7 +617,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Essential Resources</h3>
+### 📚 Essential Resources
 ** Templates:
 - ** Network charter template
 - Operating agreement
@@ -645,7 +645,7 @@ Discovery → Analysis → Review → Decision → Execution → Learning
 
 <div class="arena-card" markdown="1">
 
-<h3>🔮 Network Future</h3>
+### 🔮 Network Future
 ** Emerging Trends:
 1. **AI-Enhanced Networks**
 

@@ -10,7 +10,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Essential Setup</h3>
+### 🚀 Essential Setup
 
 1. Create Your Account
 - **Connect wallet with $SIGNAL tokens**
@@ -48,7 +48,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>🤝 Connect with Veterans</h4>
+#### 🤝 Connect with Veterans
 
 - Introduce yourself properly
 
@@ -60,7 +60,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h4>📚 Find Your Mentors</h4>
+#### 📚 Find Your Mentors
 
 - Identify successful role models
 
@@ -132,7 +132,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Pre-Launch Checklist</h3>
+### ⚡ Pre-Launch Checklist
 ** Technical Ready:
 - ** [ ] Wallet funded with $SIGNAL
 - [ ] Development environment set
@@ -209,7 +209,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Progressive Scaling</h3>
+### 📈 Progressive Scaling
 ** Signal Sizing:
 - ** Week 1: 10-50 $SIGNAL per signal
 - Week 2: 50-100 $SIGNAL per signal
@@ -281,7 +281,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Validation Excellence</h3>
+### ⚖️ Validation Excellence
 ** Quality Standards:
 - ** Thorough evidence review
 - Clear documentation
@@ -332,7 +332,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>🏗️ Sender Success</h4>
+#### 🏗️ Sender Success
 
 - Spark NFT created
 
@@ -345,7 +345,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h4>📡 Echo Success</h4>
+#### 📡 Echo Success
 
 - 10+ signals placed
 
@@ -358,7 +358,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h4>⚓ Anchor Success</h4>
+#### ⚓ Anchor Success
 
 - Approved status
 
@@ -402,7 +402,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Daily Success Habits</h3>
+### ⏰ Daily Success Habits
 **Morning (30-60 min)
 - ** Check overnight activity
 - Review notifications
@@ -455,7 +455,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>🆘 Help Channels</h4>
+#### 🆘 Help Channels
 
 - #newbie-questions
 - #role-specific-help  
@@ -466,7 +466,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <div class="arena-card" markdown="1">
 
-<h4>👥 Human Support</h4>
+#### 👥 Human Support
 
 - Community mentors
 

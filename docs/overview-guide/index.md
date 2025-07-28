@@ -14,7 +14,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>1. Introduction</h3>
+### 1. Introduction
 - <a href="what-is-studio3.md">What is Studio3?</a>
 - <a href="ecosystem-overview.md">Ecosystem Overview</a>
 - <a href="key-principles.md">Key Principles</a>
@@ -23,7 +23,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-<h3>2. Core Concepts</h3>
+### 2. Core Concepts
 - <a href="arena-system.md">The Arena System</a>
 - <a href="belief-signals.md">Belief & Doubt Signals</a>
 - <a href="nft-system.md">Three-NFT System</a>
@@ -32,7 +32,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-<h3>3. The Journey</h3>
+### 3. The Journey
 - <a href="seven-phases.md">Seven Phase Lifecycle</a>
 - <a href="milestones.md">Milestone System</a>
 - <a href="progression.md">Progression Rules</a>
@@ -41,7 +41,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-<h3>4. Participants</h3>
+### 4. Participants
 - <a href="roles-overview.md">Three Roles Overview</a>
 - <a href="interactions.md">How They Interact</a>
 - <a href="incentives.md">Aligned Incentives</a>
@@ -50,7 +50,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-<h3>5. Economics</h3>
+### 5. Economics
 - <a href="signal-token.md">$SIGNAL Token</a>
 - <a href="rewards-system.md">Rewards & Penalties</a>
 - <a href="value-flow.md">Value Flow</a>
@@ -59,7 +59,7 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 
 <div class="arena-card" markdown="1">
 
-<h3>6. Getting Started</h3>
+### 6. Getting Started
 - <a href="choosing-role.md">Choosing Your Role</a>
 - <a href="first-steps.md">First Steps</a>
 - <a href="resources.md">Resources & Support</a>

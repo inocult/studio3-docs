@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ The Power of Productive Doubt</h3>
+### ❌ The Power of Productive Doubt
 
 Doubt signals aren't about negativity - they're about protecting the ecosystem and profiting from realistic assessments. This guide teaches you to identify overvalued ventures, spot red flags early, and deploy doubt signals strategically for consistent returns.
 
@@ -16,7 +16,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Doubt Reward Structure</h3>
+### 💰 Doubt Reward Structure
 
 **Doubt Returns:**
 - ** Base multiplier: 1.2x
@@ -37,7 +37,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Ecosystem Protection</h3>
+### 🛡️ Ecosystem Protection
 ** Doubt Benefits:
 1. **Quality Control**
 
@@ -77,7 +77,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Systematic Doubt Analysis</h3>
+### 🔍 Systematic Doubt Analysis
 - ** S
 - Suspicious patterns**
 - **  K
@@ -101,7 +101,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Conviction Scale</h3>
+### 📊 Conviction Scale
 
 **Ultra-High Doubt (90%+)
 - ** Clear red flags
@@ -129,7 +129,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>🚩 Classic Warning Signs</h3>
+### 🚩 Classic Warning Signs
 ** Team Red Flags:
 - ** Anonymous/pseudonymous
 - No relevant experience
@@ -155,7 +155,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Spotting Bubble Signals</h3>
+### 📈 Spotting Bubble Signals
 ** Hype Indicators:
 - ** 90%+ belief ratio
 - Paid promotion heavy
@@ -177,7 +177,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ When to Signal Doubt</h3>
+### ⏰ When to Signal Doubt
 **Early Doubt (Days 1-7)
 - ** Maximum contrarian bonus
 - Highest risk
@@ -200,7 +200,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Event-Driven Doubt</h3>
+### ⚡ Event-Driven Doubt
 ** Doubt Catalysts:
 1. **Missed Deadlines**
 
@@ -242,7 +242,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>📉 Fading the Hype</h3>
+### 📉 Fading the Hype
 ** Identifying Hype Ventures:
 - ** Massive marketing spend
 - No substance
@@ -267,7 +267,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Code-Based Skepticism</h3>
+### 💻 Code-Based Skepticism
 ** Technical Analysis:
 - ** Review architecture
 - Check dependencies
@@ -292,7 +292,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>🏁 Superior Alternative Exists</h3>
+### 🏁 Superior Alternative Exists
 ** Competition Analysis:
 - ** Identify better solutions
 - Compare features
@@ -315,7 +315,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Doubt with Integrity</h3>
+### 🤝 Doubt with Integrity
 ** Ethical Guidelines:
 1. **Be Factual**
 - Evidence
@@ -353,7 +353,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ What NOT to Do</h3>
+### ❌ What NOT to Do
 ** Forbidden Tactics:
 - ** Spreading FUD
 - Personal attacks
@@ -374,7 +374,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Doubt Portfolio Structure</h3>
+### 📊 Doubt Portfolio Structure
 ** Optimal Doubt Mix:
 ```
 Technical Doubts: 30% (High conviction)
@@ -395,7 +395,7 @@ Timing Issues: 10% (Unrealistic)
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Balanced Approaches</h3>
+### 🔄 Balanced Approaches
 ** Hedge Patterns:
 1. **Market Hedge**
 
@@ -429,7 +429,7 @@ Timing Issues: 10% (Unrealistic)
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Learning from Wins</h3>
+### 📚 Learning from Wins
 **Case 1: The Impossible Timeline
 - ** Venture: AI rendering platform
 - Claim: 2 weeks to production
@@ -461,7 +461,7 @@ Timing Issues: 10% (Unrealistic)
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Doubt Failures</h3>
+### ⚠️ Doubt Failures
 ** Strategic Errors:
 - ** Doubting quality teams
 - Ignoring momentum
@@ -483,7 +483,7 @@ Timing Issues: 10% (Unrealistic)
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Doubt KPIs</h3>
+### 📊 Doubt KPIs
 ** Key Metrics:
 - ** Doubt win rate: Target 40%+
 - Average return: Target 1.5x+
@@ -509,7 +509,7 @@ Lessons: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🕵️ Knowledge Advantage</h3>
+### 🕵️ Knowledge Advantage
 ** Sources of Edge:
 1. **Technical Expertise**
 
@@ -541,7 +541,7 @@ Lessons: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🤖 Algorithmic Skepticism</h3>
+### 🤖 Algorithmic Skepticism
 ** Screening Criteria:
 - ** Anonymous team → Doubt
 - No GitHub → Doubt
@@ -562,7 +562,7 @@ Lessons: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Quality Doubt Brand</h3>
+### 🌟 Quality Doubt Brand
 ** Reputation Building:
 1. **Always Evidence-Based**
 

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 The Complete Rewards Guide</h3>
+### 💰 The Complete Rewards Guide
 
 Understanding how rewards work is essential for Echo success. This comprehensive guide covers all reward mechanisms, multipliers, bonuses, and strategies to maximize your returns while contributing to ecosystem health.
 
@@ -16,7 +16,7 @@ Understanding how rewards work is essential for Echo success. This comprehensive
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 How You Earn</h3>
+### 🎯 How You Earn
 
 **Primary Sources:**
 - 
@@ -51,7 +51,7 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 
 <div class="arena-card" markdown="1">
 
-<h3>🏃 First Mover Advantages</h3>
+### 🏃 First Mover Advantages
 ** Bonus Structure:
 - **First 10 signals:** +50% multiplier
 -- **Signals 11-50:**  Signals 51-200:
@@ -67,7 +67,7 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ XP-Based Rewards</h3>
+### ⭐ XP-Based Rewards
 **XP Tiers & Bonuses:| XP Range | Title | Reward Bonus | Other Perks |
 |----------|-------|--------------|-------------|
 | 0-100 | Novice Echo | 0% | Learning resources |
@@ -82,7 +82,7 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 
 <div class="arena-card" markdown="1">
 
-<h3>🔥 Consistency Rewards</h3>
+### 🔥 Consistency Rewards
 ** Accuracy Streaks:
 - ** 3 correct in a row: +5% next signal
 - 5 correct in a row: +10% next signal
@@ -102,7 +102,7 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 
 <div class="arena-card" markdown="1">
 
-<h3>✨ Risk = Reward</h3>
+### ✨ Risk = Reward
 ** Phase Multipliers:
 - 
 1. **Spark Phase**
@@ -154,7 +154,7 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 
 <div class="arena-card" markdown="1">
 
-<h3>🎲 Contrarian Bonuses</h3>
+### 🎲 Contrarian Bonuses
 ** When Majority is Wrong:
 - ** You signal opposite of 70%+ pool
 - Your position proves correct
@@ -175,7 +175,7 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Compounding Effects</h3>
+### 📈 Compounding Effects
 ** Sequential Signals:
 - ** Signal on multiple milestones
 - Reinvest rewards immediately
@@ -198,7 +198,7 @@ Month 12: 145,000 $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>🎉 Bonus Events</h3>
+### 🎉 Bonus Events
 ** Regular Events:
 1. **Double XP Weekends**
 
@@ -240,7 +240,7 @@ Month 12: 145,000 $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>💸 Getting Paid</h3>
+### 💸 Getting Paid
 ** Automatic Distribution:
 1. Milestone completes
 2. Anchor validates
@@ -274,7 +274,7 @@ Month 12: 145,000 $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Building Your Score</h3>
+### 🌟 Building Your Score
 **XP Earnings:| Action | XP Gained | XP Lost |
 |--------|-----------|----------|
 | Correct belief signal | +10-50 | 0 |
@@ -298,7 +298,7 @@ Month 12: 145,000 $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Pro Tactics</h3>
+### 🚀 Pro Tactics
 
 1. **Early Entry Focus**
 
@@ -353,7 +353,7 @@ Month 12: 145,000 $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Strategic Balance</h3>
+### ⚖️ Strategic Balance
 ** High Risk/Reward:
 - ** Early phase signals
 - Contrarian positions
@@ -377,7 +377,7 @@ Month 12: 145,000 $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Reward Pitfalls</h3>
+### ❌ Reward Pitfalls
 ** Fatal Errors:
 - ** Chasing losses with bigger stakes
 - Ignoring risk for multipliers
@@ -415,7 +415,7 @@ Month 12: 145,000 $SIGNAL
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Systematic Rewards</h3>
+### 📊 Systematic Rewards
 ** Diversification Model:
 ```
 Early Signals (30%): Maximum multipliers
@@ -437,7 +437,7 @@ Contrarian (10%): High-risk plays
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Beyond Signals</h3>
+### 🌐 Beyond Signals
 ** Additional Rewards:
 1. **Content Creation**
 - Analysis posts: 10
@@ -481,7 +481,7 @@ Contrarian (10%): High-risk plays
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Reward Checklist</h3>
+### 📝 Reward Checklist
 ** Maximize Returns:
 - ** ✓ Signal early for bonuses
 - ✓ Build reputation consistently

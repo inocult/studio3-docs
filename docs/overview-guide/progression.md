@@ -10,7 +10,7 @@ Progression through Studio3's seven phases follows clear rules designed to ensur
 
 <div class="arena-card" markdown="1">
 
-<h3>📏 The Five Laws</h3>
+### 📏 The Five Laws
 
 - 1. **Sequential Progress**
 - Phases must be completed in order
@@ -54,7 +54,7 @@ All phase transitions require:
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-<h4>✨ Spark → Forge</h4>
+#### ✨ Spark → Forge
 
 - 100+ $SIGNAL in belief
 
@@ -73,7 +73,7 @@ All phase transitions require:
     
     <div class="arena-card" markdown="1">
 
-<h4>⚔️ Forge → Ignition</h4>
+#### ⚔️ Forge → Ignition
 
 - Win founder duel
 
@@ -92,7 +92,7 @@ All phase transitions require:
     
     <div class="arena-card" markdown="1">
 
-<h4>🚀 Ignition → Drift</h4>
+#### 🚀 Ignition → Drift
 
 - Container DAO formed
 
@@ -111,7 +111,7 @@ All phase transitions require:
     
     <div class="arena-card" markdown="1">
 
-<h4>🌊 Drift → Orbit</h4>
+#### 🌊 Drift → Orbit
 - Product
 - market fit signals
 - 40%+ user retention
@@ -129,7 +129,7 @@ All phase transitions require:
     
     <div class="arena-card" markdown="1">
 
-<h4>🛸 Orbit → Flare</h4>
+#### 🛸 Orbit → Flare
 
 - 6 months stable operations
 
@@ -148,7 +148,7 @@ All phase transitions require:
     
     <div class="arena-card" markdown="1">
 
-<h4>🔥 Flare → Ascension</h4>
+#### 🔥 Flare → Ascension
 
 - Funding secured
 
@@ -172,7 +172,7 @@ All phase transitions require:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚓ Validation Framework</h3>
+### ⚓ Validation Framework
 
 **Anchors evaluate:**
 
@@ -305,7 +305,7 @@ def calculate_phase_health(venture):
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Fast Track Qualification</h3>
+### ⚡ Fast Track Qualification
 
 **Exceptional ventures may progress faster if:**
 - ** Exceed all metrics by 200%+
@@ -397,7 +397,7 @@ When ventures can't advance:
 
 <div class="arena-card" markdown="1">
 
-<h3>🤔 What If...</h3>
+### 🤔 What If...
 
 **Q: Venture succeeds wildly but hasn't met time minimum?**A: Must wait. Time requirements ensure proper foundation.
 

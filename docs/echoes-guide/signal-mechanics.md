@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚙️ How Signals Actually Work</h3>
+### ⚙️ How Signals Actually Work
 
 Understanding the mechanics behind signaling is crucial for maximizing returns and minimizing risks. This guide covers the technical details, mathematical models, and strategic considerations of the signal system.
 
@@ -16,7 +16,7 @@ Understanding the mechanics behind signaling is crucial for maximizing returns a
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Positive Conviction Mechanics</h3>
+### ✅ Positive Conviction Mechanics
 
 **Technical Specifications:**
 - **Minimum Stake:** 10 $SIGNAL
@@ -33,7 +33,7 @@ Base Multiplier × Time Bonus × Reputation Modifier × Phase Factor
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Negative Conviction Mechanics</h3>
+### ❌ Negative Conviction Mechanics
 ** Technical Specifications:
 - **Minimum Stake:** 10 $SIGNAL
 -- **Maximum Stake:**  Lock Period:
@@ -60,7 +60,7 @@ Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Multiplier Bonuses</h3>
+### 🎯 Multiplier Bonuses
 ** Time Bonus (Early Signals):
 - ** First 10% of pool: +0.5x
 - First 25% of pool: +0.3x
@@ -86,7 +86,7 @@ Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor
 
 <div class="arena-card" markdown="1">
 
-<h3>🔐 Technical Flow</h3>
+### 🔐 Technical Flow
 
 1. **Signal Initiation**
    ```javascript
@@ -138,7 +138,7 @@ Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor
 
 <div class="arena-card" markdown="1">
 
-<h3>🏊 Pool Behavior</h3>
+### 🏊 Pool Behavior
 ** Pool Formation:
 - ** Starts empty at milestone declaration
 - Grows with each signal
@@ -171,7 +171,7 @@ Sentiment = (Belief - Doubt) / Total Pool
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Complex Signaling</h3>
+### 🔄 Complex Signaling
 ** Types Available:
 1. **Time-Conditional**
 
@@ -212,7 +212,7 @@ Sentiment = (Belief - Doubt) / Total Pool
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Timing Your Signals</h3>
+### ⏰ Timing Your Signals
 ** Early Stage (0-20% filled):
 - **Pros:** Maximum multipliers, first-mover advantage
 -- **Cons:**  Best for:
@@ -230,7 +230,7 @@ Sentiment = (Belief - Doubt) / Total Pool
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Risk/Reward Analysis</h3>
+### 📊 Risk/Reward Analysis
 ** Expected Value Formula:
 ```
 EV = (Success Probability × Reward Multiplier × Stake) - 
@@ -267,7 +267,7 @@ Break-even = 1 / Multiplier
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Settlement Mechanics</h3>
+### 💰 Settlement Mechanics
 ** Success Settlement:
 1. Anchor validates success
 2. Smart contract triggered
@@ -303,7 +303,7 @@ Break-even = 1 / Multiplier
 
 <div class="arena-card" markdown="1">
 
-<h3>⛽ Fee Structure</h3>
+### ⛽ Fee Structure
 ** Platform Fees:
 - ** Signal creation: 0.5% of stake
 - Reward claim: 1% of profit
@@ -343,7 +343,7 @@ getSignalDetails(uint signalId)
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Performance Monitoring</h3>
+### 📈 Performance Monitoring
 ** Dashboard Metrics:
 - ** Active signals status
 - Pending settlements
@@ -380,7 +380,7 @@ getSignalDetails(uint signalId)
 
 <div class="arena-card" markdown="1">
 
-<h3>🔧 Problem Resolution</h3>
+### 🔧 Problem Resolution
 ** Transaction Failures:
 - ** Insufficient gas
 - Token approval needed

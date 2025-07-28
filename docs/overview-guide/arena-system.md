@@ -24,33 +24,33 @@ An Arena is a transparent, public space where:
 <div class="grid cards">
     <div class="arena-card" markdown="1">
         <h3>✨ Spark Arena</h3>
-        <p><strong>Purpose:</strong> Idea validation</p>
-        <p><strong>Duration:</strong> 7-14 days</p>
-        <p><strong>Stakes:</strong> Initial belief gathering</p>
+        <p>**Purpose:** Idea validation</p>
+        <p>**Duration:** 7-14 days</p>
+        <p>**Stakes:** Initial belief gathering</p>
         <p>Where ideas compete for attention and initial support</p>
     </div>
     
     <div class="arena-card" markdown="1">
         <h3>⚔️ Forge Arena</h3>
-        <p><strong>Purpose:</strong> Founder selection</p>
-        <p><strong>Duration:</strong> 3-5 days</p>
-        <p><strong>Stakes:</strong> Venture ownership</p>
+        <p>**Purpose:** Founder selection</p>
+        <p>**Duration:** 3-5 days</p>
+        <p>**Stakes:** Venture ownership</p>
         <p>Where founders duel for the right to build</p>
     </div>
     
     <div class="arena-card" markdown="1">
         <h3>🎯 Milestone Arena</h3>
-        <p><strong>Purpose:</strong> Progress validation</p>
-        <p><strong>Duration:</strong> Variable (per milestone)</p>
-        <p><strong>Stakes:</strong> Token rewards/burns</p>
+        <p>**Purpose:** Progress validation</p>
+        <p>**Duration:** Variable (per milestone)</p>
+        <p>**Stakes:** Token rewards/burns</p>
         <p>Where ventures prove their execution ability</p>
     </div>
     
     <div class="arena-card" markdown="1">
         <h3>✅ Validation Arena</h3>
-        <p><strong>Purpose:</strong> Achievement verification</p>
-        <p><strong>Duration:</strong> 24-48 hours</p>
-        <p><strong>Stakes:</strong> Milestone completion</p>
+        <p>**Purpose:** Achievement verification</p>
+        <p>**Duration:** 24-48 hours</p>
+        <p>**Stakes:** Milestone completion</p>
         <p>Where Anchors verify claimed progress</p>
     </div>
 </div>
@@ -127,7 +127,7 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Signal Mechanics</h3>
+### 📡 Signal Mechanics
 
 **Belief Signals** 👍
 - ** Stake tokens on successful completion
@@ -306,7 +306,7 @@ The Arena system evolves through:
 
 <div class="arena-card" markdown="1">
 
-<h4>🏆 DataMesh Protocol</h4>
+#### 🏆 DataMesh Protocol
 **Arena Performance:** 12/12 milestones completed
 - **Total Signals:**  2.3M $SIGNAL beliefOutcome:** Graduated in record time**> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable."
 - DataMesh Founder
@@ -315,7 +315,7 @@ The Arena system evolves through:
 
 <div class="arena-card" markdown="1">
 
-<h4>💡 EcoChain Initiative</h4>
+#### 💡 EcoChain Initiative
 
 **Arena Performance:** Pivoted after milestone 3 failure
 - **Community Response:**  80% maintained belief post

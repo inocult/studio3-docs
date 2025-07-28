@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎨 The Art of Spark Creation</h3>
+### 🎨 The Art of Spark Creation
 
 Your Spark NFT is more than just an idea - it's the genesis of your entire venture journey. This guide walks you through creating a compelling Spark that attracts believers and sets the foundation for success.
 
@@ -29,7 +29,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 Value Drivers</h3>
+### 💎 Value Drivers
 ** Your Spark Determines:
 - ** Initial community interest
 - Belief signal strength
@@ -51,7 +51,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 IP Discovery Process</h3>
+### 🔍 IP Discovery Process
 ** Search Strategies:
 1. **Domain-Specific Search**
 - ** Filter by industry
@@ -95,7 +95,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>🔗 Creating Powerful Combinations</h3>
+### 🔗 Creating Powerful Combinations
 ** Effective Synthesis Patterns:
 1. **Problem + Solution**
  Medical condition + Treatment method
@@ -152,7 +152,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>📖 Essential Elements</h3>
+### 📖 Essential Elements
 ** Your Narrative Must Include:
 1. **The Problem**
  (30%) Current pain points
@@ -203,7 +203,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>⚙️ Step-by-Step Minting</h3>
+### ⚙️ Step-by-Step Minting
 
 1. **Prepare Metadata**
    ```json
@@ -255,7 +255,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Pre-Arena Preparation</h3>
+### 🚀 Pre-Arena Preparation
 ** Two Weeks Before:
 - ** Research active ventures
 - Study successful Sparks
@@ -310,7 +310,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Strategic Timing</h3>
+### 📅 Strategic Timing
 ** Best Times to Launch:
 - **Tuesday
 - Thursday**  10am
@@ -357,7 +357,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Spark Failures</h3>
+### ❌ Spark Failures
 ** Fatal Errors:
 - ** Weak IP connections
 - Unclear problem statement
@@ -406,7 +406,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Case Study: MediLend</h3>
+### 🌟 Case Study: MediLend
 ** The Spark:
 - ** Combined medical records + DeFi lending
 - Clear problem: Healthcare financing
@@ -431,7 +431,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Pro Techniques</h3>
+### 🎯 Pro Techniques
 ** Pre-Announcement Strategy:
 - ** Build email list
 - Create landing page

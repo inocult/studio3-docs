@@ -46,7 +46,7 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Objective</h3>
+### 🎯 Objective
 Transform a remixed IP concept into a validated venture idea with initial community support.
 
 **Key Activities:**
@@ -84,7 +84,7 @@ Transform a remixed IP concept into a validated venture idea with initial commun
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 Objective</h3>
+### 🏆 Objective
 Determine the most capable founder through competitive dueling.
 ** Duel Format:
 - **Entry Stakes** : 1,000 $SIGNAL minimum
@@ -119,7 +119,7 @@ Determine the most capable founder through competitive dueling.
 
 <div class="arena-card" markdown="1">
 
-<h3>🔨 Objective</h3>
+### 🔨 Objective
 Form Container DAO, assemble team, and deliver initial MVP.
 
 ** Critical Tasks:
@@ -164,7 +164,7 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Objective</h3>
+### 🎯 Objective
 Iterate rapidly to find product-market fit through community feedback.
 ** Key Characteristics:
 - ** High experimentation rate
@@ -211,7 +211,7 @@ When pivoting during Drift:
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Objective</h3>
+### 🎯 Objective
 Establish sustainable operations with consistent growth and reliable delivery.
 
 ** Orbit Characteristics:
@@ -255,7 +255,7 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Objective</h3>
+### 🚀 Objective
 Scale rapidly with external capital and aggressive expansion.
 ** Flare Characteristics:
 - ** External funding rounds
@@ -301,7 +301,7 @@ gross_margins = > 70%  # For software
 
 <div class="arena-card" markdown="1">
 
-<h3>👑 Objective</h3>
+### 👑 Objective
 Graduate from Studio3 oversight to complete independence.
 
 ** Ascension Requirements:
@@ -344,7 +344,7 @@ Graduate from Studio3 oversight to complete independence.
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Advancement Criteria</h3>
+### 📈 Advancement Criteria
 
 ** General Requirements:
 - ** Complete all phase milestones

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚔️ The Ultimate Competition</h3>
+### ⚔️ The Ultimate Competition
 
 The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneurs compete for the exclusive right to build a venture, with the community deciding who's most capable of bringing the idea to life.
 
@@ -45,7 +45,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 The Stakes</h3>
+### 🎯 The Stakes
 ** Winner Receives:
 - ** Exclusive building rights
 - Signal NFT ownership
@@ -67,7 +67,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Competition Formats</h3>
+### 📊 Competition Formats
 
 1. **Open Duel** (Most Common)
 
@@ -117,7 +117,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Essential Preparation</h3>
+### 📋 Essential Preparation
 ** 4 Weeks Before:
 - ** Research the Spark thoroughly
 - Study IP components
@@ -185,7 +185,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>⚔️ Winning Tactics</h3>
+### ⚔️ Winning Tactics
 ** Differentiation Methods:
 1. **Unique Angle**
  Novel approach to problem
@@ -227,7 +227,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Mental Game</h3>
+### 🧠 Mental Game
 ** Allowed Tactics:
 - ** Highlight competitor gaps
 - Question feasibility
@@ -248,7 +248,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Seven-Day Duel</h3>
+### 📅 Seven-Day Duel
 **Day 1: Opening Statements
 - ** Post comprehensive vision
 - Share founder backgrounds
@@ -283,7 +283,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Winning Presentation Format</h3>
+### 🎯 Winning Presentation Format
 
 1. **Hook** (30 seconds)
 
@@ -343,7 +343,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Engagement Strategy</h3>
+### 💬 Engagement Strategy
 ** Daily Activities:
 - ** Morning update post
 - Answer all questions
@@ -386,7 +386,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Fatal Mistakes</h3>
+### ❌ Fatal Mistakes
 ** Preparation Failures:
 - ** Underestimating competitors
 - Poor time management
@@ -411,7 +411,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 Post-Victory Protocol</h3>
+### 🏆 Post-Victory Protocol
 ** Immediate Actions:
 1. Thank all supporters
 2. Acknowledge competitors
@@ -456,7 +456,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 The Underdog Victory</h3>
+### 🌟 The Underdog Victory
 ** DecentraHealth Duel:
 - ** 5 competitors entered
 - Favorite had $10M exit
@@ -477,7 +477,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 
 <div class="arena-card" markdown="1">
 
-<h3>🎮 Strategic Considerations</h3>
+### 🎮 Strategic Considerations
 ** Timing Strategies:
 - ** Enter early for momentum
 - Enter late for counter-positioning

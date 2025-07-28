@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 The Victor's Playbook</h3>
+### 🏆 The Victor's Playbook
 
 - Winning The Forge requires more than a good idea
 - it demands superior strategy, flawless execution, and the ability to inspire belief. This guide reveals the tactics that separate winners from runners
@@ -18,7 +18,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Voter Motivations</h3>
+### 🧠 Voter Motivations
 
 **Echoes Vote Based On:**
 1. **Return Potential**
@@ -72,7 +72,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Standing Out</h3>
+### 🎯 Standing Out
 ** Four Positioning Strategies:
 1. **The Expert**
  Deep domain knowledge
@@ -125,7 +125,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Preparation Timeline</h3>
+### 📅 Preparation Timeline
 **Days 1-7: Foundation
 - ** Analyze the Spark deeply
 - Research all IPs involved
@@ -187,7 +187,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Launch Strong</h3>
+### 🚀 Launch Strong
 ** First 6 Hours:
 1. **The Announcement**
  (Hour 1) Compelling entry post
@@ -238,7 +238,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Sustaining Energy</h3>
+### ⚡ Sustaining Energy
 **Daily Playbook:** Morning (2 hours)** Status update
 - ** Metric review
 - Team sync
@@ -283,7 +283,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Strategic Adaptation</h3>
+### 🔄 Strategic Adaptation
 ** When to Pivot:
 - ** Competitor has better angle
 - Community wants different approach
@@ -314,7 +314,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎲 David vs Goliath</h3>
+### 🎲 David vs Goliath
 ** If You're Behind:
 1. **Change the Narrative**
  Heart over credentials
@@ -343,7 +343,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🏁 The Final Sprint</h3>
+### 🏁 The Final Sprint
 ** 48 Hours Out:
 - ** Summary presentation
 - Major announcement
@@ -379,7 +379,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎭 Persuasion Tactics</h3>
+### 🎭 Persuasion Tactics
 
 ** Allowed Techniques:
 - ** Highlighting competitor weaknesses
@@ -408,7 +408,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎉 Post-Victory Actions</h3>
+### 🎉 Post-Victory Actions
 ** Immediate (1 hour):
 1. Thank supporters publicly
 2. Acknowledge opponents gracefully
@@ -435,7 +435,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 The Comeback Kid</h3>
+### 🌟 The Comeback Kid
 ** SolarFi's Victory:
 - ** Started 3rd of 4
 - Lost early momentum
@@ -457,7 +457,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Essential Tools</h3>
+### 🛠️ Essential Tools
 ** Analytics:
 - ** Signal tracking dashboard
 - Sentiment analysis

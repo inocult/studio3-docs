@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🚩 The Anchor's Early Detection Radar</h3>
+### 🚩 The Anchor's Early Detection Radar
 
 Identifying problems before they become crises is a critical Anchor skill. This guide teaches you to recognize warning signs across all aspects of a venture, enabling early intervention that can save ventures from failure.
 
@@ -16,7 +16,7 @@ Identifying problems before they become crises is a critical Anchor skill. This 
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Defining Warning Signs</h3>
+### ⚠️ Defining Warning Signs
 
 **Red Flag Characteristics:**
 - ** Early indicators of problems
@@ -49,7 +49,7 @@ Identifying problems before they become crises is a critical Anchor skill. This 
 
 <div class="arena-card" markdown="1">
 
-<h3>💸 Consequences of Inaction</h3>
+### 💸 Consequences of Inaction
 ** Escalation Timeline:
 ```
 Warning Sign → Minor Issue → Major Problem → Crisis → Failure
@@ -73,7 +73,7 @@ Difficulty:      Easy        Moderate      Hard        Critical   Impossible
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Technical Danger Signals</h3>
+### 💻 Technical Danger Signals
 ** Code Quality Red Flags:
 ```python
 # RED FLAG: No error handling
@@ -109,7 +109,7 @@ Difficulty:      Easy        Moderate      Hard        Critical   Impossible
 
 <div class="arena-card" markdown="1">
 
-<h3>🔒 Security Red Flags</h3>
+### 🔒 Security Red Flags
 **Critical Security Issues:** Authentication/Authorization
 - ** Passwords in plain text
 - No rate limiting
@@ -141,7 +141,7 @@ Difficulty:      Easy        Moderate      Hard        Critical   Impossible
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Performance Red Flags</h3>
+### ⚡ Performance Red Flags
 ** Performance Warning Signs:
 ```
 ** Load Time Red Flags:
@@ -172,7 +172,7 @@ Difficulty:      Easy        Moderate      Hard        Critical   Impossible
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Market Red Flags</h3>
+### 📊 Market Red Flags
 ** Customer Acquisition Issues:
 - ** CAC > LTV
 - Acquisition slowing
@@ -200,7 +200,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Financial Warning Signs</h3>
+### 💰 Financial Warning Signs
 **Cash Management Issues:** Burn Rate Problems```python
 ** def calculate_runway_risk(cash, burn_rate, revenue_growth):
     runway_months = cash / burn_rate
@@ -234,7 +234,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Model Viability Red Flags</h3>
+### 📈 Model Viability Red Flags
 **Unit Economics Issues:| Metric | Red Flag Level |
 |--------|---------------|
 | Gross Margin | <50% |
@@ -257,7 +257,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Leadership Warning Signs</h3>
+### 👥 Leadership Warning Signs
 **Founder Red Flags:**  Behavioral Issues:
 - ** Defensive about feedback
 - Blaming others constantly
@@ -283,7 +283,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>😔 Cultural Red Flags</h3>
+### 😔 Cultural Red Flags
 ** Team Morale Indicators:
 - ** High turnover (>20% annually)
 - Key people leaving
@@ -316,7 +316,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Operational Red Flags</h3>
+### ⚡ Operational Red Flags
 ** Delivery Problems:
 - ** Chronic delays
 - Scope creep constant
@@ -344,7 +344,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Growth Stagnation Signs</h3>
+### 📚 Growth Stagnation Signs
 ** Learning Red Flags:
 - ** Same mistakes repeated
 - Feedback ignored
@@ -366,7 +366,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>🌍 Environmental Warning Signs</h3>
+### 🌍 Environmental Warning Signs
 ** Market Shifts:
 - ** Demand declining
 - Substitutes emerging
@@ -394,7 +394,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Red Flag Investigation</h3>
+### 🔍 Red Flag Investigation
 ** Investigation Steps:
 1. **Verify Flag**
    ```
@@ -441,7 +441,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>🚨 Taking Action</h3>
+### 🚨 Taking Action
 **Response Framework:** Level 1: Monitor
 - ** Note in records
 - Track progress
@@ -475,7 +475,7 @@ Month 6: <20% (Major issue)
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Predictive Patterns</h3>
+### 📊 Predictive Patterns
 ** The Overconfidence Spiral:
 ```
 Early Success → Overconfidence → Ignore Feedback → 
@@ -500,7 +500,7 @@ Blame Culture → Key People Leave → Downward Spiral
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Recording Concerns</h3>
+### 📝 Recording Concerns
 ** Documentation Template:
 ```markdown
 ## Red Flag Report
@@ -538,7 +538,7 @@ Severity: [Critical/High/Medium/Low]
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Anchor Intuition</h3>
+### 🧠 Anchor Intuition
 ** Experience Building:
 - ** Study failure cases
 - Pattern journaling

@@ -14,7 +14,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>1. Echo Fundamentals</h3>
+### 1. Echo Fundamentals
 - <a href="echo-basics.md">Understanding Your Role</a>
 - <a href="signal-mechanics.md">Signal Mechanics</a>
 - <a href="rewards-system.md">Rewards & Risks</a>
@@ -23,7 +23,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <div class="arena-card" markdown="1">
 
-<h3>2. Getting Started</h3>
+### 2. Getting Started
 - <a href="first-signals.md">Your First Signals</a>
 - <a href="token-management.md">Managing $SIGNAL Tokens</a>
 - <a href="reputation-building.md">Building Reputation</a>
@@ -32,7 +32,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <div class="arena-card" markdown="1">
 
-<h3>3. Venture Analysis</h3>
+### 3. Venture Analysis
 - <a href="evaluating-ventures.md">Evaluating Ventures</a>
 - <a href="reading-signals.md">Reading Market Signals</a>
 - <a href="due-diligence.md">Due Diligence Framework</a>
@@ -41,7 +41,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <div class="arena-card" markdown="1">
 
-<h3>4. Signal Strategies</h3>
+### 4. Signal Strategies
 - <a href="belief-strategies.md">When to Believe</a>
 - <a href="doubt-strategies.md">Strategic Doubt</a>
 - <a href="portfolio-management.md">Portfolio Management</a>
@@ -50,7 +50,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <div class="arena-card" markdown="1">
 
-<h3>5. Advanced Tactics</h3>
+### 5. Advanced Tactics
 - <a href="phase-strategies.md">Phase-Based Strategies</a>
 - <a href="contrarian-plays.md">Contrarian Opportunities</a>
 - <a href="risk-management.md">Risk Management</a>
@@ -59,7 +59,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <div class="arena-card" markdown="1">
 
-<h3>6. Community & Growth</h3>
+### 6. Community & Growth
 - <a href="community-engagement.md">Community Participation</a>
 - <a href="influence-building.md">Building Influence</a>
 - <a href="echo-networks.md">Echo Networks</a>
@@ -91,28 +91,28 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h3>Key Metrics</h3>
-- <strong>Accuracy Rate</strong> 
+### Key Metrics
+- **Accuracy Rate** 
 - Signal success percentage
-- <strong>Token Returns</strong> 
+- **Token Returns** 
 - Multiplication achieved
-- <strong>XP Level</strong> 
+- **XP Level** 
 - Experience progression
-- <strong>Reputation Score</strong> 
+- **Reputation Score** 
 - Community standing
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h3>Leaderboards</h3>
-- <strong>Top Echoes</strong> 
+### Leaderboards
+- **Top Echoes** 
 - Overall performance
-- <strong>Phase Specialists</strong> 
+- **Phase Specialists** 
 - Phase-specific experts
-- <strong>Contrarians</strong> 
+- **Contrarians** 
 - Against-the-grain winners
-- <strong>Consistent Performers</strong> 
+- **Consistent Performers** 
 - Steady returners
 
 </div>
@@ -123,7 +123,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>📚 Essential Reading</h4>
+#### 📚 Essential Reading
 - Signal Psychology 101
 - Venture Evaluation Basics
 
@@ -135,7 +135,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 
 <div class="arena-card" markdown="1">
 
-<h4>🛠️ Tools & Calculators</h4>
+#### 🛠️ Tools & Calculators
 - Signal ROI Calculator
 - Portfolio Analyzer
 
@@ -162,14 +162,14 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 <div class="grid">
 <div class="arena-card" markdown="1">
 
-<h4>The Contrarian</h4>
+#### The Contrarian
 Turned 1,000 $SIGNAL into 127,000 by correctly doubting overhyped ventures and believing in overlooked gems.
 
 </div>
 
 <div class="arena-card" markdown="1">
 
-<h4>The Specialist</h4>
+#### The Specialist
 Focused exclusively on DeFi ventures, achieving 89% accuracy through deep domain expertise.
 
 </div>

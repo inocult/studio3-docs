@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Transforming Signals into Support</h3>
+### 📡 Transforming Signals into Support
 
 Echoes are your early believers - the community members who signal confidence in your venture through $SIGNAL tokens. Learning to engage, nurture, and leverage this community is crucial for your venture's success.
 
@@ -16,7 +16,7 @@ Echoes are your early believers - the community members who signal confidence in
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Your Signal Community</h3>
+### 👥 Your Signal Community
 
 **Echo Types:**
 1. **Early Believers**
@@ -67,7 +67,7 @@ Echoes are your early believers - the community members who signal confidence in
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Understanding Motivations</h3>
+### 🧠 Understanding Motivations
 ** Why Echoes Signal:
 ```python
 echo_motivations = {
@@ -108,7 +108,7 @@ echo_motivations = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Before You Need Them</h3>
+### 🚀 Before You Need Them
 **Foundation Building:** Week -4: Story Development```markdown
 ** Craft Your Narrative:
 - Problem clarity
@@ -143,7 +143,7 @@ echo_motivations = {
 
 <div class="arena-card" markdown="1">
 
-<h3>💫 Making Your Debut</h3>
+### 💫 Making Your Debut
 **Launch Week Activities:** Day 1: Announcement```javascript
 const launchStrategy = {
     morning: {
@@ -179,7 +179,7 @@ const launchStrategy = {
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Keeping Echoes Informed</h3>
+### 📅 Keeping Echoes Informed
 **Communication Schedule:| Frequency | Type | Content | Channel |
 |-----------|------|---------|----------|
 | Daily | Quick Update | Progress + Blockers | Discord |
@@ -220,7 +220,7 @@ const launchStrategy = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 What to Share vs. Protect</h3>
+### 🔍 What to Share vs. Protect
 **Share Openly:✅ Progress metrics
 ✅ General challenges
 ✅ Team updates
@@ -251,7 +251,7 @@ const launchStrategy = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🎮 Making Participation Fun</h3>
+### 🎮 Making Participation Fun
 ** Engagement Initiatives:
 1. **Echo Ambassador Program**
    ```python
@@ -294,7 +294,7 @@ const launchStrategy = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Network Effects
+### 🌐 Network Effects
 **Network Activation:** Customer Acquisition
 - ** Echo referral programs
 - Network introductions
@@ -340,7 +340,7 @@ DM me if you can help! 🙏"
 
 <div class="arena-card" markdown="1">
 
-<h3>🚦 Healthy Community Dynamics</h3>
+### 🚦 Healthy Community Dynamics
 ** Expectation Management:
 1. **Clear Guidelines:**
 
@@ -384,7 +384,7 @@ DM me if you can help! 🙏"
 
 <div class="arena-card" markdown="1">
 
-<h3>💭 Turning Doubt into Growth
+### 💭 Turning Doubt into Growth
 ** Criticism Response Framework:
 ```python
 ** def handle_echo_criticism(feedback):
@@ -421,7 +421,7 @@ DM me if you can help! 🙏"
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Targeted Engagement
+### 🎯 Targeted Engagement
 ** Segment Types:
 **| Segment | Characteristics | Engagement Strategy |
 |---------|----------------|---------------------|
@@ -443,7 +443,7 @@ DM me if you can help! 🙏"
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Positive Urgency
+### ⚡ Positive Urgency
 ** FOMO Strategies:
 1. **Limited Opportunities**
 
@@ -495,7 +495,7 @@ DM me if you can help! 🙏"
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Long-Term Relationships
+### 🔄 Long-Term Relationships
 ** Retention Pillars:
 1. **Continuous Value**
 
@@ -539,7 +539,7 @@ DM me if you can help! 🙏"
 
 <div class="arena-card" markdown="1">
 
-<h3>🎣 Winning Back Inactive Echoes
+### 🎣 Winning Back Inactive Echoes
 ** Re-engagement Process:
 ```markdown
 ## Win-Back Campaign
@@ -578,7 +578,7 @@ Subject: "We miss you! Here's what you've missed..."
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Tracking Community Health
+### 📊 Tracking Community Health
 ** Key Metrics:
 ```python
 echo_metrics = {
@@ -617,7 +617,7 @@ echo_metrics = {
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ What Not to Do
+### ⚠️ What Not to Do
 ** Avoid These Mistakes:
 1. **Over-promising**
 

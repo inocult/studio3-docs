@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Systematic Milestone Evaluation</h3>
+### 🔍 Systematic Milestone Evaluation
 
 Reviewing milestones effectively requires a systematic approach that balances thoroughness with efficiency. This guide provides the complete methodology for conducting milestone reviews that are fair, comprehensive, and valuable to all stakeholders.
 
@@ -16,7 +16,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 What Makes a Milestone</h3>
+### 🎯 What Makes a Milestone
 
 **Milestone Definition:A specific, measurable, achievable, relevant, and time-bound (SMART) deliverable that represents meaningful progress in a venture's journey.
 ** Key Components:
@@ -44,7 +44,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Milestone Categories</h3>
+### 📊 Milestone Categories
 ** Technical Milestones:
 - ** Feature completion
 - System architecture
@@ -78,7 +78,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>📋 Getting Ready</h3>
+### 📋 Getting Ready
 ** Preparation Checklist:
 ```
 □ Review original milestone declaration
@@ -133,7 +133,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Structured Approach</h3>
+### 📅 Structured Approach
 ** Time Allocation:
 ```
 ** Simple Milestone (2-3 hours):
@@ -166,7 +166,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>🔬 Deep Dive Methodology</h3>
+### 🔬 Deep Dive Methodology
 **Evidence Categories:**  Primary Evidence:
 - ** Direct deliverables
 - Core functionality
@@ -192,7 +192,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Code and System Review</h3>
+### 💻 Code and System Review
 ** Code Review Process:
 ```python
 # Code Review Checklist
@@ -231,7 +231,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Market and Metrics Review</h3>
+### 📈 Market and Metrics Review
 **Business Analysis Framework:**  Quantitative Analysis:
 - ** User metrics verification
 - Revenue validation
@@ -265,7 +265,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Consistent Evaluation</h3>
+### ⚖️ Consistent Evaluation
 ** Standard Application Matrix:
 **| Criterion | Weight | Score (1-10) | Notes |
 |-----------|--------|--------------|-------|
@@ -287,7 +287,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Evolving Standards</h3>
+### 📊 Evolving Standards
 **Phase-Specific Expectations:**  Early Phases (Spark/Forge):
 - ** Focus on potential
 - Flexibility in execution
@@ -321,7 +321,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>🔎 Beyond Surface Level</h3>
+### 🔎 Beyond Surface Level
 **Analysis Techniques:** 1. Root Cause Analysis
 - ** Why did this succeed/fail?
 - What were critical factors?
@@ -350,7 +350,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>🤔 Complex Situations</h3>
+### 🤔 Complex Situations
 **Common Edge Cases:** 1. Pivot Mid-Milestone```
 ** Assessment Approach:
 - Original goal relevance
@@ -386,7 +386,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Detailed Documentation</h3>
+### 📝 Detailed Documentation
 
 ** Report Structure:
 ```markdown
@@ -446,7 +446,7 @@ Reviewing milestones effectively requires a systematic approach that balances th
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Clear Communication</h3>
+### 📊 Clear Communication
 **Visual Elements:**  Progress Tracking:
 ```
 Milestone Completion: ████████░░ 80%
@@ -475,7 +475,7 @@ Process:   ████████░░ 80%
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Effective Reviews</h3>
+### ⚡ Effective Reviews
 ** Time-Saving Techniques:
 1. **Template Usage**
 
@@ -523,7 +523,7 @@ Process:   ████████░░ 80%
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Review Excellence</h3>
+### ✅ Review Excellence
 ** Quality Checklist:
 ```
 ** Before Submission:
@@ -551,7 +551,7 @@ Process:   ████████░░ 80%
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Clear Messaging</h3>
+### 💬 Clear Messaging
 **Communication Framework:**  To Founders:
 ```
 ** Structure:
@@ -589,7 +589,7 @@ Process:   ████████░░ 80%
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Getting Better</h3>
+### 📈 Getting Better
 ** Improvement Methods:
 1. **Pattern Recognition**
 

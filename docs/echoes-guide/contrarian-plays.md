@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎲 The Art of Contrarian Signaling</h3>
+### 🎲 The Art of Contrarian Signaling
 
 - The biggest returns often come from going against consensus
 - but only when you're right. This guide teaches you to identify genuine contrarian opportunities, execute against
@@ -19,7 +19,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Why Contrarian Pays</h3>
+### 💰 Why Contrarian Pays
 
 **Economic Incentives:**
 - ** Base multiplier: Standard
@@ -43,7 +43,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 The Numbers Game</h3>
+### 📊 The Numbers Game
 ** Probability Analysis:
 ```
 ** If 90% signal belief:
@@ -70,7 +70,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 When Consensus Goes Too Far</h3>
+### 📈 When Consensus Goes Too Far
 ** Bullish Extremes (Fade with Doubt):
 - ** 95%+ belief signals
 - Euphoric comments
@@ -91,7 +91,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 What Others Miss</h3>
+### 🔍 What Others Miss
 ** Sources of Edge:
 1. **Technical Knowledge**
 
@@ -133,7 +133,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📉 Shorting the Bubble</h3>
+### 📉 Shorting the Bubble
 ** Setup Identification:
 - ** Massive marketing push
 - Influencer pumping
@@ -158,7 +158,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>😇 Buying the Capitulation</h3>
+### 😇 Buying the Capitulation
 ** Setup Identification:
 - ** Quality team/project
 - Temporary setback
@@ -183,7 +183,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Expertise-Based Contrarian</h3>
+### 💻 Expertise-Based Contrarian
 ** When Crowd Misunderstands:
 - ** Technical complexity high
 - Crowd assumes impossible
@@ -222,7 +222,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Event-Driven Contrarian</h3>
+### ⚡ Event-Driven Contrarian
 ** Anticipating Catalysts:
 - ** Know what could change sentiment
 - Position before the event
@@ -247,7 +247,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🔗 Cross-Market Opportunities</h3>
+### 🔗 Cross-Market Opportunities
 ** Correlation Breaks:
 - ** Similar ventures diverge
 - One pumped, one ignored
@@ -270,7 +270,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📏 Specialized Sizing Rules</h3>
+### 📏 Specialized Sizing Rules
 ** Contrarian Position Limits:
 - ** Maximum 2% per position
 - Maximum 10% total contrarian
@@ -294,7 +294,7 @@ Why? Higher uncertainty, binary outcomes
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Mental Game Management</h3>
+### 🧠 Mental Game Management
 ** Contrarian Psychology:
 - ** Comfortable being alone
 - Conviction under pressure
@@ -319,7 +319,7 @@ Why? Higher uncertainty, binary outcomes
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Learning from Masters</h3>
+### 📚 Learning from Masters
 **Case 1: The DeFi Doubt
 - ** Project: Overhyped yield farm
 - Signal ratio: 96% belief
@@ -349,7 +349,7 @@ Why? Higher uncertainty, binary outcomes
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 The Contrarian Brand</h3>
+### 🌟 The Contrarian Brand
 ** Reputation Building:
 1. **Always Evidence-Based**
 
@@ -391,7 +391,7 @@ Why? Higher uncertainty, binary outcomes
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Contrarian Toolkit</h3>
+### 🛠️ Contrarian Toolkit
 ** Sentiment Analysis:
 ```python
 Contrarian Score = (
@@ -420,7 +420,7 @@ Score > 20 = Strong contrarian opportunity
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Contrarian Failures</h3>
+### ❌ Contrarian Failures
 ** Strategic Errors:
 - ** Contrarian for sake of it
 - Fighting unstoppable trends
@@ -443,7 +443,7 @@ Score > 20 = Strong contrarian opportunity
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Portfolio Allocation</h3>
+### ⚖️ Portfolio Allocation
 ** Recommended Mix:
 ```
 Core Strategy: 70%
@@ -466,7 +466,7 @@ Experimental: 5%
 
 <div class="arena-card" markdown="1">
 
-<h3>🎭 The Double Contrarian</h3>
+### 🎭 The Double Contrarian
 **Second-Order Thinking:"Everyone thinks everyone is wrong, but actually..."
 ** Example:
 - ** Obvious contrarian play emerges

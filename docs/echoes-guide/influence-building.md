@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 From Echo to Authority</h3>
+### 🌟 From Echo to Authority
 
 Building influence in Studio3 transforms you from a participant to a leader. This guide reveals how to establish thought leadership, shape ecosystem direction, and create lasting impact while building a personal brand that opens doors throughout your career.
 
@@ -16,7 +16,7 @@ Building influence in Studio3 transforms you from a participant to a leader. Thi
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 The Influence Equation</h3>
+### 💡 The Influence Equation
 
 **Influence Components:**
 
@@ -42,7 +42,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 True Influence</h3>
+### 🎯 True Influence
 ** Influence Characteristics:
 - ** Based on value creation
 - Sustained over time
@@ -64,7 +64,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ Brand Architecture</h3>
+### 🏗️ Brand Architecture
 ** Brand Elements:
 1. **Unique Value Proposition**
 
@@ -110,7 +110,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Strategic Content Creation</h3>
+### 📝 Strategic Content Creation
 ** Content Pillars:
 1. **Educational (40%)**
 - How
@@ -160,7 +160,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>🎓 Becoming the Expert</h3>
+### 🎓 Becoming the Expert
 ** Authority Building Path:
 1. **Choose Your Niche**
 
@@ -208,7 +208,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>💭 Developing Unique Insights</h3>
+### 💭 Developing Unique Insights
 ** Innovation Sources:
 1. **Cross-Pollination**
 
@@ -253,7 +253,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>📱 Omnichannel Influence</h3>
+### 📱 Omnichannel Influence
 **Platform Strategy:** Discord (Daily)
 - ** Active helpful presence
 - Quick insights
@@ -281,7 +281,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Maximizing Reach</h3>
+### 🚀 Maximizing Reach
 ** Optimization Tactics:
 1. **Timing**
 
@@ -331,7 +331,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Power Networking</h3>
+### 🤝 Power Networking
 ** Key Relationships:
 1. **Peer Influencers**
 
@@ -379,7 +379,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Your Tribe</h3>
+### 👥 Your Tribe
 ** Building Your Following:
 1. **Consistent Value**
 
@@ -429,7 +429,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Influence KPIs</h3>
+### 📊 Influence KPIs
 ** Quantitative Metrics:
 - ** Follower growth rate
 - Engagement rates
@@ -455,7 +455,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Influence Returns</h3>
+### 💰 Influence Returns
 ** Direct Benefits:
 - ** Higher signal limits
 - Better multipliers
@@ -483,7 +483,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>📢 Scaling Your Voice</h3>
+### 📢 Scaling Your Voice
 ** Amplification Tactics:
 1. **Leverage Moments**
 
@@ -531,7 +531,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>♻️ Long-term Influence</h3>
+### ♻️ Long-term Influence
 ** Sustainability Factors:
 1. **Continuous Learning**
 
@@ -581,7 +581,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ Ethical Influence</h3>
+### ⚖️ Ethical Influence
 ** Core Principles:
 1. **Truth First**
 
@@ -619,7 +619,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Influence Dangers</h3>
+### ❌ Influence Dangers
 ** Common Mistakes:
 - ** Ego inflation
 - Disconnection from community
@@ -647,7 +647,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Launch Your Influence</h3>
+### 📅 Launch Your Influence
 **Days 1-30: Foundation
 - ** [ ] Define your niche
 - [ ] Create brand identity
@@ -673,7 +673,7 @@ Influence = (Expertise × Visibility × Trust × Impact) ^ Time
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 5-Year Influence Goals</h3>
+### 🎯 5-Year Influence Goals
 **Year 1:** Establish presence- **Year 2:**  Build authorityYear 3:** Lead initiatives- **Year 4:**  Shape ecosystemYear 5:**  Create legacy
 - ** Ultimate Impact:
 - ** Thousands helped

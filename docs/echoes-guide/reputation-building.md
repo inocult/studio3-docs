@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Beyond Token Returns</h3>
+### 🌟 Beyond Token Returns
 
 In Studio3, your reputation is everything. It determines your earning potential, community trust, and platform opportunities. This guide shows you how to build, maintain, and leverage your reputation for long-term success.
 
@@ -16,7 +16,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 The Reputation System</h3>
+### 📊 The Reputation System
 
 **Components:**
 - 
@@ -56,7 +56,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 Maximize XP Gains</h3>
+### 💎 Maximize XP Gains
 ** Signal Success:
 - ** Correct belief: +10-50 XP
 - Correct doubt: +15-60 XP
@@ -79,7 +79,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Improving Win Rate</h3>
+### 🎯 Improving Win Rate
 ** Current Accuracy Tiers:
 - ** 0-40%: Learning phase
 - 40-60%: Developing skills
@@ -119,7 +119,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Becoming a Respected Echo</h3>
+### 👥 Becoming a Respected Echo
 ** Positive Actions:
 - ** Share quality research
 - Help newcomers
@@ -142,7 +142,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ What Hurts Your Standing</h3>
+### ❌ What Hurts Your Standing
 ** Damaging Behaviors:
 - ** Spreading misinformation (-100 XP)
 - Toxic behavior (-200 XP)
@@ -163,7 +163,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>🎓 Expertise Development</h3>
+### 🎓 Expertise Development
 ** Popular Specializations:
 1. **Phase Specialist**
 
@@ -222,7 +222,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 Achievement Badges</h3>
+### 🏆 Achievement Badges
 ** Participation Achievements:
 - ** First Signal ✓
 - 10 Signals 🎯
@@ -252,7 +252,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Accelerated Building</h3>
+### 🚀 Accelerated Building
 **Month 1-3: Foundation
 - ** Daily participation
 - Small, safe signals
@@ -278,7 +278,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Maintaining Excellence</h3>
+### 📈 Maintaining Excellence
 ** Daily Habits:
 - ** Check in consistently
 - Engage meaningfully
@@ -304,7 +304,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Reputation Benefits</h3>
+### 💰 Reputation Benefits
 ** Direct Benefits:
 - ** Higher multipliers (up to +50%)
 - Larger stake limits
@@ -332,7 +332,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Reputation Defense</h3>
+### 🛡️ Reputation Defense
 ** Best Practices:
 1. **Document Everything**
 
@@ -380,7 +380,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>👑 Echo Leadership</h3>
+### 👑 Echo Leadership
 ** Leadership Activities:
 - ** Host weekly discussions
 - Create educational content
@@ -402,7 +402,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Key Performance Indicators</h3>
+### 📊 Key Performance Indicators
 ** Weekly Tracking:
 ```
 XP Gained: ___
@@ -426,7 +426,7 @@ Recognition Events: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Intangible Assets</h3>
+### 🌟 Intangible Assets
 ** True Reputation Markers:
 - ** People seek your opinion
 - Ventures want your signal
@@ -448,7 +448,7 @@ Recognition Events: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ What to Avoid</h3>
+### ⚠️ What to Avoid
 ** Short-term Thinking:
 - ** XP farming behaviors
 - Quantity over quality
@@ -470,7 +470,7 @@ Recognition Events: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ 90-Day Challenge</h3>
+### ✅ 90-Day Challenge
 ** Days 1-30:
 - ** [ ] Reach 100 XP
 - [ ] 60% accuracy rate

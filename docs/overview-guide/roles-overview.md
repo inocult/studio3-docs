@@ -11,8 +11,8 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-<h3>🏗️ Senders (Founders)</h3>
-        <strong>The Builders</strong>
+### 🏗️ Senders (Founders)
+        **The Builders**
 
         Entrepreneurs who transform ideas into ventures through transparent execution
 
@@ -32,8 +32,8 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
     
     <div class="arena-card" markdown="1">
 
-<h3>📡 Echoes (Supporters)</h3>
-        <strong>The Believers</strong>
+### 📡 Echoes (Supporters)
+        **The Believers**
 
         Community members who signal conviction through token stakes
 
@@ -53,8 +53,8 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
     
     <div class="arena-card" markdown="1">
 
-<h3>⚓ Anchors (Validators)</h3>
-        <strong>The Guardians</strong>
+### ⚓ Anchors (Validators)
+        **The Guardians**
 
         Experienced builders who ensure quality and provide guidance
 
@@ -108,7 +108,7 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ What Senders Do</h3>
+### 🏗️ What Senders Do
 
 **Primary Activities:**
 
@@ -188,7 +188,7 @@ graph TD
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 What Echoes Do</h3>
+### 📡 What Echoes Do
 **Primary Activities:**
 
 1. **Research & Analysis** Evaluate ventures
@@ -271,7 +271,7 @@ def calculate_echo_returns(signal):
 
 <div class="arena-card" markdown="1">
 
-<h3>⚓ What Anchors Do</h3>
+### ⚓ What Anchors Do
 
 **Primary Activities:**
 
@@ -386,7 +386,7 @@ sequenceDiagram
 
 <div class="arena-card" markdown="1">
 
-<h3>🤔 Which Role Fits You?</h3>
+### 🤔 Which Role Fits You?
 ** Consider Sender If You:
 - ** Have a venture idea
 - Love building things

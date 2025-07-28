@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ The Anchor as Mediator</h3>
+### ⚖️ The Anchor as Mediator
 
 Disputes are inevitable in high-stakes venture building. As an Anchor, you'll need to resolve conflicts between founders and stakeholders, handle validation challenges, and navigate complex disagreements. This guide equips you with frameworks and strategies for effective dispute resolution.
 
@@ -16,7 +16,7 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Common Conflict Categories</h3>
+### 🎯 Common Conflict Categories
 
 **Validation Disputes**
 - Milestone achievement claims
@@ -49,7 +49,7 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 How Conflicts Escalate</h3>
+### 🔍 How Conflicts Escalate
 **Escalation Pattern:**
 ```
 Disagreement → Tension → Conflict → Dispute → Crisis
@@ -77,7 +77,7 @@ Disagreement → Tension → Conflict → Dispute → Crisis
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Systematic Conflict Resolution</h3>
+### 🛠️ Systematic Conflict Resolution
 - **R** - Recognize the dispute early
 - **E** - Establish neutral ground
 - **S** - Separate people from positions
@@ -99,7 +99,7 @@ Disagreement → Tension → Conflict → Dispute → Crisis
 
 <div class="arena-card" markdown="1">
 
-<h3>🚨 First 48 Hours</h3>
+### 🚨 First 48 Hours
 **Immediate Actions:**
 
 **Hour 1-4: Acknowledge**
@@ -132,7 +132,7 @@ Timeline for resolution: [specific date]"
 
 <div class="arena-card" markdown="1">
 
-<h3>⚖️ When Founders Disagree</h3>
+### ⚖️ When Founders Disagree
 **Common Challenge Reasons:**
 - Evidence interpretation
 - Standard application
@@ -170,7 +170,7 @@ Requested Outcome: [What they want]
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Interpreting Gray Areas</h3>
+### 📊 Interpreting Gray Areas
 **Evidence Interpretation Framework:**
 
 **When Evidence Conflicts:**
@@ -217,7 +217,7 @@ Requested Outcome: [What they want]
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 When Leaders Clash</h3>
+### 👥 When Leaders Clash
 **Common Co-Founder Issues:**
 - Vision misalignment
 - Role confusion
@@ -255,7 +255,7 @@ Individual Session Guide:
 
 <div class="arena-card" markdown="1">
 
-<h3>😤 Employee Grievances</h3>
+### 😤 Employee Grievances
 **Resolution Strategy:**
 
 **Assessment Phase:**
@@ -287,7 +287,7 @@ Individual Session Guide:
 
 <div class="arena-card" markdown="1">
 
-<h3>📡 Signal Stakeholder Issues</h3>
+### 📡 Signal Stakeholder Issues
 **Common Conflicts:**
 - Progress disputes
 - Communication gaps
@@ -324,7 +324,7 @@ Alignment Workshop:
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Public Conflicts</h3>
+### 🌐 Public Conflicts
 **Managing Public Disputes:**
 
 **Immediate Response:**
@@ -357,7 +357,7 @@ Public Statement Structure:
 
 <div class="arena-card" markdown="1">
 
-<h3>💻 Technical Decision Conflicts</h3>
+### 💻 Technical Decision Conflicts
 **Common Technical Disputes:**
 - Technology stack choices
 - Architecture patterns
@@ -396,7 +396,7 @@ def resolve_technical_dispute():
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ Standard Application Conflicts</h3>
+### ⭐ Standard Application Conflicts
 **Resolution Process:**
 
 **1. Standard Clarification**
@@ -426,7 +426,7 @@ def resolve_technical_dispute():
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Facilitating Resolution</h3>
+### 🤝 Facilitating Resolution
 **Mediation Skills:**
 
 **1. Active Listening**
@@ -462,7 +462,7 @@ Reframe: "The current state needs improvement"
 
 <div class="arena-card" markdown="1">
 
-<h3>😡 Emotional De-escalation</h3>
+### 😡 Emotional De-escalation
 **De-escalation Techniques:**
 
 **Verbal Techniques:**
@@ -495,7 +495,7 @@ Creating Safe Space:
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 When Resolution Fails</h3>
+### 📈 When Resolution Fails
 **Escalation Ladder:**
 
 1. **Anchor Resolution** (Days 1-7)
@@ -540,7 +540,7 @@ Creating Safe Space:
 
 <div class="arena-card" markdown="1">
 
-<h3>📝 Formal Documentation</h3>
+### 📝 Formal Documentation
 **Dispute Record Template:**
 ```markdown
 # Dispute Resolution Record
@@ -585,7 +585,7 @@ Creating Safe Space:
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Preventing Disputes</h3>
+### 🛡️ Preventing Disputes
 **Prevention Framework:** 1. Clear Communication
 - ** Written agreements
 - Defined expectations
@@ -611,7 +611,7 @@ Creating Safe Space:
 
 <div class="arena-card" markdown="1">
 
-<h3>💪 Strengthening Relationships</h3>
+### 💪 Strengthening Relationships
 ** Relationship Building:
 - ** Regular positive interaction
 - Celebration of successes
@@ -633,7 +633,7 @@ Creating Safe Space:
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Extracting Lessons</h3>
+### 📚 Extracting Lessons
 ** Learning Framework:
 1. **What Happened?**
 

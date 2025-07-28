@@ -13,7 +13,7 @@ Signals are token-backed predictions about a venture's ability to achieve specif
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-<h3>👍 Belief Signals</h3>
+### 👍 Belief Signals
         Express confidence that a milestone will be achieved
 
 
@@ -32,7 +32,7 @@ Signals are token-backed predictions about a venture's ability to achieve specif
     
     <div class="arena-card" markdown="1">
 
-<h3>👎 Doubt Signals</h3>
+### 👎 Doubt Signals
         Express skepticism that a milestone will be achieved
 
 
@@ -114,7 +114,7 @@ flowchart TD
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Multiplier Formula</h3>
+### 📊 Multiplier Formula
 ** Base Multipliers:
 - ** Belief (Success): 1.5x base
 - Doubt (Failure): 1.2x base**  Bonus Factors:
@@ -262,7 +262,7 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-<h3>🔮 Future Signal Features</h3>
+### 🔮 Future Signal Features
 **Conditional Signals** 🎯
 - ** "I believe IF [condition] is met"
 - Automated trigger mechanisms
@@ -342,12 +342,12 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 
 <div class="arena-card" markdown="1">
 
-<h4>🏆 EchoMaster_7</h4>
-<strong>Stats:</strong> 342 signals, 78% accuracy
+#### 🏆 EchoMaster_7
+**Stats:** 342 signals, 78% accuracy
 
-<strong>Specialty:</strong> Technical infrastructure milestones
+**Specialty:** Technical infrastructure milestones
 
-<strong>Best Call:</strong> 2.9x on CloudScale's Phase 5
+**Best Call:** 2.9x on CloudScale's Phase 5
 
 <blockquote>"I only signal on what I understand deeply. Better to miss opportunities than lose on ignorance."</blockquote>
 
@@ -355,12 +355,12 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 
 <div class="arena-card" markdown="1">
 
-<h4>🌟 SignalSavant</h4>
-<strong>Stats:</strong> 567 signals, 71% accuracy
+#### 🌟 SignalSavant
+**Stats:** 567 signals, 71% accuracy
 
-<strong>Specialty:</strong> Early-stage technical ventures
+**Specialty:** Early-stage technical ventures
 
-<strong>Strategy:</strong> Small stakes, high volume
+**Strategy:** Small stakes, high volume
 
 <blockquote>"Diversification is my protection. I'd rather earn steady 1.5x returns than chase 3x moonshots."</blockquote>
 

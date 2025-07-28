@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Earning as an Anchor</h3>
+### 💰 Earning as an Anchor
 
 Being an Anchor isn't just about serving the ecosystem - it's a rewarding career path with multiple income streams. This guide details how compensation works, strategies for maximizing earnings, and the financial opportunities available at each level.
 
@@ -16,7 +16,7 @@ Being an Anchor isn't just about serving the ecosystem - it's a rewarding career
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Multiple Revenue Streams</h3>
+### 📊 Multiple Revenue Streams
 
 **Core Income Sources:**
 
@@ -63,7 +63,7 @@ Anchor Monthly Income
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 $SIGNAL Token Rewards</h3>
+### 📈 $SIGNAL Token Rewards
 **How Anchors Earn:**
 ```python
 def calculate_anchor_reward(milestone_value, complexity, performance):
@@ -101,7 +101,7 @@ def calculate_anchor_reward(milestone_value, complexity, performance):
 
 <div class="arena-card" markdown="1">
 
-<h3>💵 Per-Validation Earnings</h3>
+### 💵 Per-Validation Earnings
 **Base Rate Schedule:**
 
 | Milestone Value | Base Fee | Complexity Multiplier | Time Allocation |
@@ -127,7 +127,7 @@ def calculate_anchor_reward(milestone_value, complexity, performance):
 
 <div class="arena-card" markdown="1">
 
-<h3>📅 Earnings by Level</h3>
+### 📅 Earnings by Level
 **Typical Monthly Earnings:**
 ```
 Junior Anchor (3-5 validations/month)
@@ -162,7 +162,7 @@ Master Anchor (10-15 validations/month)
 
 <div class="arena-card" markdown="1">
 
-<h3>⭐ Excellence Multipliers</h3>
+### ⭐ Excellence Multipliers
 **Performance Metrics:**
 
 | Metric | Threshold | Bonus |
@@ -194,7 +194,7 @@ monthly_excellence_bonus = {
 
 <div class="arena-card" markdown="1">
 
-<h3>⏱️ Speed and Scale Bonuses</h3>
+### ⏱️ Speed and Scale Bonuses
 **Velocity Incentives:**
 
 **Fast Turnaround Bonus:**
@@ -224,7 +224,7 @@ monthly_excellence_bonus = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Teaching and Guiding</h3>
+### 🤝 Teaching and Guiding
 **Mentorship Compensation:**
 
 **Formal Mentoring:**
@@ -254,7 +254,7 @@ Compensation: $500-1,000/month
 
 <div class="arena-card" markdown="1">
 
-<h3>📚 Knowledge Monetization</h3>
+### 📚 Knowledge Monetization
 **Content Creation Rewards:**
 | Content Type | Compensation | Ongoing Royalties |
 |--------------|--------------|-------------------|
@@ -274,7 +274,7 @@ Compensation: $500-1,000/month
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 High-Level Consulting</h3>
+### 🎯 High-Level Consulting
 **Advisory Opportunities:**
 
 **Venture Advisory:**
@@ -301,7 +301,7 @@ Compensation: $500-1,000/month
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Income Over Time</h3>
+### 📈 Income Over Time
 **Typical Career Progression:**
 ```python
 # Annual income trajectory
@@ -341,7 +341,7 @@ career_earnings = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Income Optimization Strategies</h3>
+### 🚀 Income Optimization Strategies
 **Top Earner Tactics:**
 
 1. **Specialization Strategy**
@@ -390,7 +390,7 @@ career_earnings = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Token Value Maximization</h3>
+### 🎯 Token Value Maximization
 **Token Management Best Practices:**
 
 **Earning Strategies:**
@@ -422,7 +422,7 @@ Decision Framework:
 
 <div class="arena-card" markdown="1">
 
-<h3>🏊 Advanced Token Strategies</h3>
+### 🏊 Advanced Token Strategies
 **DeFi Integration:**
 
 **Liquidity Provision:**
@@ -449,7 +449,7 @@ Decision Framework:
 
 <div class="arena-card" markdown="1">
 
-<h3>🎁 Beyond Direct Compensation</h3>
+### 🎁 Beyond Direct Compensation
 **Included Benefits:**
 
 **Professional Development:**
@@ -476,7 +476,7 @@ Decision Framework:
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Growth Resources</h3>
+### 🚀 Growth Resources
 **Career Development:**
 
 **Advancement Support:**
@@ -506,7 +506,7 @@ Decision Framework:
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Tax Optimization</h3>
+### 📊 Tax Optimization
 **Tax Planning Strategies:**
 
 **Income Classification:**
@@ -541,7 +541,7 @@ Common Anchor Deductions:
 
 <div class="arena-card" markdown="1">
 
-<h3>❓ Frequently Asked Questions</h3>
+### ❓ Frequently Asked Questions
 **Q: When do I get paid?**
 A: Within 48 hours of validation completion, automatically via smart contract.
 **Q: How are disputes handled?**

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 The Art of Signal Analysis</h3>
+### 📊 The Art of Signal Analysis
 
 - Understanding what other Echoes are signaling
 - and why
@@ -18,7 +18,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Core Signal Metrics</h3>
+### 📈 Core Signal Metrics
 
 **Primary Indicators:**
 
@@ -54,7 +54,7 @@ Example Signal Chart:
 
 <div class="arena-card" markdown="1">
 
-<h3>🌅 First 48 Hours</h3>
+### 🌅 First 48 Hours
 ** What Early Signals Tell You:
 1. **Fast Fill (0-24h)**
 
@@ -92,7 +92,7 @@ Example Signal Chart:
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Velocity Analysis</h3>
+### 🚀 Velocity Analysis
 ** Acceleration Patterns:
 ```
 Hour 1-6:   ██ (200 signals)
@@ -114,7 +114,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Signal Source Intelligence</h3>
+### 🔍 Signal Source Intelligence
 ** Echo Categories:
 1. **Smart Money**
 
@@ -162,7 +162,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Tracking Top Echoes</h3>
+### 💡 Tracking Top Echoes
 ** Identification Methods:
 - ** Check Echo profiles
 - Note stake sizes
@@ -187,7 +187,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>🎭 Market Psychology</h3>
+### 🎭 Market Psychology
 ** Sentiment Indicators:
 **| Ratio | Sentiment | Implications |
 |-------|-----------|--------------|
@@ -208,7 +208,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Qualitative Intelligence</h3>
+### 💬 Qualitative Intelligence
 ** What to Read:
 - ** Signal explanations
 - Concern highlights
@@ -236,7 +236,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Group Behavior Analysis</h3>
+### 🌐 Group Behavior Analysis
 ** Cluster Types:
 1. **Coordinated Signals**
 
@@ -274,7 +274,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>⏰ Temporal Analysis</h3>
+### ⏰ Temporal Analysis
 **Daily Patterns:** Morning (9-12 EST)**: Institutional activity
 - **Afternoon (12-5 EST)** : Retail participation
 - **Evening (5-9 EST)** : Research time
@@ -291,7 +291,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>💎 Hidden Opportunities</h3>
+### 💎 Hidden Opportunities
 ** Arbitrage Types:
 1. **Information Arbitrage**
 
@@ -331,7 +331,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Danger Signs in Signals</h3>
+### ⚠️ Danger Signs in Signals
 ** High Risk Patterns:
 - ** Sudden doubt surge
 - Smart money exit
@@ -353,7 +353,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Signal-Based Decisions</h3>
+### 🎯 Signal-Based Decisions
 ** When to Follow Signals:
 - ** Smart money convergence
 - Specialist agreement
@@ -381,7 +381,7 @@ Hour 19-24: ████████████████ (1600 signals)
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Signal Analysis Toolkit</h3>
+### 🛠️ Signal Analysis Toolkit
 ** Essential Tools:
 1. **Signal Tracker**
 - Real
@@ -434,7 +434,7 @@ SV = (Belief% [now] - Belief%[1h ago]) / hour
 
 <div class="arena-card" markdown="1">
 
-<h3>📖 DeFi Venture Reversal</h3>
+### 📖 DeFi Venture Reversal
 
 **Initial State:**
 - ** 90% doubt signals
@@ -454,7 +454,7 @@ SV = (Belief% [now] - Belief%[1h ago]) / hour
 
 <div class="arena-card" markdown="1">
 
-<h3>📖 Gaming Venture Pump</h3>
+### 📖 Gaming Venture Pump
 ** Initial State:
 - ** 95% belief signals
 - Coordinated stakes
@@ -476,7 +476,7 @@ SV = (Belief% [now] - Belief%[1h ago]) / hour
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Echo Psychology</h3>
+### 🧠 Echo Psychology
 ** Common Biases:
 1. **Herd Following**
 
@@ -516,7 +516,7 @@ SV = (Belief% [now] - Belief%[1h ago]) / hour
 
 <div class="arena-card" markdown="1">
 
-<h3>🔬 Deep Signal Intelligence</h3>
+### 🔬 Deep Signal Intelligence
 **Layer 1: Quantitative
 - ** Raw numbers
 - Ratios/metrics

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Preparation is Victory</h3>
+### 🎯 Preparation is Victory
 
 Success in The Forge is determined before the competition begins. This comprehensive guide covers every aspect of preparation, from team assembly to psychological readiness.
 
@@ -16,7 +16,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>🔍 Understanding the Opportunity</h3>
+### 🔍 Understanding the Opportunity
 
 **IP Analysis Checklist:**
 - ** [ ] Read all IP documentation
@@ -72,7 +72,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Building Your War Council</h3>
+### 👥 Building Your War Council
 ** Essential Positions:
 1. **Campaign Manager**
  Overall strategy
@@ -135,7 +135,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Presentation Excellence</h3>
+### 📊 Presentation Excellence
 ** Slide Structure:
 1. **Title Slide**
 - ** Strong first impression
@@ -181,7 +181,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>📄 Document Arsenal</h3>
+### 📄 Document Arsenal
 ** Must-Have Documents:
 1. **Executive Summary**
  (1 page) Elevator pitch
@@ -230,7 +230,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>🎭 Choosing Your Angle</h3>
+### 🎭 Choosing Your Angle
 ** Positioning Options:
 1. **The Veteran**
  Emphasize experience
@@ -281,7 +281,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>🧠 Warrior Mindset</h3>
+### 🧠 Warrior Mindset
 ** Daily Practices:
 - **Visualization
 - See yourself winning**
@@ -316,7 +316,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ 48-Hour Countdown</h3>
+### ✅ 48-Hour Countdown
 ** 48 Hours Before:
 - ** [ ] All materials finalized
 - [ ] Team roles confirmed
@@ -362,7 +362,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>📢 Rally the Troops</h3>
+### 📢 Rally the Troops
 ** Pre-Duel Outreach:
 1. **Email Campaign**
  Announcement sequence
@@ -408,7 +408,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Prepare for Problems</h3>
+### ⚠️ Prepare for Problems
 ** Common Issues:
 1. **Technical Failures**
  Backup systems
@@ -443,7 +443,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Final Countdown</h3>
+### 🎯 Final Countdown
 ** Morning:
 - ** Final material review
 - Team check-in

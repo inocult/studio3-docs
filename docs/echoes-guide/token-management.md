@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Master Your Bankroll</h3>
+### 💰 Master Your Bankroll
 
 Effective token management separates successful Echoes from those who burn out quickly. This guide covers everything from bankroll strategies to advanced portfolio optimization, helping you build sustainable signaling practices.
 
@@ -16,7 +16,7 @@ Effective token management separates successful Echoes from those who burn out q
 
 <div class="arena-card" markdown="1">
 
-<h3>🏦 Initial Setup</h3>
+### 🏦 Initial Setup
 
 **Recommended Starting Amounts:**
 - **Beginner:** 500-1,000 $SIGNAL
@@ -38,7 +38,7 @@ Effective token management separates successful Echoes from those who burn out q
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Risk Management Basic</h3>
+### 📊 Risk Management Basic
 **Core Principle:Never risk more than 2% of your total bankroll on a single signal.
 **Example:** s:
 - ** 1,000 $SIGNAL bankroll = 20 $SIGNAL max per signal
@@ -58,7 +58,7 @@ Effective token management separates successful Echoes from those who burn out q
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Optimal Distribution</h3>
+### 🎯 Optimal Distribution
 ** By Phase:
 ```
 Spark/Forge: 20% (High risk/reward)
@@ -86,7 +86,7 @@ Emergency Reserve: 15%
 
 <div class="arena-card" markdown="1">
 
-<h3>📏 Calculate Your Stakes</h3>
+### 📏 Calculate Your Stakes
 ** Kelly Criterion Formula:
 ```
 Stake Size = (p × b - q) / b
@@ -116,7 +116,7 @@ q = probability of failure (1 - p)
 
 <div class="arena-card" markdown="1">
 
-<h3>🛒 Smart Purchasing</h3>
+### 🛒 Smart Purchasing
 ** Best Practices:
 1. **Use DEX Aggregators**
 
@@ -166,7 +166,7 @@ q = probability of failure (1 - p)
 
 <div class="arena-card" markdown="1">
 
-<h3>💸 Track Your Flow</h3>
+### 💸 Track Your Flow
 ** Monthly Tracking:
 ```
 ** Income:
@@ -195,7 +195,7 @@ Net Result: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Compound Growth</h3>
+### 📈 Compound Growth
 ** The 50/30/20 Rule:
 - **50% Reinvest:** Back into signals
 -- **30% Reserve:**  20% Profit: Growth Phases:
@@ -231,7 +231,7 @@ Net Result: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🛑 Protect Your Capital</h3>
+### 🛑 Protect Your Capital
 ** Daily Limits:
 - ** Max 3 signals per day
 - Max 10% bankroll at risk
@@ -254,7 +254,7 @@ Net Result: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Bouncing Back</h3>
+### 🔄 Bouncing Back
 ** After Major Loss:
 1. **Take a Break**
  (24-48 hours)
@@ -276,7 +276,7 @@ Net Result: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>💧 Stay Liquid</h3>
+### 💧 Stay Liquid
 ** Liquidity Buckets:
 1. **Immediate (0-7 days)**
 
@@ -323,7 +323,7 @@ Net Result: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>🔐 Protect Your Assets</h3>
+### 🔐 Protect Your Assets
 ** Essential Security:
 1. **Hardware Wallet**
 
@@ -363,7 +363,7 @@ Net Result: ___
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Monitor Success</h3>
+### 📊 Monitor Success
 ** Essential Tracking:
 - **ROI:** (Current
 - Initial) / Initial
@@ -395,7 +395,7 @@ ROI: ___%
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 Sustainable Growth</h3>
+### 🚀 Sustainable Growth
 ** Growth Milestones:
 1. **0-1,000 $SIGNAL**
 
@@ -437,7 +437,7 @@ ROI: ___%
 
 <div class="arena-card" markdown="1">
 
-<h3>❌ Token Pitfalls</h3>
+### ❌ Token Pitfalls
 ** Fatal Errors:
 - ** All-in mentality
 - No record keeping
@@ -459,7 +459,7 @@ ROI: ___%
 
 <div class="arena-card" markdown="1">
 
-<h3>🚨 When Things Go Wrong</h3>
+### 🚨 When Things Go Wrong
 ** Major Loss Protocol:
 1. Stop all activity
 2. Secure remaining funds

@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Your Professional Identity</h3>
+### 🌟 Your Professional Identity
 
 As an Anchor, your reputation is your most valuable asset. It determines which ventures seek your validation, influences your earning potential, and shapes your career trajectory. This guide shows you how to build, maintain, and leverage your professional reputation.
 
@@ -16,7 +16,7 @@ As an Anchor, your reputation is your most valuable asset. It determines which v
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 What Builds Your Reputation</h3>
+### 🎯 What Builds Your Reputation
 
 **Core Reputation Factors:**
 1. **Performance Metrics**
@@ -77,7 +77,7 @@ As an Anchor, your reputation is your most valuable asset. It determines which v
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 How Reputation Evolves</h3>
+### 📈 How Reputation Evolves
 
 **Reputation Stages:**
 
@@ -115,7 +115,7 @@ Maturity Phase (18+ months)
 
 <div class="arena-card" markdown="1">
 
-<h3>🎨 Crafting Your Professional Identity</h3>
+### 🎨 Crafting Your Professional Identity
 ** Brand Development Framework:
 1. **Define Your Unique Value**
    ```
@@ -158,7 +158,7 @@ Maturity Phase (18+ months)
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Becoming the Go-To Expert</h3>
+### 🎯 Becoming the Go-To Expert
 ** Specialization Benefits:
 - ** Higher rates commanded
 - Easier venture acquisition
@@ -196,7 +196,7 @@ Maturity Phase (18+ months)
 
 <div class="arena-card" markdown="1">
 
-<h3>📢 Increasing Your Profile</h3>
+### 📢 Increasing Your Profile
 **Content Strategy:**  Blog/Article Topics:
 - ** Validation insights
 - Industry analysis
@@ -234,7 +234,7 @@ Maturity Phase (18+ months)
 
 <div class="arena-card" markdown="1">
 
-<h3>✅ Delivering Reliable Quality</h3>
+### ✅ Delivering Reliable Quality
 **Consistency Framework:**  Process Standardization:
 - ** Validation checklists
 - Communication templates
@@ -264,7 +264,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🤝 Building Strong Networks</h3>
+### 🤝 Building Strong Networks
 **Stakeholder Relationships:**  Founder Relationships:
 - ** Responsive communication
 - Empathetic approach
@@ -299,7 +299,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>💬 Professional Communication
+### 💬 Professional Communication
 **Communication Standards:**  Written Communication:
 - ** Clear and concise
 - Professional tone
@@ -328,7 +328,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🛡️ Protecting Your Brand</h3>
+### 🛡️ Protecting Your Brand
 **Reputation Risks:**  High-Risk Scenarios:
 1. **Validation Disputes**
 
@@ -377,7 +377,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🚒 When Things Go Wrong</h3>
+### 🚒 When Things Go Wrong
 ** Crisis Response Protocol:
 1. **Immediate Response**
    ```
@@ -425,7 +425,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🚫 Avoiding Reputation Damage</h3>
+### 🚫 Avoiding Reputation Damage
 **Prevention Strategies:**  Clear Expectations:
 - ** Written validation criteria
 - Documented decisions
@@ -465,7 +465,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Monetizing Your Brand</h3>
+### 💰 Monetizing Your Brand
 **Reputation Monetization:**  Rate Premiums:
 **| Reputation Level | Rate Multiplier |
 |-----------------|----------------|
@@ -497,7 +497,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🌐 Expanding Your Impact</h3>
+### 🌐 Expanding Your Impact
 ** Influence Strategies:
 1. **Thought Leadership**
 
@@ -549,7 +549,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 10-Year Reputation Plan</h3>
+### 🎯 10-Year Reputation Plan
 **Reputation Milestones:** Years 1-2: Foundation
 - ** Build core competence
 - Establish reliability
@@ -575,7 +575,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🏛️ Creating Lasting Impact</h3>
+### 🏛️ Creating Lasting Impact
 **Legacy Components:**  Knowledge Legacy:
 - ** Frameworks created
 - Best practices documented
@@ -612,7 +612,7 @@ weekly_performance_review = {
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Tracking Your Brand</h3>
+### 📊 Tracking Your Brand
 ** Reputation Dashboard:
 ```python
 reputation_metrics = {

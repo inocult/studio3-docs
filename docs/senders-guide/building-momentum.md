@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🚀 From Progress to Acceleration</h3>
+### 🚀 From Progress to Acceleration
 
 Momentum is the difference between ventures that grind and ventures that soar. It's the compound effect of consistent wins, growing belief, and accelerating progress. This guide shows you how to build and maintain unstoppable momentum.
 
@@ -16,7 +16,7 @@ Momentum is the difference between ventures that grind and ventures that soar. I
 
 <div class="arena-card" markdown="1">
 
-<h3>⚡ Momentum = Mass × Velocity</h3>
+### ⚡ Momentum = Mass × Velocity
 
 **Startup Momentum Equation:**
 
@@ -55,7 +55,7 @@ Momentum is the difference between ventures that grind and ventures that soar. I
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Self-Reinforcing Success
+### 🔄 Self-Reinforcing Success
 
 ```mermaid
 graph LR
@@ -86,7 +86,7 @@ graph LR
 
 <div class="arena-card" markdown="1">
 
-<h3>🏆 Stacking Small Victories
+### 🏆 Stacking Small Victories
 **30-Day Quick Win Plan:** Week 1: Foundation Wins```markdown
 Day 1-2: Launch announcement
 - ✅ Website live
@@ -123,7 +123,7 @@ Day 5-7: Social proof
 
 <div class="arena-card" markdown="1">
 
-<h3>⏱️ Speed as Strategy
+### ⏱️ Speed as Strategy
 ** Velocity Multipliers:
 1. **Parallel Execution**
    ```python
@@ -174,7 +174,7 @@ Day 5-7: Social proof
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Measuring What Matters
+### 📊 Measuring What Matters
 **Core Momentum KPIs:| Metric | Target | Frequency |
 |--------|--------|------------|
 | Weekly Growth Rate | >10% | Weekly |
@@ -209,7 +209,7 @@ const momentumDashboard = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Predictive Indicators
+### 🎯 Predictive Indicators
 **Leading Indicators**  (Predict Future):
 - ** Daily active users trend
 - Feature adoption rate
@@ -237,7 +237,7 @@ const momentumDashboard = {
 
 <div class="arena-card" markdown="1">
 
-<h3>📣 Creating Buzz
+### 📣 Creating Buzz
 ** PR Momentum Tactics:
 1. **Story Stacking**
    ```
@@ -284,7 +284,7 @@ const momentumDashboard = {
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Turning Echoes into Engines
+### 👥 Turning Echoes into Engines
 ** Community Momentum Programs:
 1. **Ambassador Army**
    ```python
@@ -338,7 +338,7 @@ const momentumDashboard = {
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Momentum Killers
+### ⚠️ Momentum Killers
 ** Common Stall Causes:
 1. **Internal Friction**
 
@@ -399,7 +399,7 @@ const momentumDashboard = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Restarting Stalled Momentum
+### 🔄 Restarting Stalled Momentum
 **Momentum Recovery Plan:** Week 1: Diagnosis
 - ** Identify stall cause
 - Survey community
@@ -433,7 +433,7 @@ const momentumDashboard = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Compound Acceleration
+### 🎯 Compound Acceleration
 ** Multi-Layer Momentum:
 ```
 Product Momentum
@@ -476,7 +476,7 @@ Team Momentum
 
 <div class="arena-card" markdown="1">
 
-<h3>💹 Trading Momentum
+### 💹 Trading Momentum
 ** Arbitrage Opportunities:
 1. **Attention Arbitrage**
 
@@ -535,7 +535,7 @@ Team Momentum
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 Everyone an Accelerator
+### 👥 Everyone an Accelerator
 ** Cultural Elements:
 1. **Velocity Values**
 
@@ -587,7 +587,7 @@ Individual Momentum
 
 <div class="arena-card" markdown="1">
 
-<h3>📢 Broadcasting Acceleration
+### 📢 Broadcasting Acceleration
 **Communication Framework:**  Internal (Team):
 - ** Real-time dashboards
 - Slack celebrations
@@ -625,7 +625,7 @@ Individual Momentum
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Acceleration Targets
+### 🎯 Acceleration Targets
 ** Momentum-Based Milestones:
 1. **Velocity Milestones**
 
@@ -665,7 +665,7 @@ Individual Momentum
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ What Kills Acceleration
+### ⚠️ What Kills Acceleration
 ** Fatal Errors:
 1. **Fake Momentum**
 

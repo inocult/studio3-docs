@@ -227,8 +227,8 @@ flowchart TD
 <div class="grid cards">
     <div class="arena-card" markdown="1">
 
-<h4>⏱️ Short-term Alignment</h4>
-        <strong>Immediate Rewards for Good Behavior</strong>
+#### ⏱️ Short-term Alignment
+        **Immediate Rewards for Good Behavior**
 
 
 - Quick signal returns
@@ -246,8 +246,8 @@ flowchart TD
     
     <div class="arena-card" markdown="1">
 
-<h4>📈 Long-term Alignment</h4>
-        <strong>Compound Benefits for Patience</strong>
+#### 📈 Long-term Alignment
+        **Compound Benefits for Patience**
 
 
 - Reputation accumulation

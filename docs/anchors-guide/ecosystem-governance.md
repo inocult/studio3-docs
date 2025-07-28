@@ -4,7 +4,7 @@
 
 <div class="arena-card" markdown="1">
 
-<h3>🏛️ The Anchor's Role in Governance</h3>
+### 🏛️ The Anchor's Role in Governance
 
 As an experienced Anchor, you have the opportunity and responsibility to help govern the Studio3 ecosystem. This guide explores how Anchors participate in platform governance, influence policy, and help shape the future of decentralized venture building.
 
@@ -16,7 +16,7 @@ As an experienced Anchor, you have the opportunity and responsibility to help go
 
 <div class="arena-card" markdown="1">
 
-<h3>🌟 Principles of Ecosystem Governance</h3>
+### 🌟 Principles of Ecosystem Governance
 
 **Core Governance Principles:**
 
@@ -72,7 +72,7 @@ As an experienced Anchor, you have the opportunity and responsibility to help go
 
 <div class="arena-card" markdown="1">
 
-<h3>🏗️ How Studio3 Governs Itself</h3>
+### 🏗️ How Studio3 Governs Itself
 **Governance Layers:**
 ```
 Platform Team
@@ -108,7 +108,7 @@ Token Holder Votes
 
 <div class="arena-card" markdown="1">
 
-<h3>👥 The Anchor Governance Body</h3>
+### 👥 The Anchor Governance Body
 **Council Composition:**
 - 9-15 Senior/Master Anchors
 - Elected by Anchor community
@@ -163,7 +163,7 @@ Token Holder Votes
 
 <div class="arena-card" markdown="1">
 
-<h3>⚙️ How the Council Works</h3>
+### ⚙️ How the Council Works
 **Meeting Structure:**
 ```
 Weekly Operations Meeting (2 hours)
@@ -205,7 +205,7 @@ Quarterly Community Meeting (2 hours)
 
 <div class="arena-card" markdown="1">
 
-<h3>📜 Policy Framework</h3>
+### 📜 Policy Framework
 **Policy Lifecycle:**
 
 1. **Identification**
@@ -271,7 +271,7 @@ Quarterly Community Meeting (2 hours)
 
 <div class="arena-card" markdown="1">
 
-<h3>📊 Maintaining Quality Standards</h3>
+### 📊 Maintaining Quality Standards
 **Standards Review Process:**
 
 **Quarterly Reviews:**
@@ -326,7 +326,7 @@ Quarterly Community Meeting (2 hours)
 
 <div class="arena-card" markdown="1">
 
-<h3>💰 Economic Parameter Setting</h3>
+### 💰 Economic Parameter Setting
 **Anchor Input Areas:**
 
 **Validation Rewards:**
@@ -361,7 +361,7 @@ reward_parameters = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🎯 Balancing Ecosystem Incentives</h3>
+### 🎯 Balancing Ecosystem Incentives
 **Stakeholder Balance:**
 
 | Stakeholder | Primary Incentive | Governance Weight |
@@ -391,7 +391,7 @@ reward_parameters = {
 
 <div class="arena-card" markdown="1">
 
-<h3>🧭 Shaping Studio3's Future</h3>
+### 🧭 Shaping Studio3's Future
 **Strategic Areas:**
 
 **Technology Roadmap:**
@@ -425,7 +425,7 @@ reward_parameters = {
 
 <div class="arena-card" markdown="1">
 
-<h3>💡 Fostering Ecosystem Innovation</h3>
+### 💡 Fostering Ecosystem Innovation
 **Innovation Framework:**
 
 **Experimentation Zones:**
@@ -460,7 +460,7 @@ Innovation Budget Allocation:
 
 <div class="arena-card" markdown="1">
 
-<h3>🙋 Your Governance Participation</h3>
+### 🙋 Your Governance Participation
 **Participation Opportunities:**
 
 1. **Proposal Creation**
@@ -497,7 +497,7 @@ Innovation Budget Allocation:
 
 <div class="arena-card" markdown="1">
 
-<h3>📈 Growing Governance Impact</h3>
+### 📈 Growing Governance Impact
 **Influence Building Path:**
 
 **Year 1: Learn and Observe**
@@ -536,7 +536,7 @@ Innovation Budget Allocation:
 
 <div class="arena-card" markdown="1">
 
-<h3>⚠️ Navigating Governance Challenges</h3>
+### ⚠️ Navigating Governance Challenges
 **Typical Challenges:**
 
 1. **Participation Fatigue**
@@ -581,7 +581,7 @@ Innovation Budget Allocation:
 
 <div class="arena-card" markdown="1">
 
-<h3>🔄 Continuous Improvement</h3>
+### 🔄 Continuous Improvement
 **Evolution Strategies:**
 
 1. **Regular Assessment**
@@ -613,7 +613,7 @@ Innovation Budget Allocation:
 
 <div class="arena-card" markdown="1">
 
-<h3>🚨 Emergency Decision Making</h3>
+### 🚨 Emergency Decision Making
 **Emergency Triggers:**
 - Security breaches
 - Economic attacks
@@ -672,7 +672,7 @@ Innovation Budget Allocation:
 
 <div class="arena-card" markdown="1">
 
-<h3>🛠️ Governance Infrastructure</h3>
+### 🛠️ Governance Infrastructure
 **Tool Categories:**
 
 1. **Proposal Management**
