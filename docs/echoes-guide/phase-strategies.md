@@ -39,6 +39,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 ### ✨ Spark Phase Mastery
 
 **Phase Characteristics:**
+
 - ** Raw ideas enter Arena
 - Minimal validation
 - High uncertainty

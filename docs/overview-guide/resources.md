@@ -20,6 +20,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - Track ventures
 - Manage signals
 - View analytics
+
 **Platform Status**: [status.studio
 3. xyz](https://status.studio
 3. xyz)
@@ -37,6 +38,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - Role channels
 - Voice rooms
 - Events
+
 **Forum:**: [forum.studio
 3. xyz](https://forum.studio
 3. xyz)
@@ -183,11 +185,13 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - Core mechanics
 - Role introduction
 - [Start Course →](https://learn.studio3.xyz/fundamentals)
+
 **Advanced Strategies** (5 hours)
 - ** Signal optimization
 - Risk management
 - Network effects
 - [Start Course →](https://learn.studio3.xyz/advanced)
+
 **Mentor Certification** (10 hours)
 - ** Anchor requirements
 - Validation mastery
@@ -367,6 +371,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 - Push notifications
 - Biometric security
 - Offline viewing
+
 **Signal Tracker** (iOS/Android)
 - ** Portfolio monitoring
 - Quick signals

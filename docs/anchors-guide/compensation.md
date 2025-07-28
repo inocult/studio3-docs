@@ -48,6 +48,7 @@ Being an Anchor isn't just about serving the ecosystem - it's a rewarding career
 - Content creation
 
 - Strategic advisory
+
 **Typical Income Breakdown:**
 ```
 Anchor Monthly Income
@@ -87,6 +88,7 @@ def calculate_anchor_reward(milestone_value, complexity, performance):
 ```
 
 **Token Value Factors:**
+
 - Platform growth
 - Ecosystem activity
 - Token utility expansion
@@ -110,12 +112,16 @@ def calculate_anchor_reward(milestone_value, complexity, performance):
 | $10-50K | $500-1,500 | 1.2-1.8x | 4-8 hours |
 | $50-100K | $1,500-3,000 | 1.5-2.0x | 8-16 hours |
 | $100K+ | $3,000+ | 2.0-3.0x | 16+ hours |
+
 **Phase Adjustments:**
+
 - Spark/Forge: 1.3x multiplier
 - Ignition/Drift: 1.0x multiplier
 - Orbit/Flare: 0.8x multiplier
 - Ascension: 1.5x multiplier
+
 **Specialization Premiums:**
+
 - Deep tech: +25%
 - Regulated industries: +30%
 - Security critical: +40%
@@ -172,11 +178,14 @@ Master Anchor (10-15 validations/month)
 | Founder Rating | >4.8/5 | +10% |
 | Speed | <3 days | +10% |
 | Documentation | Exemplary | +5% |
+
 **Streak Rewards:**
+
 - 10 perfect validations: +$1,000 bonus
 - 25 perfect validations: +$3,000 bonus
 - 50 perfect validations: +$7,500 bonus
 - 100 perfect validations: +$20,000 bonus
+
 **Excellence Recognition:**
 ```python
 monthly_excellence_bonus = {
@@ -198,10 +207,12 @@ monthly_excellence_bonus = {
 **Velocity Incentives:**
 
 **Fast Turnaround Bonus:**
+
 - Same day: +30%
 - Next day: +20%
 - 2 days: +10%
 - 3+ days: Standard rate
+
 **Volume Achievements:**
 
 | Monthly Validations | Bonus Per Validation |
@@ -210,7 +221,9 @@ monthly_excellence_bonus = {
 | 8-10 | +$200 |
 | 11-15 | +$300 |
 | 16+ | +$500 |
+
 **Efficiency Tools:**
+
 - Automation bonuses
 - Template rewards
 - Process improvements
@@ -228,10 +241,12 @@ monthly_excellence_bonus = {
 **Mentorship Compensation:**
 
 **Formal Mentoring:**
+
 - Junior Anchor mentor: $500/month per mentee
 - Group sessions: $200/hour
 - Training workshops: $500/session
 - Curriculum development: $2,000/module
+
 **Mentorship Structure:**
 ```
 Mentorship Commitment:
@@ -242,7 +257,9 @@ Mentorship Commitment:
 
 Compensation: $500-1,000/month
 ```
+
 **Scaling Mentorship:**
+
 - 1-3 mentees: Standard rate
 - 4-6 mentees: +20% per mentee
 - Group programs: Higher efficiency
@@ -262,7 +279,9 @@ Compensation: $500-1,000/month
 | Video Tutorial | $1,000-2,500 | $100/month views |
 | Course Module | $2,000-5,000 | 10% of sales |
 | Tool Development | $5,000-15,000 | 20% of usage fees |
+
 **Training Delivery:**
+
 - Live workshops: $500-1,500/session
 - Webinars: $300-800/hour
 - Conference speaking: $2,000-10,000
@@ -278,16 +297,21 @@ Compensation: $500-1,000/month
 **Advisory Opportunities:**
 
 **Venture Advisory:**
+
 - Strategic guidance: $500-1,500/hour
 - Board advisory: $2,000-5,000/month
 - Crisis intervention: $5,000-10,000/project
 - Growth consulting: 2-5% of value created
+
 **Platform Advisory:**
+
 - Policy development: $3,000-8,000/project
 - Standards creation: $5,000-12,000/framework
 - Ecosystem design: $10,000-25,000/initiative
 - Tool architecture: $15,000-40,000/system
+
 **External Opportunities:**
+
 - Industry consulting
 - Competitive analysis
 - Due diligence support
@@ -328,7 +352,9 @@ career_earnings = {
     }
 }
 ```
+
 **Growth Accelerators:**
+
 - Specialization depth
 - Reputation building
 - Network expansion
@@ -394,10 +420,12 @@ career_earnings = {
 **Token Management Best Practices:**
 
 **Earning Strategies:**
+
 - Focus on high-value validations
 - Maintain perfect accuracy
 - Build streak bonuses
 - Participate in governance
+
 **Holding vs Liquidating:**
 ```
 Decision Framework:
@@ -410,7 +438,9 @@ Decision Framework:
 └── Tax Optimization
     └── Time liquidations wisely
 ```
+
 **Staking Benefits:**
+
 - Increased validation priority
 - Higher reward multipliers
 - Governance participation
@@ -426,16 +456,21 @@ Decision Framework:
 **DeFi Integration:**
 
 **Liquidity Provision:**
+
 - Provide $SIGNAL liquidity
 - Earn trading fees
 - Receive LP rewards
 - Compound returns
+
 **Yield Strategies:**
+
 - Staking pools: 10-15% APY
 - Liquidity mining: 20-40% APY
 - Governance staking: 5-10% APY
 - Compound strategies: 30-60% APY
+
 **Risk Management:**
+
 - Diversify holdings
 - Limit exposure
 - Monitor positions
@@ -453,18 +488,23 @@ Decision Framework:
 **Included Benefits:**
 
 **Professional Development:**
+
 - Free training courses
 - Conference attendance
 - Certification support
 - Tool subscriptions
 - Learning stipend: $2,000/year
+
 **Community Perks:**
+
 - Exclusive events
 - Networking opportunities
 - Early access features
 - Beta testing rewards
 - Recognition programs
+
 **Insurance Options:**
+
 - Professional liability coverage
 - Errors & omissions protection
 - Legal support access
@@ -480,18 +520,23 @@ Decision Framework:
 **Career Development:**
 
 **Advancement Support:**
+
 - Performance coaching
 - Leadership training
 - Skill assessments
 - Career planning
 - Succession preparation
+
 **Resource Access:**
+
 - Premium tools suite
 - Research databases
 - Expert networks
 - Industry reports
 - Competitive intelligence
+
 **Recognition Programs:**
+
 - Annual awards
 - Hall of fame
 - Speaking opportunities
@@ -510,10 +555,12 @@ Decision Framework:
 **Tax Planning Strategies:**
 
 **Income Classification:**
+
 - Validation fees: Business income
 - Token rewards: Capital gains/income
 - Mentorship: Service income
 - Content: Royalty income
+
 **Deduction Opportunities:**
 ```
 Common Anchor Deductions:
@@ -526,7 +573,9 @@ Common Anchor Deductions:
 ✓ Internet/phone bills
 ✓ Professional insurance
 ```
+
 **Optimization Tips:**
+
 - Track all expenses
 - Separate business accounts
 - Quarterly tax payments
@@ -544,12 +593,16 @@ Common Anchor Deductions:
 ### ❓ Frequently Asked Questions
 **Q: When do I get paid?**
 A: Within 48 hours of validation completion, automatically via smart contract.
+
 **Q: How are disputes handled?**
 A: Disputed validations freeze payment until resolution. If upheld, full payment plus inconvenience bonus.
+
 **Q: Can I negotiate rates?**
 A: Base rates are standardized, but complexity assessments and specialization premiums are flexible.
+
 **Q: What about international taxes?**
 A: Platform provides 1099 equivalents. Consult local tax advisor for obligations.
+
 **Q: How stable is income?**
 A: Varies with platform activity. Most Anchors see 20-30% monthly variation.
 

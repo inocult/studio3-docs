@@ -19,6 +19,7 @@ Milestones are the heartbeat of Studio3 ventures. They're not just goals - they'
 ### 📊 The SMART-V Framework
 
 **SMART-V Criteria:**
+
 - **S** pecific
 - Clear and unambiguous
 - **M** easurable
@@ -564,6 +565,7 @@ High Reward
 - Compound learning effects
 - Network value growth
 - Ecosystem expansion
+
 **Example:**  Stack:
 1. 100 users → Product validation
 2. Product validation → First revenue

@@ -3,6 +3,7 @@
 ## Stabilizing Your Venture
 
 <div class="arena-card" markdown="1">
+
 **Phase**: Orbit 🛨  **Focus:** : Operational Excellence  Duration**: 6-12 months typical</div>
 
 ## Overview

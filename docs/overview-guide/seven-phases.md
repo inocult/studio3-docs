@@ -50,6 +50,7 @@ graph LR
 Transform a remixed IP concept into a validated venture idea with initial community support.
 
 **Key Activities:**
+
 - ** Create Spark NFT from Flambette marketplace
 - Enter idea into Spark Arena
 - Gather initial belief signals
@@ -129,6 +130,7 @@ Form Container DAO, assemble team, and deliver initial MVP.
 - Define technical architecture
 - Build and launch MVP
 - Secure initial users/testers
+
 **Milestones:**   1. DAO formation complete
 - 
 2. Core team assembled**
@@ -310,6 +312,7 @@ Graduate from Studio3 oversight to complete independence.
 - Team fully autonomous
 - Community support maintained
 - Buyback funds available
+
 **The Buyback Process:**   1. Initiate graduation request
 - 
 2. Final Anchor validation**

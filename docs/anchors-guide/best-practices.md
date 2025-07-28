@@ -105,11 +105,15 @@ Friday: Wrap-up & Learning
 - Knowledge sharing
 - Week review
 ```
+
 **Daily Rhythms:**
+
 - Morning: High-focus validation work
 - Afternoon: Meetings and communication
 - Evening: Documentation and planning
+
 **Efficiency Tips:**
+
 - Batch similar tasks
 - Use templates extensively
 - Automate where possible
@@ -150,7 +154,9 @@ def prepare_for_validation():
     
     return ready_to_validate
 ```
+
 **Pre-Validation Communication:**
+
 - Confirm evidence submission complete
 - Set expectations with founder
 - Schedule follow-up meeting
@@ -172,6 +178,7 @@ def prepare_for_validation():
 - Red flag identification
 - Organization assessment
 - Initial impressions
+
 **Deep Dive (1-3 hours)**
 ```
 Evidence Review Framework:
@@ -191,6 +198,7 @@ Evidence Review Framework:
     ├── Communication clarity
     └── Execution excellence
 ```
+
 **Verification Testing**
 - Always test claims
 - Reproduce results
@@ -277,13 +285,17 @@ Evidence Review Framework:
 - Success metrics
 - Support offered
 ```
+
 **Writing Principles:**
+
 - Be specific, not general
 - Use examples liberally
 - Balance criticism with praise
 - Focus on growth
 - End with encouragement
+
 **Language Best Practices:**
+
 - Active voice
 - Simple clarity
 - Professional tone
@@ -300,11 +312,13 @@ Evidence Review Framework:
 **Meeting Best Practices:**
 
 **Preparation:**
+
 - Agenda shared ahead
 - Time respected
 - Environment comfortable
 - Materials ready
 - Outcomes defined
+
 **During Meeting:**
 ```
 Meeting Flow:
@@ -315,7 +329,9 @@ Meeting Flow:
 5. Plan next steps (10 min)
 6. End positively (5 min)
 ```
+
 **Communication Techniques:**
+
 - Listen more than talk
 - Ask open questions
 - Reflect understanding
@@ -339,18 +355,21 @@ Meeting Flow:
 - Keep all promises
 - Show up prepared
 - Follow through completely
+
 **Transparency**
 - Share your process
 - Explain decisions
 - Admit uncertainties
 - Disclose conflicts
 - Communicate changes
+
 **Competence**
 - Stay current
 - Share knowledge
 - Solve problems
 - Add value
 - Show expertise
+
 **Care**
 - Remember details
 - Celebrate successes
@@ -368,6 +387,7 @@ Meeting Flow:
 **Handling Pushback:**
 
 **When Founders Disagree:**
+
 1. Listen completely
 2. Acknowledge feelings
 3. Review evidence together
@@ -375,14 +395,18 @@ Meeting Flow:
 5. Seek common ground
 6. Document discussion
 7. Escalate if needed
+
 **De-escalation Techniques:**
+
 - Stay calm always
 - Use neutral language
 - Focus on facts
 - Acknowledge emotions
 - Seek solutions
 - Take breaks if needed
+
 **Common Difficult Scenarios:**
+
 - Milestone failure anger
 - Standard disputes
 - Timeline pressure
@@ -423,7 +447,9 @@ def review_code_effectively():
     review_api_docs()
     validate_setup_guides()
 ```
+
 **Review Tools:**
+
 - Automated scanners
 - Performance profilers
 - Security analyzers
@@ -451,7 +477,9 @@ Essential Security Checks:
 □ Dependency vulnerabilities
 □ Secrets management
 ```
+
 **Security Tools:**
+
 - OWASP ZAP
 - Dependency checkers
 - Static analyzers
@@ -470,18 +498,23 @@ Essential Security Checks:
 **Learning Plan Best Practices:**
 
 **Weekly Learning (2-3 hours):**
+
 - Industry articles
 - Technical tutorials
 - Peer discussions
 - Case studies
 - Tool exploration
+
 **Monthly Deep Dives:**
+
 - New technology
 - Industry vertical
 - Methodology study
 - Skill development
 - Certification progress
+
 **Annual Goals:**
+
 - Major skill addition
 - Industry conference
 - Thought leadership
@@ -545,18 +578,23 @@ Essential Security Checks:
 **Sharing Best Practices:**
 
 **What to Share:**
+
 - Validation insights
 - Tool discoveries
 - Process improvements
 - Failure lessons
 - Success patterns
+
 **How to Share:**
+
 - Weekly anchor calls
 - Written guides
 - Video tutorials
 - Workshop sessions
 - Mentoring others
+
 **Sharing Principles:**
+
 - Be generous
 - Stay humble
 - Give credit
@@ -573,18 +611,23 @@ Essential Security Checks:
 **Collaboration Best Practices:**
 
 **Peer Reviews:**
+
 - Request regularly
 - Provide thoughtfully
 - Learn actively
 - Calibrate standards
 - Share insights
+
 **Joint Validations:**
+
 - Complex cases
 - Learning opportunities
 - Standard alignment
 - Workload sharing
 - Quality assurance
+
 **Community Building:**
+
 - Welcome new anchors
 - Share resources
 - Organize events
@@ -621,7 +664,9 @@ Anchor Records/
     ├── Guides/
     └── References/
 ```
+
 **Documentation Principles:**
+
 - Document immediately
 - Be thorough
 - Stay organized

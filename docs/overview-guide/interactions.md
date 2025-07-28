@@ -228,6 +228,7 @@ graph LR
 #### 🎭 Scenario: Pivot Decision
 
 **Participants:** 
+
 Sender + Multiple Echoes + Anchor
 
 - Sender proposes major pivot
@@ -342,6 +343,7 @@ Sender + Multiple Echoes + Anchor
 ### How Interactions Scale
 
 **Network Value Calculation:**
+
 - **Each role creates value**: Senders² + Echoes² + Anchors²
 - **Cross-role interactions multiply**: Senders × Echoes + Senders × Anchors + Echoes × Anchors
 - **Total network value**: Role value × Interaction multiplier

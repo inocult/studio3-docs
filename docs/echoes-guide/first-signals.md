@@ -19,6 +19,7 @@ Making your first signal can feel overwhelming. This guide walks you through eve
 ### 📚 Pre-Signal Checklist
 
 **Knowledge Requirements:**
+
 - ** [ ] Read the Echo Basics guide
 - [ ] Understand signal mechanics
 - [ ] Know the risk of burns

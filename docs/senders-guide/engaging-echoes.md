@@ -19,6 +19,7 @@ Echoes are your early believers - the community members who signal confidence in
 ### 👥 Your Signal Community
 
 **Echo Types:**
+
 1. **Early Believers**
 
 - First to signal

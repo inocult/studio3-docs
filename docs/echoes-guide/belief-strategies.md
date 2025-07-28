@@ -19,6 +19,7 @@ Successful belief signaling requires more than optimism - it demands strategic t
 ### 💎 Belief Signal Economics
 
 **Belief Reward Structure:**
+
 - ** Base multiplier: 1.5x
 - 2.0x
 - Early bonus: Up to +1.0x
@@ -385,6 +386,7 @@ Experimental: 5% (Learning/lottery)
 - Technical issues
 - Communication stops
 - Pivot discussions
+
 **Note:** No actual exit possible, but stop promoting/supporting**</div>
 
 ### Psychological Management

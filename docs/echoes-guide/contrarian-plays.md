@@ -22,6 +22,7 @@
 ### 💰 Why Contrarian Pays
 
 **Economic Incentives:**
+
 - ** Base multiplier: Standard
 - Contrarian bonus: +0.5x to +1.0x
 - Scarcity premium: Additional rewards
@@ -189,6 +190,7 @@
 - Crowd assumes impossible
 - You know it's feasible
 - Time will prove you right
+
 **Example:**  Scenarios:
 1. **"Too Ambitious" Projects**
 

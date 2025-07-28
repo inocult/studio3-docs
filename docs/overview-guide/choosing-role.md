@@ -12,6 +12,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 ### 🏗️ Become a Sender
 
 **You should be a Sender if you:**
+
 - ** Have a venture idea ready to build
 - Enjoy public accountability
 - Thrive under pressure
@@ -121,6 +122,7 @@ Rate yourself 1-5 on each:
 - Can you handle pressure?
 - **Team Building**
 - Can you attract talent?
+
 **Score 20+**: You're ready to be a Sender  **Score 15-19:** : Build skills first  Score <15**: Consider Echo or Anchor role**### For Potential Echoes
 
 Rate yourself 1-5 on each:
@@ -135,6 +137,7 @@ Rate yourself 1-5 on each:
 - Can you hold through volatility?
 - **Community Engagement**
 - Are you active?
+
 **Score 20+**: Perfect Echo material  **Score 15-19:** : Start small and learn  Score <15**: Study successful Echoes first**### For Potential Anchors
 
 Rate yourself 1-5 on each:
@@ -149,6 +152,7 @@ Rate yourself 1-5 on each:
 - Can you give hard feedback?
 - **Time Management**
 - Can you meet deadlines?
+
 **Score 20+**: Apply for Anchor status  **Score 15-19:** : Gain more experience  Score <15**: Build expertise as Echo first**## Multiple Roles
 
 ### Can You Play Multiple Roles?

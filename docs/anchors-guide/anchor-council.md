@@ -76,6 +76,7 @@ The Anchor Council represents the highest level of responsibility and influence 
 
 ### 👥 Who Serves on the Council
 **Council Structure:**
+
 - **Size:** 9-15 members
 - **Composition:** Balanced expertise
 - **Terms:** 2-year rotating
@@ -83,12 +84,15 @@ The Anchor Council represents the highest level of responsibility and influence 
 - **Diversity:** Geographic/skill mix
 
 **Member Requirements:**
+
 - Master or Senior Anchor status
 - 18+ months active anchoring
 - 95%+ performance rating
 - No major disputes
 - Community endorsement
+
 **Selection Process:**
+
 1. Nomination period (self or peer)
 2. Qualification verification
 3. Candidate statements
@@ -154,6 +158,7 @@ Deep Dive Topics:
 | Standards Update | 75% | 2/3 majority |
 | Emergency Action | 50% | Simple majority |
 | Constitutional | 90% | 3/4 majority |
+
 **Decision Process:**
 
 1. **Proposal Introduction**
@@ -220,7 +225,9 @@ def quarterly_standards_review():
     
     return implementation_plan
 ```
+
 **Standards Evolution:**
+
 - Market-driven updates
 - Technology adaptations
 - Phase refinements
@@ -237,11 +244,13 @@ def quarterly_standards_review():
 **Dispute Handling Process:**
 
 **Case Acceptance Criteria:**
+
 - Significant precedent value
 - Systemic issues raised
 - Standard interpretation needed
 - High stakes involved
 - Previous resolution failed
+
 **Arbitration Process:**
 
 1. **Case Review**
@@ -273,7 +282,9 @@ def quarterly_standards_review():
 - Precedent implications
 
 - Implementation guidance
+
 **Appeal Principles:**
+
 - Fair hearing guaranteed
 - Impartial review
 - Transparent process
@@ -290,11 +301,13 @@ def quarterly_standards_review():
 **Development Programs:**
 
 **Training Oversight:**
+
 - Curriculum design
 - Quality assurance
 - Instructor certification
 - Resource allocation
 - Effectiveness measurement
+
 **Career Progression:**
 ```
 Council Responsibilities:
@@ -311,7 +324,9 @@ Council Responsibilities:
     ├── Innovation recognition
     └── Service honors
 ```
+
 **Mentorship Coordination:**
+
 - Program structure
 - Matching system
 - Quality monitoring
@@ -330,6 +345,7 @@ Council Responsibilities:
 **Strategic Planning Areas:**
 
 **5-Year Vision Development:**
+
 1. **Anchor Role Evolution**
 
 - Expanded responsibilities
@@ -358,7 +374,9 @@ Council Responsibilities:
 - Geographic expansion
 
 - Culture strengthening
+
 **Annual Priorities:**
+
 - Key focus areas
 - Resource allocation
 - Success metrics
@@ -374,11 +392,13 @@ Council Responsibilities:
 **Innovation Initiatives:**
 
 **Current Focus Areas:**
+
 - AI-assisted validation
 - Automated quality checks
 - Predictive analytics
 - Cross-chain validation
 - Decentralized governance
+
 **Innovation Process:**
 
 1. **Ideation**
@@ -428,18 +448,21 @@ Council Responsibilities:
 - Process requirements
 - Quality metrics
 - Documentation
+
 **2. Education Committee**
 - Training programs
 - Resource development
 - Knowledge management
 - Best practices
 - Certification
+
 **3. Technology Committee**
 - Tool development
 - Platform integration
 - Automation opportunities
 - Security standards
 - Innovation adoption
+
 **4. Community Committee**
 - Culture initiatives
 - Diversity programs
@@ -457,18 +480,23 @@ Council Responsibilities:
 **Ad Hoc Groups:**
 
 **Formation Triggers:**
+
 - Crisis events
 - Major opportunities
 - Complex problems
 - Time-sensitive issues
 - Special projects
+
 **Task Force Structure:**
+
 - 3-5 members
 - Clear mandate
 - Time boundary
 - Resource allocation
 - Deliverable defined
+
 **Recent Examples:**
+
 - Security incident response
 - Regulatory adaptation
 - Platform migration
@@ -487,18 +515,23 @@ Council Responsibilities:
 **Prerequisites:**
 
 **Performance Excellence:**
+
 - 95%+ validation accuracy
 - <5% dispute rate
 - High founder satisfaction
 - Peer recognition
 - Innovation contribution
+
 **Experience Requirements:**
+
 - 18+ months as Anchor
 - 50+ validations completed
 - Multiple phases mastered
 - Mentorship provided
 - Community leadership
+
 **Skill Demonstration:**
+
 - Strategic thinking
 - Communication excellence
 - Conflict resolution
@@ -515,26 +548,35 @@ Council Responsibilities:
 **Campaign Timeline:**
 
 **6 Weeks Before Election:**
+
 - Declare candidacy
 - Prepare platform
 - Build support
 - Schedule appearances
+
 **4 Weeks Before:**
+
 - Submit statements
 - Participate in forums
 - Answer questions
 - Share vision
+
 **2 Weeks Before:**
+
 - Final push
 - Endorsements
 - Clarifications
 - Get out vote
+
 **Election Week:**
+
 - Voting opens
 - Final appeals
 - Results announced
 - Transition planned
+
 **Campaign Best Practices:**
+
 - Clear platform
 - Specific commitments
 - Inclusive approach
@@ -558,18 +600,21 @@ Council Responsibilities:
 - Consult experts
 - Consider impacts
 - Come ready
+
 **2. Participation**
 - Attend all meetings
 - Engage actively
 - Listen openly
 - Contribute thoughtfully
 - Follow through
+
 **3. Leadership**
 - Model behavior
 - Build consensus
 - Drive progress
 - Support others
 - Stay humble
+
 **4. Communication**
 - Transparent updates
 - Clear explanations
@@ -592,12 +637,14 @@ Council Responsibilities:
 - Power plays
 - Hidden motives
 - Conflict creation
+
 **Poor Engagement**
 - Missing meetings
 - Unprepared participation
 - Minimal contribution
 - Broken commitments
 - Communication gaps
+
 **Governance Failures**
 - Rushed decisions
 - Ignored feedback
@@ -617,18 +664,23 @@ Council Responsibilities:
 **Success Metrics:**
 
 **Quantitative Measures:**
+
 - Decision implementation rate
 - Dispute resolution time
 - Standard adoption
 - Anchor satisfaction
 - Ecosystem growth
+
 **Qualitative Indicators:**
+
 - Culture strength
 - Innovation pace
 - Community trust
 - External reputation
 - Future readiness
+
 **Legacy Markers:**
+
 - Precedents set
 - Innovations launched
 - Anchors developed
@@ -645,18 +697,23 @@ Council Responsibilities:
 **Knowledge Transfer:**
 
 **Documentation:**
+
 - Decision rationales
 - Process improvements
 - Lessons learned
 - Relationship maps
 - Strategic plans
+
 **Mentorship:**
+
 - Shadow programs
 - Transition periods
 - Knowledge sharing
 - Skill transfer
 - Culture preservation
+
 **Succession Planning:**
+
 - Talent pipeline
 - Leadership development
 - Diversity focus
@@ -675,18 +732,23 @@ Council Responsibilities:
 **Available Resources:**
 
 **Administrative Support:**
+
 - Meeting coordination
 - Document management
 - Communication tools
 - Analytics dashboards
 - Legal counsel
+
 **Decision Support:**
+
 - Data analytics
 - Research assistance
 - Expert network
 - Modeling tools
 - Impact assessment
+
 **Community Tools:**
+
 - Feedback platforms
 - Voting systems
 - Communication channels

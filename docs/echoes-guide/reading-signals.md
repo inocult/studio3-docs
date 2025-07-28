@@ -279,6 +279,7 @@ Hour 19-24: ████████████████ (1600 signals)
 - **Afternoon (12-5 EST)** : Retail participation
 - **Evening (5-9 EST)** : Research time
 - **Night (9-12 EST)** : Global players
+
 **Weekly Patterns:** Monday**: Cautious start
 - **Tuesday-Thursday** : Peak activity
 - **Friday** : Position closing
@@ -437,6 +438,7 @@ SV = (Belief% [now] - Belief%[1h ago]) / hour
 ### 📖 DeFi Venture Reversal
 
 **Initial State:**
+
 - ** 90% doubt signals
 - Negative comments
 - Technical concerns

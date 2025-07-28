@@ -19,6 +19,7 @@ Understanding how rewards work is essential for Echo success. This comprehensive
 ### 🎯 How You Earn
 
 **Primary Sources:**
+
 - 
 1. **Signal Rewards**
 - Correct predictions
@@ -159,6 +160,7 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 - ** You signal opposite of 70%+ pool
 - Your position proves correct
 - Earn extra 0.5x-1.0x multiplier
+
 **Example:**  Scenario:
 - ** 90% belief signals on venture
 - You signal doubt with 1,000 $SIGNAL

@@ -3,6 +3,7 @@
 ## Finding Product-Market Fit
 
 <div class="arena-card" markdown="1">
+
 **Phase**: Drift 🌊  **Focus:** : Iteration and Discovery  Duration**: 3-6 months typical</div>
 
 ## Overview

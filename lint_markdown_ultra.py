@@ -246,6 +246,19 @@ class UltraMarkdownLinter:
             if re.search(r'\*\*[^*]+\*\*:\s*[-*]\s+', line):
                 errors.append((i + 1, "List after bold colon should start on new line", line))
             
+            # Bold header with colon needs blank line before list
+            if re.match(r'^\*\*[^*]+\*\*:\s*$', line):
+                # Check if next non-empty line is a list
+                next_line_idx = i + 1
+                while next_line_idx < len(lines) and not lines[next_line_idx].strip():
+                    next_line_idx += 1
+                if next_line_idx < len(lines):
+                    next_line = lines[next_line_idx].strip()
+                    if re.match(r'^[-*\d]\s+', next_line) or re.match(r'^\d+\.\s+', next_line):
+                        # Check if there's exactly one blank line
+                        if next_line_idx != i + 2:  # Should be exactly one blank line
+                            errors.append((i + 1, "Bold header with colon needs blank line before list", line))
+            
             # $STUDIO instead of $SIGNAL
             if '$STUDIO' in line:
                 errors.append((i + 1, "Use $SIGNAL instead of $STUDIO", line))

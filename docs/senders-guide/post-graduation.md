@@ -3,6 +3,7 @@
 ## Life After Studio3
 
 <div class="arena-card" markdown="1">
+
 **Status**: Alumni 🎓  **Focus:** : Independent Growth  Benefits**: Lifetime Access</div>
 
 ## Overview
@@ -89,7 +90,9 @@ Graduation from Studio3 marks the beginning of true sovereignty. Alumni ventures
 
 ### Growth Acceleration
 **Pre-Graduation**: 10% MoM growth  **Post-Graduation:** : 20-30% MoM growth  Key Factor**: Full autonomy and focus**### Team Scaling
+
 **Pre-Graduation**: 5-10 team members  **Year 1 Post:** : 25-50 team members  Year 2 Post**: 100+ team members**### Valuation Growth
+
 **Buyback Price**: $5-10M typical  **Year 1 Post:** : $25-50M  Year 2 Post**: $100M+**## Common Challenges
 
 ### 1. Operational Gaps

@@ -135,12 +135,15 @@ Echoes are participants who:
 
 ### Belief Signals
 **When to Believe:**
+
 - Strong team credentials
 - Clear execution plan
 - Realistic milestones
 - Market validation
 - Community support
+
 **Belief Rewards:**
+
 - 1.5x-3x multipliers on success
 - Higher multiples for early signals
 - Reputation boost
@@ -148,12 +151,15 @@ Echoes are participants who:
 
 ### Doubt Signals
 **When to Doubt:**
+
 - Unrealistic promises
 - Weak team background
 - Poor communication
 - Market misalignment
 - Red flags present
+
 **Doubt Rewards:**
+
 - 1.2x-2x multipliers on failure
 - Protect the ecosystem
 - Valuable feedback loop
@@ -201,12 +207,15 @@ Echoes are participants who:
 
 ### 🔍 Research Requirements
 **Always Investigate:**
+
 - Founder backgrounds
 - Technical feasibility
 - Market opportunity
 - Competition landscape
 - Execution capability
+
 **Red Flag Checklist:**
+
 - Anonymous teams
 - Copied whitepapers
 - Impossible timelines
@@ -217,6 +226,7 @@ Echoes are participants who:
 
 ### 2. Risk Management
 **Portfolio Principles:**
+
 - Never all-in on one signal
 - Diversify across phases
 - Balance belief and doubt
@@ -225,6 +235,7 @@ Echoes are participants who:
 
 ### 3. Community Participation
 **Engagement Activities:**
+
 - Share research findings
 - Ask clarifying questions
 - Support quality ventures
@@ -331,12 +342,15 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### ⚠️ Echo Errors
 **Fatal Mistakes:**
+
 - Signaling without research
 - Emotional decision making
 - Overexposure to one venture
 - Ignoring red flags
 - Chasing losses
+
 **Warning Signs:**
+
 - Declining accuracy
 - Shrinking bankroll
 - Stress reactions
@@ -353,11 +367,13 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 - Review signal performance
 - Scan new ventures
 - Read community insights
+
 **Midday (45 min)**
 - Deep dive on 2-3 ventures
 - Analyze milestone progress
 - Make signal decisions
 - Engage in discussions
+
 **Evening (15 min)**
 - Review daily performance
 - Update tracking sheets
@@ -372,16 +388,21 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### 🛠️ Your Arsenal
 **Analysis Tools:**
+
 - Signal calculator
 - Risk assessment matrix
 - Portfolio tracker
 - Performance analytics
+
 **Information Sources:**
+
 - Venture dashboards
 - Team profiles
 - Market data
 - Community forums
+
 **Decision Aids:**
+
 - Due diligence checklist
 - Red flag detector
 - Timing optimizer
@@ -393,12 +414,15 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### Community Connections
 **Key Relationships:**
+
 - Fellow Echoes for insights
 - Senders for direct info
 - Anchors for validation views
 - Mentors for guidance
 - Newcomers to teach
+
 **Networking Benefits:**
+
 - Early information
 - Collective analysis
 - Risk sharing
@@ -413,12 +437,15 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### 🌟 XP & Reputation
 **How to Build:**
+
 - Consistent accuracy
 - Quality contributions
 - Helpful behavior
 - Active participation
 - Ethical conduct
+
 **How to Lose:**
+
 - Poor performance
 - Toxic behavior
 - Misinformation
@@ -435,11 +462,13 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 - [ ] Join Echo channels
 - [ ] Set up tracking tools
 - [ ] Observe active signals
+
 **Day 3-4: Preparation**
 - [ ] Research 5 ventures
 - [ ] Practice analysis
 - [ ] Connect with Echoes
 - [ ] Plan first signal
+
 **Day 5-7: Action**
 - [ ] Make first small signal
 - [ ] Document reasoning
@@ -450,11 +479,14 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### Signal Timing
 **Early Signals:**
+
 - Higher risk
 - Better multipliers
 - Less information
 - Pioneer advantage
+
 **Late Signals:**
+
 - Lower risk
 - Smaller multipliers
 - More information
@@ -462,6 +494,7 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### Portfolio Strategy
 **Diversification Model:**
+
 - 40% early-phase ventures
 - 30% mid-phase stability
 - 20% contrarian plays

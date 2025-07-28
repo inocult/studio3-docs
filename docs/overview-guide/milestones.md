@@ -15,6 +15,7 @@ Milestones are the fundamental units of progress in Studio3. They represent spec
 A milestone is a public commitment to achieve a specific outcome by a defined deadline.
 
 **Key Components:**
+
 - **Specific Goal** : Clear, unambiguous objective
 - **Success Criteria** : Measurable completion requirements 
 - **Timeline** : Fixed deadline for achievement
@@ -184,6 +185,7 @@ flowchart TD
 
 - **Difficulty**: Technical or operational complexity
 - **Impact** : Importance to venture success
+
 **    -**Risk** : Probability of failure
 - **    -**Timeline** : Urgency and duration
 - **    -**Dependencies**: External factors**### Valuation Guidelines

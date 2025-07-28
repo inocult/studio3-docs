@@ -19,6 +19,7 @@ Identifying problems before they become crises is a critical Anchor skill. This 
 ### ⚠️ Defining Warning Signs
 
 **Red Flag Characteristics:**
+
 - ** Early indicators of problems
 - Patterns that predict failure
 - Behaviors that concern

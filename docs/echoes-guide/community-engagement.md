@@ -19,6 +19,7 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 ### 🌐 Community Structure
 
 **Key Community Spaces:**
+
 1. **Discord Server:**
 - Real
 - time discussions

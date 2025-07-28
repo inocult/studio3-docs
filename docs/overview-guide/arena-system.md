@@ -136,6 +136,7 @@ sequenceDiagram
 - 3x multiplier if correct
 
 - Lose entire stake if wrong
+
 **Doubt Signals** 👎
 - ** Stake tokens on milestone failure
 - Earn 1.2x 

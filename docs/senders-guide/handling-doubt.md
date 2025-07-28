@@ -19,6 +19,7 @@ Doubt signals are not failures - they're valuable feedback. The best founders le
 ### 🔍 The Anatomy of Skepticism
 
 **Common Doubt Triggers:**
+
 1. **Execution Concerns**
 
 - Missed deadlines

@@ -19,6 +19,7 @@ Understanding the mechanics behind signaling is crucial for maximizing returns a
 ### ✅ Positive Conviction Mechanics
 
 **Technical Specifications:**
+
 - **Minimum Stake:** 10 $SIGNAL
 -- **Maximum Stake:**  Lock Period:
 -- **Success Multiplier:**  Failure Result:
@@ -236,6 +237,7 @@ Sentiment = (Belief - Doubt) / Total Pool
 EV = (Success Probability × Reward Multiplier × Stake) - 
      (Failure Probability × Stake)
 ```
+
 **Example:**  Calculation:
 - ** Stake: 1,000 $SIGNAL
 - Success chance: 70%

@@ -26,7 +26,9 @@ The Anchor progression system recognizes and rewards excellence, providing clear
 |**Anchor** | 6-18 months | 50+ | 90%+ | Mentor juniors |
 |**Senior Anchor** | 18+ months | 150+ | 93%+ | Lead initiatives |
 |**Master Anchor** | 36+ months | 300+ | 95%+ | Council eligible |
+
 **Progression Benefits:**
+
 - Increased compensation
 - Greater influence
 - Advanced opportunities
@@ -60,11 +62,13 @@ Months 7-12: Approaching Anchor
 - Process mastery
 - Thought leadership
 ```
+
 **Year 2-3: Expertise Development**
 - Specialization depth
 - Complex validations
 - Innovation contributions
 - Community leadership
+
 **Year 3+: Mastery Achievement**
 - Strategic influence
 - Ecosystem shaping
@@ -111,6 +115,7 @@ Months 7-12: Approaching Anchor
 - Peer networking
 
 - Mentor engagement
+
 **Success Metrics:**
 ```python
 junior_targets = {
@@ -136,17 +141,21 @@ junior_targets = {
 - Complete all training
 - Practice on test cases
 - Build knowledge base
+
 **Month 3-4: Apply**
 - First solo validations
 - Receive feedback actively
 - Refine approach
 - Build confidence
+
 **Month 5-6: Excel**
 - Increase complexity
 - Improve efficiency
 - Contribute insights
 - Prepare for promotion
+
 **Key Activities:**
+
 - Weekly mentor meetings
 - Peer review participation
 - Community engagement
@@ -192,6 +201,7 @@ junior_targets = {
 - Facilitate sessions
 
 - Drive improvements
+
 **Performance Standards:**
 
 | Metric | Target |
@@ -274,7 +284,9 @@ Focus Areas:
 - Thought leadership
 
 - Brand ambassadorship
+
 **Influence Metrics:**
+
 - Council participation
 - Initiative leadership
 - Policy contributions
@@ -291,6 +303,7 @@ Focus Areas:
 **Growth Strategies:**
 
 **Year 2-3 Focus:**
+
 1. **Specialization Depth**
 - Become go-to expert
 
@@ -318,7 +331,9 @@ Focus Areas:
 - Article writing
 
 - Community building
+
 **Innovation Expectations:**
+
 - New frameworks
 - Tool development
 - Process improvements
@@ -336,18 +351,23 @@ Focus Areas:
 **Master Anchor Profile:**
 
 **Exceptional Performance:**
+
 - 95%+ success rate
 - <2% dispute rate
 - 300+ validations
 - Multiple specializations
 - Proven innovation
+
 **Leadership Excellence:**
+
 - Council member/eligible
 - Multiple initiatives led
 - Significant contributions
 - Mentor tree thriving
 - External recognition
+
 **Strategic Impact:**
+
 - Policy shaping
 - Ecosystem direction
 - Standard setting
@@ -392,7 +412,9 @@ Focus Areas:
 - Culture preservation
 
 - Future preparation
+
 **Master Privileges:**
+
 - Highest compensation
 - Council eligibility
 - Strategic input
@@ -458,24 +480,31 @@ Focus Areas:
 **Skill Building Framework:**
 
 **Technical Skills:**
+
 - New technologies
 - Industry trends
 - Advanced tools
 - Security practices
 - Performance optimization
+
 **Business Acumen:**
+
 - Market dynamics
 - Financial modeling
 - Strategic planning
 - Risk assessment
 - Growth strategies
+
 **Soft Skills:**
+
 - Communication mastery
 - Emotional intelligence
 - Leadership presence
 - Influence building
 - Cultural awareness
+
 **Learning Methods:**
+
 - Formal training
 - Peer learning
 - Self-study
@@ -515,7 +544,9 @@ Focus Areas:
 - Relationship building
 - Contribution plans
 ```
+
 **Quarterly Formal Review:**
+
 - Manager assessment
 - Peer feedback
 - Self-evaluation
@@ -554,7 +585,9 @@ Focus Areas:
 - Solution: Active outreach
 
 - Action: Event participation
+
 **Breakthrough Strategies:**
+
 - Seek stretch assignments
 - Request feedback actively
 - Find new mentors
@@ -578,7 +611,9 @@ Focus Areas:
 | Anchor | 1.5x | Up to 30% | Mentorship bonus |
 | Senior | 2.2x | Up to 40% | Leadership roles |
 | Master | 3.0x | Up to 50% | Strategic advisory |
+
 **Additional Income:**
+
 - Complex validation premiums
 - Mentorship compensation
 - Speaking engagements

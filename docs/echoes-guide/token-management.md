@@ -19,6 +19,7 @@ Effective token management separates successful Echoes from those who burn out q
 ### 🏦 Initial Setup
 
 **Recommended Starting Amounts:**
+
 - **Beginner:** 500-1,000 $SIGNAL
 -- **Intermediate:**  Advanced:
 **  Capital Allocation:
@@ -40,6 +41,7 @@ Effective token management separates successful Echoes from those who burn out q
 
 ### 📊 Risk Management Basic
 **Core Principle:Never risk more than 2% of your total bankroll on a single signal.
+
 **Example:** s:
 - ** 1,000 $SIGNAL bankroll = 20 $SIGNAL max per signal
 - 5,000 $SIGNAL bankroll = 100 $SIGNAL max per signal

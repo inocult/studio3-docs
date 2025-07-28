@@ -54,6 +54,7 @@ graph TB
 ### 📡 Echo → Venture → Echo Flow
 
 **The Signal Cycle:**
+
 1. **Echoes stake $SIGNAL**
 - ** on milestone outcomes
 2. **Stakes pool** in milestone smart contract**3. **Ventures execute** using pooled confidence**4. **Validation determines** success or failure**5. **Rewards distribute** to correct predictors**6. **Burns remove**  tokens from failed predictions

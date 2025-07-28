@@ -19,6 +19,7 @@ Congratulations on winning your Forge Duel! Now it's time to establish your Cont
 ### 📦 Your Venture's Governance Wrapper
 
 **Container DAO Fundamentals:**
+
 - ** Lightweight governance structure
 - Houses all three NFTs (Spark, Signal, Halo)
 - Enables community participation

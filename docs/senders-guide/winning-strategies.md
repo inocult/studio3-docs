@@ -21,6 +21,7 @@
 ### 🧠 Voter Motivations
 
 **Echoes Vote Based On:**
+
 1. **Return Potential**
  (40%) Milestone achievability
 

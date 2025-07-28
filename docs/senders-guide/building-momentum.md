@@ -43,6 +43,7 @@ Momentum is the difference between ventures that grind and ventures that soar. I
 ```
 
 **Momentum Characteristics:**
+
 - ** Self-reinforcing
 - Compounds over time
 - Attracts resources
@@ -216,6 +217,7 @@ const momentumDashboard = {
 - Community engagement
 - Pipeline velocity
 - Code commit frequency
+
 **Lagging Indicators**  (Confirm Past):
 - ** Monthly revenue
 - Customer count

@@ -19,6 +19,7 @@ Risk management separates professional Echoes from gamblers. This comprehensive 
 ### ⚠️ The Risk Landscape
 
 **Unique Signal Risks:**
+
 - 
 1. **Binary Outcomes**
 - 100% loss possible

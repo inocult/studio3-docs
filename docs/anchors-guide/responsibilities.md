@@ -19,6 +19,7 @@ Being an Anchor involves multiple interconnected responsibilities that require d
 ### ✅ The Validation Mandate
 
 **Core Validation Duties:**
+
 - ** Review all submitted evidence
 - Apply consistent standards
 - Make objective determinations

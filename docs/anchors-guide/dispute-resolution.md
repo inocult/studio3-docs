@@ -24,18 +24,21 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 - Standard application
 - Timeline disagreements
 - Quality assessments
+
 **Stakeholder Conflicts**
 - Founder vs Echo tensions
 - Team internal conflicts
 - Community disagreements
 - Platform policy disputes
 - Resource allocation
+
 **Technical Disputes**
 - Architecture decisions
 - Technology choices
 - Performance standards
 - Security requirements
 - Implementation approaches
+
 **Business Disputes**
 - Strategic direction
 - Market approach
@@ -56,13 +59,17 @@ Disagreement → Tension → Conflict → Dispute → Crisis
     ↓            ↓          ↓          ↓         ↓
   Discussion   Emotion   Positions   Formal    Damage
 ```
+
 **Common Triggers:**
+
 - Unmet expectations
 - Poor communication
 - Resource pressure
 - Power dynamics
 - Past grievances
+
 **Warning Signs:**
+
 - Communication breakdown
 - Emotional language
 - Public complaints
@@ -87,6 +94,7 @@ Disagreement → Tension → Conflict → Dispute → Crisis
 - **E** - Ensure implementation
 
 **Framework Application:**
+
 1. Early intervention critical
 2. Process transparency essential
 3. Fairness perception key
@@ -117,6 +125,7 @@ Timeline for resolution: [specific date]"
 - Check precedents
 - Consult if needed
 - Prepare approach
+
 **Hour 25-48: Engage**
 - Meet with parties
 - Listen actively
@@ -134,11 +143,13 @@ Timeline for resolution: [specific date]"
 
 ### ⚖️ When Founders Disagree
 **Common Challenge Reasons:**
+
 - Evidence interpretation
 - Standard application
 - Context consideration
 - Technical understanding
 - Timeline factors
+
 **Resolution Process:**
 
 **Step 1: Review Request**
@@ -158,6 +169,7 @@ Requested Outcome: [What they want]
 - Standards reconfirmed
 - Context reconsidered
 - Peer input sought
+
 **Step 3: Decision Communication**
 - Clear determination
 - Detailed reasoning
@@ -174,6 +186,7 @@ Requested Outcome: [What they want]
 **Evidence Interpretation Framework:**
 
 **When Evidence Conflicts:**
+
 1. **Weight Evidence**
 
 - Primary over secondary
@@ -203,7 +216,9 @@ Requested Outcome: [What they want]
 - Ecosystem benefit
 
 - Fair resolution
+
 **Documentation:**
+
 - All viewpoints captured
 - Reasoning transparent
 - Decision defensible
@@ -219,11 +234,13 @@ Requested Outcome: [What they want]
 
 ### 👥 When Leaders Clash
 **Common Co-Founder Issues:**
+
 - Vision misalignment
 - Role confusion
 - Equity disputes
 - Performance gaps
 - Personal conflicts
+
 **Mediation Approach:**
 
 **1. Separate Meetings**
@@ -242,6 +259,7 @@ Individual Session Guide:
 - Focus on interests
 - Creative solutions
 - Agreement building
+
 **3. Documentation**
 - Clear agreements
 - Specific actions
@@ -259,11 +277,13 @@ Individual Session Guide:
 **Resolution Strategy:**
 
 **Assessment Phase:**
+
 - Grievance validity
 - Pattern identification
 - Cultural issues
 - Leadership gaps
 - System problems
+
 **Intervention Options:**
 
 1. **Coaching** - Leadership development
@@ -273,6 +293,7 @@ Individual Session Guide:
 5. **Last Resort** - Personnel changes
 
 **Success Factors:**
+
 - Confidentiality maintained
 - Fair process
 - Quick resolution
@@ -289,11 +310,13 @@ Individual Session Guide:
 
 ### 📡 Signal Stakeholder Issues
 **Common Conflicts:**
+
 - Progress disputes
 - Communication gaps
 - Expectation mismatches
 - Strategy disagreements
 - Trust breakdowns
+
 **Resolution Approach:**
 
 **1. Fact Finding**
@@ -302,6 +325,7 @@ Individual Session Guide:
 - Timeline reviewed
 - Communications checked
 - Context understood
+
 **2. Stakeholder Alignment**
 ```
 Alignment Workshop:
@@ -311,6 +335,7 @@ Alignment Workshop:
 4. Expectation reset
 5. Communication plan
 ```
+
 **3. Forward Path**
 - Specific commitments
 - Measurement criteria
@@ -328,17 +353,21 @@ Alignment Workshop:
 **Managing Public Disputes:**
 
 **Immediate Response:**
+
 - Acknowledge publicly
 - Move to private channel
 - Show fairness commitment
 - Provide timeline
 - Follow through
+
 **Resolution Principles:**
+
 - Transparency where possible
 - Privacy where needed
 - Community interest first
 - Fair process visible
 - Learning shared
+
 **Communication Strategy:**
 ```
 Public Statement Structure:
@@ -359,11 +388,13 @@ Public Statement Structure:
 
 ### 💻 Technical Decision Conflicts
 **Common Technical Disputes:**
+
 - Technology stack choices
 - Architecture patterns
 - Performance standards
 - Security requirements
 - Scalability approaches
+
 **Resolution Framework:**
 
 **1. Technical Review**
@@ -405,12 +436,14 @@ def resolve_technical_dispute():
 - Industry benchmarks
 - Phase appropriateness
 - Context factors
+
 **2. Fair Application**
 - Consistent interpretation
 - Reasonable adjustment
 - Document reasoning
 - Create precedent
 - Update standards
+
 **3. Future Prevention**
 - Standard refinement
 - Example creation
@@ -435,6 +468,7 @@ def resolve_technical_dispute():
 - Reflect understanding
 - Ask clarification
 - Show empathy
+
 **2. Reframing**
 ```
 Negative: "They never listen to me"
@@ -443,12 +477,14 @@ Reframe: "You feel unheard in discussions"
 Negative: "This is completely broken"
 Reframe: "The current state needs improvement"
 ```
+
 **3. Finding Common Ground**
 - Shared goals identification
 - Mutual interests
 - Common values
 - Agreed facts
 - Joint vision
+
 **4. Creative Solutions**
 - Brainstorm options
 - Combine ideas
@@ -466,17 +502,21 @@ Reframe: "The current state needs improvement"
 **De-escalation Techniques:**
 
 **Verbal Techniques:**
+
 - Calm tone
 - Slower pace
 - Lower volume
 - Neutral language
 - Empathy expressions
+
 **Process Techniques:**
+
 - Take breaks
 - Change environment
 - Separate parties
 - Time to cool
 - Written communication
+
 **Psychological Safety:**
 ```
 Creating Safe Space:

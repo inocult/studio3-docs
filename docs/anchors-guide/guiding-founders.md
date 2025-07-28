@@ -22,18 +22,22 @@ While validation is the formal responsibility, guiding founders to success is th
 - ** High energy and optimism
 - Unrealistic expectations
 - Need: Grounding without crushing dreams
+
 **Phase 2: Reality Check** (Late Forge/Ignition)
 - ** First obstacles hit
 - Doubt creeps in
 - Need: Encouragement and practical support
+
 **Phase 3: The Grind** (Drift)
 - ** Daily execution challenges
 - Motivation fluctuates
 - Need: Consistent support and accountability
+
 **Phase 4: Growth or Crisis** (Orbit)
 - ** Make or break moments
 - Pivot considerations
 - Need: Strategic guidance and tough love
+
 **Phase 5: Maturation** (Flare/Ascension)
 - ** Scaling challenges
 - Leadership evolution

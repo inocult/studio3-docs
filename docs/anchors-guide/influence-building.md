@@ -3,6 +3,7 @@
 ## Growing Your Anchor Authority
 
 <div class="arena-card" markdown="1">
+
 **Role**: Anchor ⚓  **Focus:** : Reputation & Impact  Reward**: Increased validation weight</div>
 
 ## Overview

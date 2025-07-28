@@ -11,6 +11,7 @@ Studio3's revolutionary design aligns the interests of all participants, creatin
 ### 🔗 Traditional vs Studio3 Model
 
 **Traditional Venture Ecosystem:**
+
 - ** VCs want huge returns, founders want control
 - Investors seek quick exits, builders need time
 - Advisors give minimal time for maximum equity

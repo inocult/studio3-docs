@@ -19,6 +19,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 ### 📊 The Reputation System
 
 **Components:**
+
 - 
 1. **XP Score**
 - Quantified experience points

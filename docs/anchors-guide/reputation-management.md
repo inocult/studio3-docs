@@ -19,6 +19,7 @@ As an Anchor, your reputation is your most valuable asset. It determines which v
 ### 🎯 What Builds Your Reputation
 
 **Core Reputation Factors:**
+
 1. **Performance Metrics**
 
 - Validation accuracy: 40%
@@ -165,6 +166,7 @@ Maturity Phase (18+ months)
 - Stronger word-of-mouth
 - Premium positioning
 - Career longevity
+
 **Specialization Options:**  Industry Vertical:
 - ** Fintech/DeFi
 - Healthcare/Biotech

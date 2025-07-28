@@ -3,6 +3,7 @@
 ## Preparing for Sovereignty
 
 <div class="arena-card" markdown="1">
+
 **Phase**: Ascension 🏆  **Focus:** : Exit Strategy  Duration**: 3-6 months typical</div>
 
 ## Overview

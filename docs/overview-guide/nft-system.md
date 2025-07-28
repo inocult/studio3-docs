@@ -93,7 +93,9 @@ graph TD
 ### The Beginning of Everything
 
 !!! info "Spark NFT Details"
+
     **Purpose:**  Creation:
+
 **    Utility:**  Trading:
 ### Creation Process
 
@@ -138,7 +140,9 @@ graph TD
 ### The Living Chronicle
 
 !!! info "Signal NFT Details"
+
    **Purpose:**  Creation:
+
 **    Utility:**  Updates:
 ### Dynamic Properties
 
@@ -198,7 +202,9 @@ graph TD
 ### The Ultimate Achievement
 
 !!! info "Halo NFT Details"
+
    **Purpose:**  Creation:
+
 **    Utility:**  Transfer:
 ### Sovereignty Rights
 

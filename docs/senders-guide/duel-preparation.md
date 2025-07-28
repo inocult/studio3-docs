@@ -19,6 +19,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 ### 🔍 Understanding the Opportunity
 
 **IP Analysis Checklist:**
+
 - ** [ ] Read all IP documentation
 - [ ] Understand each technology
 - [ ] Map potential synergies
@@ -473,6 +474,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 | Support | 20% | ___/20 |
 | Mental | 20% | ___/20 |
 |**Total** |**100%** |**___/100** |
+
 **80+ = Ready to compete**  60-79 = More prep needed
 - **<60 = Delay entry** ## Next Steps
 

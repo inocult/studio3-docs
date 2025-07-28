@@ -11,10 +11,12 @@ Studio3's rewards and penalties system creates powerful incentives for quality e
 ### ⚖️ Rewards vs Penalties
 
 **Core Philosophy:**
+
 - **🏆 **Rewards** incentivize positive behavior 🔥**Penalties**  discourage negative behavior
 * ⚖️ **Balance** creates sustainable ecosystem
 
 * 🎯 **Fairness** ensures long-term participation
+
 **Key Principles:**  1. Rewards proportional to risk taken
 - **2. Penalties severe enough to deter gaming**3. Transparent calculation methods
 4. Immediate settlement when possible
@@ -177,6 +179,7 @@ graph TD
 - Biased judgments: Council review
 - Negligent approval: Fee clawback
 - Repeated issues: Anchor status loss
+
 **Penalty Progression:**
 
 1. ** Warning
@@ -319,6 +322,7 @@ sequenceDiagram
 - Converting to fiat
 - Staking rewards
 - Governance distributions
+
 **Record Keeping:**  For tax purposes, maintain records of:
 - ** Date and time of transaction
 - Type of reward received

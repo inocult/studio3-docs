@@ -19,6 +19,7 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 ### 💰 Doubt Reward Structure
 
 **Doubt Returns:**
+
 - ** Base multiplier: 1.2x
 - 1.5x
 - Contrarian bonus: Up to +0.5x

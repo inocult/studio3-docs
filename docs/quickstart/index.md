@@ -12,8 +12,11 @@
 This quickstart guide gives you the essential overview of Studio3 in just a few pages:
 
 **What Studio3 is** —**and why it's revolutionary**  
+
 **How the platform works** —**in simple terms**  
+
 **Key benefits** —**for all participants**  
+
 **How to get started** —**today**
 
 <div class="arena-card" markdown="1">

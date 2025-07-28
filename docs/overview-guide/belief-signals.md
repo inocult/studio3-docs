@@ -267,10 +267,12 @@ graph LR
 - ** "I believe IF [condition] is met"
 - Automated trigger mechanisms
 - Complex strategy options
+
 **Signal Combinations** 🧮
 - ** Bundle multiple milestones
 - Create signal portfolios
 - Share strategies with others
+
 **Signal Insurance** 🛡️
 - ** Partial loss protection
 - Paid from insurance pools

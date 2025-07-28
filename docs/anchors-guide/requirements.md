@@ -266,6 +266,7 @@ Peak Periods: 25-30 hours
 | Communication | 20% | 85/100 |
 | Character | 15% | 90/100 |
 | Commitment | 10% | 85/100 |
+
 **Total Required: 82/100**  Assessment Methods:
 - ** Portfolio review
 - Technical tests

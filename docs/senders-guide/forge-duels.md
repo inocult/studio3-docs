@@ -15,6 +15,7 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 ### Competition Mechanics
 
 **The Forge Process:**
+
 1. **Entry Requirements**
  Own the Spark NFT
 

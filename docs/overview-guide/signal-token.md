@@ -11,6 +11,7 @@ The $SIGNAL token is the lifeblood of Studio3's ecosystem, transforming belief i
 ### 📡 $SIGNAL Essentials
 
 **Utility Token Properties:**
+
 - **Purpose** : Express belief or doubt in venture milestones
 - **Type** : Utility token for platform participation
 - **Supply** : Fixed maximum with deflationary mechanics
@@ -167,6 +168,7 @@ graph TD
 - **Scarcity Increase** : Remaining tokens become more valuable
 - **Holder Benefit** : All token holders benefit from reduced supply
 - **Deflationary Pressure** : Creates natural price support
+
 **Example:**: If 1% of supply burns, remaining tokens gain ~1% in scarcity value**## Token Velocity
 
 ### Circulation Dynamics
@@ -319,6 +321,7 @@ graph LR
 - **Staking Percentage** : 35%
 - **Velocity Ratio** : 0.12
 - **Monthly Burn Rate** : 2%
+
 **Health Score**: 8.5/10 - Healthy ecosystem**## Future Developments
 
 ### Roadmap Items

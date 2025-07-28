@@ -19,6 +19,7 @@ Building and managing a diversified signal portfolio is the key to long-term suc
 ### 🎓 Adapted Portfolio Theory
 
 **Core Concepts:**
+
 - 
 1. **Diversification**
 - Spread risk across ventures
@@ -59,6 +60,7 @@ Return
 ```
 
 **Optimal Portfolio:**
+
 - ** Maximum return per unit of risk
 - Diversified across factors
 - Matches risk tolerance

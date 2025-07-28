@@ -15,6 +15,7 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 ### What Makes a Spark
 
 **A Spark NFT Contains:**
+
 - ** Remixed IPs
 - 2-5 existing IP-NFTs combined
 - ** Synthesis Logic

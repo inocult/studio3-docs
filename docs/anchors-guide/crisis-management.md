@@ -19,11 +19,13 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 ### ⚡ Defining True Emergencies
 
 **Crisis Characteristics:**
+
 - Threatens venture survival
 - Requires immediate action
 - Normal processes insufficient
 - High uncertainty
 - Stakeholder panic potential
+
 **Crisis vs Challenge:**
 
 | Challenge | Crisis |
@@ -33,6 +35,7 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 | Time to decide | Immediate action |
 | Limited impact | Existential threat |
 | Internal focus | Public scrutiny |
+
 **Crisis Categories:**
 
 1. **Acute** - Sudden, severe
@@ -47,30 +50,39 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 ### 🎯 Common Crisis Scenarios
 
 **Technical Crises:**
+
 - Critical security breach
 - Complete system failure  
 - Data loss/corruption
 - Integration collapse
 - Performance meltdown
+
 **Financial Crises:**
+
 - Runway exhaustion
 - Investor withdrawal
 - Revenue collapse
 - Cost explosion
 - Fraud discovery
+
 **Team Crises:**
+
 - Founder conflict/departure
 - Mass resignation
 - Legal action
 - Ethical violations
 - Culture breakdown
+
 **Market Crises:**
+
 - Regulatory shutdown
 - Competitive decimation
 - Customer exodus
 - PR disaster
 - Platform delisting
+
 **Operational Crises:**
+
 - Supply chain failure
 - Quality catastrophe
 - Partnership collapse
@@ -95,18 +107,21 @@ Crisis Triage:
 □ Identify key stakeholders
 □ Establish command center
 ```
+
 **Hour 3-6: Stabilization**
 - Stop the bleeding
 - Prevent escalation
 - Secure critical assets
 - Initial communications
 - Rally core team
+
 **Hour 7-12: Planning**
 - Gather full information
 - Develop response options
 - Allocate resources
 - Create action plan
 - Prepare communications
+
 **Hour 13-24: Execution**
 - Implement immediate fixes
 - Communicate broadly
@@ -128,22 +143,27 @@ Crisis Triage:
 - External face
 - Resource allocation
 - Stakeholder management
+
 **Operations Lead**
 - Tactical execution
 - Team coordination
 - Progress tracking
 - Internal communication
+
 **Technical Lead** (If applicable)
 - ** Problem solving
 - Solution implementation
 - Risk assessment
 - Recovery planning
+
 **Communications Lead**
 - Message development
 - Stakeholder updates
 - Media management
 - Community relations
+
 **Anchor Role:**
+
 - Strategic advisor
 - Calm presence
 - Experience provider
@@ -217,22 +237,27 @@ def assess_financial_crisis():
 - Annual plan push
 - New revenue streams
 - Service offerings
+
 **2. Bridge Financing**
 - Existing investor top-up
 - Convertible notes
 - Revenue-based financing
 - Emergency credit
+
 **3. Asset Strategies**
 - IP licensing
 - Asset sales
 - Talent lending
 - Partnership deals
+
 **4. Last Resort**
 - Acquisition talks
 - Distress investment
 - Personal funds
 - Shutdown planning
+
 **Negotiation in Crisis:**
+
 - Be transparent
 - Show recovery plan
 - Offer upside
@@ -266,12 +291,14 @@ def assess_financial_crisis():
 - How did it happen?
 - What's at risk?
 - Legal obligations?
+
 **Hour 7-24: Respond**
 - Fix vulnerability
 - Notify authorities
 - Prepare user comms
 - Implement monitoring
 - Begin recovery
+
 **Day 2-7: Recover**
 - Full investigation
 - User notifications
@@ -289,10 +316,12 @@ def assess_financial_crisis():
 **Outage Response Framework:**
 
 **Severity Levels:**
+
 - **SEV1**: Complete outage
 - **SEV2**: Major degradation
 - **SEV3**: Partial impact
 - **SEV4**: Minor issues
+
 **Response Protocol:**
 
 1. **Declare Incident**
@@ -351,16 +380,19 @@ def assess_financial_crisis():
 - Avoidance behaviors
 - Team taking sides
 - Productivity impact
+
 **Stage 2: Open Conflict**
 - Public disagreements
 - Power struggles
 - Trust breakdown
 - Team morale crisis
+
 **Stage 3: Crisis Point**
 - Departure threats
 - Legal considerations
 - Investor involvement
 - Company paralysis
+
 **Intervention Strategy:**
 
 1. **Immediate Separation**
@@ -400,6 +432,7 @@ def assess_financial_crisis():
 **When Teams Leave:**
 
 **Immediate Response:**
+
 - Understand why
 - Identify critical roles
 - Assess knowledge loss

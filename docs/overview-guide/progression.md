@@ -308,6 +308,7 @@ def calculate_phase_health(venture):
 ### ⚡ Fast Track Qualification
 
 **Exceptional ventures may progress faster if:**
+
 - ** Exceed all metrics by 200%+
 - Unanimous Anchor approval
 - 90%+ community support
