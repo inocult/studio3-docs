@@ -2,11 +2,11 @@
 
 ## Leadership and Collective Wisdom
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏛️ The Pinnacle of Anchor Achievement
+<h3>🏛️ The Pinnacle of Anchor Achievement</h3>
 
-The Anchor Council represents the highest level of responsibility and influence within the Anchor community. This guide details the Council's role, operations, and your potential path to joining this distinguished body of ecosystem leaders.
+<p>The Anchor Council represents the highest level of responsibility and influence within the Anchor community. This guide details the Council's role, operations, and your potential path to joining this distinguished body of ecosystem leaders.</p>
 
 </div>
 
@@ -14,72 +14,94 @@ The Anchor Council represents the highest level of responsibility and influence 
 
 ### Council Purpose
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Why the Council Exists
+<h3>🎯 Why the Council Exists</h3>
 
-**Core Purposes:**
+<p>**Core Purposes:**</p>
 
-1. **Standards Governance**
-   - Define quality benchmarks
-   - Evolve validation frameworks
-   - Maintain consistency
-   - Drive excellence
-   - Adapt to growth
+<p>1. **Standards Governance**</p>
+<ul>
+<li>Define quality benchmarks</li>
+<li>Evolve validation frameworks</li>
+<li>Maintain consistency</li>
+<li>Drive excellence</li>
+<li>Adapt to growth</li>
 
-2. **Dispute Resolution**
-   - Final appeals authority
-   - Complex case arbitration
-   - Precedent setting
-   - Fairness assurance
-   - Conflict mediation
+</ul>
+<p>2. **Dispute Resolution**</p>
+<ul>
+<li>Final appeals authority</li>
+<li>Complex case arbitration</li>
+<li>Precedent setting</li>
+<li>Fairness assurance</li>
+<li>Conflict mediation</li>
 
-3. **Anchor Development**
-   - Career progression design
-   - Training program oversight
-   - Mentorship coordination
-   - Performance standards
-   - Recognition systems
+</ul>
+<p>3. **Anchor Development**</p>
+<ul>
+<li>Career progression design</li>
+<li>Training program oversight</li>
+<li>Mentorship coordination</li>
+<li>Performance standards</li>
+<li>Recognition systems</li>
 
-4. **Ecosystem Leadership**
-   - Strategic input
-   - Policy recommendations
-   - Innovation fostering
-   - Culture shaping
-   - Future planning
+</ul>
+<p>4. **Ecosystem Leadership**</p>
+<ul>
+<li>Strategic input</li>
+<li>Policy recommendations</li>
+<li>Innovation fostering</li>
+<li>Culture shaping</li>
+<li>Future planning</li>
 
+</ul>
 </div>
 
 ### Council Composition
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Who Serves on the Council
+<h3>👥 Who Serves on the Council</h3>
 
-**Council Structure:**
+<p>**Council Structure:**</p>
 
-- **Size:** 9-15 members
-- **Composition:** Balanced expertise
-- **Terms:** 2-year rotating
-- **Leadership:** Elected chair
-- **Diversity:** Geographic/skill mix
+<ul>
+<li>**Size:** 9-15 members</li>
+<li>**Composition:**</li>
 
-**Member Requirements:**
+</ul>
+<p>**Balanced expertise**</p>
+<ul>
+<li>**Terms:** 2-year rotating</li>
+<li>**Leadership:**</li>
 
-- Master or Senior Anchor status
-- 18+ months active anchoring
-- 95%+ performance rating
-- No major disputes
-- Community endorsement
+</ul>
+<p>**Elected chair**</p>
+<ul>
+<li>**Diversity:**</li>
 
-**Selection Process:**
+</ul>
+<p>**Geographic/skill mix**</p>
 
-1. Nomination period (self or peer)
-2. Qualification verification
-3. Candidate statements
-4. Community Q&A
-5. Anchor vote
-6. Results certification
+<p>**Member Requirements:**</p>
+
+<ul>
+<li>Master or Senior Anchor status</li>
+<li>18+ months active anchoring</li>
+<li>95%+ performance rating</li>
+<li>No major disputes</li>
+<li>Community endorsement</li>
+
+</ul>
+<p>**Selection Process:**</p>
+
+<p>1. Nomination period (self or peer)</p>
+<p>2. Qualification verification</p>
+<p>3. Candidate statements</p>
+<p>4. Community Q&A</p>
+<p>5. Anchor vote</p>
+<p>6. Results certification</p>
 
 </div>
 
@@ -87,640 +109,744 @@ The Anchor Council represents the highest level of responsibility and influence 
 
 ### Meeting Structure
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 How the Council Functions
+<h3>📅 How the Council Functions</h3>
 
-**Regular Meetings:**
+<p>**Regular Meetings:**</p>
 
-**Weekly Operational (2 hours)**
-
-```
-Agenda Structure:
-1. Opening & Quorum (5 min)
-2. Previous Actions Review (10 min)
-3. Urgent Issues (30 min)
-4. Standard Reviews (30 min)
-5. New Business (30 min)
-6. Community Feedback (10 min)
-7. Action Items & Close (5 min)
-```
-
-**Monthly Strategic (4 hours)**
+<p>**Weekly Operational (2 hours)**</p>
 
 ```
-Deep Dive Topics:
-- Policy development
-- Long-term planning
-- Ecosystem health
-- Innovation initiatives
-- External partnerships
+<p>Agenda Structure:</p>
+<p>1. Opening & Quorum (5 min)</p>
+<p>2. Previous Actions Review (10 min)</p>
+<p>3. Urgent Issues (30 min)</p>
+<p>4. Standard Reviews (30 min)</p>
+<p>5. New Business (30 min)</p>
+<p>6. Community Feedback (10 min)</p>
+<p>7. Action Items & Close (5 min)</p>
 ```
 
-**Quarterly Town Hall (2 hours)**
+<p>**Monthly Strategic (4 hours)**</p>
 
-- Open to all Anchors
-- Transparency report
-- Q&A session
-- Feedback gathering
-- Vision sharing
+```
+<p>Deep Dive Topics:</p>
+<ul>
+<li>Policy development</li>
+<li>Long-term planning</li>
+<li>Ecosystem health</li>
+<li>Innovation initiatives</li>
+<li>External partnerships</li>
+```
 
+</ul>
+<p>**Quarterly Town Hall (2 hours)**</p>
+
+<ul>
+<li>Open to all Anchors</li>
+<li>Transparency report</li>
+<li>Q&A session</li>
+<li>Feedback gathering</li>
+<li>Vision sharing</li>
+
+</ul>
 </div>
 
 ### Decision Making
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Council Governance Process
+<h3>⚖️ Council Governance Process</h3>
 
-**Decision Framework:**
+<p>**Decision Framework:**</p>
 
-**Voting Requirements:**
+<p>**Voting Requirements:**</p>
 
-| Decision Type | Quorum | Threshold |
-|--------------|--------|-----------|
-| Operational | 60% | Simple majority |
-| Policy Change | 75% | 2/3 majority |
-| Standards Update | 75% | 2/3 majority |
-| Emergency Action | 50% | Simple majority |
-| Constitutional | 90% | 3/4 majority |
+<p>| Decision Type | Quorum | Threshold |</p>
+<p>|--------------|--------|-----------|</p>
+<p>| Operational | 60% | Simple majority |</p>
+<p>| Policy Change | 75% | 2/3 majority |</p>
+<p>| Standards Update | 75% | 2/3 majority |</p>
+<p>| Emergency Action | 50% | Simple majority |</p>
+<p>| Constitutional | 90% | 3/4 majority |</p>
 
-**Decision Process:**
+<p>**Decision Process:**</p>
 
-1. **Proposal Introduction**
-   - Clear problem statement
-   - Proposed solution
-   - Impact analysis
-   - Implementation plan
+<p>1. **Proposal Introduction**</p>
+<ul>
+<li>Clear problem statement</li>
+<li>Proposed solution</li>
+<li>Impact analysis</li>
+<li>Implementation plan</li>
 
-2. **Discussion Period**
-   - Member input
-   - Expert consultation
-   - Community feedback
-   - Refinement
+</ul>
+<p>2. **Discussion Period**</p>
+<ul>
+<li>Member input</li>
+<li>Expert consultation</li>
+<li>Community feedback</li>
+<li>Refinement</li>
 
-3. **Voting**
-   - Formal motion
-   - Recorded vote
-   - Rationale documented
-   - Results published
+</ul>
+<p>3. **Voting**</p>
+<ul>
+<li>Formal motion</li>
+<li>Recorded vote</li>
+<li>Rationale documented</li>
+<li>Results published</li>
 
+</ul>
 </div>
 
 ## Key Responsibilities
 
 ### Standards Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📏 Maintaining Excellence
+<h3>📏 Maintaining Excellence</h3>
 
-**Standards Oversight:**
+<p>**Standards Oversight:**</p>
 
-**Regular Review Cycle:**
+<p>**Regular Review Cycle:**</p>
 
 ```python
-def quarterly_standards_review():
-    # Collect performance data
-    validation_metrics = gather_validation_data()
-    dispute_rates = analyze_dispute_patterns()
-    quality_scores = assess_quality_outcomes()
-    
-    # Identify issues
-    problem_areas = identify_problem_patterns()
-    edge_cases = document_edge_cases()
-    
-    # Propose adjustments
-    recommendations = develop_recommendations()
-    
-    # Stakeholder input
-    community_feedback = gather_feedback()
-    
-    # Finalize changes
-    updated_standards = approve_changes()
-    
-    return implementation_plan
+<p>def quarterly_standards_review():</p>
+<h1>Collect performance data</h1>
+<p>validation_metrics = gather_validation_data()</p>
+<p>dispute_rates = analyze_dispute_patterns()</p>
+<p>quality_scores = assess_quality_outcomes()</p>
+
+<h1>Identify issues</h1>
+<p>problem_areas = identify_problem_patterns()</p>
+<p>edge_cases = document_edge_cases()</p>
+
+<h1>Propose adjustments</h1>
+<p>recommendations = develop_recommendations()</p>
+
+<h1>Stakeholder input</h1>
+<p>community_feedback = gather_feedback()</p>
+
+<h1>Finalize changes</h1>
+<p>updated_standards = approve_changes()</p>
+
+<p>return implementation_plan</p>
 ```
 
-**Standards Evolution:**
+<p>**Standards Evolution:**</p>
 
-- Market-driven updates
-- Technology adaptations
-- Phase refinements
-- Quality improvements
-- Clarity enhancements
+<ul>
+<li>Market-driven updates</li>
+<li>Technology adaptations</li>
+<li>Phase refinements</li>
+<li>Quality improvements</li>
+<li>Clarity enhancements</li>
 
+</ul>
 </div>
 
 ### Dispute Arbitration
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Final Appeals Authority
+<h3>⚖️ Final Appeals Authority</h3>
 
-**Dispute Handling Process:**
+<p>**Dispute Handling Process:**</p>
 
-**Case Acceptance Criteria:**
+<p>**Case Acceptance Criteria:**</p>
 
-- Significant precedent value
-- Systemic issues raised
-- Standard interpretation needed
-- High stakes involved
-- Previous resolution failed
+<ul>
+<li>Significant precedent value</li>
+<li>Systemic issues raised</li>
+<li>Standard interpretation needed</li>
+<li>High stakes involved</li>
+<li>Previous resolution failed</li>
 
-**Arbitration Process:**
+</ul>
+<p>**Arbitration Process:**</p>
 
-1. **Case Review**
-   - Full documentation
-   - Party statements
-   - Evidence examination
-   - Context understanding
+<p>1. **Case Review**</p>
+<ul>
+<li>Full documentation</li>
+<li>Party statements</li>
+<li>Evidence examination</li>
+<li>Context understanding</li>
 
-2. **Hearing (if needed)**
-   - Structured presentation
-   - Question period
-   - Deliberation
-   - Decision
+</ul>
+<p>2. **Hearing (if needed)**</p>
+<ul>
+<li>Structured presentation</li>
+<li>Question period</li>
+<li>Deliberation</li>
+<li>Decision</li>
 
-3. **Ruling**
-   - Clear decision
-   - Detailed rationale
-   - Precedent implications
-   - Implementation guidance
+</ul>
+<p>3. **Ruling**</p>
+<ul>
+<li>Clear decision</li>
+<li>Detailed rationale</li>
+<li>Precedent implications</li>
+<li>Implementation guidance</li>
 
-**Appeal Principles:**
+</ul>
+<p>**Appeal Principles:**</p>
 
-- Fair hearing guaranteed
-- Impartial review
-- Transparent process
-- Binding decisions
-- Learning extracted
+<ul>
+<li>Fair hearing guaranteed</li>
+<li>Impartial review</li>
+<li>Transparent process</li>
+<li>Binding decisions</li>
+<li>Learning extracted</li>
 
+</ul>
 </div>
 
 ### Anchor Development
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌱 Nurturing Excellence
+<h3>🌱 Nurturing Excellence</h3>
 
-**Development Programs:**
+<p>**Development Programs:**</p>
 
-**Training Oversight:**
+<p>**Training Oversight:**</p>
 
-- Curriculum design
-- Quality assurance
-- Instructor certification
-- Resource allocation
-- Effectiveness measurement
+<ul>
+<li>Curriculum design</li>
+<li>Quality assurance</li>
+<li>Instructor certification</li>
+<li>Resource allocation</li>
+<li>Effectiveness measurement</li>
 
-**Career Progression:**
+</ul>
+<p>**Career Progression:**</p>
 
 ```
-Council Responsibilities:
-├── Define Level Criteria
-│   ├── Skill requirements
-│   ├── Experience thresholds
-│   └── Performance standards
-├── Review Promotions
-│   ├── Application assessment
-│   ├── Achievement verification
-│   └── Decision ratification
-└── Recognition Programs
-    ├── Excellence awards
-    ├── Innovation recognition
-    └── Service honors
+<p>Council Responsibilities:</p>
+<p>├── Define Level Criteria</p>
+<p>│   ├── Skill requirements</p>
+<p>│   ├── Experience thresholds</p>
+<p>│   └── Performance standards</p>
+<p>├── Review Promotions</p>
+<p>│   ├── Application assessment</p>
+<p>│   ├── Achievement verification</p>
+<p>│   └── Decision ratification</p>
+<p>└── Recognition Programs</p>
+<p>├── Excellence awards</p>
+<p>├── Innovation recognition</p>
+<p>└── Service honors</p>
 ```
 
-**Mentorship Coordination:**
+<p>**Mentorship Coordination:**</p>
 
-- Program structure
-- Matching system
-- Quality monitoring
-- Resource provision
-- Success tracking
+<ul>
+<li>Program structure</li>
+<li>Matching system</li>
+<li>Quality monitoring</li>
+<li>Resource provision</li>
+<li>Success tracking</li>
 
+</ul>
 </div>
 
 ## Strategic Leadership
 
 ### Ecosystem Vision
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔮 Shaping the Future
+<h3>🔮 Shaping the Future</h3>
 
-**Strategic Planning Areas:**
+<p>**Strategic Planning Areas:**</p>
 
-**5-Year Vision Development:**
+<p>**5-Year Vision Development:**</p>
 
-1. **Anchor Role Evolution**
-   - Expanded responsibilities
-   - New specializations
-   - Technology integration
-   - Global scaling
+<p>1. **Anchor Role Evolution**</p>
+<ul>
+<li>Expanded responsibilities</li>
+<li>New specializations</li>
+<li>Technology integration</li>
+<li>Global scaling</li>
 
-2. **Quality Framework**
-   - Next-gen standards
-   - Automated validation
-   - Predictive quality
-   - Innovation metrics
+</ul>
+<p>2. **Quality Framework**</p>
+<ul>
+<li>Next-gen standards</li>
+<li>Automated validation</li>
+<li>Predictive quality</li>
+<li>Innovation metrics</li>
 
-3. **Community Growth**
-   - Anchor recruitment
-   - Diversity initiatives
-   - Geographic expansion
-   - Culture strengthening
+</ul>
+<p>3. **Community Growth**</p>
+<ul>
+<li>Anchor recruitment</li>
+<li>Diversity initiatives</li>
+<li>Geographic expansion</li>
+<li>Culture strengthening</li>
 
-**Annual Priorities:**
+</ul>
+<p>**Annual Priorities:**</p>
 
-- Key focus areas
-- Resource allocation
-- Success metrics
-- Implementation roadmap
+<ul>
+<li>Key focus areas</li>
+<li>Resource allocation</li>
+<li>Success metrics</li>
+<li>Implementation roadmap</li>
 
+</ul>
 </div>
 
 ### Innovation Leadership
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💡 Driving Progress
+<h3>💡 Driving Progress</h3>
 
-**Innovation Initiatives:**
+<p>**Innovation Initiatives:**</p>
 
-**Current Focus Areas:**
+<p>**Current Focus Areas:**</p>
 
-- AI-assisted validation
-- Automated quality checks
-- Predictive analytics
-- Cross-chain validation
-- Decentralized governance
+<ul>
+<li>AI-assisted validation</li>
+<li>Automated quality checks</li>
+<li>Predictive analytics</li>
+<li>Cross-chain validation</li>
+<li>Decentralized governance</li>
 
-**Innovation Process:**
+</ul>
+<p>**Innovation Process:**</p>
 
-1. **Ideation**
-   - Community input
-   - Trend analysis
-   - Problem identification
-   - Solution brainstorming
+<p>1. **Ideation**</p>
+<ul>
+<li>Community input</li>
+<li>Trend analysis</li>
+<li>Problem identification</li>
+<li>Solution brainstorming</li>
 
-2. **Experimentation**
-   - Pilot programs
-   - Controlled testing
-   - Data gathering
-   - Iteration
+</ul>
+<p>2. **Experimentation**</p>
+<ul>
+<li>Pilot programs</li>
+<li>Controlled testing</li>
+<li>Data gathering</li>
+<li>Iteration</li>
 
-3. **Implementation**
-   - Rollout planning
-   - Training development
-   - Tool creation
-   - Adoption tracking
+</ul>
+<p>3. **Implementation**</p>
+<ul>
+<li>Rollout planning</li>
+<li>Training development</li>
+<li>Tool creation</li>
+<li>Adoption tracking</li>
 
+</ul>
 </div>
 
 ## Council Committees
 
 ### Working Groups
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Specialized Teams
+<h3>👥 Specialized Teams</h3>
 
-**Standing Committees:**
+<p>**Standing Committees:**</p>
 
-**1. Standards Committee**
+<p>**1. Standards Committee**</p>
 
-- Technical standards
-- Business criteria
-- Process requirements
-- Quality metrics
-- Documentation
+<ul>
+<li>Technical standards</li>
+<li>Business criteria</li>
+<li>Process requirements</li>
+<li>Quality metrics</li>
+<li>Documentation</li>
 
-**2. Education Committee**
+</ul>
+<p>**2. Education Committee**</p>
 
-- Training programs
-- Resource development
-- Knowledge management
-- Best practices
-- Certification
+<ul>
+<li>Training programs</li>
+<li>Resource development</li>
+<li>Knowledge management</li>
+<li>Best practices</li>
+<li>Certification</li>
 
-**3. Technology Committee**
+</ul>
+<p>**3. Technology Committee**</p>
 
-- Tool development
-- Platform integration
-- Automation opportunities
-- Security standards
-- Innovation adoption
+<ul>
+<li>Tool development</li>
+<li>Platform integration</li>
+<li>Automation opportunities</li>
+<li>Security standards</li>
+<li>Innovation adoption</li>
 
-**4. Community Committee**
+</ul>
+<p>**4. Community Committee**</p>
 
-- Culture initiatives
-- Diversity programs
-- Recognition systems
-- Communication
-- Events
+<ul>
+<li>Culture initiatives</li>
+<li>Diversity programs</li>
+<li>Recognition systems</li>
+<li>Communication</li>
+<li>Events</li>
 
+</ul>
 </div>
 
 ### Task Forces
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Rapid Response Teams
+<h3>⚡ Rapid Response Teams</h3>
 
-**Ad Hoc Groups:**
+<p>**Ad Hoc Groups:**</p>
 
-**Formation Triggers:**
+<p>**Formation Triggers:**</p>
 
-- Crisis events
-- Major opportunities
-- Complex problems
-- Time-sensitive issues
-- Special projects
+<ul>
+<li>Crisis events</li>
+<li>Major opportunities</li>
+<li>Complex problems</li>
+<li>Time-sensitive issues</li>
+<li>Special projects</li>
 
-**Task Force Structure:**
+</ul>
+<p>**Task Force Structure:**</p>
 
-- 3-5 members
-- Clear mandate
-- Time boundary
-- Resource allocation
-- Deliverable defined
+<ul>
+<li>3-5 members</li>
+<li>Clear mandate</li>
+<li>Time boundary</li>
+<li>Resource allocation</li>
+<li>Deliverable defined</li>
 
-**Recent Examples:**
+</ul>
+<p>**Recent Examples:**</p>
 
-- Security incident response
-- Regulatory adaptation
-- Platform migration
-- Economic rebalancing
-- Global expansion
+<ul>
+<li>Security incident response</li>
+<li>Regulatory adaptation</li>
+<li>Platform migration</li>
+<li>Economic rebalancing</li>
+<li>Global expansion</li>
 
+</ul>
 </div>
 
 ## Joining the Council
 
 ### Qualification Path
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Your Journey to Council
+<h3>🎯 Your Journey to Council</h3>
 
-**Prerequisites:**
+<p>**Prerequisites:**</p>
 
-**Performance Excellence:**
+<p>**Performance Excellence:**</p>
 
-- 95%+ validation accuracy
-- <5% dispute rate
-- High founder satisfaction
-- Peer recognition
-- Innovation contribution
+<ul>
+<li>95%+ validation accuracy</li>
+<li><5% dispute rate</li>
+<li>High founder satisfaction</li>
+<li>Peer recognition</li>
+<li>Innovation contribution</li>
 
-**Experience Requirements:**
+</ul>
+<p>**Experience Requirements:**</p>
 
-- 18+ months as Anchor
-- 50+ validations completed
-- Multiple phases mastered
-- Mentorship provided
-- Community leadership
+<ul>
+<li>18+ months as Anchor</li>
+<li>50+ validations completed</li>
+<li>Multiple phases mastered</li>
+<li>Mentorship provided</li>
+<li>Community leadership</li>
 
-**Skill Demonstration:**
+</ul>
+<p>**Skill Demonstration:**</p>
 
-- Strategic thinking
-- Communication excellence
-- Conflict resolution
-- Technical competence
-- Cultural alignment
+<ul>
+<li>Strategic thinking</li>
+<li>Communication excellence</li>
+<li>Conflict resolution</li>
+<li>Technical competence</li>
+<li>Cultural alignment</li>
 
+</ul>
 </div>
 
 ### Campaign Process
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏃 Running for Council
+<h3>🏃 Running for Council</h3>
 
-**Campaign Timeline:**
+<p>**Campaign Timeline:**</p>
 
-**6 Weeks Before Election:**
+<p>**6 Weeks Before Election:**</p>
 
-- Declare candidacy
-- Prepare platform
-- Build support
-- Schedule appearances
+<ul>
+<li>Declare candidacy</li>
+<li>Prepare platform</li>
+<li>Build support</li>
+<li>Schedule appearances</li>
 
-**4 Weeks Before:**
+</ul>
+<p>**4 Weeks Before:**</p>
 
-- Submit statements
-- Participate in forums
-- Answer questions
-- Share vision
+<ul>
+<li>Submit statements</li>
+<li>Participate in forums</li>
+<li>Answer questions</li>
+<li>Share vision</li>
 
-**2 Weeks Before:**
+</ul>
+<p>**2 Weeks Before:**</p>
 
-- Final push
-- Endorsements
-- Clarifications
-- Get out vote
+<ul>
+<li>Final push</li>
+<li>Endorsements</li>
+<li>Clarifications</li>
+<li>Get out vote</li>
 
-**Election Week:**
+</ul>
+<p>**Election Week:**</p>
 
-- Voting opens
-- Final appeals
-- Results announced
-- Transition planned
+<ul>
+<li>Voting opens</li>
+<li>Final appeals</li>
+<li>Results announced</li>
+<li>Transition planned</li>
 
-**Campaign Best Practices:**
+</ul>
+<p>**Campaign Best Practices:**</p>
 
-- Clear platform
-- Specific commitments
-- Inclusive approach
-- Respectful tone
-- Service focus
+<ul>
+<li>Clear platform</li>
+<li>Specific commitments</li>
+<li>Inclusive approach</li>
+<li>Respectful tone</li>
+<li>Service focus</li>
 
+</ul>
 </div>
 
 ## Council Member Excellence
 
 ### Effective Service
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⭐ Being a Great Council Member
+<h3>⭐ Being a Great Council Member</h3>
 
-**Excellence Principles:**
+<p>**Excellence Principles:**</p>
 
-**1. Preparation**
+<p>**1. Preparation**</p>
 
-- Read all materials
-- Research issues
-- Consult experts
-- Consider impacts
-- Come ready
+<ul>
+<li>Read all materials</li>
+<li>Research issues</li>
+<li>Consult experts</li>
+<li>Consider impacts</li>
+<li>Come ready</li>
 
-**2. Participation**
+</ul>
+<p>**2. Participation**</p>
 
-- Attend all meetings
-- Engage actively
-- Listen openly
-- Contribute thoughtfully
-- Follow through
+<ul>
+<li>Attend all meetings</li>
+<li>Engage actively</li>
+<li>Listen openly</li>
+<li>Contribute thoughtfully</li>
+<li>Follow through</li>
 
-**3. Leadership**
+</ul>
+<p>**3. Leadership**</p>
 
-- Model behavior
-- Build consensus
-- Drive progress
-- Support others
-- Stay humble
+<ul>
+<li>Model behavior</li>
+<li>Build consensus</li>
+<li>Drive progress</li>
+<li>Support others</li>
+<li>Stay humble</li>
 
-**4. Communication**
+</ul>
+<p>**4. Communication**</p>
 
-- Transparent updates
-- Clear explanations
-- Regular availability
-- Responsive manner
-- Educational focus
+<ul>
+<li>Transparent updates</li>
+<li>Clear explanations</li>
+<li>Regular availability</li>
+<li>Responsive manner</li>
+<li>Educational focus</li>
 
+</ul>
 </div>
 
 ### Avoiding Pitfalls
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Common Council Mistakes
+<h3>⚠️ Common Council Mistakes</h3>
 
-**What to Avoid:**
+<p>**What to Avoid:**</p>
 
-**Personal Agenda**
+<p>**Personal Agenda**</p>
 
-- Self-interest
-- Favoritism
-- Power plays
-- Hidden motives
-- Conflict creation
+<ul>
+<li>Self-interest</li>
+<li>Favoritism</li>
+<li>Power plays</li>
+<li>Hidden motives</li>
+<li>Conflict creation</li>
 
-**Poor Engagement**
+</ul>
+<p>**Poor Engagement**</p>
 
-- Missing meetings
-- Unprepared participation
-- Minimal contribution
-- Broken commitments
-- Communication gaps
+<ul>
+<li>Missing meetings</li>
+<li>Unprepared participation</li>
+<li>Minimal contribution</li>
+<li>Broken commitments</li>
+<li>Communication gaps</li>
 
-**Governance Failures**
+</ul>
+<p>**Governance Failures**</p>
 
-- Rushed decisions
-- Ignored feedback
-- Opaque process
-- Precedent breaking
-- Trust erosion
+<ul>
+<li>Rushed decisions</li>
+<li>Ignored feedback</li>
+<li>Opaque process</li>
+<li>Precedent breaking</li>
+<li>Trust erosion</li>
 
+</ul>
 </div>
 
 ## Council Legacy
 
 ### Impact Measurement
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Council Effectiveness
+<h3>📊 Council Effectiveness</h3>
 
-**Success Metrics:**
+<p>**Success Metrics:**</p>
 
-**Quantitative Measures:**
+<p>**Quantitative Measures:**</p>
 
-- Decision implementation rate
-- Dispute resolution time
-- Standard adoption
-- Anchor satisfaction
-- Ecosystem growth
+<ul>
+<li>Decision implementation rate</li>
+<li>Dispute resolution time</li>
+<li>Standard adoption</li>
+<li>Anchor satisfaction</li>
+<li>Ecosystem growth</li>
 
-**Qualitative Indicators:**
+</ul>
+<p>**Qualitative Indicators:**</p>
 
-- Culture strength
-- Innovation pace
-- Community trust
-- External reputation
-- Future readiness
+<ul>
+<li>Culture strength</li>
+<li>Innovation pace</li>
+<li>Community trust</li>
+<li>External reputation</li>
+<li>Future readiness</li>
 
-**Legacy Markers:**
+</ul>
+<p>**Legacy Markers:**</p>
 
-- Precedents set
-- Innovations launched
-- Anchors developed
-- Problems solved
-- Vision realized
+<ul>
+<li>Precedents set</li>
+<li>Innovations launched</li>
+<li>Anchors developed</li>
+<li>Problems solved</li>
+<li>Vision realized</li>
 
+</ul>
 </div>
 
 ### Transition Planning
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Ensuring Continuity
+<h3>🔄 Ensuring Continuity</h3>
 
-**Knowledge Transfer:**
+<p>**Knowledge Transfer:**</p>
 
-**Documentation:**
+<p>**Documentation:**</p>
 
-- Decision rationales
-- Process improvements
-- Lessons learned
-- Relationship maps
-- Strategic plans
+<ul>
+<li>Decision rationales</li>
+<li>Process improvements</li>
+<li>Lessons learned</li>
+<li>Relationship maps</li>
+<li>Strategic plans</li>
 
-**Mentorship:**
+</ul>
+<p>**Mentorship:**</p>
 
-- Shadow programs
-- Transition periods
-- Knowledge sharing
-- Skill transfer
-- Culture preservation
+<ul>
+<li>Shadow programs</li>
+<li>Transition periods</li>
+<li>Knowledge sharing</li>
+<li>Skill transfer</li>
+<li>Culture preservation</li>
 
-**Succession Planning:**
+</ul>
+<p>**Succession Planning:**</p>
 
-- Talent pipeline
-- Leadership development
-- Diversity focus
-- Smooth handoffs
-- Institutional memory
+<ul>
+<li>Talent pipeline</li>
+<li>Leadership development</li>
+<li>Diversity focus</li>
+<li>Smooth handoffs</li>
+<li>Institutional memory</li>
 
+</ul>
 </div>
 
 ## Resources for Council
 
 ### Council Tools
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Supporting Infrastructure
+<h3>🛠️ Supporting Infrastructure</h3>
 
-**Available Resources:**
+<p>**Available Resources:**</p>
 
-**Administrative Support:**
+<p>**Administrative Support:**</p>
 
-- Meeting coordination
-- Document management
-- Communication tools
-- Analytics dashboards
-- Legal counsel
+<ul>
+<li>Meeting coordination</li>
+<li>Document management</li>
+<li>Communication tools</li>
+<li>Analytics dashboards</li>
+<li>Legal counsel</li>
 
-**Decision Support:**
+</ul>
+<p>**Decision Support:**</p>
 
-- Data analytics
-- Research assistance
-- Expert network
-- Modeling tools
-- Impact assessment
+<ul>
+<li>Data analytics</li>
+<li>Research assistance</li>
+<li>Expert network</li>
+<li>Modeling tools</li>
+<li>Impact assessment</li>
 
-**Community Tools:**
+</ul>
+<p>**Community Tools:**</p>
 
-- Feedback platforms
-- Voting systems
-- Communication channels
-- Documentation wikis
-- Archive access
+<ul>
+<li>Feedback platforms</li>
+<li>Voting systems</li>
+<li>Communication channels</li>
+<li>Documentation wikis</li>
+<li>Archive access</li>
 
+</ul>
 </div>
 
 ## Next Steps

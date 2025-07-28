@@ -2,11 +2,11 @@
 
 ## Accelerating Growth
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-**Phase**: Flare 🔥  
-**Focus**: Rapid Expansion  
-**Duration**: 12-24 months typical
+<p>**Phase**: Flare 🔥</p>
+<p>**Focus**: Rapid Expansion</p>
+<p>**Duration**: 12-24 months typical</p>
 
 </div>
 

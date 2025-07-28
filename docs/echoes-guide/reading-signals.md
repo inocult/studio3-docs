@@ -2,36 +2,46 @@
 
 ## Decoding Market Intelligence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 The Art of Signal Analysis
+<h3>📊 The Art of Signal Analysis</h3>
 
-- Understanding what other Echoes are signaling
-- and why
-- provides crucial intelligence for your own decisions. This guide teaches you to read between the lines, spot trends early, and leverage collective wisdom while avoiding herd mentality.
+<ul>
+<li>Understanding what other Echoes are signaling</li>
+<li>and why</li>
+<li>provides crucial intelligence for your own decisions. This guide teaches you to read between the lines, spot trends early, and leverage collective wisdom while avoiding herd mentality.</li>
 
+</ul>
 </div>
 
 ## Signal Basics
 
 ### Understanding Signal Data
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Core Signal Metrics
+<h3>📈 Core Signal Metrics</h3>
 
-**Primary Indicators:**
+<p>**Primary Indicators:**</p>
 
-Total Pool Size** - Overall interest level
-- **Belief/Doubt Ratio**  Signal Velocity
-- **Average Stake Size**  Echo Distribution
-**  Time-Based Metrics:
-- Signals per hour
-- Acceleration/deceleration
-- Peak activity times
-- Milestone countdown
-- Historical patterns
+<p>Total Pool Size</p>
 
+<ul>
+<li>Overall interest level</li>
+
+<li>**Belief/Doubt Ratio**  Signal Velocity</li>
+<li>**Average Stake Size**  Echo Distribution</li>
+
+</ul>
+<p>**  Time-Based Metrics:**</p>
+<ul>
+<li>Signals per hour</li>
+<li>Acceleration/deceleration</li>
+<li>Peak activity times</li>
+<li>Milestone countdown</li>
+<li>Historical patterns</li>
+
+</ul>
 </div>
 
 ### Signal Visualization
@@ -52,372 +62,448 @@ Example Signal Chart:
 
 ### Early Signal Analysis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌅 First 48 Hours
-** What Early Signals Tell You:
-1. **Fast Fill (0-24h)**
+<h3>🌅 First 48 Hours</h3>
 
-- High conviction venture
 
-- Strong founder reputation
+<p>What Early Signals Tell You:**</p>
+<p>1. **Fast Fill (0-24h)**</p>
 
-- Clear value proposition
+<ul>
+<li>High conviction venture</li>
 
-- FOMO risk present
+<li>Strong founder reputation</li>
 
-2. **Slow Start (24-48h)**
+<li>Clear value proposition</li>
 
-- Needs more validation
+<li>FOMO risk present</li>
 
-- Complex understanding
+</ul>
+<p>2. **Slow Start (24-48h)**</p>
 
-- Uncertain market
+<ul>
+<li>Needs more validation</li>
 
-- Potential opportunity
+<li>Complex understanding</li>
 
-3. **Doubt Heavy Start**
+<li>Uncertain market</li>
 
-- Red flags present
+<li>Potential opportunity</li>
 
-- Overvalued entry
+</ul>
+<p>3. **Doubt Heavy Start**</p>
 
-- Weak fundamentals
+<ul>
+<li>Red flags present</li>
 
-- Contrarian opportunity?
+<li>Overvalued entry</li>
 
+<li>Weak fundamentals</li>
+
+<li>Contrarian opportunity?</li>
+
+</ul>
 </div>
 
 ### Momentum Indicators
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Velocity Analysis
-** Acceleration Patterns:
+<h3>🚀 Velocity Analysis</h3>
+<p>** Acceleration Patterns:**</p>
 ```
-Hour 1-6:   ██ (200 signals)
-Hour 7-12:  ████ (400 signals)
-Hour 13-18: ████████ (800 signals)
-Hour 19-24: ████████████████ (1600 signals)
+<p>Hour 1-6:   ██ (200 signals)</p>
+<p>Hour 7-12:  ████ (400 signals)</p>
+<p>Hour 13-18: ████████ (800 signals)</p>
+<p>Hour 19-24: ████████████████ (1600 signals)</p>
 ```
-** What It Means:
-- ** Exponential = News/event driven
-- Linear = Organic growth
-- Declining = Cooling interest
-- Volatile = Uncertainty/debate
 
+
+
+<p>What It Means:**</p>
+<ul>
+<li>**Exponential = News/event driven**</li>
+<li>Linear = Organic growth</li>
+<li>Declining = Cooling interest</li>
+<li>Volatile = Uncertainty/debate</li>
+
+</ul>
 </div>
 
 ## Echo Analysis
 
 ### Who's Signaling
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Signal Source Intelligence
-** Echo Categories:
-1. **Smart Money**
+<h3>🔍 Signal Source Intelligence</h3>
+<p>** Echo Categories:**</p>
+<p>1. **Smart Money**</p>
 
-- High XP Echoes (5000+)
+<ul>
+<li>High XP Echoes (5000+)</li>
 
-- Track record 70%+
+<li>Track record 70%+</li>
 
-- Large stakes
+<li>Large stakes</li>
 
-- Early movers
+<li>Early movers</li>
 
-2. **Specialists**
+</ul>
+<p>2. **Specialists**</p>
 
-- Sector experts
+<ul>
+<li>Sector experts</li>
 
-- Phase masters
+<li>Phase masters</li>
 
-- Technical analysts
+<li>Technical analysts</li>
 
-- Consistent performers
+<li>Consistent performers</li>
 
-3. **Retail Flow**
+</ul>
+<p>3. **Retail Flow**</p>
 
-- New Echoes
+<ul>
+<li>New Echoes</li>
 
-- Small stakes
+<li>Small stakes</li>
 
-- Trend followers
+<li>Trend followers</li>
 
-- Sentiment drivers
+<li>Sentiment drivers</li>
 
-4. **Contrarians**
+</ul>
+<p>4. **Contrarians**</p>
 
-- Against consensus
+<ul>
+<li>Against consensus</li>
 
-- Doubt specialists
+<li>Doubt specialists</li>
 
-- Risk takers
+<li>Risk takers</li>
 
-- Alpha seekers
+<li>Alpha seekers</li>
 
+</ul>
 </div>
 
 ### Following Smart Money
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💡 Tracking Top Echoes
-** Identification Methods:
-- ** Check Echo profiles
-- Note stake sizes
-- Track timing
-- Monitor patterns
-** Smart Money Indicators:
-- ** Early large stakes
-- Conviction positions
-- No hedging
-- Public analysis
-** Caution Points:
-- ** Not infallible
-- May have info edge
-- Different risk tolerance
-- Could be wrong
+<h3>💡 Tracking Top Echoes</h3>
+<p>** Identification Methods:**</p>
+<ul>
+<li>**Check Echo profiles**</li>
+<li>Note stake sizes</li>
+<li>Track timing</li>
+<li>Monitor patterns</li>
 
+</ul>
+<p>** Smart Money Indicators:**</p>
+<ul>
+<li>**Early large stakes**</li>
+<li>Conviction positions</li>
+<li>No hedging</li>
+<li>Public analysis</li>
+
+</ul>
+<p>** Caution Points:**</p>
+<ul>
+<li>**Not infallible**</li>
+<li>May have info edge</li>
+<li>Different risk tolerance</li>
+<li>Could be wrong</li>
+
+</ul>
 </div>
 
 ## Sentiment Analysis
 
 ### Reading the Room
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎭 Market Psychology
-** Sentiment Indicators:
-**| Ratio | Sentiment | Implications |
-|-------|-----------|--------------|
-| 90%+ Belief | Euphoric | Overvalued risk |
-| 70-90% Belief | Bullish | Strong confidence |
-| 50-70% Belief | Balanced | Healthy debate |
-| 30-50% Belief | Bearish | Doubt prevails |
-| <30% Belief | Pessimistic | Major concerns |
-** Contrarian Zones:
-- ** >85% one direction
-- Extreme sentiment
-- Herd behavior
-- Mean reversion likely
+<h3>🎭 Market Psychology</h3>
+<p>** Sentiment Indicators:**</p>
+<p>**| Ratio | Sentiment | Implications |**</p>
+<p>|-------|-----------|--------------|</p>
+<p>| 90%+ Belief | Euphoric | Overvalued risk |</p>
+<p>| 70-90% Belief | Bullish | Strong confidence |</p>
+<p>| 50-70% Belief | Balanced | Healthy debate |</p>
+<p>| 30-50% Belief | Bearish | Doubt prevails |</p>
+<p>| <30% Belief | Pessimistic | Major concerns |</p>
 
+<p>** Contrarian Zones:**</p>
+<ul>
+<li>**>85% one direction**</li>
+<li>Extreme sentiment</li>
+<li>Herd behavior</li>
+<li>Mean reversion likely</li>
+
+</ul>
 </div>
 
 ### Comment Analysis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💬 Qualitative Intelligence
-** What to Read:
-- ** Signal explanations
-- Concern highlights
-- Question patterns
-- Debate quality
-- Information gaps
-** Red Flag Comments:
-- ** "Team not responding"
-- "Changed milestones"
-- "Technical issues"
-- "Deadline concerns"
-- "Missing features"
-** Positive Signals:
-- ** "Ahead of schedule"
-- "Great communication"
-- "Demo impressive"
-- "Team delivering"
-- "Market validation"
+<h3>💬 Qualitative Intelligence</h3>
+<p>** What to Read:**</p>
+<ul>
+<li>**Signal explanations**</li>
+<li>Concern highlights</li>
+<li>Question patterns</li>
+<li>Debate quality</li>
+<li>Information gaps</li>
 
+</ul>
+<p>** Red Flag Comments:**</p>
+<ul>
+<li>**"Team not responding"**</li>
+<li>"Changed milestones"</li>
+<li>"Technical issues"</li>
+<li>"Deadline concerns"</li>
+<li>"Missing features"</li>
+
+</ul>
+<p>** Positive Signals:**</p>
+<ul>
+<li>**"Ahead of schedule"**</li>
+<li>"Great communication"</li>
+<li>"Demo impressive"</li>
+<li>"Team delivering"</li>
+<li>"Market validation"</li>
+
+</ul>
 </div>
 
 ## Advanced Pattern Recognition
 
 ### Signal Clustering
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌐 Group Behavior Analysis
-** Cluster Types:
-1. **Coordinated Signals**
+<h3>🌐 Group Behavior Analysis</h3>
+<p>** Cluster Types:**</p>
+<p>1. **Coordinated Signals**</p>
 
-- Same timestamp
+<ul>
+<li>Same timestamp</li>
 
-- Similar amounts
+<li>Similar amounts</li>
 
-- Group behavior
+<li>Group behavior</li>
 
-- Potential manipulation
+<li>Potential manipulation</li>
 
-2. **Cascade Effects**
+</ul>
+<p>2. **Cascade Effects**</p>
 
-- Triggered by event
+<ul>
+<li>Triggered by event</li>
 
-- Rapid succession
+<li>Rapid succession</li>
 
-- Momentum building
+<li>Momentum building</li>
 
-- FOMO driven
+<li>FOMO driven</li>
 
-3. **Divergence Points**
+</ul>
+<p>3. **Divergence Points**</p>
 
-- Sentiment shifts
+<ul>
+<li>Sentiment shifts</li>
 
-- New information
+<li>New information</li>
 
-- Doubt emergence
+<li>Doubt emergence</li>
 
-- Volatility increase
+<li>Volatility increase</li>
 
+</ul>
 </div>
 
 ### Time-Based Patterns
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ Temporal Analysis
-**Daily Patterns:** Morning (9-12 EST)**: Institutional activity
-- **Afternoon (12-5 EST)** : Retail participation
-- **Evening (5-9 EST)** : Research time
-- **Night (9-12 EST)** : Global players
+<h3>⏰ Temporal Analysis</h3>
+<p>**Daily Patterns:** Morning (9-12 EST)**: Institutional activity</p>
+<ul>
+<li>**Afternoon (12-5 EST)** : Retail participation</li>
+<li>**Evening (5-9 EST)** : Research time</li>
+<li>**Night (9-12 EST)** : Global players</li>
 
-**Weekly Patterns:** Monday**: Cautious start
-- **Tuesday-Thursday** : Peak activity
-- **Friday** : Position closing
-- **Weekend** : Research/planning
-**</div>
+</ul>
+<p>**Weekly Patterns:** Monday**: Cautious start</p>
+<ul>
+<li>**Tuesday-Thursday** : Peak activity</li>
+<li>**Friday** : Position closing</li>
+<li>**Weekend** : Research/planning</li>
+
+</ul>
+</div>
 
 ## Signal Arbitrage
 
 ### Finding Inefficiencies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💎 Hidden Opportunities
-** Arbitrage Types:
-1. **Information Arbitrage**
+<h3>💎 Hidden Opportunities</h3>
+<p>** Arbitrage Types:**</p>
+<p>1. **Information Arbitrage**</p>
 
-- You know something others don't
+<ul>
+<li>You know something others don't</li>
 
-- Deep research advantage
+<li>Deep research advantage</li>
 
-- Network intelligence
+<li>Network intelligence</li>
 
-- Technical understanding
+<li>Technical understanding</li>
 
-2. **Timing Arbitrage**
+</ul>
+<p>2. **Timing Arbitrage**</p>
 
-- Market overreaction
+<ul>
+<li>Market overreaction</li>
 
-- Sentiment extremes
+<li>Sentiment extremes</li>
 
-- Panic/euphoria
+<li>Panic/euphoria</li>
 
-- Mean reversion
+<li>Mean reversion</li>
 
-3. **Cross-Venture Arbitrage**
+</ul>
+<p>3. **Cross-Venture Arbitrage**</p>
 
-- Similar ventures
+<ul>
+<li>Similar ventures</li>
 
-- Different valuations
+<li>Different valuations</li>
 
-- Market inefficiency
+<li>Market inefficiency</li>
 
-- Relative value
+<li>Relative value</li>
 
+</ul>
 </div>
 
 ## Risk Indicators
 
 ### Warning Signals
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Danger Signs in Signals
-** High Risk Patterns:
-- ** Sudden doubt surge
-- Smart money exit
-- Velocity decline
-- Comment negativity
-- Whale dumping
-** Manipulation Signs:
-- ** Artificial pumping
-- Coordinated stakes
-- Fake accounts
-- Misleading info
-- Timing attacks
+<h3>⚠️ Danger Signs in Signals</h3>
+<p>** High Risk Patterns:**</p>
+<ul>
+<li>**Sudden doubt surge**</li>
+<li>Smart money exit</li>
+<li>Velocity decline</li>
+<li>Comment negativity</li>
+<li>Whale dumping</li>
 
+</ul>
+<p>** Manipulation Signs:**</p>
+<ul>
+<li>**Artificial pumping**</li>
+<li>Coordinated stakes</li>
+<li>Fake accounts</li>
+<li>Misleading info</li>
+<li>Timing attacks</li>
+
+</ul>
 </div>
 
 ## Using Signal Intelligence
 
 ### Decision Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Signal-Based Decisions
-** When to Follow Signals:
-- ** Smart money convergence
-- Specialist agreement
-- Organic growth
-- Positive momentum
-- Quality discussions
-** When to Fade Signals:
-- ** Extreme sentiment
-- Herd mentality
-- No analysis
-- Manipulation signs
-- Your edge differs
-** When to Wait:
-- ** Mixed signals
-- Low conviction
-- Insufficient data
-- High volatility
-- Better opportunities
+<h3>🎯 Signal-Based Decisions</h3>
+<p>** When to Follow Signals:**</p>
+<ul>
+<li>**Smart money convergence**</li>
+<li>Specialist agreement</li>
+<li>Organic growth</li>
+<li>Positive momentum</li>
+<li>Quality discussions</li>
 
+</ul>
+<p>** When to Fade Signals:**</p>
+<ul>
+<li>**Extreme sentiment**</li>
+<li>Herd mentality</li>
+<li>No analysis</li>
+<li>Manipulation signs</li>
+<li>Your edge differs</li>
+
+</ul>
+<p>** When to Wait:**</p>
+<ul>
+<li>**Mixed signals**</li>
+<li>Low conviction</li>
+<li>Insufficient data</li>
+<li>High volatility</li>
+<li>Better opportunities</li>
+
+</ul>
 </div>
 
 ## Tools and Techniques
 
 ### Analysis Tools
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Signal Analysis Toolkit
-** Essential Tools:
-1. **Signal Tracker**
-- Real
-- time monitoring
+<h3>🛠️ Signal Analysis Toolkit</h3>
+<p>** Essential Tools:**</p>
+<p>1. **Signal Tracker**</p>
+<ul>
+<li>Real</li>
+<li>time monitoring</li>
 
-- Historical charts
+<li>Historical charts</li>
 
-- Echo profiles
+<li>Echo profiles</li>
 
-- Stake analysis
+<li>Stake analysis</li>
 
-2. **Sentiment Dashboard**
+</ul>
+<p>2. **Sentiment Dashboard**</p>
 
-- Ratio tracking
+<ul>
+<li>Ratio tracking</li>
 
-- Velocity meters
+<li>Velocity meters</li>
 
-- Comment sentiment
+<li>Comment sentiment</li>
 
-- Trend analysis
+<li>Trend analysis</li>
 
-3. **Smart Money Tracker**
+</ul>
+<p>3. **Smart Money Tracker**</p>
 
-- Top Echo moves
+<ul>
+<li>Top Echo moves</li>
 
-- Large stakes
+<li>Large stakes</li>
 
-- Timing patterns
+<li>Timing patterns</li>
 
-- Success rates
+<li>Success rates</li>
 
+</ul>
 </div>
 
 ### Custom Indicators
-** Build Your Own:
+** Build Your Own:**
 ```javascript
 // Signal Momentum Indicator
 SMI = (Signals[now] - Signals[1h ago]) / Signals[1h ago] * 100
@@ -433,42 +519,54 @@ SV = (Belief% [now] - Belief%[1h ago]) / hour
 
 ### Case Study 1: The Reversal
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📖 DeFi Venture Reversal
+<h3>📖 DeFi Venture Reversal</h3>
 
-**Initial State:**
+<p>**Initial State:**</p>
 
-- ** 90% doubt signals
-- Negative comments
-- Technical concerns
-- Smart money absent
-** What Happened:
-- ** Founder addressed issues
-- Live demo released
-- Sentiment shifted
-- Smart money entered
-**Lesson:Extreme doubt can reverse quickly with new information.
+<ul>
+<li>**90% doubt signals**</li>
+<li>Negative comments</li>
+<li>Technical concerns</li>
+<li>Smart money absent</li>
+
+</ul>
+<p>** What Happened:**</p>
+<ul>
+<li>**Founder addressed issues**</li>
+<li>Live demo released</li>
+<li>Sentiment shifted</li>
+<li>Smart money entered</li>
+
+</ul>
+<p>**Lesson:** Extreme doubt can reverse quickly with new information.</p>
 
 </div>
 
 ### Case Study 2: The False Signal
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📖 Gaming Venture Pump
-** Initial State:
-- ** 95% belief signals
-- Coordinated stakes
-- Hype comments
-- No smart money
-** What Happened:
-- ** Milestone failed
-- Manipulation revealed
-- Mass losses
-- Investigation launched
-** Lesson:
-**Artificial pumping leaves traces in signal patterns.
+<h3>📖 Gaming Venture Pump</h3>
+<p>** Initial State:**</p>
+<ul>
+<li>**95% belief signals**</li>
+<li>Coordinated stakes</li>
+<li>Hype comments</li>
+<li>No smart money</li>
+
+</ul>
+<p>** What Happened:**</p>
+<ul>
+<li>**Milestone failed**</li>
+<li>Manipulation revealed</li>
+<li>Mass losses</li>
+<li>Investigation launched</li>
+
+</ul>
+<p>** Lesson:**</p>
+<p>**Artificial pumping leaves traces in signal patterns.**</p>
 
 </div>
 
@@ -476,65 +574,80 @@ SV = (Belief% [now] - Belief%[1h ago]) / hour
 
 ### Behavioral Patterns
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Echo Psychology
-** Common Biases:
-1. **Herd Following**
+<h3>🧠 Echo Psychology</h3>
+<p>** Common Biases:**</p>
+<p>1. **Herd Following**</p>
 
-- Safety in numbers
+<ul>
+<li>Safety in numbers</li>
 
-- FOMO driven
+<li>FOMO driven</li>
 
-- Analysis lacking
+<li>Analysis lacking</li>
 
-- Late entry
+<li>Late entry</li>
 
-2. **Confirmation Bias**
+</ul>
+<p>2. **Confirmation Bias**</p>
 
-- Seeking agreement
+<ul>
+<li>Seeking agreement</li>
 
-- Ignoring warnings
+<li>Ignoring warnings</li>
 
-- Echo chambers
+<li>Echo chambers</li>
 
-- Overconfidence
+<li>Overconfidence</li>
 
-3. **Recency Bias**
+</ul>
+<p>3. **Recency Bias**</p>
 
-- Last outcome focus
+<ul>
+<li>Last outcome focus</li>
 
-- Pattern assuming
+<li>Pattern assuming</li>
 
-- Streak following
+<li>Streak following</li>
 
-- Mean reversion ignored
+<li>Mean reversion ignored</li>
 
+</ul>
 </div>
 
 ## Advanced Strategies
 
 ### Multi-Layer Analysis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔬 Deep Signal Intelligence
-**Layer 1: Quantitative
-- ** Raw numbers
-- Ratios/metrics
-- Time series
-- Statistical analysis
-**Layer 2: Qualitative
-- ** Comment sentiment
-- Echo quality
-- Information flow
-- Community mood
-**Layer 3: Behavioral
-- ** Psychology patterns
-- Market cycles
-- Bias identification
-- Crowd dynamics
-**Integration:All three layers must align for high-conviction signals.
+<h3>🔬 Deep Signal Intelligence</h3>
+<p>**Layer 1: Quantitative**</p>
+<ul>
+<li>**Raw numbers**</li>
+<li>Ratios/metrics</li>
+<li>Time series</li>
+<li>Statistical analysis</li>
+
+</ul>
+<p>**Layer 2: Qualitative**</p>
+<ul>
+<li>**Comment sentiment**</li>
+<li>Echo quality</li>
+<li>Information flow</li>
+<li>Community mood</li>
+
+</ul>
+<p>**Layer 3: Behavioral**</p>
+<ul>
+<li>**Psychology patterns**</li>
+<li>Market cycles</li>
+<li>Bias identification</li>
+<li>Crowd dynamics</li>
+
+</ul>
+<p>**Integration:** All three layers must align for high-conviction signals.</p>
 
 </div>
 

@@ -2,11 +2,11 @@
 
 ## Becoming a Thought Leader in Studio3
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 From Echo to Authority
+<h3>🌟 From Echo to Authority</h3>
 
-Building influence in Studio3 transforms you from a participant to a leader. This guide reveals how to establish thought leadership, shape ecosystem direction, and create lasting impact while building a personal brand that opens doors throughout your career.
+<p>Building influence in Studio3 transforms you from a participant to a leader. This guide reveals how to establish thought leadership, shape ecosystem direction, and create lasting impact while building a personal brand that opens doors throughout your career.</p>
 
 </div>
 
@@ -14,674 +14,818 @@ Building influence in Studio3 transforms you from a participant to a leader. Thi
 
 ### What is Echo Influence?
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💡 The Influence Equation
+<h3>💡 The Influence Equation</h3>
 
-**Influence Components:**
+<p>**Influence Components:**</p>
 
 ```
-Influence = (Expertise × Visibility × Trust × Impact) ^ Time
+<p>Influence = (Expertise × Visibility × Trust × Impact) ^ Time</p>
 ```
-** Influence Indicators:
-- ** People seek your opinion
-- Ideas get implemented
-- Followers take action
-- Platform features you
-- Opportunities find you
-** Influence Benefits:
-- ** Better signal returns
-- Early information access
-- Partnership opportunities
-- Speaking invitations
-- Career advancement
 
+
+
+<p>Influence Indicators:**</p>
+<ul>
+<li>**People seek your opinion**</li>
+<li>Ideas get implemented</li>
+<li>Followers take action</li>
+<li>Platform features you</li>
+<li>Opportunities find you</li>
+
+</ul>
+<p>** Influence Benefits:**</p>
+<ul>
+<li>**Better signal returns**</li>
+<li>Early information access</li>
+<li>Partnership opportunities</li>
+<li>Speaking invitations</li>
+<li>Career advancement</li>
+
+</ul>
 </div>
 
 ### Influence vs Popularity
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 True Influence
-** Influence Characteristics:
-- ** Based on value creation
-- Sustained over time
-- Drives real change
-- Builds trust
-- Creates legacy
-** Popularity Pitfalls:
-- ** Surface-level engagement
-- Short-term focus
-- No lasting impact
-- Fragile foundation
-- Limited value
-**Focus on influence, popularity follows
-**</div>
+<h3>🎯 True Influence</h3>
+<p>** Influence Characteristics:**</p>
+<ul>
+<li>**Based on value creation**</li>
+<li>Sustained over time</li>
+<li>Drives real change</li>
+<li>Builds trust</li>
+<li>Creates legacy</li>
+
+</ul>
+<p>** Popularity Pitfalls:**</p>
+<ul>
+<li>**Surface-level engagement**</li>
+<li>Short-term focus</li>
+<li>No lasting impact</li>
+<li>Fragile foundation</li>
+<li>Limited value</li>
+
+</ul>
+<p>**Focus on influence, popularity follows**</p>
+</div>
 
 ## Building Your Brand
 
 ### Personal Brand Foundation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ Brand Architecture
-** Brand Elements:
-1. **Unique Value Proposition**
+<h3>🏗️ Brand Architecture</h3>
+<p>** Brand Elements:**</p>
+<p>1. **Unique Value Proposition**</p>
 
-- What makes you different?
+<ul>
+<li>What makes you different?</li>
 
-- What problems do you solve?
+<li>What problems do you solve?</li>
 
-- Why should people listen?
+<li>Why should people listen?</li>
 
-2. **Consistent Identity**
+</ul>
+<p>2. **Consistent Identity**</p>
 
-- Visual branding
+<ul>
+<li>Visual branding</li>
 
-- Writing style
+<li>Writing style</li>
 
-- Core messages
+<li>Core messages</li>
 
-- Platform presence
+<li>Platform presence</li>
 
-3. **Expertise Focus**
-- 1
-- 2 specializations
+</ul>
+<p>3. **Expertise Focus**</p>
+<ul>
+<li>1</li>
+<li>2 specializations</li>
 
-- Deep knowledge
+<li>Deep knowledge</li>
 
-- Proven results
+<li>Proven results</li>
 
-- Continuous learning
+<li>Continuous learning</li>
 
-4. **Authentic Voice**
+</ul>
+<p>4. **Authentic Voice**</p>
 
-- True personality
+<ul>
+<li>True personality</li>
 
-- Consistent tone
+<li>Consistent tone</li>
 
-- Memorable style
+<li>Memorable style</li>
 
-- Genuine care
+<li>Genuine care</li>
 
+</ul>
 </div>
 
 ### Content Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Strategic Content Creation
-** Content Pillars:
-1. **Educational (40%)**
-- How
-- to guides
+<h3>📝 Strategic Content Creation</h3>
+<p>** Content Pillars:**</p>
+<p>1. **Educational (40%)**</p>
+<ul>
+<li>How</li>
+<li>to guides</li>
 
-- Strategy frameworks
+<li>Strategy frameworks</li>
 
-- Tool tutorials
+<li>Tool tutorials</li>
 
-- Concept explanations
+<li>Concept explanations</li>
 
-2. **Analytical (30%)**
+</ul>
+<p>2. **Analytical (30%)**</p>
 
-- Market analysis
+<ul>
+<li>Market analysis</li>
 
-- Venture deep dives
+<li>Venture deep dives</li>
 
-- Performance reviews
+<li>Performance reviews</li>
 
-- Trend identification
+<li>Trend identification</li>
 
-3. **Inspirational (20%)**
+</ul>
+<p>3. **Inspirational (20%)**</p>
 
-- Success stories
+<ul>
+<li>Success stories</li>
 
-- Motivation content
+<li>Motivation content</li>
 
-- Vision pieces
+<li>Vision pieces</li>
 
-- Community building
+<li>Community building</li>
 
-4. **Personal (10%)**
+</ul>
+<p>4. **Personal (10%)**</p>
 
-- Journey updates
+<ul>
+<li>Journey updates</li>
 
-- Lessons learned
+<li>Lessons learned</li>
 
-- Behind scenes
+<li>Behind scenes</li>
 
-- Authenticity
+<li>Authenticity</li>
 
+</ul>
 </div>
 
 ## Thought Leadership
 
 ### Establishing Authority
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎓 Becoming the Expert
-** Authority Building Path:
-1. **Choose Your Niche**
+<h3>🎓 Becoming the Expert</h3>
+<p>** Authority Building Path:**</p>
+<p>1. **Choose Your Niche**</p>
 
-- Specific enough to own
+<ul>
+<li>Specific enough to own</li>
 
-- Broad enough to matter
+<li>Broad enough to matter</li>
 
-- Aligned with passion
+<li>Aligned with passion</li>
 
-- Market demand exists
+<li>Market demand exists</li>
 
-2. **Create Signature Content**
+</ul>
+<p>2. **Create Signature Content**</p>
 
-- Comprehensive guides
+<ul>
+<li>Comprehensive guides</li>
 
-- Original frameworks
+<li>Original frameworks</li>
 
-- Unique insights
+<li>Unique insights</li>
 
-- Practical tools
+<li>Practical tools</li>
 
-3. **Demonstrate Results**
+</ul>
+<p>3. **Demonstrate Results**</p>
 
-- Public track record
+<ul>
+<li>Public track record</li>
 
-- Case studies
+<li>Case studies</li>
 
-- Testimonials
+<li>Testimonials</li>
 
-- Measurable impact
+<li>Measurable impact</li>
 
-4. **Teach Others**
+</ul>
+<p>4. **Teach Others**</p>
 
-- Workshops/webinars
+<ul>
+<li>Workshops/webinars</li>
 
-- Mentorship programs
+<li>Mentorship programs</li>
 
-- Course creation
+<li>Course creation</li>
 
-- Speaking events
+<li>Speaking events</li>
 
+</ul>
 </div>
 
 ### Original Thinking
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💭 Developing Unique Insights
-** Innovation Sources:
-1. **Cross-Pollination**
+<h3>💭 Developing Unique Insights</h3>
+<p>** Innovation Sources:**</p>
+<p>1. **Cross-Pollination**</p>
 
-- Combine different fields
+<ul>
+<li>Combine different fields</li>
 
-- Apply outside concepts
+<li>Apply outside concepts</li>
 
-- Create new frameworks
+<li>Create new frameworks</li>
 
-- Challenge assumptions
+<li>Challenge assumptions</li>
 
-2. **Deep Research**
+</ul>
+<p>2. **Deep Research**</p>
 
-- Go beyond surface
+<ul>
+<li>Go beyond surface</li>
 
-- Original analysis
-- Data
-- driven insights
+<li>Original analysis</li>
+<li>Data</li>
+<li>driven insights</li>
 
-- Contrarian views
+<li>Contrarian views</li>
 
-3. **Experience Synthesis**
+</ul>
+<p>3. **Experience Synthesis**</p>
 
-- Connect patterns
+<ul>
+<li>Connect patterns</li>
 
-- Extract principles
+<li>Extract principles</li>
 
-- Create models
+<li>Create models</li>
 
-- Share wisdom
-** Publishing Strategy:
-- ** Start with small insights
-- Build to major pieces
-- Create series/themes
-- Maintain consistency
+<li>Share wisdom</li>
 
+</ul>
+<p>** Publishing Strategy:**</p>
+<ul>
+<li>**Start with small insights**</li>
+<li>Build to major pieces</li>
+<li>Create series/themes</li>
+<li>Maintain consistency</li>
+
+</ul>
 </div>
 
 ## Platform Mastery
 
 ### Multi-Channel Presence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📱 Omnichannel Influence
-**Platform Strategy:** Discord (Daily)
-- ** Active helpful presence
-- Quick insights
-- Real-time support
-- Community building
-**Twitter (Daily)
-- ** Thought leadership
-- Bite-sized wisdom
-- Engagement threads
-- Network building
-**Medium (Weekly)
-- ** Long-form analysis
-- Deep insights
-- SEO benefit
-- Portfolio building
-**YouTube (Monthly)
-- ** Video tutorials
-- Live streams
-- Visual teaching
-- Personality showcase
+<h3>📱 Omnichannel Influence</h3>
+<p>**Platform Strategy:**</p>
 
+<p>**Discord (Daily)**</p>
+<ul>
+<li>**Active helpful presence**</li>
+<li>Quick insights</li>
+<li>Real-time support</li>
+<li>Community building</li>
+
+</ul>
+<p>**Twitter (Daily)**</p>
+<ul>
+<li>**Thought leadership**</li>
+<li>Bite-sized wisdom</li>
+<li>Engagement threads</li>
+<li>Network building</li>
+
+</ul>
+<p>**Medium (Weekly)**</p>
+<ul>
+<li>**Long-form analysis**</li>
+<li>Deep insights</li>
+<li>SEO benefit</li>
+<li>Portfolio building</li>
+
+</ul>
+<p>**YouTube (Monthly)**</p>
+<ul>
+<li>**Video tutorials**</li>
+<li>Live streams</li>
+<li>Visual teaching</li>
+<li>Personality showcase</li>
+
+</ul>
 </div>
 
 ### Content Optimization
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Maximizing Reach
-** Optimization Tactics:
-1. **Timing**
+<h3>🚀 Maximizing Reach</h3>
+<p>** Optimization Tactics:**</p>
+<p>1. **Timing**</p>
 
-- Peak activity hours
+<ul>
+<li>Peak activity hours</li>
 
-- Consistent schedule
+<li>Consistent schedule</li>
 
-- Event alignment
+<li>Event alignment</li>
 
-- Time zone consideration
+<li>Time zone consideration</li>
 
-2. **Format**
+</ul>
+<p>2. **Format**</p>
 
-- Scannable structure
+<ul>
+<li>Scannable structure</li>
 
-- Visual elements
+<li>Visual elements</li>
 
-- Clear takeaways
+<li>Clear takeaways</li>
 
-- Mobile friendly
+<li>Mobile friendly</li>
 
-3. **Engagement**
+</ul>
+<p>3. **Engagement**</p>
 
-- Questions prompts
+<ul>
+<li>Questions prompts</li>
 
-- Call to actions
+<li>Call to actions</li>
 
-- Response commitment
+<li>Response commitment</li>
 
-- Community building
+<li>Community building</li>
 
-4. **Cross-Promotion**
+</ul>
+<p>4. **Cross-Promotion**</p>
 
-- Link between platforms
+<ul>
+<li>Link between platforms</li>
 
-- Repurpose content
+<li>Repurpose content</li>
 
-- Create series
+<li>Create series</li>
 
-- Build momentum
+<li>Build momentum</li>
 
+</ul>
 </div>
 
 ## Network Effects
 
 ### Strategic Relationships
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Power Networking
-** Key Relationships:
-1. **Peer Influencers**
+<h3>🤝 Power Networking</h3>
+<p>** Key Relationships:**</p>
+<p>1. **Peer Influencers**</p>
 
-- Collaborate on content
-- Cross
-- promote
+<ul>
+<li>Collaborate on content</li>
+<li>Cross</li>
+<li>promote</li>
 
-- Share stages
+<li>Share stages</li>
 
-- Build together
+<li>Build together</li>
 
-2. **Platform Leaders**
+</ul>
+<p>2. **Platform Leaders**</p>
 
-- Understand vision
+<ul>
+<li>Understand vision</li>
 
-- Align initiatives
+<li>Align initiatives</li>
 
-- Get featured
+<li>Get featured</li>
 
-- Shape direction
+<li>Shape direction</li>
 
-3. **Media Contacts**
+</ul>
+<p>3. **Media Contacts**</p>
 
-- Share stories
+<ul>
+<li>Share stories</li>
 
-- Provide quotes
+<li>Provide quotes</li>
 
-- Expert commentary
+<li>Expert commentary</li>
 
-- Increase visibility
+<li>Increase visibility</li>
 
-4. **Industry Leaders**
+</ul>
+<p>4. **Industry Leaders**</p>
 
-- Learn from best
+<ul>
+<li>Learn from best</li>
 
-- Get endorsements
+<li>Get endorsements</li>
 
-- Access opportunities
+<li>Access opportunities</li>
 
-- Expand horizons
+<li>Expand horizons</li>
 
+</ul>
 </div>
 
 ### Community Building
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Your Tribe
-** Building Your Following:
-1. **Consistent Value**
+<h3>👥 Your Tribe</h3>
+<p>** Building Your Following:**</p>
+<p>1. **Consistent Value**</p>
 
-- Daily insights
+<ul>
+<li>Daily insights</li>
 
-- Weekly deep dives
+<li>Weekly deep dives</li>
 
-- Monthly events
+<li>Monthly events</li>
 
-- Continuous support
+<li>Continuous support</li>
 
-2. **Personal Connection**
+</ul>
+<p>2. **Personal Connection**</p>
 
-- Respond to everyone
+<ul>
+<li>Respond to everyone</li>
 
-- Remember names
+<li>Remember names</li>
 
-- Share struggles
+<li>Share struggles</li>
 
-- Celebrate others
+<li>Celebrate others</li>
 
-3. **Exclusive Access**
+</ul>
+<p>3. **Exclusive Access**</p>
 
-- Inner circle benefits
+<ul>
+<li>Inner circle benefits</li>
 
-- Early information
+<li>Early information</li>
 
-- Special content
+<li>Special content</li>
 
-- Direct access
+<li>Direct access</li>
 
-4. **Community Culture**
+</ul>
+<p>4. **Community Culture**</p>
 
-- Set positive tone
+<ul>
+<li>Set positive tone</li>
 
-- Encourage participation
+<li>Encourage participation</li>
 
-- Facilitate connections
+<li>Facilitate connections</li>
 
-- Create belonging
+<li>Create belonging</li>
 
+</ul>
 </div>
 
 ## Influence Metrics
 
 ### Measuring Impact
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Influence KPIs
-** Quantitative Metrics:
-- ** Follower growth rate
-- Engagement rates
-- Content shares
-- Mention frequency
-- Event attendance
-** Qualitative Metrics:
-- ** Testimonial quality
-- Implementation stories
-- Behavior changes
-- Culture impact
-- Legacy building
-** Platform Metrics:
-- ** Featured frequency
-- Speaking invitations
-- Collaboration requests
-- Media mentions
-- Award recognition
+<h3>📊 Influence KPIs</h3>
+<p>** Quantitative Metrics:**</p>
+<ul>
+<li>**Follower growth rate**</li>
+<li>Engagement rates</li>
+<li>Content shares</li>
+<li>Mention frequency</li>
+<li>Event attendance</li>
 
+</ul>
+<p>** Qualitative Metrics:**</p>
+<ul>
+<li>**Testimonial quality**</li>
+<li>Implementation stories</li>
+<li>Behavior changes</li>
+<li>Culture impact</li>
+<li>Legacy building</li>
+
+</ul>
+<p>** Platform Metrics:**</p>
+<ul>
+<li>**Featured frequency**</li>
+<li>Speaking invitations</li>
+<li>Collaboration requests</li>
+<li>Media mentions</li>
+<li>Award recognition</li>
+
+</ul>
 </div>
 
 ### ROI of Influence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Influence Returns
-** Direct Benefits:
-- ** Higher signal limits
-- Better multipliers
-- Early access
-- Partnership deals
-- Speaking fees
-** Indirect Benefits:
-- ** Career opportunities
-- Business ventures
-- Investment access
-- Network value
-- Personal brand
-** Long-term Value:
-- ** Compound growth
-- Lasting relationships
-- Ecosystem impact
-- Legacy creation
-- Life transformation
+<h3>💰 Influence Returns</h3>
+<p>** Direct Benefits:**</p>
+<ul>
+<li>**Higher signal limits**</li>
+<li>Better multipliers</li>
+<li>Early access</li>
+<li>Partnership deals</li>
+<li>Speaking fees</li>
 
+</ul>
+<p>** Indirect Benefits:**</p>
+<ul>
+<li>**Career opportunities**</li>
+<li>Business ventures</li>
+<li>Investment access</li>
+<li>Network value</li>
+<li>Personal brand</li>
+
+</ul>
+<p>** Long-term Value:**</p>
+<ul>
+<li>**Compound growth**</li>
+<li>Lasting relationships</li>
+<li>Ecosystem impact</li>
+<li>Legacy creation</li>
+<li>Life transformation</li>
+
+</ul>
 </div>
 
 ## Advanced Strategies
 
 ### Influence Amplification
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📢 Scaling Your Voice
-** Amplification Tactics:
-1. **Leverage Moments**
+<h3>📢 Scaling Your Voice</h3>
+<p>** Amplification Tactics:**</p>
+<p>1. **Leverage Moments**</p>
 
-- News jacking
+<ul>
+<li>News jacking</li>
 
-- Trend riding
+<li>Trend riding</li>
 
-- Event speaking
+<li>Event speaking</li>
 
-- Crisis leadership
+<li>Crisis leadership</li>
 
-2. **Create Movements**
+</ul>
+<p>2. **Create Movements**</p>
 
-- Identify causes
+<ul>
+<li>Identify causes</li>
 
-- Rally community
+<li>Rally community</li>
 
-- Drive change
+<li>Drive change</li>
 
-- Build legacy
+<li>Build legacy</li>
 
-3. **Strategic Controversy**
+</ul>
+<p>3. **Strategic Controversy**</p>
 
-- Challenge norms
+<ul>
+<li>Challenge norms</li>
 
-- Respectful debate
+<li>Respectful debate</li>
 
-- Thought provoking
+<li>Thought provoking</li>
 
-- Attention gaining
+<li>Attention gaining</li>
 
-4. **Platform Innovation**
+</ul>
+<p>4. **Platform Innovation**</p>
 
-- New formats
+<ul>
+<li>New formats</li>
 
-- Creative content
+<li>Creative content</li>
 
-- Technical tools
+<li>Technical tools</li>
 
-- User experience
+<li>User experience</li>
 
+</ul>
 </div>
 
 ### Influence Sustainability
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ♻️ Long-term Influence
-** Sustainability Factors:
-1. **Continuous Learning**
+<h3>♻️ Long-term Influence</h3>
+<p>** Sustainability Factors:**</p>
+<p>1. **Continuous Learning**</p>
 
-- Stay current
+<ul>
+<li>Stay current</li>
 
-- Adapt quickly
+<li>Adapt quickly</li>
 
-- Learn publicly
+<li>Learn publicly</li>
 
-- Share journey
+<li>Share journey</li>
 
-2. **Value Evolution**
+</ul>
+<p>2. **Value Evolution**</p>
 
-- Upgrade offerings
+<ul>
+<li>Upgrade offerings</li>
 
-- Deeper insights
+<li>Deeper insights</li>
 
-- Better tools
+<li>Better tools</li>
 
-- Greater impact
+<li>Greater impact</li>
 
-3. **Relationship Maintenance**
+</ul>
+<p>3. **Relationship Maintenance**</p>
 
-- Nurture network
+<ul>
+<li>Nurture network</li>
 
-- Give first
+<li>Give first</li>
 
-- Stay humble
+<li>Stay humble</li>
 
-- Remember roots
+<li>Remember roots</li>
 
-4. **Health Balance**
+</ul>
+<p>4. **Health Balance**</p>
 
-- Avoid burnout
+<ul>
+<li>Avoid burnout</li>
 
-- Set boundaries
+<li>Set boundaries</li>
 
-- Take breaks
+<li>Take breaks</li>
 
-- Enjoy journey
+<li>Enjoy journey</li>
 
+</ul>
 </div>
 
 ## Influence Ethics
 
 ### Responsible Leadership
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Ethical Influence
-** Core Principles:
-1. **Truth First**
+<h3>⚖️ Ethical Influence</h3>
+<p>** Core Principles:**</p>
+<p>1. **Truth First**</p>
 
-- Accurate information
+<ul>
+<li>Accurate information</li>
 
-- Honest opinions
+<li>Honest opinions</li>
 
-- Admit mistakes
+<li>Admit mistakes</li>
 
-- Correct errors
+<li>Correct errors</li>
 
-2. **Community Good**
+</ul>
+<p>2. **Community Good**</p>
 
-- Ecosystem focus
+<ul>
+<li>Ecosystem focus</li>
 
-- Inclusive approach
+<li>Inclusive approach</li>
 
-- Lift others
+<li>Lift others</li>
 
-- Share success
+<li>Share success</li>
 
-3. **Sustainable Practices**
-- Long
-- term thinking
+</ul>
+<p>3. **Sustainable Practices**</p>
+<ul>
+<li>Long</li>
+<li>term thinking</li>
 
-- Avoid exploitation
+<li>Avoid exploitation</li>
 
-- Build don't burn
+<li>Build don't burn</li>
 
-- Create value
+<li>Create value</li>
 
+</ul>
 </div>
 
 ### Avoiding Pitfalls
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Influence Dangers
-** Common Mistakes:
-- ** Ego inflation
-- Disconnection from community
-- Exploitation of position
-- Information gatekeeping
-- Toxic behavior
-** Reputation Risks:
-- ** One scandal destroys years
-- Trust breaks instantly
-- Recovery takes forever
-- Some damage permanent
-- Legacy at stake
-** Stay Grounded:
-- ** Regular reality checks
-- Maintain close friends
-- Remember beginnings
-- Focus on service
-- Check motivations
+<h3>❌ Influence Dangers</h3>
+<p>** Common Mistakes:**</p>
+<ul>
+<li>**Ego inflation**</li>
+<li>Disconnection from community</li>
+<li>Exploitation of position</li>
+<li>Information gatekeeping</li>
+<li>Toxic behavior</li>
 
+</ul>
+<p>** Reputation Risks:**</p>
+<ul>
+<li>**One scandal destroys years**</li>
+<li>Trust breaks instantly</li>
+<li>Recovery takes forever</li>
+<li>Some damage permanent</li>
+<li>Legacy at stake</li>
+
+</ul>
+<p>** Stay Grounded:**</p>
+<ul>
+<li>**Regular reality checks**</li>
+<li>Maintain close friends</li>
+<li>Remember beginnings</li>
+<li>Focus on service</li>
+<li>Check motivations</li>
+
+</ul>
 </div>
 
 ## Your Influence Journey
 
 ### 90-Day Influence Plan
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 Launch Your Influence
-**Days 1-30: Foundation
-- ** [ ] Define your niche
-- [ ] Create brand identity
-- [ ] Publish 10 pieces
-- [ ] Engage daily
-- [ ] Build routine
-**Days 31-60: Amplification
-- ** [ ] Launch signature series
-- [ ] Host first event
-- [ ] Collaborate with peers
-- [ ] Media outreach
-- [ ] Measure impact
-**Days 61-90: Acceleration
-- ** [ ] Create major resource
-- [ ] Speaking opportunity
-- [ ] Build email list
-- [ ] Launch initiative
-- [ ] Plan year ahead
+<h3>📅 Launch Your Influence</h3>
+<p>**Days 1-30: Foundation**</p>
+<ul>
+<li>**[ ] Define your niche**</li>
+<li>[ ] Create brand identity</li>
+<li>[ ] Publish 10 pieces</li>
+<li>[ ] Engage daily</li>
+<li>[ ] Build routine</li>
 
+</ul>
+<p>**Days 31-60: Amplification**</p>
+<ul>
+<li>**[ ] Launch signature series**</li>
+<li>[ ] Host first event</li>
+<li>[ ] Collaborate with peers</li>
+<li>[ ] Media outreach</li>
+<li>[ ] Measure impact</li>
+
+</ul>
+<p>**Days 61-90: Acceleration**</p>
+<ul>
+<li>**[ ] Create major resource**</li>
+<li>[ ] Speaking opportunity</li>
+<li>[ ] Build email list</li>
+<li>[ ] Launch initiative</li>
+<li>[ ] Plan year ahead</li>
+
+</ul>
 </div>
 
 ### Long-term Vision
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 5-Year Influence Goals
-**Year 1:** Establish presence- **Year 2:**  Build authorityYear 3:** Lead initiatives- **Year 4:**  Shape ecosystemYear 5:**  Create legacy
-- ** Ultimate Impact:
-- ** Thousands helped
-- Ecosystem improved
-- Careers launched
-- Innovation driven
-- Legacy secured
+<h3>🎯 5-Year Influence Goals</h3>
+<p>**Year 1:** Establish presence- **Year 2:**  Build authorityYear 3:</p>
 
+<p>Lead initiatives- **Year 4:**  Shape ecosystemYear 5:</p>
+
+<p>**Create legacy**</p>
+<ul>
+<li>**Ultimate Impact:**</li>
+<li>**Thousands helped**</li>
+<li>Ecosystem improved</li>
+<li>Careers launched</li>
+<li>Innovation driven</li>
+<li>Legacy secured</li>
+
+</ul>
 </div>
 
 ## Next Steps

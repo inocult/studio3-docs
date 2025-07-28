@@ -62,17 +62,19 @@ graph TB
 ### Communication Patterns
 
 !!! info "Sender → Echo Communications"
-    - **Milestone Declarations**: Clear, specific commitments
-    - **Progress Updates**: Daily during active periods
-    - **Challenge Transparency**: Honest about obstacles
-    - **Success Celebrations**: Share wins with supporters
+
+    - **Milestone Declarations**: Clear, specific commitments**
+    - **Progress Updates**: Daily during active periods**
+    - **Challenge Transparency**: Honest about obstacles**
+    - **Success Celebrations**: Share wins with supporters**
     - **Pivot Explanations**: Justify major changes
 
 !!! info "Echo → Sender Communications"
-    - **Due Diligence Questions**: Understand the venture
-    - **Constructive Feedback**: Improve execution
-    - **Market Intelligence**: Share relevant insights
-    - **Network Connections**: Introduce helpful contacts
+
+    - **Due Diligence Questions**: Understand the venture**
+    - **Constructive Feedback**: Improve execution**
+    - **Market Intelligence**: Share relevant insights**
+    - **Network Connections**: Introduce helpful contacts**
     - **Moral Support**: Encourage during challenges
 
 ### Value Exchange
@@ -197,9 +199,10 @@ sequenceDiagram
 ### Information Asymmetry
 
 !!! warning "Balancing Knowledge"
-    - **Anchors know more** about technical execution
-    - **Echoes know more** about market sentiment
-    - **Together they create** complete picture
+
+    - **Anchors know more** about technical execution**
+    - **Echoes know more** about market sentiment**
+    - **Together they create** complete picture**
     - **Transparency bridges** information gaps
 
 ## Multi-Party Interactions
@@ -223,31 +226,37 @@ graph LR
 ### Complex Scenarios
 
 <div class="grid cards">
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🎭 Scenario: Pivot Decision
+<p>#### 🎭 Scenario: Pivot Decision</p>
 
-**Participants:** 
+<p>**Participants:**</p>
 
-Sender + Multiple Echoes + Anchor
+<p>**Sender + Multiple Echoes + Anchor**</p>
 
-- Sender proposes major pivot
-- Echoes debate merits
-- Anchor provides expert opinion
-- Collective decision emerges
+<ul>
+<li>Sender proposes major pivot</li>
+<li>Echoes debate merits</li>
+<li>Anchor provides expert opinion</li>
+<li>Collective decision emerges</li>
+</ul>
 </div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### ⚖️ Scenario: Disputed Validation
+<p>#### ⚖️ Scenario: Disputed Validation</p>
 
-**Participants:** Sender + Echoes + Multiple Anchors
+<p>**Participants:**</p>
 
-- Sender claims success
-- Primary Anchor disagrees
-- Echoes split on outcome
-- Anchor Council decides
+<p>**Sender + Echoes + Multiple Anchors**</p>
 
+<ul>
+<li>Sender claims success</li>
+<li>Primary Anchor disagrees</li>
+<li>Echoes split on outcome</li>
+<li>Anchor Council decides</li>
+
+</ul>
 </div>
 </div>
 
@@ -332,11 +341,11 @@ Sender + Multiple Echoes + Anchor
 
 | Conflict Type | Typical Cause | Resolution Approach |
 |---------------|---------------|--------------------|
-|**Milestone Disputes** | Unclear success criteria | Better documentation |
-|**Communication Breakdown** | Unmet expectations | Regular check-ins |
-|**Resource Conflicts** | Budget overruns | Transparent accounting |
-|**Timeline Issues** | Unrealistic deadlines | Collaborative replanning |
-|**Quality Disagreements** | Subjective standards | Clear metrics upfront |
+| **Milestone Disputes** | Unclear success criteria | Better documentation |
+| **Communication Breakdown** | Unmet expectations | Regular check-ins |
+| **Resource Conflicts** | Budget overruns | Transparent accounting |
+| **Timeline Issues** | Unrealistic deadlines | Collaborative replanning |
+| **Quality Disagreements** | Subjective standards | Clear metrics upfront |
 
 ## Network Effects
 
@@ -354,10 +363,11 @@ Sender + Multiple Echoes + Anchor
 ### Emergent Behaviors
 
 !!! info "Positive Emergent Patterns"
-    - **Reputation Networks**: Trust builds exponentially
-    - **Knowledge Sharing**: Collective intelligence emerges
-    - **Innovation Clusters**: Similar ventures collaborate
-    - **Mentorship Chains**: Successful founders become Anchors
+
+    - **Reputation Networks**: Trust builds exponentially**
+    - **Knowledge Sharing**: Collective intelligence emerges**
+    - **Innovation Clusters**: Similar ventures collaborate**
+    - **Mentorship Chains**: Successful founders become Anchors**
     - **Investment Syndicates**: Echoes coordinate strategies
 
 ## Interaction Metrics
@@ -367,10 +377,10 @@ Sender + Multiple Echoes + Anchor
 | Metric | Healthy Range | Warning Signs |
 |--------|---------------|---------------|
 | **Response Time** | <24 hours | >72 hours |
-|**Engagement Rate** | >60% active | <30% active |
-|**Conflict Rate** | <5% interactions | >15% interactions |
-|**Resolution Time** | <7 days | >30 days |
-|**Satisfaction Score** | >4.2/5 | <3.5/5 |
+| **Engagement Rate** | >60% active | <30% active |
+| **Conflict Rate** | <5% interactions | >15% interactions |
+| **Resolution Time** | <7 days | >30 days |
+| **Satisfaction Score** | >4.2/5 | <3.5/5 |
 
 ### Interaction Quality Indicators
 
@@ -436,10 +446,16 @@ Sender + Multiple Echoes + Anchor
 
 #### 🌟 Case: The Pivot Partnership
 
-**Participants:** TechVenture (Sender), 200+ Echoes, 3 Anchors
+**Participants:**
 
-- **Situation:** Major pivot needed after market shift
-- **Interaction:** Transparent communication, collaborative replanning
+**TechVenture (Sender), 200+ Echoes, 3 Anchors**
+
+- **Situation:**
+
+**Major pivot needed after market shift**
+- **Interaction:**
+
+**Transparent communication, collaborative replanning**
 - **Outcome:** 85% Echo retention, successful pivot, 3x returns
 
 > "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors."
@@ -451,10 +467,11 @@ Sender + Multiple Echoes + Anchor
 ### Future Enhancements
 
 !!! tip "Coming Interaction Features"
-    - **AI-Mediated Discussions**: Better conversation facilitation
-    - **Reputation Weighted Voting**: Influence based on track record
-    - **Cross-Venture Collaboration**: Formal partnership tools
-    - **Automated Conflict Detection**: Early warning systems
+
+    - **AI-Mediated Discussions**: Better conversation facilitation**
+    - **Reputation Weighted Voting**: Influence based on track record**
+    - **Cross-Venture Collaboration**: Formal partnership tools**
+    - **Automated Conflict Detection**: Early warning systems**
     - **Interaction Rewards**: Incentivize quality engagement
 
 ## Your Interaction Strategy

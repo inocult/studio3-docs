@@ -42,7 +42,8 @@ graph TD
     D --> F[Reputation Growth]
     E --> G[Token Burn]
 ```
-** Key aspects:
+
+** Key aspects:**
 - **Belief must be **backed by tokens** ** ** Conviction carries **real risk** ****
 
 * Accuracy builds **lasting reputation**  
@@ -92,10 +93,10 @@ The ecosystem aligns all participants:
 
 | Role | Wants | Gets | Gives |
 |------|-------|------|-------|
-|**Founders** | Funding & support | Resources & validation | Transparent execution |
-|**Echoes** | Returns on belief | Token multipliers | Risk capital |
-|**Anchors** | Quality ventures | Validation fees | Expert guidance |
-|**Ecosystem** | Sustainable growth | Successful ventures | Fair platform |
+| **Founders** | Funding & support | Resources & validation | Transparent execution |
+| **Echoes** | Returns on belief | Token multipliers | Risk capital |
+| **Anchors** | Quality ventures | Validation fees | Expert guidance |
+| **Ecosystem** | Sustainable growth | Successful ventures | Fair platform |
 
 ## 6. Permissionless Innovation
 
@@ -125,7 +126,7 @@ graph LR
 
 Ventures gradually gain independence:
 
-1.**Start** with platform support**2. **Grow** with community governance**3. **Mature** with increasing autonomy**4. **Graduate** to full sovereignty**## 8. Failure as Feature
+1. **Start** with platform support**2. **Grow** with community governance**3. **Mature** with increasing autonomy**4. **Graduate** to full sovereignty**## 8. Failure as Feature
 
 ### Learning Through Loss
 
@@ -154,13 +155,14 @@ Reputation (XP) in Studio3:
 - based on results
 - **Compounds over time**
 - early success matters
+
 ## 10. Recursive Growth
 
 ### Success Creates Success
 
 The ecosystem is designed for exponential growth:
 
-1.**Successful ventures** graduate to sovereignty**2. **Sovereign ventures** can launch sub-studios**3. **Sub-studios** follow the same principles**4. **Network effects** compound across levels**## Living These Principles
+1. **Successful ventures** graduate to sovereignty**2. **Sovereign ventures** can launch sub-studios**3. **Sub-studios** follow the same principles**4. **Network effects** compound across levels**## Living These Principles
 
 ### Daily Practice
 
@@ -200,25 +202,33 @@ These aren't just ideas - they're daily practices:
 
 ### Real Examples
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🌟 Case Study: OpenHealth Venture
-**Principle Applied:** Radical Transparency
+<p>#### 🌟 Case Study: OpenHealth Venture</p>
+<p>**Principle Applied:**</p>
 
-When OpenHealth hit technical challenges in Phase 3, they shared their struggles publicly. The community rallied with technical support, and they pivoted successfully.
+<p>**Radical Transparency**</p>
 
-**Result:** Stronger product, loyal community, successful graduation
+<p>When OpenHealth hit technical challenges in Phase 3, they shared their struggles publicly. The community rallied with technical support, and they pivoted successfully.</p>
+
+<p>**Result:**</p>
+
+<p>**Stronger product, loyal community, successful graduation**</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 💥 Case Study: QuickFlip Failure
-**Principle Applied:** Failure as Feature
+<p>#### 💥 Case Study: QuickFlip Failure</p>
+<p>**Principle Applied:**</p>
 
-QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their detailed post-mortem became required reading for new founders.
+<p>**Failure as Feature**</p>
 
-**Result:** Expensive lesson that improved ecosystem quality
+<p>QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their detailed post-mortem became required reading for new founders.</p>
+
+<p>**Result:**</p>
+
+<p>**Expensive lesson that improved ecosystem quality**</p>
 
 </div>
 
@@ -252,7 +262,7 @@ These principles evolve through:
 
 ### Applying the Principles
 
-1.**Understand** how principles guide decisions**2. **Observe** them in action in the Arena**3. **Practice** applying them to your role**4. **Share** experiences with the community**## Related Reading
+1. **Understand** how principles guide decisions**2. **Observe** them in action in the Arena**3. **Practice** applying them to your role**4. **Share** experiences with the community**## Related Reading
 
 - Dive into [The Arena System](arena-system.md) to see principles in practice
 - Explore [Belief & Doubt Signals](belief-signals.md) for conviction mechanics

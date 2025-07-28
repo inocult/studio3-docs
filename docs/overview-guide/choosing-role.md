@@ -7,60 +7,75 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 ## The Three Paths
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ Become a Sender
+<h3>🏗️ Become a Sender</h3>
 
-**You should be a Sender if you:**
+<p>**You should be a Sender if you:**</p>
 
-- ** Have a venture idea ready to build
-- Enjoy public accountability
-- Thrive under pressure
-- Want full ownership potential
-- Can handle transparent failure
-** Required:
-- ** Entrepreneurial drive
-- Execution ability
-- Communication skills
-- Risk tolerance
-- Long-term vision
+<ul>
+<li>**Have a venture idea ready to build**</li>
+<li>Enjoy public accountability</li>
+<li>Thrive under pressure</li>
+<li>Want full ownership potential</li>
+<li>Can handle transparent failure</li>
 
+</ul>
+<p>** Required:**</p>
+<ul>
+<li>**Entrepreneurial drive**</li>
+<li>Execution ability</li>
+<li>Communication skills</li>
+<li>Risk tolerance</li>
+<li>Long-term vision</li>
+
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 Become an Echo
-** You should be an Echo if you:
-- ** Enjoy evaluating opportunities
-- Have capital to deploy
-- Want diversified exposure
-- Like community participation
-- Seek merit-based returns
-** Required:
-- ** $SIGNAL tokens
-- Analytical mindset
-- Risk management
-- Active engagement
-- Learning appetite
+<h3>📡 Become an Echo</h3>
+<p>** You should be an Echo if you:**</p>
+<ul>
+<li>**Enjoy evaluating opportunities**</li>
+<li>Have capital to deploy</li>
+<li>Want diversified exposure</li>
+<li>Like community participation</li>
+<li>Seek merit-based returns</li>
 
+</ul>
+<p>** Required:**</p>
+<ul>
+<li>**$SIGNAL tokens**</li>
+<li>Analytical mindset</li>
+<li>Risk management</li>
+<li>Active engagement</li>
+<li>Learning appetite</li>
+
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚓ Become an Anchor
-** You should be an Anchor if you:
-- ** Have venture experience
-- Enjoy mentoring founders
-- Want ecosystem impact
-- Value quality standards
-- Seek consistent income
-** Required:
-- ** Proven track record
-- Validation skills
-- Time commitment
-- Fair judgment
-- Mentor mindset
+<h3>⚓ Become an Anchor</h3>
+<p>** You should be an Anchor if you:**</p>
+<ul>
+<li>**Have venture experience**</li>
+<li>Enjoy mentoring founders</li>
+<li>Want ecosystem impact</li>
+<li>Value quality standards</li>
+<li>Seek consistent income</li>
 
+</ul>
+<p>** Required:**</p>
+<ul>
+<li>**Proven track record**</li>
+<li>Validation skills</li>
+<li>Time commitment</li>
+<li>Fair judgment</li>
+<li>Mentor mindset</li>
+
+</ul>
 </div>
 </div>
 
@@ -70,40 +85,48 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 | Role | Daily Time | Peak Periods | Flexibility |
 |------|------------|--------------|-------------|
-|**Sender** | 8-12 hours | Milestone deadlines | Low - must deliver |
-|**Echo** | 0.5-2 hours | New opportunities | High - choose engagement |
-|**Anchor** | 2-4 hours | Validation windows | Medium - scheduled work |
+| **Sender** | 8-12 hours | Milestone deadlines | Low - must deliver |
+| **Echo** | 0.5-2 hours | New opportunities | High - choose engagement |
+| **Anchor** | 2-4 hours | Validation windows | Medium - scheduled work |
 
 ### Financial Requirements
 
 | Role | Initial Capital | Ongoing Costs | Potential Returns |
 |------|----------------|---------------|-------------------|
-|**Sender** | 1,000+ $SIGNAL | Operating expenses | Unlimited upside |
-|**Echo** | 100+ $SIGNAL | Signal stakes | 1.2x
+| **Sender** | 1,000+ $SIGNAL | Operating expenses | Unlimited upside |
+| **Echo** | 100+ $SIGNAL | Signal stakes | 1.2x
 - 3x per signal |
-|**Anchor** | Minimal | Time investment | 3-10% per validation |
+| **Anchor** | Minimal | Time investment | 3-10% per validation |
 
 ### Risk Profile
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Risk vs Reward Analysis
-**Highest Risk, Highest Reward: Sender
-- ** Can lose entire venture
-- Can achieve full sovereignty
-- Reputation permanently affected
-- Unlimited value creation
-**Moderate Risk, Moderate Reward: Echo
-- ** Can lose signal stakes
-- Can earn consistent multipliers
-- Diversification possible
-- Compound growth potential
-**Lowest Risk, Steady Reward: Anchor
-- ** Minimal financial risk
-- Steady fee income
-- Reputation-based growth
-- Network value accrual
+<h3>⚖️ Risk vs Reward Analysis</h3>
+<p>**Highest Risk, Highest Reward: Sender**</p>
+<ul>
+<li>**Can lose entire venture**</li>
+<li>Can achieve full sovereignty</li>
+<li>Reputation permanently affected</li>
+<li>Unlimited value creation</li>
 
+</ul>
+<p>**Moderate Risk, Moderate Reward: Echo**</p>
+<ul>
+<li>**Can lose signal stakes**</li>
+<li>Can earn consistent multipliers</li>
+<li>Diversification possible</li>
+<li>Compound growth potential</li>
+
+</ul>
+<p>**Lowest Risk, Steady Reward: Anchor**</p>
+<ul>
+<li>**Minimal financial risk**</li>
+<li>Steady fee income</li>
+<li>Reputation-based growth</li>
+<li>Network value accrual</li>
+
+</ul>
 </div>
 
 ## Skills Assessment
@@ -157,12 +180,13 @@ Rate yourself 1-5 on each:
 
 ### Can You Play Multiple Roles?
 
-** Yes, with restrictions:
+** Yes, with restrictions:**
 - **Echo + Future Sender** : Common progression path
 - **Successful Sender → Anchor** : Natural evolution
 - **Echo + Anchor** : Allowed with disclosure
-** Conflicts to avoid:
-- ** Don't signal on ventures you validate
+
+** Conflicts to avoid:**
+- **Don't signal on ventures you validate**
 - Don't validate ventures you founded
 - Always disclose any relationships
 
@@ -188,43 +212,52 @@ graph LR
 ### Starting Recommendations
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🌱 Complete Beginner
+<p>#### 🌱 Complete Beginner</p>
 
-Start as an**Echo**  with small signals to:
-- ** Learn the ecosystem
-- Build reputation
-- Network with others
-- Understand ventures
-- Minimize risk
+<p>Start as an**Echo**  with small signals to:</p>
 
+<ul>
+<li>**Learn the ecosystem**</li>
+<li>Build reputation</li>
+<li>Network with others</li>
+<li>Understand ventures</li>
+<li>Minimize risk</li>
+
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🚀 Experienced Entrepreneur
+<p>#### 🚀 Experienced Entrepreneur</p>
 
-Jump in as a**Sender**  if you have:
-- ** Clear venture idea
-- Execution track record
-- Risk tolerance
-- Time to commit
-- Public comfort
+<p>Jump in as a**Sender**  if you have:</p>
 
+<ul>
+<li>**Clear venture idea**</li>
+<li>Execution track record</li>
+<li>Risk tolerance</li>
+<li>Time to commit</li>
+<li>Public comfort</li>
+
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🎓 Industry Expert
+<p>#### 🎓 Industry Expert</p>
 
-Consider**Anchor**  role if you have:
-- ** 5+ years experience
-- Mentorship history
-- Quality standards
-- Available time
-- Ecosystem vision
+<p>Consider**Anchor**  role if you have:</p>
 
+<ul>
+<li>**5+ years experience**</li>
+<li>Mentorship history</li>
+<li>Quality standards</li>
+<li>Available time</li>
+<li>Ecosystem vision</li>
+
+</ul>
 </div>
 </div>
 
@@ -236,7 +269,8 @@ Consider**Anchor**  role if you have:
 - **Capital** : How much $SIGNAL available?
 - **Skills** : What's your superpower?
 - **Risk** : What can you afford to lose?
-- **Goals** : What do you want to achieve?
+- **Goals** : What do you want to achieve?**
+
 ### Step 2: Match to Role
 
 | If You Have... | Best Role | Why |
@@ -266,32 +300,36 @@ Whatever role you choose:
 !!! warning "Avoid These Pitfalls"
 
 - **Ego-driven Sender** : Starting a venture for status
-- **    -**Gambling Echo** : Treating signals like casino bets
-- **    -**Biased Anchor** : Validating based on relationships
-- **    -**Overcommitted** : Taking on too much too fast
-- **    -**Undercommitted**: Not giving enough effort**### Role Misalignment Signs
+- **-**Gambling Echo** : Treating signals like casino bets
+- **-**Biased Anchor** : Validating based on relationships
+- **-**Overcommitted** : Taking on too much too fast
+- **-**Undercommitted**: Not giving enough effort**### Role Misalignment Signs
 
 - **Senders**: Constant stress, missing deadlines, poor communication
 - **Echoes** : All signals failing, emotional decisions, portfolio concentration
-- **Anchors** : Validation disputes, mentor conflicts, time management issues
+- **Anchors** : Validation disputes, mentor conflicts, time management issues**
+
 ## Making Your Choice
 
 ### Final Questions
 
 1. **What excites you most about Studio3?**
-- ** Building ventures → Sender
+
+- **Building ventures → Sender**
 - Finding opportunities → Echo
 
 - Guiding others → Anchor
 
 2. **What's your primary constraint?**
-- ** Need capital → Sender
+
+- **Need capital → Sender**
 - Need time → Echo
 
 - Need purpose → Anchor
 
 3. **How do you handle failure?**
-- ** Public learning → Sender
+
+- **Public learning → Sender**
 - Private analysis → Echo
 
 - Teaching moment → Anchor
@@ -302,7 +340,7 @@ Once you've chosen your role:
 
 - **Read the specific guide** for detailed instructions
 - **Join role-specific channels**  in the community
-- **  Find a mentor
+- **Find a mentor**
 
 - * who's succeeded in that role
 - **Set realistic goals** for your first 30 days
@@ -336,6 +374,8 @@ Once you've chosen your role:
 
 Now that you understand the roles:
 
-1. **Make your choice** based on the assessment**2. **Proceed to [First Steps](first-steps.md)** for quick start**3. **Dive into your role-specific guide** for mastery**4. **Join the community** and introduce yourself
+1. **Make your choice** based on the assessment2. **Proceed to [First Steps](first-steps.md)** for quick start**3. **Dive into your role-specific guide** for mastery**4. **Join the community** and introduce yourself
 
-**Remember:** Your role can evolve as you grow within Studio3. Start where you're comfortable and let your journey unfold naturally.
+**Remember:**
+
+**Your role can evolve as you grow within Studio3. Start where you're comfortable and let your journey unfold naturally.**

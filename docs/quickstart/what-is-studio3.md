@@ -2,11 +2,11 @@
 
 ## A New Way to Build Ventures
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 The One-Liner
+<h3>🌟 The One-Liner</h3>
 
-Studio3 is a gamified venture building platform where entrepreneurs compete for resources, supporters bet on success with tokens, and everything happens transparently in public "Arenas."
+<p>Studio3 is a gamified venture building platform where entrepreneurs compete for resources, supporters bet on success with tokens, and everything happens transparently in public "Arenas."</p>
 
 </div>
 
@@ -20,19 +20,23 @@ Imagine if building a startup was like playing a video game where:
 - You earn **experience points** (XP) for achievements
 - The **community votes** with tokens on your success
 - Everything happens in **public view** for accountability
-- **Real money and stakes** make it serious, not just fun
+- **Real money and stakes** make it serious, not just fun**
+
 ## 🏟️ The Arena Concept
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### Why "Arenas"?
+<h3>Why "Arenas"?</h3>
 
-Just like gladiators competed in ancient arenas:
-- **Ventures compete** for support and resources
-- **Spectators place bets** on who will succeed
-- **Performance is public** - no hiding failures
-- **Winners earn glory** (and funding)
-- **The crowd decides** who deserves support
+<p>Just like gladiators competed in ancient arenas:</p>
+
+<ul>
+<li>**Ventures compete** for support and resources</li>
+<li>**Spectators place bets** on who will succeed</li>
+<li>**Performance is public** - no hiding failures</li>
+<li>**Winners earn glory** (and funding)</li>
+<li>**The crowd decides** who deserves support**</li>
+</ul>
 </div>
 
 ## 👥 Three Types of Players
@@ -57,15 +61,17 @@ Just like gladiators competed in ancient arenas:
 
 ## 💡 The Magic Ingredient: $SIGNAL Tokens
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### How Belief Becomes Real Support
+<h3>How Belief Becomes Real Support</h3>
 
-- **$SIGNAL** tokens represent conviction
-- **Stake tokens** to show belief (or doubt)
-- **Correct predictions** multiply your tokens
-- **Wrong predictions** burn your tokens
-- Creates **skin in the game** for everyone
+<ul>
+<li>**$SIGNAL** tokens represent conviction</li>
+<li>**Stake tokens** to show belief (or doubt)</li>
+<li>**Correct predictions** multiply your tokens</li>
+<li>**Wrong predictions** burn your tokens</li>
+<li>Creates **skin in the game** for everyone**</li>
+</ul>
 </div>
 
 ## 🔄 The Journey: From Idea to Independence
@@ -96,16 +102,19 @@ Every venture follows the same path:
 
 ## 🌍 Real Impact
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### Why This Matters
+<h3>Why This Matters</h3>
 
-Studio3 solves real problems:
-- **Great ideas** get funding regardless of founder's network
-- **Community wisdom** catches problems early
-- **Public accountability** reduces failure rates
-- **Aligned incentives** mean everyone wins together
-- **Transparent process** builds trust
+<p>Studio3 solves real problems:</p>
+
+<ul>
+<li>**Great ideas** get funding regardless of founder's network</li>
+<li>**Community wisdom** catches problems early</li>
+<li>**Public accountability** reduces failure rates</li>
+<li>**Aligned incentives** mean everyone wins together</li>
+<li>**Transparent process** builds trust</li>
+</ul>
 </div>
 
 ## 🚀 The Vision
@@ -130,11 +139,11 @@ Studio3 might be perfect if you:
 
 ## ⚡ The Bottom Line
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### Studio3 in One Paragraph
+<h3>Studio3 in One Paragraph</h3>
 
-Studio3 gamifies venture building by creating public arenas where entrepreneurs compete for community support, backers signal belief with tokens that can multiply or burn based on outcomes, and experienced builders validate progress. Through seven phases from idea to independence, ventures grow transparently with aligned incentives ensuring everyone benefits from success.
+<p>Studio3 gamifies venture building by creating public arenas where entrepreneurs compete for community support, backers signal belief with tokens that can multiply or burn based on outcomes, and experienced builders validate progress. Through seven phases from idea to independence, ventures grow transparently with aligned incentives ensuring everyone benefits from success.</p>
 
 </div>
 

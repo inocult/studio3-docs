@@ -2,11 +2,11 @@
 
 ## Building Your Community of Believers
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 Transforming Signals into Support
+<h3>📡 Transforming Signals into Support</h3>
 
-Echoes are your early believers - the community members who signal confidence in your venture through $SIGNAL tokens. Learning to engage, nurture, and leverage this community is crucial for your venture's success.
+<p>Echoes are your early believers - the community members who signal confidence in your venture through $SIGNAL tokens. Learning to engage, nurture, and leverage this community is crucial for your venture's success.</p>
 
 </div>
 
@@ -14,235 +14,271 @@ Echoes are your early believers - the community members who signal confidence in
 
 ### Who Are Your Echoes?
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Your Signal Community
+<h3>👥 Your Signal Community</h3>
 
-**Echo Types:**
+<p>**Echo Types:**</p>
 
-1. **Early Believers**
+<p>1. **Early Believers**</p>
 
-- First to signal
+<ul>
+<li>First to signal</li>
 
-- High risk tolerance
+<li>High risk tolerance</li>
 
-- Vision aligned
+<li>Vision aligned</li>
 
-- Network influencers
+<li>Network influencers</li>
 
-- Community builders
+<li>Community builders</li>
 
-2. **Strategic Supporters**
+</ul>
+<p>2. **Strategic Supporters**</p>
 
-- Industry experts
+<ul>
+<li>Industry experts</li>
 
-- Potential customers
+<li>Potential customers</li>
 
-- Partner candidates
+<li>Partner candidates</li>
 
-- Mentor figures
+<li>Mentor figures</li>
 
-- Resource providers
+<li>Resource providers</li>
 
-3. **Financial Backers**
+</ul>
+<p>3. **Financial Backers**</p>
 
-- Token investors
+<ul>
+<li>Token investors</li>
 
-- Future equity interest
+<li>Future equity interest</li>
 
-- Revenue participants
+<li>Revenue participants</li>
 
-- Growth catalysts
+<li>Growth catalysts</li>
 
-- Exit buyers
-** What Echoes Want:
-- ** Transparent progress
-- Regular updates
-- Insider access
-- Community voice
-- Value appreciation
+<li>Exit buyers</li>
 
+</ul>
+<p>** What Echoes Want:**</p>
+<ul>
+<li>**Transparent progress**</li>
+<li>Regular updates</li>
+<li>Insider access</li>
+<li>Community voice</li>
+<li>Value appreciation</li>
+
+</ul>
 </div>
 
 ### Echo Psychology
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Understanding Motivations
-** Why Echoes Signal:
+<h3>🧠 Understanding Motivations</h3>
+<p>** Why Echoes Signal:**</p>
 ```python
-echo_motivations = {
-    "financial": {
-        "primary": "Token appreciation",
-        "secondary": "Early access deals",
-        "tertiary": "Network effects"
-    },
-    "strategic": {
-        "primary": "Industry advancement",
-        "secondary": "Innovation access",
-        "tertiary": "Influence opportunity"
-    },
-    "social": {
-        "primary": "Community belonging",
-        "secondary": "Status signaling",
-        "tertiary": "Knowledge sharing"
-    },
-    "altruistic": {
-        "primary": "Supporting innovation",
-        "secondary": "Helping founders",
-        "tertiary": "Ecosystem growth"
-    }
-}
+<p>echo_motivations = {</p>
+<p>"financial": {</p>
+<p>"primary": "Token appreciation",</p>
+<p>"secondary": "Early access deals",</p>
+<p>"tertiary": "Network effects"</p>
+<p>},</p>
+<p>"strategic": {</p>
+<p>"primary": "Industry advancement",</p>
+<p>"secondary": "Innovation access",</p>
+<p>"tertiary": "Influence opportunity"</p>
+<p>},</p>
+<p>"social": {</p>
+<p>"primary": "Community belonging",</p>
+<p>"secondary": "Status signaling",</p>
+<p>"tertiary": "Knowledge sharing"</p>
+<p>},</p>
+<p>"altruistic": {</p>
+<p>"primary": "Supporting innovation",</p>
+<p>"secondary": "Helping founders",</p>
+<p>"tertiary": "Ecosystem growth"</p>
+<p>}</p>
+<p>}</p>
 ```
-** Engagement Principles:
-- ** Acknowledge all motivations
-- Deliver on expectations
-- Create multiple value streams
-- Build genuine relationships
-- Foster community connections
 
+
+
+<p>Engagement Principles:**</p>
+<ul>
+<li>**Acknowledge all motivations**</li>
+<li>Deliver on expectations</li>
+<li>Create multiple value streams</li>
+<li>Build genuine relationships</li>
+<li>Foster community connections</li>
+
+</ul>
 </div>
 
 ## Building Your Echo Community
 
 ### Pre-Launch Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Before You Need Them
-**Foundation Building:** Week -4: Story Development```markdown
-** Craft Your Narrative:
-- Problem clarity
-- Solution vision
-- Founder story
-- Mission alignment
-- Future impact
+<h3>🚀 Before You Need Them</h3>
+<p>**Foundation Building:**</p>
+
+<p>**Week -4: Story Development```markdown**</p>
+<p>** Craft Your Narrative:**</p>
+<ul>
+<li>Problem clarity</li>
+<li>Solution vision</li>
+<li>Founder story</li>
+<li>Mission alignment</li>
+<li>Future impact</li>
 ```
 
-**Week -3: Content Creation
-- ** Blog posts
-- Social presence
-- Video introductions
-- Technical deep-dives
-- Vision documents
-**Week -2: Community Seeding
-- ** Discord/Telegram setup
-- Early access list
-- Influencer outreach
-- Content distribution
-- Feedback gathering
-**Week -1: Launch Preparation
-- ** Milestone preview
-- Signal mechanics explanation
-- FAQ preparation
-- Support systems
-- Launch countdown
+</ul>
+<p>**Week -3: Content Creation**</p>
+<ul>
+<li>**Blog posts**</li>
+<li>Social presence</li>
+<li>Video introductions</li>
+<li>Technical deep-dives</li>
+<li>Vision documents</li>
 
+</ul>
+<p>**Week -2: Community Seeding**</p>
+<ul>
+<li>**Discord/Telegram setup**</li>
+<li>Early access list</li>
+<li>Influencer outreach</li>
+<li>Content distribution</li>
+<li>Feedback gathering</li>
+
+</ul>
+<p>**Week -1: Launch Preparation**</p>
+<ul>
+<li>**Milestone preview**</li>
+<li>Signal mechanics explanation</li>
+<li>FAQ preparation</li>
+<li>Support systems</li>
+<li>Launch countdown</li>
+
+</ul>
 </div>
 
 ### Launch Activation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💫 Making Your Debut
-**Launch Week Activities:** Day 1: Announcement```javascript
-const launchStrategy = {
-    morning: {
-        action: "Milestone declaration",
-        channels: ["Platform", "Discord", "Twitter"],
-        content: "Vision + Metrics + Timeline"
-    },
-    afternoon: {
-        action: "Founder AMA",
-        duration: "2 hours",
-        focus: "Q&A + Vision sharing"
-    },
-    evening: {
-        action: "Early bird rewards",
-        incentive: "First 100 signals",
-        bonus: "Exclusive access/perks"
-    }
-};
+<h3>💫 Making Your Debut</h3>
+<p>**Launch Week Activities:**</p>
+
+<p>**Day 1: Announcement```javascript**</p>
+<p>const launchStrategy = {</p>
+<p>morning: {</p>
+<p>action: "Milestone declaration",</p>
+<p>channels: ["Platform", "Discord", "Twitter"],</p>
+<p>content: "Vision + Metrics + Timeline"</p>
+<p>},</p>
+<p>afternoon: {</p>
+<p>action: "Founder AMA",</p>
+<p>duration: "2 hours",</p>
+<p>focus: "Q&A + Vision sharing"</p>
+<p>},</p>
+<p>evening: {</p>
+<p>action: "Early bird rewards",</p>
+<p>incentive: "First 100 signals",</p>
+<p>bonus: "Exclusive access/perks"</p>
+<p>}</p>
+<p>};</p>
 ```
 
-**Days 2-7: Momentum Building
-- ** Daily updates
-- Progress sharing
-- Echo spotlights
-- Milestone clarification
-- Community events
+<p>**Days 2-7: Momentum Building**</p>
+<ul>
+<li>**Daily updates**</li>
+<li>Progress sharing</li>
+<li>Echo spotlights</li>
+<li>Milestone clarification</li>
+<li>Community events</li>
 
+</ul>
 </div>
 
 ## Communication Excellence
 
 ### Update Cadence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 Keeping Echoes Informed
-**Communication Schedule:| Frequency | Type | Content | Channel |
-|-----------|------|---------|----------|
-| Daily | Quick Update | Progress + Blockers | Discord |
-| Weekly | Deep Dive | Metrics + Insights | Blog/Email |
-| Bi-weekly | Community Call | Q&A + Demo | Video/Voice |
-| Monthly | Investor Update | Full Report | Email/Portal |
-| Milestone | Major Update | Achievement | All Channels |
-** Update Template:
+<h3>📅 Keeping Echoes Informed</h3>
+<p>**Communication Schedule:| Frequency | Type | Content | Channel |**</p>
+<p>|-----------|------|---------|----------|</p>
+<p>| Daily | Quick Update | Progress + Blockers | Discord |</p>
+<p>| Weekly | Deep Dive | Metrics + Insights | Blog/Email |</p>
+<p>| Bi-weekly | Community Call | Q&A + Demo | Video/Voice |</p>
+<p>| Monthly | Investor Update | Full Report | Email/Portal |</p>
+<p>| Milestone | Major Update | Achievement | All Channels |</p>
+
+<p>** Update Template:**</p>
 ```markdown
-## Weekly Update #X
 
-### 🎯 Progress
-- [Key achievement 1]
-- [Key achievement 2]
-- [Key achievement 3]
+<h2>Weekly Update #X</h2>
 
-### 📊 Metrics
-- Users: X (↑Y%)
-- Revenue: $X (↑Y%)
-- NPS: X (↑Y)
+<h3>🎯 Progress</h3>
+<ul>
+<li>[Key achievement 1]</li>
+<li>[Key achievement 2]</li>
+<li>[Key achievement 3]</li>
 
-### 🚧 Challenges
-- [Challenge + Solution]
-- [Blocker + Timeline]
+<h3>📊 Metrics</h3>
+<li>Users: X (↑Y%)</li>
+<li>Revenue: $X (↑Y%)</li>
+<li>NPS: X (↑Y)</li>
 
-### 🎉 Community Wins
-- [Echo contribution]
-- [User success story]
+<h3>🚧 Challenges</h3>
+<li>[Challenge + Solution]</li>
+<li>[Blocker + Timeline]</li>
 
-### 👀 Coming Next
-- [Next week focus]
-- [How Echoes can help]
+<h3>🎉 Community Wins</h3>
+<li>[Echo contribution]</li>
+<li>[User success story]</li>
+
+<h3>👀 Coming Next</h3>
+<li>[Next week focus]</li>
+<li>[How Echoes can help]</li>
 ```
 
+</ul>
 </div>
 
 ### Transparency Balance
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 What to Share vs. Protect
-**Share Openly:✅ Progress metrics
-✅ General challenges
-✅ Team updates
-✅ Product roadmap
-✅ Community impact
-✅ Learning moments
-✅ Success stories
-** Share Carefully:
-**⚠️ Specific financials
-⚠️ Technical secrets
-⚠️ Legal issues
-⚠️ Personnel problems
-⚠️ Strategic pivots
-⚠️ Competitive intel
-⚠️ Partner negotiations
-** Never Share:
-**❌ User private data
-❌ Security vulnerabilities
-❌ Unverified information
-❌ Internal conflicts
-❌ Trade secrets
+<h3>🔍 What to Share vs. Protect</h3>
+<p>**Share Openly:✅ Progress metrics**</p>
+<p>✅ General challenges</p>
+<p>✅ Team updates</p>
+<p>✅ Product roadmap</p>
+<p>✅ Community impact</p>
+<p>✅ Learning moments</p>
+<p>✅ Success stories</p>
+
+<p>** Share Carefully:**</p>
+<p>**⚠️ Specific financials**</p>
+<p>⚠️ Technical secrets</p>
+<p>⚠️ Legal issues</p>
+<p>⚠️ Personnel problems</p>
+<p>⚠️ Strategic pivots</p>
+<p>⚠️ Competitive intel</p>
+<p>⚠️ Partner negotiations</p>
+
+<p>** Never Share:**</p>
+<p>**❌ User private data**</p>
+<p>❌ Security vulnerabilities</p>
+<p>❌ Unverified information</p>
+<p>❌ Internal conflicts</p>
+<p>❌ Trade secrets</p>
 
 </div>
 
@@ -250,87 +286,112 @@ const launchStrategy = {
 
 ### Engagement Programs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎮 Making Participation Fun
-** Engagement Initiatives:
-1. **Echo Ambassador Program**
+<h3>🎮 Making Participation Fun</h3>
+<p>** Engagement Initiatives:**</p>
+<p>1. **Echo Ambassador Program**</p>
    ```python
-   ambassador_rewards = {
-       "referrals": "5% signal bonus",
-       "content_creation": "100 $SIGNAL/piece",
-       "community_moderation": "Monthly rewards",
-       "bug_reporting": "Bounty program",
-       "feature_suggestions": "Implementation credits"
-   }
+<p>ambassador_rewards = {</p>
+<p>"referrals": "5% signal bonus",</p>
+<p>"content_creation": "100 $SIGNAL/piece",</p>
+<p>"community_moderation": "Monthly rewards",</p>
+<p>"bug_reporting": "Bounty program",</p>
+<p>"feature_suggestions": "Implementation credits"</p>
+<p>}</p>
    ```
 
-2. **Exclusive Access**
+<p>2. **Exclusive Access**</p>
 
-- Beta features
+<ul>
+<li>Beta features</li>
 
-- Founder calls
+<li>Founder calls</li>
 
-- Strategy sessions
+<li>Strategy sessions</li>
 
-- Early announcements
+<li>Early announcements</li>
 
-- Special events
+<li>Special events</li>
 
-3. **Recognition Systems**
+</ul>
+<p>3. **Recognition Systems**</p>
 
-- Leaderboards
+<ul>
+<li>Leaderboards</li>
 
-- Badges/NFTs
+<li>Badges/NFTs</li>
 
-- Public shoutouts
+<li>Public shoutouts</li>
 
-- Case studies
+<li>Case studies</li>
 
-- Advisory roles
+<li>Advisory roles</li>
 
+</ul>
 </div>
 
 ### Leveraging Echo Networks
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌐 Network Effects
-**Network Activation:** Customer Acquisition
-- ** Echo referral programs
-- Network introductions
-- Social amplification
-- Testimonial campaigns
-- Case study features
-**Talent Sourcing
-- ** Skill matching
-- Hiring bonuses
-- Contractor pools
-- Advisory recruitment
-- Mentorship connections
-**Partnership Development
-- ** B2B introductions
-- Integration opportunities
-- Distribution channels
-- Strategic alliances
-- Investment connections
-** Ask Framework:
+<h3>🌐 Network Effects</h3>
+<p>**Network Activation:**</p>
+
+<p>**Customer Acquisition**</p>
+<ul>
+<li>**Echo referral programs**</li>
+<li>Network introductions</li>
+<li>Social amplification</li>
+<li>Testimonial campaigns</li>
+<li>Case study features</li>
+
+</ul>
+<p>**Talent Sourcing**</p>
+<ul>
+<li>**Skill matching**</li>
+<li>Hiring bonuses</li>
+<li>Contractor pools</li>
+<li>Advisory recruitment</li>
+<li>Mentorship connections</li>
+
+</ul>
+<p>**Partnership Development**</p>
+<ul>
+<li>**B2B introductions**</li>
+<li>Integration opportunities</li>
+<li>Distribution channels</li>
+<li>Strategic alliances</li>
+<li>Investment connections</li>
+
+</ul>
+<p>** Ask Framework:**</p>
 ```markdown
-"Hey Echoes! We need help with [specific need].
+<p>"Hey Echoes! We need help with [specific need].</p>
 
-** What we're looking for:
-- [Specific requirement 1]
-- [Specific requirement 2]
 
-** How you can help:
-- [Action 1]
-- [Action 2]
 
-** What's in it for you:
-- [Benefit 1]
-- [Benefit 2]
+<p>What we're looking for:**</p>
+<ul>
+<li>[Specific requirement 1]</li>
+<li>[Specific requirement 2]</li>
 
-DM me if you can help! 🙏"
+</ul>
+<p>** How you can help:**</p>
+<ul>
+<li>[Action 1]</li>
+<li>[Action 2]</li>
+
+
+
+</ul>
+<p>What's in it for you:**</p>
+<ul>
+<li>[Benefit 1]</li>
+<li>[Benefit 2]</li>
+
+</ul>
+<p>DM me if you can help! 🙏"</p>
 ```
 
 </div>
@@ -339,275 +400,312 @@ DM me if you can help! 🙏"
 
 ### Setting Boundaries
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚦 Healthy Community Dynamics
-** Expectation Management:
-1. **Clear Guidelines:**
+<h3>🚦 Healthy Community Dynamics</h3>
+<p>** Expectation Management:**</p>
+<p>1. **Clear Guidelines:**</p>
 
-- Response times
+<ul>
+<li>Response times</li>
 
-- Update frequency
+<li>Update frequency</li>
 
-- Decision process
+<li>Decision process</li>
 
-- Influence limits
+<li>Influence limits</li>
 
-- Risk disclaimers
+<li>Risk disclaimers</li>
 
-2. **Consistent Enforcement**
+</ul>
+<p>2. **Consistent Enforcement**</p>
 
-- Community rules
+<ul>
+<li>Community rules</li>
 
-- Behavior standards
+<li>Behavior standards</li>
 
-- Spam prevention
+<li>Spam prevention</li>
 
-- FUD management
+<li>FUD management</li>
 
-- Conflict resolution
+<li>Conflict resolution</li>
 
-3. **Realistic Promises**
+</ul>
+<p>3. **Realistic Promises**</p>
 
-- Achievable timelines
+<ul>
+<li>Achievable timelines</li>
 
-- Honest assessments
+<li>Honest assessments</li>
 
-- Risk communication
+<li>Risk communication</li>
 
-- Pivot explanations
+<li>Pivot explanations</li>
 
-- Failure ownership
+<li>Failure ownership</li>
 
+</ul>
 </div>
 
 ### Handling Criticism
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💭 Turning Doubt into Growth
-** Criticism Response Framework:
+<h3>💭 Turning Doubt into Growth</h3>
+<p>** Criticism Response Framework:**</p>
 ```python
-** def handle_echo_criticism(feedback):
-    # 1. Acknowledge quickly
-    response = "Thanks for the feedback. Let me address this..."
-    
-    # 2. Assess validity
-** if feedback.is_valid():
-        response += f"You raise a good point about {issue}."
-        action_plan = create_improvement_plan(feedback)
-        response += f"Here's what we're doing: {action_plan}"
-    
-    # 3. Learn and improve
-    learnings = extract_insights(feedback)
-    implement_changes(learnings)
-    
-    # 4. Follow up
-    schedule_update_on_progress()
-    
-    return response
-```
-** Best Practices:
-- ** Never ignore criticism
-- Respond professionally
-- Find the kernel of truth
-- Show improvement
-- Thank critical Echoes
 
+<p>**def handle_echo_criticism(feedback):**</p>
+<h1>1. Acknowledge quickly</h1>
+<p>response = "Thanks for the feedback. Let me address this..."</p>
+
+<h1>2. Assess validity</h1>
+
+
+<p>if feedback.is_valid():**</p>
+<p>response += f"You raise a good point about {issue}."</p>
+<p>action_plan = create_improvement_plan(feedback)</p>
+<p>response += f"Here's what we're doing: {action_plan}"</p>
+
+<h1>3. Learn and improve</h1>
+<p>learnings = extract_insights(feedback)</p>
+<p>implement_changes(learnings)</p>
+
+<h1>4. Follow up</h1>
+<p>schedule_update_on_progress()</p>
+
+<p>return response</p>
+```
+
+<p>** Best Practices:**</p>
+<ul>
+<li>**Never ignore criticism**</li>
+<li>Respond professionally</li>
+<li>Find the kernel of truth</li>
+<li>Show improvement</li>
+<li>Thank critical Echoes</li>
+
+</ul>
 </div>
 
 ## Advanced Strategies
 
 ### Echo Segmentation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Targeted Engagement
-** Segment Types:
-**| Segment | Characteristics | Engagement Strategy |
-|---------|----------------|---------------------|
-|**Whales** | Large signals | Personal attention |
-|**Experts** | Domain knowledge | Technical discussions |
-|**Influencers** | Large following | Content partnerships |
-|**Builders** | Technical skills | Development involvement |
-|**Evangelists** | High enthusiasm | Community leadership |
-** Personalization Tactics:
-- ** Segment-specific channels
-- Tailored content
-- Exclusive opportunities
-- Direct communication
-- Custom rewards
+<h3>🎯 Targeted Engagement</h3>
+<p>** Segment Types:**</p>
+<p>**| Segment | Characteristics | Engagement Strategy |**</p>
+<p>|---------|----------------|---------------------|</p>
+<p>| **Whales** | Large signals | Personal attention |</p>
+<p>| **Experts** | Domain knowledge | Technical discussions |</p>
+<p>| **Influencers** | Large following | Content partnerships |</p>
+<p>| **Builders** | Technical skills | Development involvement |</p>
+<p>| **Evangelists** | High enthusiasm | Community leadership |</p>
 
+<p>** Personalization Tactics:**</p>
+<ul>
+<li>**Segment-specific channels**</li>
+<li>Tailored content</li>
+<li>Exclusive opportunities</li>
+<li>Direct communication</li>
+<li>Custom rewards</li>
+
+</ul>
 </div>
 
 ### Creating FOMO
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Positive Urgency
-** FOMO Strategies:
-1. **Limited Opportunities**
+<h3>⚡ Positive Urgency</h3>
+<p>** FOMO Strategies:**</p>
+<p>1. **Limited Opportunities**</p>
 
-- Early bird bonuses
+<ul>
+<li>Early bird bonuses</li>
 
-- Exclusive access tiers
-- Time
-- limited rewards
+<li>Exclusive access tiers</li>
+<li>Time</li>
+<li>limited rewards</li>
 
-- Capacity constraints
+<li>Capacity constraints</li>
 
-- Special editions
+<li>Special editions</li>
 
-2. **Social Proof**
+</ul>
+<p>2. **Social Proof**</p>
 
-- Signal counter
+<ul>
+<li>Signal counter</li>
 
-- Notable Echoes
+<li>Notable Echoes</li>
 
-- Success metrics
+<li>Success metrics</li>
 
-- Media coverage
+<li>Media coverage</li>
 
-- Testimonials
+<li>Testimonials</li>
 
-3. **Momentum Indicators**
+</ul>
+<p>3. **Momentum Indicators**</p>
 
-- Growth charts
+<ul>
+<li>Growth charts</li>
 
-- Milestone progress
+<li>Milestone progress</li>
 
-- Community size
+<li>Community size</li>
 
-- Engagement metrics
+<li>Engagement metrics</li>
 
-- Velocity increases
-** Ethical FOMO:
-- ** Always be truthful
-- Create real value
-- Deliver on promises
-- Maintain scarcity honestly
-- Focus on opportunity
+<li>Velocity increases</li>
 
+</ul>
+<p>** Ethical FOMO:**</p>
+<ul>
+<li>**Always be truthful**</li>
+<li>Create real value</li>
+<li>Deliver on promises</li>
+<li>Maintain scarcity honestly</li>
+<li>Focus on opportunity</li>
+
+</ul>
 </div>
 
 ## Retention Strategies
 
 ### Keeping Echoes Engaged
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Long-Term Relationships
-** Retention Pillars:
-1. **Continuous Value**
+<h3>🔄 Long-Term Relationships</h3>
+<p>** Retention Pillars:**</p>
+<p>1. **Continuous Value**</p>
 
-- Regular updates
+<ul>
+<li>Regular updates</li>
 
-- Exclusive benefits
+<li>Exclusive benefits</li>
 
-- Growing returns
+<li>Growing returns</li>
 
-- Community growth
+<li>Community growth</li>
 
-- Achievement celebration
+<li>Achievement celebration</li>
 
-2. **Deepening Involvement**
+</ul>
+<p>2. **Deepening Involvement**</p>
 
-- Advisory opportunities
+<ul>
+<li>Advisory opportunities</li>
 
-- Product input
+<li>Product input</li>
 
-- Community leadership
+<li>Community leadership</li>
 
-- Partnership potential
+<li>Partnership potential</li>
 
-- Exit participation
+<li>Exit participation</li>
 
-3. **Relationship Building**
+</ul>
+<p>3. **Relationship Building**</p>
 
-- Personal recognition
+<ul>
+<li>Personal recognition</li>
 
-- Direct communication
+<li>Direct communication</li>
 
-- Feedback implementation
+<li>Feedback implementation</li>
 
-- Trust development
+<li>Trust development</li>
 
-- Mutual success
+<li>Mutual success</li>
 
+</ul>
 </div>
 
 ### Re-engagement Campaigns
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎣 Winning Back Inactive Echoes
-** Re-engagement Process:
+<h3>🎣 Winning Back Inactive Echoes</h3>
+<p>** Re-engagement Process:**</p>
 ```markdown
-## Win-Back Campaign
 
-### Week 1: Analysis
-- Identify inactive Echoes
-- Understand drop-off reasons
-- Segment by potential
+<h2>Win-Back Campaign</h2>
 
-### Week 2: Outreach
-Subject: "We miss you! Here's what you've missed..."
+<h3>Week 1: Analysis</h3>
+<ul>
+<li>Identify inactive Echoes</li>
+<li>Understand drop-off reasons</li>
+<li>Segment by potential</li>
 
-- Major achievements
-- New opportunities
-- Exclusive offer
-- Personal message
+<h3>Week 2: Outreach</h3>
+</ul>
+<p>Subject: "We miss you! Here's what you've missed..."</p>
 
-### Week 3: Incentives
-- Comeback bonuses
-- Exclusive access
-- Direct founder call
-- Special recognition
+<ul>
+<li>Major achievements</li>
+<li>New opportunities</li>
+<li>Exclusive offer</li>
+<li>Personal message</li>
 
-### Week 4: Follow-up
-- Thank active returns
-- Gather feedback
-- Implement suggestions
-- Maintain engagement
+<h3>Week 3: Incentives</h3>
+<li>Comeback bonuses</li>
+<li>Exclusive access</li>
+<li>Direct founder call</li>
+<li>Special recognition</li>
+
+<h3>Week 4: Follow-up</h3>
+<li>Thank active returns</li>
+<li>Gather feedback</li>
+<li>Implement suggestions</li>
+<li>Maintain engagement</li>
 ```
 
+</ul>
 </div>
 
 ## Metrics & Measurement
 
 ### Echo Analytics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Tracking Community Health
-** Key Metrics:
+<h3>📊 Tracking Community Health</h3>
+
+
+<p>Key Metrics:**</p>
 ```python
-echo_metrics = {
-    "acquisition": {
-        "new_echoes_weekly": target(50),
-        "signal_velocity": track_trend(),
-        "conversion_rate": measure_percentage(),
-        "acquisition_cost": calculate_cac()
-    },
-    "engagement": {
-        "active_rate": "% engaged weekly",
-        "message_frequency": "avg messages/echo",
-        "event_attendance": "% joining calls",
-        "content_interaction": "likes/shares/comments"
-    },
-    "retention": {
-        "30_day_retention": target(0.8),
-        "90_day_retention": target(0.6),
-        "churn_rate": monitor_monthly(),
-        "reactivation_rate": track_campaigns()
-    },
-    "value": {
-        "referral_rate": measure_network_growth(),
-        "contribution_value": track_help_provided(),
-        "signal_growth": monitor_increases(),
-        "ltv_calculation": estimate_lifetime_value()
-    }
-}
+<p>echo_metrics = {</p>
+<p>"acquisition": {</p>
+<p>"new_echoes_weekly": target(50),</p>
+<p>"signal_velocity": track_trend(),</p>
+<p>"conversion_rate": measure_percentage(),</p>
+<p>"acquisition_cost": calculate_cac()</p>
+<p>},</p>
+<p>"engagement": {</p>
+<p>"active_rate": "% engaged weekly",</p>
+<p>"message_frequency": "avg messages/echo",</p>
+<p>"event_attendance": "% joining calls",</p>
+<p>"content_interaction": "likes/shares/comments"</p>
+<p>},</p>
+<p>"retention": {</p>
+<p>"30_day_retention": target(0.8),</p>
+<p>"90_day_retention": target(0.6),</p>
+<p>"churn_rate": monitor_monthly(),</p>
+<p>"reactivation_rate": track_campaigns()</p>
+<p>},</p>
+<p>"value": {</p>
+<p>"referral_rate": measure_network_growth(),</p>
+<p>"contribution_value": track_help_provided(),</p>
+<p>"signal_growth": monitor_increases(),</p>
+<p>"ltv_calculation": estimate_lifetime_value()</p>
+<p>}</p>
+<p>}</p>
 ```
 
 </div>
@@ -616,41 +714,51 @@ echo_metrics = {
 
 ### Echo Engagement Pitfalls
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ What Not to Do
-** Avoid These Mistakes:
-1. **Over-promising**
+<h3>⚠️ What Not to Do</h3>
+<p>** Avoid These Mistakes:**</p>
+<p>1. **Over-promising**</p>
 
-- Problem: Unrealistic expectations
-- Solution: Under
-- promise, over
-- deliver
+<ul>
+<li>Problem: Unrealistic expectations</li>
+<li>Solution: Under</li>
+<li>promise, over</li>
+<li>deliver</li>
 
-2. **Under-communicating**
+</ul>
+<p>2. **Under-communicating**</p>
 
-- Problem: Echo anxiety
+<ul>
+<li>Problem: Echo anxiety</li>
 
-- Solution: Regular updates
+<li>Solution: Regular updates</li>
 
-3. **Ignoring Feedback**
+</ul>
+<p>3. **Ignoring Feedback**</p>
 
-- Problem: Community alienation
+<ul>
+<li>Problem: Community alienation</li>
 
-- Solution: Active listening
+<li>Solution: Active listening</li>
 
-4. **Playing Favorites**
+</ul>
+<p>4. **Playing Favorites**</p>
 
-- Problem: Community division
+<ul>
+<li>Problem: Community division</li>
 
-- Solution: Fair treatment
+<li>Solution: Fair treatment</li>
 
-5. **Lack of Transparency**
+</ul>
+<p>5. **Lack of Transparency**</p>
 
-- Problem: Trust erosion
+<ul>
+<li>Problem: Trust erosion</li>
 
-- Solution: Open communication
+<li>Solution: Open communication</li>
 
+</ul>
 </div>
 
 ## Next Steps

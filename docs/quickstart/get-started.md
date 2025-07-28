@@ -2,75 +2,93 @@
 
 ## Your First Steps into Studio3
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Ready to Begin?
+<h3>🚀 Ready to Begin?</h3>
 
-**Getting started with Studio3 is simple:**
+<p>**Getting started with Studio3 is simple:**</p>
 
-1. **Choose your role** based on your goals
-2. **Create your account** and connect wallet
-3. **Start small** to learn the system
-4. **Engage actively** with the community
-5. **Build your reputation** over time</div>
+<p>1. **Choose your role** based on your goals</p>
+<p>2. **Create your account** and connect wallet</p>
+<p>3. **Start small** to learn the system</p>
+<p>4. **Engage actively** with the community</p>
+</div>
 
 ## 🎯 Step 1: Choose Your Path
 
 ### Which Role Fits You Best?
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ Become a Sender
+<h3>🏗️ Become a Sender</h3>
 
-** If you have:
-- A venture idea
-- Execution ability
-- Public comfort
-- Risk tolerance
+<p>** If you have:**</p>
+<ul>
+<li>A venture idea</li>
+<li>Execution ability</li>
+<li>Public comfort</li>
+<li>Risk tolerance</li>
 
-** You'll need:
-- 1,000+ $SIGNAL tokens
-- Time commitment (full-time)
-- Team building skills
 
-[Start as Sender →](../senders-guide/)
 
-</div>
+</ul>
+<p>You'll need:**</p>
+<ul>
+<li>1,000+ $SIGNAL tokens</li>
+<li>Time commitment (full-time)</li>
+<li>Team building skills</li>
 
-<div class="arena-card" markdown="1">
-
-### 📡 Become an Echo
-** If you have:
-- Investment capital
-- Analysis skills
-- Risk appetite
-- Market intuition
-
-** You'll need:
-- 100+ $SIGNAL tokens
-- Daily time (30-60 min)
-- Research mindset
-
-[Start as Echo →](../echoes-guide/)
+</ul>
+<p>[Start as Sender →](../senders-guide/)</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚓ Become an Anchor
-** If you have:
-- Industry expertise
-- Mentoring experience
-- Quality standards
-- Available time
+<h3>📡 Become an Echo</h3>
+<p>** If you have:**</p>
+<ul>
+<li>Investment capital</li>
+<li>Analysis skills</li>
+<li>Risk appetite</li>
+<li>Market intuition</li>
 
-** You'll need:
-- Proven track record
-- 2-4 hours daily
-- Fair judgment
 
-[Start as Anchor →](../anchors-guide/)
+
+</ul>
+<p>You'll need:**</p>
+<ul>
+<li>100+ $SIGNAL tokens</li>
+<li>Daily time (30-60 min)</li>
+<li>Research mindset</li>
+
+</ul>
+<p>[Start as Echo →](../echoes-guide/)</p>
+
+</div>
+
+<div class="arena-card">
+
+<h3>⚓ Become an Anchor</h3>
+<p>** If you have:**</p>
+<ul>
+<li>Industry expertise</li>
+<li>Mentoring experience</li>
+<li>Quality standards</li>
+<li>Available time</li>
+
+
+
+</ul>
+<p>You'll need:**</p>
+<ul>
+<li>Proven track record</li>
+<li>2-4 hours daily</li>
+<li>Fair judgment</li>
+
+</ul>
+<p>[Start as Anchor →](../anchors-guide/)</p>
 
 </div>
 </div>
@@ -79,37 +97,43 @@
 
 ### Technical Requirements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 What You Need
+<h3>💻 What You Need</h3>
 
-1. **Web3 Wallet**
+<p>1. **Web3 Wallet**</p>
 
-- MetaMask (recommended)
+<ul>
+<li>MetaMask (recommended)</li>
 
-   
-- WalletConnect compatible
 
-- Hardware wallet (optional but recommended)
+<li>WalletConnect compatible</li>
 
-2. **$SIGNAL Tokens**
+<li>Hardware wallet (optional but recommended)</li>
 
-- Minimum based on role
+</ul>
+<p>2. **$SIGNAL Tokens**</p>
 
-   
-- Available on major DEXs
+<ul>
+<li>Minimum based on role</li>
 
-- Start small to learn
 
-3. **Platform Access**
+<li>Available on major DEXs</li>
 
-- Visit [studio3.xyz](https://studio3.xyz)
+<li>Start small to learn</li>
 
-   
-- Connect wallet
+</ul>
+<p>3. **Platform Access**</p>
 
-- Complete profile
+<ul>
+<li>Visit [studio3.xyz](https://studio3.xyz)</li>
 
+
+<li>Connect wallet</li>
+
+<li>Complete profile</li>
+
+</ul>
 </div>
 
 ### Account Setup Process
@@ -126,22 +150,28 @@
 
 ### Essential Knowledge
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📖 Must-Read Resources
+<h3>📖 Must-Read Resources</h3>
 
-** For All Participants:
-- This Quickstart guide (you're here!)
-- [Overview Guide](../overview-guide/index.md)
-- Complete system understanding
-- Community Code of Conduct
-- Platform Terms of Service
+<p>** For All Participants:**</p>
+<ul>
+<li>This Quickstart guide (you're here!)</li>
+<li>[Overview Guide](../overview-guide/index.md)</li>
+<li>Complete system understanding</li>
+<li>Community Code of Conduct</li>
+<li>Platform Terms of Service</li>
 
-** Role-Specific:
-- Your chosen role's complete guide
-- Success stories from veterans
-- Common mistakes to avoid
 
+
+</ul>
+<p>Role-Specific:**</p>
+<ul>
+<li>Your chosen role's complete guide</li>
+<li>Success stories from veterans</li>
+<li>Common mistakes to avoid</li>
+
+</ul>
 </div>
 
 ### Key Concepts to Master
@@ -167,39 +197,39 @@
 ### Your First Actions
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🏗️ First Sender Steps
+<p>#### 🏗️ First Sender Steps</p>
 
-1. Browse existing ventures
-2. Study successful patterns
-3. Prepare your Spark idea
-4. Engage with community
-5. Plan first milestone
-
-</div>
-
-<div class="arena-card" markdown="1">
-
-#### 📡 First Echo Steps
-
-1. Make tiny test signal (10 $SIGNAL)
-2. Research 5 ventures daily
-3. Join Echo discussion groups
-4. Track your predictions
-5. Learn from outcomes
+<p>1. Browse existing ventures</p>
+<p>2. Study successful patterns</p>
+<p>3. Prepare your Spark idea</p>
+<p>4. Engage with community</p>
+<p>5. Plan first milestone</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### ⚓ First Anchor Steps
+<p>#### 📡 First Echo Steps</p>
 
-1. Apply for Anchor status
-2. Shadow current validators
-3. Study quality standards
-4. Prepare validation tools
-5. Start with simple reviews
+<p>1. Make tiny test signal (10 $SIGNAL)</p>
+<p>2. Research 5 ventures daily</p>
+<p>3. Join Echo discussion groups</p>
+<p>4. Track your predictions</p>
+<p>5. Learn from outcomes</p>
+
+</div>
+
+<div class="arena-card">
+
+<p>#### ⚓ First Anchor Steps</p>
+
+<p>1. Apply for Anchor status</p>
+<p>2. Shadow current validators</p>
+<p>3. Study quality standards</p>
+<p>4. Prepare validation tools</p>
+<p>5. Start with simple reviews</p>
 
 </div>
 </div>
@@ -208,27 +238,35 @@
 
 ### Where to Connect
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💬 Community Channels
+<h3>💬 Community Channels</h3>
 
-** Discord Server:
-- Real-time chat
-- Role-specific channels
-- Voice rooms for discussions
-- Event announcements
+<p>** Discord Server:**</p>
+<ul>
+<li>Real-time chat</li>
+<li>Role-specific channels</li>
+<li>Voice rooms for discussions</li>
+<li>Event announcements</li>
 
-** Forum:
-- Deep discussions
-- Proposal debates
-- Strategy sharing
-- Knowledge base
 
-** Social Media:
-- Twitter for updates
-- YouTube for tutorials
-- Medium for insights
 
+</ul>
+<p>Forum:**</p>
+<ul>
+<li>Deep discussions</li>
+<li>Proposal debates</li>
+<li>Strategy sharing</li>
+<li>Knowledge base</li>
+
+</ul>
+<p>** Social Media:**</p>
+<ul>
+<li>Twitter for updates</li>
+<li>YouTube for tutorials</li>
+<li>Medium for insights</li>
+
+</ul>
 </div>
 
 ### Building Relationships
@@ -243,24 +281,30 @@
 
 ### The XP System
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 Reputation Matters
+<h3>🌟 Reputation Matters</h3>
 
-** How to earn XP:
-- Successful milestones (Senders)
-- Accurate signals (Echoes)
-- Quality validations (Anchors)
-- Community contributions
-- Consistent participation
+<p>** How to earn XP:**</p>
+<ul>
+<li>Successful milestones (Senders)</li>
+<li>Accurate signals (Echoes)</li>
+<li>Quality validations (Anchors)</li>
+<li>Community contributions</li>
+<li>Consistent participation</li>
 
-** Benefits of high XP:
-- Better multipliers
-- Priority access
-- Trusted status
-- Governance weight
-- Network effects
 
+
+</ul>
+<p>Benefits of high XP:**</p>
+<ul>
+<li>Better multipliers</li>
+<li>Priority access</li>
+<li>Trusted status</li>
+<li>Governance weight</li>
+<li>Network effects</li>
+
+</ul>
 </div>
 
 ### Long-term Strategy
@@ -283,28 +327,36 @@
 
 ## 🎯 Quick Start Checklist
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ Your First Week
+<h3>✅ Your First Week</h3>
 
-** Day 1:
-- [ ] Choose your role
-- [ ] Set up wallet
-- [ ] Get $SIGNAL tokens
-- [ ] Create account
+<p>** Day 1:**</p>
+<ul>
+<li>[ ] Choose your role</li>
+<li>[ ] Set up wallet</li>
+<li>[ ] Get $SIGNAL tokens</li>
+<li>[ ] Create account</li>
 
-** Day 2-3:
-- [ ] Read your role guide
-- [ ] Join Discord
-- [ ] Introduce yourself
-- [ ] Observe active ventures
 
-** Day 4-7:
-- [ ] Make first action (signal/pitch/application)
-- [ ] Connect with 5 community members
-- [ ] Attend one community event
-- [ ] Plan your strategy
 
+</ul>
+<p>Day 2-3:**</p>
+<ul>
+<li>[ ] Read your role guide</li>
+<li>[ ] Join Discord</li>
+<li>[ ] Introduce yourself</li>
+<li>[ ] Observe active ventures</li>
+
+</ul>
+<p>** Day 4-7:**</p>
+<ul>
+<li>[ ] Make first action (signal/pitch/application)</li>
+<li>[ ] Connect with 5 community members</li>
+<li>[ ] Attend one community event</li>
+<li>[ ] Plan your strategy</li>
+
+</ul>
 </div>
 
 ## 💡 Pro Tips for Beginners
@@ -312,34 +364,38 @@
 ### Do's and Don'ts
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### ✅ DO:
+<p>#### ✅ DO:</p>
 
-- Start small and learn
+<ul>
+<li>Start small and learn</li>
 
-- Ask questions freely
-- Research thoroughly
-- Build genuine relationships
-- Think long-term
-- Stay transparent
-- Celebrate others' wins
+<li>Ask questions freely</li>
+<li>Research thoroughly</li>
+<li>Build genuine relationships</li>
+<li>Think long-term</li>
+<li>Stay transparent</li>
+<li>Celebrate others' wins</li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### ❌ DON'T:
+<p>#### ❌ DON'T:</p>
 
-- Rush into big stakes
+<ul>
+<li>Rush into big stakes</li>
 
-- Ignore community wisdom
-- Hide failures
-- Focus only on profits
-- Neglect reputation
-- Create multiple accounts
-- Spread negativity
+<li>Ignore community wisdom</li>
+<li>Hide failures</li>
+<li>Focus only on profits</li>
+<li>Neglect reputation</li>
+<li>Create multiple accounts</li>
+<li>Spread negativity</li>
 
+</ul>
 </div>
 </div>
 
@@ -368,16 +424,18 @@ You'll know you're on track when:
 
 ## 🎉 Welcome to Studio3!
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 You're Part of Something Special
+<h3>🌟 You're Part of Something Special</h3>
 
-** By joining Studio3, you're not just participating in a platform - you're helping build the future of venture creation. Every signal, every validation, every milestone contributes to an ecosystem where:
-- ** Great ideas find support
-- Merit beats connections
-- ** Transparency builds trust
-- Community creates value
-- ** Everyone can succeed
+<p>** By joining Studio3, you're not just participating in a platform - you're helping build the future of venture creation. Every signal, every validation, every milestone contributes to an ecosystem where:**</p>
+<ul>
+<li>**Great ideas find support**</li>
+<li>Merit beats connections</li>
+<li>**Transparency builds trust**</li>
+<li>Community creates value</li>
+<li>**Everyone can succeed**</li>
+</ul>
 </div>
 
 ## Next Steps

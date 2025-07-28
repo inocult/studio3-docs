@@ -2,11 +2,11 @@
 
 ## Optimizing Your $SIGNAL Portfolio
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Master Your Bankroll
+<h3>💰 Master Your Bankroll</h3>
 
-Effective token management separates successful Echoes from those who burn out quickly. This guide covers everything from bankroll strategies to advanced portfolio optimization, helping you build sustainable signaling practices.
+<p>Effective token management separates successful Echoes from those who burn out quickly. This guide covers everything from bankroll strategies to advanced portfolio optimization, helping you build sustainable signaling practices.</p>
 
 </div>
 
@@ -14,101 +14,130 @@ Effective token management separates successful Echoes from those who burn out q
 
 ### Starting Capital Guidelines
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏦 Initial Setup
+<h3>🏦 Initial Setup</h3>
 
-**Recommended Starting Amounts:**
+<p>**Recommended Starting Amounts:**</p>
 
-- **Beginner:** 500-1,000 $SIGNAL
--- **Intermediate:**  Advanced:
-**  Capital Allocation:
-- 80% for signals
-- 15% for gas fees
-- 5% emergency reserve
-** Never Use:
-- ** Rent money
-- Emergency funds
-- Borrowed capital
-- Life savings
-- Credit purchases
+<ul>
+<li>**Beginner:** 500-1,000 $SIGNAL</li>
+<li>**Intermediate:** 2,000-5,000 $SIGNAL</li>
+<li>**Advanced:** 10,000+ $SIGNAL</li>
 
+</ul>
+<p>**Capital Allocation:**</p>
+
+<ul>
+<li>80% for signals</li>
+<li>15% for gas fees</li>
+<li>5% emergency reserve</li>
+
+</ul>
+<p>**Never Use:**</p>
+
+<ul>
+<li>**Rent money**</li>
+<li>Emergency funds</li>
+<li>Borrowed capital</li>
+<li>Life savings</li>
+<li>Credit purchases</li>
+
+</ul>
 </div>
 
 ### The 2% Rule
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Risk Management Basic
-**Core Principle:Never risk more than 2% of your total bankroll on a single signal.
+<h3>📊 Risk Management Basic</h3>
+<p>**Core Principle**: Never risk more than 2% of your total bankroll on a single signal.</p>
 
-**Example:** s:
-- ** 1,000 $SIGNAL bankroll = 20 $SIGNAL max per signal
-- 5,000 $SIGNAL bankroll = 100 $SIGNAL max per signal
-- 10,000 $SIGNAL bankroll = 200 $SIGNAL max per signal
-** Benefits:
-- ** Survive 50 consecutive losses
-- Emotional stability
-- Learning without ruin
-- Compound growth potential
+<p>**Examples:**</p>
 
+<ul>
+<li>**1,000 $SIGNAL bankroll** = 20 $SIGNAL max per signal</li>
+<li>**5,000 $SIGNAL bankroll** = 100 $SIGNAL max per signal</li>
+<li>**10,000 $SIGNAL bankroll** = 200 $SIGNAL max per signal</li>
+
+</ul>
+<p>**Benefits:**</p>
+<ul>
+<li>**Survive 50 consecutive losses**</li>
+<li>Emotional stability</li>
+<li>Learning without ruin</li>
+<li>Compound growth potential</li>
+
+</ul>
 </div>
 
 ## Portfolio Structure
 
 ### Diversification Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Optimal Distribution
-** By Phase:
+<h3>🎯 Optimal Distribution</h3>
+<p>** By Phase:**</p>
 ```
-Spark/Forge: 20% (High risk/reward)
-Ignition: 30% (Balanced approach)
-Drift: 30% (Steady returns)
-Later Phases: 20% (Safe accumulation)
+<p>Spark/Forge: 20% (High risk/reward)</p>
+<p>Ignition: 30% (Balanced approach)</p>
+<p>Drift: 30% (Steady returns)</p>
+<p>Later Phases: 20% (Safe accumulation)</p>
 ```
-** By Signal Type:
+
+
+
+<p>By Signal Type:**</p>
 ```
-Strong Belief: 40%
-Moderate Belief: 30%
-Strategic Doubt: 20%
-Contrarian Plays: 10%
+<p>Strong Belief: 40%</p>
+<p>Moderate Belief: 30%</p>
+<p>Strategic Doubt: 20%</p>
+<p>Contrarian Plays: 10%</p>
 ```
-** By Timing:
+
+<p>** By Timing:**</p>
 ```
-Active Signals: 60%
-Pending Opportunities: 25%
-Emergency Reserve: 15%
+<p>Active Signals: 60%</p>
+<p>Pending Opportunities: 25%</p>
+<p>Emergency Reserve: 15%</p>
 ```
 
 </div>
 
 ### Position Sizing
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📏 Calculate Your Stakes
-** Kelly Criterion Formula:
-```
-Stake Size = (p × b - q) / b
+<h3>📏 Calculate Your Stakes</h3>
 
-** Where:
-p = probability of success
-b = net odds (multiplier - 1)
-q = probability of failure (1 - p)
+
+<p>Kelly Criterion Formula:**</p>
 ```
-** Practical Application:
-- ** 70% success chance
-- 2x multiplier
-- Kelly suggests: 40% of bankroll
-- **Use 1/4 Kelly:**   10% maxPosition Size Matrix:
-**| Confidence | Multiplier | Max Stake |
-|------------|-----------|-----------|
-| Very High (80%+) | 2x+ | 5% |
-| High (70-80%) | 1.8x+ | 3% |
-| Medium (60-70%) | 1.6x+ | 2% |
-| Low (50-60%) | 1.5x+ | 1% |
+<p>Stake Size = (p × b - q) / b</p>
+
+<p>** Where:**</p>
+<p>p = probability of success</p>
+<p>b = net odds (multiplier - 1)</p>
+<p>q = probability of failure (1 - p)</p>
+```
+
+
+
+<p>Practical Application:**</p>
+<ul>
+<li>**70% success chance**</li>
+<li>2x multiplier</li>
+<li>Kelly suggests: 40% of bankroll</li>
+<li>**Use 1/4 Kelly:**   10% maxPosition Size Matrix:</li>
+
+</ul>
+<p>**| Confidence | Multiplier | Max Stake |**</p>
+<p>|------------|-----------|-----------|</p>
+<p>| Very High (80%+) | 2x+ | 5% |</p>
+<p>| High (70-80%) | 1.8x+ | 3% |</p>
+<p>| Medium (60-70%) | 1.6x+ | 2% |</p>
+<p>| Low (50-60%) | 1.5x+ | 1% |</p>
 
 </div>
 
@@ -116,45 +145,51 @@ q = probability of failure (1 - p)
 
 ### Buying $SIGNAL
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛒 Smart Purchasing
-** Best Practices:
-1. **Use DEX Aggregators**
+<h3>🛒 Smart Purchasing</h3>
+<p>** Best Practices:**</p>
+<p>1. **Use DEX Aggregators**</p>
 
-- Compare prices
+<ul>
+<li>Compare prices</li>
 
-- Minimize slippage
+<li>Minimize slippage</li>
 
-- Optimize routes
+<li>Optimize routes</li>
 
-- Save on fees
+<li>Save on fees</li>
 
-2. **Time Your Buys**
+</ul>
+<p>2. **Time Your Buys**</p>
 
-- Low gas periods
+<ul>
+<li>Low gas periods</li>
 
-- Market dips
+<li>Market dips</li>
 
-- Avoid FOMO
+<li>Avoid FOMO</li>
 
-- DCA approach
+<li>DCA approach</li>
 
-3. **Security First**
+</ul>
+<p>3. **Security First**</p>
 
-- Hardware wallet
+<ul>
+<li>Hardware wallet</li>
 
-- Verify contracts
+<li>Verify contracts</li>
 
-- Test small first
-- Double
-- check addresses
+<li>Test small first</li>
+<li>Double</li>
+<li>check addresses</li>
 
+</ul>
 </div>
 
 ### Earning Additional Tokens
-** Beyond Trading:
-- ** Referral programs
+** Beyond Trading:**
+- **Referral programs**
 - Content rewards
 - Community tasks
 - Governance participation
@@ -166,155 +201,196 @@ q = probability of failure (1 - p)
 
 ### Income vs Expenses
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💸 Track Your Flow
-** Monthly Tracking:
+<h3>💸 Track Your Flow</h3>
+<p>** Monthly Tracking:**</p>
 ```
-** Income:
-- Signal rewards: ___
-- Bonuses earned: ___
-- Other rewards: ___
-Total In: ___
 
-** Expenses:
-- Failed signals: ___
-- Gas fees: ___
-- Platform fees: ___
-Total Out: ___
 
-Net Result: ___
+
+<p>Income:**</p>
+<ul>
+<li>Signal rewards: ___</li>
+<li>Bonuses earned: ___</li>
+<li>Other rewards: ___</li>
+</ul>
+<p>Total In: ___</p>
+
+<p>** Expenses:**</p>
+<ul>
+<li>Failed signals: ___</li>
+<li>Gas fees: ___</li>
+<li>Platform fees: ___</li>
+</ul>
+<p>Total Out: ___</p>
+
+<p>Net Result: ___</p>
 ```
-** Sustainability Metrics:
-- ** Burn rate
-- Win rate needed
-- Months of runway
-- Growth trajectory
 
+
+
+<p>Sustainability Metrics:**</p>
+<ul>
+<li>**Burn rate**</li>
+<li>Win rate needed</li>
+<li>Months of runway</li>
+<li>Growth trajectory</li>
+
+</ul>
 </div>
 
 ### Reinvestment Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Compound Growth
-** The 50/30/20 Rule:
-- **50% Reinvest:** Back into signals
--- **30% Reserve:**  20% Profit: Growth Phases:
-1. **Building (0-6 months)**
+<h3>📈 Compound Growth</h3>
+<p>** The 50/30/20 Rule:**</p>
+<ul>
+<li>**50% Reinvest:**</li>
 
-- 80% reinvest
+</ul>
+<p>**Back into signals**</p>
+<p>-- **30% Reserve:**  20% Profit: Growth Phases:</p>
 
-- 20% reserve
+<p>1. **Building (0-6 months)**</p>
 
-- 0% profit
+<ul>
+<li>80% reinvest</li>
 
-2. **Scaling (6-12 months)**
+<li>20% reserve</li>
 
-- 60% reinvest
+<li>0% profit</li>
 
-- 30% reserve
+</ul>
+<p>2. **Scaling (6-12 months)**</p>
 
-- 10% profit
+<ul>
+<li>60% reinvest</li>
 
-3. **Sustaining (12+ months)**
+<li>30% reserve</li>
 
-- 40% reinvest
+<li>10% profit</li>
 
-- 30% reserve
+</ul>
+<p>3. **Sustaining (12+ months)**</p>
 
-- 30% profit
+<ul>
+<li>40% reinvest</li>
 
+<li>30% reserve</li>
+
+<li>30% profit</li>
+
+</ul>
 </div>
 
 ## Risk Management
 
 ### Stop-Loss Strategies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛑 Protect Your Capital
-** Daily Limits:
-- ** Max 3 signals per day
-- Max 10% bankroll at risk
-- Stop after 2 losses
-- Review and reset
-** Weekly Limits:
-- ** Max 20% bankroll deployed
-- Mandatory review Sunday
-- Adjust for next week
-- Track performance
-** Monthly Limits:
-- ** Max 30% drawdown
-- Full strategy review
-- Seek mentorship if needed
-- Consider break if hitting limits
+<h3>🛑 Protect Your Capital</h3>
+<p>** Daily Limits:**</p>
+<ul>
+<li>**Max 3 signals per day**</li>
+<li>Max 10% bankroll at risk</li>
+<li>Stop after 2 losses</li>
+<li>Review and reset</li>
 
+</ul>
+<p>** Weekly Limits:**</p>
+<ul>
+<li>**Max 20% bankroll deployed**</li>
+<li>Mandatory review Sunday</li>
+<li>Adjust for next week</li>
+<li>Track performance</li>
+
+</ul>
+<p>** Monthly Limits:**</p>
+<ul>
+<li>**Max 30% drawdown**</li>
+<li>Full strategy review</li>
+<li>Seek mentorship if needed</li>
+<li>Consider break if hitting limits</li>
+
+</ul>
 </div>
 
 ### Recovery Protocols
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Bouncing Back
-** After Major Loss:
-1. **Take a Break**
- (24-48 hours)
-2. **Analyze What Happened**
-3. **Reduce Position Sizes**
- (50%)
-4. **Focus on High-Confidence**
-5. **Rebuild Gradually**
- Recovery Timeline:**
-- ** Week 1: Half stakes
-- Week 2-3: 75% stakes
-- Week 4+: Normal if profitable
+<h3>🔄 Bouncing Back</h3>
+<p>** After Major Loss:**</p>
+<p>1. **Take a Break**</p>
+<p>(24-48 hours)</p>
+<p>2. **Analyze What Happened**</p>
+<p>3. **Reduce Position Sizes**</p>
+<p>(50%)</p>
+<p>4. **Focus on High-Confidence**</p>
+<p>5. **Rebuild Gradually**</p>
+<p>Recovery Timeline:**</p>
 
+<ul>
+<li>**Week 1: Half stakes**</li>
+<li>Week 2-3: 75% stakes</li>
+<li>Week 4+: Normal if profitable</li>
+
+</ul>
 </div>
 
 ## Advanced Token Strategies
 
 ### Liquidity Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💧 Stay Liquid
-** Liquidity Buckets:
-1. **Immediate (0-7 days)**
+<h3>💧 Stay Liquid</h3>
+<p>** Liquidity Buckets:**</p>
+<p>1. **Immediate (0-7 days)**</p>
 
-- Active signals
+<ul>
+<li>Active signals</li>
 
-- Pending settlements
+<li>Pending settlements</li>
 
-- Gas reserves
+<li>Gas reserves</li>
 
-2. **Short-term (7-30 days)**
+</ul>
+<p>2. **Short-term (7-30 days)**</p>
 
-- Planned signals
+<ul>
+<li>Planned signals</li>
 
-- Opportunity fund
+<li>Opportunity fund</li>
 
-- Event participation
+<li>Event participation</li>
 
-3. **Long-term (30+ days)**
+</ul>
+<p>3. **Long-term (30+ days)**</p>
 
-- Growth reserves
+<ul>
+<li>Growth reserves</li>
 
-- Bear market fund
+<li>Bear market fund</li>
 
-- Emergency buffer
+<li>Emergency buffer</li>
 
+</ul>
 </div>
 
 ### Tax Optimization
-** Considerations:
-- ** Track all transactions
+** Considerations:**
+- **Track all transactions**
 - Understand local laws
 - Consider hold periods
 - Plan for obligations
 - Use tax software
-** Strategies:
-- ** FIFO vs LIFO
+
+** Strategies:**
+- **FIFO vs LIFO**
 - Loss harvesting
 - Timing realizations
 - Jurisdiction planning
@@ -323,69 +399,83 @@ Net Result: ___
 
 ### Best Practices
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔐 Protect Your Assets
-** Essential Security:
-1. **Hardware Wallet**
+<h3>🔐 Protect Your Assets</h3>
+<p>** Essential Security:**</p>
+<p>1. **Hardware Wallet**</p>
 
-- Cold storage majority
+<ul>
+<li>Cold storage majority</li>
 
-- Hot wallet for active only
+<li>Hot wallet for active only</li>
 
-- Regular backups
+<li>Regular backups</li>
 
-- Test recovery
+<li>Test recovery</li>
 
-2. **Operational Security**
+</ul>
+<p>2. **Operational Security**</p>
 
-- Unique passwords
+<ul>
+<li>Unique passwords</li>
 
-- 2FA everything
+<li>2FA everything</li>
 
-- Private browsing
+<li>Private browsing</li>
 
-- VPN usage
+<li>VPN usage</li>
 
-3. **Smart Contract Safety**
+</ul>
+<p>3. **Smart Contract Safety**</p>
 
-- Verify addresses
+<ul>
+<li>Verify addresses</li>
 
-- Check approvals
+<li>Check approvals</li>
 
-- Revoke unused
+<li>Revoke unused</li>
 
-- Monitor activity
+<li>Monitor activity</li>
 
+</ul>
 </div>
 
 ## Performance Tracking
 
 ### Key Metrics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Monitor Success
-** Essential Tracking:
-- **ROI:** (Current
-- Initial) / Initial
--- **Win Rate:**  Average Return:
--- **Sharpe Ratio:**  Maximum Drawdown:
-**  Monthly Review:
+<h3>📊 Monitor Success</h3>
+<p>** Essential Tracking:**</p>
+<ul>
+<li>**ROI:** (Current</li>
+<li>Initial) / Initial</li>
+</ul>
+<p>-- **Win Rate:**</p>
+
+<p>**Average Return:**</p>
+<p>-- **Sharpe Ratio:**</p>
+
+<p>**Maximum Drawdown:**</p>
+<p>**  Monthly Review:**</p>
 ```
-Signals Made: ___
-Success Rate: ___%
-Total Staked: ___ $SIGNAL
-Total Returned: ___ $SIGNAL
-Net Profit/Loss: ___ $SIGNAL
-ROI: ___%
+<p>Signals Made: ___</p>
+<p>Success Rate: ___%</p>
+<p>Total Staked: ___ $SIGNAL</p>
+<p>Total Returned: ___ $SIGNAL</p>
+<p>Net Profit/Loss: ___ $SIGNAL</p>
+<p>ROI: ___%</p>
 ```
 
 </div>
 
 ### Portfolio Analytics
-** Advanced Metrics:
-- ** Risk-adjusted returns
+
+
+Advanced Metrics:**
+- **Risk-adjusted returns**
 - Correlation analysis
 - Phase performance
 - Time-based returns
@@ -395,99 +485,118 @@ ROI: ___%
 
 ### Growing Your Bankroll
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Sustainable Growth
-** Growth Milestones:
-1. **0-1,000 $SIGNAL**
+<h3>🚀 Sustainable Growth</h3>
+<p>** Growth Milestones:**</p>
+<p>1. **0-1,000 $SIGNAL**</p>
 
-- Focus on learning
+<ul>
+<li>Focus on learning</li>
 
-- Minimum stakes
+<li>Minimum stakes</li>
 
-- Build confidence
+<li>Build confidence</li>
 
-2. **1,000-5,000 $SIGNAL**
+</ul>
+<p>2. **1,000-5,000 $SIGNAL**</p>
 
-- Increase positions
+<ul>
+<li>Increase positions</li>
 
-- Diversify more
+<li>Diversify more</li>
 
-- Develop style
+<li>Develop style</li>
 
-3. **5,000-25,000 $SIGNAL**
+</ul>
+<p>3. **5,000-25,000 $SIGNAL**</p>
 
-- Professional approach
+<ul>
+<li>Professional approach</li>
 
-- Multiple strategies
+<li>Multiple strategies</li>
 
-- Mentor others
+<li>Mentor others</li>
 
-4. **25,000+ $SIGNAL**
+</ul>
+<p>4. **25,000+ $SIGNAL**</p>
 
-- Market influence
+<ul>
+<li>Market influence</li>
 
-- Large positions
+<li>Large positions</li>
 
-- Strategic plays
+<li>Strategic plays</li>
 
+</ul>
 </div>
 
 ## Common Management Mistakes
 
 ### What to Avoid
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Token Pitfalls
-** Fatal Errors:
-- ** All-in mentality
-- No record keeping
-- Emotional decisions
-- Ignoring fees
-- Poor security
-** Management Failures:
-- ** No diversification
-- Overconfidence
-- Revenge trading
-- FOMO buying
-- Panic selling
+<h3>❌ Token Pitfalls</h3>
+<p>** Fatal Errors:**</p>
+<ul>
+<li>**All-in mentality**</li>
+<li>No record keeping</li>
+<li>Emotional decisions</li>
+<li>Ignoring fees</li>
+<li>Poor security</li>
 
+</ul>
+<p>** Management Failures:**</p>
+<ul>
+<li>**No diversification**</li>
+<li>Overconfidence</li>
+<li>Revenge trading</li>
+<li>FOMO buying</li>
+<li>Panic selling</li>
+
+</ul>
 </div>
 
 ## Emergency Procedures
 
 ### Crisis Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚨 When Things Go Wrong
-** Major Loss Protocol:
-1. Stop all activity
-2. Secure remaining funds
-3. Document what happened
-4. Seek community support
-5. Create recovery plan
-** Platform Issues:
-- ** Document everything
-- Contact support
-- Check community updates
-- Don't panic trade
-- Wait for resolution
+<h3>🚨 When Things Go Wrong</h3>
+<p>** Major Loss Protocol:**</p>
+<p>1. Stop all activity</p>
+<p>2. Secure remaining funds</p>
+<p>3. Document what happened</p>
+<p>4. Seek community support</p>
+<p>5. Create recovery plan</p>
 
+
+
+<p>Platform Issues:**</p>
+<ul>
+<li>**Document everything**</li>
+<li>Contact support</li>
+<li>Check community updates</li>
+<li>Don't panic trade</li>
+<li>Wait for resolution</li>
+
+</ul>
 </div>
 
 ## Token Psychology
 
 ### Emotional Management
-** Healthy Mindset:
-- ** Tokens are tools, not score
+** Healthy Mindset:**
+- **Tokens are tools, not score**
 - Focus on percentage returns
 - Accept losses as costs
 - Celebrate process wins
 - Think long-term
-** Warning Signs:
-- ** Checking prices obsessively
+
+** Warning Signs:**
+- **Checking prices obsessively**
 - Emotional after losses
 - Breaking own rules
 - Isolation from community

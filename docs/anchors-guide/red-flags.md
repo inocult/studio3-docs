@@ -2,11 +2,11 @@
 
 ## Early Warning Systems for Venture Problems
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚩 The Anchor's Early Detection Radar
+<h3>🚩 The Anchor's Early Detection Radar</h3>
 
-Identifying problems before they become crises is a critical Anchor skill. This guide teaches you to recognize warning signs across all aspects of a venture, enabling early intervention that can save ventures from failure.
+<p>Identifying problems before they become crises is a critical Anchor skill. This guide teaches you to recognize warning signs across all aspects of a venture, enabling early intervention that can save ventures from failure.</p>
 
 </div>
 
@@ -14,483 +14,620 @@ Identifying problems before they become crises is a critical Anchor skill. This 
 
 ### What Are Red Flags?
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Defining Warning Signs
+<h3>⚠️ Defining Warning Signs</h3>
 
-**Red Flag Characteristics:**
+<p>**Red Flag Characteristics:**</p>
 
-- ** Early indicators of problems
-- Patterns that predict failure
-- Behaviors that concern
-- Metrics that alarm
-- Situations requiring attention
-** Red Flag Categories:
-- 
-1. **Critical**
-- Immediate action needed
-2. **Serious**
-- Close monitoring required
-3. **Concerning**
-- Investigation warranted
-4. **Minor**
-- Note and track
-5. **Potential**
-- Keep awareness**
-- ** Why Red Flags Matter:
-- ** Enable early intervention
-- Prevent major failures
-- Protect stakeholders
-- Guide founder attention
-- Maintain standards
+<ul>
+<li>**Early indicators of problems**</li>
+<li>Patterns that predict failure</li>
+<li>Behaviors that concern</li>
+<li>Metrics that alarm</li>
+<li>Situations requiring attention</li>
 
+</ul>
+<p>** Red Flag Categories:**</p>
+<p>-</p>
+<p>1. **Critical**</p>
+<ul>
+<li>Immediate action needed</li>
+</ul>
+<p>2. **Serious**</p>
+<ul>
+<li>Close monitoring required</li>
+</ul>
+<p>3. **Concerning**</p>
+<ul>
+<li>Investigation warranted</li>
+</ul>
+<p>4. **Minor**</p>
+<ul>
+<li>Note and track</li>
+</ul>
+<p>5. **Potential**</p>
+<ul>
+<li>Keep awareness**</li>
+<li>**Why Red Flags Matter:**</li>
+<li>**Enable early intervention**</li>
+<li>Prevent major failures</li>
+<li>Protect stakeholders</li>
+<li>Guide founder attention</li>
+<li>Maintain standards</li>
+
+</ul>
 </div>
 
 ### The Cost of Ignoring Red Flags
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💸 Consequences of Inaction
-** Escalation Timeline:
+<h3>💸 Consequences of Inaction</h3>
+<p>** Escalation Timeline:**</p>
 ```
-Warning Sign → Minor Issue → Major Problem → Crisis → Failure
-  (Day 1)      (Week 1)      (Month 1)      (Month 3)  (Month 6)
-  
-Cost to Fix:    $           $$            $$$         $$$$      Total Loss
-Difficulty:      Easy        Moderate      Hard        Critical   Impossible
-```
-** Common Escalation Patterns:
-- ** Technical debt → System failure
-- Team tension → Founder split
-- Cash burn → Runway crisis
-- Customer complaints → Mass exodus
-- Small lies → Trust destruction
+<p>Warning Sign → Minor Issue → Major Problem → Crisis → Failure</p>
+<p>(Day 1)      (Week 1)      (Month 1)      (Month 3)  (Month 6)</p>
 
+<p>Cost to Fix:    $           $$            $$$         $$$$      Total Loss</p>
+<p>Difficulty:      Easy        Moderate      Hard        Critical   Impossible</p>
+```
+
+
+
+<p>Common Escalation Patterns:**</p>
+<ul>
+<li>**Technical debt → System failure**</li>
+<li>Team tension → Founder split</li>
+<li>Cash burn → Runway crisis</li>
+<li>Customer complaints → Mass exodus</li>
+<li>Small lies → Trust destruction</li>
+
+</ul>
 </div>
 
 ## Technical Red Flags
 
 ### Code and Architecture Warning Signs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 Technical Danger Signals
-** Code Quality Red Flags:
+<h3>💻 Technical Danger Signals</h3>
+<p>** Code Quality Red Flags:**</p>
 ```python
-# RED FLAG: No error handling
-** def process_payment(amount):
-    charge_card(amount)  # What if this fails?
-    update_database()    # What if this fails?
-    send_email()        # What if this fails?
+<h1>RED FLAG: No error handling</h1>
+<p>**def process_payment(amount):**</p>
+<p>charge_card(amount)  # What if this fails?</p>
+<p>update_database()    # What if this fails?</p>
+<p>send_email()        # What if this fails?</p>
 
-# RED FLAG: Security vulnerability
-** def get_user_data(user_id):
-    query = f"SELECT * FROM users WHERE id = {user_id}"  # SQL injection!
-    return execute_query(query)
+<h1>RED FLAG: Security vulnerability</h1>
+<p>**def get_user_data(user_id):**</p>
+<p>query = f"SELECT * FROM users WHERE id = {user_id}"  # SQL injection!</p>
+<p>return execute_query(query)</p>
 
-# RED FLAG: Performance disaster
-**def calculate_all_users():**
+<h1>RED FLAG: Performance disaster</h1>
+<p>**def calculate_all_users():**</p>
 
-    users = get_all_users()  # Loading millions into memory
-** for user in users:
-        for other_user in users:  # O(n²) complexity
-            calculate_similarity(user, other_user)
+<p>users = get_all_users()  # Loading millions into memory</p>
+
+
+
+<p>for user in users:**</p>
+<p>for other_user in users:  # O(n²) complexity</p>
+<p>calculate_similarity(user, other_user)</p>
 ```
 
-** Architecture Red Flags:
-- ** No separation of concerns
-- Monolithic when should be modular
-- No scalability consideration
-- Missing monitoring/logging
-- Single points of failure
+<p>** Architecture Red Flags:**</p>
+<ul>
+<li>**No separation of concerns**</li>
+<li>Monolithic when should be modular</li>
+<li>No scalability consideration</li>
+<li>Missing monitoring/logging</li>
+<li>Single points of failure</li>
 
+</ul>
 </div>
 
 ### Security Warning Signs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔒 Security Red Flags
-**Critical Security Issues:** Authentication/Authorization
-- ** Passwords in plain text
-- No rate limiting
-- Weak session management
-- Missing access controls
-- API keys exposed
-**Data Protection
-- ** No encryption at rest
-- HTTP instead of HTTPS
-- Sensitive data in logs
-- No backup strategy
-- GDPR/compliance ignored
-**Infrastructure
-- ** Default credentials
-- Unpatched systems
-- Open ports/services
-- No security monitoring
-- Missing incident plan
-** Behavioral Signs:
-- ** "Security later" attitude
-- No security testing
-- Dismissing vulnerabilities
-- No security expertise
-- Previous breaches hidden
+<h3>🔒 Security Red Flags</h3>
+<p>**Critical Security Issues:**</p>
 
+<p>**Authentication/Authorization**</p>
+<ul>
+<li>**Passwords in plain text**</li>
+<li>No rate limiting</li>
+<li>Weak session management</li>
+<li>Missing access controls</li>
+<li>API keys exposed</li>
+
+</ul>
+<p>**Data Protection**</p>
+<ul>
+<li>**No encryption at rest**</li>
+<li>HTTP instead of HTTPS</li>
+<li>Sensitive data in logs</li>
+<li>No backup strategy</li>
+<li>GDPR/compliance ignored</li>
+
+</ul>
+<p>**Infrastructure**</p>
+<ul>
+<li>**Default credentials**</li>
+<li>Unpatched systems</li>
+<li>Open ports/services</li>
+<li>No security monitoring</li>
+<li>Missing incident plan</li>
+
+</ul>
+<p>** Behavioral Signs:**</p>
+<ul>
+<li>**"Security later" attitude**</li>
+<li>No security testing</li>
+<li>Dismissing vulnerabilities</li>
+<li>No security expertise</li>
+<li>Previous breaches hidden</li>
+
+</ul>
 </div>
 
 ### Performance and Scalability
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Performance Red Flags
-** Performance Warning Signs:
+<h3>⚡ Performance Red Flags</h3>
+<p>** Performance Warning Signs:**</p>
 ```
-** Load Time Red Flags:
-- Homepage: >3 seconds
-- API calls: >1 second
-- Database queries: >500ms
-- Memory usage: Growing unbounded
-- CPU usage: Constant high
-```
-** Scalability Issues:
-- ** Hardcoded limits
-- Stateful architecture
-- No caching strategy
-- Database bottlenecks
-- Synchronous everything
-** Growth Inhibitors:
-- ** Can't handle 2x users
-- Linear cost scaling
-- Manual processes
-- Single region only
-- No load testing
 
+
+
+<p>Load Time Red Flags:**</p>
+<ul>
+<li>Homepage: >3 seconds</li>
+<li>API calls: >1 second</li>
+<li>Database queries: >500ms</li>
+<li>Memory usage: Growing unbounded</li>
+<li>CPU usage: Constant high</li>
+```
+
+</ul>
+<p>** Scalability Issues:**</p>
+<ul>
+<li>**Hardcoded limits**</li>
+<li>Stateful architecture</li>
+<li>No caching strategy</li>
+<li>Database bottlenecks</li>
+<li>Synchronous everything</li>
+
+</ul>
+<p>** Growth Inhibitors:**</p>
+<ul>
+<li>**Can't handle 2x users**</li>
+<li>Linear cost scaling</li>
+<li>Manual processes</li>
+<li>Single region only</li>
+<li>No load testing</li>
+
+</ul>
 </div>
 
 ## Business Red Flags
 
 ### Market and Customer Warning Signs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Market Red Flags
-** Customer Acquisition Issues:
-- ** CAC > LTV
-- Acquisition slowing
-- Channel dependency
-- No organic growth
-- Paid-only growth
-** Customer Retention Problems:
-```
-** Retention Red Flags:
-Day 1:  <80% (Critical)
-Day 7:  <60% (Serious)
-Day 30: <40% (Concerning)
-Month 6: <20% (Major issue)
-```
-** Market Feedback Signals:
-- ** Low NPS (<30)
-- Complaints increasing
-- Feature requests ignored
-- Competition winning
-- Press negative
+<h3>📊 Market Red Flags</h3>
+<p>** Customer Acquisition Issues:**</p>
+<ul>
+<li>**CAC > LTV**</li>
+<li>Acquisition slowing</li>
+<li>Channel dependency</li>
+<li>No organic growth</li>
+<li>Paid-only growth</li>
 
+</ul>
+<p>** Customer Retention Problems:**</p>
+```
+
+
+
+<p>Retention Red Flags:**</p>
+<p>Day 1:  <80% (Critical)</p>
+<p>Day 7:  <60% (Serious)</p>
+<p>Day 30: <40% (Concerning)</p>
+<p>Month 6: <20% (Major issue)</p>
+```
+
+<p>** Market Feedback Signals:**</p>
+<ul>
+<li>**Low NPS (<30)**</li>
+<li>Complaints increasing</li>
+<li>Feature requests ignored</li>
+<li>Competition winning</li>
+<li>Press negative</li>
+
+</ul>
 </div>
 
 ### Financial Red Flags
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Financial Warning Signs
-**Cash Management Issues:** Burn Rate Problems```python
-** def calculate_runway_risk(cash, burn_rate, revenue_growth):
-    runway_months = cash / burn_rate
-    
-** if runway_months < 3:
-        return "CRITICAL"
-** elif runway_months < 6:
-        return "HIGH_RISK"
-** elif runway_months < 12:
-        return "MONITOR"
-** else:
-        return "HEALTHY"
+<h3>💰 Financial Warning Signs</h3>
+<p>**Cash Management Issues:**</p>
+
+<p>**Burn Rate Problems```python**</p>
+<p>**def calculate_runway_risk(cash, burn_rate, revenue_growth):**</p>
+<p>runway_months = cash / burn_rate</p>
+
+
+
+<p>if runway_months < 3:**</p>
+<p>return "CRITICAL"</p>
+
+<p>** elif runway_months < 6:**</p>
+<p>return "HIGH_RISK"</p>
+
+
+
+<p>elif runway_months < 12:**</p>
+<p>return "MONITOR"</p>
+
+<p>** else:**</p>
+<p>return "HEALTHY"</p>
 ```
 
-** Revenue Red Flags:
-- ** Concentration risk (>30% one customer)
-- Declining MRR
-- High refund rates
-- Payment delays
-- Contract cancellations
-** Spending Patterns:
-- ** No budget discipline
-- Hiring ahead of revenue
-- Marketing inefficiency
-- Luxury spending
-- No financial controls
 
+
+<p>Revenue Red Flags:**</p>
+<ul>
+<li>**Concentration risk (>30% one customer)**</li>
+<li>Declining MRR</li>
+<li>High refund rates</li>
+<li>Payment delays</li>
+<li>Contract cancellations</li>
+
+</ul>
+<p>** Spending Patterns:**</p>
+<ul>
+<li>**No budget discipline**</li>
+<li>Hiring ahead of revenue</li>
+<li>Marketing inefficiency</li>
+<li>Luxury spending</li>
+<li>No financial controls</li>
+
+</ul>
 </div>
 
 ### Business Model Problems
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Model Viability Red Flags
-**Unit Economics Issues:| Metric | Red Flag Level |
-|--------|---------------|
-| Gross Margin | <50% |
-| Payback Period | >18 months |
-| LTV/CAC | <2:1 |
-| Churn Rate | >10% monthly |
-| Growth Efficiency | <0.5 |
-** Strategic Problems:
-- ** No clear differentiation
-- Competing on price only
-- No moat building
-- Feature parity trap
-- Market shrinking
+<h3>📈 Model Viability Red Flags</h3>
+<p>**Unit Economics Issues:| Metric | Red Flag Level |**</p>
+<p>|--------|---------------|</p>
+<p>| Gross Margin | <50% |</p>
+<p>| Payback Period | >18 months |</p>
+<p>| LTV/CAC | <2:1 |</p>
+<p>| Churn Rate | >10% monthly |</p>
+<p>| Growth Efficiency | <0.5 |</p>
 
+<p>** Strategic Problems:**</p>
+<ul>
+<li>**No clear differentiation**</li>
+<li>Competing on price only</li>
+<li>No moat building</li>
+<li>Feature parity trap</li>
+<li>Market shrinking</li>
+
+</ul>
 </div>
 
 ## Team Red Flags
 
 ### Founder and Leadership Issues
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Leadership Warning Signs
-**Founder Red Flags:**  Behavioral Issues:
-- ** Defensive about feedback
-- Blaming others constantly
-- Avoiding hard decisions
-- Micromanaging everything
-- Burning out visibly
-** Communication Problems:
-- ** Going dark periods
-- Avoiding investors/advisors
-- Spinning vs truth
-- Promise breaking
-- Update avoidance
-** Relationship Dynamics:
-- ** Co-founder tension
-- Equity disputes
-- Role confusion
-- Trust breakdown
-- Power struggles
+<h3>👥 Leadership Warning Signs</h3>
+<p>**Founder Red Flags:**</p>
 
+<p>**Behavioral Issues:**</p>
+<ul>
+<li>**Defensive about feedback**</li>
+<li>Blaming others constantly</li>
+<li>Avoiding hard decisions</li>
+<li>Micromanaging everything</li>
+<li>Burning out visibly</li>
+
+</ul>
+<p>** Communication Problems:**</p>
+<ul>
+<li>**Going dark periods**</li>
+<li>Avoiding investors/advisors</li>
+<li>Spinning vs truth</li>
+<li>Promise breaking</li>
+<li>Update avoidance</li>
+
+</ul>
+<p>** Relationship Dynamics:**</p>
+<ul>
+<li>**Co-founder tension**</li>
+<li>Equity disputes</li>
+<li>Role confusion</li>
+<li>Trust breakdown</li>
+<li>Power struggles</li>
+
+</ul>
 </div>
 
 ### Team Health Warning Signs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 😔 Cultural Red Flags
-** Team Morale Indicators:
-- ** High turnover (>20% annually)
-- Key people leaving
-- Glassdoor reviews negative
-- Recruitment difficulty
-- Engagement dropping
-** Cultural Problems:
-```
-** Warning Signs Checklist:
-□ Fear-based culture
-□ No psychological safety
-□ Blame culture prevalent
-□ Innovation punished
-□ Diversity lacking
-□ Values not lived
-□ Toxic behaviors tolerated
-```
-** Capability Gaps:
-- ** Critical roles unfilled
-- Skills missing
-- Learning stopped
-- External dependency
-- No succession planning
+<h3>😔 Cultural Red Flags</h3>
+<p>** Team Morale Indicators:**</p>
+<ul>
+<li>**High turnover (>20% annually)**</li>
+<li>Key people leaving</li>
+<li>Glassdoor reviews negative</li>
+<li>Recruitment difficulty</li>
+<li>Engagement dropping</li>
 
+</ul>
+<p>** Cultural Problems:**</p>
+```
+
+
+
+<p>Warning Signs Checklist:**</p>
+<p>□ Fear-based culture</p>
+<p>□ No psychological safety</p>
+<p>□ Blame culture prevalent</p>
+<p>□ Innovation punished</p>
+<p>□ Diversity lacking</p>
+<p>□ Values not lived</p>
+<p>□ Toxic behaviors tolerated</p>
+```
+
+<p>** Capability Gaps:**</p>
+<ul>
+<li>**Critical roles unfilled**</li>
+<li>Skills missing</li>
+<li>Learning stopped</li>
+<li>External dependency</li>
+<li>No succession planning</li>
+
+</ul>
 </div>
 
 ## Process Red Flags
 
 ### Execution Warning Signs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Operational Red Flags
-** Delivery Problems:
-- ** Chronic delays
-- Scope creep constant
-- Quality declining
-- Promises broken
-- Excuses prevalent
-** Process Indicators:
-**| Issue | Severity |
-|-------|----------|
-| No documented processes | Medium |
-| Processes not followed | High |
-| No metrics tracking | High |
-| No retrospectives | Medium |
-| No improvement | Critical |
-** Communication Breakdown:
-- ** Silos forming
-- Information hoarding
-- Meeting overload
-- Decision paralysis
-- Conflict avoidance
+<h3>⚡ Operational Red Flags</h3>
+<p>** Delivery Problems:**</p>
+<ul>
+<li>**Chronic delays**</li>
+<li>Scope creep constant</li>
+<li>Quality declining</li>
+<li>Promises broken</li>
+<li>Excuses prevalent</li>
 
+</ul>
+<p>** Process Indicators:**</p>
+<p>**| Issue | Severity |**</p>
+<p>|-------|----------|</p>
+<p>| No documented processes | Medium |</p>
+<p>| Processes not followed | High |</p>
+<p>| No metrics tracking | High |</p>
+<p>| No retrospectives | Medium |</p>
+<p>| No improvement | Critical |</p>
+
+<p>** Communication Breakdown:**</p>
+<ul>
+<li>**Silos forming**</li>
+<li>Information hoarding</li>
+<li>Meeting overload</li>
+<li>Decision paralysis</li>
+<li>Conflict avoidance</li>
+
+</ul>
 </div>
 
 ### Learning and Adaptation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Growth Stagnation Signs
-** Learning Red Flags:
-- ** Same mistakes repeated
-- Feedback ignored
-- No experimentation
-- Risk aversion extreme
-- Innovation ceased
-** Adaptation Problems:
-- ** Market changes ignored
-- Customer feedback dismissed
-- Competition underestimated
-- Technology shifts missed
-- Trends not tracked
+<h3>📚 Growth Stagnation Signs</h3>
+<p>** Learning Red Flags:**</p>
+<ul>
+<li>**Same mistakes repeated**</li>
+<li>Feedback ignored</li>
+<li>No experimentation</li>
+<li>Risk aversion extreme</li>
+<li>Innovation ceased</li>
 
+</ul>
+<p>** Adaptation Problems:**</p>
+<ul>
+<li>**Market changes ignored**</li>
+<li>Customer feedback dismissed</li>
+<li>Competition underestimated</li>
+<li>Technology shifts missed</li>
+<li>Trends not tracked</li>
+
+</ul>
 </div>
 
 ## External Red Flags
 
 ### Market and Competition
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌍 Environmental Warning Signs
-** Market Shifts:
-- ** Demand declining
-- Substitutes emerging
-- Regulation threatening
-- Economics changing
-- Technology disrupting
-** Competitive Threats:
-- ** Giants entering space
-- Competitors raising big
-- Feature gaps growing
-- Price pressure increasing
-- Partnerships forming against
-** Ecosystem Changes:
-- ** Platform policy shifts
-- API deprecations
-- Partner instability
-- Supplier issues
-- Distribution challenges
+<h3>🌍 Environmental Warning Signs</h3>
+<p>** Market Shifts:**</p>
+<ul>
+<li>**Demand declining**</li>
+<li>Substitutes emerging</li>
+<li>Regulation threatening</li>
+<li>Economics changing</li>
+<li>Technology disrupting</li>
 
+</ul>
+<p>** Competitive Threats:**</p>
+<ul>
+<li>**Giants entering space**</li>
+<li>Competitors raising big</li>
+<li>Feature gaps growing</li>
+<li>Price pressure increasing</li>
+<li>Partnerships forming against</li>
+
+</ul>
+<p>** Ecosystem Changes:**</p>
+<ul>
+<li>**Platform policy shifts**</li>
+<li>API deprecations</li>
+<li>Partner instability</li>
+<li>Supplier issues</li>
+<li>Distribution challenges</li>
+
+</ul>
 </div>
 
 ## Red Flag Response
 
 ### Assessment Protocol
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Red Flag Investigation
-** Investigation Steps:
-1. **Verify Flag**
-   ```
-** Questions to Ask:
-
-- Is this real or perceived?
-
-- What's the evidence?
-
-- How severe is it?
-
-- Is it isolated or pattern?
-
-- What's the trajectory?
+<h3>🔍 Red Flag Investigation</h3>
+<p>** Investigation Steps:**</p>
+<p>1. **Verify Flag**</p>
    ```
 
-2. **Assess Impact**
+<p>** Questions to Ask:**</p>
 
-- Immediate consequences
+<ul>
+<li>Is this real or perceived?</li>
 
-- Future implications
+<li>What's the evidence?</li>
 
-- Stakeholder effects
+<li>How severe is it?</li>
 
-- Recovery difficulty
+<li>Is it isolated or pattern?</li>
 
-- Resource requirements
+<li>What's the trajectory?</li>
+   ```
 
-3. **Determine Response**
+</ul>
+<p>2. **Assess Impact**</p>
 
-- Can founder handle alone?
+<ul>
+<li>Immediate consequences</li>
 
-- Need external help?
+<li>Future implications</li>
 
-- Escalation required?
+<li>Stakeholder effects</li>
 
-- Timeline critical?
+<li>Recovery difficulty</li>
 
-- Options available?
+<li>Resource requirements</li>
 
+</ul>
+<p>3. **Determine Response**</p>
+
+<ul>
+<li>Can founder handle alone?</li>
+
+<li>Need external help?</li>
+
+<li>Escalation required?</li>
+
+<li>Timeline critical?</li>
+
+<li>Options available?</li>
+
+</ul>
 </div>
 
 ### Intervention Strategies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚨 Taking Action
-**Response Framework:** Level 1: Monitor
-- ** Note in records
-- Track progress
-- Set checkpoints
-- Inform founder
-- Watch closely
-**Level 2: Guide
-- ** Discuss concerns
-- Provide resources
-- Suggest solutions
-- Connect experts
-- Support implementation
-**Level 3: Intervene
-- ** Escalate formally
-- Require action plan
-- Set deadlines
-- Monitor closely
-- Consider consequences
-**Level 4: Emergency
-- ** Immediate action
-- All hands meeting
-- External resources
-- Crisis management
-- Stakeholder protection
+<h3>🚨 Taking Action</h3>
+<p>**Response Framework:**</p>
 
+<p>**Level 1: Monitor**</p>
+<ul>
+<li>**Note in records**</li>
+<li>Track progress</li>
+<li>Set checkpoints</li>
+<li>Inform founder</li>
+<li>Watch closely</li>
+
+</ul>
+<p>**Level 2: Guide**</p>
+<ul>
+<li>**Discuss concerns**</li>
+<li>Provide resources</li>
+<li>Suggest solutions</li>
+<li>Connect experts</li>
+<li>Support implementation</li>
+
+</ul>
+<p>**Level 3: Intervene**</p>
+<ul>
+<li>**Escalate formally**</li>
+<li>Require action plan</li>
+<li>Set deadlines</li>
+<li>Monitor closely</li>
+<li>Consider consequences</li>
+
+</ul>
+<p>**Level 4: Emergency**</p>
+<ul>
+<li>**Immediate action**</li>
+<li>All hands meeting</li>
+<li>External resources</li>
+<li>Crisis management</li>
+<li>Stakeholder protection</li>
+
+</ul>
 </div>
 
 ## Pattern Recognition
 
 ### Common Failure Patterns
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Predictive Patterns
-** The Overconfidence Spiral:
+<h3>📊 Predictive Patterns</h3>
+<p>** The Overconfidence Spiral:**</p>
 ```
-Early Success → Overconfidence → Ignore Feedback → 
-Bad Decisions → Problems Mount → Denial → Crisis → Failure
+<p>Early Success → Overconfidence → Ignore Feedback →</p>
+<p>Bad Decisions → Problems Mount → Denial → Crisis → Failure</p>
 ```
-** The Technical Debt Avalanche:
+
+
+
+<p>The Technical Debt Avalanche:**</p>
 ```
-Rush to Market → Skip Best Practices → Accumulate Debt →
-Velocity Slows → More Shortcuts → System Fragility → Collapse
+<p>Rush to Market → Skip Best Practices → Accumulate Debt →</p>
+<p>Velocity Slows → More Shortcuts → System Fragility → Collapse</p>
 ```
-** The Team Disintegration:
+
+<p>** The Team Disintegration:**</p>
 ```
-Communication Issues → Trust Erodes → Silos Form →
-Blame Culture → Key People Leave → Downward Spiral
+<p>Communication Issues → Trust Erodes → Silos Form →</p>
+<p>Blame Culture → Key People Leave → Downward Spiral</p>
 ```
 
 </div>
@@ -499,66 +636,80 @@ Blame Culture → Key People Leave → Downward Spiral
 
 ### Red Flag Tracking
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Recording Concerns
-** Documentation Template:
+<h3>📝 Recording Concerns</h3>
+
+
+<p>Documentation Template:**</p>
 ```markdown
-## Red Flag Report
-Date: [Date]
-Venture: [Name]
-Severity: [Critical/High/Medium/Low]
 
-### Issue Description
-[What was observed]
+<h2>Red Flag Report</h2>
+<p>Date: [Date]</p>
+<p>Venture: [Name]</p>
+<p>Severity: [Critical/High/Medium/Low]</p>
 
-### Evidence
-[Specific examples]
+<h3>Issue Description</h3>
+<p>[What was observed]</p>
 
-### Impact Assessment
-[Current and potential impact]
+<h3>Evidence</h3>
+<p>[Specific examples]</p>
 
-### Recommendation
-[Suggested response]
+<h3>Impact Assessment</h3>
+<p>[Current and potential impact]</p>
 
-### Follow-up Plan
-[Next steps and timeline]
+<h3>Recommendation</h3>
+<p>[Suggested response]</p>
+
+<h3>Follow-up Plan</h3>
+<p>[Next steps and timeline]</p>
 ```
-** Tracking System:
-- ** Central repository
-- Regular reviews
-- Pattern analysis
-- Trend identification
-- Action tracking
 
+<p>** Tracking System:**</p>
+<ul>
+<li>**Central repository**</li>
+<li>Regular reviews</li>
+<li>Pattern analysis</li>
+<li>Trend identification</li>
+<li>Action tracking</li>
+
+</ul>
 </div>
 
 ## Building Intuition
 
 ### Developing Pattern Recognition
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Anchor Intuition
-** Experience Building:
-- ** Study failure cases
-- Pattern journaling
-- Peer discussions
-- Retrospective analysis
-- Continuous learning
-** Intuition Signals:
-- ** "Something feels off"
-- Energy shifts
-- Avoidance behaviors
-- Story inconsistencies
-- Team dynamics
-** Calibration:
-- ** Track hunches
-- Verify accuracy
-- Adjust sensitivity
-- Learn from misses
-- Share insights
+<h3>🧠 Anchor Intuition</h3>
+<p>** Experience Building:**</p>
+<ul>
+<li>**Study failure cases**</li>
+<li>Pattern journaling</li>
+<li>Peer discussions</li>
+<li>Retrospective analysis</li>
+<li>Continuous learning</li>
 
+</ul>
+<p>** Intuition Signals:**</p>
+<ul>
+<li>**"Something feels off"**</li>
+<li>Energy shifts</li>
+<li>Avoidance behaviors</li>
+<li>Story inconsistencies</li>
+<li>Team dynamics</li>
+
+</ul>
+<p>** Calibration:**</p>
+<ul>
+<li>**Track hunches**</li>
+<li>Verify accuracy</li>
+<li>Adjust sensitivity</li>
+<li>Learn from misses</li>
+<li>Share insights</li>
+
+</ul>
 </div>
 
 ## Next Steps

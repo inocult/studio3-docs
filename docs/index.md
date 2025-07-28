@@ -7,11 +7,9 @@
 
 ## 🚀 Quick Start
 
-<div class="arena-card" markdown="1">
-
-### ⚡ 5-Minute Introduction
-
-New to Studio3? Get the essence of our platform in just 5 minutes with our Quickstart guide.
+<div class="arena-card">
+<h3>⚡ 5-Minute Introduction</h3>
+<p>New to Studio3? Get the essence of our platform in just 5 minutes with our Quickstart guide.</p>
 
 <div class="card-actions">
 <a href="quickstart/" class="md-button md-button--primary">Start Here</a>
@@ -45,12 +43,10 @@ New to Studio3? Get the essence of our platform in just 5 minutes with our Quick
 ## 📚 Available Guides
 
 <div class="grid">
-<div class="arena-card" markdown="1">
-
-### 🌐 Overview Guide
-Complete introduction to Studio3's venture building platform, core concepts, and ecosystem mechanics.
-
-**Perfect for:** New users, investors, and anyone wanting to understand Studio3
+<div class="arena-card">
+<h3>🌐 Overview Guide</h3>
+<p>Introduction to Studio3's venture building platform, core concepts, and ecosystem mechanics.</p>
+<p><strong>Perfect for:</strong> Anyone wanting to understand Studio3</p>
 
 <div class="card-actions">
 <a href="overview-guide/" class="md-button md-button--primary">Browse Guide</a>
@@ -59,12 +55,11 @@ Complete introduction to Studio3's venture building platform, core concepts, and
 </div>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ Senders Guide
-Everything founders need to build ventures through Studio3's transparent, gamified ecosystem.
-
-**Perfect for:** Entrepreneurs, builders, and teams ready to launch ventures
+<h3>🏗️ Senders Guide</h3>
+<p>Everything founders need to build ventures through Studio3's transparent, gamified ecosystem.</p>
+<p><strong>Perfect for:</strong> Entrepreneurs, builders, and teams ready to launch ventures</p>
 
 <div class="card-actions">
 <a href="senders-guide/" class="md-button md-button--primary">Browse Guide</a>
@@ -73,12 +68,11 @@ Everything founders need to build ventures through Studio3's transparent, gamifi
 </div>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 Echoes Guide
-Master the art of signaling belief, earning rewards, and supporting ventures to success.
-
-**Perfect for:** Supporters, investors, and community members
+<h3>📡 Echoes Guide</h3>
+<p>Master the art of signaling belief, earning rewards, and supporting ventures to success.</p>
+<p><strong>Perfect for:</strong> Supporters, investors, and community members</p>
 
 <div class="card-actions">
 <a href="echoes-guide/" class="md-button md-button--primary">Browse Guide</a>
@@ -87,12 +81,11 @@ Master the art of signaling belief, earning rewards, and supporting ventures to 
 </div>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚓ Anchors Guide
-Essential handbook for validators who guide ventures and maintain ecosystem integrity.
-
-**Perfect for:** Experienced builders, mentors, and ecosystem validators
+<h3>⚓ Anchors Guide</h3>
+<p>Essential handbook for validators who guide ventures and maintain ecosystem integrity.</p>
+<p><strong>Perfect for:</strong> Experienced builders, mentors, and ecosystem validators</p>
 
 <div class="card-actions">
 <a href="anchors-guide/" class="md-button md-button--primary">Browse Guide</a>
@@ -104,10 +97,16 @@ Essential handbook for validators who guide ventures and maintain ecosystem inte
 
 ## 🌟 The Studio3 Difference
 
-Studio3 transforms venture building through **🏟️ Public Arenas** where all progress happens transparently,**📊 Belief Signals** where community conviction drives support, and**🎮 Seven Phases** that guide ventures from idea spark to full sovereignty. With**🏆 Real Stakes**, success brings rewards while failure has consequences, all within a**🤝 Community-Driven** ecosystem where collective intelligence guides development.**## 📖 About These Guides
+Studio3 transforms venture building through **🏟️ Public Arenas** where all progress happens transparently, **📊 Belief Signals** where community conviction drives support, and **🎮 Seven Phases** that guide ventures from idea spark to full sovereignty. With **🏆 Real Stakes**, success brings rewards while failure has consequences, all within a **🤝 Community-Driven** ecosystem where collective intelligence guides development.
 
-Each guide is **self-contained** with everything you need in one place and**role-specific**, tailored to your journey. All guides are**downloadable** as PDFs for offline reading and**regularly updated** to stay current with platform changes.**!!! tip "Choose Your Path"
-    Not sure which guide to start with? The **Overview Guide** provides a complete introduction to help you decide your role in the Studio3 ecosystem.**---
+## 📖 About These Guides
+
+Each guide is **self-contained** with everything you need in one place and **role-specific**, tailored to your journey. All guides are **downloadable** as PDFs for offline reading and **regularly updated** to stay current with platform changes.
+
+!!! tip "Choose Your Path"
+    Not sure which guide to start with? The **Overview Guide** provides a complete introduction to help you decide your role in the Studio3 ecosystem.
+
+---
 
 ## 📜 License
 

@@ -2,11 +2,11 @@
 
 ## Your Path to Becoming an Anchor
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Meeting the Standards
+<h3>🎯 Meeting the Standards</h3>
 
-Becoming an Anchor requires a unique combination of experience, expertise, and character. This guide details the specific requirements, application process, and preparation strategies to help qualified candidates join this elite group of ecosystem validators.
+<p>Becoming an Anchor requires a unique combination of experience, expertise, and character. This guide details the specific requirements, application process, and preparation strategies to help qualified candidates join this elite group of ecosystem validators.</p>
 
 </div>
 
@@ -14,548 +14,634 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 ### Experience Requirements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏆 Proven Track Record
+<h3>🏆 Proven Track Record</h3>
 
-**Mandatory Experience:**
+<p>**Mandatory Experience:**</p>
 
-**Venture Building:**
+<p>**Venture Building:**</p>
 
-- Minimum 5 years building startups/projects
-- At least 1 successful exit (any ecosystem)
-- Demonstrated product development
-- Team leadership experience
-- Market validation expertise
+<ul>
+<li>Minimum 5 years building startups/projects</li>
+<li>At least 1 successful exit (any ecosystem)</li>
+<li>Demonstrated product development</li>
+<li>Team leadership experience</li>
+<li>Market validation expertise</li>
 
-**Domain Expertise:**
+</ul>
+<p>**Domain Expertise:**</p>
 
-- Deep knowledge in 1+ sectors
-- Technical or business specialization
-- Current industry involvement
-- Network connections
-- Thought leadership evidence
+<ul>
+<li>Deep knowledge in 1+ sectors</li>
+<li>Technical or business specialization</li>
+<li>Current industry involvement</li>
+<li>Network connections</li>
+<li>Thought leadership evidence</li>
 
-**Validation Experience:**
+</ul>
+<p>**Validation Experience:**</p>
 
-- Due diligence background
-- Quality assessment skills
-- Objective decision-making
-- Documentation habits
-- Fair judgment history
+<ul>
+<li>Due diligence background</li>
+<li>Quality assessment skills</li>
+<li>Objective decision-making</li>
+<li>Documentation habits</li>
+<li>Fair judgment history</li>
 
+</ul>
 </div>
 
 ### Technical Competencies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 Required Skills
+<h3>💻 Required Skills</h3>
 
-**Technical Assessment Ability:**
+<p>**Technical Assessment Ability:**</p>
 
 ```text
-Core Competencies:
-□ Code review capability
-□ Architecture evaluation
-□ Security assessment
-□ Scalability analysis
-□ Performance evaluation
-□ Integration understanding
-□ Best practices knowledge
+<p>Core Competencies:</p>
+<p>□ Code review capability</p>
+<p>□ Architecture evaluation</p>
+<p>□ Security assessment</p>
+<p>□ Scalability analysis</p>
+<p>□ Performance evaluation</p>
+<p>□ Integration understanding</p>
+<p>□ Best practices knowledge</p>
 ```
 
-**Business Assessment Skills:**
+<p>**Business Assessment Skills:**</p>
 
-- Market analysis
-- Financial modeling
-- Unit economics
-- Growth strategies
-- Competitive positioning
-- Risk assessment
-- Exit planning
+<ul>
+<li>Market analysis</li>
+<li>Financial modeling</li>
+<li>Unit economics</li>
+<li>Growth strategies</li>
+<li>Competitive positioning</li>
+<li>Risk assessment</li>
+<li>Exit planning</li>
 
-**Soft Skills:**
+</ul>
+<p>**Soft Skills:**</p>
 
-- Written communication
-- Verbal articulation
-- Active listening
-- Conflict resolution
-- Cultural sensitivity
-- Patience & empathy
-- Teaching ability
+<ul>
+<li>Written communication</li>
+<li>Verbal articulation</li>
+<li>Active listening</li>
+<li>Conflict resolution</li>
+<li>Cultural sensitivity</li>
+<li>Patience & empathy</li>
+<li>Teaching ability</li>
 
+</ul>
 </div>
 
 ### Character Requirements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⭐ Personal Qualities
-**Essential Character Traits:**
+<h3>⭐ Personal Qualities</h3>
+<p>**Essential Character Traits:**</p>
 
-**Integrity:**
+<p>**Integrity:**</p>
 
-- Unquestionable ethics
-- Consistent honesty
-- Transparent dealings
-- Promise keeping
-- Accountability ownership
+<ul>
+<li>Unquestionable ethics</li>
+<li>Consistent honesty</li>
+<li>Transparent dealings</li>
+<li>Promise keeping</li>
+<li>Accountability ownership</li>
 
-**Objectivity:**
+</ul>
+<p>**Objectivity:**</p>
 
-- Bias recognition
-- Fair assessment
-- Evidence focus
-- Emotional control
-- Balanced perspective
+<ul>
+<li>Bias recognition</li>
+<li>Fair assessment</li>
+<li>Evidence focus</li>
+<li>Emotional control</li>
+<li>Balanced perspective</li>
 
-**Service Mindset:**
+</ul>
+<p>**Service Mindset:**</p>
 
-- Ecosystem first
-- Founder support
-- Community building
-- Knowledge sharing
-- Long-term thinking
+<ul>
+<li>Ecosystem first</li>
+<li>Founder support</li>
+<li>Community building</li>
+<li>Knowledge sharing</li>
+<li>Long-term thinking</li>
 
-**Resilience:**
+</ul>
+<p>**Resilience:**</p>
 
-- Stress management
-- Difficult decisions
-- Criticism handling
-- Failure acceptance
-- Continuous growth
+<ul>
+<li>Stress management</li>
+<li>Difficult decisions</li>
+<li>Criticism handling</li>
+<li>Failure acceptance</li>
+<li>Continuous growth</li>
 
+</ul>
 </div>
 
 ## Financial Requirements
 
 ### Stake Requirements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Economic Commitment
+<h3>💰 Economic Commitment</h3>
 
-**Minimum Stake:**
+<p>**Minimum Stake:**</p>
 
-- 50,000 $SIGNAL tokens
-- Locked for 12 months minimum
-- Slashing risk acceptance
-- Alignment demonstration
-- Skin in the game
+<ul>
+<li>50,000 $SIGNAL tokens</li>
+<li>Locked for 12 months minimum</li>
+<li>Slashing risk acceptance</li>
+<li>Alignment demonstration</li>
+<li>Skin in the game</li>
 
-**Stake Purpose:**
+</ul>
+<p>**Stake Purpose:**</p>
 
-- Alignment incentive
-- Quality insurance
-- Commitment proof
-- Bad behavior deterrent
-- Ecosystem investment
+<ul>
+<li>Alignment incentive</li>
+<li>Quality insurance</li>
+<li>Commitment proof</li>
+<li>Bad behavior deterrent</li>
+<li>Ecosystem investment</li>
 
-**Slashing Conditions:**
+</ul>
+<p>**Slashing Conditions:**</p>
 
-- Malicious validation: -50%
-- Gross negligence: -25%
-- Repeated failures: -10%
-- Ethics violations: -100%
-- Recovery possible through excellence
+<ul>
+<li>Malicious validation: -50%</li>
+<li>Gross negligence: -25%</li>
+<li>Repeated failures: -10%</li>
+<li>Ethics violations: -100%</li>
+<li>Recovery possible through excellence</li>
 
+</ul>
 </div>
 
 ### Financial Stability
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏦 Economic Readiness
+<h3>🏦 Economic Readiness</h3>
 
-**Personal Financial Health:**
+<p>**Personal Financial Health:**</p>
 
-- Not dependent on Anchor income
-- 6+ months emergency fund
-- No desperate decisions
-- Long-term perspective
-- Sustainable commitment
+<ul>
+<li>Not dependent on Anchor income</li>
+<li>6+ months emergency fund</li>
+<li>No desperate decisions</li>
+<li>Long-term perspective</li>
+<li>Sustainable commitment</li>
 
-**Time Investment Value:**
+</ul>
+<p>**Time Investment Value:**</p>
 
-- 15-25 hours weekly
-- Opportunity cost considered
-- Other income sources
-- Balanced portfolio
-- Growth potential understood
+<ul>
+<li>15-25 hours weekly</li>
+<li>Opportunity cost considered</li>
+<li>Other income sources</li>
+<li>Balanced portfolio</li>
+<li>Growth potential understood</li>
 
+</ul>
 </div>
 
 ## Time Requirements
 
 ### Availability Standards
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ Time Commitment
+<h3>⏰ Time Commitment</h3>
 
-**Weekly Minimums:**
+<p>**Weekly Minimums:**</p>
 
 ```text
-Regular Weeks: 15-20 hours
-- Validations: 5-8 hours
-- Founder meetings: 3-5 hours
-- Documentation: 2-3 hours
-- Community: 3-4 hours
-- Learning: 2 hours
+<p>Regular Weeks: 15-20 hours</p>
+<ul>
+<li>Validations: 5-8 hours</li>
+<li>Founder meetings: 3-5 hours</li>
+<li>Documentation: 2-3 hours</li>
+<li>Community: 3-4 hours</li>
+<li>Learning: 2 hours</li>
 
-Peak Periods: 25-30 hours
-- Multiple deadlines
-- Crisis management
-- Dispute resolution
-- Major pivots
+</ul>
+<p>Peak Periods: 25-30 hours</p>
+<ul>
+<li>Multiple deadlines</li>
+<li>Crisis management</li>
+<li>Dispute resolution</li>
+<li>Major pivots</li>
 ```
 
-**Response Times:**
+</ul>
+<p>**Response Times:**</p>
 
-- Initial response: 24 hours
-- Validation decision: 5 days
-- Emergency response: 4 hours
-- Meeting scheduling: 48 hours
-- Documentation: Immediate
+<ul>
+<li>Initial response: 24 hours</li>
+<li>Validation decision: 5 days</li>
+<li>Emergency response: 4 hours</li>
+<li>Meeting scheduling: 48 hours</li>
+<li>Documentation: Immediate</li>
 
+</ul>
 </div>
 
 ### Long-term Commitment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 Duration Expectations
+<h3>📅 Duration Expectations</h3>
 
-**Minimum Commitment:**
+<p>**Minimum Commitment:**</p>
 
-- 12 months initial term
-- 6 months notice period
-- Venture completion honor
-- Knowledge transfer duty
-- Relationship maintenance
+<ul>
+<li>12 months initial term</li>
+<li>6 months notice period</li>
+<li>Venture completion honor</li>
+<li>Knowledge transfer duty</li>
+<li>Relationship maintenance</li>
 
-**Ideal Commitment:**
+</ul>
+<p>**Ideal Commitment:**</p>
 
-- 3-5 year vision
-- Career integration
-- Ecosystem building
-- Legacy creation
-- Continuous growth
+<ul>
+<li>3-5 year vision</li>
+<li>Career integration</li>
+<li>Ecosystem building</li>
+<li>Legacy creation</li>
+<li>Continuous growth</li>
 
+</ul>
 </div>
 
 ## Application Process
 
 ### Step-by-Step Application
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Application Journey
+<h3>📝 Application Journey</h3>
 
-**Phase 1: Initial Application**
+<p>**Phase 1: Initial Application**</p>
 
 ```text
-1. Complete online form
-2. Submit credentials:
-   - Professional history
-   - Exit documentation
-   - Reference contacts
-   - Portfolio examples
-   - Stake proof
+<p>1. Complete online form</p>
+<p>2. Submit credentials:</p>
+<ul>
+<li>Professional history</li>
+<li>Exit documentation</li>
+<li>Reference contacts</li>
+<li>Portfolio examples</li>
+<li>Stake proof</li>
 
-3. Essay questions:
-   - Why become an Anchor?
-   - Validation philosophy
-   - Conflict scenarios
-   - Time availability
-   - Long-term vision
+</ul>
+<p>3. Essay questions:</p>
+<ul>
+<li>Why become an Anchor?</li>
+<li>Validation philosophy</li>
+<li>Conflict scenarios</li>
+<li>Time availability</li>
+<li>Long-term vision</li>
 ```
 
-**Phase 2: Assessment**
+</ul>
+<p>**Phase 2: Assessment**</p>
 
-- Technical evaluation
-- Case study analysis
-- Behavioral interview
-- Reference checks
-- Community feedback
+<ul>
+<li>Technical evaluation</li>
+<li>Case study analysis</li>
+<li>Behavioral interview</li>
+<li>Reference checks</li>
+<li>Community feedback</li>
 
-**Phase 3: Trial Period**
+</ul>
+<p>**Phase 3: Trial Period**</p>
 
-- Shadow senior Anchor
-- Practice validations
-- Receive feedback
-- Demonstrate competence
-- Final approval
+<ul>
+<li>Shadow senior Anchor</li>
+<li>Practice validations</li>
+<li>Receive feedback</li>
+<li>Demonstrate competence</li>
+<li>Final approval</li>
 
+</ul>
 </div>
 
 ### Assessment Criteria
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Evaluation Framework
+<h3>📊 Evaluation Framework</h3>
 
-**Scoring Matrix:**
+<p>**Scoring Matrix:**</p>
 
-| Category | Weight | Minimum Score |
-|----------|--------|---------------|
-| Experience | 30% | 80/100 |
-| Technical Skills | 25% | 75/100 |
-| Communication | 20% | 85/100 |
-| Character | 15% | 90/100 |
-| Commitment | 10% | 85/100 |
+<p>| Category | Weight | Minimum Score |</p>
+<p>|----------|--------|---------------|</p>
+<p>| Experience | 30% | 80/100 |</p>
+<p>| Technical Skills | 25% | 75/100 |</p>
+<p>| Communication | 20% | 85/100 |</p>
+<p>| Character | 15% | 90/100 |</p>
+<p>| Commitment | 10% | 85/100 |</p>
 
-**Total Required: 82/100**
+<p>**Total Required: 82/100**</p>
 
-**Assessment Methods:**
+<p>**Assessment Methods:**</p>
 
-- Portfolio review
-- Technical tests
-- Case simulations
-- Reference verification
-- Community validation
+<ul>
+<li>Portfolio review</li>
+<li>Technical tests</li>
+<li>Case simulations</li>
+<li>Reference verification</li>
+<li>Community validation</li>
 
+</ul>
 </div>
 
 ## Preparation Strategies
 
 ### Building Qualifications
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Qualification Path
+<h3>🎯 Qualification Path</h3>
 
-**If Lacking Experience:**
+<p>**If Lacking Experience:**</p>
 
-1. **Build More**
-   - Launch projects
-   - Join ventures
-   - Gain expertise
-   - Document journey
+<p>1. **Build More**</p>
+<ul>
+<li>Launch projects</li>
+<li>Join ventures</li>
+<li>Gain expertise</li>
+<li>Document journey</li>
 
-2. **Alternative Paths**
-   - Angel investing
-   - Advisor roles
-   - Accelerator mentor
-   - Technical consulting
+</ul>
+<p>2. **Alternative Paths**</p>
+<ul>
+<li>Angel investing</li>
+<li>Advisor roles</li>
+<li>Accelerator mentor</li>
+<li>Technical consulting</li>
 
-**If Lacking Skills:**
+</ul>
+<p>**If Lacking Skills:**</p>
 
-1. **Technical Development**
-   - Online courses
-   - Certifications
-   - Open source
-   - Hackathons
+<p>1. **Technical Development**</p>
+<ul>
+<li>Online courses</li>
+<li>Certifications</li>
+<li>Open source</li>
+<li>Hackathons</li>
 
-2. **Business Development**
-   - MBA programs
-   - Strategy courses
-   - Finance training
-   - Market analysis
+</ul>
+<p>2. **Business Development**</p>
+<ul>
+<li>MBA programs</li>
+<li>Strategy courses</li>
+<li>Finance training</li>
+<li>Market analysis</li>
 
+</ul>
 </div>
 
 ### Application Optimization
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✨ Standing Out
+<h3>✨ Standing Out</h3>
 
-**Differentiation Strategies:**
+<p>**Differentiation Strategies:**</p>
 
-**Unique Value Proposition:**
+<p>**Unique Value Proposition:**</p>
 
-- Specialized expertise
-- Rare combinations
-- Notable achievements
-- Strong network
-- Innovation history
+<ul>
+<li>Specialized expertise</li>
+<li>Rare combinations</li>
+<li>Notable achievements</li>
+<li>Strong network</li>
+<li>Innovation history</li>
 
-**Evidence Quality:**
+</ul>
+<p>**Evidence Quality:**</p>
 
-- Quantified results
-- Third-party validation
-- Public recognition
-- Testimonials
-- Media coverage
+<ul>
+<li>Quantified results</li>
+<li>Third-party validation</li>
+<li>Public recognition</li>
+<li>Testimonials</li>
+<li>Media coverage</li>
 
-**Presentation Excellence:**
+</ul>
+<p>**Presentation Excellence:**</p>
 
-- Clear narrative
-- Professional materials
-- Compelling vision
-- Authentic voice
-- Memorable impact
+<ul>
+<li>Clear narrative</li>
+<li>Professional materials</li>
+<li>Compelling vision</li>
+<li>Authentic voice</li>
+<li>Memorable impact</li>
 
+</ul>
 </div>
 
 ## Common Disqualifiers
 
 ### Red Flags
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Automatic Disqualifiers
+<h3>❌ Automatic Disqualifiers</h3>
 
-**Behavioral Issues:**
+<p>**Behavioral Issues:**</p>
 
-- Ethics violations
-- Legal problems
-- Toxic behavior
-- Discrimination history
-- Trust breaches
+<ul>
+<li>Ethics violations</li>
+<li>Legal problems</li>
+<li>Toxic behavior</li>
+<li>Discrimination history</li>
+<li>Trust breaches</li>
 
-**Professional Gaps:**
+</ul>
+<p>**Professional Gaps:**</p>
 
-- No real experience
-- Failed ventures only
-- Poor references
-- Skill deficiencies
-- Time unavailability
+<ul>
+<li>No real experience</li>
+<li>Failed ventures only</li>
+<li>Poor references</li>
+<li>Skill deficiencies</li>
+<li>Time unavailability</li>
 
-**Attitude Problems:**
+</ul>
+<p>**Attitude Problems:**</p>
 
-- Ego issues
-- Know-it-all mindset
-- Inflexibility
-- Poor listening
-- Service resistance
+<ul>
+<li>Ego issues</li>
+<li>Know-it-all mindset</li>
+<li>Inflexibility</li>
+<li>Poor listening</li>
+<li>Service resistance</li>
 
+</ul>
 </div>
 
 ### Edge Cases
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤔 Special Considerations
+<h3>🤔 Special Considerations</h3>
 
-**Exceptional Candidates:**
+<p>**Exceptional Candidates:**</p>
 
-- Outstanding expertise
-- Unique perspectives
-- High potential
-- Strong endorsements
-- Alternative experience
+<ul>
+<li>Outstanding expertise</li>
+<li>Unique perspectives</li>
+<li>High potential</li>
+<li>Strong endorsements</li>
+<li>Alternative experience</li>
 
-**Conditional Acceptance:**
+</ul>
+<p>**Conditional Acceptance:**</p>
 
-- Extended trial period
-- Additional training
-- Mentor partnership
-- Limited scope
-- Performance monitoring
+<ul>
+<li>Extended trial period</li>
+<li>Additional training</li>
+<li>Mentor partnership</li>
+<li>Limited scope</li>
+<li>Performance monitoring</li>
 
+</ul>
 </div>
 
 ## Maintaining Qualifications
 
 ### Ongoing Requirements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Continuous Standards
+<h3>📈 Continuous Standards</h3>
 
-**Annual Requirements:**
+<p>**Annual Requirements:**</p>
 
-- Performance review pass
-- Continued education (20 hours)
-- Community contribution
-- Stake maintenance
-- Ethics compliance
+<ul>
+<li>Performance review pass</li>
+<li>Continued education (20 hours)</li>
+<li>Community contribution</li>
+<li>Stake maintenance</li>
+<li>Ethics compliance</li>
 
-**Skill Maintenance:**
+</ul>
+<p>**Skill Maintenance:**</p>
 
-- Industry awareness
-- Technology updates
-- Methodology evolution
-- Network growth
-- Knowledge sharing
+<ul>
+<li>Industry awareness</li>
+<li>Technology updates</li>
+<li>Methodology evolution</li>
+<li>Network growth</li>
+<li>Knowledge sharing</li>
 
+</ul>
 </div>
 
 ### Advancement Path
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Growing as Anchor
+<h3>🚀 Growing as Anchor</h3>
 
-**Level Progression Requirements:**
+<p>**Level Progression Requirements:**</p>
 
-**Junior → Anchor:**
+<p>**Junior → Anchor:**</p>
 
-- 6 months experience
-- 10+ validations
-- 90% satisfaction
-- No major issues
-- Peer endorsement
+<ul>
+<li>6 months experience</li>
+<li>10+ validations</li>
+<li>90% satisfaction</li>
+<li>No major issues</li>
+<li>Peer endorsement</li>
 
-**Anchor → Senior:**
+</ul>
+<p>**Anchor → Senior:**</p>
 
-- 18 months experience
-- 50+ validations
-- Mentor juniors
-- Process improvements
-- Thought leadership
+<ul>
+<li>18 months experience</li>
+<li>50+ validations</li>
+<li>Mentor juniors</li>
+<li>Process improvements</li>
+<li>Thought leadership</li>
 
-**Senior → Master:**
+</ul>
+<p>**Senior → Master:**</p>
 
-- 3+ years experience
-- 100+ validations
-- Major contributions
-- Industry recognition
-- Ecosystem impact
+<ul>
+<li>3+ years experience</li>
+<li>100+ validations</li>
+<li>Major contributions</li>
+<li>Industry recognition</li>
+<li>Ecosystem impact</li>
 
+</ul>
 </div>
 
 ## Support Systems
 
 ### New Anchor Support
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Onboarding Excellence
+<h3>🤝 Onboarding Excellence</h3>
 
-**Support Provided:**
+<p>**Support Provided:**</p>
 
-- Comprehensive orientation
-- Mentor assignment
-- Resource library
-- Peer community
-- Regular check-ins
+<ul>
+<li>Comprehensive orientation</li>
+<li>Mentor assignment</li>
+<li>Resource library</li>
+<li>Peer community</li>
+<li>Regular check-ins</li>
 
-**Training Program:**
+</ul>
+<p>**Training Program:**</p>
 
-- Week 1: Platform & processes
-- Week 2: Validation practice
-- Week 3: Communication skills
-- Week 4: Live shadowing
-- Ongoing: Monthly workshops
+<ul>
+<li>Week 1: Platform & processes</li>
+<li>Week 2: Validation practice</li>
+<li>Week 3: Communication skills</li>
+<li>Week 4: Live shadowing</li>
+<li>Ongoing: Monthly workshops</li>
 
+</ul>
 </div>
 
 ## FAQ
 
 ### Common Questions
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❓ Frequently Asked
+<h3>❓ Frequently Asked</h3>
 
-**Q: Can I apply without an exit?**
-A: Exceptional candidates with deep expertise and strong references may be considered.
+<p>**Q: Can I apply without an exit?**</p>
+<p>A: Exceptional candidates with deep expertise and strong references may be considered.</p>
 
-**Q: Is the time commitment flexible?**
-A: Core hours are flexible, but availability for ventures is non-negotiable.
+<p>**Q: Is the time commitment flexible?**</p>
+<p>A: Core hours are flexible, but availability for ventures is non-negotiable.</p>
 
-**Q: Can I specialize in one phase?**
-A: Yes, after demonstrating general competence.
+<p>**Q: Can I specialize in one phase?**</p>
+<p>A: Yes, after demonstrating general competence.</p>
 
-**Q: What if I fail the assessment?**
-A: Reapply after 6 months with improvements.
+<p>**Q: What if I fail the assessment?**</p>
+<p>A: Reapply after 6 months with improvements.</p>
 
-**Q: Is international participation okay?**
-A: Yes, if you can meet time zone needs.
+<p>**Q: Is international participation okay?**</p>
+<p>A: Yes, if you can meet time zone needs.</p>
 
 </div>
 

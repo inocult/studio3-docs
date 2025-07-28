@@ -2,11 +2,11 @@
 
 ## Navigating Conflicts with Wisdom and Fairness
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ The Anchor as Mediator
+<h3>⚖️ The Anchor as Mediator</h3>
 
-Disputes are inevitable in high-stakes venture building. As an Anchor, you'll need to resolve conflicts between founders and stakeholders, handle validation challenges, and navigate complex disagreements. This guide equips you with frameworks and strategies for effective dispute resolution.
+<p>Disputes are inevitable in high-stakes venture building. As an Anchor, you'll need to resolve conflicts between founders and stakeholders, handle validation challenges, and navigate complex disagreements. This guide equips you with frameworks and strategies for effective dispute resolution.</p>
 
 </div>
 
@@ -14,383 +14,438 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 
 ### Types of Disputes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Common Conflict Categories
+<h3>🎯 Common Conflict Categories</h3>
 
-**Validation Disputes**
+<p>**Validation Disputes**</p>
 
-- Milestone achievement claims
-- Evidence interpretation
-- Standard application
-- Timeline disagreements
-- Quality assessments
+<ul>
+<li>Milestone achievement claims</li>
+<li>Evidence interpretation</li>
+<li>Standard application</li>
+<li>Timeline disagreements</li>
+<li>Quality assessments</li>
 
-**Stakeholder Conflicts**
+</ul>
+<p>**Stakeholder Conflicts**</p>
 
-- Founder vs Echo tensions
-- Team internal conflicts
-- Community disagreements
-- Platform policy disputes
-- Resource allocation
+<ul>
+<li>Founder vs Echo tensions</li>
+<li>Team internal conflicts</li>
+<li>Community disagreements</li>
+<li>Platform policy disputes</li>
+<li>Resource allocation</li>
 
-**Technical Disputes**
+</ul>
+<p>**Technical Disputes**</p>
 
-- Architecture decisions
-- Technology choices
-- Performance standards
-- Security requirements
-- Implementation approaches
+<ul>
+<li>Architecture decisions</li>
+<li>Technology choices</li>
+<li>Performance standards</li>
+<li>Security requirements</li>
+<li>Implementation approaches</li>
 
-**Business Disputes**
+</ul>
+<p>**Business Disputes**</p>
 
-- Strategic direction
-- Market approach
-- Pivot decisions
-- Equity splits
-- Partnership terms
+<ul>
+<li>Strategic direction</li>
+<li>Market approach</li>
+<li>Pivot decisions</li>
+<li>Equity splits</li>
+<li>Partnership terms</li>
 
+</ul>
 </div>
 
 ### Anatomy of Disputes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 How Conflicts Escalate
+<h3>🔍 How Conflicts Escalate</h3>
 
-**Escalation Pattern:**
+<p>**Escalation Pattern:**</p>
 
 ```text
-Disagreement → Tension → Conflict → Dispute → Crisis
-    ↓            ↓          ↓          ↓         ↓
-  Discussion   Emotion   Positions   Formal    Damage
+<p>Disagreement → Tension → Conflict → Dispute → Crisis</p>
+<p>↓            ↓          ↓          ↓         ↓</p>
+<p>Discussion   Emotion   Positions   Formal    Damage</p>
 ```
 
-**Common Triggers:**
+<p>**Common Triggers:**</p>
 
-- Unmet expectations
-- Poor communication
-- Resource pressure
-- Power dynamics
-- Past grievances
+<ul>
+<li>Unmet expectations</li>
+<li>Poor communication</li>
+<li>Resource pressure</li>
+<li>Power dynamics</li>
+<li>Past grievances</li>
 
-**Warning Signs:**
+</ul>
+<p>**Warning Signs:**</p>
 
-- Communication breakdown
-- Emotional language
-- Public complaints
-- Alliance forming
-- Ultimatum threats
+<ul>
+<li>Communication breakdown</li>
+<li>Emotional language</li>
+<li>Public complaints</li>
+<li>Alliance forming</li>
+<li>Ultimatum threats</li>
 
+</ul>
 </div>
 
 ## Dispute Resolution Framework
 
 ### The RESOLVE Method
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Systematic Conflict Resolution
+<h3>🛠️ Systematic Conflict Resolution</h3>
 
-- **R** - Recognize the dispute early
-- **E** - Establish neutral ground
-- **S** - Separate people from positions
-- **O** - Outline interests clearly
-- **L** - Look for creative solutions
-- **V** - Validate agreements made
-- **E** - Ensure implementation
+<ul>
+<li>**R** - Recognize the dispute early</li>
+<li>**E** - Establish neutral ground</li>
+<li>**S** - Separate people from positions</li>
+<li>**O** - Outline interests clearly</li>
+<li>**L** - Look for creative solutions</li>
+<li>**V** - Validate agreements made</li>
+<li>**E** - Ensure implementation</li>
 
-**Framework Application:**
+</ul>
+<p>**Framework Application:**</p>
 
-1. Early intervention critical
-2. Process transparency essential
-3. Fairness perception key
-4. Documentation throughout
-5. Follow-up mandatory
+<p>1. Early intervention critical</p>
+<p>2. Process transparency essential</p>
+<p>3. Fairness perception key</p>
+<p>4. Documentation throughout</p>
+<p>5. Follow-up mandatory</p>
 
 </div>
 
 ### Initial Response
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚨 First 48 Hours
+<h3>🚨 First 48 Hours</h3>
 
-**Immediate Actions:**
+<p>**Immediate Actions:**</p>
 
-**Hour 1-4: Acknowledge**
+<p>**Hour 1-4: Acknowledge**</p>
 
 ```text
-Response Template:
-"I acknowledge your concern about [issue]. 
-I take this seriously and will investigate thoroughly. 
-Let's schedule time to discuss within 24 hours.
-Timeline for resolution: [specific date]"
+<p>Response Template:</p>
+<p>"I acknowledge your concern about [issue].</p>
+<p>I take this seriously and will investigate thoroughly.</p>
+<p>Let's schedule time to discuss within 24 hours.</p>
+<p>Timeline for resolution: [specific date]"</p>
 ```
 
-**Hour 5-24: Investigate**
+<p>**Hour 5-24: Investigate**</p>
 
-- Gather all perspectives
-- Review documentation
-- Check precedents
-- Consult if needed
-- Prepare approach
+<ul>
+<li>Gather all perspectives</li>
+<li>Review documentation</li>
+<li>Check precedents</li>
+<li>Consult if needed</li>
+<li>Prepare approach</li>
 
-**Hour 25-48: Engage**
+</ul>
+<p>**Hour 25-48: Engage**</p>
 
-- Meet with parties
-- Listen actively
-- Establish process
-- Set expectations
-- Begin resolution
+<ul>
+<li>Meet with parties</li>
+<li>Listen actively</li>
+<li>Establish process</li>
+<li>Set expectations</li>
+<li>Begin resolution</li>
 
+</ul>
 </div>
 
 ## Validation Dispute Resolution
 
 ### Challenging Validation Decisions
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ When Founders Disagree
+<h3>⚖️ When Founders Disagree</h3>
 
-**Common Challenge Reasons:**
+<p>**Common Challenge Reasons:**</p>
 
-- Evidence interpretation
-- Standard application
-- Context consideration
-- Technical understanding
-- Timeline factors
+<ul>
+<li>Evidence interpretation</li>
+<li>Standard application</li>
+<li>Context consideration</li>
+<li>Technical understanding</li>
+<li>Timeline factors</li>
 
-**Resolution Process:**
+</ul>
+<p>**Resolution Process:**</p>
 
-**Step 1: Review Request**
+<p>**Step 1: Review Request**</p>
 
 ```markdown
-## Validation Review Request
-Venture: [Name]
-Milestone: [Description]
-Original Decision: [Pass/Fail]
-Challenge Basis: [Specific reasons]
-New Evidence: [If any]
-Requested Outcome: [What they want]
+
+<h2>Validation Review Request</h2>
+<p>Venture: [Name]</p>
+<p>Milestone: [Description]</p>
+<p>Original Decision: [Pass/Fail]</p>
+<p>Challenge Basis: [Specific reasons]</p>
+<p>New Evidence: [If any]</p>
+<p>Requested Outcome: [What they want]</p>
 ```
 
-**Step 2: Re-examination**
+<p>**Step 2: Re-examination**</p>
 
-- Fresh eyes approach
-- All evidence reviewed
-- Standards reconfirmed
-- Context reconsidered
-- Peer input sought
+<ul>
+<li>Fresh eyes approach</li>
+<li>All evidence reviewed</li>
+<li>Standards reconfirmed</li>
+<li>Context reconsidered</li>
+<li>Peer input sought</li>
 
-**Step 3: Decision Communication**
+</ul>
+<p>**Step 3: Decision Communication**</p>
 
-- Clear determination
-- Detailed reasoning
-- Learning captured
-- Process improved
+<ul>
+<li>Clear determination</li>
+<li>Detailed reasoning</li>
+<li>Learning captured</li>
+<li>Process improved</li>
 
+</ul>
 </div>
 
 ### Evidence Disputes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Interpreting Gray Areas
+<h3>📊 Interpreting Gray Areas</h3>
 
-**Evidence Interpretation Framework:**
+<p>**Evidence Interpretation Framework:**</p>
 
-**When Evidence Conflicts:**
+<p>**When Evidence Conflicts:**</p>
 
-1. **Weight Evidence**
-   - Primary over secondary
-   - Verified over claimed
-   - Consistent over outlier
-   - Recent over old
+<p>1. **Weight Evidence**</p>
+<ul>
+<li>Primary over secondary</li>
+<li>Verified over claimed</li>
+<li>Consistent over outlier</li>
+<li>Recent over old</li>
 
-2. **Seek Clarity**
-   - Additional evidence
-   - Expert opinions
-   - Testing/verification
-   - Context expansion
+</ul>
+<p>2. **Seek Clarity**</p>
+<ul>
+<li>Additional evidence</li>
+<li>Expert opinions</li>
+<li>Testing/verification</li>
+<li>Context expansion</li>
 
-3. **Apply Judgment**
-   - Benefit of doubt where appropriate
-   - Precedent consideration
-   - Ecosystem benefit
-   - Fair resolution
+</ul>
+<p>3. **Apply Judgment**</p>
+<ul>
+<li>Benefit of doubt where appropriate</li>
+<li>Precedent consideration</li>
+<li>Ecosystem benefit</li>
+<li>Fair resolution</li>
 
-**Documentation:**
+</ul>
+<p>**Documentation:**</p>
 
-- All viewpoints captured
-- Reasoning transparent
-- Decision defensible
-- Learning extracted
+<ul>
+<li>All viewpoints captured</li>
+<li>Reasoning transparent</li>
+<li>Decision defensible</li>
+<li>Learning extracted</li>
 
+</ul>
 </div>
 
 ## Team Conflict Resolution
 
 ### Co-Founder Disputes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 When Leaders Clash
+<h3>👥 When Leaders Clash</h3>
 
-**Common Co-Founder Issues:**
+<p>**Common Co-Founder Issues:**</p>
 
-- Vision misalignment
-- Role confusion
-- Equity disputes
-- Performance gaps
-- Personal conflicts
+<ul>
+<li>Vision misalignment</li>
+<li>Role confusion</li>
+<li>Equity disputes</li>
+<li>Performance gaps</li>
+<li>Personal conflicts</li>
 
-**Mediation Approach:**
+</ul>
+<p>**Mediation Approach:**</p>
 
-**1. Separate Meetings**
+<p>**1. Separate Meetings**</p>
 
 ```text
-Individual Session Guide:
-- Safe space creation
-- Full story hearing
-- Emotion acknowledgment
-- Interest identification
-- Option exploration
+<p>Individual Session Guide:</p>
+<ul>
+<li>Safe space creation</li>
+<li>Full story hearing</li>
+<li>Emotion acknowledgment</li>
+<li>Interest identification</li>
+<li>Option exploration</li>
 ```
 
-**2. Joint Session**
+</ul>
+<p>**2. Joint Session**</p>
 
-- Ground rules set
-- Structured dialogue
-- Focus on interests
-- Creative solutions
-- Agreement building
+<ul>
+<li>Ground rules set</li>
+<li>Structured dialogue</li>
+<li>Focus on interests</li>
+<li>Creative solutions</li>
+<li>Agreement building</li>
 
-**3. Documentation**
+</ul>
+<p>**3. Documentation**</p>
 
-- Clear agreements
-- Specific actions
-- Timeline defined
-- Accountability measures
-- Follow-up scheduled
+<ul>
+<li>Clear agreements</li>
+<li>Specific actions</li>
+<li>Timeline defined</li>
+<li>Accountability measures</li>
+<li>Follow-up scheduled</li>
 
+</ul>
 </div>
 
 ### Team vs Leadership
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 😤 Employee Grievances
+<h3>😤 Employee Grievances</h3>
 
-**Resolution Strategy:**
+<p>**Resolution Strategy:**</p>
 
-**Assessment Phase:**
+<p>**Assessment Phase:**</p>
 
-- Grievance validity
-- Pattern identification
-- Cultural issues
-- Leadership gaps
-- System problems
+<ul>
+<li>Grievance validity</li>
+<li>Pattern identification</li>
+<li>Cultural issues</li>
+<li>Leadership gaps</li>
+<li>System problems</li>
 
-**Intervention Options:**
+</ul>
+<p>**Intervention Options:**</p>
 
-1. **Coaching** - Leadership development
-2. **Mediation** - Facilitated dialogue
-3. **Restructuring** - Role changes
-4. **Culture Reset** - Team intervention
-5. **Last Resort** - Personnel changes
+<p>1. **Coaching** - Leadership development</p>
+<p>2. **Mediation** - Facilitated dialogue</p>
+<p>3. **Restructuring** - Role changes</p>
+<p>4. **Culture Reset** - Team intervention</p>
+<p>5. **Last Resort** - Personnel changes</p>
 
-**Success Factors:**
+<p>**Success Factors:**</p>
 
-- Confidentiality maintained
-- Fair process
-- Quick resolution
-- Clear outcomes
-- Learning integration
+<ul>
+<li>Confidentiality maintained</li>
+<li>Fair process</li>
+<li>Quick resolution</li>
+<li>Clear outcomes</li>
+<li>Learning integration</li>
 
+</ul>
 </div>
 
 ## Stakeholder Disputes
 
 ### Echo vs Founder Conflicts
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 Signal Stakeholder Issues
+<h3>📡 Signal Stakeholder Issues</h3>
 
-**Common Conflicts:**
+<p>**Common Conflicts:**</p>
 
-- Progress disputes
-- Communication gaps
-- Expectation mismatches
-- Strategy disagreements
-- Trust breakdowns
+<ul>
+<li>Progress disputes</li>
+<li>Communication gaps</li>
+<li>Expectation mismatches</li>
+<li>Strategy disagreements</li>
+<li>Trust breakdowns</li>
 
-**Resolution Approach:**
+</ul>
+<p>**Resolution Approach:**</p>
 
-**1. Fact Finding**
+<p>**1. Fact Finding**</p>
 
-- Claims documented
-- Evidence gathered
-- Timeline reviewed
-- Communications checked
-- Context understood
+<ul>
+<li>Claims documented</li>
+<li>Evidence gathered</li>
+<li>Timeline reviewed</li>
+<li>Communications checked</li>
+<li>Context understood</li>
 
-**2. Stakeholder Alignment**
+</ul>
+<p>**2. Stakeholder Alignment**</p>
 
 ```text
-Alignment Workshop:
-1. Shared goal reminder
-2. Success definition
-3. Role clarification
-4. Expectation reset
-5. Communication plan
+<p>Alignment Workshop:</p>
+<p>1. Shared goal reminder</p>
+<p>2. Success definition</p>
+<p>3. Role clarification</p>
+<p>4. Expectation reset</p>
+<p>5. Communication plan</p>
 ```
 
-**3. Forward Path**
+<p>**3. Forward Path**</p>
 
-- Specific commitments
-- Measurement criteria
-- Check-in schedule
-- Escalation path
-- Success metrics
+<ul>
+<li>Specific commitments</li>
+<li>Measurement criteria</li>
+<li>Check-in schedule</li>
+<li>Escalation path</li>
+<li>Success metrics</li>
 
+</ul>
 </div>
 
 ### Community Disputes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌐 Public Conflicts
+<h3>🌐 Public Conflicts</h3>
 
-**Managing Public Disputes:**
+<p>**Managing Public Disputes:**</p>
 
-**Immediate Response:**
+<p>**Immediate Response:**</p>
 
-- Acknowledge publicly
-- Move to private channel
-- Show fairness commitment
-- Provide timeline
-- Follow through
+<ul>
+<li>Acknowledge publicly</li>
+<li>Move to private channel</li>
+<li>Show fairness commitment</li>
+<li>Provide timeline</li>
+<li>Follow through</li>
 
-**Resolution Principles:**
+</ul>
+<p>**Resolution Principles:**</p>
 
-- Transparency where possible
-- Privacy where needed
-- Community interest first
-- Fair process visible
-- Learning shared
+<ul>
+<li>Transparency where possible</li>
+<li>Privacy where needed</li>
+<li>Community interest first</li>
+<li>Fair process visible</li>
+<li>Learning shared</li>
 
-**Communication Strategy:**
+</ul>
+<p>**Communication Strategy:**</p>
 
 ```text
-Public Statement Structure:
-1. Issue acknowledgment
-2. Process explanation
-3. Timeline commitment
-4. Value reinforcement
-5. Resolution update
+<p>Public Statement Structure:</p>
+<p>1. Issue acknowledgment</p>
+<p>2. Process explanation</p>
+<p>3. Timeline commitment</p>
+<p>4. Value reinforcement</p>
+<p>5. Resolution update</p>
 ```
 
 </div>
@@ -399,161 +454,181 @@ Public Statement Structure:
 
 ### Architecture Disagreements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 Technical Decision Conflicts
+<h3>💻 Technical Decision Conflicts</h3>
 
-**Common Technical Disputes:**
+<p>**Common Technical Disputes:**</p>
 
-- Technology stack choices
-- Architecture patterns
-- Performance standards
-- Security requirements
-- Scalability approaches
+<ul>
+<li>Technology stack choices</li>
+<li>Architecture patterns</li>
+<li>Performance standards</li>
+<li>Security requirements</li>
+<li>Scalability approaches</li>
 
-**Resolution Framework:**
+</ul>
+<p>**Resolution Framework:**</p>
 
-**1. Technical Review**
+<p>**1. Technical Review**</p>
 
 ```python
-def resolve_technical_dispute():
-    # Gather technical arguments
-    positions = document_all_positions()
-    
-    # Evaluate objectively
-    criteria = define_evaluation_criteria()
-    analysis = analyze_options(positions, criteria)
-    
-    # Seek expert input
-    expert_opinion = get_expert_consultation()
-    
-    # Make recommendation
-    return balanced_technical_decision()
+<p>def resolve_technical_dispute():</p>
+<h1>Gather technical arguments</h1>
+<p>positions = document_all_positions()</p>
+
+<h1>Evaluate objectively</h1>
+<p>criteria = define_evaluation_criteria()</p>
+<p>analysis = analyze_options(positions, criteria)</p>
+
+<h1>Seek expert input</h1>
+<p>expert_opinion = get_expert_consultation()</p>
+
+<h1>Make recommendation</h1>
+<p>return balanced_technical_decision()</p>
 ```
 
-**2. Decision Criteria**
+<p>**2. Decision Criteria**</p>
 
-- Technical merit
-- Business alignment
-- Resource reality
-- Risk assessment
-- Future flexibility
+<ul>
+<li>Technical merit</li>
+<li>Business alignment</li>
+<li>Resource reality</li>
+<li>Risk assessment</li>
+<li>Future flexibility</li>
 
+</ul>
 </div>
 
 ### Quality Standard Disputes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⭐ Standard Application Conflicts
+<h3>⭐ Standard Application Conflicts</h3>
 
-**Resolution Process:**
+<p>**Resolution Process:**</p>
 
-**1. Standard Clarification**
+<p>**1. Standard Clarification**</p>
 
-- Review written standards
-- Check precedents
-- Industry benchmarks
-- Phase appropriateness
-- Context factors
+<ul>
+<li>Review written standards</li>
+<li>Check precedents</li>
+<li>Industry benchmarks</li>
+<li>Phase appropriateness</li>
+<li>Context factors</li>
 
-**2. Fair Application**
+</ul>
+<p>**2. Fair Application**</p>
 
-- Consistent interpretation
-- Reasonable adjustment
-- Document reasoning
-- Create precedent
-- Update standards
+<ul>
+<li>Consistent interpretation</li>
+<li>Reasonable adjustment</li>
+<li>Document reasoning</li>
+<li>Create precedent</li>
+<li>Update standards</li>
 
-**3. Future Prevention**
+</ul>
+<p>**3. Future Prevention**</p>
 
-- Standard refinement
-- Example creation
-- Training improvement
-- Communication enhancement
-- Expectation management
+<ul>
+<li>Standard refinement</li>
+<li>Example creation</li>
+<li>Training improvement</li>
+<li>Communication enhancement</li>
+<li>Expectation management</li>
 
+</ul>
 </div>
 
 ## Mediation Techniques
 
 ### Active Mediation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Facilitating Resolution
+<h3>🤝 Facilitating Resolution</h3>
 
-**Mediation Skills:**
+<p>**Mediation Skills:**</p>
 
-**1. Active Listening**
+<p>**1. Active Listening**</p>
 
-- Full attention
-- No interruption
-- Reflect understanding
-- Ask clarification
-- Show empathy
+<ul>
+<li>Full attention</li>
+<li>No interruption</li>
+<li>Reflect understanding</li>
+<li>Ask clarification</li>
+<li>Show empathy</li>
 
-**2. Reframing**
+</ul>
+<p>**2. Reframing**</p>
 
 ```text
-Negative: "They never listen to me"
-Reframe: "You feel unheard in discussions"
+<p>Negative: "They never listen to me"</p>
+<p>Reframe: "You feel unheard in discussions"</p>
 
-Negative: "This is completely broken"
-Reframe: "The current state needs improvement"
+<p>Negative: "This is completely broken"</p>
+<p>Reframe: "The current state needs improvement"</p>
 ```
 
-**3. Finding Common Ground**
+<p>**3. Finding Common Ground**</p>
 
-- Shared goals identification
-- Mutual interests
-- Common values
-- Agreed facts
-- Joint vision
+<ul>
+<li>Shared goals identification</li>
+<li>Mutual interests</li>
+<li>Common values</li>
+<li>Agreed facts</li>
+<li>Joint vision</li>
 
-**4. Creative Solutions**
+</ul>
+<p>**4. Creative Solutions**</p>
 
-- Brainstorm options
-- Combine ideas
-- Think outside box
-- Test proposals
-- Build agreement
+<ul>
+<li>Brainstorm options</li>
+<li>Combine ideas</li>
+<li>Think outside box</li>
+<li>Test proposals</li>
+<li>Build agreement</li>
 
+</ul>
 </div>
 
 ### Managing Emotions
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 😡 Emotional De-escalation
+<h3>😡 Emotional De-escalation</h3>
 
-**De-escalation Techniques:**
+<p>**De-escalation Techniques:**</p>
 
-**Verbal Techniques:**
+<p>**Verbal Techniques:**</p>
 
-- Calm tone
-- Slower pace
-- Lower volume
-- Neutral language
-- Empathy expressions
+<ul>
+<li>Calm tone</li>
+<li>Slower pace</li>
+<li>Lower volume</li>
+<li>Neutral language</li>
+<li>Empathy expressions</li>
 
-**Process Techniques:**
+</ul>
+<p>**Process Techniques:**</p>
 
-- Take breaks
-- Change environment
-- Separate parties
-- Time to cool
-- Written communication
+<ul>
+<li>Take breaks</li>
+<li>Change environment</li>
+<li>Separate parties</li>
+<li>Time to cool</li>
+<li>Written communication</li>
 
-**Psychological Safety:**
+</ul>
+<p>**Psychological Safety:**</p>
 
 ```text
-Creating Safe Space:
-□ No judgment zone
-□ Confidentiality assured
-□ Equal speaking time
-□ Respect enforced
-□ Focus on future
+<p>Creating Safe Space:</p>
+<p>□ No judgment zone</p>
+<p>□ Confidentiality assured</p>
+<p>□ Equal speaking time</p>
+<p>□ Respect enforced</p>
+<p>□ Focus on future</p>
 ```
 
 </div>
@@ -562,79 +637,91 @@ Creating Safe Space:
 
 ### Escalation Process
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 When Resolution Fails
+<h3>📈 When Resolution Fails</h3>
 
-**Escalation Ladder:**
+<p>**Escalation Ladder:**</p>
 
-1. **Anchor Resolution** (Days 1-7)
-   - Direct mediation
-   - Informal process
-   - Flexible approach
-   - Quick resolution
+<p>1. **Anchor Resolution** (Days 1-7)</p>
+<ul>
+<li>Direct mediation</li>
+<li>Informal process</li>
+<li>Flexible approach</li>
+<li>Quick resolution</li>
 
-2. **Senior Anchor Review** (Days 8-14)
-   - Formal review
-   - Structured process
-   - Documented decision
-   - Binding outcome
+</ul>
+<p>2. **Senior Anchor Review** (Days 8-14)</p>
+<ul>
+<li>Formal review</li>
+<li>Structured process</li>
+<li>Documented decision</li>
+<li>Binding outcome</li>
 
-3. **Anchor Council** (Days 15-21)
-   - Panel review
-   - Formal hearing
-   - Final decision
-   - Precedent setting
+</ul>
+<p>3. **Anchor Council** (Days 15-21)</p>
+<ul>
+<li>Panel review</li>
+<li>Formal hearing</li>
+<li>Final decision</li>
+<li>Precedent setting</li>
 
-4. **Platform Arbitration** (Days 22+)
-   - External review
-   - Legal framework
-   - Binding arbitration
-   - No appeal
+</ul>
+<p>4. **Platform Arbitration** (Days 22+)</p>
+<ul>
+<li>External review</li>
+<li>Legal framework</li>
+<li>Binding arbitration</li>
+<li>No appeal</li>
 
+</ul>
 </div>
 
 ### Documentation Requirements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Formal Documentation
+<h3>📝 Formal Documentation</h3>
 
-**Dispute Record Template:**
+<p>**Dispute Record Template:**</p>
 
 ```markdown
-# Dispute Resolution Record
+<h1>Dispute Resolution Record</h1>
 
-## Parties Involved
-- [Party A details]
-- [Party B details]
+<h2>Parties Involved</h2>
+<ul>
+<li>[Party A details]</li>
+<li>[Party B details]</li>
 
-## Dispute Summary
-[Clear description of issue]
+<h2>Dispute Summary</h2>
+</ul>
+<p>[Clear description of issue]</p>
 
-## Timeline
-- [Date]: Initial dispute
-- [Date]: Resolution attempted
-- [Date]: Current status
+<h2>Timeline</h2>
+<ul>
+<li>[Date]: Initial dispute</li>
+<li>[Date]: Resolution attempted</li>
+<li>[Date]: Current status</li>
 
-## Positions
-### Party A Position
-[Detailed position]
+<h2>Positions</h2>
+<h3>Party A Position</h3>
+</ul>
+<p>[Detailed position]</p>
 
-### Party B Position
-[Detailed position]
+<h3>Party B Position</h3>
+<p>[Detailed position]</p>
 
-## Resolution Attempts
-[What has been tried]
+<h2>Resolution Attempts</h2>
+<p>[What has been tried]</p>
 
-## Recommendation
-[Proposed resolution]
+<h2>Recommendation</h2>
+<p>[Proposed resolution]</p>
 
-## Agreement
-[Final agreement if reached]
+<h2>Agreement</h2>
+<p>[Final agreement if reached]</p>
 
-## Follow-up Plan
-[Implementation and monitoring]
+<h2>Follow-up Plan</h2>
+<p>[Implementation and monitoring]</p>
 ```
 
 </div>
@@ -643,90 +730,106 @@ Creating Safe Space:
 
 ### Proactive Measures
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛡️ Preventing Disputes
+<h3>🛡️ Preventing Disputes</h3>
 
-**Prevention Framework:**
+<p>**Prevention Framework:**</p>
 
-**1. Clear Communication**
+<p>**1. Clear Communication**</p>
 
-- Written agreements
-- Defined expectations
-- Regular check-ins
-- Transparent process
-- Open channels
+<ul>
+<li>Written agreements</li>
+<li>Defined expectations</li>
+<li>Regular check-ins</li>
+<li>Transparent process</li>
+<li>Open channels</li>
 
-**2. Early Intervention**
+</ul>
+<p>**2. Early Intervention**</p>
 
-- Spot tensions
-- Address quickly
-- Small corrections
-- Continuous dialogue
-- Relationship focus
+<ul>
+<li>Spot tensions</li>
+<li>Address quickly</li>
+<li>Small corrections</li>
+<li>Continuous dialogue</li>
+<li>Relationship focus</li>
 
-**3. System Design**
+</ul>
+<p>**3. System Design**</p>
 
-- Clear policies
-- Fair processes
-- Appeal mechanisms
-- Precedent library
-- Training programs
+<ul>
+<li>Clear policies</li>
+<li>Fair processes</li>
+<li>Appeal mechanisms</li>
+<li>Precedent library</li>
+<li>Training programs</li>
 
+</ul>
 </div>
 
 ### Building Dispute Resistance
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💪 Strengthening Relationships
+<h3>💪 Strengthening Relationships</h3>
 
-**Relationship Building:**
+<p>**Relationship Building:**</p>
 
-- Regular positive interaction
-- Celebration of successes
-- Trust bank deposits
-- Benefit of doubt
-- Grace in failure
+<ul>
+<li>Regular positive interaction</li>
+<li>Celebration of successes</li>
+<li>Trust bank deposits</li>
+<li>Benefit of doubt</li>
+<li>Grace in failure</li>
 
-**Cultural Elements:**
+</ul>
+<p>**Cultural Elements:**</p>
 
-- Psychological safety
-- Growth mindset
-- Conflict normalization
-- Resolution skills
-- Win-win thinking
+<ul>
+<li>Psychological safety</li>
+<li>Growth mindset</li>
+<li>Conflict normalization</li>
+<li>Resolution skills</li>
+<li>Win-win thinking</li>
 
+</ul>
 </div>
 
 ## Learning from Disputes
 
 ### Post-Dispute Analysis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Extracting Lessons
+<h3>📚 Extracting Lessons</h3>
 
-**Learning Framework:**
+<p>**Learning Framework:**</p>
 
-1. **What Happened?**
-   - Trigger identification
-   - Escalation analysis
-   - Resolution review
-   - Outcome assessment
+<p>1. **What Happened?**</p>
+<ul>
+<li>Trigger identification</li>
+<li>Escalation analysis</li>
+<li>Resolution review</li>
+<li>Outcome assessment</li>
 
-2. **Why Did It Happen?**
-   - Root cause analysis
-   - System failures
-   - Communication gaps
-   - Expectation mismatches
+</ul>
+<p>2. **Why Did It Happen?**</p>
+<ul>
+<li>Root cause analysis</li>
+<li>System failures</li>
+<li>Communication gaps</li>
+<li>Expectation mismatches</li>
 
-3. **How to Prevent?**
-   - Process improvements
-   - Policy updates
-   - Training needs
-   - Tool development
+</ul>
+<p>3. **How to Prevent?**</p>
+<ul>
+<li>Process improvements</li>
+<li>Policy updates</li>
+<li>Training needs</li>
+<li>Tool development</li>
 
+</ul>
 </div>
 
 ## Next Steps

@@ -13,7 +13,7 @@ An Arena is a transparent, public space where:
 - **Ventures declare** their milestones
 - **Supporters signal**  their belief or doubt
 - **Progress unfolds** in real-time
-- **Results determine**  rewards and penalties
+- **Results determine**  rewards and penalties**
 !!! quote "The Arena Philosophy"
     "In the Arena, there are no hidden failures, no private pivots, no secret struggles. Everything happens in the open, creating radical accountability."
 
@@ -22,37 +22,58 @@ An Arena is a transparent, public space where:
 ### Different Stages, Different Rules
 
 <div class="grid cards">
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
         <h3>✨ Spark Arena</h3>
-        <p>**Purpose:** Idea validation</p>
+        <p>**Purpose:**
+
+<p>**Idea validation</p>**</p>
         <p>**Duration:** 7-14 days</p>
-        <p>**Stakes:** Initial belief gathering</p>
+
+<p>**Stakes:**
+
+<p>**Initial belief gathering</p>**</p>
         <p>Where ideas compete for attention and initial support</p>
-    </div>
+</div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
         <h3>⚔️ Forge Arena</h3>
-        <p>**Purpose:** Founder selection</p>
+        <p>**Purpose:**
+
+<p>**Founder selection</p>**</p>
         <p>**Duration:** 3-5 days</p>
-        <p>**Stakes:** Venture ownership</p>
+
+<p>**Stakes:**
+
+<p>**Venture ownership</p>**</p>
         <p>Where founders duel for the right to build</p>
-    </div>
+</div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
         <h3>🎯 Milestone Arena</h3>
-        <p>**Purpose:** Progress validation</p>
-        <p>**Duration:** Variable (per milestone)</p>
-        <p>**Stakes:** Token rewards/burns</p>
+        <p>**Purpose:**
+
+<p>**Progress validation</p>**</p>
+        <p>**Duration:**
+
+<p>**Variable (per milestone)</p>**</p>
+        <p>**Stakes:**
+
+<p>**Token rewards/burns</p>**</p>
         <p>Where ventures prove their execution ability</p>
-    </div>
+</div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
         <h3>✅ Validation Arena</h3>
-        <p>**Purpose:** Achievement verification</p>
+        <p>**Purpose:**
+
+<p>**Achievement verification</p>**</p>
         <p>**Duration:** 24-48 hours</p>
-        <p>**Stakes:** Milestone completion</p>
+
+<p>**Stakes:**
+
+<p>**Milestone completion</p>**</p>
         <p>Where Anchors verify claimed progress</p>
-    </div>
+</div>
 </div>
 
 ## Arena Mechanics
@@ -80,26 +101,26 @@ sequenceDiagram
 
 | Component | Function | Participants |
 |-----------|----------|-------------|
-|**Declaration** | Public commitment to specific goals | Founders |
-|**Signaling** | Token-backed belief or doubt | Echoes |
-|**Execution** | Transparent work toward goals | Founders |
-|**Validation** | Independent verification of results | Anchors |
-|**Settlement** | Automated reward/penalty distribution | System |
+| **Declaration** | Public commitment to specific goals | Founders |
+| **Signaling** | Token-backed belief or doubt | Echoes |
+| **Execution** | Transparent work toward goals | Founders |
+| **Validation** | Independent verification of results | Anchors |
+| **Settlement** | Automated reward/penalty distribution | System |
 
 ## Arena Rules
 
 ### Universal Principles
 
 !!! warning "Non-Negotiable Rules"
-    1. **All work must be public**  - No private development
+    1. **All work must be public**  - No private development**
 1. 
 2. **All milestones are binding**  - Once declared, must be attempted
 2. 
 - 3.** All signals are final
 - No takebacks after placing**
-- **    4.**  All validations are independent
+- **4.**  All validations are independent
 - No founder influence
-- **    5.** All settlements are automatic
+- **5.** All settlements are automatic
 - No manual overrides**### Phase-Specific Rules
 
 #### Spark Arena Rules
@@ -125,31 +146,38 @@ sequenceDiagram
 
 ### The Belief Economy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 Signal Mechanics
+<h3>📡 Signal Mechanics</h3>
 
-**Belief Signals** 👍
-- ** Stake tokens on successful completion
-- Earn 1.5x 
+<p>**Belief Signals** 👍</p>
+<ul>
+<li>**Stake tokens on successful completion**</li>
+<li>Earn 1.5x</li>
 
-- 3x multiplier if correct
+<li>3x multiplier if correct</li>
 
-- Lose entire stake if wrong
+<li>Lose entire stake if wrong</li>
 
-**Doubt Signals** 👎
-- ** Stake tokens on milestone failure
-- Earn 1.2x 
+</ul>
+<p>**Doubt Signals** 👎</p>
+<ul>
+<li>**Stake tokens on milestone failure**</li>
+<li>Earn 1.2x</li>
 
-- 2x multiplier if correct  
+<li>2x multiplier if correct</li>
 
-- Lose entire stake if wrong
-** Multiplier Factors:
-- ** Early signals earn higher multipliers
-- Contrarian correct signals bonus
-- Reputation level affects multipliers
-- Phase difficulty impacts rewards
+<li>Lose entire stake if wrong</li>
 
+</ul>
+<p>** Multiplier Factors:**</p>
+<ul>
+<li>**Early signals earn higher multipliers**</li>
+<li>Contrarian correct signals bonus</li>
+<li>Reputation level affects multipliers</li>
+<li>Phase difficulty impacts rewards</li>
+
+</ul>
 </div>
 
 ### Signal Strategies
@@ -172,14 +200,15 @@ graph TD
 ## Arena Transparency
 
 ### Everything is Visible
-** Public Information:
-- ** All milestone declarations
+** Public Information:**
+- **All milestone declarations**
 - All signal amounts and timing
 - All founder updates and evidence
 - All validator comments and scores
 - All reward distributions
-** Performance Metrics:
-- ** Success/failure rates by founder
+
+** Performance Metrics:**
+- **Success/failure rates by founder**
 - Signal accuracy by Echo
 - Validation quality by Anchor
 - Phase progression timelines
@@ -273,11 +302,11 @@ graph TD
 
 | Metric | Description | Why It Matters |
 |--------|-------------|----------------|
-|**Signal Velocity** | Speed of belief/doubt accumulation | Indicates market confidence |
-|**Completion Rate** | % of milestones achieved | Shows execution quality |
-|**Accuracy Score** | % of correct signals | Measures Echo expertise |
-|**Validation Time** | Hours to verify completion | Indicates Anchor efficiency |
-|**Token Multiplier** | Average reward multiple | Shows risk/reward balance |
+| **Signal Velocity** | Speed of belief/doubt accumulation | Indicates market confidence |
+| **Completion Rate** | % of milestones achieved | Shows execution quality |
+| **Accuracy Score** | % of correct signals | Measures Echo expertise |
+| **Validation Time** | Hours to verify completion | Indicates Anchor efficiency |
+| **Token Multiplier** | Average reward multiple | Shows risk/reward balance |
 
 ## Arena Evolution
 
@@ -295,35 +324,50 @@ The Arena system evolves through:
 - Incorporate learner insights**### Future Enhancements
 
 !!! info "Coming Soon"
-    - **Conditional Signals** - "I believe IF X happens"
-    - **Signal Combinations** - Portfolio strategies
-    - **Arena Leagues** - Competitive seasons
-    - **Achievement Badges** - Visual reputation markers
+
+    - **Conditional Signals** - "I believe IF X happens"**
+    - **Signal Combinations** - Portfolio strategies**
+    - **Arena Leagues** - Competitive seasons**
+    - **Achievement Badges** - Visual reputation markers**
     - **Arena Streaming** - Live video updates
 
 ## Success Stories
 
 ### Arena Champions
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🏆 DataMesh Protocol
-**Arena Performance:** 12/12 milestones completed
-- **Total Signals:**  2.3M $SIGNAL beliefOutcome:** Graduated in record time**> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable."
-- DataMesh Founder
+<p>#### 🏆 DataMesh Protocol</p>
+<p>**Arena Performance:** 12/12 milestones completed</p>
+<ul>
+<li>**Total Signals:**  2.3M $SIGNAL beliefOutcome:</li>
 
+</ul>
+<p>Graduated in record time**> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable."</p>
+<ul>
+<li>DataMesh Founder</li>
+
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 💡 EcoChain Initiative
+<p>#### 💡 EcoChain Initiative</p>
 
-**Arena Performance:** Pivoted after milestone 3 failure
-- **Community Response:**  80% maintained belief post
-- pivotOutcome:** Successful with new direction**> "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product
-- market fit."
-- EcoChain Founder
+<p>**Arena Performance:**</p>
 
+<p>**Pivoted after milestone 3 failure**</p>
+<ul>
+<li>**Community Response:**  80% maintained belief post</li>
+<li>pivotOutcome:</li>
+
+</ul>
+<p>Successful with new direction**> "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product</p>
+<ul>
+<li>market fit."</li>
+<li>EcoChain Founder</li>
+
+</ul>
 </div>
 
 ## Common Pitfalls
@@ -334,7 +378,7 @@ The Arena system evolves through:
 
 - **Over-promising**
 - Unrealistic milestones destroy credibility
-- **    -**Under-communicating**
+- **-**Under-communicating**
 - Silent founders lose support -**Ignoring feedback**
 - Community wisdom is valuable
 

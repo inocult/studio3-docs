@@ -2,11 +2,11 @@
 
 ## The Complete Guide to Milestone Validation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ Mastering the Validation Process
+<h3>✅ Mastering the Validation Process</h3>
 
-The validation framework is the cornerstone of the Anchor role. This comprehensive guide provides the complete methodology, tools, and best practices for conducting thorough, fair, and consistent milestone validations that maintain Studio3's high standards.
+<p>The validation framework is the cornerstone of the Anchor role. This comprehensive guide provides the complete methodology, tools, and best practices for conducting thorough, fair, and consistent milestone validations that maintain Studio3's high standards.</p>
 
 </div>
 
@@ -14,650 +14,757 @@ The validation framework is the cornerstone of the Anchor role. This comprehensi
 
 ### What is Validation?
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Core Concept
+<h3>🎯 Core Concept</h3>
 
-**Validation Definition:**
+<p>**Validation Definition:**</p>
 
-The systematic process of reviewing evidence, assessing achievement, and determining whether a venture has successfully completed its declared milestone according to ecosystem standards.
+<p>**The systematic process of reviewing evidence, assessing achievement, and determining whether a venture has successfully completed its declared milestone according to ecosystem standards.**</p>
 
-**Validation Components:**
+<p>**Validation Components:**</p>
 
-1. **Evidence Review**
-   - Examining all submitted proof
-2. **Standard Application**
-   - Consistent criteria usage
-3. **Objective Assessment**
-   - Bias-free evaluation
-4. **Decision Making**
-   - Clear determination
-5. **Documentation**
-   - Transparent recording
+<p>1. **Evidence Review**</p>
+<ul>
+<li>Examining all submitted proof</li>
+</ul>
+<p>2. **Standard Application**</p>
+<ul>
+<li>Consistent criteria usage</li>
+</ul>
+<p>3. **Objective Assessment**</p>
+<ul>
+<li>Bias-free evaluation</li>
+</ul>
+<p>4. **Decision Making**</p>
+<ul>
+<li>Clear determination</li>
+</ul>
+<p>5. **Documentation**</p>
+<ul>
+<li>Transparent recording</li>
 
-**Why Validation Matters:**
+</ul>
+<p>**Why Validation Matters:**</p>
 
-- Ensures quality deliverables
-- Protects token holders
-- Maintains ecosystem integrity
-- Guides venture progress
-- Builds market trust
+<ul>
+<li>Ensures quality deliverables</li>
+<li>Protects token holders</li>
+<li>Maintains ecosystem integrity</li>
+<li>Guides venture progress</li>
+<li>Builds market trust</li>
 
+</ul>
 </div>
 
 ### Validation Philosophy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 The Validation Mindset
+<h3>🧠 The Validation Mindset</h3>
 
-**Core Principles:**
+<p>**Core Principles:**</p>
 
-**1. Evidence-Based**
+<p>**1. Evidence-Based**</p>
 
-- Facts over feelings
-- Proof over promises
-- Objective over subjective
-- Measurable over vague
+<ul>
+<li>Facts over feelings</li>
+<li>Proof over promises</li>
+<li>Objective over subjective</li>
+<li>Measurable over vague</li>
 
-**2. Consistent Standards**
+</ul>
+<p>**2. Consistent Standards**</p>
 
-- Same bar for all
-- Phase-appropriate expectations
-- Clear criteria application
-- Predictable outcomes
+<ul>
+<li>Same bar for all</li>
+<li>Phase-appropriate expectations</li>
+<li>Clear criteria application</li>
+<li>Predictable outcomes</li>
 
-**3. Constructive Approach**
+</ul>
+<p>**3. Constructive Approach**</p>
 
-- Growth-oriented feedback
-- Solution suggestions
-- Encouragement included
-- Future-focused guidance
+<ul>
+<li>Growth-oriented feedback</li>
+<li>Solution suggestions</li>
+<li>Encouragement included</li>
+<li>Future-focused guidance</li>
 
-**4. Transparent Process**
+</ul>
+<p>**4. Transparent Process**</p>
 
-- Clear communication
-- Documented reasoning
-- Open methodology
-- Appealable decisions
+<ul>
+<li>Clear communication</li>
+<li>Documented reasoning</li>
+<li>Open methodology</li>
+<li>Appealable decisions</li>
 
+</ul>
 </div>
 
 ## The Validation Process
 
 ### Pre-Validation Phase
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📋 Preparation Steps
+<h3>📋 Preparation Steps</h3>
 
-**Before Validation Begins:**
+<p>**Before Validation Begins:**</p>
 
-1. **Milestone Review**
+<p>1. **Milestone Review**</p>
    ```text
-   □ Original declaration
-   □ Success criteria
-   □ Timeline committed
-   □ Scope boundaries
-   □ Context understanding
+<p>□ Original declaration</p>
+<p>□ Success criteria</p>
+<p>□ Timeline committed</p>
+<p>□ Scope boundaries</p>
+<p>□ Context understanding</p>
    ```
 
-2. **Venture Background**
-   - Previous milestones
-   - Team history
-   - Community sentiment
-   - Known challenges
-   - Recent pivots
+<p>2. **Venture Background**</p>
+<ul>
+<li>Previous milestones</li>
+<li>Team history</li>
+<li>Community sentiment</li>
+<li>Known challenges</li>
+<li>Recent pivots</li>
 
-3. **Standard Preparation**
-   - Phase requirements
-   - Industry benchmarks
-   - Quality examples
-   - Common pitfalls
-   - Edge cases
+</ul>
+<p>3. **Standard Preparation**</p>
+<ul>
+<li>Phase requirements</li>
+<li>Industry benchmarks</li>
+<li>Quality examples</li>
+<li>Common pitfalls</li>
+<li>Edge cases</li>
 
+</ul>
 </div>
 
 ### Evidence Collection
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📦 Gathering Proof
+<h3>📦 Gathering Proof</h3>
 
-**Evidence Types:**
+<p>**Evidence Types:**</p>
 
-**Technical Evidence:**
+<p>**Technical Evidence:**</p>
 
-- Code repositories
-- Live demonstrations
-- Test results
-- Performance metrics
-- Security audits
-- Architecture docs
-- API documentation
+<ul>
+<li>Code repositories</li>
+<li>Live demonstrations</li>
+<li>Test results</li>
+<li>Performance metrics</li>
+<li>Security audits</li>
+<li>Architecture docs</li>
+<li>API documentation</li>
 
-**Business Evidence:**
+</ul>
+<p>**Business Evidence:**</p>
 
-- User metrics
-- Revenue data
-- Market validation
-- Customer feedback
-- Partnership agreements
-- Competitive analysis
-- Growth indicators
+<ul>
+<li>User metrics</li>
+<li>Revenue data</li>
+<li>Market validation</li>
+<li>Customer feedback</li>
+<li>Partnership agreements</li>
+<li>Competitive analysis</li>
+<li>Growth indicators</li>
 
-**Process Evidence:**
+</ul>
+<p>**Process Evidence:**</p>
 
-- Development logs
-- Team updates
-- Sprint reports
-- Decision documentation
-- Problem solutions
-- Learning artifacts
+<ul>
+<li>Development logs</li>
+<li>Team updates</li>
+<li>Sprint reports</li>
+<li>Decision documentation</li>
+<li>Problem solutions</li>
+<li>Learning artifacts</li>
 
+</ul>
 </div>
 
 ### Evidence Assessment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Systematic Review
+<h3>🔍 Systematic Review</h3>
 
-**Assessment Framework:**
+<p>**Assessment Framework:**</p>
 
-**Step 1: Completeness Check**
+<p>**Step 1: Completeness Check**</p>
 
 ```text
-Evidence Checklist:
-□ All deliverables present
-□ Success criteria addressed
-□ Quality standards met
-□ Documentation complete
-□ Timeline adherence
+<p>Evidence Checklist:</p>
+<p>□ All deliverables present</p>
+<p>□ Success criteria addressed</p>
+<p>□ Quality standards met</p>
+<p>□ Documentation complete</p>
+<p>□ Timeline adherence</p>
 ```
 
-**Step 2: Quality Evaluation**
+<p>**Step 2: Quality Evaluation**</p>
 
-- Technical excellence
-- User experience
-- Market fit
-- Innovation level
-- Sustainability
+<ul>
+<li>Technical excellence</li>
+<li>User experience</li>
+<li>Market fit</li>
+<li>Innovation level</li>
+<li>Sustainability</li>
 
-**Step 3: Verification Testing**
+</ul>
+<p>**Step 3: Verification Testing**</p>
 
-- Functionality confirmation
-- Claims validation
-- Performance testing
-- Security checking
-- Integration verification
+<ul>
+<li>Functionality confirmation</li>
+<li>Claims validation</li>
+<li>Performance testing</li>
+<li>Security checking</li>
+<li>Integration verification</li>
 
-**Step 4: Holistic Review**
+</ul>
+<p>**Step 4: Holistic Review**</p>
 
-- Overall coherence
-- Strategic alignment
-- Future readiness
-- Value delivery
-- Risk assessment
+<ul>
+<li>Overall coherence</li>
+<li>Strategic alignment</li>
+<li>Future readiness</li>
+<li>Value delivery</li>
+<li>Risk assessment</li>
 
+</ul>
 </div>
 
 ## Validation Standards
 
 ### Phase-Specific Standards
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Evolving Expectations
+<h3>📈 Evolving Expectations</h3>
 
-**Standards by Phase:**
+<p>**Standards by Phase:**</p>
 
-**Spark (Idea Validation)**
+<p>**Spark (Idea Validation)**</p>
 
-- Concept clarity: Clear
-- Market research: Basic
-- Technical feasibility: Preliminary
-- Team capability: Potential
-- Innovation: Promising
+<ul>
+<li>Concept clarity: Clear</li>
+<li>Market research: Basic</li>
+<li>Technical feasibility: Preliminary</li>
+<li>Team capability: Potential</li>
+<li>Innovation: Promising</li>
 
-**Forge (Competition)**
+</ul>
+<p>**Forge (Competition)**</p>
 
-- Vision articulation: Compelling
-- Execution plan: Detailed
-- Resource planning: Realistic
-- Differentiation: Clear
-- Commitment: Demonstrated
+<ul>
+<li>Vision articulation: Compelling</li>
+<li>Execution plan: Detailed</li>
+<li>Resource planning: Realistic</li>
+<li>Differentiation: Clear</li>
+<li>Commitment: Demonstrated</li>
 
-**Ignition (MVP)**
+</ul>
+<p>**Ignition (MVP)**</p>
 
-- Core functionality: Working
-- Technical foundation: Solid
-- User experience: Acceptable
-- Documentation: Complete
-- Testing: Comprehensive
+<ul>
+<li>Core functionality: Working</li>
+<li>Technical foundation: Solid</li>
+<li>User experience: Acceptable</li>
+<li>Documentation: Complete</li>
+<li>Testing: Comprehensive</li>
 
-**Drift (Product-Market Fit)**
+</ul>
+<p>**Drift (Product-Market Fit)**</p>
 
-- User validation: Proven
-- Metrics growth: Positive
-- Retention: Improving
-- Revenue: Starting
-- Feedback integration: Active
+<ul>
+<li>User validation: Proven</li>
+<li>Metrics growth: Positive</li>
+<li>Retention: Improving</li>
+<li>Revenue: Starting</li>
+<li>Feedback integration: Active</li>
 
-**Later Phases**
+</ul>
+<p>**Later Phases**</p>
 
-- Scale demonstration
-- Operational excellence
-- Market leadership
-- Sustainable growth
-- Exit readiness
+<ul>
+<li>Scale demonstration</li>
+<li>Operational excellence</li>
+<li>Market leadership</li>
+<li>Sustainable growth</li>
+<li>Exit readiness</li>
 
+</ul>
 </div>
 
 ### Quality Benchmarks
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⭐ Excellence Standards
+<h3>⭐ Excellence Standards</h3>
 
-**Technical Quality:**
-
-```text
-Code Quality Metrics:
-- Test coverage: >80%
-- Documentation: Complete
-- Security: No critical issues
-- Performance: Meets targets
-- Scalability: Demonstrated
-```
-
-**Business Quality:**
+<p>**Technical Quality:**</p>
 
 ```text
-Business Metrics:
-- User satisfaction: >4/5
-- Growth rate: On target
-- Unit economics: Positive trend
-- Market position: Defensible
-- Team health: Strong
+<p>Code Quality Metrics:</p>
+<ul>
+<li>Test coverage: >80%</li>
+<li>Documentation: Complete</li>
+<li>Security: No critical issues</li>
+<li>Performance: Meets targets</li>
+<li>Scalability: Demonstrated</li>
 ```
 
-**Process Quality:**
+</ul>
+<p>**Business Quality:**</p>
 
 ```text
-Execution Metrics:
-- On-time delivery: 90%+
-- Scope completion: 95%+
-- Budget adherence: ±10%
-- Communication: Excellent
-- Adaptation: Effective
+<p>Business Metrics:</p>
+<ul>
+<li>User satisfaction: >4/5</li>
+<li>Growth rate: On target</li>
+<li>Unit economics: Positive trend</li>
+<li>Market position: Defensible</li>
+<li>Team health: Strong</li>
 ```
 
+</ul>
+<p>**Process Quality:**</p>
+
+```text
+<p>Execution Metrics:</p>
+<ul>
+<li>On-time delivery: 90%+</li>
+<li>Scope completion: 95%+</li>
+<li>Budget adherence: ±10%</li>
+<li>Communication: Excellent</li>
+<li>Adaptation: Effective</li>
+```
+
+</ul>
 </div>
 
 ## Decision Making
 
 ### Decision Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Making the Call
+<h3>⚖️ Making the Call</h3>
 
-**Decision Options:**
+<p>**Decision Options:**</p>
 
-**1. PASS ✅**
+<p>**1. PASS ✅**</p>
 
-- All criteria met
-- Quality acceptable
-- Evidence complete
-- Timeline honored
-- Value delivered
+<ul>
+<li>All criteria met</li>
+<li>Quality acceptable</li>
+<li>Evidence complete</li>
+<li>Timeline honored</li>
+<li>Value delivered</li>
 
-**2. CONDITIONAL PASS ⚠️**
+</ul>
+<p>**2. CONDITIONAL PASS ⚠️**</p>
 
-- Core criteria met
-- Minor issues present
-- Fixable quickly
-- Clear conditions
-- Timeline provided
+<ul>
+<li>Core criteria met</li>
+<li>Minor issues present</li>
+<li>Fixable quickly</li>
+<li>Clear conditions</li>
+<li>Timeline provided</li>
 
-**3. FAIL ❌**
+</ul>
+<p>**3. FAIL ❌**</p>
 
-- Criteria not met
-- Major gaps exist
-- Quality insufficient
-- Timeline broken
-- Value missing
+<ul>
+<li>Criteria not met</li>
+<li>Major gaps exist</li>
+<li>Quality insufficient</li>
+<li>Timeline broken</li>
+<li>Value missing</li>
 
-**Decision Matrix:**
+</ul>
+<p>**Decision Matrix:**</p>
 
 ```text
-Score 90-100%: Clear PASS
-Score 80-89%: PASS or Conditional
-Score 70-79%: Conditional or FAIL
-Score <70%: Clear FAIL
+<p>Score 90-100%: Clear PASS</p>
+<p>Score 80-89%: PASS or Conditional</p>
+<p>Score 70-79%: Conditional or FAIL</p>
+<p>Score <70%: Clear FAIL</p>
 ```
 
 </div>
 
 ### Edge Cases
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤔 Handling Complexity
+<h3>🤔 Handling Complexity</h3>
 
-**Common Edge Cases:**
+<p>**Common Edge Cases:**</p>
 
-**1. Pivot During Milestone**
+<p>**1. Pivot During Milestone**</p>
 
-- Assess original intent
-- Evaluate pivot rationale
-- Consider value delivery
-- Community benefit
-- Fair determination
+<ul>
+<li>Assess original intent</li>
+<li>Evaluate pivot rationale</li>
+<li>Consider value delivery</li>
+<li>Community benefit</li>
+<li>Fair determination</li>
 
-**2. External Blockers**
+</ul>
+<p>**2. External Blockers**</p>
 
-- Force majeure events
-- Dependency failures
-- Market changes
-- Regulatory shifts
-- Reasonable accommodation
+<ul>
+<li>Force majeure events</li>
+<li>Dependency failures</li>
+<li>Market changes</li>
+<li>Regulatory shifts</li>
+<li>Reasonable accommodation</li>
 
-**3. Partial Completion**
+</ul>
+<p>**3. Partial Completion**</p>
 
-- Core vs peripheral
-- Value assessment
-- Future completion
-- Conditional passage
-- Clear requirements
+<ul>
+<li>Core vs peripheral</li>
+<li>Value assessment</li>
+<li>Future completion</li>
+<li>Conditional passage</li>
+<li>Clear requirements</li>
 
-**Resolution Approach:**
+</ul>
+<p>**Resolution Approach:**</p>
 
-- Seek peer input
-- Document thoroughly
-- Err on fairness
-- Consider precedent
-- Communicate clearly
+<ul>
+<li>Seek peer input</li>
+<li>Document thoroughly</li>
+<li>Err on fairness</li>
+<li>Consider precedent</li>
+<li>Communicate clearly</li>
 
+</ul>
 </div>
 
 ## Documentation
 
 ### Validation Report
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Complete Documentation
+<h3>📝 Complete Documentation</h3>
 
-**Standard Report Template:**
+<p>**Standard Report Template:**</p>
 
 ```markdown
-# Validation Report
+<h1>Validation Report</h1>
 
-## Summary
-- **Venture**: [Name]
-- **Milestone**: [Description]
-- **Phase**: [Current Phase]
-- **Decision**: [PASS/CONDITIONAL/FAIL]
-- **Date**: [Validation Date]
-- **Anchor**: [Your Name]
+<h2>Summary</h2>
 
-## Evidence Review
-### Submitted Evidence
-- [List all evidence items]
-- [Include access links]
+<ul>
+<li>**Venture**: [Name]</li>
+<li>**Milestone**: [Description]</li>
+<li>**Phase**: [Current Phase]</li>
+<li>**Decision**: [PASS/CONDITIONAL/FAIL]</li>
+<li>**Date**: [Validation Date]</li>
+<li>**Anchor**: [Your Name]</li>
 
-### Evidence Assessment
-- [Quality evaluation]
-- [Completeness check]
-- [Verification results]
+<h2>Evidence Review</h2>
+<h3>Submitted Evidence</h3>
+<li>[List all evidence items]</li>
+<li>[Include access links]</li>
 
-## Criteria Application
-### Success Criteria
-1. [Criterion 1]: [Met/Not Met] - [Details]
-2. [Criterion 2]: [Met/Not Met] - [Details]
-3. [Criterion 3]: [Met/Not Met] - [Details]
+<h3>Evidence Assessment</h3>
+<li>[Quality evaluation]</li>
+<li>[Completeness check]</li>
+<li>[Verification results]</li>
 
-### Quality Standards
-- Technical: [Score]/10 - [Comments]
-- Business: [Score]/10 - [Comments]
-- Process: [Score]/10 - [Comments]
+<h2>Criteria Application</h2>
+<h3>Success Criteria</h3>
+</ul>
+<p>1. [Criterion 1]: [Met/Not Met] - [Details]</p>
+<p>2. [Criterion 2]: [Met/Not Met] - [Details]</p>
+<p>3. [Criterion 3]: [Met/Not Met] - [Details]</p>
 
-## Decision Rationale
-[Detailed explanation of decision]
-[Objective reasoning]
-[Standard application]
+<h3>Quality Standards</h3>
+<ul>
+<li>Technical: [Score]/10 - [Comments]</li>
+<li>Business: [Score]/10 - [Comments]</li>
+<li>Process: [Score]/10 - [Comments]</li>
 
-## Recommendations
-### Immediate Actions
-- [Action items if conditional]
-- [Timeline for completion]
+<h2>Decision Rationale</h2>
+</ul>
+<p>[Detailed explanation of decision]</p>
+<p>[Objective reasoning]</p>
+<p>[Standard application]</p>
 
-### Future Guidance
-- [Strategic suggestions]
-- [Quality improvements]
-- [Risk mitigation]
+<h2>Recommendations</h2>
+<h3>Immediate Actions</h3>
+<ul>
+<li>[Action items if conditional]</li>
+<li>[Timeline for completion]</li>
 
-## Appendices
-- [Supporting documents]
-- [Test results]
-- [Additional notes]
+<h3>Future Guidance</h3>
+<li>[Strategic suggestions]</li>
+<li>[Quality improvements]</li>
+<li>[Risk mitigation]</li>
+
+<h2>Appendices</h2>
+<li>[Supporting documents]</li>
+<li>[Test results]</li>
+<li>[Additional notes]</li>
 ```
 
+</ul>
 </div>
 
 ### Communication Protocol
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💬 Clear Communication
+<h3>💬 Clear Communication</h3>
 
-**Stakeholder Communication:**
+<p>**Stakeholder Communication:**</p>
 
-**To Founders:**
+<p>**To Founders:**</p>
 
-- Decision first
-- Clear reasoning
-- Specific feedback
-- Action items
-- Encouragement
+<ul>
+<li>Decision first</li>
+<li>Clear reasoning</li>
+<li>Specific feedback</li>
+<li>Action items</li>
+<li>Encouragement</li>
 
-**To Community:**
+</ul>
+<p>**To Community:**</p>
 
-- Transparent outcome
-- High-level rationale
-- Standard reminder
-- Process clarity
-- Next steps
+<ul>
+<li>Transparent outcome</li>
+<li>High-level rationale</li>
+<li>Standard reminder</li>
+<li>Process clarity</li>
+<li>Next steps</li>
 
-**To Platform:**
+</ul>
+<p>**To Platform:**</p>
 
-- Complete documentation
-- System updates
-- Flag issues
-- Process feedback
-- Improvement suggestions
+<ul>
+<li>Complete documentation</li>
+<li>System updates</li>
+<li>Flag issues</li>
+<li>Process feedback</li>
+<li>Improvement suggestions</li>
 
-**Communication Timeline:**
+</ul>
+<p>**Communication Timeline:**</p>
 
-- Initial notice: Within 24 hours
-- Full report: Within 48 hours
-- Questions answered: Within 24 hours
-- Appeals window: 7 days
+<ul>
+<li>Initial notice: Within 24 hours</li>
+<li>Full report: Within 48 hours</li>
+<li>Questions answered: Within 24 hours</li>
+<li>Appeals window: 7 days</li>
 
+</ul>
 </div>
 
 ## Quality Control
 
 ### Self-Review Checklist
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ Validation Quality
+<h3>✅ Validation Quality</h3>
 
-**Before Finalizing:**
+<p>**Before Finalizing:**</p>
 
 ```text
-Personal Review:
-□ Bias check completed
-□ Standards consistently applied
-□ Evidence thoroughly reviewed
-□ Decision well-reasoned
-□ Documentation complete
-□ Communication clear
-□ Feedback constructive
-□ Process followed
+<p>Personal Review:</p>
+<p>□ Bias check completed</p>
+<p>□ Standards consistently applied</p>
+<p>□ Evidence thoroughly reviewed</p>
+<p>□ Decision well-reasoned</p>
+<p>□ Documentation complete</p>
+<p>□ Communication clear</p>
+<p>□ Feedback constructive</p>
+<p>□ Process followed</p>
 ```
 
-**Peer Review (Optional):**
+<p>**Peer Review (Optional):**</p>
 
-- Complex cases
-- Edge situations
-- High-stakes decisions
-- Learning opportunities
-- Calibration needs
+<ul>
+<li>Complex cases</li>
+<li>Edge situations</li>
+<li>High-stakes decisions</li>
+<li>Learning opportunities</li>
+<li>Calibration needs</li>
 
+</ul>
 </div>
 
 ### Continuous Improvement
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Getting Better
+<h3>📈 Getting Better</h3>
 
-**Improvement Methods:**
+<p>**Improvement Methods:**</p>
 
-**1. Pattern Recognition**
+<p>**1. Pattern Recognition**</p>
 
-- Track decision patterns
-- Identify biases
-- Note inconsistencies
-- Adjust approach
+<ul>
+<li>Track decision patterns</li>
+<li>Identify biases</li>
+<li>Note inconsistencies</li>
+<li>Adjust approach</li>
 
-**2. Feedback Integration**
+</ul>
+<p>**2. Feedback Integration**</p>
 
-- Founder input
-- Peer suggestions
-- Community response
-- Platform guidance
+<ul>
+<li>Founder input</li>
+<li>Peer suggestions</li>
+<li>Community response</li>
+<li>Platform guidance</li>
 
-**3. Calibration Sessions**
+</ul>
+<p>**3. Calibration Sessions**</p>
 
-- Regular anchor meetings
-- Case discussions
-- Standard alignment
-- Best practice sharing
+<ul>
+<li>Regular anchor meetings</li>
+<li>Case discussions</li>
+<li>Standard alignment</li>
+<li>Best practice sharing</li>
 
-**4. Learning Documentation**
+</ul>
+<p>**4. Learning Documentation**</p>
 
-- Difficult cases
-- Lessons learned
-- Process refinements
-- Knowledge sharing
+<ul>
+<li>Difficult cases</li>
+<li>Lessons learned</li>
+<li>Process refinements</li>
+<li>Knowledge sharing</li>
 
+</ul>
 </div>
 
 ## Advanced Validation
 
 ### Complex Validations
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎓 Master-Level Skills
+<h3>🎓 Master-Level Skills</h3>
 
-**Handling Complexity:**
+<p>**Handling Complexity:**</p>
 
-**Multi-Part Milestones:**
+<p>**Multi-Part Milestones:**</p>
 
-- Break down components
-- Weight importance
-- Assess individually
-- Synthesize overall
-- Clear determination
+<ul>
+<li>Break down components</li>
+<li>Weight importance</li>
+<li>Assess individually</li>
+<li>Synthesize overall</li>
+<li>Clear determination</li>
 
-**Technical Deep Dives:**
+</ul>
+<p>**Technical Deep Dives:**</p>
 
-- External expert consultation
-- Specialized testing
-- Performance benchmarking
-- Security auditing
-- Architecture review
+<ul>
+<li>External expert consultation</li>
+<li>Specialized testing</li>
+<li>Performance benchmarking</li>
+<li>Security auditing</li>
+<li>Architecture review</li>
 
-**Market Validations:**
+</ul>
+<p>**Market Validations:**</p>
 
-- Customer interviews
-- Competitive analysis
-- Industry benchmarking
-- Growth verification
-- Sustainability assessment
+<ul>
+<li>Customer interviews</li>
+<li>Competitive analysis</li>
+<li>Industry benchmarking</li>
+<li>Growth verification</li>
+<li>Sustainability assessment</li>
 
+</ul>
 </div>
 
 ### Dispute Resolution
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Handling Challenges
+<h3>⚖️ Handling Challenges</h3>
 
-**Appeal Process:**
+<p>**Appeal Process:**</p>
 
-1. Founder submits appeal
-2. Review original decision
-3. Consider new evidence
-4. Seek second opinion
-5. Final determination
+<p>1. Founder submits appeal</p>
+<p>2. Review original decision</p>
+<p>3. Consider new evidence</p>
+<p>4. Seek second opinion</p>
+<p>5. Final determination</p>
 
-**Common Disputes:**
+<p>**Common Disputes:**</p>
 
-- Evidence interpretation
-- Standard application
-- External factors
-- Timeline issues
-- Scope questions
+<ul>
+<li>Evidence interpretation</li>
+<li>Standard application</li>
+<li>External factors</li>
+<li>Timeline issues</li>
+<li>Scope questions</li>
 
-**Resolution Best Practices:**
+</ul>
+<p>**Resolution Best Practices:**</p>
 
-- Stay objective
-- Document everything
-- Seek mediation
-- Learn from outcome
-- Improve process
+<ul>
+<li>Stay objective</li>
+<li>Document everything</li>
+<li>Seek mediation</li>
+<li>Learn from outcome</li>
+<li>Improve process</li>
 
+</ul>
 </div>
 
 ## Tools and Resources
 
 ### Validation Toolkit
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Essential Tools
+<h3>🛠️ Essential Tools</h3>
 
-**Technical Tools:**
+<p>**Technical Tools:**</p>
 
-- Code review platforms
-- Testing frameworks
-- Performance monitors
-- Security scanners
-- Architecture validators
+<ul>
+<li>Code review platforms</li>
+<li>Testing frameworks</li>
+<li>Performance monitors</li>
+<li>Security scanners</li>
+<li>Architecture validators</li>
 
-**Business Tools:**
+</ul>
+<p>**Business Tools:**</p>
 
-- Analytics platforms
-- Market research
-- Financial models
-- User feedback
-- Competitive intelligence
+<ul>
+<li>Analytics platforms</li>
+<li>Market research</li>
+<li>Financial models</li>
+<li>User feedback</li>
+<li>Competitive intelligence</li>
 
-**Process Tools:**
+</ul>
+<p>**Process Tools:**</p>
 
-- Checklist templates
-- Report generators
-- Communication templates
-- Timeline trackers
-- Decision matrices
+<ul>
+<li>Checklist templates</li>
+<li>Report generators</li>
+<li>Communication templates</li>
+<li>Timeline trackers</li>
+<li>Decision matrices</li>
 
+</ul>
 </div>
 
 ## Next Steps

@@ -8,20 +8,28 @@ Progression through Studio3's seven phases follows clear rules designed to ensur
 
 ### Fundamental Rules
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📏 The Five Laws
+<h3>📏 The Five Laws</h3>
 
-- 1. **Sequential Progress**
-- Phases must be completed in order
-2. **No Skipping**
-- Every venture experiences every phase
-3. **Merit-Based**
-- Advancement requires proven achievement
-4. **Community Validated**
-- Progress confirmed by ecosystem
-5. **Time Bounded**
-- Minimum and maximum durations apply**</div>
+<ul>
+<li>1. **Sequential Progress**</li>
+<li>Phases must be completed in order</li>
+</ul>
+<p>2. **No Skipping**</p>
+<ul>
+<li>Every venture experiences every phase</li>
+</ul>
+<p>3. **Merit-Based**</p>
+<ul>
+<li>Advancement requires proven achievement</li>
+</ul>
+<p>4. **Community Validated**</p>
+<ul>
+<li>Progress confirmed by ecosystem</li>
+</ul>
+<p>5. **Time Bounded**</p>
+</div>
 
 ### The Progression Framework
 
@@ -52,117 +60,129 @@ All phase transitions require:
 ### Phase-Specific Requirements
 
 <div class="grid cards">
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### ✨ Spark → Forge
+<p>#### ✨ Spark → Forge</p>
 
-- 100+ $SIGNAL in belief
+<ul>
+<li>100+ $SIGNAL in belief</li>
 
-- 10+ unique supporters
+<li>10+ unique supporters</li>
 
-- Clear problem
-- solution fit
+<li>Clear problem</li>
+<li>solution fit</li>
 
 
-- Feasible execution plan
+<li>Feasible execution plan</li>
 
-- 7
-- day minimum duration
+<li>7</li>
+<li>day minimum duration</li>
 
+</ul>
 </div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### ⚔️ Forge → Ignition
+<p>#### ⚔️ Forge → Ignition</p>
 
-- Win founder duel
+<ul>
+<li>Win founder duel</li>
 
-- Claim Signal NFT
-
-
-- 1,000+ $SIGNAL staked
+<li>Claim Signal NFT</li>
 
 
-- Present winning vision
+<li>1,000+ $SIGNAL staked</li>
 
 
-- Automatic upon victory
+<li>Present winning vision</li>
 
+
+<li>Automatic upon victory</li>
+
+</ul>
 </div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🚀 Ignition → Drift
+<p>#### 🚀 Ignition → Drift</p>
 
-- Container DAO formed
+<ul>
+<li>Container DAO formed</li>
 
-- Core team assembled (3+)
-
-
-- MVP launched publicly
+<li>Core team assembled (3+)</li>
 
 
-- Initial users onboarded
+<li>MVP launched publicly</li>
 
-- 14
-- day minimum
 
+<li>Initial users onboarded</li>
+
+<li>14</li>
+<li>day minimum</li>
+
+</ul>
 </div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🌊 Drift → Orbit
-- Product
-- market fit signals
-- 40%+ user retention
-
-
-- Sustainable unit economics
+<p>#### 🌊 Drift → Orbit</p>
+<ul>
+<li>Product</li>
+<li>market fit signals</li>
+<li>40%+ user retention</li>
 
 
-- Clear growth trajectory
+<li>Sustainable unit economics</li>
 
-- 60
-- day minimum
 
+<li>Clear growth trajectory</li>
+
+<li>60</li>
+<li>day minimum</li>
+
+</ul>
 </div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🛸 Orbit → Flare
+<p>#### 🛸 Orbit → Flare</p>
 
-- 6 months stable operations
+<ul>
+<li>6 months stable operations</li>
 
-- 80%+ milestone success rate
-
-
-- Revenue/usage growing 10%+ monthly
+<li>80%+ milestone success rate</li>
 
 
-- External funding interest
+<li>Revenue/usage growing 10%+ monthly</li>
 
-- 180
-- day minimum
 
+<li>External funding interest</li>
+
+<li>180</li>
+<li>day minimum</li>
+
+</ul>
 </div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🔥 Flare → Ascension
+<p>#### 🔥 Flare → Ascension</p>
 
-- Funding secured
+<ul>
+<li>Funding secured</li>
 
-- 20+ team members
-
-
-- Market leadership position
+<li>20+ team members</li>
 
 
-- Buyback funds available
+<li>Market leadership position</li>
 
-- 180
-- day minimum
 
+<li>Buyback funds available</li>
+
+<li>180</li>
+<li>day minimum</li>
+
+</ul>
 </div>
 </div>
 
@@ -170,37 +190,46 @@ All phase transitions require:
 
 ### Anchor Assessment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚓ Validation Framework
+<h3>⚓ Validation Framework</h3>
 
-**Anchors evaluate:**
+<p>**Anchors evaluate:**</p>
 
-1. **Milestone Completion** (40%) All declared goals achieved?
+<p>1. **Milestone Completion** (40%) All declared goals achieved?</p>
 
-- Evidence properly documented?
+<ul>
+<li>Evidence properly documented?</li>
 
-- Quality meets standards?
+<li>Quality meets standards?</li>
 
-2. **Community Health** (30%)**   - Supporter engagement level
+</ul>
+<p>2. **Community Health** (30%)   - Supporter engagement level</p>
 
-- Belief/doubt ratio
+<ul>
+<li>Belief/doubt ratio</li>
 
-- Communication quality
+<li>Communication quality</li>
 
-3. **Operational Excellence** (20%)**   - Team performance
+</ul>
+<p>3. **Operational Excellence** (20%)   - Team performance</p>
 
-- Resource management
+<ul>
+<li>Resource management</li>
 
-- Process maturity
+<li>Process maturity</li>
 
-4. **Strategic Position** (10%)**   - Market opportunity
+</ul>
+<p>4. **Strategic Position** (10%)   - Market opportunity</p>
 
-- Competitive advantage
+<ul>
+<li>Competitive advantage</li>
 
-- Growth potential
-**Minimum score: 70% to proceed
-**</div>
+<li>Growth potential</li>
+
+</ul>
+<p>**Minimum score: 70% to proceed**</p>
+</div>
 
 ### Community Confirmation
 
@@ -223,13 +252,13 @@ flowchart LR
 
 | Phase | Minimum | Target | Maximum | Extensions |
 |-------|---------|--------|---------|------------|
-|**Spark** | 7 days | 14 days | 30 days | Not allowed |
-|**Forge** | 3 days | 5 days | 7 days | Not allowed |
-|**Ignition** | 14 days | 30 days | 60 days | 1x30 days |
-|**Drift** | 60 days | 120 days | 365 days | 2x60 days |
-|**Orbit** | 180 days | 365 days | No max | Unlimited |
-|**Flare** | 180 days | 365 days | No max | Unlimited |
-|**Ascension** | 30 days | 60 days | 180 days | 1x60 days |
+| **Spark** | 7 days | 14 days | 30 days | Not allowed |
+| **Forge** | 3 days | 5 days | 7 days | Not allowed |
+| **Ignition** | 14 days | 30 days | 60 days | 1x30 days |
+| **Drift** | 60 days | 120 days | 365 days | 2x60 days |
+| **Orbit** | 180 days | 365 days | No max | Unlimited |
+| **Flare** | 180 days | 365 days | No max | Unlimited |
+| **Ascension** | 30 days | 60 days | 180 days | 1x60 days |
 
 ### Extension Mechanics
 
@@ -303,23 +332,28 @@ def calculate_phase_health(venture):
 
 ### Accelerated Progression
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Fast Track Qualification
+<h3>⚡ Fast Track Qualification</h3>
 
-**Exceptional ventures may progress faster if:**
+<p>**Exceptional ventures may progress faster if:**</p>
 
-- ** Exceed all metrics by 200%+
-- Unanimous Anchor approval
-- 90%+ community support
-- Demonstrated exceptional execution
-- Strategic opportunity requires speed
-** Fast Track Limits:
-- ** Minimum durations still apply
-- Cannot skip phases
-- Extra scrutiny on validation
-- Higher evidence standards
+<ul>
+<li>**Exceed all metrics by 200%+**</li>
+<li>Unanimous Anchor approval</li>
+<li>90%+ community support</li>
+<li>Demonstrated exceptional execution</li>
+<li>Strategic opportunity requires speed</li>
 
+</ul>
+<p>** Fast Track Limits:**</p>
+<ul>
+<li>**Minimum durations still apply**</li>
+<li>Cannot skip phases</li>
+<li>Extra scrutiny on validation</li>
+<li>Higher evidence standards</li>
+
+</ul>
 </div>
 
 ### Regression Scenarios
@@ -327,7 +361,7 @@ def calculate_phase_health(venture):
 !!! danger "When Ventures Move Backward"
     
    ** Regression only allowed during Drift phase:
-- ** Failed product-market fit
+- **Failed product-market fit**
 
 - Major pivot required
 
@@ -347,11 +381,11 @@ When ventures can't advance:
 
 | Scenario | Options | Consequences |
 |----------|---------|-------------|
-|**Missing Requirements** | Extension or remediation | Delayed progression |
-|**Failed Validation** | Address issues and retry | Reputation impact |
-|**Lost Community Support** | Rebuild confidence | Potential dissolution |
-|**Resource Depletion** | Seek emergency funding | May force pivot |
-|**Team Collapse** | Recruit replacements | Major delays |
+| **Missing Requirements** | Extension or remediation | Delayed progression |
+| **Failed Validation** | Address issues and retry | Reputation impact |
+| **Lost Community Support** | Rebuild confidence | Potential dissolution |
+| **Resource Depletion** | Seek emergency funding | May force pivot |
+| **Team Collapse** | Recruit replacements | Major delays |
 
 ## Progression Strategies
 
@@ -390,25 +424,24 @@ When ventures can't advance:
 
 - during phase reviews** Support extensions**
 - when justified**  Challenge rushers
-- **
-- who aren't ready** Reward consistency**
+- **- who aren't ready** Reward consistency**
 - over speed**## Edge Cases
 
 ### Complex Scenarios
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤔 What If...
+<h3>🤔 What If...</h3>
 
-**Q: Venture succeeds wildly but hasn't met time minimum?**A: Must wait. Time requirements ensure proper foundation.
+<p>**Q: Venture succeeds wildly but hasn't met time minimum?**A: Must wait. Time requirements ensure proper foundation.</p>
 
-**Q: All requirements met but Anchors see red flags?**A: Anchors can require additional evidence or delays.
+<p>**Q: All requirements met but Anchors see red flags?**A: Anchors can require additional evidence or delays.</p>
 
-**Q: Community loves venture but metrics are weak?**A: Objective metrics must be met. Sentiment alone insufficient.
+<p>**Q: Community loves venture but metrics are weak?**A: Objective metrics must be met. Sentiment alone insufficient.</p>
 
-**Q: External event disrupts progress (pandemic, war)?**A: Force majeure provisions allow special extensions.
+<p>**Q: External event disrupts progress (pandemic, war)?**A: Force majeure provisions allow special extensions.</p>
 
-**Q: Founders want to stay in current phase longer?**A: Allowed in Orbit/Flare. Other phases have maximums.
+<p>**Q: Founders want to stay in current phase longer?**A: Allowed in Orbit/Flare. Other phases have maximums.</p>
 
 </div>
 
@@ -432,12 +465,12 @@ graph LR
 | Phase | Average | Fastest | Slowest |
 |-------|---------|---------|----------|
 | **Spark** | 12 days | 7 days | 30 days |
-|**Forge** | 4 days | 3 days | 7 days |
-|**Ignition** | 28 days | 14 days | 58 days |
-|**Drift** | 142 days | 64 days | 361 days |
-|**Orbit** | 287 days | 182 days | 548 days |
-|**Flare** | 394 days | 186 days | 892 days |
-|**Ascension** | 47 days | 31 days | 176 days |
+| **Forge** | 4 days | 3 days | 7 days |
+| **Ignition** | 28 days | 14 days | 58 days |
+| **Drift** | 142 days | 64 days | 361 days |
+| **Orbit** | 287 days | 182 days | 548 days |
+| **Flare** | 394 days | 186 days | 892 days |
+| **Ascension** | 47 days | 31 days | 176 days |
 
 ## Common Mistakes
 
@@ -475,7 +508,7 @@ If progression is denied:
 4. **Community Input**
 - Public comment period
 5. **Final Decision**
-- Binding determination**!!! info "Appeal Success Rate: 23%"
+- Binding determination**!!! info "Appeal Success Rate: 23%"**
     Most denials are upheld. Better to address issues than appeal.
 
 ## Your Progression Path

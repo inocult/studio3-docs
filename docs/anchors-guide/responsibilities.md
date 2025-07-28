@@ -2,11 +2,11 @@
 
 ## The Complete Anchor Duty Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📋 Your Professional Obligations
+<h3>📋 Your Professional Obligations</h3>
 
-Being an Anchor involves multiple interconnected responsibilities that require dedication, expertise, and integrity. This comprehensive guide details every aspect of your duties, helping you excel in this critical ecosystem role.
+<p>Being an Anchor involves multiple interconnected responsibilities that require dedication, expertise, and integrity. This comprehensive guide details every aspect of your duties, helping you excel in this critical ecosystem role.</p>
 
 </div>
 
@@ -14,389 +14,453 @@ Being an Anchor involves multiple interconnected responsibilities that require d
 
 ### 1. Milestone Validation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ The Validation Mandate
+<h3>✅ The Validation Mandate</h3>
 
-**Core Validation Duties:**
+<p>**Core Validation Duties:**</p>
 
-- Review all submitted evidence
-- Apply consistent standards
-- Make objective determinations
-- Document decisions thoroughly
-- Communicate clearly with all parties
+<ul>
+<li>Review all submitted evidence</li>
+<li>Apply consistent standards</li>
+<li>Make objective determinations</li>
+<li>Document decisions thoroughly</li>
+<li>Communicate clearly with all parties</li>
 
-**Validation Timeline:**
+</ul>
+<p>**Validation Timeline:**</p>
 
-- Initial review: Within 24 hours
-- Deep analysis: 48-72 hours
-- Final decision: Within 5 days
-- Appeals process: 7 days
-- Documentation: Immediate
+<ul>
+<li>Initial review: Within 24 hours</li>
+<li>Deep analysis: 48-72 hours</li>
+<li>Final decision: Within 5 days</li>
+<li>Appeals process: 7 days</li>
+<li>Documentation: Immediate</li>
 
-**Quality Standards:**
+</ul>
+<p>**Quality Standards:**</p>
 
-- No rushed decisions
-- Evidence-based only
-- Bias-free assessment
-- Transparent reasoning
-- Defensible outcomes
+<ul>
+<li>No rushed decisions</li>
+<li>Evidence-based only</li>
+<li>Bias-free assessment</li>
+<li>Transparent reasoning</li>
+<li>Defensible outcomes</li>
 
+</ul>
 </div>
 
 ### 2. Venture Guidance
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧭 The Mentorship Role
+<h3>🧭 The Mentorship Role</h3>
 
-**Guidance Responsibilities:**
+<p>**Guidance Responsibilities:**</p>
 
-**Strategic Support:**
+<p>**Strategic Support:**</p>
 
-- Roadmap review and feedback
-- Pivot strategy consultation
-- Market positioning advice
-- Competitive analysis
-- Growth planning
+<ul>
+<li>Roadmap review and feedback</li>
+<li>Pivot strategy consultation</li>
+<li>Market positioning advice</li>
+<li>Competitive analysis</li>
+<li>Growth planning</li>
 
-**Technical Assistance:**
+</ul>
+<p>**Technical Assistance:**</p>
 
-- Architecture reviews
-- Technology selection
-- Scalability planning
-- Security consultation
-- Performance optimization
+<ul>
+<li>Architecture reviews</li>
+<li>Technology selection</li>
+<li>Scalability planning</li>
+<li>Security consultation</li>
+<li>Performance optimization</li>
 
-**Operational Guidance:**
+</ul>
+<p>**Operational Guidance:**</p>
 
-- Team building advice
-- Process optimization
-- Resource allocation
-- Risk management
-- Crisis navigation
+<ul>
+<li>Team building advice</li>
+<li>Process optimization</li>
+<li>Resource allocation</li>
+<li>Risk management</li>
+<li>Crisis navigation</li>
 
+</ul>
 </div>
 
 ### 3. Quality Assurance
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛡️ The Standards Guardian
-**Quality Maintenance:**
+<h3>🛡️ The Standards Guardian</h3>
+<p>**Quality Maintenance:**</p>
 
-- Enforce ecosystem standards
-- Identify subpar deliverables
-- Flag potential issues early
-- Recommend improvements
-- Celebrate excellence
+<ul>
+<li>Enforce ecosystem standards</li>
+<li>Identify subpar deliverables</li>
+<li>Flag potential issues early</li>
+<li>Recommend improvements</li>
+<li>Celebrate excellence</li>
 
-**Continuous Improvement:**
+</ul>
+<p>**Continuous Improvement:**</p>
 
-- Document best practices
-- Share quality examples
-- Propose standard updates
-- Train other Anchors
-- Innovate processes
+<ul>
+<li>Document best practices</li>
+<li>Share quality examples</li>
+<li>Propose standard updates</li>
+<li>Train other Anchors</li>
+<li>Innovate processes</li>
 
-**Red Flag Detection:**
+</ul>
+<p>**Red Flag Detection:**</p>
 
-- Technical impossibilities
-- Unrealistic timelines
-- Team capability gaps
-- Market misalignment
-- Ethical concerns
+<ul>
+<li>Technical impossibilities</li>
+<li>Unrealistic timelines</li>
+<li>Team capability gaps</li>
+<li>Market misalignment</li>
+<li>Ethical concerns</li>
 
+</ul>
 </div>
 
 ## Secondary Responsibilities
 
 ### Community Engagement
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌐 Ecosystem Participation
-**Community Duties:**
+<h3>🌐 Ecosystem Participation</h3>
+<p>**Community Duties:**</p>
 
-**Knowledge Sharing:**
+<p>**Knowledge Sharing:**</p>
 
-- Write educational content
-- Host workshops/webinars
-- Mentor junior Anchors
-- Share case studies
-- Document lessons
+<ul>
+<li>Write educational content</li>
+<li>Host workshops/webinars</li>
+<li>Mentor junior Anchors</li>
+<li>Share case studies</li>
+<li>Document lessons</li>
 
-**Culture Building:**
+</ul>
+<p>**Culture Building:**</p>
 
-- Model professional behavior
-- Encourage innovation
-- Support collaboration
-- Resolve conflicts
-- Promote values
+<ul>
+<li>Model professional behavior</li>
+<li>Encourage innovation</li>
+<li>Support collaboration</li>
+<li>Resolve conflicts</li>
+<li>Promote values</li>
 
-**Governance Participation:**
+</ul>
+<p>**Governance Participation:**</p>
 
-- Vote on proposals
-- Contribute to policy
-- Shape standards
-- Represent Anchors
-- Drive progress
+<ul>
+<li>Vote on proposals</li>
+<li>Contribute to policy</li>
+<li>Shape standards</li>
+<li>Represent Anchors</li>
+<li>Drive progress</li>
 
+</ul>
 </div>
 
 ### Dispute Resolution
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ The Mediator Role
-**Dispute Handling:**
+<h3>⚖️ The Mediator Role</h3>
+<p>**Dispute Handling:**</p>
 
-**Types of Disputes:**
+<p>**Types of Disputes:**</p>
 
-- Validation challenges
-- Evidence disagreements
-- Timeline conflicts
-- Quality debates
-- Scope creep issues
+<ul>
+<li>Validation challenges</li>
+<li>Evidence disagreements</li>
+<li>Timeline conflicts</li>
+<li>Quality debates</li>
+<li>Scope creep issues</li>
 
-**Resolution Process:**
+</ul>
+<p>**Resolution Process:**</p>
 
-1. Listen to all parties
-2. Review evidence objectively
-3. Seek additional input
-4. Propose fair solutions
-5. Document resolution
+<p>1. Listen to all parties</p>
+<p>2. Review evidence objectively</p>
+<p>3. Seek additional input</p>
+<p>4. Propose fair solutions</p>
+<p>5. Document resolution</p>
 
-**Escalation Path:**
+<p>**Escalation Path:**</p>
 
-- Attempt direct resolution
-- Involve senior Anchor
-- Anchor Council review
-- Platform arbitration
-- Final binding decision
+<ul>
+<li>Attempt direct resolution</li>
+<li>Involve senior Anchor</li>
+<li>Anchor Council review</li>
+<li>Platform arbitration</li>
+<li>Final binding decision</li>
 
+</ul>
 </div>
 
 ## Operational Responsibilities
 
 ### Documentation Standards
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Record Keeping Excellence
-**Documentation Requirements:**
+<h3>📝 Record Keeping Excellence</h3>
+<p>**Documentation Requirements:**</p>
 
-**Validation Records:**
+<p>**Validation Records:**</p>
 
 ```markdown
-# Validation Report
-Date: [Date]
-Venture: [Name]
-Milestone: [Description]
-Decision: [Pass/Fail/Conditional]
+<h1>Validation Report</h1>
+<p>Date: [Date]</p>
+<p>Venture: [Name]</p>
+<p>Milestone: [Description]</p>
+<p>Decision: [Pass/Fail/Conditional]</p>
 
-## Evidence Reviewed
-- [List all evidence]
+<h2>Evidence Reviewed</h2>
+<ul>
+<li>[List all evidence]</li>
 
-## Analysis
-[Detailed assessment]
+<h2>Analysis</h2>
+</ul>
+<p>[Detailed assessment]</p>
 
-## Decision Rationale
-[Clear reasoning]
+<h2>Decision Rationale</h2>
+<p>[Clear reasoning]</p>
 
-## Recommendations
-[Future guidance]
+<h2>Recommendations</h2>
+<p>[Future guidance]</p>
 ```
 
-**Communication Logs:**
+<p>**Communication Logs:**</p>
 
-- All founder meetings
-- Key decisions made
-- Advice provided
-- Commitments given
-- Follow-up items
+<ul>
+<li>All founder meetings</li>
+<li>Key decisions made</li>
+<li>Advice provided</li>
+<li>Commitments given</li>
+<li>Follow-up items</li>
 
+</ul>
 </div>
 
 ### Time Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ Efficiency Requirements
-**Time Allocation Guidelines:**
+<h3>⏰ Efficiency Requirements</h3>
+<p>**Time Allocation Guidelines:**</p>
 
-**Per Venture (Weekly):**
+<p>**Per Venture (Weekly):**</p>
 
-- Validation work: 1-2 hours
-- Founder meetings: 1 hour
-- Progress monitoring: 30 min
-- Documentation: 30 min
-- **Total: 3-4 hours**
+<ul>
+<li>Validation work: 1-2 hours</li>
+<li>Founder meetings: 1 hour</li>
+<li>Progress monitoring: 30 min</li>
+<li>Documentation: 30 min</li>
+<li>**Total: 3-4 hours**</li>
 
-**Platform Duties (Weekly):**
+</ul>
+<p>**Platform Duties (Weekly):**</p>
 
-- Community engagement: 2 hours
-- Knowledge sharing: 1 hour
-- Peer collaboration: 1 hour
-- Learning/development: 1 hour
-- **Total: 5 hours**
+<ul>
+<li>Community engagement: 2 hours</li>
+<li>Knowledge sharing: 1 hour</li>
+<li>Peer collaboration: 1 hour</li>
+<li>Learning/development: 1 hour</li>
+<li>**Total: 5 hours**</li>
 
-**Emergency Response:**
+</ul>
+<p>**Emergency Response:**</p>
 
-- Available within 24 hours
-- Crisis calls immediate
-- Urgent validations priority
-- Weekend availability expected
+<ul>
+<li>Available within 24 hours</li>
+<li>Crisis calls immediate</li>
+<li>Urgent validations priority</li>
+<li>Weekend availability expected</li>
 
+</ul>
 </div>
 
 ## Professional Standards
 
 ### Code of Conduct
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Behavioral Expectations
-**Professional Behavior:**
+<h3>⚖️ Behavioral Expectations</h3>
+<p>**Professional Behavior:**</p>
 
-**Required Conduct:**
+<p>**Required Conduct:**</p>
 
-- Respectful communication
-- Timely responses
-- Constructive feedback
-- Confidentiality maintenance
-- Conflict of interest disclosure
+<ul>
+<li>Respectful communication</li>
+<li>Timely responses</li>
+<li>Constructive feedback</li>
+<li>Confidentiality maintenance</li>
+<li>Conflict of interest disclosure</li>
 
-**Prohibited Actions:**
+</ul>
+<p>**Prohibited Actions:**</p>
 
-- Biased validations
-- Insider trading
-- Confidentiality breaches
-- Abusive behavior
-- Standard manipulation
+<ul>
+<li>Biased validations</li>
+<li>Insider trading</li>
+<li>Confidentiality breaches</li>
+<li>Abusive behavior</li>
+<li>Standard manipulation</li>
 
-**Ethical Guidelines:**
+</ul>
+<p>**Ethical Guidelines:**</p>
 
-- Objectivity above all
-- Transparency in process
-- Fairness to all parties
-- Integrity in decisions
-- Service to ecosystem
+<ul>
+<li>Objectivity above all</li>
+<li>Transparency in process</li>
+<li>Fairness to all parties</li>
+<li>Integrity in decisions</li>
+<li>Service to ecosystem</li>
 
+</ul>
 </div>
 
 ### Performance Standards
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Excellence Metrics
-**Key Performance Indicators:**
+<h3>📊 Excellence Metrics</h3>
+<p>**Key Performance Indicators:**</p>
 
-**Quantitative Metrics:**
+<p>**Quantitative Metrics:**</p>
 
-- Validation turnaround: <5 days
-- Founder satisfaction: >4.5/5
-- Dispute rate: <10%
-- Venture success: >70%
-- Availability: >90%
+<ul>
+<li>Validation turnaround: <5 days</li>
+<li>Founder satisfaction: >4.5/5</li>
+<li>Dispute rate: <10%</li>
+<li>Venture success: >70%</li>
+<li>Availability: >90%</li>
 
-**Qualitative Assessments:**
+</ul>
+<p>**Qualitative Assessments:**</p>
 
-- Communication quality
-- Guidance value
-- Problem-solving ability
-- Relationship building
-- Innovation contribution
+<ul>
+<li>Communication quality</li>
+<li>Guidance value</li>
+<li>Problem-solving ability</li>
+<li>Relationship building</li>
+<li>Innovation contribution</li>
 
-**Review Process:**
+</ul>
+<p>**Review Process:**</p>
 
-- Monthly self-assessment
-- Quarterly peer review
-- Annual performance evaluation
-- Continuous feedback
-- Growth planning
+<ul>
+<li>Monthly self-assessment</li>
+<li>Quarterly peer review</li>
+<li>Annual performance evaluation</li>
+<li>Continuous feedback</li>
+<li>Growth planning</li>
 
+</ul>
 </div>
 
 ## Specialized Responsibilities
 
 ### Phase-Specific Duties
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Phase-Adapted Responsibilities
-**Early Phase (Spark/Forge):**
+<h3>📈 Phase-Adapted Responsibilities</h3>
+<p>**Early Phase (Spark/Forge):**</p>
 
-- Idea validation
-- Team assessment
-- Vision alignment
-- Risk identification
-- Foundation setting
+<ul>
+<li>Idea validation</li>
+<li>Team assessment</li>
+<li>Vision alignment</li>
+<li>Risk identification</li>
+<li>Foundation setting</li>
 
-**Building Phase (Ignition/Drift):**
+</ul>
+<p>**Building Phase (Ignition/Drift):**</p>
 
-- Technical validation
-- Progress monitoring
-- Pivot guidance
-- Resource connection
-- Quality assurance
+<ul>
+<li>Technical validation</li>
+<li>Progress monitoring</li>
+<li>Pivot guidance</li>
+<li>Resource connection</li>
+<li>Quality assurance</li>
 
-**Growth Phase (Orbit/Flare):**
+</ul>
+<p>**Growth Phase (Orbit/Flare):**</p>
 
-- Scale validation
-- Strategic guidance
-- Partnership facilitation
-- Exit planning
-- Legacy building
+<ul>
+<li>Scale validation</li>
+<li>Strategic guidance</li>
+<li>Partnership facilitation</li>
+<li>Exit planning</li>
+<li>Legacy building</li>
 
-**Graduation (Ascension):**
+</ul>
+<p>**Graduation (Ascension):**</p>
 
-- Final validation
-- Transition planning
-- Knowledge transfer
-- Success documentation
-- Relationship continuation
+<ul>
+<li>Final validation</li>
+<li>Transition planning</li>
+<li>Knowledge transfer</li>
+<li>Success documentation</li>
+<li>Relationship continuation</li>
 
+</ul>
 </div>
 
 ### Crisis Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚨 Emergency Response
-**Crisis Scenarios:**
+<h3>🚨 Emergency Response</h3>
+<p>**Crisis Scenarios:**</p>
 
-**Technical Crises:**
+<p>**Technical Crises:**</p>
 
-- Security breaches
-- System failures
-- Data loss
-- Performance collapse
-- Integration breaks
+<ul>
+<li>Security breaches</li>
+<li>System failures</li>
+<li>Data loss</li>
+<li>Performance collapse</li>
+<li>Integration breaks</li>
 
-**Team Crises:**
+</ul>
+<p>**Team Crises:**</p>
 
-- Founder conflicts
-- Key departures
-- Morale collapse
-- Legal issues
-- Health emergencies
+<ul>
+<li>Founder conflicts</li>
+<li>Key departures</li>
+<li>Morale collapse</li>
+<li>Legal issues</li>
+<li>Health emergencies</li>
 
-**Market Crises:**
+</ul>
+<p>**Market Crises:**</p>
 
-- Competitive threats
-- Regulatory changes
-- Economic shifts
-- Customer exodus
-- Partnership loss
+<ul>
+<li>Competitive threats</li>
+<li>Regulatory changes</li>
+<li>Economic shifts</li>
+<li>Customer exodus</li>
+<li>Partnership loss</li>
 
-**Response Protocol:**
+</ul>
+<p>**Response Protocol:**</p>
 
-1. Immediate assessment
-2. Stakeholder communication
-3. Action plan development
-4. Resource mobilization
-5. Recovery monitoring
+<p>1. Immediate assessment</p>
+<p>2. Stakeholder communication</p>
+<p>3. Action plan development</p>
+<p>4. Resource mobilization</p>
+<p>5. Recovery monitoring</p>
 
 </div>
 
@@ -404,207 +468,239 @@ Decision: [Pass/Fail/Conditional]
 
 ### Working with Founders
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Founder Relations
-**Relationship Management:**
+<h3>🤝 Founder Relations</h3>
+<p>**Relationship Management:**</p>
 
-**Communication Standards:**
+<p>**Communication Standards:**</p>
 
-- Weekly check-ins minimum
-- 24-hour response time
-- Clear, actionable feedback
-- Empathetic approach
-- Professional boundaries
+<ul>
+<li>Weekly check-ins minimum</li>
+<li>24-hour response time</li>
+<li>Clear, actionable feedback</li>
+<li>Empathetic approach</li>
+<li>Professional boundaries</li>
 
-**Support Balance:**
+</ul>
+<p>**Support Balance:**</p>
 
-- Guide don't dictate
-- Challenge constructively
-- Support emotionally
-- Push when needed
-- Celebrate successes
+<ul>
+<li>Guide don't dictate</li>
+<li>Challenge constructively</li>
+<li>Support emotionally</li>
+<li>Push when needed</li>
+<li>Celebrate successes</li>
 
-**Difficult Conversations:**
+</ul>
+<p>**Difficult Conversations:**</p>
 
-- Prepare thoroughly
-- Choose words carefully
-- Focus on solutions
-- Document outcomes
-- Follow up consistently
+<ul>
+<li>Prepare thoroughly</li>
+<li>Choose words carefully</li>
+<li>Focus on solutions</li>
+<li>Document outcomes</li>
+<li>Follow up consistently</li>
 
+</ul>
 </div>
 
 ### Anchor Collaboration
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Peer Cooperation
-**Collaborative Duties:**
+<h3>👥 Peer Cooperation</h3>
+<p>**Collaborative Duties:**</p>
 
-**Knowledge Exchange:**
+<p>**Knowledge Exchange:**</p>
 
-- Share best practices
-- Discuss difficult cases
-- Seek second opinions
-- Provide peer support
-- Learn continuously
+<ul>
+<li>Share best practices</li>
+<li>Discuss difficult cases</li>
+<li>Seek second opinions</li>
+<li>Provide peer support</li>
+<li>Learn continuously</li>
 
-**Standard Alignment:**
+</ul>
+<p>**Standard Alignment:**</p>
 
-- Calibration sessions
-- Consistency checks
-- Process refinement
-- Quality benchmarking
-- Innovation sharing
+<ul>
+<li>Calibration sessions</li>
+<li>Consistency checks</li>
+<li>Process refinement</li>
+<li>Quality benchmarking</li>
+<li>Innovation sharing</li>
 
-**Mentorship:**
+</ul>
+<p>**Mentorship:**</p>
 
-- Guide junior Anchors
-- Share experiences
-- Provide feedback
-- Model excellence
-- Build community
+<ul>
+<li>Guide junior Anchors</li>
+<li>Share experiences</li>
+<li>Provide feedback</li>
+<li>Model excellence</li>
+<li>Build community</li>
 
+</ul>
 </div>
 
 ## Administrative Responsibilities
 
 ### Reporting Requirements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Regular Reporting
-**Monthly Reports:**
+<h3>📊 Regular Reporting</h3>
+<p>**Monthly Reports:**</p>
 
 ```markdown
-# Monthly Anchor Report
-Period: [Month/Year]
+<h1>Monthly Anchor Report</h1>
+<p>Period: [Month/Year]</p>
 
-## Ventures Managed
-- Active: [#]
-- Validations: [#]
-- Success Rate: [%]
+<h2>Ventures Managed</h2>
+<ul>
+<li>Active: [#]</li>
+<li>Validations: [#]</li>
+<li>Success Rate: [%]</li>
 
-## Time Investment
-- Total Hours: [#]
-- Per Venture: [#]
-- Efficiency: [Rating]
+<h2>Time Investment</h2>
+<li>Total Hours: [#]</li>
+<li>Per Venture: [#]</li>
+<li>Efficiency: [Rating]</li>
 
-## Key Achievements
-[List major accomplishments]
+<h2>Key Achievements</h2>
+</ul>
+<p>[List major accomplishments]</p>
 
-## Challenges Faced
-[Document difficulties]
+<h2>Challenges Faced</h2>
+<p>[Document difficulties]</p>
 
-## Next Month Focus
-[Priority areas]
+<h2>Next Month Focus</h2>
+<p>[Priority areas]</p>
 ```
 
-**Quarterly Reviews:**
+<p>**Quarterly Reviews:**</p>
 
-- Performance analysis
-- Goal achievement
-- Improvement areas
-- Resource needs
-- Strategic input
+<ul>
+<li>Performance analysis</li>
+<li>Goal achievement</li>
+<li>Improvement areas</li>
+<li>Resource needs</li>
+<li>Strategic input</li>
 
+</ul>
 </div>
 
 ### Platform Engagement
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 System Utilization
-**Platform Duties:**
+<h3>💻 System Utilization</h3>
+<p>**Platform Duties:**</p>
 
-- Maintain updated profile
-- Use validation tools properly
-- Document in system
-- Respond to notifications
-- Participate in upgrades
+<ul>
+<li>Maintain updated profile</li>
+<li>Use validation tools properly</li>
+<li>Document in system</li>
+<li>Respond to notifications</li>
+<li>Participate in upgrades</li>
 
-**Data Management:**
+</ul>
+<p>**Data Management:**</p>
 
-- Accurate record entry
-- Timely updates
-- Privacy compliance
-- Backup practices
-- Security awareness
+<ul>
+<li>Accurate record entry</li>
+<li>Timely updates</li>
+<li>Privacy compliance</li>
+<li>Backup practices</li>
+<li>Security awareness</li>
 
+</ul>
 </div>
 
 ## Growth Responsibilities
 
 ### Continuous Learning
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Professional Development
-**Learning Requirements:**
+<h3>📚 Professional Development</h3>
+<p>**Learning Requirements:**</p>
 
-- Industry trend awareness
-- New technology understanding
-- Methodology updates
-- Soft skill development
-- Cross-domain knowledge
+<ul>
+<li>Industry trend awareness</li>
+<li>New technology understanding</li>
+<li>Methodology updates</li>
+<li>Soft skill development</li>
+<li>Cross-domain knowledge</li>
 
-**Development Activities:**
+</ul>
+<p>**Development Activities:**</p>
 
-- Attend workshops
-- Complete certifications
-- Read research
-- Practice new skills
-- Teach others
+<ul>
+<li>Attend workshops</li>
+<li>Complete certifications</li>
+<li>Read research</li>
+<li>Practice new skills</li>
+<li>Teach others</li>
 
+</ul>
 </div>
 
 ### Innovation Contribution
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💡 Driving Progress
-**Innovation Areas:**
+<h3>💡 Driving Progress</h3>
+<p>**Innovation Areas:**</p>
 
-- Process improvements
-- Tool development
-- Standard evolution
-- Methodology creation
-- Efficiency gains
+<ul>
+<li>Process improvements</li>
+<li>Tool development</li>
+<li>Standard evolution</li>
+<li>Methodology creation</li>
+<li>Efficiency gains</li>
 
-**Implementation:**
+</ul>
+<p>**Implementation:**</p>
 
-- Propose ideas
-- Test approaches
-- Document results
-- Share findings
-- Scale successes
+<ul>
+<li>Propose ideas</li>
+<li>Test approaches</li>
+<li>Document results</li>
+<li>Share findings</li>
+<li>Scale successes</li>
 
+</ul>
 </div>
 
 ## Accountability Framework
 
 ### Performance Accountability
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Meeting Expectations
-**Accountability Measures:**
+<h3>📈 Meeting Expectations</h3>
+<p>**Accountability Measures:**</p>
 
-- Regular performance reviews
-- Peer feedback integration
-- Founder satisfaction tracking
-- Outcome measurement
-- Continuous improvement
+<ul>
+<li>Regular performance reviews</li>
+<li>Peer feedback integration</li>
+<li>Founder satisfaction tracking</li>
+<li>Outcome measurement</li>
+<li>Continuous improvement</li>
 
-**Consequences Framework:**
+</ul>
+<p>**Consequences Framework:**</p>
 
-- Recognition for excellence
-- Support for struggles
-- Coaching for gaps
-- Warnings for violations
-- Removal for failures
+<ul>
+<li>Recognition for excellence</li>
+<li>Support for struggles</li>
+<li>Coaching for gaps</li>
+<li>Warnings for violations</li>
+<li>Removal for failures</li>
 
+</ul>
 </div>
 
 ## Next Steps

@@ -2,112 +2,128 @@
 
 ## The Studio3 Process in Simple Steps
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 The Core Loop
+<h3>🎯 The Core Loop</h3>
 
-1. **Founders declare** what they'll build**2. **Community signals** belief or doubt with tokens**3. **Work happens** in public view**4. **Progress is validated** by experts**5. **Rewards flow** to those who predicted correctly**</div>
+</div>
 
 ## 🚀 Step-by-Step Journey
 
 ### Step 1: Ideas Enter the Arena
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✨ The Spark Phase
+<h3>✨ The Spark Phase</h3>
 
-- Entrepreneurs create **Spark NFTs** from existing research/IP
-- **Ideas are presented in public ** Arenas
-- Community members browse and evaluate
-- Initial interest gathering begins
-- Best ideas attract early believers
+<ul>
+<li>Entrepreneurs create **Spark NFTs** from existing research/IP</li>
+<li>**Ideas are presented in public ** Arenas</li>
+<li>Community members browse and evaluate</li>
+<li>Initial interest gathering begins</li>
+<li>Best ideas attract early believers</li>
 
+</ul>
 </div>
 
 ### Step 2: Founders Compete
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚔️ The Forge Duel
+<h3>⚔️ The Forge Duel</h3>
 
-- Multiple founders can compete for the same idea
-- They enter a**public competition** (The Forge)
-- ** Each presents their vision and capabilities
-- Community votes determine the winner
-- Winner gets exclusive rights to build
+<ul>
+<li>Multiple founders can compete for the same idea</li>
+<li>They enter a**public competition** (The Forge)</li>
+<li>**Each presents their vision and capabilities**</li>
+<li>Community votes determine the winner</li>
+<li>Winner gets exclusive rights to build</li>
 
+</ul>
 </div>
 
 ### Step 3: Building Begins
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ Public Development
+<h3>🏗️ Public Development</h3>
 
-** The winning founder:
-- Forms a**Container DAO** (lightweight governance structure)
-- **Declares specific **milestones**  with deadlines
-- ** Works transparently with daily updates
-- Engages with community feedback
-- Builds toward declared goals
+<p>** The winning founder:**</p>
+<ul>
+<li>Forms a**Container DAO** (lightweight governance structure)</li>
+<li>**Declares specific **milestones**  with deadlines</li>
+<li>**Works transparently with daily updates**</li>
+<li>Engages with community feedback</li>
+<li>Builds toward declared goals</li>
 
+</ul>
 </div>
 
 ### Step 4: Community Participation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 Signaling Mechanics
-** How the community participates:
-1. **Research**
- the venture and team
-2. **Decide**
- to signal belief or doubt
-3. **Stake**
- $SIGNAL tokens on outcome
-4. **Monitor**
- progress actively
-5. **Earn or lose**
- based on results
-** Example:
-- ** You believe TeamX will deliver their app by March 1st
-- You stake 1,000 $SIGNAL tokens as a belief signal
-- If they succeed: You get 1,500-3,000 tokens back (1.5x-3x)
-- If they fail: Your 1,000 tokens are burned forever
+<h3>📡 Signaling Mechanics</h3>
+<p>** How the community participates:**</p>
+<p>1. **Research**</p>
+<p>the venture and team</p>
+<p>2. **Decide**</p>
+<p>to signal belief or doubt</p>
+<p>3. **Stake**</p>
+<p>$SIGNAL tokens on outcome</p>
+<p>4. **Monitor**</p>
+<p>progress actively</p>
+<p>5. **Earn or lose**</p>
+<p>based on results</p>
 
+<p>** Example:**</p>
+<ul>
+<li>**You believe TeamX will deliver their app by March 1st**</li>
+<li>You stake 1,000 $SIGNAL tokens as a belief signal</li>
+<li>If they succeed: You get 1,500-3,000 tokens back (1.5x-3x)</li>
+<li>If they fail: Your 1,000 tokens are burned forever</li>
+
+</ul>
 </div>
 
 ### Step 5: Validation Process
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚓ Quality Assurance
+<h3>⚓ Quality Assurance</h3>
 
-** When milestones are complete:
-- Founder submits**evidence** of completion
-- **Anchors**  (validators) review thoroughly
-- ** They verify claims are accurate
-- Decision is made: Success or Failure
-- Results trigger automatic settlements
+<p>** When milestones are complete:**</p>
+<ul>
+<li>Founder submits**evidence** of completion</li>
+<li>**Anchors**  (validators) review thoroughly</li>
+<li>**They verify claims are accurate**</li>
+<li>Decision is made: Success or Failure</li>
+<li>Results trigger automatic settlements</li>
 
+</ul>
 </div>
 
 ### Step 6: Rewards & Consequences
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 The Settlement
-** If Milestone Succeeds:
-- ** Believers earn token multipliers (1.5x-3x)
-- Doubters lose their entire stake
-- Founder unlocks next funding
-- Anchor earns validation fee
-** If Milestone Fails:
-- ** Doubters earn token multipliers (1.2x-2x)
-- Believers lose their entire stake
-- Founder faces reputation damage
-- Must pivot or abandon
+<h3>💰 The Settlement</h3>
+<p>** If Milestone Succeeds:**</p>
+<ul>
+<li>**Believers earn token multipliers (1.5x-3x)**</li>
+<li>Doubters lose their entire stake</li>
+<li>Founder unlocks next funding</li>
+<li>Anchor earns validation fee</li>
 
+</ul>
+<p>** If Milestone Fails:**</p>
+<ul>
+<li>**Doubters earn token multipliers (1.2x-2x)**</li>
+<li>Believers lose their entire stake</li>
+<li>Founder faces reputation damage</li>
+<li>Must pivot or abandon</li>
+
+</ul>
 </div>
 
 ## 🎮 The Seven Phase Journey
@@ -115,31 +131,33 @@
 Every venture progresses through seven phases:
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### Phase 1-3: Startup
+<p>#### Phase 1-3: Startup</p>
 
-<p>**1. Spark** ✨ - Idea validation</p>
-<p>**2. Forge** ⚔️ - Founder selection</p>
+<p>**1. Spark** ✨ - Idea validation</p>**
+<p>**2. Forge** ⚔️ - Founder selection</p>**
 <p>**3. Ignition** 🚀 - MVP building</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### Phase 4-6: Growth
+<p>#### Phase 4-6: Growth</p>
 
-- <p>**4. Drift** 🌊
-- Finding product
-- market fit</p>
-<p>**5. Orbit** 🛸 - Stable operations</p>
+<ul>
+<li><p>**4. Drift** 🌊</li>
+<li>Finding product</li>
+<li>market fit</p></li>
+</ul>
+<p>**5. Orbit** 🛸 - Stable operations</p>**
 <p>**6. Flare** 🔥 - Scaling up</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### Phase 7: Exit
+<p>#### Phase 7: Exit</p>
 
 <p>**7. Ascension** 🎖️ - Full independence</p>
 
@@ -148,11 +166,11 @@ Every venture progresses through seven phases:
 
 ## 🔄 The Ecosystem Cycle
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### How Value Flows
+<h3>How Value Flows</h3>
 
-1. **Supporters provide capital** through signals**2. **Founders use capital** to build ventures**3. **Successful ventures** create value**4. **Value returns** to correct predictors**5. **Failed ventures** burn incorrect stakes**6. **System improves** through natural selection**</div>
+</div>
 
 ## 💡 Key Innovations
 
@@ -182,25 +200,27 @@ Every venture progresses through seven phases:
 
 ## 🎯 Simple Example
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### Sarah's Journey
+<h3>Sarah's Journey</h3>
 
-1. **Sarah has an idea** for a sustainability app**2. **She creates a Spark** and enters the Arena**3. **100 Echoes signal belief**, staking tokens**4. **Sarah wins the Forge** against 2 competitors**5. **She declares her first milestone**: "Launch MVP in 60 days"**6. **More Echoes join**, staking on her success**7. **Sarah builds publicly**, sharing daily updates**8. **Day 58**: She launches the MVP successfully**9. **Anchor validates** the milestone completion**10. **Believers earn 2x** their stakes, doubters lose all**11. **Sarah unlocks funding** for the next milestone**12. **The cycle continues** through all seven phases**</div>
+</div>
 
 ## ⚡ Why This Works
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### The Magic Formula
+<h3>The Magic Formula</h3>
 
-**Transparency** +**Skin in the Game** +**Community Wisdom** =**Better Outcomes
-- ** Public pressure creates accountability
-- Token stakes ensure serious participation  
-- Collective intelligence catches problems early
-- Aligned incentives drive collaboration
-- Gamification makes it engaging
+<p>**Transparency** +**Skin in the Game** +**Community Wisdom** =**Better Outcomes</p>
+<ul>
+<li>**Public pressure creates accountability**</li>
+<li>Token stakes ensure serious participation</li>
+<li>Collective intelligence catches problems early</li>
+<li>Aligned incentives drive collaboration</li>
+<li>Gamification makes it engaging</li>
 
+</ul>
 </div>
 
 ## Next Steps

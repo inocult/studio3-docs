@@ -2,11 +2,11 @@
 
 ## Profiting from Going Against the Crowd
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎲 The Art of Contrarian Signaling
+<h3>🎲 The Art of Contrarian Signaling</h3>
 
-The biggest returns often come from going against consensus - but only when you're right. This guide teaches you to identify genuine contrarian opportunities, execute against-the-grain strategies, and maximize the substantial rewards available to those brave enough to think differently.
+<p>The biggest returns often come from going against consensus - but only when you're right. This guide teaches you to identify genuine contrarian opportunities, execute against-the-grain strategies, and maximize the substantial rewards available to those brave enough to think differently.</p>
 
 </div>
 
@@ -14,258 +14,326 @@ The biggest returns often come from going against consensus - but only when you'
 
 ### The Contrarian Edge
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Why Contrarian Pays
+<h3>💰 Why Contrarian Pays</h3>
 
-**Economic Incentives:**
+<p>**Economic Incentives:**</p>
 
-- **Base multiplier**: Standard
-- **Contrarian bonus**: +0.5x to +1.0x
-- **Scarcity premium**: Additional rewards
-- **Total potential**: Up to 4x returns
+<ul>
+<li>**Base multiplier**: Standard</li>
+<li>**Contrarian bonus**: +0.5x to +1.0x</li>
+<li>**Scarcity premium**: Additional rewards</li>
+<li>**Total potential**: Up to 4x returns</li>
 
-**Market Psychology:**
+</ul>
+<p>**Market Psychology:**</p>
 
-- **Crowds often wrong at extremes**
-- **Herd mentality creates inefficiency**
-- **Fear and greed drive mistakes**
-- **Independent thinking wins**
+<ul>
+<li>**Crowds often wrong at extremes**</li>
+<li>**Herd mentality creates inefficiency**</li>
+<li>**Fear and greed drive mistakes**</li>
+<li>**Independent thinking wins**</li>
 
-**Success Requirements:**
+</ul>
+<p>**Success Requirements:**</p>
 
-- **Strong conviction**
-- Independent analysis
-- Emotional discipline
-- Patience for vindication
+<ul>
+<li>**Strong conviction**</li>
+<li>Independent analysis</li>
+<li>Emotional discipline</li>
+<li>Patience for vindication</li>
 
+</ul>
 </div>
 
 ### Contrarian Mathematics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 The Numbers Game
-** Probability Analysis:
+<h3>📊 The Numbers Game</h3>
+<p>** Probability Analysis:**</p>
 ```
-** If 90% signal belief:
-- Crowd success rate: ~60%
-- Your success rate needed: >40%
-- Expected value positive at 2.5x+
-```
-** Risk/Reward Calculation:
-- ** Risk: 100% of stake
-- Reward: 200-400% of stake
-- Break-even: 25-33% success rate
-- Target: 40%+ success rate
-** Portfolio Impact:
-- ** 10% allocation to contrarian
-- 40% success rate
-- Average 3x return
-- Adds 8% to portfolio returns
 
+
+
+<p>If 90% signal belief:**</p>
+<ul>
+<li>Crowd success rate: ~60%</li>
+<li>Your success rate needed: >40%</li>
+<li>Expected value positive at 2.5x+</li>
+```
+
+</ul>
+<p>** Risk/Reward Calculation:**</p>
+<ul>
+<li>**Risk: 100% of stake**</li>
+<li>Reward: 200-400% of stake</li>
+<li>Break-even: 25-33% success rate</li>
+<li>Target: 40%+ success rate</li>
+
+</ul>
+<p>** Portfolio Impact:**</p>
+<ul>
+<li>**10% allocation to contrarian**</li>
+<li>40% success rate</li>
+<li>Average 3x return</li>
+<li>Adds 8% to portfolio returns</li>
+
+</ul>
 </div>
 
 ## Identifying Contrarian Setups
 
 ### Extreme Sentiment Indicators
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 When Consensus Goes Too Far
-** Bullish Extremes (Fade with Doubt):
-- ** 95%+ belief signals
-- Euphoric comments
-- No questioning allowed
-- FOMO driving stakes
-- Valuation ignored
-**Bearish Extremes (Fade with Belief):**
+<h3>📈 When Consensus Goes Too Far</h3>
+<p>** Bullish Extremes (Fade with Doubt):**</p>
+<ul>
+<li>**95%+ belief signals**</li>
+<li>Euphoric comments</li>
+<li>No questioning allowed</li>
+<li>FOMO driving stakes</li>
+<li>Valuation ignored</li>
 
-- **90%+ doubt signals**
-- Panic selling mentality
-- Good news ignored
-- Capitulation evident
-- Value emerging
-**Key Principle**: Extremes tend to revert to mean
+</ul>
+<p>**Bearish Extremes (Fade with Belief):**</p>
+
+<ul>
+<li>**90%+ doubt signals**</li>
+<li>Panic selling mentality</li>
+<li>Good news ignored</li>
+<li>Capitulation evident</li>
+<li>Value emerging</li>
+</ul>
+<p>**Key Principle**: Extremes tend to revert to mean</p>
 
 </div>
 
 ### Information Asymmetry
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 What Others Miss
-** Sources of Edge:
-1. **Technical Knowledge**
+<h3>🔍 What Others Miss</h3>
+<p>** Sources of Edge:**</p>
+<p>1. **Technical Knowledge**</p>
 
-- Understand complexity others don't
+<ul>
+<li>Understand complexity others don't</li>
 
-- Spot feasibility crowds miss
+<li>Spot feasibility crowds miss</li>
 
-- Recognize patterns early
+<li>Recognize patterns early</li>
 
-2. **Industry Expertise**
+</ul>
+<p>2. **Industry Expertise**</p>
 
-- Know competitive landscape
+<ul>
+<li>Know competitive landscape</li>
 
-- Understand market dynamics
+<li>Understand market dynamics</li>
 
-- See timing advantages
+<li>See timing advantages</li>
 
-3. **Network Intelligence**
+</ul>
+<p>3. **Network Intelligence**</p>
 
-- Inside information (legal)
+<ul>
+<li>Inside information (legal)</li>
 
-- Team connections
+<li>Team connections</li>
 
-- Early signals
+<li>Early signals</li>
 
-4. **Analytical Depth**
+</ul>
+<p>4. **Analytical Depth**</p>
 
-- Deeper research
+<ul>
+<li>Deeper research</li>
 
-- Connect dots others don't
+<li>Connect dots others don't</li>
 
-- See bigger picture
+<li>See bigger picture</li>
 
+</ul>
 </div>
 
 ## Contrarian Strategies
 
 ### The Fading Hype Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📉 Shorting the Bubble
-** Setup Identification:
-- ** Massive marketing push
-- Influencer pumping
-- Retail FOMO evident
-- No substantive progress
-- Valuation detached
-** Execution Steps:
-1. Wait for peak euphoria (95%+ belief)
-2. Document fundamental weaknesses
-3. Enter doubt position
-4. Share analytical research
-5. Wait for reality check
-** Risk Management:
-- ** Never fight momentum early
-- Size positions carefully
-- Time horizon 30-60 days
-- Accept some will continue up
+<h3>📉 Shorting the Bubble</h3>
+<p>** Setup Identification:**</p>
+<ul>
+<li>**Massive marketing push**</li>
+<li>Influencer pumping</li>
+<li>Retail FOMO evident</li>
+<li>No substantive progress</li>
+<li>Valuation detached</li>
 
+</ul>
+<p>** Execution Steps:**</p>
+<p>1. Wait for peak euphoria (95%+ belief)</p>
+<p>2. Document fundamental weaknesses</p>
+<p>3. Enter doubt position</p>
+<p>4. Share analytical research</p>
+<p>5. Wait for reality check</p>
+
+
+
+<p>Risk Management:**</p>
+<ul>
+<li>**Never fight momentum early**</li>
+<li>Size positions carefully</li>
+<li>Time horizon 30-60 days</li>
+<li>Accept some will continue up</li>
+
+</ul>
 </div>
 
 ### The Fallen Angel Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 😇 Buying the Capitulation
-** Setup Identification:
-- ** Quality team/project
-- Temporary setback
-- Massive doubt (90%+)
-- Overreaction evident
-- Fixable problems
-** Execution Steps:
-1. Identify quality ventures in trouble
-2. Analyze if issues are terminal
-3. Wait for maximum pessimism
-4. Enter belief position
-5. Support recovery publicly
-** Success Factors:
-- ** Team staying committed
-- Problem being addressed
-- Sufficient runway
-- Community base remains
+<h3>😇 Buying the Capitulation</h3>
+<p>** Setup Identification:**</p>
+<ul>
+<li>**Quality team/project**</li>
+<li>Temporary setback</li>
+<li>Massive doubt (90%+)</li>
+<li>Overreaction evident</li>
+<li>Fixable problems</li>
 
+</ul>
+<p>** Execution Steps:**</p>
+<p>1. Identify quality ventures in trouble</p>
+<p>2. Analyze if issues are terminal</p>
+<p>3. Wait for maximum pessimism</p>
+<p>4. Enter belief position</p>
+<p>5. Support recovery publicly</p>
+
+
+
+<p>Success Factors:**</p>
+<ul>
+<li>**Team staying committed**</li>
+<li>Problem being addressed</li>
+<li>Sufficient runway</li>
+<li>Community base remains</li>
+
+</ul>
 </div>
 
 ### The Technical Contrarian
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 Expertise-Based Contrarian
-**When Crowd Misunderstands:**
+<h3>💻 Expertise-Based Contrarian</h3>
+<p>**When Crowd Misunderstands:**</p>
 
-- **Technical complexity high**
-- Crowd assumes impossible
-- You know it's feasible
-- Time will prove you right
+<ul>
+<li>**Technical complexity high**</li>
+<li>Crowd assumes impossible</li>
+<li>You know it's feasible</li>
+<li>Time will prove you right</li>
 
-**Example Scenarios:**
-1. **"Too Ambitious" Projects**
+</ul>
+<p>**Example Scenarios:**</p>
+<p>1. **"Too Ambitious" Projects**</p>
 
-- Crowd: "Can't be done"
+<ul>
+<li>Crowd: "Can't be done"</li>
 
-- You: "I've seen similar work"
+<li>You: "I've seen similar work"</li>
 
-- Bet on execution
+<li>Bet on execution</li>
 
-2. **"Too Simple" Projects**
+</ul>
+<p>2. **"Too Simple" Projects**</p>
 
-- Crowd: "No moat"
+<ul>
+<li>Crowd: "No moat"</li>
 
-- You: "Execution is the moat"
+<li>You: "Execution is the moat"</li>
 
-- Bet on team
+<li>Bet on team</li>
 
-3. **"Wrong Timing" Projects**
+</ul>
+<p>3. **"Wrong Timing" Projects**</p>
 
-- Crowd: "Too early/late"
+<ul>
+<li>Crowd: "Too early/late"</li>
 
-- You: "Perfect timing because..."
+<li>You: "Perfect timing because..."</li>
 
-- Bet on market shift
+<li>Bet on market shift</li>
 
+</ul>
 </div>
 
 ## Advanced Contrarian Tactics
 
 ### The Catalyst Contrarian
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Event-Driven Contrarian
-** Anticipating Catalysts:
-- ** Know what could change sentiment
-- Position before the event
-- Higher conviction required
-- Bigger potential rewards
-** Common Catalysts:
-- ** Technical breakthrough
-- Partnership announcement
-- Regulatory clarity
-- Market validation
-- Competition failing
-** Execution:
-1. Identify potential catalysts
-2. Assess probability
-3. Position pre-catalyst
-4. Size for binary outcome
-5. Have patience
+<h3>⚡ Event-Driven Contrarian</h3>
+<p>** Anticipating Catalysts:**</p>
+<ul>
+<li>**Know what could change sentiment**</li>
+<li>Position before the event</li>
+<li>Higher conviction required</li>
+<li>Bigger potential rewards</li>
+
+</ul>
+<p>** Common Catalysts:**</p>
+<ul>
+<li>**Technical breakthrough**</li>
+<li>Partnership announcement</li>
+<li>Regulatory clarity</li>
+<li>Market validation</li>
+<li>Competition failing</li>
+
+</ul>
+<p>** Execution:**</p>
+<p>1. Identify potential catalysts</p>
+<p>2. Assess probability</p>
+<p>3. Position pre-catalyst</p>
+<p>4. Size for binary outcome</p>
+<p>5. Have patience</p>
 
 </div>
 
 ### The Correlation Contrarian
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔗 Cross-Market Opportunities
-** Correlation Breaks:
-- ** Similar ventures diverge
-- One pumped, one ignored
-- Fundamentals comparable
-- Arbitrage opportunity
-** Strategy:
-1. Track correlated ventures
-2. Identify divergence
-3. Fade overvalued
-4. Buy undervalued
-5. Wait for convergence
-** Risk Note:
-**Markets can stay irrational longer than you can stay solvent
+<h3>🔗 Cross-Market Opportunities</h3>
+
+
+<p>Correlation Breaks:**</p>
+<ul>
+<li>**Similar ventures diverge**</li>
+<li>One pumped, one ignored</li>
+<li>Fundamentals comparable</li>
+<li>Arbitrage opportunity</li>
+
+</ul>
+<p>** Strategy:**</p>
+<p>1. Track correlated ventures</p>
+<p>2. Identify divergence</p>
+<p>3. Fade overvalued</p>
+<p>4. Buy undervalued</p>
+<p>5. Wait for convergence</p>
+
+
+
+<p>Risk Note:**</p>
+<p>**Markets can stay irrational longer than you can stay solvent**</p>
 
 </div>
 
@@ -273,173 +341,218 @@ The biggest returns often come from going against consensus - but only when you'
 
 ### Position Sizing for Contrarian
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📏 Specialized Sizing Rules
-** Contrarian Position Limits:
-- ** Maximum 2% per position
-- Maximum 10% total contrarian
-- Higher conviction = larger size
-- Never bet the farm
-** Kelly Criterion Adjusted:
+<h3>📏 Specialized Sizing Rules</h3>
+<p>** Contrarian Position Limits:**</p>
+<ul>
+<li>**Maximum 2% per position**</li>
+<li>Maximum 10% total contrarian</li>
+<li>Higher conviction = larger size</li>
+<li>Never bet the farm</li>
+
+</ul>
+<p>** Kelly Criterion Adjusted:**</p>
 ```
-Contrarian Size = Standard Kelly × 0.5
+<p>Contrarian Size = Standard Kelly × 0.5</p>
 
-Why? Higher uncertainty, binary outcomes
+<p>Why? Higher uncertainty, binary outcomes</p>
 ```
-** Diversification Rules:
-- ** Minimum 5 contrarian plays
-- Different types/phases
-- Uncorrelated setups
-- Time diversification
 
+
+
+<p>Diversification Rules:**</p>
+<ul>
+<li>**Minimum 5 contrarian plays**</li>
+<li>Different types/phases</li>
+<li>Uncorrelated setups</li>
+<li>Time diversification</li>
+
+</ul>
 </div>
 
 ### Psychological Preparation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Mental Game Management
-** Contrarian Psychology:
-- ** Comfortable being alone
-- Conviction under pressure
-- Patience for vindication
-- Acceptance of failures
-** Handling Criticism:
-- ** Document your thesis
-- Ignore personal attacks
-- Focus on analysis
-- Let results speak
-** Staying Strong:
-- ** Review your research
-- Check thesis validity
-- Adjust if wrong
-- Hold if right
+<h3>🧠 Mental Game Management</h3>
+<p>** Contrarian Psychology:**</p>
+<ul>
+<li>**Comfortable being alone**</li>
+<li>Conviction under pressure</li>
+<li>Patience for vindication</li>
+<li>Acceptance of failures</li>
 
+</ul>
+<p>** Handling Criticism:**</p>
+<ul>
+<li>**Document your thesis**</li>
+<li>Ignore personal attacks</li>
+<li>Focus on analysis</li>
+<li>Let results speak</li>
+
+</ul>
+<p>** Staying Strong:**</p>
+<ul>
+<li>**Review your research**</li>
+<li>Check thesis validity</li>
+<li>Adjust if wrong</li>
+<li>Hold if right</li>
+
+</ul>
 </div>
 
 ## Contrarian Success Stories
 
 ### Case Studies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Learning from Masters
-**Case 1: The DeFi Doubt
-- ** Project: Overhyped yield farm
-- Signal ratio: 96% belief
-- Contrarian: Spotted unsustainable model
-- Position: Large doubt at peak
-- Result: 3.8x return in 3 weeks
-** Lessons:
-- ** Math beats marketing
-- Sustainability matters
-- Crowd blindness to risk
-**Case 2: The Gaming Resurrection
-- ** Project: Failed first launch
-- Signal ratio: 91% doubt  
-- Contrarian: Saw pivot potential
-- Position: Belief during despair
-- Result: 4.2x return in 2 months
-** Lessons:
-- ** Quality teams recover
-- Overreactions create opportunity
-- Patience pays
+<h3>📚 Learning from Masters</h3>
+<p>**Case 1: The DeFi Doubt**</p>
+<ul>
+<li>**Project: Overhyped yield farm**</li>
+<li>Signal ratio: 96% belief</li>
+<li>Contrarian: Spotted unsustainable model</li>
+<li>Position: Large doubt at peak</li>
+<li>Result: 3.8x return in 3 weeks</li>
 
+</ul>
+<p>** Lessons:**</p>
+<ul>
+<li>**Math beats marketing**</li>
+<li>Sustainability matters</li>
+<li>Crowd blindness to risk</li>
+
+</ul>
+<p>**Case 2: The Gaming Resurrection**</p>
+<ul>
+<li>**Project: Failed first launch**</li>
+<li>Signal ratio: 91% doubt</li>
+<li>Contrarian: Saw pivot potential</li>
+<li>Position: Belief during despair</li>
+<li>Result: 4.2x return in 2 months</li>
+
+</ul>
+<p>** Lessons:**</p>
+<ul>
+<li>**Quality teams recover**</li>
+<li>Overreactions create opportunity</li>
+<li>Patience pays</li>
+
+</ul>
 </div>
 
 ## Building Contrarian Reputation
 
 ### Becoming a Respected Contrarian
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 The Contrarian Brand
-** Reputation Building:
-1. **Always Evidence-Based**
+<h3>🌟 The Contrarian Brand</h3>
+<p>** Reputation Building:**</p>
+<p>1. **Always Evidence-Based**</p>
 
-- Document reasoning
+<ul>
+<li>Document reasoning</li>
 
-- Share analysis
+<li>Share analysis</li>
 
-- Educate others
+<li>Educate others</li>
 
-2. **Track Record Transparency**
+</ul>
+<p>2. **Track Record Transparency**</p>
 
-- Public predictions
+<ul>
+<li>Public predictions</li>
 
-- Win/loss honesty
+<li>Win/loss honesty</li>
 
-- Learn publicly
+<li>Learn publicly</li>
 
-3. **Thought Leadership**
+</ul>
+<p>3. **Thought Leadership**</p>
 
-- Contrarian frameworks
+<ul>
+<li>Contrarian frameworks</li>
 
-- Market psychology insights
+<li>Market psychology insights</li>
 
-- Pattern recognition
+<li>Pattern recognition</li>
 
-4. **Respectful Approach**
+</ul>
+<p>4. **Respectful Approach**</p>
 
-- No trolling
+<ul>
+<li>No trolling</li>
 
-- Professional disagreement
-- Value
-- add focus
+<li>Professional disagreement</li>
+<li>Value</li>
+<li>add focus</li>
 
+</ul>
 </div>
 
 ## Contrarian Tools
 
 ### Analysis Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Contrarian Toolkit
-** Sentiment Analysis:
+<h3>🛠️ Contrarian Toolkit</h3>
+<p>** Sentiment Analysis:**</p>
 ```python
-Contrarian Score = (
-  (Sentiment Extreme - 50) × 2 +
-  Information Edge Score +
-  Catalyst Probability -
-  Risk Factor
-)
+<p>Contrarian Score = (</p>
+<p>(Sentiment Extreme - 50) × 2 +</p>
+<p>Information Edge Score +</p>
+<p>Catalyst Probability -</p>
+<p>Risk Factor</p>
+<p>)</p>
 
-Score > 20 = Strong contrarian opportunity
+<p>Score > 20 = Strong contrarian opportunity</p>
 ```
-** Checklist:
-- ** [ ] Sentiment >85% one direction?
-- [ ] Fundamental disconnect?
-- [ ] Information edge exists?
-- [ ] Catalyst possible?
-- [ ] Risk acceptable?
-- [ ] Conviction strong?
-- [ ] Position sized right?
 
+
+
+<p>Checklist:**</p>
+<ul>
+<li>**[ ] Sentiment >85% one direction?**</li>
+<li>[ ] Fundamental disconnect?</li>
+<li>[ ] Information edge exists?</li>
+<li>[ ] Catalyst possible?</li>
+<li>[ ] Risk acceptable?</li>
+<li>[ ] Conviction strong?</li>
+<li>[ ] Position sized right?</li>
+
+</ul>
 </div>
 
 ## Common Contrarian Mistakes
 
 ### Pitfalls to Avoid
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Contrarian Failures
-** Strategic Errors:
-- **Contrarian for sake of it**
-- Fighting unstoppable trends
-- No analytical basis
-- Too early timing
-- Oversized positions
-**Psychological Errors:**
+<h3>❌ Contrarian Failures</h3>
+<p>** Strategic Errors:**</p>
+<ul>
+<li>**Contrarian for sake of it**</li>
+<li>Fighting unstoppable trends</li>
+<li>No analytical basis</li>
+<li>Too early timing</li>
+<li>Oversized positions</li>
 
-- **Ego-driven decisions**
-- Refusing to admit wrong
-- Isolation from feedback
-- Martyr complex
-- Revenge trading
-**Remember**: Being contrarian doesn't mean being stupid
+</ul>
+<p>**Psychological Errors:**</p>
+
+<ul>
+<li>**Ego-driven decisions**</li>
+<li>Refusing to admit wrong</li>
+<li>Isolation from feedback</li>
+<li>Martyr complex</li>
+<li>Revenge trading</li>
+</ul>
+<p>**Remember**: Being contrarian doesn't mean being stupid</p>
 
 </div>
 
@@ -447,41 +560,49 @@ Score > 20 = Strong contrarian opportunity
 
 ### Balanced Approach
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Portfolio Allocation
-** Recommended Mix:
+<h3>⚖️ Portfolio Allocation</h3>
+<p>** Recommended Mix:**</p>
 ```
-Core Strategy: 70%
-Momentum: 15%
-Contrarian: 10%
-Experimental: 5%
+<p>Core Strategy: 70%</p>
+<p>Momentum: 15%</p>
+<p>Contrarian: 10%</p>
+<p>Experimental: 5%</p>
 ```
-** Contrarian Bucket Rules:
-- ** Minimum 5 positions
-- No correlation between
-- Different timeframes
-- Clear exit plans
-- Regular review
 
+
+
+<p>Contrarian Bucket Rules:**</p>
+<ul>
+<li>**Minimum 5 positions**</li>
+<li>No correlation between</li>
+<li>Different timeframes</li>
+<li>Clear exit plans</li>
+<li>Regular review</li>
+
+</ul>
 </div>
 
 ## Advanced Contrarian Concepts
 
 ### Multi-Level Contrarian
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎭 The Double Contrarian
-**Second-Order Thinking**: "Everyone thinks everyone is wrong, but actually..."
-**Example:**
+<h3>🎭 The Double Contrarian</h3>
+<p>**Second-Order Thinking**: "Everyone thinks everyone is wrong, but actually..."</p>
+<p>**Example:**</p>
 
-- **Obvious contrarian play emerges**
-- Too many pile into contrarian side
-- Actual opportunity: Original thesis
-- Be contrarian to contrarians
-** Execution:
-**Requires exceptional judgment and timing
+<ul>
+<li>**Obvious contrarian play emerges**</li>
+<li>Too many pile into contrarian side</li>
+<li>Actual opportunity: Original thesis</li>
+<li>Be contrarian to contrarians</li>
+
+</ul>
+<p>** Execution:**</p>
+<p>**Requires exceptional judgment and timing**</p>
 
 </div>
 

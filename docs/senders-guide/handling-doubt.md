@@ -2,11 +2,11 @@
 
 ## Turning Skepticism into Strength
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤔 When Echoes Signal Against You
+<h3>🤔 When Echoes Signal Against You</h3>
 
-Doubt signals are not failures - they're valuable feedback. The best founders learn to embrace doubt, extract insights, and use skepticism as fuel for improvement. This guide shows you how to handle negative signals productively.
+<p>Doubt signals are not failures - they're valuable feedback. The best founders learn to embrace doubt, extract insights, and use skepticism as fuel for improvement. This guide shows you how to handle negative signals productively.</p>
 
 </div>
 
@@ -14,94 +14,107 @@ Doubt signals are not failures - they're valuable feedback. The best founders le
 
 ### Why Echoes Doubt
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 The Anatomy of Skepticism
+<h3>🔍 The Anatomy of Skepticism</h3>
 
-**Common Doubt Triggers:**
+<p>**Common Doubt Triggers:**</p>
 
-1. **Execution Concerns**
+<p>1. **Execution Concerns**</p>
 
-- Missed deadlines
+<ul>
+<li>Missed deadlines</li>
 
-- Quality issues
+<li>Quality issues</li>
 
-- Team problems
+<li>Team problems</li>
 
-- Technical debt
+<li>Technical debt</li>
 
-- Slow progress
+<li>Slow progress</li>
 
-2. **Market Questions**
+</ul>
+<p>2. **Market Questions**</p>
 
-- Competition threats
+<ul>
+<li>Competition threats</li>
 
-- Timing concerns
+<li>Timing concerns</li>
 
-- TAM limitations
+<li>TAM limitations</li>
 
-- Customer validation
+<li>Customer validation</li>
 
-- Business model
+<li>Business model</li>
 
-3. **Communication Gaps**
+</ul>
+<p>3. **Communication Gaps**</p>
 
-- Unclear updates
+<ul>
+<li>Unclear updates</li>
 
-- Hidden problems
+<li>Hidden problems</li>
 
-- Pivot confusion
+<li>Pivot confusion</li>
 
-- Expectation mismatch
+<li>Expectation mismatch</li>
 
-- Trust erosion
+<li>Trust erosion</li>
 
-4. **External Factors**
+</ul>
+<p>4. **External Factors**</p>
 
-- Market downturns
+<ul>
+<li>Market downturns</li>
 
-- Regulatory changes
+<li>Regulatory changes</li>
 
-- Technology shifts
+<li>Technology shifts</li>
 
-- Funding climate
+<li>Funding climate</li>
 
-- Competitor wins
-** Doubt Signal Value:
+<li>Competitor wins</li>
+
+</ul>
+<p>** Doubt Signal Value:**</p>
 ```python
-** def assess_doubt_value(signal):
-    valuable_doubt = {
-        "specific_feedback": "Actionable insights",
-        "expert_opinion": "Domain expertise",
-        "pattern_identification": "Systemic issues",
-        "early_warning": "Problem prevention",
-        "market_intelligence": "Competitive intel"
-    }
-    
-    return extract_insights(signal, valuable_doubt)
+
+<p>**def assess_doubt_value(signal):**</p>
+<p>valuable_doubt = {</p>
+<p>"specific_feedback": "Actionable insights",</p>
+<p>"expert_opinion": "Domain expertise",</p>
+<p>"pattern_identification": "Systemic issues",</p>
+<p>"early_warning": "Problem prevention",</p>
+<p>"market_intelligence": "Competitive intel"</p>
+<p>}</p>
+
+<p>return extract_insights(signal, valuable_doubt)</p>
 ```
 
 </div>
 
 ### Types of Doubters
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Know Your Critics
-** Doubter Profiles:
-**| Type | Motivation | Value | Response |
-|------|-----------|-------|----------|
-|**Constructive Critics** | Help improve | High | Engage deeply |
-|**Risk Managers** | Protect investment | Medium | Address concerns |
-|**Competitors** | Gain advantage | Low | Monitor only |
-|**Trolls** | Cause chaos | None | Ignore/Block |
-|**Former Believers** | Lost faith | High | Win back |
-** Engagement Priority:
-1. Former believers (highest recovery potential)
-2. Constructive critics (valuable feedback)
-3. Risk managers (legitimate concerns)
-4. Competitors (market intelligence only)
-5. Trolls (no engagement)
+<h3>👥 Know Your Critics</h3>
+
+
+<p>Doubter Profiles:**</p>
+<p>**| Type | Motivation | Value | Response |**</p>
+<p>|------|-----------|-------|----------|</p>
+<p>| **Constructive Critics** | Help improve | High | Engage deeply |</p>
+<p>| **Risk Managers** | Protect investment | Medium | Address concerns |</p>
+<p>| **Competitors** | Gain advantage | Low | Monitor only |</p>
+<p>| **Trolls** | Cause chaos | None | Ignore/Block |</p>
+<p>| **Former Believers** | Lost faith | High | Win back |</p>
+
+<p>** Engagement Priority:**</p>
+<p>1. Former believers (highest recovery potential)</p>
+<p>2. Constructive critics (valuable feedback)</p>
+<p>3. Risk managers (legitimate concerns)</p>
+<p>4. Competitors (market intelligence only)</p>
+<p>5. Trolls (no engagement)</p>
 
 </div>
 
@@ -109,74 +122,98 @@ Doubt signals are not failures - they're valuable feedback. The best founders le
 
 ### The First 24 Hours
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏱️ Rapid Response Protocol
-**Hour 1-4: Assessment
+<h3>⏱️ Rapid Response Protocol</h3>
+<p>**Hour 1-4: Assessment**</p>
 ```markdown
-** Doubt Signal Checklist:
-☐ Signal magnitude (How much?)
-☐ Doubter credibility (Who?)
-☐ Feedback specificity (What?)
-☐ Community sentiment (Spreading?)
-☐ Validity assessment (True?)
+
+<p>** Doubt Signal Checklist:**</p>
+<p>☐ Signal magnitude (How much?)</p>
+<p>☐ Doubter credibility (Who?)</p>
+<p>☐ Feedback specificity (What?)</p>
+<p>☐ Community sentiment (Spreading?)</p>
+<p>☐ Validity assessment (True?)</p>
 ```
-**Hour 5-12: Strategy
-- ** Gather team input
-- Identify valid points
-- Develop response plan
-- Prepare materials
-- Set communication timeline
-**Hour 13-24: Response
-- ** Public acknowledgment
-- Specific addressing
-- Action plan sharing
-- Community engagement
-- Follow-up scheduling
-** Response Template:
+
+<p>**Hour 5-12: Strategy**</p>
+<ul>
+<li>**Gather team input**</li>
+<li>Identify valid points</li>
+<li>Develop response plan</li>
+<li>Prepare materials</li>
+<li>Set communication timeline</li>
+
+</ul>
+<p>**Hour 13-24: Response**</p>
+<ul>
+<li>**Public acknowledgment**</li>
+<li>Specific addressing</li>
+<li>Action plan sharing</li>
+<li>Community engagement</li>
+<li>Follow-up scheduling</li>
+
+</ul>
+<p>** Response Template:**</p>
 ```
-"Thanks for the candid feedback about [issue]. 
+<p>"Thanks for the candid feedback about [issue].</p>
 
-** You're right that [valid point]. Here's what we're doing:
-1. [Immediate action]
-2. [Short-term fix]
-3. [Long-term solution]
 
-We'll update on progress [timeline].
 
-Your skepticism helps us build better."
+<p>You're right that [valid point]. Here's what we're doing:**</p>
+<p>1. [Immediate action]</p>
+<p>2. [Short-term fix]</p>
+<p>3. [Long-term solution]</p>
+
+<p>We'll update on progress [timeline].</p>
+
+<p>Your skepticism helps us build better."</p>
 ```
 
 </div>
 
 ### Public vs Private Response
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📢 Choosing Your Channel
-** Public Response When:
-- ** Multiple people affected
-- Community-wide concern
-- Transparency needed
-- Educational opportunity
-- Trust building moment
-** Private Response When:
-- ** Personal grievances
-- Sensitive information
-- Individual resolution
-- Testing solutions
-- Building allies
-** Channel Strategy:
+<h3>📢 Choosing Your Channel</h3>
+<p>** Public Response When:**</p>
+<ul>
+<li>**Multiple people affected**</li>
+<li>Community-wide concern</li>
+<li>Transparency needed</li>
+<li>Educational opportunity</li>
+<li>Trust building moment</li>
+
+</ul>
+<p>** Private Response When:**</p>
+<ul>
+<li>**Personal grievances**</li>
+<li>Sensitive information</li>
+<li>Individual resolution</li>
+<li>Testing solutions</li>
+<li>Building allies</li>
+
+</ul>
+<p>** Channel Strategy:**</p>
 ```python
-** def choose_response_channel(doubt_signal):
-** if doubt_signal.echoes > 5:
-        return "public_response"
-** elif doubt_signal.sensitivity == "high":
-        return "private_first"
-** elif doubt_signal.validity > 0.7:
-        return "public_acknowledgment"
-** else:
-        return "private_discussion"
+
+<p>**def choose_response_channel(doubt_signal):**</p>
+<p>** if doubt_signal.echoes > 5:**</p>
+<p>return "public_response"</p>
+
+
+
+<p>elif doubt_signal.sensitivity == "high":**</p>
+<p>return "private_first"</p>
+
+<p>** elif doubt_signal.validity > 0.7:**</p>
+<p>return "public_acknowledgment"</p>
+
+
+
+<p>else:**</p>
+<p>return "private_discussion"</p>
 ```
 
 </div>
@@ -185,466 +222,548 @@ Your skepticism helps us build better."
 
 ### Mining Insights
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💡 Finding Gold in Criticism
-** Insight Extraction Process:
-1. **Remove Emotion**
+<h3>💡 Finding Gold in Criticism</h3>
+<p>** Insight Extraction Process:**</p>
+<p>1. **Remove Emotion**</p>
 
-- Strip inflammatory language
+<ul>
+<li>Strip inflammatory language</li>
 
-- Focus on facts
+<li>Focus on facts</li>
 
-- Identify core issues
+<li>Identify core issues</li>
 
-- Separate person from problem
+<li>Separate person from problem</li>
 
-- Find legitimate concerns
+<li>Find legitimate concerns</li>
 
-2. **Pattern Recognition**
+</ul>
+<p>2. **Pattern Recognition**</p>
    ```python
-** def identify_patterns(doubt_signals):
-       patterns = {}
-** for signal in doubt_signals:
-           core_issue = extract_core_issue(signal)
-           patterns[core_issue] = patterns.get(core_issue, 0) + 1
-       
-       return sorted(patterns.items(), key=lambda x: x[1], reverse=True)
+
+<p>**def identify_patterns(doubt_signals):**</p>
+<p>patterns = {}</p>
+
+
+
+<p>for signal in doubt_signals:**</p>
+<p>core_issue = extract_core_issue(signal)</p>
+<p>patterns[core_issue] = patterns.get(core_issue, 0) + 1</p>
+
+<p>return sorted(patterns.items(), key=lambda x: x[1], reverse=True)</p>
    ```
 
-3. **Root Cause Analysis**
+<p>3. **Root Cause Analysis**</p>
 
-- Why this doubt now?
+<ul>
+<li>Why this doubt now?</li>
 
-- What triggered it?
+<li>What triggered it?</li>
 
-- Is it symptom or cause?
+<li>Is it symptom or cause?</li>
 
-- What's the real issue?
+<li>What's the real issue?</li>
 
-- How prevent recurrence?
+<li>How prevent recurrence?</li>
 
-4. **Action Planning**
+</ul>
+<p>4. **Action Planning**</p>
 
-- Immediate fixes
+<ul>
+<li>Immediate fixes</li>
 
-- System improvements
+<li>System improvements</li>
 
-- Process changes
+<li>Process changes</li>
 
-- Communication updates
+<li>Communication updates</li>
 
-- Preventive measures
+<li>Preventive measures</li>
 
+</ul>
 </div>
 
 ### Converting Doubters
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 From Skeptic to Supporter
-**Conversion Strategy:** Step 1: Acknowledge**"You raised concerns about [X]. You were right."
+<h3>🔄 From Skeptic to Supporter</h3>
+<p>**Conversion Strategy:** Step 1: Acknowledge**"You raised concerns about [X]. You were right."</p>
 
-**Step 2: Show Action**"Based on your feedback, we [specific changes]."
+<p>**Step 2: Show Action**"Based on your feedback, we [specific changes]."</p>
 
-**Step 3: Demonstrate Results**"This led to [measurable improvement]."
+<p>**Step 3: Demonstrate Results**"This led to [measurable improvement]."</p>
 
-**Step 4: Give Credit**"Thanks to doubters like you, we're stronger."
+<p>**Step 4: Give Credit**"Thanks to doubters like you, we're stronger."</p>
 
-**Step 5: Invite Collaboration**"What else should we improve?"
+<p>**Step 5: Invite Collaboration**"What else should we improve?"</p>
 
-** Success Stories:
+<p>** Success Stories:**</p>
 ```markdown
-### Doubter-to-Advocate Examples
-**Case 1: Technical Skeptic
-- ** Doubted: Scalability approach
-- We did: Rewrote architecture
-- Result: 10x performance gain
-- Now: Technical advisor
-**Case 2: Market Pessimist
-- ** Doubted: Market size
-- We did: Narrowed focus
-- Result: Found product-market fit
-- Now: Top referrer
+
+<h3>Doubter-to-Advocate Examples</h3>
+<p>**Case 1: Technical Skeptic**</p>
+<ul>
+<li>**Doubted: Scalability approach**</li>
+<li>We did: Rewrote architecture</li>
+<li>Result: 10x performance gain</li>
+<li>Now: Technical advisor</li>
+
+</ul>
+<p>**Case 2: Market Pessimist**</p>
+<ul>
+<li>**Doubted: Market size**</li>
+<li>We did: Narrowed focus</li>
+<li>Result: Found product-market fit</li>
+<li>Now: Top referrer</li>
 ```
 
+</ul>
 </div>
 
 ## Communication Excellence
 
 ### Crafting Your Message
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✍️ Responding with Grace
-** Message Components:
-1. **Acknowledgment**
+<h3>✍️ Responding with Grace</h3>
+<p>** Message Components:**</p>
+<p>1. **Acknowledgment**</p>
 
-- Thank for feedback
+<ul>
+<li>Thank for feedback</li>
 
-- Validate concerns
+<li>Validate concerns</li>
 
-- Show you listened
+<li>Show you listened</li>
 
-- Demonstrate understanding
+<li>Demonstrate understanding</li>
 
-2. **Analysis**
+</ul>
+<p>2. **Analysis**</p>
 
-- Break down issues
+<ul>
+<li>Break down issues</li>
 
-- Show you investigated
+<li>Show you investigated</li>
 
-- Present findings
+<li>Present findings</li>
 
-- Accept responsibility
+<li>Accept responsibility</li>
 
-3. **Action**
+</ul>
+<p>3. **Action**</p>
 
-- Specific steps
+<ul>
+<li>Specific steps</li>
 
-- Clear timeline
+<li>Clear timeline</li>
 
-- Measurable outcomes
+<li>Measurable outcomes</li>
 
-- Accountability commitment
+<li>Accountability commitment</li>
 
-4. **Follow-through**
+</ul>
+<p>4. **Follow-through**</p>
 
-- Progress updates
+<ul>
+<li>Progress updates</li>
 
-- Result sharing
+<li>Result sharing</li>
 
-- Continued dialogue
+<li>Continued dialogue</li>
 
-- Relationship building
-** Tone Guidelines:
-- ** Professional always
-- Humble not defensive
-- Specific not vague
-- Forward-looking
-- Solution-oriented
+<li>Relationship building</li>
 
+</ul>
+<p>** Tone Guidelines:**</p>
+<ul>
+<li>**Professional always**</li>
+<li>Humble not defensive</li>
+<li>Specific not vague</li>
+<li>Forward-looking</li>
+<li>Solution-oriented</li>
+
+</ul>
 </div>
 
 ### Managing Community Sentiment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌊 Preventing Doubt Cascades
-** Sentiment Management:
+<h3>🌊 Preventing Doubt Cascades</h3>
+<p>** Sentiment Management:**</p>
 ```python
-**class SentimentManager: def monitor_community(self):
-        # Track doubt spread
-        doubt_velocity = measure_signal_spread()
-        
-** if doubt_velocity > threshold:
-            self.activate_response_team()
-            self.increase_positive_content()
-            self.engage_supporters()
-            self.address_concerns_publicly()
-        
-        return self.measure_sentiment_shift()
+
+<p>**class SentimentManager: def monitor_community(self):**</p>
+<h1>Track doubt spread</h1>
+<p>doubt_velocity = measure_signal_spread()</p>
+
+
+
+<p>if doubt_velocity > threshold:**</p>
+<p>self.activate_response_team()</p>
+<p>self.increase_positive_content()</p>
+<p>self.engage_supporters()</p>
+<p>self.address_concerns_publicly()</p>
+
+<p>return self.measure_sentiment_shift()</p>
 ```
-** Cascade Prevention:
-1. **Early Detection**
 
-- Monitor channels
+<p>** Cascade Prevention:**</p>
+<p>1. **Early Detection**</p>
 
-- Track keywords
+<ul>
+<li>Monitor channels</li>
 
-- Watch influencers
+<li>Track keywords</li>
 
-- Measure velocity
+<li>Watch influencers</li>
 
-2. **Rapid Response**
+<li>Measure velocity</li>
 
-- Quick acknowledgment
+</ul>
+<p>2. **Rapid Response**</p>
 
-- Visible action
+<ul>
+<li>Quick acknowledgment</li>
 
-- Progress sharing
+<li>Visible action</li>
 
-- Supporter activation
+<li>Progress sharing</li>
 
-3. **Positive Flooding**
+<li>Supporter activation</li>
 
-- Success stories
+</ul>
+<p>3. **Positive Flooding**</p>
 
-- Happy customers
+<ul>
+<li>Success stories</li>
 
-- Team wins
+<li>Happy customers</li>
 
-- Progress metrics
+<li>Team wins</li>
 
+<li>Progress metrics</li>
+
+</ul>
 </div>
 
 ## Strategic Responses
 
 ### The Pivot Conversation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 When Doubt Demands Change
-** Pivot Communication:
+<h3>🔄 When Doubt Demands Change</h3>
+<p>** Pivot Communication:**</p>
 ```markdown
-## Community Update: Evolution Based on Your Feedback
 
-### What We Heard
-Many of you expressed concerns about [specific issue].
-The data shows [supporting metrics].
+<h2>Community Update: Evolution Based on Your Feedback</h2>
 
-### What We Learned
-You were right. [Honest assessment]
+<h3>What We Heard</h3>
+<p>Many of you expressed concerns about [specific issue].</p>
+<p>The data shows [supporting metrics].</p>
 
-### What We're Changing
-1. [Major change 1]
-2. [Major change 2]
-3. [Timeline for changes]
+<h3>What We Learned</h3>
+<p>You were right. [Honest assessment]</p>
 
-### What Stays the Same
-- Our core mission
-- Our commitment to you
-- Our transparency
+<h3>What We're Changing</h3>
+<p>1. [Major change 1]</p>
+<p>2. [Major change 2]</p>
+<p>3. [Timeline for changes]</p>
 
-### How This Makes Us Stronger
-[Specific improvements expected]
+<h3>What Stays the Same</h3>
+<ul>
+<li>Our core mission</li>
+<li>Our commitment to you</li>
+<li>Our transparency</li>
 
-### Your Role
-We need your continued feedback as we evolve.
+<h3>How This Makes Us Stronger</h3>
+</ul>
+<p>[Specific improvements expected]</p>
+
+<h3>Your Role</h3>
+<p>We need your continued feedback as we evolve.</p>
 ```
-** Pivot Best Practices:
-- ** Frame as evolution
-- Credit doubters
-- Maintain vision
-- Show conviction
-- Rally support
 
+
+
+<p>Pivot Best Practices:**</p>
+<ul>
+<li>**Frame as evolution**</li>
+<li>Credit doubters</li>
+<li>Maintain vision</li>
+<li>Show conviction</li>
+<li>Rally support</li>
+
+</ul>
 </div>
 
 ### Using Doubt as Marketing
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Controversy as Catalyst
-**Strategic Controversy:**  When Doubt Helps:
-- ** Challenges status quo
-- Sparks discussion
-- Increases visibility
-- Defines position
-- Attracts attention
-** Leveraging Techniques:
-1. **Document the Journey**
+<h3>🎯 Controversy as Catalyst</h3>
+<p>**Strategic Controversy:**</p>
 
-- "They said we couldn't..."
+<p>**When Doubt Helps:**</p>
+<ul>
+<li>**Challenges status quo**</li>
+<li>Sparks discussion</li>
+<li>Increases visibility</li>
+<li>Defines position</li>
+<li>Attracts attention</li>
 
-- "Proving doubters wrong"
+</ul>
+<p>** Leveraging Techniques:**</p>
+<p>1. **Document the Journey**</p>
 
-- "From skeptic to believer"
+<ul>
+<li>"They said we couldn't..."</li>
 
-2. **Create Dialogue**
+<li>"Proving doubters wrong"</li>
 
-- Public debates
+<li>"From skeptic to believer"</li>
 
-- Open challenges
+</ul>
+<p>2. **Create Dialogue**</p>
 
-- Transparent tests
+<ul>
+<li>Public debates</li>
 
-- Live demonstrations
+<li>Open challenges</li>
 
-3. **Build Narrative**
+<li>Transparent tests</li>
 
-- Underdog story
+<li>Live demonstrations</li>
 
-- David vs Goliath
+</ul>
+<p>3. **Build Narrative**</p>
 
-- Innovation resistance
+<ul>
+<li>Underdog story</li>
 
-- Market disruption
-** Caution:
-- ** Stay professional
-- Focus on facts
-- Avoid personal attacks
-- Keep vision central
-- Build don't burn
+<li>David vs Goliath</li>
 
+<li>Innovation resistance</li>
+
+<li>Market disruption</li>
+
+</ul>
+<p>** Caution:**</p>
+<ul>
+<li>**Stay professional**</li>
+<li>Focus on facts</li>
+<li>Avoid personal attacks</li>
+<li>Keep vision central</li>
+<li>Build don't burn</li>
+
+</ul>
 </div>
 
 ## Long-term Management
 
 ### Building Resilience
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛡️ Doubt-Proof Foundation
-** Resilience Strategies:
-1. **Systematic Improvement**
+<h3>🛡️ Doubt-Proof Foundation</h3>
+<p>** Resilience Strategies:**</p>
+<p>1. **Systematic Improvement**</p>
    ```python
-   resilience_system = {
-       "feedback_loops": "Weekly community surveys",
-       "early_warning": "Sentiment monitoring",
-       "rapid_response": "24-hour protocol",
-       "continuous_improvement": "Monthly retrospectives",
-       "relationship_building": "1-on-1 doubter calls"
-   }
+<p>resilience_system = {</p>
+<p>"feedback_loops": "Weekly community surveys",</p>
+<p>"early_warning": "Sentiment monitoring",</p>
+<p>"rapid_response": "24-hour protocol",</p>
+<p>"continuous_improvement": "Monthly retrospectives",</p>
+<p>"relationship_building": "1-on-1 doubter calls"</p>
+<p>}</p>
    ```
 
-2. **Proactive Communication**
+<p>2. **Proactive Communication**</p>
 
-- Address issues early
+<ul>
+<li>Address issues early</li>
 
-- Share challenges openly
+<li>Share challenges openly</li>
 
-- Celebrate improvements
+<li>Celebrate improvements</li>
 
-- Build trust daily
+<li>Build trust daily</li>
 
-3. **Strong Foundation**
+</ul>
+<p>3. **Strong Foundation**</p>
 
-- Clear vision
+<ul>
+<li>Clear vision</li>
 
-- Solid execution
+<li>Solid execution</li>
 
-- Happy customers
+<li>Happy customers</li>
 
-- Team alignment
+<li>Team alignment</li>
 
-- Financial health
+<li>Financial health</li>
 
+</ul>
 </div>
 
 ### Creating Advocates
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Former Doubters = Best Advocates
-** Advocate Creation Process:
-1. **Identify Converted Doubters**
+<h3>🤝 Former Doubters = Best Advocates</h3>
+<p>** Advocate Creation Process:**</p>
+<p>1. **Identify Converted Doubters**</p>
 
-- Track sentiment shifts
+<ul>
+<li>Track sentiment shifts</li>
 
-- Note behavior changes
+<li>Note behavior changes</li>
 
-- Measure engagement
+<li>Measure engagement</li>
 
-- Document stories
+<li>Document stories</li>
 
-2. **Amplify Their Voice**
+</ul>
+<p>2. **Amplify Their Voice**</p>
 
-- Case studies
+<ul>
+<li>Case studies</li>
 
-- Testimonials
+<li>Testimonials</li>
 
-- Speaking opportunities
+<li>Speaking opportunities</li>
 
-- Community leadership
+<li>Community leadership</li>
 
-- Advisory roles
+<li>Advisory roles</li>
 
-3. **Maintain Relationship**
-- Regular check
-- ins
+</ul>
+<p>3. **Maintain Relationship**</p>
+<ul>
+<li>Regular check</li>
+<li>ins</li>
 
-- Exclusive updates
+<li>Exclusive updates</li>
 
-- Special recognition
+<li>Special recognition</li>
 
-- Continued input
+<li>Continued input</li>
 
-- Mutual success
-** Advocate Value:
-- ** Credible testimonials
-- Powerful stories
-- Network influence
-- Honest feedback
-- Loyal support
+<li>Mutual success</li>
 
+</ul>
+<p>** Advocate Value:**</p>
+<ul>
+<li>**Credible testimonials**</li>
+<li>Powerful stories</li>
+<li>Network influence</li>
+<li>Honest feedback</li>
+<li>Loyal support</li>
+
+</ul>
 </div>
 
 ## Metrics & Learning
 
 ### Doubt Analytics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Measuring Doubt Impact
-** Key Metrics:
+<h3>📊 Measuring Doubt Impact</h3>
+<p>** Key Metrics:**</p>
 ```javascript
-const doubtMetrics = {
-    volume: {
-        total_doubt_signals: count(),
-        doubt_percentage: calculate_ratio(),
-        doubt_velocity: measure_spread(),
-        peak_doubt_times: identify_triggers()
-    },
-    quality: {
-        specific_feedback_rate: "% with details",
-        actionable_insights: "count implemented",
-        accuracy_rate: "% valid concerns",
-        repeat_doubters: "loyalty measure"
-    },
-    conversion: {
-        doubter_to_believer: "% converted",
-        response_effectiveness: "sentiment shift",
-        time_to_conversion: "average days",
-        advocate_creation: "super fans made"
-    },
-    impact: {
-        product_improvements: "changes made",
-        strategy_pivots: "major shifts",
-        community_health: "overall sentiment",
-        growth_correlation: "doubt vs success"
-    }
-};
+<p>const doubtMetrics = {</p>
+<p>volume: {</p>
+<p>total_doubt_signals: count(),</p>
+<p>doubt_percentage: calculate_ratio(),</p>
+<p>doubt_velocity: measure_spread(),</p>
+<p>peak_doubt_times: identify_triggers()</p>
+<p>},</p>
+<p>quality: {</p>
+<p>specific_feedback_rate: "% with details",</p>
+<p>actionable_insights: "count implemented",</p>
+<p>accuracy_rate: "% valid concerns",</p>
+<p>repeat_doubters: "loyalty measure"</p>
+<p>},</p>
+<p>conversion: {</p>
+<p>doubter_to_believer: "% converted",</p>
+<p>response_effectiveness: "sentiment shift",</p>
+<p>time_to_conversion: "average days",</p>
+<p>advocate_creation: "super fans made"</p>
+<p>},</p>
+<p>impact: {</p>
+<p>product_improvements: "changes made",</p>
+<p>strategy_pivots: "major shifts",</p>
+<p>community_health: "overall sentiment",</p>
+<p>growth_correlation: "doubt vs success"</p>
+<p>}</p>
+<p>};</p>
 ```
 
 </div>
 
 ### Learning Integration
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📖 Institutional Memory
-** Learning System:
-1. **Document Everything**
+<h3>📖 Institutional Memory</h3>
 
-- Doubt patterns
 
-- Response effectiveness
+<p>Learning System:**</p>
+<p>1. **Document Everything**</p>
 
-- Conversion stories
+<ul>
+<li>Doubt patterns</li>
 
-- Prevention methods
+<li>Response effectiveness</li>
 
-2. **Regular Reviews**
+<li>Conversion stories</li>
 
-- Monthly doubt analysis
+<li>Prevention methods</li>
 
-- Response optimization
+</ul>
+<p>2. **Regular Reviews**</p>
 
-- Pattern identification
+<ul>
+<li>Monthly doubt analysis</li>
 
-- Strategy refinement
+<li>Response optimization</li>
 
-3. **Team Training**
+<li>Pattern identification</li>
 
-- Doubt handling protocols
+<li>Strategy refinement</li>
 
-- Communication skills
+</ul>
+<p>3. **Team Training**</p>
 
-- Emotional management
+<ul>
+<li>Doubt handling protocols</li>
 
-- Conversion techniques
+<li>Communication skills</li>
 
-4. **Process Evolution**
+<li>Emotional management</li>
 
-- Update playbooks
+<li>Conversion techniques</li>
 
-- Refine responses
+</ul>
+<p>4. **Process Evolution**</p>
 
-- Improve timing
+<ul>
+<li>Update playbooks</li>
 
-- Enhance outcomes
+<li>Refine responses</li>
 
+<li>Improve timing</li>
+
+<li>Enhance outcomes</li>
+
+</ul>
 </div>
 
 ## Next Steps

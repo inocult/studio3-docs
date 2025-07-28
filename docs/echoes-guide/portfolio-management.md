@@ -2,11 +2,11 @@
 
 ## Professional Portfolio Construction for Echoes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Institutional-Grade Portfolio Strategy
+<h3>📊 Institutional-Grade Portfolio Strategy</h3>
 
-Building and managing a diversified signal portfolio is the key to long-term success as an Echo. This comprehensive guide provides frameworks, strategies, and tools to construct portfolios that maximize returns while managing risk systematically.
+<p>Building and managing a diversified signal portfolio is the key to long-term success as an Echo. This comprehensive guide provides frameworks, strategies, and tools to construct portfolios that maximize returns while managing risk systematically.</p>
 
 </div>
 
@@ -14,124 +14,144 @@ Building and managing a diversified signal portfolio is the key to long-term suc
 
 ### Modern Portfolio Principles
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎓 Adapted Portfolio Theory
+<h3>🎓 Adapted Portfolio Theory</h3>
 
-**Core Concepts:**
+<p>**Core Concepts:**</p>
 
-- 
-1. **Diversification**
-- Spread risk across ventures
-2. **Correlation**
-- Avoid similar bets
-3. **Risk/Return**
-- Optimize the ratio
-4. **Rebalancing**
-- Maintain target allocation
-5. **Time Horizon**
-- Match strategy to goals**
-- ** Signal Portfolio Differences:
-- ** Binary outcomes (win/lose)
-- No partial exits
-- Time-locked positions
-- Multiplier variations
-- Reputation effects
+<p>-</p>
+<p>1. **Diversification**</p>
+<ul>
+<li>Spread risk across ventures</li>
+</ul>
+<p>2. **Correlation**</p>
+<ul>
+<li>Avoid similar bets</li>
+</ul>
+<p>3. **Risk/Return**</p>
+<ul>
+<li>Optimize the ratio</li>
+</ul>
+<p>4. **Rebalancing**</p>
+<ul>
+<li>Maintain target allocation</li>
+</ul>
+<p>5. **Time Horizon**</p>
+<ul>
+<li>Match strategy to goals**</li>
+<li>**Signal Portfolio Differences:**</li>
+<li>**Binary outcomes (win/lose)**</li>
+<li>No partial exits</li>
+<li>Time-locked positions</li>
+<li>Multiplier variations</li>
+<li>Reputation effects</li>
 
+</ul>
 </div>
 
 ### Efficient Frontier
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Risk-Return Optimization
-** Portfolio Efficiency Curve:
+<h3>📈 Risk-Return Optimization</h3>
+<p>** Portfolio Efficiency Curve:**</p>
 ```
-Return
-  ^
-4x|     * (High Risk)
-  |   *
-3x| *     * (Optimal)
-  |   *
-2x|     * (Balanced)
-  | *
-1x|___*____________> Risk
-  0%  25%  50%  75%
+<p>Return</p>
+<p>^</p>
+<p>4x|     * (High Risk)</p>
+<p>|   *</p>
+<p>3x| *     * (Optimal)</p>
+<p>|   *</p>
+<p>2x|     * (Balanced)</p>
+<p>| *</p>
+<p>1x|___*____________> Risk</p>
+<p>0%  25%  50%  75%</p>
 ```
 
-**Optimal Portfolio:**
+<p>**Optimal Portfolio:**</p>
 
-- ** Maximum return per unit of risk
-- Diversified across factors
-- Matches risk tolerance
-- Sustainable long-term
+<ul>
+<li>**Maximum return per unit of risk**</li>
+<li>Diversified across factors</li>
+<li>Matches risk tolerance</li>
+<li>Sustainable long-term</li>
 
+</ul>
 </div>
 
 ## Portfolio Construction
 
 ### Core-Satellite Approach
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Strategic Allocation Model
-**Core Holdings (70%)
-- ** Established teams
-- Proven models
-- Mid-phase ventures
-- Steady returns
-- Lower volatility
-**Satellite Positions (30%)
-- ** High-risk/reward
-- Early phase
-- Contrarian plays
-- Sector bets
-- Experimental
-** Benefits:
-- ** Stable foundation
-- Upside potential
-- Risk management
-- Learning opportunities
+<h3>🎯 Strategic Allocation Model</h3>
+<p>**Core Holdings (70%)**</p>
+<ul>
+<li>**Established teams**</li>
+<li>Proven models</li>
+<li>Mid-phase ventures</li>
+<li>Steady returns</li>
+<li>Lower volatility</li>
 
+</ul>
+<p>**Satellite Positions (30%)**</p>
+<ul>
+<li>**High-risk/reward**</li>
+<li>Early phase</li>
+<li>Contrarian plays</li>
+<li>Sector bets</li>
+<li>Experimental</li>
+
+</ul>
+<p>** Benefits:**</p>
+<ul>
+<li>**Stable foundation**</li>
+<li>Upside potential</li>
+<li>Risk management</li>
+<li>Learning opportunities</li>
+
+</ul>
 </div>
 
 ### Diversification Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌐 Multi-Factor Diversification
-** Diversification Dimensions:
-1. **Phase Distribution**
+<h3>🌐 Multi-Factor Diversification</h3>
+<p>** Diversification Dimensions:**</p>
+<p>1. **Phase Distribution**</p>
    ```
-   Spark/Forge: 15%
-   Ignition: 25%
-   Drift: 30%
-   Orbit/Later: 30%
-   ```
-
-2. **Sector Allocation**
-   ```
-   DeFi: 25%
-   Gaming: 20%
-   Infrastructure: 20%
-   B2B SaaS: 20%
-   Other: 15%
+<p>Spark/Forge: 15%</p>
+<p>Ignition: 25%</p>
+<p>Drift: 30%</p>
+<p>Orbit/Later: 30%</p>
    ```
 
-3. **Signal Type Mix**
+<p>2. **Sector Allocation**</p>
    ```
-   Strong Belief: 50%
-   Moderate Belief: 25%
-   Strategic Doubt: 20%
-   Hedged Positions: 5%
+<p>DeFi: 25%</p>
+<p>Gaming: 20%</p>
+<p>Infrastructure: 20%</p>
+<p>B2B SaaS: 20%</p>
+<p>Other: 15%</p>
    ```
 
-4. **Time Diversification**
+<p>3. **Signal Type Mix**</p>
    ```
-   0-30 days: 40%
-   31-60 days: 35%
-   61-90 days: 20%
-   90+ days: 5%
+<p>Strong Belief: 50%</p>
+<p>Moderate Belief: 25%</p>
+<p>Strategic Doubt: 20%</p>
+<p>Hedged Positions: 5%</p>
+   ```
+
+<p>4. **Time Diversification**</p>
+   ```
+<p>0-30 days: 40%</p>
+<p>31-60 days: 35%</p>
+<p>61-90 days: 20%</p>
+<p>90+ days: 5%</p>
    ```
 
 </div>
@@ -140,267 +160,333 @@ Return
 
 ### Position Sizing
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📏 Scientific Position Sizing
-** Kelly Criterion (Modified):
+<h3>📏 Scientific Position Sizing</h3>
+<p>** Kelly Criterion (Modified):**</p>
 ```
-Position Size = (p × b - q) / b × 0.25
+<p>Position Size = (p × b - q) / b × 0.25</p>
 
-** Where:
-p = probability of success
-b = odds (multiplier - 1)
-q = probability of failure
-0. 25 = safety factor
+
+
+<p>Where:**</p>
+<p>p = probability of success</p>
+<p>b = odds (multiplier - 1)</p>
+<p>q = probability of failure</p>
+<p>0. 25 = safety factor</p>
 ```
-** Practical Limits:
-- ** Maximum single position: 5%
-- Maximum sector exposure: 30%
-- Maximum phase exposure: 40%
-- Minimum position: 0.5%
 
+<p>** Practical Limits:**</p>
+<ul>
+<li>**Maximum single position: 5%**</li>
+<li>Maximum sector exposure: 30%</li>
+<li>Maximum phase exposure: 40%</li>
+<li>Minimum position: 0.5%</li>
+
+</ul>
 </div>
 
 ### Risk Metrics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Portfolio Risk Analysis
-** Key Risk Indicators:
-1. **Maximum Drawdown**
+<h3>📊 Portfolio Risk Analysis</h3>
+<p>** Key Risk Indicators:**</p>
+<p>1. **Maximum Drawdown**</p>
 
-- Worst case: All signals fail
+<ul>
+<li>Worst case: All signals fail</li>
 
-- Current exposure: ___%
+<li>Current exposure: ___%</li>
 
-- Target maximum: 30%
+<li>Target maximum: 30%</li>
 
-2. **Concentration Risk**
+</ul>
+<p>2. **Concentration Risk**</p>
 
-- Top 5 positions: ___%
+<ul>
+<li>Top 5 positions: ___%</li>
 
-- Target maximum: 25%
+<li>Target maximum: 25%</li>
 
-3. **Correlation Risk**
+</ul>
+<p>3. **Correlation Risk**</p>
 
-- Similar ventures: ___%
+<ul>
+<li>Similar ventures: ___%</li>
 
-- Target maximum: 20%
+<li>Target maximum: 20%</li>
 
-4. **Time Risk**
+</ul>
+<p>4. **Time Risk**</p>
 
-- Same week outcomes: ___%
+<ul>
+<li>Same week outcomes: ___%</li>
 
-- Target maximum: 30%
+<li>Target maximum: 30%</li>
 
+</ul>
 </div>
 
 ## Portfolio Strategies
 
 ### Growth Portfolio
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Aggressive Growth Model
-** Allocation:
+<h3>🚀 Aggressive Growth Model</h3>
+<p>** Allocation:**</p>
 ```
-Early Phase: 40%
-High Conviction: 30%
-Momentum Plays: 20%
-Contrarian: 10%
+<p>Early Phase: 40%</p>
+<p>High Conviction: 30%</p>
+<p>Momentum Plays: 20%</p>
+<p>Contrarian: 10%</p>
 ```
-** Characteristics:
-- ** Higher volatility
-- 2.5x+ target returns
-- 60% win rate acceptable
-- Active management
-- Learning focused
-** Risk Profile:
-- ** Can lose 40% in bad month
-- Requires strong stomach
-- Long-term horizon
-- Small starting capital
 
+
+
+<p>Characteristics:**</p>
+<ul>
+<li>**Higher volatility**</li>
+<li>2.5x+ target returns</li>
+<li>60% win rate acceptable</li>
+<li>Active management</li>
+<li>Learning focused</li>
+
+</ul>
+<p>** Risk Profile:**</p>
+<ul>
+<li>**Can lose 40% in bad month**</li>
+<li>Requires strong stomach</li>
+<li>Long-term horizon</li>
+<li>Small starting capital</li>
+
+</ul>
 </div>
 
 ### Balanced Portfolio
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Steady Growth Model
-** Allocation:
+<h3>⚖️ Steady Growth Model</h3>
+<p>** Allocation:**</p>
 ```
-Core Quality: 40%
-Growth Ventures: 25%
-Income Plays: 20%
-Defensive Doubt: 10%
-Experimental: 5%
+<p>Core Quality: 40%</p>
+<p>Growth Ventures: 25%</p>
+<p>Income Plays: 20%</p>
+<p>Defensive Doubt: 10%</p>
+<p>Experimental: 5%</p>
 ```
-** Characteristics:
-- ** Moderate volatility
-- 1.8x target returns
-- 70% win rate target
-- Semi-active management
-- Sustainable approach
-** Risk Profile:
-- ** Maximum 25% drawdown
-- Consistent returns
-- All market conditions
-- Scalable strategy
 
+
+
+<p>Characteristics:**</p>
+<ul>
+<li>**Moderate volatility**</li>
+<li>1.8x target returns</li>
+<li>70% win rate target</li>
+<li>Semi-active management</li>
+<li>Sustainable approach</li>
+
+</ul>
+<p>** Risk Profile:**</p>
+<ul>
+<li>**Maximum 25% drawdown**</li>
+<li>Consistent returns</li>
+<li>All market conditions</li>
+<li>Scalable strategy</li>
+
+</ul>
 </div>
 
 ### Conservative Portfolio
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛡️ Capital Preservation Model
-** Allocation:
+<h3>🛡️ Capital Preservation Model</h3>
+<p>** Allocation:**</p>
 ```
-Late Phase: 50%
-Proven Teams: 30%
-Small Positions: 15%
-Strategic Doubt: 5%
+<p>Late Phase: 50%</p>
+<p>Proven Teams: 30%</p>
+<p>Small Positions: 15%</p>
+<p>Strategic Doubt: 5%</p>
 ```
-** Characteristics:
-- ** Low volatility
-- 1.5x target returns
-- 80% win rate target
-- Passive approach
-- Capital protection
-** Risk Profile:
-- ** Maximum 15% drawdown
-- Steady accumulation
-- Sleep well strategy
-- Large capital suitable
 
+
+
+<p>Characteristics:**</p>
+<ul>
+<li>**Low volatility**</li>
+<li>1.5x target returns</li>
+<li>80% win rate target</li>
+<li>Passive approach</li>
+<li>Capital protection</li>
+
+</ul>
+<p>** Risk Profile:**</p>
+<ul>
+<li>**Maximum 15% drawdown**</li>
+<li>Steady accumulation</li>
+<li>Sleep well strategy</li>
+<li>Large capital suitable</li>
+
+</ul>
 </div>
 
 ## Dynamic Management
 
 ### Rebalancing Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Portfolio Rebalancing
-** Rebalancing Triggers:
-1. **Calendar-Based**
+<h3>🔄 Portfolio Rebalancing</h3>
+<p>** Rebalancing Triggers:**</p>
+<p>1. **Calendar-Based**</p>
 
-- Monthly review
+<ul>
+<li>Monthly review</li>
 
-- Quarterly adjustment
+<li>Quarterly adjustment</li>
 
-- Annual overhaul
+<li>Annual overhaul</li>
 
-2. **Threshold-Based**
+</ul>
+<p>2. **Threshold-Based**</p>
 
-- 5% deviation from target
+<ul>
+<li>5% deviation from target</li>
 
-- Major market shifts
+<li>Major market shifts</li>
 
-- Strategy changes
+<li>Strategy changes</li>
 
-3. **Opportunity-Based**
+</ul>
+<p>3. **Opportunity-Based**</p>
 
-- New information
+<ul>
+<li>New information</li>
 
-- Market inefficiency
+<li>Market inefficiency</li>
 
-- Premium setups
-** Rebalancing Process:
-1. Calculate current allocation
-2. Compare to target
-3. Identify deviations
-4. Plan new signals
-5. Execute gradually
+<li>Premium setups</li>
+
+</ul>
+<p>** Rebalancing Process:**</p>
+<p>1. Calculate current allocation</p>
+<p>2. Compare to target</p>
+<p>3. Identify deviations</p>
+<p>4. Plan new signals</p>
+<p>5. Execute gradually</p>
 
 </div>
 
 ### Tactical Adjustments
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎮 Active Portfolio Management
-**Market Conditions:**  Bull Market Adjustments:
-- ** Increase growth allocation
-- Larger positions
-- Earlier phase focus
-- Momentum strategies
-** Bear Market Adjustments:
-- ** Increase quality focus
-- Smaller positions
-- Later phase preference
-- Doubt allocation up
-** High Volatility:
-- ** Reduce position sizes
-- Increase diversification
-- Shorter timeframes
-- Higher cash reserve
+<h3>🎮 Active Portfolio Management</h3>
+<p>**Market Conditions:**</p>
 
+<p>**Bull Market Adjustments:**</p>
+<ul>
+<li>**Increase growth allocation**</li>
+<li>Larger positions</li>
+<li>Earlier phase focus</li>
+<li>Momentum strategies</li>
+
+</ul>
+<p>** Bear Market Adjustments:**</p>
+<ul>
+<li>**Increase quality focus**</li>
+<li>Smaller positions</li>
+<li>Later phase preference</li>
+<li>Doubt allocation up</li>
+
+</ul>
+<p>** High Volatility:**</p>
+<ul>
+<li>**Reduce position sizes**</li>
+<li>Increase diversification</li>
+<li>Shorter timeframes</li>
+<li>Higher cash reserve</li>
+
+</ul>
 </div>
 
 ## Performance Analytics
 
 ### Portfolio Metrics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Key Performance Indicators
-** Core Metrics:
+<h3>📈 Key Performance Indicators</h3>
+<p>** Core Metrics:**</p>
 ```
-Total Return: ___%
-Win Rate: ___%
-Average Win: ___x
-Average Loss: -100%
-Profit Factor: ___
-Sharpe Ratio: ___
-Max Drawdown: ___%
-Recovery Time: ___ days
+<p>Total Return: ___%</p>
+<p>Win Rate: ___%</p>
+<p>Average Win: ___x</p>
+<p>Average Loss: -100%</p>
+<p>Profit Factor: ___</p>
+<p>Sharpe Ratio: ___</p>
+<p>Max Drawdown: ___%</p>
+<p>Recovery Time: ___ days</p>
 ```
-** Advanced Metrics:
-- ** Information Ratio
-- Sortino Ratio
-- Calmar Ratio
-- Beta vs market
-- Alpha generation
 
+
+
+<p>Advanced Metrics:**</p>
+<ul>
+<li>**Information Ratio**</li>
+<li>Sortino Ratio</li>
+<li>Calmar Ratio</li>
+<li>Beta vs market</li>
+<li>Alpha generation</li>
+
+</ul>
 </div>
 
 ### Attribution Analysis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Performance Attribution
-** Return Sources:
-1. **Selection Effect**
+<h3>🔍 Performance Attribution</h3>
+<p>** Return Sources:**</p>
+<p>1. **Selection Effect**</p>
 
-- Picking winners
+<ul>
+<li>Picking winners</li>
 
-- Avoiding losers
+<li>Avoiding losers</li>
 
-- Research quality
+<li>Research quality</li>
 
-2. **Timing Effect**
+</ul>
+<p>2. **Timing Effect**</p>
 
-- Entry points
+<ul>
+<li>Entry points</li>
 
-- Phase selection
+<li>Phase selection</li>
 
-- Market timing
+<li>Market timing</li>
 
-3. **Sizing Effect**
+</ul>
+<p>3. **Sizing Effect**</p>
 
-- Position weights
+<ul>
+<li>Position weights</li>
 
-- Conviction alignment
+<li>Conviction alignment</li>
 
-- Risk management
-** Monthly Attribution:
+<li>Risk management</li>
+
+</ul>
+<p>** Monthly Attribution:**</p>
 ```
-Selection: +___%
-Timing: +___%
-Sizing: +___%
-Total: ___%
+<p>Selection: +___%</p>
+<p>Timing: +___%</p>
+<p>Sizing: +___%</p>
+<p>Total: ___%</p>
 ```
 
 </div>
@@ -409,171 +495,212 @@ Total: ___%
 
 ### Correlation Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔗 Reducing Correlation Risk
-** Correlation Matrix:
-```
-        DeFi  Game  B2B   AI
-DeFi    1.0   0.3   0.2   0.4
-Game    0.3   1.0   0.1   0.2
-B2B     0.2   0.1   1.0   0.3
-AI      0.4   0.2   0.3   1.0
-```
-** Low Correlation Pairs:
-- ** DeFi + Gaming
-- B2B + Consumer
-- Infrastructure + Applications
-- Different phases
+<h3>🔗 Reducing Correlation Risk</h3>
 
+
+<p>Correlation Matrix:**</p>
+```
+<p>DeFi  Game  B2B   AI</p>
+<p>DeFi    1.0   0.3   0.2   0.4</p>
+<p>Game    0.3   1.0   0.1   0.2</p>
+<p>B2B     0.2   0.1   1.0   0.3</p>
+<p>AI      0.4   0.2   0.3   1.0</p>
+```
+
+<p>** Low Correlation Pairs:**</p>
+<ul>
+<li>**DeFi + Gaming**</li>
+<li>B2B + Consumer</li>
+<li>Infrastructure + Applications</li>
+<li>Different phases</li>
+
+</ul>
 </div>
 
 ### Factor Investing
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Factor-Based Approach
-** Signal Factors:
-1. **Quality Factor**
+<h3>🎯 Factor-Based Approach</h3>
+<p>** Signal Factors:**</p>
+<p>1. **Quality Factor**</p>
 
-- Team score >8/10
+<ul>
+<li>Team score >8/10</li>
 
-- Track record proven
+<li>Track record proven</li>
 
-- Premium allocation
+<li>Premium allocation</li>
 
-2. **Value Factor**
+</ul>
+<p>2. **Value Factor**</p>
 
-- Low signal ratio
+<ul>
+<li>Low signal ratio</li>
 
-- Underappreciated
+<li>Underappreciated</li>
 
-- Contrarian opportunity
+<li>Contrarian opportunity</li>
 
-3. **Momentum Factor**
+</ul>
+<p>3. **Momentum Factor**</p>
 
-- Positive trajectory
+<ul>
+<li>Positive trajectory</li>
 
-- Accelerating signals
+<li>Accelerating signals</li>
 
-- News flow positive
+<li>News flow positive</li>
 
-4. **Size Factor**
+</ul>
+<p>4. **Size Factor**</p>
 
-- Small ventures
+<ul>
+<li>Small ventures</li>
 
-- High growth potential
+<li>High growth potential</li>
 
-- Early discovery
+<li>Early discovery</li>
 
+</ul>
 </div>
 
 ## Portfolio Tools
 
 ### Tracking Spreadsheet
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Portfolio Tracker Template
-** Essential Columns:
+<h3>📊 Portfolio Tracker Template</h3>
+<p>** Essential Columns:**</p>
 ```
-Date | Venture | Phase | Type | Amount | Status | 
-Current Value | Return | Weight | Notes
+<p>Date | Venture | Phase | Type | Amount | Status |</p>
+<p>Current Value | Return | Weight | Notes</p>
 ```
-** Analytics Dashboard:
-- ** Real-time P&L
-- Allocation charts
-- Risk metrics
-- Performance graphs
-- Correlation matrix
 
+
+
+<p>Analytics Dashboard:**</p>
+<ul>
+<li>**Real-time P&L**</li>
+<li>Allocation charts</li>
+<li>Risk metrics</li>
+<li>Performance graphs</li>
+<li>Correlation matrix</li>
+
+</ul>
 </div>
 
 ### Decision Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ Signal Decision Checklist
-** Before Every Signal:
-- ** [ ] Fits portfolio strategy?
-- [ ] Within position limits?
-- [ ] Diversification maintained?
-- [ ] Risk budget available?
-- [ ] Correlation acceptable?
-- [ ] Time spread appropriate?
-- [ ] Conviction level matched?
-- [ ] Exit plan considered?
+<h3>✅ Signal Decision Checklist</h3>
+<p>** Before Every Signal:**</p>
+<ul>
+<li>**[ ] Fits portfolio strategy?**</li>
+<li>[ ] Within position limits?</li>
+<li>[ ] Diversification maintained?</li>
+<li>[ ] Risk budget available?</li>
+<li>[ ] Correlation acceptable?</li>
+<li>[ ] Time spread appropriate?</li>
+<li>[ ] Conviction level matched?</li>
+<li>[ ] Exit plan considered?</li>
 
+</ul>
 </div>
 
 ## Common Portfolio Mistakes
 
 ### What to Avoid
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Portfolio Pitfalls
-** Construction Errors:
-- ** Over-concentration
-- No diversification
-- All same phase
-- Correlation blindness
-- No strategy
-** Management Errors:
-- ** Never rebalancing
-- Emotional decisions
-- Chasing performance
-- Ignoring risk
-- No tracking
+<h3>❌ Portfolio Pitfalls</h3>
+<p>** Construction Errors:**</p>
+<ul>
+<li>**Over-concentration**</li>
+<li>No diversification</li>
+<li>All same phase</li>
+<li>Correlation blindness</li>
+<li>No strategy</li>
 
+</ul>
+<p>** Management Errors:**</p>
+<ul>
+<li>**Never rebalancing**</li>
+<li>Emotional decisions</li>
+<li>Chasing performance</li>
+<li>Ignoring risk</li>
+<li>No tracking</li>
+
+</ul>
 </div>
 
 ## Portfolio Evolution
 
 ### Scaling Your Portfolio
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Growth Stages
-**Stage 1: Learning (0-6 months)
-- ** 5-10 positions
-- Small sizes
-- High diversification
-- Focus on education
-**Stage 2: Building (6-18 months)
-- ** 15-25 positions
-- Increasing sizes
-- Strategy refinement
-- Track record building
-**Stage 3: Scaling (18+ months)
-- ** 30-50 positions
-- Optimal sizing
-- Multiple strategies
-- Systematic approach
+<h3>📈 Growth Stages</h3>
+<p>**Stage 1: Learning (0-6 months)**</p>
+<ul>
+<li>**5-10 positions**</li>
+<li>Small sizes</li>
+<li>High diversification</li>
+<li>Focus on education</li>
 
+</ul>
+<p>**Stage 2: Building (6-18 months)**</p>
+<ul>
+<li>**15-25 positions**</li>
+<li>Increasing sizes</li>
+<li>Strategy refinement</li>
+<li>Track record building</li>
+
+</ul>
+<p>**Stage 3: Scaling (18+ months)**</p>
+<ul>
+<li>**30-50 positions**</li>
+<li>Optimal sizing</li>
+<li>Multiple strategies</li>
+<li>Systematic approach</li>
+
+</ul>
 </div>
 
 ### Long-term Planning
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Portfolio Goals
-** 1-Year Targets:
-- ** 50%+ total return
-- 70%+ win rate
-- <20% max drawdown
-- 100+ signals made
-** 3-Year Vision:
-- ** Consistent profits
-- Recognized expertise
-- Systematic process
-- Teaching others
-** 5-Year Legacy:
-- ** Top 1% Echo
-- Portfolio manager
-- Strategy innovation
-- Ecosystem leader
+<h3>🎯 Portfolio Goals</h3>
+<p>** 1-Year Targets:**</p>
+<ul>
+<li>**50%+ total return**</li>
+<li>70%+ win rate</li>
+<li><20% max drawdown</li>
+<li>100+ signals made</li>
 
+</ul>
+<p>** 3-Year Vision:**</p>
+<ul>
+<li>**Consistent profits**</li>
+<li>Recognized expertise</li>
+<li>Systematic process</li>
+<li>Teaching others</li>
+
+</ul>
+<p>** 5-Year Legacy:**</p>
+<ul>
+<li>**Top 1% Echo**</li>
+<li>Portfolio manager</li>
+<li>Strategy innovation</li>
+<li>Ecosystem leader</li>
+
+</ul>
 </div>
 
 ## Next Steps

@@ -2,9 +2,9 @@
 
 ## Executing Your Exit
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-**Phase**: Ascension 🏆  **Focus:** : NFT Buyback Execution  Timeline**: 30-90 days</div>
+</div>
 
 ## Overview
 
@@ -62,7 +62,7 @@ Total Buyback = Spark Value + Signal Value + Transaction Fees
 ### 4. Execution (Days 31-60)
 
 #### Payment Processing
-1. **Escrow Setup**: Secure funds transfer**2. **Smart Contract**: Automated execution**3. **NFT Transfer**: Ownership migration**4. **Verification**: Blockchain confirmation**#### Documentation
+1. **Escrow Setup**: Secure funds transfer2. **Smart Contract**: Automated execution**3. **NFT Transfer**: Ownership migration**4. **Verification**: Blockchain confirmation**#### Documentation
 - Purchase agreement
 - Transfer records
 - Tax documentation

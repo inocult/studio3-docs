@@ -12,58 +12,70 @@ This guide provides a comprehensive overview of Studio3, explaining how the plat
 ## 📚 Guide Contents
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 1. Introduction
-- <a href="what-is-studio3.md">What is Studio3?</a>
-- <a href="ecosystem-overview.md">Ecosystem Overview</a>
-- <a href="key-principles.md">Key Principles</a>
+<h3>1. Introduction</h3>
+<ul>
+<li><a href="what-is-studio3.md">What is Studio3?</a></li>
+<li><a href="ecosystem-overview.md">Ecosystem Overview</a></li>
+<li><a href="key-principles.md">Key Principles</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 2. Core Concepts
-- <a href="arena-system.md">The Arena System</a>
-- <a href="belief-signals.md">Belief & Doubt Signals</a>
-- <a href="nft-system.md">Three-NFT System</a>
+<h3>2. Core Concepts</h3>
+<ul>
+<li><a href="arena-system.md">The Arena System</a></li>
+<li><a href="belief-signals.md">Belief & Doubt Signals</a></li>
+<li><a href="nft-system.md">Three-NFT System</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 3. The Journey
-- <a href="seven-phases.md">Seven Phase Lifecycle</a>
-- <a href="milestones.md">Milestone System</a>
-- <a href="progression.md">Progression Rules</a>
+<h3>3. The Journey</h3>
+<ul>
+<li><a href="seven-phases.md">Seven Phase Lifecycle</a></li>
+<li><a href="milestones.md">Milestone System</a></li>
+<li><a href="progression.md">Progression Rules</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 4. Participants
-- <a href="roles-overview.md">Three Roles Overview</a>
-- <a href="interactions.md">How They Interact</a>
-- <a href="incentives.md">Aligned Incentives</a>
+<h3>4. Participants</h3>
+<ul>
+<li><a href="roles-overview.md">Three Roles Overview</a></li>
+<li><a href="interactions.md">How They Interact</a></li>
+<li><a href="incentives.md">Aligned Incentives</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 5. Economics
-- <a href="signal-token.md">$SIGNAL Token</a>
-- <a href="rewards-system.md">Rewards & Penalties</a>
-- <a href="value-flow.md">Value Flow</a>
+<h3>5. Economics</h3>
+<ul>
+<li><a href="signal-token.md">$SIGNAL Token</a></li>
+<li><a href="rewards-system.md">Rewards & Penalties</a></li>
+<li><a href="value-flow.md">Value Flow</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 6. Getting Started
-- <a href="choosing-role.md">Choosing Your Role</a>
-- <a href="first-steps.md">First Steps</a>
-- <a href="resources.md">Resources & Support</a>
+<h3>6. Getting Started</h3>
+<ul>
+<li><a href="choosing-role.md">Choosing Your Role</a></li>
+<li><a href="first-steps.md">First Steps</a></li>
+<li><a href="resources.md">Resources & Support</a></li>
 
+</ul>
 </div>
 </div>
 

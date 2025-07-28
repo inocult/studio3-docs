@@ -2,11 +2,11 @@
 
 ## Leading Through Venture Emergencies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚨 When Stakes Are Highest
+<h3>🚨 When Stakes Are Highest</h3>
 
-Crisis management is where Anchors prove their true value. When ventures face existential threats, your experience, calm leadership, and strategic thinking can mean the difference between failure and recovery. This guide prepares you for the toughest moments.
+<p>Crisis management is where Anchors prove their true value. When ventures face existential threats, your experience, calm leadership, and strategic thinking can mean the difference between failure and recovery. This guide prepares you for the toughest moments.</p>
 
 </div>
 
@@ -14,734 +14,852 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 ### What Constitutes a Crisis?
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Defining True Emergencies
+<h3>⚡ Defining True Emergencies</h3>
 
-**Crisis Characteristics:**
+<p>**Crisis Characteristics:**</p>
 
-- Threatens venture survival
-- Requires immediate action
-- Normal processes insufficient
-- High uncertainty
-- Stakeholder panic potential
+<ul>
+<li>Threatens venture survival</li>
+<li>Requires immediate action</li>
+<li>Normal processes insufficient</li>
+<li>High uncertainty</li>
+<li>Stakeholder panic potential</li>
 
-**Crisis vs Challenge:**
+</ul>
+<p>**Crisis vs Challenge:**</p>
 
-| Challenge | Crisis |
-|-----------|--------|
-| Planned for | Unexpected |
-| Resources available | Resources strained |
-| Time to decide | Immediate action |
-| Limited impact | Existential threat |
-| Internal focus | Public scrutiny |
+<p>| Challenge | Crisis |</p>
+<p>|-----------|--------|</p>
+<p>| Planned for | Unexpected |</p>
+<p>| Resources available | Resources strained |</p>
+<p>| Time to decide | Immediate action |</p>
+<p>| Limited impact | Existential threat |</p>
+<p>| Internal focus | Public scrutiny |</p>
 
-**Crisis Categories:**
+<p>**Crisis Categories:**</p>
 
-1. **Acute** - Sudden, severe
-2. **Chronic** - Slow burning
-3. **Compound** - Multiple issues
-4. **Cascading** - Domino effect</div>
+<p>1. **Acute** - Sudden, severe</p>
+<p>2. **Chronic** - Slow burning</p>
+<p>3. **Compound** - Multiple issues</p>
+</div>
 
 ### Types of Venture Crises
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Common Crisis Scenarios
+<h3>🎯 Common Crisis Scenarios</h3>
 
-**Technical Crises:**
+<p>**Technical Crises:**</p>
 
-- Critical security breach
-- Complete system failure  
-- Data loss/corruption
-- Integration collapse
-- Performance meltdown
+<ul>
+<li>Critical security breach</li>
+<li>Complete system failure</li>
+<li>Data loss/corruption</li>
+<li>Integration collapse</li>
+<li>Performance meltdown</li>
 
-**Financial Crises:**
+</ul>
+<p>**Financial Crises:**</p>
 
-- Runway exhaustion
-- Investor withdrawal
-- Revenue collapse
-- Cost explosion
-- Fraud discovery
+<ul>
+<li>Runway exhaustion</li>
+<li>Investor withdrawal</li>
+<li>Revenue collapse</li>
+<li>Cost explosion</li>
+<li>Fraud discovery</li>
 
-**Team Crises:**
+</ul>
+<p>**Team Crises:**</p>
 
-- Founder conflict/departure
-- Mass resignation
-- Legal action
-- Ethical violations
-- Culture breakdown
+<ul>
+<li>Founder conflict/departure</li>
+<li>Mass resignation</li>
+<li>Legal action</li>
+<li>Ethical violations</li>
+<li>Culture breakdown</li>
 
-**Market Crises:**
+</ul>
+<p>**Market Crises:**</p>
 
-- Regulatory shutdown
-- Competitive decimation
-- Customer exodus
-- PR disaster
-- Platform delisting
+<ul>
+<li>Regulatory shutdown</li>
+<li>Competitive decimation</li>
+<li>Customer exodus</li>
+<li>PR disaster</li>
+<li>Platform delisting</li>
 
-**Operational Crises:**
+</ul>
+<p>**Operational Crises:**</p>
 
-- Supply chain failure
-- Quality catastrophe
-- Partnership collapse
-- Infrastructure loss
-- Process breakdown
+<ul>
+<li>Supply chain failure</li>
+<li>Quality catastrophe</li>
+<li>Partnership collapse</li>
+<li>Infrastructure loss</li>
+<li>Process breakdown</li>
 
+</ul>
 </div>
 
 ## Crisis Response Framework
 
 ### Immediate Response
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏃 First 24 Hours
+<h3>🏃 First 24 Hours</h3>
 
-**Hour 1-2: Assessment**
+<p>**Hour 1-2: Assessment**</p>
 
 ```text
-Crisis Triage:
-□ Identify crisis type/scope
-□ Assess immediate dangers
-□ Determine resources available
-□ Identify key stakeholders
-□ Establish command center
+<p>Crisis Triage:</p>
+<p>□ Identify crisis type/scope</p>
+<p>□ Assess immediate dangers</p>
+<p>□ Determine resources available</p>
+<p>□ Identify key stakeholders</p>
+<p>□ Establish command center</p>
 ```
 
-**Hour 3-6: Stabilization**
+<p>**Hour 3-6: Stabilization**</p>
 
-- Stop the bleeding
-- Prevent escalation
-- Secure critical assets
-- Initial communications
-- Rally core team
+<ul>
+<li>Stop the bleeding</li>
+<li>Prevent escalation</li>
+<li>Secure critical assets</li>
+<li>Initial communications</li>
+<li>Rally core team</li>
 
-**Hour 7-12: Planning**
+</ul>
+<p>**Hour 7-12: Planning**</p>
 
-- Gather full information
-- Develop response options
-- Allocate resources
-- Create action plan
-- Prepare communications
+<ul>
+<li>Gather full information</li>
+<li>Develop response options</li>
+<li>Allocate resources</li>
+<li>Create action plan</li>
+<li>Prepare communications</li>
 
-**Hour 13-24: Execution**
+</ul>
+<p>**Hour 13-24: Execution**</p>
 
-- Implement immediate fixes
-- Communicate broadly
-- Monitor progress
-- Adjust as needed
-- Document everything
+<ul>
+<li>Implement immediate fixes</li>
+<li>Communicate broadly</li>
+<li>Monitor progress</li>
+<li>Adjust as needed</li>
+<li>Document everything</li>
 
+</ul>
 </div>
 
 ### Crisis Command Structure
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎖️ Organizing for Action
+<h3>🎖️ Organizing for Action</h3>
 
-**Crisis Team Roles:**
+<p>**Crisis Team Roles:**</p>
 
-**Crisis Leader (Usually CEO)**
+<p>**Crisis Leader (Usually CEO)**</p>
 
-- Final decisions
-- External face
-- Resource allocation
-- Stakeholder management
+<ul>
+<li>Final decisions</li>
+<li>External face</li>
+<li>Resource allocation</li>
+<li>Stakeholder management</li>
 
-**Operations Lead**
+</ul>
+<p>**Operations Lead**</p>
 
-- Tactical execution
-- Team coordination
-- Progress tracking
-- Internal communication
+<ul>
+<li>Tactical execution</li>
+<li>Team coordination</li>
+<li>Progress tracking</li>
+<li>Internal communication</li>
 
-**Technical Lead** (If applicable)
+</ul>
+<p>**Technical Lead** (If applicable)</p>
 
-- Problem solving
-- Solution implementation
-- Risk assessment
-- Recovery planning
+<ul>
+<li>Problem solving</li>
+<li>Solution implementation</li>
+<li>Risk assessment</li>
+<li>Recovery planning</li>
 
-**Communications Lead**
+</ul>
+<p>**Communications Lead**</p>
 
-- Message development
-- Stakeholder updates
-- Media management
-- Community relations
+<ul>
+<li>Message development</li>
+<li>Stakeholder updates</li>
+<li>Media management</li>
+<li>Community relations</li>
 
-**Anchor Role:**
+</ul>
+<p>**Anchor Role:**</p>
 
-- Strategic advisor
-- Calm presence
-- Experience provider
-- Network activator
+<ul>
+<li>Strategic advisor</li>
+<li>Calm presence</li>
+<li>Experience provider</li>
+<li>Network activator</li>
 
+</ul>
 </div>
 
 ## Financial Crisis Management
 
 ### Runway Crisis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💸 When Money Runs Out
+<h3>💸 When Money Runs Out</h3>
 
-**Immediate Actions:**
+<p>**Immediate Actions:**</p>
 
-**Week 1: Reality Check**
+<p>**Week 1: Reality Check**</p>
 
 ```python
-def assess_financial_crisis():
-    current_burn = calculate_monthly_burn()
-    runway_left = cash_balance / current_burn
-    
-    if runway_left < 3:
-        return "CRITICAL"
-    elif runway_left < 6:
-        return "URGENT"
-    else:
-        return "MANAGEABLE"
+<p>def assess_financial_crisis():</p>
+<p>current_burn = calculate_monthly_burn()</p>
+<p>runway_left = cash_balance / current_burn</p>
+
+<p>if runway_left < 3:</p>
+<p>return "CRITICAL"</p>
+<p>elif runway_left < 6:</p>
+<p>return "URGENT"</p>
+<p>else:</p>
+<p>return "MANAGEABLE"</p>
 ```
 
-**Cost Reduction Options:**
+<p>**Cost Reduction Options:**</p>
 
-1. **Personnel** (50-70% of costs)
-   - Salary cuts/deferrals
-   - Hiring freeze
-   - Layoffs if necessary
-   - Contractor reduction
+<p>1. **Personnel** (50-70% of costs)</p>
+<ul>
+<li>Salary cuts/deferrals</li>
+<li>Hiring freeze</li>
+<li>Layoffs if necessary</li>
+<li>Contractor reduction</li>
 
-2. **Operations** (20-30%)
-   - Office reduction
-   - Tool consolidation
-   - Travel elimination
-   - Marketing pause
+</ul>
+<p>2. **Operations** (20-30%)</p>
+<ul>
+<li>Office reduction</li>
+<li>Tool consolidation</li>
+<li>Travel elimination</li>
+<li>Marketing pause</li>
 
-3. **Strategic** (Variable)
-   - Feature scope reduction
-   - Market focus
-   - Partnership emphasis
-   - Revenue acceleration
+</ul>
+<p>3. **Strategic** (Variable)</p>
+<ul>
+<li>Feature scope reduction</li>
+<li>Market focus</li>
+<li>Partnership emphasis</li>
+<li>Revenue acceleration</li>
 
+</ul>
 </div>
 
 ### Emergency Funding
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Capital in Crisis
+<h3>💰 Capital in Crisis</h3>
 
-**Funding Options Ranked:**
+<p>**Funding Options Ranked:**</p>
 
-**1. Revenue Acceleration**
+<p>**1. Revenue Acceleration**</p>
 
-- Discounts for prepayment
-- Annual plan push
-- New revenue streams
-- Service offerings
+<ul>
+<li>Discounts for prepayment</li>
+<li>Annual plan push</li>
+<li>New revenue streams</li>
+<li>Service offerings</li>
 
-**2. Bridge Financing**
+</ul>
+<p>**2. Bridge Financing**</p>
 
-- Existing investor top-up
-- Convertible notes
-- Revenue-based financing
-- Emergency credit
+<ul>
+<li>Existing investor top-up</li>
+<li>Convertible notes</li>
+<li>Revenue-based financing</li>
+<li>Emergency credit</li>
 
-**3. Asset Strategies**
+</ul>
+<p>**3. Asset Strategies**</p>
 
-- IP licensing
-- Asset sales
-- Talent lending
-- Partnership deals
+<ul>
+<li>IP licensing</li>
+<li>Asset sales</li>
+<li>Talent lending</li>
+<li>Partnership deals</li>
 
-**4. Last Resort**
+</ul>
+<p>**4. Last Resort**</p>
 
-- Acquisition talks
-- Distress investment
-- Personal funds
-- Shutdown planning
+<ul>
+<li>Acquisition talks</li>
+<li>Distress investment</li>
+<li>Personal funds</li>
+<li>Shutdown planning</li>
 
-**Negotiation in Crisis:**
+</ul>
+<p>**Negotiation in Crisis:**</p>
 
-- Be transparent
-- Show recovery plan
-- Offer upside
-- Move quickly
-- Document everything
+<ul>
+<li>Be transparent</li>
+<li>Show recovery plan</li>
+<li>Offer upside</li>
+<li>Move quickly</li>
+<li>Document everything</li>
 
+</ul>
 </div>
 
 ## Technical Crisis Management
 
 ### Security Breach Response
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔒 Data Breach Protocol
+<h3>🔒 Data Breach Protocol</h3>
 
-**Immediate Response:**
+<p>**Immediate Response:**</p>
 
-**Hour 1: Contain**
+<p>**Hour 1: Contain**</p>
 
 ```bash
-# Emergency Protocol
-1. Isolate affected systems
-2. Preserve evidence
-3. Stop active breach
-4. Assess scope
-5. Activate response team
+<h1>Emergency Protocol</h1>
+<p>1. Isolate affected systems</p>
+<p>2. Preserve evidence</p>
+<p>3. Stop active breach</p>
+<p>4. Assess scope</p>
+<p>5. Activate response team</p>
 ```
 
-**Hour 2-6: Assess**
+<p>**Hour 2-6: Assess**</p>
 
-- What was accessed?
-- How many affected?
-- How did it happen?
-- What's at risk?
-- Legal obligations?
+<ul>
+<li>What was accessed?</li>
+<li>How many affected?</li>
+<li>How did it happen?</li>
+<li>What's at risk?</li>
+<li>Legal obligations?</li>
 
-**Hour 7-24: Respond**
+</ul>
+<p>**Hour 7-24: Respond**</p>
 
-- Fix vulnerability
-- Notify authorities
-- Prepare user comms
-- Implement monitoring
-- Begin recovery
+<ul>
+<li>Fix vulnerability</li>
+<li>Notify authorities</li>
+<li>Prepare user comms</li>
+<li>Implement monitoring</li>
+<li>Begin recovery</li>
 
-**Day 2-7: Recover**
+</ul>
+<p>**Day 2-7: Recover**</p>
 
-- Full investigation
-- User notifications
-- Credit monitoring
-- System hardening
-- Process improvement
+<ul>
+<li>Full investigation</li>
+<li>User notifications</li>
+<li>Credit monitoring</li>
+<li>System hardening</li>
+<li>Process improvement</li>
 
+</ul>
 </div>
 
 ### System Failure Recovery
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 Critical Outage Management
+<h3>💻 Critical Outage Management</h3>
 
-**Outage Response Framework:**
+<p>**Outage Response Framework:**</p>
 
-**Severity Levels:**
+<p>**Severity Levels:**</p>
 
-- **SEV1**: Complete outage
-- **SEV2**: Major degradation
-- **SEV3**: Partial impact
-- **SEV4**: Minor issues
+<ul>
+<li>**SEV1**: Complete outage</li>
+<li>**SEV2**: Major degradation</li>
+<li>**SEV3**: Partial impact</li>
+<li>**SEV4**: Minor issues</li>
 
-**Response Protocol:**
+</ul>
+<p>**Response Protocol:**</p>
 
-1. **Declare Incident**
-   - Severity level
-   - Impact scope
-   - Response team
-   - Communication plan
+<p>1. **Declare Incident**</p>
+<ul>
+<li>Severity level</li>
+<li>Impact scope</li>
+<li>Response team</li>
+<li>Communication plan</li>
 
-2. **War Room**
-   - Central command
-   - Clear roles
-   - Status updates
-   - Decision authority
+</ul>
+<p>2. **War Room**</p>
+<ul>
+<li>Central command</li>
+<li>Clear roles</li>
+<li>Status updates</li>
+<li>Decision authority</li>
 
-3. **Recovery Execution**
-   - Root cause focus
-   - Parallel workstreams
-   - Regular updates
-   - Testing protocol
+</ul>
+<p>3. **Recovery Execution**</p>
+<ul>
+<li>Root cause focus</li>
+<li>Parallel workstreams</li>
+<li>Regular updates</li>
+<li>Testing protocol</li>
 
-4. **Post-Mortem**
-   - Blameless culture
-   - Timeline reconstruction
-   - Lessons learned
-   - Prevention plan
+</ul>
+<p>4. **Post-Mortem**</p>
+<ul>
+<li>Blameless culture</li>
+<li>Timeline reconstruction</li>
+<li>Lessons learned</li>
+<li>Prevention plan</li>
 
+</ul>
 </div>
 
 ## Team Crisis Management
 
 ### Founder Conflict Resolution
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 When Leaders Clash
+<h3>👥 When Leaders Clash</h3>
 
-**Conflict Escalation Stages:**
+<p>**Conflict Escalation Stages:**</p>
 
-**Stage 1: Tension**
+<p>**Stage 1: Tension**</p>
 
-- Communication breakdown
-- Avoidance behaviors
-- Team taking sides
-- Productivity impact
+<ul>
+<li>Communication breakdown</li>
+<li>Avoidance behaviors</li>
+<li>Team taking sides</li>
+<li>Productivity impact</li>
 
-**Stage 2: Open Conflict**
+</ul>
+<p>**Stage 2: Open Conflict**</p>
 
-- Public disagreements
-- Power struggles
-- Trust breakdown
-- Team morale crisis
+<ul>
+<li>Public disagreements</li>
+<li>Power struggles</li>
+<li>Trust breakdown</li>
+<li>Team morale crisis</li>
 
-**Stage 3: Crisis Point**
+</ul>
+<p>**Stage 3: Crisis Point**</p>
 
-- Departure threats
-- Legal considerations
-- Investor involvement
-- Company paralysis
+<ul>
+<li>Departure threats</li>
+<li>Legal considerations</li>
+<li>Investor involvement</li>
+<li>Company paralysis</li>
 
-**Intervention Strategy:**
+</ul>
+<p>**Intervention Strategy:**</p>
 
-1. **Immediate Separation**
-   - Cool-down period
-   - Individual sessions
-   - Issue identification
-   - Stakes clarification
+<p>1. **Immediate Separation**</p>
+<ul>
+<li>Cool-down period</li>
+<li>Individual sessions</li>
+<li>Issue identification</li>
+<li>Stakes clarification</li>
 
-2. **Mediated Discussion**
-   - Neutral facilitator
-   - Structured dialogue
-   - Focus on interests
-   - Seek win-win
+</ul>
+<p>2. **Mediated Discussion**</p>
+<ul>
+<li>Neutral facilitator</li>
+<li>Structured dialogue</li>
+<li>Focus on interests</li>
+<li>Seek win-win</li>
 
-3. **Resolution Planning**
-   - Clear agreements
-   - Role clarification
-   - Communication rules
-   - Follow-up schedule
+</ul>
+<p>3. **Resolution Planning**</p>
+<ul>
+<li>Clear agreements</li>
+<li>Role clarification</li>
+<li>Communication rules</li>
+<li>Follow-up schedule</li>
 
+</ul>
 </div>
 
 ### Mass Departure Crisis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚪 Team Exodus Management
+<h3>🚪 Team Exodus Management</h3>
 
-**When Teams Leave:**
+<p>**When Teams Leave:**</p>
 
-**Immediate Response:**
+<p>**Immediate Response:**</p>
 
-- Understand why
-- Identify critical roles
-- Assess knowledge loss
-- Stabilize remainder
-- Communicate quickly
+<ul>
+<li>Understand why</li>
+<li>Identify critical roles</li>
+<li>Assess knowledge loss</li>
+<li>Stabilize remainder</li>
+<li>Communicate quickly</li>
 
-**Retention Emergency:**
+</ul>
+<p>**Retention Emergency:**</p>
 
 ```text
-Retention Toolkit:
-1. One-on-ones with remainder
-2. Address core issues
-3. Short-term incentives
-4. Long-term promises
-5. Culture reset
+<p>Retention Toolkit:</p>
+<p>1. One-on-ones with remainder</p>
+<p>2. Address core issues</p>
+<p>3. Short-term incentives</p>
+<p>4. Long-term promises</p>
+<p>5. Culture reset</p>
 ```
 
-**Recovery Planning:**
+<p>**Recovery Planning:**</p>
 
-- Critical hire priorities
-- Knowledge documentation
-- Process simplification
-- Contractor bridge
-- Cultural rebuild
+<ul>
+<li>Critical hire priorities</li>
+<li>Knowledge documentation</li>
+<li>Process simplification</li>
+<li>Contractor bridge</li>
+<li>Cultural rebuild</li>
 
+</ul>
 </div>
 
 ## Market Crisis Management
 
 ### Regulatory Shutdown
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Legal/Regulatory Crisis
+<h3>⚖️ Legal/Regulatory Crisis</h3>
 
-**Regulatory Response:**
+<p>**Regulatory Response:**</p>
 
-**Day 1: Assess**
+<p>**Day 1: Assess**</p>
 
-- Understand violation
-- Gauge severity
-- Legal counsel
-- Compliance audit
-- Stakeholder impact
+<ul>
+<li>Understand violation</li>
+<li>Gauge severity</li>
+<li>Legal counsel</li>
+<li>Compliance audit</li>
+<li>Stakeholder impact</li>
 
-**Week 1: Respond**
+</ul>
+<p>**Week 1: Respond**</p>
 
-- Regulatory dialogue
-- Compliance plan
-- User communications
-- Operational adjustments
-- Legal strategy
+<ul>
+<li>Regulatory dialogue</li>
+<li>Compliance plan</li>
+<li>User communications</li>
+<li>Operational adjustments</li>
+<li>Legal strategy</li>
 
-**Month 1: Adapt**
+</ul>
+<p>**Month 1: Adapt**</p>
 
-- Business model pivot
-- Compliance implementation
-- Market repositioning
-- Stakeholder management
-- Future prevention
+<ul>
+<li>Business model pivot</li>
+<li>Compliance implementation</li>
+<li>Market repositioning</li>
+<li>Stakeholder management</li>
+<li>Future prevention</li>
 
-**Regulatory Strategy:**
+</ul>
+<p>**Regulatory Strategy:**</p>
 
-- Cooperate fully
-- Show good faith
-- Propose solutions
-- Build relationships
-- Plan for future
+<ul>
+<li>Cooperate fully</li>
+<li>Show good faith</li>
+<li>Propose solutions</li>
+<li>Build relationships</li>
+<li>Plan for future</li>
 
+</ul>
 </div>
 
 ### PR Disaster Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📰 Public Relations Crisis
+<h3>📰 Public Relations Crisis</h3>
 
-**PR Crisis Response:**
+<p>**PR Crisis Response:**</p>
 
-**Hour 1-4: Control Narrative**
+<p>**Hour 1-4: Control Narrative**</p>
 
 ```text
-Communication Priority:
-1. Internal team first
-2. Direct stakeholders
-3. Broader community
-4. Media (if needed)
-5. General public
+<p>Communication Priority:</p>
+<p>1. Internal team first</p>
+<p>2. Direct stakeholders</p>
+<p>3. Broader community</p>
+<p>4. Media (if needed)</p>
+<p>5. General public</p>
 ```
 
-**Message Framework:**
+<p>**Message Framework:**</p>
 
-- Acknowledge issue
-- Take responsibility
-- Show empathy
-- Outline actions
-- Commit to updates
+<ul>
+<li>Acknowledge issue</li>
+<li>Take responsibility</li>
+<li>Show empathy</li>
+<li>Outline actions</li>
+<li>Commit to updates</li>
 
-**Channel Strategy:**
+</ul>
+<p>**Channel Strategy:**</p>
 
-- Official statement
-- Social media
-- Direct emails
-- Community forums
-- Media interviews
+<ul>
+<li>Official statement</li>
+<li>Social media</li>
+<li>Direct emails</li>
+<li>Community forums</li>
+<li>Media interviews</li>
 
-**Recovery Path:**
+</ul>
+<p>**Recovery Path:**</p>
 
-- Consistent messaging
-- Action over words
-- Transparency commitment
-- Rebuild trust
-- Long-term proof
+<ul>
+<li>Consistent messaging</li>
+<li>Action over words</li>
+<li>Transparency commitment</li>
+<li>Rebuild trust</li>
+<li>Long-term proof</li>
 
+</ul>
 </div>
 
 ## Communication in Crisis
 
 ### Stakeholder Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📢 Crisis Communications
+<h3>📢 Crisis Communications</h3>
 
-**Stakeholder Priority Matrix:**
+<p>**Stakeholder Priority Matrix:**</p>
 
-| Stakeholder | Priority | Key Messages | Channel |
-|------------|----------|--------------|---------|
-| Team | Immediate | Full truth, support | All-hands |
-| Investors | Very High | Recovery plan | Direct call |
-| Customers | High | Service continuity | Email/App |
-| Community | High | Transparency | Forum/Discord |
-| Media | Managed | Controlled message | PR/Official |
+<p>| Stakeholder | Priority | Key Messages | Channel |</p>
+<p>|------------|----------|--------------|---------|</p>
+<p>| Team | Immediate | Full truth, support | All-hands |</p>
+<p>| Investors | Very High | Recovery plan | Direct call |</p>
+<p>| Customers | High | Service continuity | Email/App |</p>
+<p>| Community | High | Transparency | Forum/Discord |</p>
+<p>| Media | Managed | Controlled message | PR/Official |</p>
 
-**Message Principles:**
+<p>**Message Principles:**</p>
 
-- Truth (within legal bounds)
-- Speed over perfection
-- Consistency across channels
-- Empathy first
-- Action orientation
+<ul>
+<li>Truth (within legal bounds)</li>
+<li>Speed over perfection</li>
+<li>Consistency across channels</li>
+<li>Empathy first</li>
+<li>Action orientation</li>
 
+</ul>
 </div>
 
 ### Internal Communications
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Keeping Team Aligned
+<h3>👥 Keeping Team Aligned</h3>
 
-**Team Communication Framework:**
+<p>**Team Communication Framework:**</p>
 
-**Daily Standups**
+<p>**Daily Standups**</p>
 
-- Situation update
-- Progress report
-- Blockers identified
-- Morale check
-- Next 24 hours
+<ul>
+<li>Situation update</li>
+<li>Progress report</li>
+<li>Blockers identified</li>
+<li>Morale check</li>
+<li>Next 24 hours</li>
 
-**Information Flow:**
+</ul>
+<p>**Information Flow:**</p>
 
 ```text
-Leadership Team
-    ↓
-Department Heads
-    ↓
-Team Members
-    ↓
-Feedback Loop ↑
+<p>Leadership Team</p>
+<p>↓</p>
+<p>Department Heads</p>
+<p>↓</p>
+<p>Team Members</p>
+<p>↓</p>
+<p>Feedback Loop ↑</p>
 ```
 
-**Morale Management:**
+<p>**Morale Management:**</p>
 
-- Acknowledge difficulty
-- Celebrate small wins
-- Maintain normalcy where possible
-- Provide support resources
-- Show path forward
+<ul>
+<li>Acknowledge difficulty</li>
+<li>Celebrate small wins</li>
+<li>Maintain normalcy where possible</li>
+<li>Provide support resources</li>
+<li>Show path forward</li>
 
+</ul>
 </div>
 
 ## Recovery Planning
 
 ### Post-Crisis Stabilization
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Building Back Better
+<h3>🔄 Building Back Better</h3>
 
-**Recovery Phases:**
+<p>**Recovery Phases:**</p>
 
-**Phase 1: Stabilization (Week 1-2)**
+<p>**Phase 1: Stabilization (Week 1-2)**</p>
 
-- Crisis contained
-- Bleeding stopped
-- Team stabilized
-- Communications managed
-- Planning begun
+<ul>
+<li>Crisis contained</li>
+<li>Bleeding stopped</li>
+<li>Team stabilized</li>
+<li>Communications managed</li>
+<li>Planning begun</li>
 
-**Phase 2: Recovery (Week 3-8)**
+</ul>
+<p>**Phase 2: Recovery (Week 3-8)**</p>
 
-- Solutions implemented
-- Trust rebuilding
-- Operations normalizing
-- Metrics improving
-- Lessons documented
+<ul>
+<li>Solutions implemented</li>
+<li>Trust rebuilding</li>
+<li>Operations normalizing</li>
+<li>Metrics improving</li>
+<li>Lessons documented</li>
 
-**Phase 3: Growth (Week 9+)**
+</ul>
+<p>**Phase 3: Growth (Week 9+)**</p>
 
-- Stronger foundation
-- New processes
-- Better prepared
-- Team unified
-- Story of resilience
+<ul>
+<li>Stronger foundation</li>
+<li>New processes</li>
+<li>Better prepared</li>
+<li>Team unified</li>
+<li>Story of resilience</li>
 
+</ul>
 </div>
 
 ### Learning from Crisis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Post-Mortem Excellence
+<h3>📚 Post-Mortem Excellence</h3>
 
-**Post-Crisis Analysis:**
+<p>**Post-Crisis Analysis:**</p>
 
-**Blameless Review:**
+<p>**Blameless Review:**</p>
 
-1. Timeline reconstruction
-2. Decision analysis
-3. What went well
-4. What went poorly
-5. Improvement areas
+<p>1. Timeline reconstruction</p>
+<p>2. Decision analysis</p>
+<p>3. What went well</p>
+<p>4. What went poorly</p>
+<p>5. Improvement areas</p>
 
-**Process Improvements:**
+<p>**Process Improvements:**</p>
 
-- Early warning systems
-- Response protocols
-- Communication plans
-- Training needs
-- Tool requirements
+<ul>
+<li>Early warning systems</li>
+<li>Response protocols</li>
+<li>Communication plans</li>
+<li>Training needs</li>
+<li>Tool requirements</li>
 
-**Cultural Changes:**
+</ul>
+<p>**Cultural Changes:**</p>
 
-- Risk awareness
-- Transparency increase
-- Trust building
-- Resilience mindset
-- Team bonding
+<ul>
+<li>Risk awareness</li>
+<li>Transparency increase</li>
+<li>Trust building</li>
+<li>Resilience mindset</li>
+<li>Team bonding</li>
 
+</ul>
 </div>
 
 ## Anchor's Crisis Toolkit
 
 ### Essential Resources
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Crisis Management Tools
+<h3>🛠️ Crisis Management Tools</h3>
 
-**Contact Lists:**
+<p>**Contact Lists:**</p>
 
-- Emergency services
-- Legal counsel
-- PR specialists
-- Technical experts
-- Financial advisors
+<ul>
+<li>Emergency services</li>
+<li>Legal counsel</li>
+<li>PR specialists</li>
+<li>Technical experts</li>
+<li>Financial advisors</li>
 
-**Template Library:**
+</ul>
+<p>**Template Library:**</p>
 
-- Crisis communication templates
-- Stakeholder updates
-- Legal notices
-- PR statements
-- Recovery plans
+<ul>
+<li>Crisis communication templates</li>
+<li>Stakeholder updates</li>
+<li>Legal notices</li>
+<li>PR statements</li>
+<li>Recovery plans</li>
 
-**Decision Frameworks:**
+</ul>
+<p>**Decision Frameworks:**</p>
 
-- Severity assessment
-- Resource allocation
-- Communication priority
-- Recovery planning
-- Learning capture
+<ul>
+<li>Severity assessment</li>
+<li>Resource allocation</li>
+<li>Communication priority</li>
+<li>Recovery planning</li>
+<li>Learning capture</li>
 
+</ul>
 </div>
 
 ### Mental Models
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Crisis Thinking Tools
+<h3>🧠 Crisis Thinking Tools</h3>
 
-**Useful Frameworks:**
+<p>**Useful Frameworks:**</p>
 
-**OODA Loop** (Observe, Orient, Decide, Act)
+<p>**OODA Loop** (Observe, Orient, Decide, Act)</p>
 
-- Rapid decision cycling
-- Continuous adjustment
-- Speed advantage
-- Clear action
+<ul>
+<li>Rapid decision cycling</li>
+<li>Continuous adjustment</li>
+<li>Speed advantage</li>
+<li>Clear action</li>
 
-**Swiss Cheese Model**
+</ul>
+<p>**Swiss Cheese Model**</p>
 
-- Multiple failures align
-- Defense in depth
-- System thinking
-- Prevention focus
+<ul>
+<li>Multiple failures align</li>
+<li>Defense in depth</li>
+<li>System thinking</li>
+<li>Prevention focus</li>
 
-**Black Swan Preparation**
+</ul>
+<p>**Black Swan Preparation**</p>
 
-- Expect unexpected
-- Build resilience
-- Create options
-- Stay adaptable
+<ul>
+<li>Expect unexpected</li>
+<li>Build resilience</li>
+<li>Create options</li>
+<li>Stay adaptable</li>
 
+</ul>
 </div>
 
 ## Next Steps

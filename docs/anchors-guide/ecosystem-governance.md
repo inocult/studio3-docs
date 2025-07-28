@@ -2,11 +2,11 @@
 
 ## Shaping the Future of Studio3
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏛️ The Anchor's Role in Governance
+<h3>🏛️ The Anchor's Role in Governance</h3>
 
-As an experienced Anchor, you have the opportunity and responsibility to help govern the Studio3 ecosystem. This guide explores how Anchors participate in platform governance, influence policy, and help shape the future of decentralized venture building.
+<p>As an experienced Anchor, you have the opportunity and responsibility to help govern the Studio3 ecosystem. This guide explores how Anchors participate in platform governance, influence policy, and help shape the future of decentralized venture building.</p>
 
 </div>
 
@@ -14,93 +14,121 @@ As an experienced Anchor, you have the opportunity and responsibility to help go
 
 ### Governance Philosophy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 Principles of Ecosystem Governance
+<h3>🌟 Principles of Ecosystem Governance</h3>
 
-**Core Governance Principles:**
+<p>**Core Governance Principles:**</p>
 
-1. **Decentralization**
-   - Distributed decision-making
+<p>1. **Decentralization**</p>
+<ul>
+<li>Distributed decision-making</li>
 
-- No single point of control
+<li>No single point of control</li>
 
-- Community ownership
+<li>Community ownership</li>
 
-- Transparent processes
+<li>Transparent processes</li>
 
-- Inclusive participation
+<li>Inclusive participation</li>
 
-2. **Meritocracy**
+</ul>
+<p>2. **Meritocracy**</p>
 
-- Expertise valued
+<ul>
+<li>Expertise valued</li>
 
-- Contribution recognized
+<li>Contribution recognized</li>
 
-- Experience weighted
+<li>Experience weighted</li>
 
-- Performance matters
+<li>Performance matters</li>
 
-- Growth enabled
+<li>Growth enabled</li>
 
-3. **Sustainability**
-   - Long-term thinking
+</ul>
+<p>3. **Sustainability**</p>
+<ul>
+<li>Long-term thinking</li>
 
-- Ecosystem health
+<li>Ecosystem health</li>
 
-- Balanced interests
+<li>Balanced interests</li>
 
-- Future readiness
+<li>Future readiness</li>
 
-- Continuous evolution
+<li>Continuous evolution</li>
 
-4. **Fairness**
+</ul>
+<p>4. **Fairness**</p>
 
-- Equal opportunity
+<ul>
+<li>Equal opportunity</li>
 
-- Transparent rules
+<li>Transparent rules</li>
 
-- Consistent application
+<li>Consistent application</li>
 
-- Appeal mechanisms
+<li>Appeal mechanisms</li>
 
-- Justice served
+<li>Justice served</li>
 
+</ul>
 </div>
 
 ### Governance Structure
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ How Studio3 Governs Itself
-**Governance Layers:**
+<h3>🏗️ How Studio3 Governs Itself</h3>
+<p>**Governance Layers:**</p>
 ```
-Platform Team
-    ↓
-Governance Council
-    ↓
-Anchor Council ←→ Echo Assembly ←→ Sender Forum
-    ↓
-Community Proposals
-    ↓
-Token Holder Votes
+<p>Platform Team</p>
+<p>↓</p>
+<p>Governance Council</p>
+<p>↓</p>
+<p>Anchor Council ←→ Echo Assembly ←→ Sender Forum</p>
+<p>↓</p>
+<p>Community Proposals</p>
+<p>↓</p>
+<p>Token Holder Votes</p>
 ```
 
-**Decision Types:**
+<p>**Decision Types:**</p>
 
-1. **Operational** - Day-to-day platform
-2. **Policy** - Rules and standards
-3. **Economic** - Token and incentives
-4. **Strategic** - Long-term direction
-5. **Emergency** - Crisis response
+<p>1. **Operational** - Day-to-day platform</p>
+<p>2. **Policy** - Rules and standards</p>
+<p>3. **Economic** - Token and incentives</p>
+<p>4. **Strategic** - Long-term direction</p>
+<p>5. **Emergency** - Crisis response</p>
 
-**Governance Bodies:**
+<p>**Governance Bodies:**</p>
 
-- **Platform Team:** Technical implementation
-- **Governance Council:** Policy and standards
-- **Anchor Council:** Anchor representation
-- **Community Forums:** Open discussion
-- **Token Holders:** Voting rights
+<ul>
+<li>**Platform Team:**</li>
+
+</ul>
+<p>**Technical implementation**</p>
+<ul>
+<li>**Governance Council:**</li>
+
+</ul>
+<p>**Policy and standards**</p>
+<ul>
+<li>**Anchor Council:**</li>
+
+</ul>
+<p>**Anchor representation**</p>
+<ul>
+<li>**Community Forums:**</li>
+
+</ul>
+<p>**Open discussion**</p>
+<ul>
+<li>**Token Holders:**</li>
+
+</ul>
+<p>**Voting rights**</p>
 
 </div>
 
@@ -108,625 +136,737 @@ Token Holder Votes
 
 ### Council Purpose and Structure
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 The Anchor Governance Body
-**Council Composition:**
+<h3>👥 The Anchor Governance Body</h3>
+<p>**Council Composition:**</p>
 
-- 9-15 Senior/Master Anchors
-- Elected by Anchor community
-- 1-year terms (staggered)
-- Maximum 2 consecutive terms
-- Diverse representation required
+<ul>
+<li>9-15 Senior/Master Anchors</li>
+<li>Elected by Anchor community</li>
+<li>1-year terms (staggered)</li>
+<li>Maximum 2 consecutive terms</li>
+<li>Diverse representation required</li>
 
-**Council Responsibilities:**
+</ul>
+<p>**Council Responsibilities:**</p>
 
-1. **Standards Setting**
+<p>1. **Standards Setting**</p>
 
-- Quality criteria updates
+<ul>
+<li>Quality criteria updates</li>
 
-- Validation frameworks
+<li>Validation frameworks</li>
 
-- Best practice documentation
+<li>Best practice documentation</li>
 
-- Training requirements
+<li>Training requirements</li>
 
-2. **Dispute Resolution**
+</ul>
+<p>2. **Dispute Resolution**</p>
 
-- Final appeals body
+<ul>
+<li>Final appeals body</li>
 
-- Precedent setting
+<li>Precedent setting</li>
 
-- Policy interpretation
+<li>Policy interpretation</li>
 
-- Conflict mediation
+<li>Conflict mediation</li>
 
-3. **Anchor Development**
+</ul>
+<p>3. **Anchor Development**</p>
 
-- Progression criteria
+<ul>
+<li>Progression criteria</li>
 
-- Training programs
+<li>Training programs</li>
 
-- Mentorship structure
+<li>Mentorship structure</li>
 
-- Performance standards
+<li>Performance standards</li>
 
-4. **Ecosystem Input**
+</ul>
+<p>4. **Ecosystem Input**</p>
 
-- Policy recommendations
+<ul>
+<li>Policy recommendations</li>
 
-- Economic parameters
+<li>Economic parameters</li>
 
-- Platform improvements
+<li>Platform improvements</li>
 
-- Strategic direction
+<li>Strategic direction</li>
 
+</ul>
 </div>
 
 ### Council Operations
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚙️ How the Council Works
-**Meeting Structure:**
+<h3>⚙️ How the Council Works</h3>
+<p>**Meeting Structure:**</p>
 ```
-Weekly Operations Meeting (2 hours)
-- Current issues review
-- Dispute resolutions
-- Standard adjustments
-- Quick decisions
+<p>Weekly Operations Meeting (2 hours)</p>
+<ul>
+<li>Current issues review</li>
+<li>Dispute resolutions</li>
+<li>Standard adjustments</li>
+<li>Quick decisions</li>
 
-Monthly Strategy Meeting (4 hours)
-- Policy development
-- Long-term planning
-- Ecosystem health
-- Major proposals
+</ul>
+<p>Monthly Strategy Meeting (4 hours)</p>
+<ul>
+<li>Policy development</li>
+<li>Long-term planning</li>
+<li>Ecosystem health</li>
+<li>Major proposals</li>
 
-Quarterly Community Meeting (2 hours)
-- Open forum
-- Feedback session
-- Transparency report
-- Q&A
+</ul>
+<p>Quarterly Community Meeting (2 hours)</p>
+<ul>
+<li>Open forum</li>
+<li>Feedback session</li>
+<li>Transparency report</li>
+<li>Q&A</li>
 ```
 
-**Decision Making:**
+</ul>
+<p>**Decision Making:**</p>
 
-- Quorum: 60% attendance
-- Simple majority: Operational
-- Super majority (67%): Policy
-- Unanimous: Emergency only
-- Abstention: Conflict of interest
+<ul>
+<li>Quorum: 60% attendance</li>
+<li>Simple majority: Operational</li>
+<li>Super majority (67%): Policy</li>
+<li>Unanimous: Emergency only</li>
+<li>Abstention: Conflict of interest</li>
 
-**Transparency Requirements:**
+</ul>
+<p>**Transparency Requirements:**</p>
 
-- Meeting minutes public
-- Decisions documented
-- Rationale explained
-- Dissent recorded
-- Implementation tracked
+<ul>
+<li>Meeting minutes public</li>
+<li>Decisions documented</li>
+<li>Rationale explained</li>
+<li>Dissent recorded</li>
+<li>Implementation tracked</li>
 
+</ul>
 </div>
 
 ## Policy Development
 
 ### Creating Ecosystem Policies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📜 Policy Framework
-**Policy Lifecycle:**
+<h3>📜 Policy Framework</h3>
+<p>**Policy Lifecycle:**</p>
 
-1. **Identification**
+<p>1. **Identification**</p>
 
-- Issue recognition
+<ul>
+<li>Issue recognition</li>
 
-- Community input
+<li>Community input</li>
 
-- Data analysis
+<li>Data analysis</li>
 
-- Problem definition
+<li>Problem definition</li>
 
-2. **Development**
+</ul>
+<p>2. **Development**</p>
    ```
-   Policy Development Process:
-   ├── Research Phase
-   │   ├── Best practices
-   │   ├── Stakeholder input
-   │   └── Impact analysis
-   ├── Drafting Phase
-   │   ├── Initial proposal
-   │   ├── Legal review
-   │   └── Technical feasibility
-   └── Refinement Phase
-       ├── Community feedback
-       ├── Pilot testing
-       └── Final adjustments
+<p>Policy Development Process:</p>
+<p>├── Research Phase</p>
+<p>│   ├── Best practices</p>
+<p>│   ├── Stakeholder input</p>
+<p>│   └── Impact analysis</p>
+<p>├── Drafting Phase</p>
+<p>│   ├── Initial proposal</p>
+<p>│   ├── Legal review</p>
+<p>│   └── Technical feasibility</p>
+<p>└── Refinement Phase</p>
+<p>├── Community feedback</p>
+<p>├── Pilot testing</p>
+<p>└── Final adjustments</p>
    ```
 
-3. **Approval**
+<p>3. **Approval**</p>
 
-- Council review
+<ul>
+<li>Council review</li>
 
-- Community comment
+<li>Community comment</li>
 
-- Governance vote
+<li>Governance vote</li>
 
-- Implementation plan
+<li>Implementation plan</li>
 
-4. **Implementation**
+</ul>
+<p>4. **Implementation**</p>
 
-- Rollout strategy
+<ul>
+<li>Rollout strategy</li>
 
-- Training needed
+<li>Training needed</li>
 
-- Tool updates
+<li>Tool updates</li>
 
-- Communication
+<li>Communication</li>
 
-5. **Evaluation**
+</ul>
+<p>5. **Evaluation**</p>
 
-- Effectiveness metrics
+<ul>
+<li>Effectiveness metrics</li>
 
-- Unintended consequences
+<li>Unintended consequences</li>
 
-- Adjustment needs
+<li>Adjustment needs</li>
 
-- Success measurement
+<li>Success measurement</li>
 
+</ul>
 </div>
 
 ### Standards Evolution
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Maintaining Quality Standards
-**Standards Review Process:**
+<h3>📊 Maintaining Quality Standards</h3>
+<p>**Standards Review Process:**</p>
 
-**Quarterly Reviews:**
+<p>**Quarterly Reviews:**</p>
 
-- Current standards assessment
-- Edge case analysis
-- Consistency checking
-- Innovation incorporation
-- Simplification opportunities
+<ul>
+<li>Current standards assessment</li>
+<li>Edge case analysis</li>
+<li>Consistency checking</li>
+<li>Innovation incorporation</li>
+<li>Simplification opportunities</li>
 
-**Standard Categories:**
+</ul>
+<p>**Standard Categories:**</p>
 
-1. **Technical Standards**
+<p>1. **Technical Standards**</p>
 
-- Code quality metrics
+<ul>
+<li>Code quality metrics</li>
 
-- Architecture patterns
+<li>Architecture patterns</li>
 
-- Security requirements
+<li>Security requirements</li>
 
-- Performance benchmarks
+<li>Performance benchmarks</li>
 
-2. **Business Standards**
+</ul>
+<p>2. **Business Standards**</p>
 
-- Market validation
+<ul>
+<li>Market validation</li>
 
-- Financial health
+<li>Financial health</li>
 
-- Customer satisfaction
+<li>Customer satisfaction</li>
 
-- Growth metrics
+<li>Growth metrics</li>
 
-3. **Process Standards**
+</ul>
+<p>3. **Process Standards**</p>
 
-- Communication requirements
+<ul>
+<li>Communication requirements</li>
 
-- Documentation needs
+<li>Documentation needs</li>
 
-- Timeline expectations
+<li>Timeline expectations</li>
 
-- Team effectiveness
+<li>Team effectiveness</li>
 
-**Evolution Principles:**
+</ul>
+<p>**Evolution Principles:**</p>
 
-- Raise bar gradually
-- Phase-appropriate
-- Innovation-friendly
-- Clearly communicated
-- Fairly applied
+<ul>
+<li>Raise bar gradually</li>
+<li>Phase-appropriate</li>
+<li>Innovation-friendly</li>
+<li>Clearly communicated</li>
+<li>Fairly applied</li>
 
+</ul>
 </div>
 
 ## Economic Governance
 
 ### Token Economics Influence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Economic Parameter Setting
-**Anchor Input Areas:**
+<h3>💰 Economic Parameter Setting</h3>
+<p>**Anchor Input Areas:**</p>
 
-**Validation Rewards:**
+<p>**Validation Rewards:**</p>
 ```python
-reward_parameters = {
-    "base_rate": "2-5% of milestone value",
-    "quality_bonus": "up to 2x multiplier",
-    "complexity_adjustment": "1.5x for technical",
-    "phase_modifier": {
-        "early": 1.3,
-        "growth": 1.0,
-        "scale": 0.8
-    }
-}
+<p>reward_parameters = {</p>
+<p>"base_rate": "2-5% of milestone value",</p>
+<p>"quality_bonus": "up to 2x multiplier",</p>
+<p>"complexity_adjustment": "1.5x for technical",</p>
+<p>"phase_modifier": {</p>
+<p>"early": 1.3,</p>
+<p>"growth": 1.0,</p>
+<p>"scale": 0.8</p>
+<p>}</p>
+<p>}</p>
 ```
 
-**Signal Mechanics:**
+<p>**Signal Mechanics:**</p>
 
-- Multiplier ranges
-- Burn mechanisms
-- Stake requirements
-- Lock periods
-- Reward distribution
+<ul>
+<li>Multiplier ranges</li>
+<li>Burn mechanisms</li>
+<li>Stake requirements</li>
+<li>Lock periods</li>
+<li>Reward distribution</li>
 
-**Economic Health Metrics:**
+</ul>
+<p>**Economic Health Metrics:**</p>
 
-- Token velocity
-- Stake participation
-- Reward sustainability
-- Inflation/deflation
-- Value accrual
+<ul>
+<li>Token velocity</li>
+<li>Stake participation</li>
+<li>Reward sustainability</li>
+<li>Inflation/deflation</li>
+<li>Value accrual</li>
 
+</ul>
 </div>
 
 ### Incentive Alignment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Balancing Ecosystem Incentives
-**Stakeholder Balance:**
+<h3>🎯 Balancing Ecosystem Incentives</h3>
+<p>**Stakeholder Balance:**</p>
 
-| Stakeholder | Primary Incentive | Governance Weight |
-|------------|------------------|-------------------|
-| Founders | Success/Growth | 25% |
-| Echoes | Returns/Accuracy | 35% |
-| Anchors | Quality/Rewards | 25% |
-| Platform | Sustainability | 15% |
+<p>| Stakeholder | Primary Incentive | Governance Weight |</p>
+<p>|------------|------------------|-------------------|</p>
+<p>| Founders | Success/Growth | 25% |</p>
+<p>| Echoes | Returns/Accuracy | 35% |</p>
+<p>| Anchors | Quality/Rewards | 25% |</p>
+<p>| Platform | Sustainability | 15% |</p>
 
-**Incentive Design Principles:**
+<p>**Incentive Design Principles:**</p>
 
-- Long-term alignment
-- Quality over quantity
-- Sustainable growth
-- Fair distribution
-- Positive-sum outcomes
+<ul>
+<li>Long-term alignment</li>
+<li>Quality over quantity</li>
+<li>Sustainable growth</li>
+<li>Fair distribution</li>
+<li>Positive-sum outcomes</li>
 
-**Adjustment Mechanisms:**
+</ul>
+<p>**Adjustment Mechanisms:**</p>
 
-- Regular review cycles
-- Data-driven decisions
-- Community input
-- Gradual changes
-- Impact monitoring
+<ul>
+<li>Regular review cycles</li>
+<li>Data-driven decisions</li>
+<li>Community input</li>
+<li>Gradual changes</li>
+<li>Impact monitoring</li>
 
+</ul>
 </div>
 
 ## Strategic Governance
 
 ### Platform Direction
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧭 Shaping Studio3's Future
-**Strategic Areas:**
+<h3>🧭 Shaping Studio3's Future</h3>
+<p>**Strategic Areas:**</p>
 
-**Technology Roadmap:**
+<p>**Technology Roadmap:**</p>
 
-- Feature priorities
-- Technical architecture
-- Integration strategy
-- Innovation adoption
-- Platform capabilities
+<ul>
+<li>Feature priorities</li>
+<li>Technical architecture</li>
+<li>Integration strategy</li>
+<li>Innovation adoption</li>
+<li>Platform capabilities</li>
 
-**Market Expansion:**
+</ul>
+<p>**Market Expansion:**</p>
 
-- Geographic growth
-- Vertical focus
-- Partnership strategy
-- Ecosystem alliances
-- Network effects
+<ul>
+<li>Geographic growth</li>
+<li>Vertical focus</li>
+<li>Partnership strategy</li>
+<li>Ecosystem alliances</li>
+<li>Network effects</li>
 
-**Community Growth:**
+</ul>
+<p>**Community Growth:**</p>
 
-- Onboarding improvement
-- Education programs
-- Culture development
-- Diversity initiatives
-- Global reach
+<ul>
+<li>Onboarding improvement</li>
+<li>Education programs</li>
+<li>Culture development</li>
+<li>Diversity initiatives</li>
+<li>Global reach</li>
 
-**Governance Evolution:**
+</ul>
+<p>**Governance Evolution:**</p>
 
-- Decentralization path
-- Automation opportunities
-- Transparency enhancement
-- Participation increase
-- Power distribution
+<ul>
+<li>Decentralization path</li>
+<li>Automation opportunities</li>
+<li>Transparency enhancement</li>
+<li>Participation increase</li>
+<li>Power distribution</li>
 
+</ul>
 </div>
 
 ### Innovation Governance
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💡 Fostering Ecosystem Innovation
-**Innovation Framework:**
+<h3>💡 Fostering Ecosystem Innovation</h3>
+<p>**Innovation Framework:**</p>
 
-**Experimentation Zones:**
+<p>**Experimentation Zones:**</p>
 
-- Pilot programs
-- Sandbox environments
-- Limited risk exposure
-- Learning focus
-- Rapid iteration
+<ul>
+<li>Pilot programs</li>
+<li>Sandbox environments</li>
+<li>Limited risk exposure</li>
+<li>Learning focus</li>
+<li>Rapid iteration</li>
 
-**Innovation Funding:**
+</ul>
+<p>**Innovation Funding:**</p>
 ```
-Innovation Budget Allocation:
-- Anchor tools: 30%
-- Process improvements: 25%
-- Community experiments: 20%
-- Technical infrastructure: 15%
-- Research/education: 10%
+<p>Innovation Budget Allocation:</p>
+<ul>
+<li>Anchor tools: 30%</li>
+<li>Process improvements: 25%</li>
+<li>Community experiments: 20%</li>
+<li>Technical infrastructure: 15%</li>
+<li>Research/education: 10%</li>
 ```
 
-**Success Metrics:**
+</ul>
+<p>**Success Metrics:**</p>
 
-- Adoption rates
-- Efficiency gains
-- Quality improvements
-- User satisfaction
-- Ecosystem value
+<ul>
+<li>Adoption rates</li>
+<li>Efficiency gains</li>
+<li>Quality improvements</li>
+<li>User satisfaction</li>
+<li>Ecosystem value</li>
 
+</ul>
 </div>
 
 ## Governance Participation
 
 ### Individual Anchor Role
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🙋 Your Governance Participation
-**Participation Opportunities:**
+<h3>🙋 Your Governance Participation</h3>
+<p>**Participation Opportunities:**</p>
 
-1. **Proposal Creation**
-   - Identify issues
-   - Research solutions
-   - Draft proposals
-   - Build support
-   - Champion implementation
+<p>1. **Proposal Creation**</p>
+<ul>
+<li>Identify issues</li>
+<li>Research solutions</li>
+<li>Draft proposals</li>
+<li>Build support</li>
+<li>Champion implementation</li>
 
-2. **Feedback Provision**
-   - Comment periods
-   - Survey participation
-   - Focus groups
-   - Pilot testing
-   - Data contribution
+</ul>
+<p>2. **Feedback Provision**</p>
+<ul>
+<li>Comment periods</li>
+<li>Survey participation</li>
+<li>Focus groups</li>
+<li>Pilot testing</li>
+<li>Data contribution</li>
 
-3. **Voting Rights**
-   - Policy votes
-   - Council elections
-   - Standard changes
-   - Strategic decisions
-   - Emergency measures
+</ul>
+<p>3. **Voting Rights**</p>
+<ul>
+<li>Policy votes</li>
+<li>Council elections</li>
+<li>Standard changes</li>
+<li>Strategic decisions</li>
+<li>Emergency measures</li>
 
-4. **Committee Service**
-   - Working groups
-   - Task forces
-- Review committees
-- Advisory boards
-- Special projects
+</ul>
+<p>4. **Committee Service**</p>
+<ul>
+<li>Working groups</li>
+<li>Task forces</li>
+<li>Review committees</li>
+<li>Advisory boards</li>
+<li>Special projects</li>
 
+</ul>
 </div>
 
 ### Building Influence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Growing Governance Impact
-**Influence Building Path:**
+<h3>📈 Growing Governance Impact</h3>
+<p>**Influence Building Path:**</p>
 
-**Year 1: Learn and Observe**
-- Attend meetings
-- Read proposals
-- Understand process
-- Build relationships
-- Small contributions
+<p>**Year 1: Learn and Observe**</p>
+<ul>
+<li>Attend meetings</li>
+<li>Read proposals</li>
+<li>Understand process</li>
+<li>Build relationships</li>
+<li>Small contributions</li>
 
-**Year 2: Active Participation**
-- Submit proposals
-- Join committees
-- Lead initiatives
-- Mentor others
-- Build reputation
+</ul>
+<p>**Year 2: Active Participation**</p>
+<ul>
+<li>Submit proposals</li>
+<li>Join committees</li>
+<li>Lead initiatives</li>
+<li>Mentor others</li>
+<li>Build reputation</li>
 
-**Year 3+: Leadership**
-- Council candidacy
-- Major proposals
-- Strategic influence
-- Ecosystem shaping
-- Legacy building
+</ul>
+<p>**Year 3+: Leadership**</p>
+<ul>
+<li>Council candidacy</li>
+<li>Major proposals</li>
+<li>Strategic influence</li>
+<li>Ecosystem shaping</li>
+<li>Legacy building</li>
 
-**Influence Multipliers:**
+</ul>
+<p>**Influence Multipliers:**</p>
 
-- Quality contributions
-- Consistent participation
-- Collaborative approach
-- Data-driven proposals
-- Implementation success
+<ul>
+<li>Quality contributions</li>
+<li>Consistent participation</li>
+<li>Collaborative approach</li>
+<li>Data-driven proposals</li>
+<li>Implementation success</li>
 
+</ul>
 </div>
 
 ## Governance Challenges
 
 ### Common Governance Issues
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Navigating Governance Challenges
-**Typical Challenges:**
+<h3>⚠️ Navigating Governance Challenges</h3>
+<p>**Typical Challenges:**</p>
 
-1. **Participation Fatigue**
-   - Too many decisions
-   - Complex proposals
-   - Time demands
-   - Low engagement
-   
-   **Solutions:**
-   - Streamline decisions
-   - Simplify proposals
-   - Delegate appropriately
-   - Incentivize participation
+<p>1. **Participation Fatigue**</p>
+<ul>
+<li>Too many decisions</li>
+<li>Complex proposals</li>
+<li>Time demands</li>
+<li>Low engagement</li>
 
-2. **Conflicting Interests**
-   - Stakeholder tensions
-   - Short vs long term
-   - Individual vs collective
-   - Innovation vs stability
-   
-   **Solutions:**
-   - Clear principles
-   - Transparent process
-   - Balanced representation
-   - Win-win seeking
+</ul>
+<p>**Solutions:**</p>
+<ul>
+<li>Streamline decisions</li>
+<li>Simplify proposals</li>
+<li>Delegate appropriately</li>
+<li>Incentivize participation</li>
 
-3. **Decision Paralysis**
-   - Over-analysis
-   - Consensus seeking
-   - Risk aversion
-   - Perfect solutions
-   
-   **Solutions:**
-   - Time boundaries
-   - Experimentation
-   - Reversible decisions
-   - Bias toward action
+</ul>
+<p>2. **Conflicting Interests**</p>
+<ul>
+<li>Stakeholder tensions</li>
+<li>Short vs long term</li>
+<li>Individual vs collective</li>
+<li>Innovation vs stability</li>
 
+</ul>
+<p>**Solutions:**</p>
+<ul>
+<li>Clear principles</li>
+<li>Transparent process</li>
+<li>Balanced representation</li>
+<li>Win-win seeking</li>
+
+</ul>
+<p>3. **Decision Paralysis**</p>
+<ul>
+<li>Over-analysis</li>
+<li>Consensus seeking</li>
+<li>Risk aversion</li>
+<li>Perfect solutions</li>
+
+</ul>
+<p>**Solutions:**</p>
+<ul>
+<li>Time boundaries</li>
+<li>Experimentation</li>
+<li>Reversible decisions</li>
+<li>Bias toward action</li>
+
+</ul>
 </div>
 
 ### Governance Evolution
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Continuous Improvement
-**Evolution Strategies:**
+<h3>🔄 Continuous Improvement</h3>
+<p>**Evolution Strategies:**</p>
 
-1. **Regular Assessment**
-   - Governance effectiveness
-   - Participation rates
-   - Decision quality
-   - Implementation success
-   - Stakeholder satisfaction
+<p>1. **Regular Assessment**</p>
+<ul>
+<li>Governance effectiveness</li>
+<li>Participation rates</li>
+<li>Decision quality</li>
+<li>Implementation success</li>
+<li>Stakeholder satisfaction</li>
 
-2. **Adaptive Mechanisms**
-   - Process refinement
-   - Tool improvement
-   - Structure optimization
-   - Communication enhancement
-   - Incentive adjustment
+</ul>
+<p>2. **Adaptive Mechanisms**</p>
+<ul>
+<li>Process refinement</li>
+<li>Tool improvement</li>
+<li>Structure optimization</li>
+<li>Communication enhancement</li>
+<li>Incentive adjustment</li>
 
-3. **Future Readiness**
-   - Scalability planning
-   - Decentralization path
-   - Technology adoption
-   - Global considerations
-   - Regulatory adaptation
+</ul>
+<p>3. **Future Readiness**</p>
+<ul>
+<li>Scalability planning</li>
+<li>Decentralization path</li>
+<li>Technology adoption</li>
+<li>Global considerations</li>
+<li>Regulatory adaptation</li>
 
+</ul>
 </div>
 
 ## Emergency Governance
 
 ### Crisis Response
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚨 Emergency Decision Making
-**Emergency Triggers:**
+<h3>🚨 Emergency Decision Making</h3>
+<p>**Emergency Triggers:**</p>
 
-- Security breaches
-- Economic attacks
-- Regulatory threats
-- Technical failures
-- Market crises
+<ul>
+<li>Security breaches</li>
+<li>Economic attacks</li>
+<li>Regulatory threats</li>
+<li>Technical failures</li>
+<li>Market crises</li>
 
-**Emergency Protocol:
+</ul>
+<p>**Emergency Protocol:**</p>
 ```
-1. Issue Identification (Hour 1)
+<p>1. Issue Identification (Hour 1)</p>
 
-- Threat assessment
+<ul>
+<li>Threat assessment</li>
 
-- Stakeholder alert
+<li>Stakeholder alert</li>
 
-- Initial response
+<li>Initial response</li>
 
-2. Emergency Assembly (Hours 2-4)
+</ul>
+<p>2. Emergency Assembly (Hours 2-4)</p>
 
-- Core team convenes
+<ul>
+<li>Core team convenes</li>
 
-- Situation analysis
+<li>Situation analysis</li>
 
-- Option development
+<li>Option development</li>
 
-3. Rapid Decision (Hours 4-8)
+</ul>
+<p>3. Rapid Decision (Hours 4-8)</p>
 
-- Streamlined process
+<ul>
+<li>Streamlined process</li>
 
-- Temporary measures
+<li>Temporary measures</li>
 
-- Implementation plan
+<li>Implementation plan</li>
 
-4. Community Communication (Hour 8+)
+</ul>
+<p>4. Community Communication (Hour 8+)</p>
 
-- Transparent updates
+<ul>
+<li>Transparent updates</li>
 
-- Rationale explanation
+<li>Rationale explanation</li>
 
-- Next steps
+<li>Next steps</li>
 
-5. Post-Crisis Review (Week 1)
+</ul>
+<p>5. Post-Crisis Review (Week 1)</p>
 
-- Effectiveness analysis
+<ul>
+<li>Effectiveness analysis</li>
 
-- Permanent solutions
+<li>Permanent solutions</li>
 
-- Process improvement
+<li>Process improvement</li>
 ```
 
+</ul>
 </div>
 
 ## Governance Tools
 
 ### Decision Support Systems
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Governance Infrastructure
-**Tool Categories:**
+<h3>🛠️ Governance Infrastructure</h3>
+<p>**Tool Categories:**</p>
 
-1. **Proposal Management**
-   - Submission platform
-   - Comment systems
-   - Version control
-   - Impact modeling
-   - Voting infrastructure
+<p>1. **Proposal Management**</p>
+<ul>
+<li>Submission platform</li>
+<li>Comment systems</li>
+<li>Version control</li>
+<li>Impact modeling</li>
+<li>Voting infrastructure</li>
 
-2. **Analytics Dashboards**
-   - Participation metrics
-   - Decision outcomes
-   - Implementation tracking
-   - Ecosystem health
-   - Stakeholder sentiment
+</ul>
+<p>2. **Analytics Dashboards**</p>
+<ul>
+<li>Participation metrics</li>
+<li>Decision outcomes</li>
+<li>Implementation tracking</li>
+<li>Ecosystem health</li>
+<li>Stakeholder sentiment</li>
 
-3. **Communication Channels**
-   - Forum platforms
-   - Video conferencing
-   - Documentation wikis
-   - Notification systems
-   - Archive access
+</ul>
+<p>3. **Communication Channels**</p>
+<ul>
+<li>Forum platforms</li>
+<li>Video conferencing</li>
+<li>Documentation wikis</li>
+<li>Notification systems</li>
+<li>Archive access</li>
 
+</ul>
 </div>
 
 ## Next Steps

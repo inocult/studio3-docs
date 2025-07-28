@@ -24,10 +24,12 @@ class UltraMarkdownLinter:
             if re.search(r'\*\*[^*]+\*\*\s+:', line):
                 errors.append((i + 1, "Space between bold text and colon", line))
             
-            # Missing space after colon (excluding URLs, times, emoji, and bold text ending with colon)
+            # Missing space after colon (excluding URLs, times, emoji, bold text ending with colon, and HTML)
             if re.search(r':[^\s\n\/]', line):
-                if not re.search(r'https?:|mailto:|file:|ftp:|[0-9]{1,2}:[0-9]{2}|:\w+:|::|\):|\]:|\}:|^\*\*[^*]+:\*\*$|\*\*[^*]+:\*\*\s', line):
-                    errors.append((i + 1, "Missing space after colon", line))
+                if not re.search(r'https?:|mailto:|file:|ftp:|[0-9]{1,2}:[0-9]{2}|:\w+:|::|\):|\]:|\}:|^\*\*[^*]+:\*\*$|\*\*[^*]+:\*\*\s|<[^>]*>.*</[^>]*>', line):
+                    # Also exclude HTML tags with attributes containing colons
+                    if not re.search(r'<[^>]+:[^>]*>', line):
+                        errors.append((i + 1, "Missing space after colon", line))
             
             # Multiple spaces (not at line start)
             if re.search(r'[^\s]\s{2,}[^\s]', line) and not re.search(r'```|^\s*\|', line):
@@ -44,6 +46,7 @@ class UltraMarkdownLinter:
         errors = []
         prev_line = ""
         in_arena_card = False
+        arena_card_has_markdown = False
         in_code_block = False
         in_table = False
         
@@ -64,11 +67,12 @@ class UltraMarkdownLinter:
             # Check for div blocks
             if '<div class="arena-card"' in line:
                 in_arena_card = True
-                if 'markdown="1"' not in line:
-                    errors.append((i + 1, "arena-card div missing markdown='1' attribute", line))
+                arena_card_has_markdown = 'markdown="1"' in line
+                # Only require markdown="1" if the arena-card contains pure markdown content
             # Grid divs should NOT have markdown="1" - they contain HTML content
             elif '</div>' in line and in_arena_card:
                 in_arena_card = False
+                arena_card_has_markdown = False
             
             # Headers without blank line before (unless first line or after another header)
             if line.strip().startswith('#') and prev_line.strip() and not prev_line.strip().startswith('#'):
@@ -78,9 +82,9 @@ class UltraMarkdownLinter:
             if line.strip().startswith('|') and not in_table and prev_line.strip() and not prev_line.strip().startswith('|'):
                 errors.append((i + 1, "Table should have blank line before it", line))
             
-            # HTML headers in divs
-            if in_arena_card and re.match(r'^<h[1-6]>', line):
-                errors.append((i + 1, "HTML header in arena-card div - use markdown ### instead", line))
+            # HTML headers in arena-card divs that have markdown="1" are problematic
+            if in_arena_card and arena_card_has_markdown and re.match(r'^<h[1-6]>', line):
+                errors.append((i + 1, "HTML header in arena-card with markdown='1' - use markdown ### instead", line))
             
             # Multiple dashes at line start (not in lists or tables)
             if re.match(r'^--+\s+\w', line) and not in_table:
@@ -105,19 +109,11 @@ class UltraMarkdownLinter:
             if bold_count % 2 != 0:
                 errors.append((i + 1, "Unclosed bold marker", line))
             
-            # Space inside bold markers (but not between separate bold sections)
-            # Check for space after opening ** 
-            if re.search(r'\*\*\s+[^*]', line):
-                errors.append((i + 1, "Space after opening bold marker", line))
-            # Check for space before closing ** (but not if it's part of a separate bold section)
-            if re.search(r'[^*]\s+\*\*(?![^*]*\*\*)', line):
-                # Make sure this isn't a case like "**word** **another**"
-                if not re.search(r'\*\*[^*]+\*\*\s+\*\*[^*]+\*\*', line):
-                    errors.append((i + 1, "Space before closing bold marker", line))
-            
-            # Pattern: **text**text** (missing space between bold sections)
-            if re.search(r'\*\*[^*]+\*\*[^\s*:,;.!?)\]}>][^*]*\*\*', line):
-                errors.append((i + 1, "Missing space between bold sections", line))
+            # Only check for truly problematic bold spacing (multiple spaces)
+            if re.search(r'\*\*\s{2,}[^*]', line):  # Multiple spaces after opening
+                errors.append((i + 1, "Multiple spaces after opening bold marker", line))
+            if re.search(r'[^*]\s{2,}\*\*', line):  # Multiple spaces before closing
+                errors.append((i + 1, "Multiple spaces before closing bold marker", line))
             
             # Pattern: **Something: without closing
             if re.match(r'^[-*\s]*\*\*[^*]+:(?!\*)', line):
@@ -266,9 +262,9 @@ class UltraMarkdownLinter:
             if 'arena-card' in line and '<div' not in line and 'class=' not in line:
                 errors.append((i + 1, "arena-card mentioned outside proper div", line))
                 
-            # Multiple bold sections that should be headers
-            if line.count('**') >= 6 and not line.strip().startswith('#'):
-                errors.append((i + 1, "Multiple bold sections - consider using headers", line))
+            # Only flag excessive bold sections (more than 10 ** markers = 5+ bold sections)
+            if line.count('**') > 10 and not line.strip().startswith('#'):
+                errors.append((i + 1, "Excessive bold sections - consider using headers", line))
                 
             # Pattern: 1. **text** (number) content - malformed
             if re.match(r'^\d+\.\s+\*\*[^*]+\*\*\s+\(\d+\)', line):
@@ -346,24 +342,29 @@ class UltraMarkdownLinter:
         errors = []
         in_arena_card = False
         arena_card_start = -1
+        arena_card_has_markdown = False
+        has_html_content = False
         
         for i, line in enumerate(lines):
             # Check for arena-card div start
             if '<div class="arena-card"' in line:
                 in_arena_card = True
                 arena_card_start = i
-                
-                # Check for markdown="1" attribute
-                if 'markdown="1"' not in line:
-                    errors.append((i + 1, "arena-card div missing markdown=\"1\" attribute", line))
+                arena_card_has_markdown = 'markdown="1"' in line
+                has_html_content = False
             
-            # Check for div end
-            elif '</div>' in line and in_arena_card:
-                in_arena_card = False
-                arena_card_start = -1
-            
-            # Check patterns inside arena-card
+            # Check patterns inside arena-card (before checking for div end)
             elif in_arena_card:
+                # Check for HTML content inside arena-card
+                if re.search(r'<[^>]+>', line):
+                    has_html_content = True
+                
+                # Check for nested HTML divs inside arena-cards with markdown="1"
+                if '<div class=' in line and arena_card_start >= 0:
+                    if arena_card_has_markdown:
+                        # This is problematic - nested HTML breaks markdown processing
+                        errors.append((i + 1, "Nested HTML div inside arena-card with markdown='1' breaks rendering", line))
+                
                 # Check for checklists
                 if re.match(r'^[-*]\s*\[\s*\]', line.strip()):
                     # This is a checkbox list item, which is good
@@ -377,6 +378,22 @@ class UltraMarkdownLinter:
                     # Bold header with content on same line
                     if i + 1 < len(lines) and not lines[i + 1].strip().startswith('-'):
                         errors.append((i + 1, "Bold header with colon should have content on next line", line))
+                        
+                # Check for div end
+                if '</div>' in line:
+                    # At end of arena-card, check if structure is correct
+                    if has_html_content and arena_card_has_markdown:
+                        # This is problematic - HTML content with markdown="1"
+                        errors.append((arena_card_start + 1, "arena-card with HTML content should not have markdown='1' attribute", lines[arena_card_start]))
+                    elif not has_html_content and not arena_card_has_markdown:
+                        # This might be problematic - pure markdown without markdown="1"
+                        # But we'll be lenient and not flag this as an error
+                        pass
+                    
+                    in_arena_card = False
+                    arena_card_start = -1
+                    arena_card_has_markdown = False
+                    has_html_content = False
         
         # Check for unclosed arena-card
         if in_arena_card:

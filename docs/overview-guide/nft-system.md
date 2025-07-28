@@ -9,67 +9,73 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 ### Overview
 
 <div class="grid cards">
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎨 Spark NFT
-        **The Origin**
+<h3>🎨 Spark NFT</h3>
+<p>**The Origin**</p>
 
-        Represents the original idea and IP combination
-
-
-- Created from Flambette marketplace
+<p>Represents the original idea and IP combination</p>
 
 
-- Contains remixed IP metadata
+<ul>
+<li>Created from Flambette marketplace</li>
 
 
-- Tradeable and collectible
+<li>Contains remixed IP metadata</li>
 
 
-- Required for Forge entry
+<li>Tradeable and collectible</li>
 
+
+<li>Required for Forge entry</li>
+
+</ul>
 </div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 Signal NFT
-        **The Journey**
+<h3>📡 Signal NFT</h3>
+<p>**The Journey**</p>
 
-        Dynamic NFT tracking the venture's entire lifecycle
-
-
-- Awarded to Forge winner
+<p>Dynamic NFT tracking the venture's entire lifecycle</p>
 
 
-- Updates with each milestone
+<ul>
+<li>Awarded to Forge winner</li>
 
 
-- Records all signals received
+<li>Updates with each milestone</li>
 
 
-- Becomes more valuable over time
+<li>Records all signals received</li>
 
+
+<li>Becomes more valuable over time</li>
+
+</ul>
 </div>
     
-    <div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛡️ Halo NFT
-        **The Achievement**
+<h3>🛡️ Halo NFT</h3>
+<p>**The Achievement**</p>
 
-        Soulbound proof of successful graduation
-
-
-- Created at venture inception
+<p>Soulbound proof of successful graduation</p>
 
 
-- Locked until Ascension
-
-- Non
-- transferable honor
+<ul>
+<li>Created at venture inception</li>
 
 
-- Unlocks sovereign rights
+<li>Locked until Ascension</li>
 
+<li>Non</li>
+<li>transferable honor</li>
+
+
+<li>Unlocks sovereign rights</li>
+
+</ul>
 </div>
 </div>
 
@@ -94,12 +100,21 @@ graph TD
 
 !!! info "Spark NFT Details"
 
-    **Purpose:**  Creation:
+    **Purpose:**
 
-**    Utility:**  Trading:
+**Creation:**
+
+
+
+Utility:**
+
+**Trading:**
+
 ### Creation Process
 
-- 1.** Browse Flambette
+- 1.
+
+Browse Flambette
 - Explore available IP-NFTs
 2. **Select Components**
 - Choose 2-5 IPs to combine
@@ -129,11 +144,11 @@ graph TD
 
 | Factor | Impact on Value |
 |--------|----------------|
-| **IP Quality** | Higher quality sources = higher value |
-|**Synthesis Novelty** | Unique combinations command premiums |
-|**Market Timing** | Hot sectors increase demand |
-|**Creator Reputation** | Proven creators' Sparks valued higher |
-|**Historical Performance** | Sparks that led to successful ventures |
+| **IP Quality** | Higher quality sources = higher value  |
+| **Synthesis Novelty** | Unique combinations command premiums  |
+| **Market Timing** | Hot sectors increase demand  |
+| **Creator Reputation** | Proven creators' Sparks valued higher  |
+| **Historical Performance** | Sparks that led to successful ventures |
 
 ## Signal NFT
 
@@ -141,21 +156,50 @@ graph TD
 
 !!! info "Signal NFT Details"
 
-   **Purpose:**  Creation:
+   **Purpose:**
 
-**    Utility:**  Updates:
+**Creation:**
+
+
+
+Utility:**
+
+**Updates:**
+
 ### Dynamic Properties
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎨 Visual Evolution
-** The Signal NFT's appearance changes based on:
-- **Phase Progress:** Color shifts with each phase
+<h3>🎨 Visual Evolution</h3>
 
-- **Signal Strength:** Brightness indicates support
-- **Milestone Success:** New elements appear
-- **Community Size:** Complexity increases
-- **Time Active:** Aged patina develops
+
+<p>The Signal NFT's appearance changes based on:**</p>
+<ul>
+<li>**Phase Progress:**</li>
+
+</ul>
+<p>**Color shifts with each phase**</p>
+
+<ul>
+<li>**Signal Strength:**</li>
+
+</ul>
+<p>**Brightness indicates support**</p>
+<ul>
+<li>**Milestone Success:**</li>
+
+</ul>
+<p>**New elements appear**</p>
+<ul>
+<li>**Community Size:**</li>
+
+</ul>
+<p>**Complexity increases**</p>
+<ul>
+<li>**Time Active:**</li>
+
+</ul>
+<p>**Aged patina develops**</p>
 
 </div>
 
@@ -191,11 +235,11 @@ graph TD
 
 | Utility | Description |
 |---------|-------------|
-|**Governance Weight** | Vote power in Container DAO decisions |
-|**Revenue Share** | Claim on protocol revenues |
-|**Access Rights** | Entry to founder-only resources |
-|**Network Benefits** | Priority access to partners |
-|**Historical Record** | Immutable proof of journey |
+| **Governance Weight** | Vote power in Container DAO decisions  |
+| **Revenue Share** | Claim on protocol revenues  |
+| **Access Rights** | Entry to founder-only resources  |
+| **Network Benefits** | Priority access to partners  |
+| **Historical Record** | Immutable proof of journey |
 
 ## Halo NFT
 
@@ -203,9 +247,16 @@ graph TD
 
 !!! info "Halo NFT Details"
 
-   **Purpose:**  Creation:
+   **Purpose:**
 
-**    Utility:**  Transfer:
+**Creation:**
+
+
+
+Utility:**
+
+**Transfer:**
+
 ### Sovereignty Rights
 
 The Halo NFT unlocks:
@@ -259,24 +310,28 @@ sequenceDiagram
 
 | Phase | Signers | Threshold |
 |-------|---------|----------|
-|**Ignition-Drift** | 2 Founders + 1 Anchor + 2 Studio3 | 3 of 5 |
-|**Orbit** | 3 Founders + 1 Anchor + 1 Studio3 | 3 of 5 |
-|**Flare** | 4 Founders + 1 Studio3 | 3 of 5 |
-|**Ascension** | 5 Founders | 3 of 5 |
+| **Ignition-Drift** | 2 Founders + 1 Anchor + 2 Studio3 | 3 of 5 |
+| **Orbit** | 3 Founders + 1 Anchor + 1 Studio3 | 3 of 5 |
+| **Flare** | 4 Founders + 1 Studio3 | 3 of 5 |
+| **Ascension** | 5 Founders | 3 of 5 |
 
 ## NFT Interactions
 
 ### How They Work Together
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔗 The Trinity Effect
-** When all three NFTs are united in one wallet:
-- 🎨 **Spark** provides the origin story
+<h3>🔗 The Trinity Effect</h3>
+<p>** When all three NFTs are united in one wallet:**</p>
+<ul>
+<li>🎨 **Spark** provides the origin story</li>
 
-- 📡 **Signal** shows the journey
+<li>📡 **Signal** shows the journey</li>
 
-- 🛡️ **Halo** proves the achievement**Result:** Complete sovereignty over the venture's future
+<li>🛡️ **Halo** proves the achievement**Result:**</li>
+
+</ul>
+<p>**Complete sovereignty over the venture's future**</p>
 
 </div>
 
@@ -299,18 +354,18 @@ graph LR
 
 | NFT Type | Primary Value | Secondary Value |
 |----------|---------------|----------------|
-|**Spark** | IP combination quality | Historical significance |
-|**Signal** | Venture performance | Community size |
-|**Halo** | Sovereignty rights | Alumni network |
+| **Spark** | IP combination quality | Historical significance |
+| **Signal** | Venture performance | Community size |
+| **Halo** | Sovereignty rights | Alumni network |
 
 ### Market Dynamics
 
 !!! tip "Trading Strategies"
 
 - **Spark Trading** : Buy promising ideas early
-- **    -**Signal Watching** : Track rising ventures
-- **    -**Halo Hunting** : Identify near-graduation ventures
-- **    -**Trinity Collecting**: Acquire complete sets**## Technical Implementation
+- **-**Signal Watching** : Track rising ventures
+- **-**Halo Hunting** : Identify near-graduation ventures
+- **-**Trinity Collecting**: Acquire complete sets**## Technical Implementation
 
 ### Smart Contract Architecture
 
@@ -384,14 +439,18 @@ All NFTs follow extended ERC-721 with:
 
 ### Notable NFT Journeys
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🌟 The First Trinity
-**Venture:** DecentralHealth
+<p>#### 🌟 The First Trinity</p>
+<p>**Venture:**</p>
 
-**Journey:** 18 months from Spark to Sovereignty
+<p>**DecentralHealth**</p>
 
-**Current Value:** Spark (50 ETH), Signal (200 ETH), Halo (Priceless)
+<p>**Journey:** 18 months from Spark to Sovereignty</p>
+
+<p>**Current Value:**</p>
+
+<p>**Spark (50 ETH), Signal (200 ETH), Halo (Priceless)**</p>
 
 <blockquote>"Watching our Signal NFT evolve with each milestone was magical. When we finally unlocked our Halo, it felt like graduation day." - DecentralHealth Founder</blockquote>
 
@@ -401,7 +460,7 @@ All NFTs follow extended ERC-721 with:
 
 ### Your NFT Journey
 
-1. **As a Creator**: Start on Flambette, mint your Spark**2. **As a Founder**: Win the Forge, earn your Signal**3. **As a Collector**: Trade Sparks, watch Signals**4. **As a Builder**: Work toward your Halo**## Next Steps
+1. **As a Creator**: Start on Flambette, mint your Spark2. **As a Founder**: Win the Forge, earn your Signal**3. **As a Collector**: Trade Sparks, watch Signals**4. **As a Builder**: Work toward your Halo**## Next Steps
 
 - Explore [Seven Phase Lifecycle](seven-phases.md) to understand the journey
 - Learn about [The Arena System](arena-system.md) where NFTs are earned

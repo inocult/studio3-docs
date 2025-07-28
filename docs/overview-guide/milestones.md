@@ -8,20 +8,23 @@ Milestones are the fundamental units of progress in Studio3. They represent spec
 
 ### Definition
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Milestone Essentials
+<h3>🎯 Milestone Essentials</h3>
 
-A milestone is a public commitment to achieve a specific outcome by a defined deadline.
+<p>A milestone is a public commitment to achieve a specific outcome by a defined deadline.</p>
 
-**Key Components:**
+<p>**Key Components:**</p>
 
-- **Specific Goal** : Clear, unambiguous objective
-- **Success Criteria** : Measurable completion requirements 
-- **Timeline** : Fixed deadline for achievement
-- **Evidence Requirements** : Proof needed for validation
-- **Token Value** : Amount at stake for signals
-**</div>
+<ul>
+<li>**Specific Goal** : Clear, unambiguous objective</li>
+<li>**Success Criteria** : Measurable completion requirements</li>
+<li>**Timeline** : Fixed deadline for achievement</li>
+<li>**Evidence Requirements** : Proof needed for validation</li>
+<li>**Token Value** : Amount at stake for signals</li>
+
+</ul>
+</div>
 
 ### Milestone Lifecycle
 
@@ -96,12 +99,12 @@ stateDiagram-v2
 | Phase | Typical Milestones | Average Count |
 |-------|-------------------|---------------|
 | **Spark** | Concept validation, team formation | 2-3 |
-|**Forge** | Pitch preparation, vision articulation | 1-2 |
-|**Ignition** | MVP development, DAO setup | 4-6 |
-|**Drift** | PMF iterations, user feedback | 8-12 |
-|**Orbit** | Growth metrics, operational efficiency | 10-15 |
-|**Flare** | Scaling targets, funding rounds | 8-10 |
-|**Ascension** | Buyback preparation, handover | 3-4 |
+| **Forge** | Pitch preparation, vision articulation | 1-2 |
+| **Ignition** | MVP development, DAO setup | 4-6 |
+| **Drift** | PMF iterations, user feedback | 8-12 |
+| **Orbit** | Growth metrics, operational efficiency | 10-15 |
+| **Flare** | Scaling targets, funding rounds | 8-10 |
+| **Ascension** | Buyback preparation, handover | 3-4 |
 
 ## Creating Effective Milestones
 
@@ -110,13 +113,14 @@ stateDiagram-v2
 !!! tip "SMART Milestones"
 
 - **S** pecific: Clear and unambiguous
-- **    -**M**easurable: Quantifiable success criteria** -**A** chievable: Realistic given resources
-- **    -**R**elevant: Aligned with venture goals** -**T**ime-bound: Fixed deadline**### Good vs Bad Milestones
+- **-**M**easurable: Quantifiable success criteria** -**A** chievable: Realistic given resources
+- **-**R**elevant: Aligned with venture goals** -**T**ime-bound: Fixed deadline**### Good vs Bad Milestones
 
 <div class="grid">
-<div class="arena-card" markdown="1">
-#### ✅ Good Milestone
-<p>**"Launch MVP with 3 core features by March 15"**</p>
+<div class="arena-card">
+
+<p>#### ✅ Good Milestone</p>
+<p>**"Launch MVP with 3 core features by March 15"**</p>**
 <ul>
 <li>Specific features defined</li>
 <li>Clear deliverable (MVP)</li>
@@ -125,9 +129,10 @@ stateDiagram-v2
 </ul>
 </div>
 
-<div class="arena-card" markdown="1">
-#### ❌ Bad Milestone
-<p>**"Make significant progress on product"**</p>
+<div class="arena-card">
+
+<p>#### ❌ Bad Milestone</p>
+<p>**"Make significant progress on product"**</p>**
 <ul>
 <li>Vague objective</li>
 <li>No success criteria</li>
@@ -156,24 +161,29 @@ flowchart TD
 
 ### Declaration Requirements
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Declaration Checklist
+<h3>📝 Declaration Checklist</h3>
 
-** Required Elements:
-- ** [ ] Clear objective statement
-- [ ] Success criteria (3-5 points)
-- [ ] Evidence requirements
-- [ ] Realistic timeline
-- [ ] Token value (min 1,000 $SIGNAL)
-- [ ] Risk assessment
-- [ ] Dependencies identified
-** Optional Enhancements:
-- ** [ ] Stretch goals
-- [ ] Partial success criteria
-- [ ] Progress checkpoints
-- [ ] Contingency plans
+<p>** Required Elements:**</p>
+<ul>
+<li>**[ ] Clear objective statement**</li>
+<li>[ ] Success criteria (3-5 points)</li>
+<li>[ ] Evidence requirements</li>
+<li>[ ] Realistic timeline</li>
+<li>[ ] Token value (min 1,000 $SIGNAL)</li>
+<li>[ ] Risk assessment</li>
+<li>[ ] Dependencies identified</li>
 
+</ul>
+<p>** Optional Enhancements:**</p>
+<ul>
+<li>**[ ] Stretch goals**</li>
+<li>[ ] Partial success criteria</li>
+<li>[ ] Progress checkpoints</li>
+<li>[ ] Contingency plans</li>
+
+</ul>
 </div>
 
 ## Milestone Valuation
@@ -186,21 +196,21 @@ flowchart TD
 - **Difficulty**: Technical or operational complexity
 - **Impact** : Importance to venture success
 
-**    -**Risk** : Probability of failure
-- **    -**Timeline** : Urgency and duration
-- **    -**Dependencies**: External factors**### Valuation Guidelines
+**    -:** Risk** : Probability of failure
+- **-**Timeline** : Urgency and duration
+- **-**Dependencies**: External factors**### Valuation Guidelines
 
 | Milestone Type | Typical Range | Factors |
 |----------------|---------------|----------|
 | **Minor Feature** | 1K
 - 10K | Low complexity, quick delivery |
-|**Major Feature** | 10K
+| **Major Feature** | 10K
 - 50K | High complexity, critical path |
-|**Growth Target** | 20K
+| **Growth Target** | 20K
 - 100K | Market dependent, measurable |
-|**Funding Round** | 50K
+| **Funding Round** | 50K
 - 500K | High impact, binary outcome |
-|**Phase Transition** | 100K
+| **Phase Transition** | 100K
 - 1M | Comprehensive requirements |
 
 ## Evidence Requirements
@@ -254,46 +264,49 @@ flowchart TD
 !!! warning "Evidence Must Be"
 
 - **Authentic** : Not fabricated or manipulated
-- **    -**Relevant** : Directly proves milestone completion
-- **    -**Sufficient** : Comprehensive enough for validation
-- **    -**Timely** : Generated within milestone period
-- **    -**Accessible**: Validators can verify independently**## Milestone Execution
+- **-**Relevant** : Directly proves milestone completion
+- **-**Sufficient** : Comprehensive enough for validation
+- **-**Timely** : Generated within milestone period
+- **-**Accessible**: Validators can verify independently**## Milestone Execution
 
 ### Best Practices
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏆 Execution Excellence
+<h3>🏆 Execution Excellence</h3>
 
-**During Development:**
+<p>**During Development:**</p>
 
-1. **Daily Updates**: Keep community informed
-2. **Progress Tracking**
-: Show incremental advancement
-3. **Challenge Transparency**
-: Share obstacles openly
-4. **Resource Management**
-: Allocate wisely
-5. **Time Buffering**
-: Plan for unexpected delays**
-- ** Communication Guidelines:
-- ** Post updates at consistent times
-- Use visual progress indicators
-- Respond to community questions
-- Acknowledge concerns promptly
-- Celebrate small wins
+<p>1. **Daily Updates**: Keep community informed</p>
+<p>2. **Progress Tracking**</p>
+<p>: Show incremental advancement</p>
+<p>3. **Challenge Transparency**</p>
+<p>: Share obstacles openly</p>
+<p>4. **Resource Management**</p>
+<p>: Allocate wisely</p>
+<p>5. **Time Buffering**</p>
+<p>: Plan for unexpected delays**</p>
 
+<ul>
+<li>**Communication Guidelines:**</li>
+<li>**Post updates at consistent times**</li>
+<li>Use visual progress indicators</li>
+<li>Respond to community questions</li>
+<li>Acknowledge concerns promptly</li>
+<li>Celebrate small wins</li>
+
+</ul>
 </div>
 
 ### Common Pitfalls
 
 | Pitfall | Impact | Prevention |
 |---------|---------|------------|
-|**Scope Creep** | Missed deadlines | Strict feature freeze |
-|**Poor Planning** | Resource shortage | Detailed breakdown |
-|**Over-promising** | Failed delivery | Conservative estimates |
-|**Under-communicating** | Lost confidence | Daily updates |
-|**Ignoring Feedback** | Wrong direction | Active engagement |
+| **Scope Creep** | Missed deadlines | Strict feature freeze |
+| **Poor Planning** | Resource shortage | Detailed breakdown |
+| **Over-promising** | Failed delivery | Conservative estimates |
+| **Under-communicating** | Lost confidence | Daily updates |
+| **Ignoring Feedback** | Wrong direction | Active engagement |
 
 ## Validation Process
 
@@ -319,19 +332,19 @@ sequenceDiagram
 ### Validation Criteria
 
 !!! info "Anchors Evaluate"
-    1. **Completeness** : All requirements met?
+    1. **Completeness** : All requirements met?**
 1. 
 2. **Quality** : Meets professional standards?
 2. 
-3. **Timeliness**: Delivered on schedule?**    4.**Evidence**: Properly documented?**    5.**Impact**: Achieves intended outcome?**### Validation Outcomes
+3. **Timeliness**: Delivered on schedule?    4.**Evidence**: Properly documented?**    5.**Impact**: Achieves intended outcome?**### Validation Outcomes
 
 | Outcome | Result | Token Impact |
 |---------|--------|-------------|
 | **Full Success** | 100% complete | Believers rewarded 1.5-3x |
-|**Partial Success** | 70-99% complete | Reduced multipliers |
-|**Extension Granted** | More time given | Signals locked |
-|**Failed** | <70% complete | All signals burned |
-|**Disputed** | Contested result | Re-validation required |
+| **Partial Success** | 70-99% complete | Reduced multipliers |
+| **Extension Granted** | More time given | Signals locked |
+| **Failed** | <70% complete | All signals burned |
+| **Disputed** | Contested result | Re-validation required |
 
 ## Milestone Strategies
 
@@ -403,7 +416,7 @@ graph TD
     Future milestones will support:
 
 - **IF-THEN**  statements
-- **    -** AND/OR
+- **-** AND/OR
 - 
 - requirements   Prerequisite
 - chains**  Fallback
@@ -427,23 +440,23 @@ class MilestoneMetrics:
 | Metric | Target | Current | Action |
 |--------|--------|---------|--------|
 | **Success Rate** | 80% | 75% | Better planning tools |
-|**Signal Participation** | 70% | 62% | Increase awareness |
-|**Validation Time** | 24hr | 36hr | More Anchors needed |
-|**Evidence Quality** | 95% | 89% | Clearer guidelines |
+| **Signal Participation** | 70% | 62% | Increase awareness |
+| **Validation Time** | 24hr | 36hr | More Anchors needed |
+| **Evidence Quality** | 95% | 89% | Clearer guidelines |
 
 ## Common Questions
 
 ### Milestone FAQ
-**Q: Can I modify a milestone after declaration?
-**A: No, declared milestones are immutable. Plan carefully.
-**Q: What happens if I get sick during execution?
-**A: Apply for extension with medical evidence. Community decides.
-**Q: Can I declare multiple milestones simultaneously?
-**A: Yes, but ensure you have resources for parallel execution.
-**Q: How do partial completions work?
-**A: Anchors score 0-100%. 70%+ may receive partial rewards.
-**Q: Can milestones be cancelled?
-**A: Only in extreme circumstances with Anchor approval.
+**Q: Can I modify a milestone after declaration?**
+**A: No, declared milestones are immutable. Plan carefully.**
+**Q: What happens if I get sick during execution?**
+**A: Apply for extension with medical evidence. Community decides.**
+**Q: Can I declare multiple milestones simultaneously?**
+**A: Yes, but ensure you have resources for parallel execution.**
+**Q: How do partial completions work?**
+**A: Anchors score 0-100%. 70%+ may receive partial rewards.**
+**Q: Can milestones be cancelled?**
+**A: Only in extreme circumstances with Anchor approval.**
 
 ## Your Milestone Journey
 

@@ -2,11 +2,11 @@
 
 ## Setting Goals That Drive Success
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 The Art of Effective Milestones
+<h3>🎯 The Art of Effective Milestones</h3>
 
-Milestones are the heartbeat of Studio3 ventures. They're not just goals - they're public commitments that attract belief, drive progress, and unlock rewards. Master milestone planning to maximize your venture's momentum.
+<p>Milestones are the heartbeat of Studio3 ventures. They're not just goals - they're public commitments that attract belief, drive progress, and unlock rewards. Master milestone planning to maximize your venture's momentum.</p>
 
 </div>
 
@@ -14,243 +14,283 @@ Milestones are the heartbeat of Studio3 ventures. They're not just goals - they'
 
 ### What Makes a Great Milestone?
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 The SMART-V Framework
+<h3>📊 The SMART-V Framework</h3>
 
-**SMART-V Criteria:**
+<p>**SMART-V Criteria:**</p>
 
-- **S** pecific
-- Clear and unambiguous
-- **M** easurable
-- Quantifiable outcomes
-- **A** chievable
-- Realistic yet ambitious
-- **R** elevant
-- Aligned with phase goals
-- **T**ime-bound
-  - Clear deadline
-- **V**erifiable
-  - Provable to Anchors
+<ul>
+<li>**S** pecific</li>
+<li>Clear and unambiguous</li>
+<li>**M** easurable</li>
+<li>Quantifiable outcomes</li>
+<li>**A** chievable</li>
+<li>Realistic yet ambitious</li>
+<li>**R** elevant</li>
+<li>Aligned with phase goals</li>
+<li>**T**ime-bound**</li>
+<li>Clear deadline</li>
+<li>**V**erifiable**</li>
+<li>Provable to Anchors</li>
 
-**Examples:**
-- ✅ Good: "Launch MVP with 100 beta users by March 31"
-- ❌ Poor: "Build a great product soon"
-- ✅ Good: "Achieve $10K MRR with 50 paying customers"
-- ❌ Poor: "Get some revenue"
+</ul>
+<p>**Examples:**</p>
+<ul>
+<li>✅ Good: "Launch MVP with 100 beta users by March 31"</li>
+<li>❌ Poor: "Build a great product soon"</li>
+<li>✅ Good: "Achieve $10K MRR with 50 paying customers"</li>
+<li>❌ Poor: "Get some revenue"</li>
 
+</ul>
 </div>
 
 ### Milestone Types
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ Different Goals for Different Stages
+<h3>🏗️ Different Goals for Different Stages</h3>
 
-**Technical Milestones:**
+<p>**Technical Milestones:**</p>
 
-- Feature completion
-- Performance targets
-- Security audits
-- Integration goals
-- Infrastructure scaling
+<ul>
+<li>Feature completion</li>
+<li>Performance targets</li>
+<li>Security audits</li>
+<li>Integration goals</li>
+<li>Infrastructure scaling</li>
 
-**Business Milestones:**
+</ul>
+<p>**Business Milestones:**</p>
 
-- Revenue targets
-- User acquisition
-- Market penetration
-- Partnership deals
-- Funding rounds
+<ul>
+<li>Revenue targets</li>
+<li>User acquisition</li>
+<li>Market penetration</li>
+<li>Partnership deals</li>
+<li>Funding rounds</li>
 
-**Team Milestones:**
+</ul>
+<p>**Team Milestones:**</p>
 
-- Key hires
-- Skill development
-- Culture building
-- Process implementation
-- Knowledge transfer
+<ul>
+<li>Key hires</li>
+<li>Skill development</li>
+<li>Culture building</li>
+<li>Process implementation</li>
+<li>Knowledge transfer</li>
 
-**Community Milestones:**
+</ul>
+<p>**Community Milestones:**</p>
 
-- Echo engagement
-- Network effects
-- Content creation
-- Event hosting
-- Ecosystem contribution
+<ul>
+<li>Echo engagement</li>
+<li>Network effects</li>
+<li>Content creation</li>
+<li>Event hosting</li>
+<li>Ecosystem contribution</li>
 
+</ul>
 </div>
 
 ## Phase-Specific Planning
 
 ### Ignition Phase Milestones
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Early Stage Goals
+<h3>🚀 Early Stage Goals</h3>
 
-**Typical Ignition Milestones:**
+<p>**Typical Ignition Milestones:**</p>
 
-**Month 1-2:**
+<p>**Month 1-2:**</p>
 ```markdown
-Milestone: "Complete Technical Architecture"
-- Finalize tech stack
-- Design system architecture
-- Set up development environment
-- Create deployment pipeline
-Deliverable: Architecture documentation + demo
+<p>Milestone: "Complete Technical Architecture"</p>
+<ul>
+<li>Finalize tech stack</li>
+<li>Design system architecture</li>
+<li>Set up development environment</li>
+<li>Create deployment pipeline</li>
+</ul>
+<p>Deliverable: Architecture documentation + demo</p>
 ```
 
-**Month 3-4:**
+<p>**Month 3-4:**</p>
 ```markdown
-Milestone: "Launch Functional MVP"
-- Core features operational
-- Basic UI/UX complete
-- User authentication working
-- Initial testing complete
-Deliverable: Live MVP + 50 beta users
+<p>Milestone: "Launch Functional MVP"</p>
+<ul>
+<li>Core features operational</li>
+<li>Basic UI/UX complete</li>
+<li>User authentication working</li>
+<li>Initial testing complete</li>
+</ul>
+<p>Deliverable: Live MVP + 50 beta users</p>
 ```
 
-**Month 5-6:**
+<p>**Month 5-6:**</p>
 ```markdown
-Milestone: "Achieve Product-Market Fit Signal"
-- 100+ active users
-- 40% weekly retention
-- NPS score >30
-- Clear use case validation
-Deliverable: Metrics dashboard + user testimonials
+<p>Milestone: "Achieve Product-Market Fit Signal"</p>
+<ul>
+<li>100+ active users</li>
+<li>40% weekly retention</li>
+<li>NPS score >30</li>
+<li>Clear use case validation</li>
+</ul>
+<p>Deliverable: Metrics dashboard + user testimonials</p>
 ```
 
 </div>
 
 ### Drift Phase Milestones
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌊 Finding Your Flow
+<h3>🌊 Finding Your Flow</h3>
 
-**Drift Milestone Examples:**
-1. **Market Validation**
-   - 500 paying customers
-   - 3 customer segments identified
-   - Churn <5% monthly
-   - CAC < LTV proven
+<p>**Drift Milestone Examples:**</p>
+<p>1. **Market Validation**</p>
+<ul>
+<li>500 paying customers</li>
+<li>3 customer segments identified</li>
+<li>Churn <5% monthly</li>
+<li>CAC < LTV proven</li>
 
-2. **Product Evolution**
-   - 3 major iterations completed
-   - Feature-market fit achieved
-   - Platform stability >99.9%
-   - Mobile app launched
+</ul>
+<p>2. **Product Evolution**</p>
+<ul>
+<li>3 major iterations completed</li>
+<li>Feature-market fit achieved</li>
+<li>Platform stability >99.9%</li>
+<li>Mobile app launched</li>
 
-3. **Business Model**
-   - Unit economics positive
-   - $50K MRR achieved
-   - Sales process defined
-   - Pricing optimized
+</ul>
+<p>3. **Business Model**</p>
+<ul>
+<li>Unit economics positive</li>
+<li>$50K MRR achieved</li>
+<li>Sales process defined</li>
+<li>Pricing optimized</li>
 
+</ul>
 </div>
 
 ### Advanced Phase Milestones
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔥 Scaling Goals
-**Orbit/Flare/Ascension Examples:**  Orbit (Stability):
-- ** $500K ARR
-- 1000+ customers
-- Team of 10+
-- Series A ready
-** Flare (Growth):
-- ** $5M ARR
-- Market leader position
-- International expansion
-- Strategic acquisitions
-** Ascension (Exit):
-- ** IPO readiness
-- Acquisition offers
-- Full decentralization
-- Legacy established
+<h3>🔥 Scaling Goals</h3>
+<p>**Orbit/Flare/Ascension Examples:**</p>
 
+<p>**Orbit (Stability):**</p>
+<ul>
+<li>**$500K ARR**</li>
+<li>1000+ customers</li>
+<li>Team of 10+</li>
+<li>Series A ready</li>
+
+</ul>
+<p>** Flare (Growth):**</p>
+<ul>
+<li>**$5M ARR**</li>
+<li>Market leader position</li>
+<li>International expansion</li>
+<li>Strategic acquisitions</li>
+
+</ul>
+<p>** Ascension (Exit):**</p>
+<ul>
+<li>**IPO readiness**</li>
+<li>Acquisition offers</li>
+<li>Full decentralization</li>
+<li>Legacy established</li>
+
+</ul>
 </div>
 
 ## Planning Process
 
 ### Strategic Planning Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🦭 Building Your Roadmap
-** Planning Steps:
-1. **Vision Setting**
+<h3>🦭 Building Your Roadmap</h3>
+<p>** Planning Steps:**</p>
+<p>1. **Vision Setting**</p>
    ```python
-   def set_milestone_vision():
-       # Where are we now?
-       current_state = assess_current_position()
-       
-       # Where do we want to be?
-       target_state = define_success_metrics()
-       
-       # What's the gap?
-       gap_analysis = target_state - current_state
-       
-       # How do we get there?
-       milestone_path = create_stepping_stones(gap_analysis)
-       
-       return milestone_path
+<p>def set_milestone_vision():</p>
+<h1>Where are we now?</h1>
+<p>current_state = assess_current_position()</p>
+
+<h1>Where do we want to be?</h1>
+<p>target_state = define_success_metrics()</p>
+
+<h1>What's the gap?</h1>
+<p>gap_analysis = target_state - current_state</p>
+
+<h1>How do we get there?</h1>
+<p>milestone_path = create_stepping_stones(gap_analysis)</p>
+
+<p>return milestone_path</p>
    ```
 
-2. **Backwards Planning**
-   - Start with end goal
-   - Work backwards to today
-   - Identify dependencies
-   - Set realistic timelines
-   - Buffer for unknowns
+<p>2. **Backwards Planning**</p>
+<ul>
+<li>Start with end goal</li>
+<li>Work backwards to today</li>
+<li>Identify dependencies</li>
+<li>Set realistic timelines</li>
+<li>Buffer for unknowns</li>
 
-3. **Risk Assessment**
-   - Technical risks
-   - Market risks
-   - Team risks
-   - Financial risks
-   - External risks
+</ul>
+<p>3. **Risk Assessment**</p>
+<ul>
+<li>Technical risks</li>
+<li>Market risks</li>
+<li>Team risks</li>
+<li>Financial risks</li>
+<li>External risks</li>
 
+</ul>
 </div>
 
 ### Milestone Dependencies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔗 Managing Dependencies
+<h3>🔗 Managing Dependencies</h3>
 
-**Dependency Mapping:
+<p>**Dependency Mapping:**</p>
 ```mermaid
-graph LR
-    A[Team Hiring] --> B[MVP Development]
-    B --> C[Beta Launch]
-    C --> D[User Feedback]
-    D --> E[Product Iteration]
-    E --> F[Market Launch]
-    F --> G[Revenue Generation]
+<p>graph LR</p>
+<p>A[Team Hiring] --> B[MVP Development]</p>
+<p>B --> C[Beta Launch]</p>
+<p>C --> D[User Feedback]</p>
+<p>D --> E[Product Iteration]</p>
+<p>E --> F[Market Launch]</p>
+<p>F --> G[Revenue Generation]</p>
 ```
 
-**Dependency Types:**
+<p>**Dependency Types:**</p>
 
-- **Sequential**
-  - Must complete A before B
-- **Parallel**
-  - Can do simultaneously
-- **Conditional**
-  - If A then B
-- **External**
-  - Outside dependencies
-- **Resource**
-  - Shared constraints
+<ul>
+<li>**Sequential**</li>
+<li>Must complete A before B</li>
+<li>**Parallel**</li>
+<li>Can do simultaneously</li>
+<li>**Conditional**</li>
+<li>If A then B</li>
+<li>**External**</li>
+<li>Outside dependencies</li>
+<li>**Resource**</li>
+<li>Shared constraints</li>
 
-**Management Strategies:**
-1. Map all dependencies
-2. Identify critical path
-3. Build in buffers
-4. Have contingencies
-5. Communicate clearly
+</ul>
+<p>**Management Strategies:**</p>
+<p>1. Map all dependencies</p>
+<p>2. Identify critical path</p>
+<p>3. Build in buffers</p>
+<p>4. Have contingencies</p>
+<p>5. Communicate clearly</p>
 
 </div>
 
@@ -258,54 +298,58 @@ graph LR
 
 ### Quantifying Success
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Metrics That Matter
+<h3>📊 Metrics That Matter</h3>
 
-**Metric Selection Framework:**
+<p>**Metric Selection Framework:**</p>
 
-| Phase | Primary Metrics | Secondary Metrics |
-|-------|----------------|-------------------|
-| Ignition | Users, Engagement | Features, Feedback |
-| Drift | Revenue, Retention | Growth, Efficiency |
-| Orbit | Profit, Scale | Market Share, NPS |
-| Flare | Valuation, Impact | Innovation, Reach |
+<p>| Phase | Primary Metrics | Secondary Metrics |</p>
+<p>|-------|----------------|-------------------|</p>
+<p>| Ignition | Users, Engagement | Features, Feedback |</p>
+<p>| Drift | Revenue, Retention | Growth, Efficiency |</p>
+<p>| Orbit | Profit, Scale | Market Share, NPS |</p>
+<p>| Flare | Valuation, Impact | Innovation, Reach |</p>
 
-**Good Metrics Are:**
+<p>**Good Metrics Are:**</p>
 
-- Directly measurable
-- Business relevant
-- Leading indicators
-- Comparable over time
-- Actionable insights
+<ul>
+<li>Directly measurable</li>
+<li>Business relevant</li>
+<li>Leading indicators</li>
+<li>Comparable over time</li>
+<li>Actionable insights</li>
 
+</ul>
 </div>
 
 ### Stretch vs. Safe
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Balancing Ambition and Reality
+<h3>⚖️ Balancing Ambition and Reality</h3>
 
-**The 70-20-10 Rule:**
+<p>**The 70-20-10 Rule:**</p>
 
-- **70% Confidence**
-  - Core milestones
-- **20% Stretch**
-  - Ambitious targets
-- **10% Moonshot**
-  - Breakthrough goals
+<ul>
+<li>**70% Confidence**</li>
+<li>Core milestones</li>
+<li>**20% Stretch**</li>
+<li>Ambitious targets</li>
+<li>**10% Moonshot**</li>
+<li>Breakthrough goals</li>
 ```
-High Reward
-    │
-    │  Moonshot      Stretch
-    │  (Selective)   (Pursue)
-    │
-    │  Avoid         Core
-    │  (Skip)        (Focus)
-    │
-    └───────────────────→
-              Low Risk    High Risk
+</ul>
+<p>High Reward</p>
+<p>│</p>
+<p>│  Moonshot      Stretch</p>
+<p>│  (Selective)   (Pursue)</p>
+<p>│</p>
+<p>│  Avoid         Core</p>
+<p>│  (Skip)        (Focus)</p>
+<p>│</p>
+<p>└───────────────────→</p>
+<p>Low Risk    High Risk</p>
 ```
 
 </div>
@@ -314,253 +358,289 @@ High Reward
 
 ### Writing Clear Proposals
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Compelling Milestone Declarations
+<h3>📝 Compelling Milestone Declarations</h3>
 
-**Milestone Proposal Template:**
+<p>**Milestone Proposal Template:**</p>
 ```markdown
-# Milestone: [Clear Title]
+<h1>Milestone: [Clear Title]</h1>
 
-## Objective
-[What we're achieving and why it matters]
+<h2>Objective</h2>
+<p>[What we're achieving and why it matters]</p>
 
-## Success Criteria
-- [ ] Specific metric 1
-- [ ] Specific metric 2
-- [ ] Specific metric 3
+<h2>Success Criteria</h2>
+<ul>
+<li>[ ] Specific metric 1</li>
+<li>[ ] Specific metric 2</li>
+<li>[ ] Specific metric 3</li>
 
-## Deliverables
-1. [Tangible output 1]
-2. [Tangible output 2]
-3. [Tangible output 3]
+<h2>Deliverables</h2>
+</ul>
+<p>1. [Tangible output 1]</p>
+<p>2. [Tangible output 2]</p>
+<p>3. [Tangible output 3]</p>
 
-## Timeline
-- Start: [Date]
-- Key Checkpoints: [Dates]
-- Completion: [Date]
+<h2>Timeline</h2>
+<ul>
+<li>Start: [Date]</li>
+<li>Key Checkpoints: [Dates]</li>
+<li>Completion: [Date]</li>
 
-## Resources Required
-- Team: [Who's involved]
-- Budget: [Financial needs]
-- Tools: [Technical requirements]
+<h2>Resources Required</h2>
+<li>Team: [Who's involved]</li>
+<li>Budget: [Financial needs]</li>
+<li>Tools: [Technical requirements]</li>
 
-## Validation Method
-[How Anchors will verify completion]
+<h2>Validation Method</h2>
+</ul>
+<p>[How Anchors will verify completion]</p>
 
-## Risk Mitigation
-[Key risks and management strategies]
+<h2>Risk Mitigation</h2>
+<p>[Key risks and management strategies]</p>
 ```
 
 </div>
 
 ### Evidence Planning
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Proving Your Success
+<h3>📊 Proving Your Success</h3>
 
-**Evidence Categories:
-1. **Quantitative Evidence**
-   - Analytics dashboards
-   - Financial reports
-   - User metrics
-   - Performance data
-   - Growth charts
+<p>**Evidence Categories:**</p>
+<p>1. **Quantitative Evidence**</p>
+<ul>
+<li>Analytics dashboards</li>
+<li>Financial reports</li>
+<li>User metrics</li>
+<li>Performance data</li>
+<li>Growth charts</li>
 
-2. **Qualitative Evidence**
-   - User testimonials
-   - Case studies
-   - Media coverage
-   - Expert endorsements
-   - Community feedback
+</ul>
+<p>2. **Qualitative Evidence**</p>
+<ul>
+<li>User testimonials</li>
+<li>Case studies</li>
+<li>Media coverage</li>
+<li>Expert endorsements</li>
+<li>Community feedback</li>
 
-3. **Technical Evidence**
-   - Code repositories
-   - Live demos
-   - API documentation
-   - Security audits
-   - Performance tests
+</ul>
+<p>3. **Technical Evidence**</p>
+<ul>
+<li>Code repositories</li>
+<li>Live demos</li>
+<li>API documentation</li>
+<li>Security audits</li>
+<li>Performance tests</li>
 
-**Evidence Collection Plan:**
+</ul>
+<p>**Evidence Collection Plan:**</p>
 
-- Set up tracking early
-- Automate where possible
-- Regular snapshots
-- Third-party validation
-- Clear documentation
+<ul>
+<li>Set up tracking early</li>
+<li>Automate where possible</li>
+<li>Regular snapshots</li>
+<li>Third-party validation</li>
+<li>Clear documentation</li>
 
+</ul>
 </div>
 
 ## Execution Strategies
 
 ### Sprint Planning
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏃 Breaking Down Big Goals
+<h3>🏃 Breaking Down Big Goals</h3>
 
-**Milestone Sprint Structure:**
+<p>**Milestone Sprint Structure:**</p>
 
-**Week 1-2: Foundation**
-
-```
-Sprint 1 Goals:
-- Set up infrastructure
-- Assign responsibilities
-- Create tracking systems
-- Kick-off meetings
-- Initial development
-```
-
-**Week 3-6: Core Development**
+<p>**Week 1-2: Foundation**</p>
 
 ```
-Sprint 2-3 Goals:
-- Feature development
-- Testing cycles
-- User feedback
-- Iteration loops
-- Progress tracking
+<p>Sprint 1 Goals:</p>
+<ul>
+<li>Set up infrastructure</li>
+<li>Assign responsibilities</li>
+<li>Create tracking systems</li>
+<li>Kick-off meetings</li>
+<li>Initial development</li>
 ```
 
-**Week 7-8: Finalization**
+</ul>
+<p>**Week 3-6: Core Development**</p>
 
 ```
-Sprint 4 Goals:
-- Final testing
-- Documentation
-- Evidence gathering
-- Anchor preparation
-- Launch ready
+<p>Sprint 2-3 Goals:</p>
+<ul>
+<li>Feature development</li>
+<li>Testing cycles</li>
+<li>User feedback</li>
+<li>Iteration loops</li>
+<li>Progress tracking</li>
 ```
 
+</ul>
+<p>**Week 7-8: Finalization**</p>
+
+```
+<p>Sprint 4 Goals:</p>
+<ul>
+<li>Final testing</li>
+<li>Documentation</li>
+<li>Evidence gathering</li>
+<li>Anchor preparation</li>
+<li>Launch ready</li>
+```
+
+</ul>
 </div>
 
 ### Team Alignment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Getting Everyone On Board
+<h3>👥 Getting Everyone On Board</h3>
 
-**Alignment Tactics:
-1. **Clear Communication:**
-   - Daily standups
-   - Weekly reviews
-   - Milestone dashboard
-   - Progress updates
-   - Blocker discussions
+<p>**Alignment Tactics:**</p>
+<p>1. **Clear Communication:**</p>
+<ul>
+<li>Daily standups</li>
+<li>Weekly reviews</li>
+<li>Milestone dashboard</li>
+<li>Progress updates</li>
+<li>Blocker discussions</li>
 
-2. **Responsibility Matrix**
+</ul>
+<p>2. **Responsibility Matrix**</p>
    ```
-   RACI Chart:
-   R - Responsible (Does the work)
-   A - Accountable (Owns outcome)
-   C - Consulted (Provides input)
-   I - Informed (Kept updated)
+<p>RACI Chart:</p>
+<p>R - Responsible (Does the work)</p>
+<p>A - Accountable (Owns outcome)</p>
+<p>C - Consulted (Provides input)</p>
+<p>I - Informed (Kept updated)</p>
    ```
 
-3. **Motivation Systems**
-   - Milestone bonuses
-   - Recognition programs
-   - Team celebrations
-   - Learning opportunities
-   - Career growth
+<p>3. **Motivation Systems**</p>
+<ul>
+<li>Milestone bonuses</li>
+<li>Recognition programs</li>
+<li>Team celebrations</li>
+<li>Learning opportunities</li>
+<li>Career growth</li>
 
+</ul>
 </div>
 
 ## Common Pitfalls
 
 ### Avoiding Milestone Mistakes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ What Not to Do
+<h3>⚠️ What Not to Do</h3>
 
-**Common Mistakes:
-1. **Vague Objectives**
-   - Problem: "Improve the product"
-   - Solution: "Increase load speed by 50%"
+<p>**Common Mistakes:**</p>
+<p>1. **Vague Objectives**</p>
+<ul>
+<li>Problem: "Improve the product"</li>
+<li>Solution: "Increase load speed by 50%"</li>
 
-2. **Unrealistic Timelines**
-   - Problem: "Build everything in 2 weeks"
-   - Solution: Realistic phase planning
+</ul>
+<p>2. **Unrealistic Timelines**</p>
+<ul>
+<li>Problem: "Build everything in 2 weeks"</li>
+<li>Solution: Realistic phase planning</li>
 
-3. **No Buffer Time**
-   - Problem: Zero margin for error
-   - Solution: 20% time buffer
+</ul>
+<p>3. **No Buffer Time**</p>
+<ul>
+<li>Problem: Zero margin for error</li>
+<li>Solution: 20% time buffer</li>
 
-4. **Poor Dependencies**
-   - Problem: Everything depends on one thing
-   - Solution: Parallel work streams
+</ul>
+<p>4. **Poor Dependencies**</p>
+<ul>
+<li>Problem: Everything depends on one thing</li>
+<li>Solution: Parallel work streams</li>
 
-5. **Weak Evidence**
-   - Problem: "Trust us, we did it"
-   - Solution: Comprehensive proof
+</ul>
+<p>5. **Weak Evidence**</p>
+<ul>
+<li>Problem: "Trust us, we did it"</li>
+<li>Solution: Comprehensive proof</li>
 
+</ul>
 </div>
 
 ## Advanced Techniques
 
 ### Dynamic Milestone Adjustment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Adapting to Reality
+<h3>🔄 Adapting to Reality</h3>
 
-**When to Adjust:**
+<p>**When to Adjust:**</p>
 
-- Market conditions change
-- New opportunities arise
-- Resources shift
-- Learnings emerge
-- Pivots necessary
+<ul>
+<li>Market conditions change</li>
+<li>New opportunities arise</li>
+<li>Resources shift</li>
+<li>Learnings emerge</li>
+<li>Pivots necessary</li>
 
-**How to Adjust:**
-1. Early communication
-2. Data-driven rationale
-3. Stakeholder buy-in
-4. Revised planning
-5. Clear documentation
+</ul>
+<p>**How to Adjust:**</p>
+<p>1. Early communication</p>
+<p>2. Data-driven rationale</p>
+<p>3. Stakeholder buy-in</p>
+<p>4. Revised planning</p>
+<p>5. Clear documentation</p>
 
-**Adjustment Protocol:**
+<p>**Adjustment Protocol:**</p>
 ```python
-def milestone_adjustment_protocol():
-    if significant_change_detected():
-        impact = assess_impact()
-        
-        if impact > threshold:
-            proposal = create_adjustment_proposal()
-            approval = get_stakeholder_approval(proposal)
-            
-            if approval:
-                update_milestone()
-                communicate_changes()
-                reset_expectations()
+<p>def milestone_adjustment_protocol():</p>
+<p>if significant_change_detected():</p>
+<p>impact = assess_impact()</p>
+
+<p>if impact > threshold:</p>
+<p>proposal = create_adjustment_proposal()</p>
+<p>approval = get_stakeholder_approval(proposal)</p>
+
+<p>if approval:</p>
+<p>update_milestone()</p>
+<p>communicate_changes()</p>
+<p>reset_expectations()</p>
 ```
 
 </div>
 
 ### Milestone Stacking
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Compound Progress
+<h3>🎯 Compound Progress</h3>
 
-**Stacking Strategy:**
+<p>**Stacking Strategy:**</p>
 
-- Each milestone builds on previous
-- Create momentum cascade
-- Compound learning effects
-- Network value growth
-- Ecosystem expansion
+<ul>
+<li>Each milestone builds on previous</li>
+<li>Create momentum cascade</li>
+<li>Compound learning effects</li>
+<li>Network value growth</li>
+<li>Ecosystem expansion</li>
 
-**Example Stack:**
-1. 100 users → Product validation
-2. Product validation → First revenue
-3. First revenue → Team expansion
-4. Team expansion → Feature velocity
-5. Feature velocity → Market leadership
+</ul>
+<p>**Example Stack:**</p>
+<p>1. 100 users → Product validation</p>
+<p>2. Product validation → First revenue</p>
+<p>3. First revenue → Team expansion</p>
+<p>4. Team expansion → Feature velocity</p>
+<p>5. Feature velocity → Market leadership</p>
 
 </div>
 
@@ -568,33 +648,33 @@ def milestone_adjustment_protocol():
 
 ### Progress Dashboards
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Real-Time Visibility
+<h3>📊 Real-Time Visibility</h3>
 
-**Dashboard Elements:
+<p>**Dashboard Elements:**</p>
 ```javascript
-// Milestone tracking dashboard
-const milestoneDashboard = {
-    overall_progress: "68%",
-    days_remaining: 22,
-    key_metrics: {
-        users: { target: 1000, current: 680, trend: "↑" },
-        revenue: { target: 50000, current: 34000, trend: "↑" },
-        features: { target: 10, current: 7, trend: "→" }
-    },
-    risk_indicators: {
-        timeline: "green",
-        budget: "yellow",
-        team: "green",
-        technical: "green"
-    },
-    next_actions: [
-        "Complete payment integration",
-        "Launch marketing campaign",
-        "Hire senior developer"
-    ]
-};
+<p>// Milestone tracking dashboard</p>
+<p>const milestoneDashboard = {</p>
+<p>overall_progress: "68%",</p>
+<p>days_remaining: 22,</p>
+<p>key_metrics: {</p>
+<p>users: { target: 1000, current: 680, trend: "↑" },</p>
+<p>revenue: { target: 50000, current: 34000, trend: "↑" },</p>
+<p>features: { target: 10, current: 7, trend: "→" }</p>
+<p>},</p>
+<p>risk_indicators: {</p>
+<p>timeline: "green",</p>
+<p>budget: "yellow",</p>
+<p>team: "green",</p>
+<p>technical: "green"</p>
+<p>},</p>
+<p>next_actions: [</p>
+<p>"Complete payment integration",</p>
+<p>"Launch marketing campaign",</p>
+<p>"Hire senior developer"</p>
+<p>]</p>
+<p>};</p>
 ```
 
 </div>

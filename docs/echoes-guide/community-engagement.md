@@ -2,11 +2,11 @@
 
 ## Building Your Network and Influence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 The Power of Community
+<h3>🤝 The Power of Community</h3>
 
-Success as an Echo extends far beyond individual signals. This guide shows you how to engage meaningfully with the Studio3 community, build valuable relationships, contribute to ecosystem growth, and leverage collective intelligence for better outcomes.
+<p>Success as an Echo extends far beyond individual signals. This guide shows you how to engage meaningfully with the Studio3 community, build valuable relationships, contribute to ecosystem growth, and leverage collective intelligence for better outcomes.</p>
 
 </div>
 
@@ -14,68 +14,87 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 ### The Studio3 Ecosystem
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌐 Community Structure
+<h3>🌐 Community Structure</h3>
 
-**Key Community Spaces:**
+<p>**Key Community Spaces:**</p>
 
-1. **Discord Server:**
-- Real
-- time discussions
-- Role
-- specific channels
+<p>1. **Discord Server:**</p>
+<ul>
+<li>Real</li>
+<li>time discussions</li>
+<li>Role</li>
+<li>specific channels</li>
 
-- Voice rooms
+<li>Voice rooms</li>
 
-- Event spaces
+<li>Event spaces</li>
 
-2. **Forum:** Platform
+</ul>
+<p>2. **Forum:**</p>
 
-- Deep analysis
+<p>**Platform**</p>
 
-- Strategy discussions
+<ul>
+<li>Deep analysis</li>
 
-- Educational content
+<li>Strategy discussions</li>
 
-- Governance debates
+<li>Educational content</li>
 
-3. **Social Media:**
+<li>Governance debates</li>
 
-- Twitter updates
+</ul>
+<p>3. **Social Media:**</p>
 
-- YouTube tutorials
+<ul>
+<li>Twitter updates</li>
 
-- Medium articles
+<li>YouTube tutorials</li>
 
-- Reddit discussions
-** Community Roles:
-- ** Newcomers seeking guidance
-- Active Echoes sharing insights
-- Veteran leaders mentoring
-- Builders creating tools
-- Moderators maintaining order
+<li>Medium articles</li>
 
+<li>Reddit discussions</li>
+
+
+
+</ul>
+<p>Community Roles:**</p>
+<ul>
+<li>**Newcomers seeking guidance**</li>
+<li>Active Echoes sharing insights</li>
+<li>Veteran leaders mentoring</li>
+<li>Builders creating tools</li>
+<li>Moderators maintaining order</li>
+
+</ul>
 </div>
 
 ### Community Value Exchange
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💡 Give and Receive
-** What You Can Offer:
-- ** Research and analysis
-- Experience and lessons
-- Tools and resources
-- Mentorship time
-- Positive energy
-** What You Can Gain:
-- ** Early information
-- Collective wisdom
-- Support network
-- Collaboration opportunities
-- Reputation building
-**The Golden Rule:Give 10x more than you take
+<h3>💡 Give and Receive</h3>
+<p>** What You Can Offer:**</p>
+<ul>
+<li>**Research and analysis**</li>
+<li>Experience and lessons</li>
+<li>Tools and resources</li>
+<li>Mentorship time</li>
+<li>Positive energy</li>
+
+</ul>
+<p>** What You Can Gain:**</p>
+<ul>
+<li>**Early information**</li>
+<li>Collective wisdom</li>
+<li>Support network</li>
+<li>Collaboration opportunities</li>
+<li>Reputation building</li>
+
+</ul>
+<p>**The Golden Rule:** Give 10x more than you take</p>
 
 </div>
 
@@ -83,576 +102,708 @@ Success as an Echo extends far beyond individual signals. This guide shows you h
 
 ### Building Your Presence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 Establishing Yourself
-**Week 1-2: Introduction Phase
-- ** Introduce yourself properly
-- Share your background
-- State your goals
-- Ask thoughtful questions
-- Thank helpers
-**Month 1: Active Participation
-- ** Daily check-ins
-- Share insights
-- Answer questions
-- Join discussions
-- Attend events
-**Month 2-3: Value Creation
-- ** Write guides
-- Share analysis
-- Create tools
-- Host discussions
-- Mentor newcomers
-**Month 4+: Leadership
-- ** Lead initiatives
-- Organize events
-- Drive innovation
-- Shape culture
-- Inspire others
+<h3>🌟 Establishing Yourself</h3>
+<p>**Week 1-2: Introduction Phase**</p>
+<ul>
+<li>**Introduce yourself properly**</li>
+<li>Share your background</li>
+<li>State your goals</li>
+<li>Ask thoughtful questions</li>
+<li>Thank helpers</li>
 
+</ul>
+<p>**Month 1: Active Participation**</p>
+<ul>
+<li>**Daily check-ins**</li>
+<li>Share insights</li>
+<li>Answer questions</li>
+<li>Join discussions</li>
+<li>Attend events</li>
+
+</ul>
+<p>**Month 2-3: Value Creation**</p>
+<ul>
+<li>**Write guides**</li>
+<li>Share analysis</li>
+<li>Create tools</li>
+<li>Host discussions</li>
+<li>Mentor newcomers</li>
+
+</ul>
+<p>**Month 4+: Leadership**</p>
+<ul>
+<li>**Lead initiatives**</li>
+<li>Organize events</li>
+<li>Drive innovation</li>
+<li>Shape culture</li>
+<li>Inspire others</li>
+
+</ul>
 </div>
 
 ### Communication Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💬 Effective Communication
-** Written Communication:
-1. **Be Clear**
+<h3>💬 Effective Communication</h3>
+<p>** Written Communication:**</p>
+<p>1. **Be Clear**</p>
 
-- Simple language
+<ul>
+<li>Simple language</li>
 
-- Structured thoughts
+<li>Structured thoughts</li>
 
-- Specific examples
+<li>Specific examples</li>
 
-- Actionable insights
+<li>Actionable insights</li>
 
-2. **Be Helpful**
+</ul>
+<p>2. **Be Helpful**</p>
 
-- Answer thoroughly
+<ul>
+<li>Answer thoroughly</li>
 
-- Provide context
+<li>Provide context</li>
 
-- Share resources
+<li>Share resources</li>
 
-- Follow up
+<li>Follow up</li>
 
-3. **Be Professional**
+</ul>
+<p>3. **Be Professional**</p>
 
-- Respectful tone
+<ul>
+<li>Respectful tone</li>
 
-- No personal attacks
+<li>No personal attacks</li>
 
-- Admit mistakes
+<li>Admit mistakes</li>
 
-- Stay positive
-** Voice Communication:
-- ** Prepare talking points
-- Listen actively
-- Speak clearly
-- Respect time
-- Follow up written
+<li>Stay positive</li>
 
+</ul>
+<p>** Voice Communication:**</p>
+<ul>
+<li>**Prepare talking points**</li>
+<li>Listen actively</li>
+<li>Speak clearly</li>
+<li>Respect time</li>
+<li>Follow up written</li>
+
+</ul>
 </div>
 
 ## Community Contribution
 
 ### Content Creation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Sharing Knowledge
-** Types of Content:
-1. **Analysis Posts**
+<h3>📝 Sharing Knowledge</h3>
+<p>** Types of Content:**</p>
+<p>1. **Analysis Posts**</p>
 
-- Venture deep dives
+<ul>
+<li>Venture deep dives</li>
 
-- Market analysis
+<li>Market analysis</li>
 
-- Strategy frameworks
+<li>Strategy frameworks</li>
 
-- Performance reviews
+<li>Performance reviews</li>
 
-2. **Educational Guides**
+</ul>
+<p>2. **Educational Guides**</p>
 
-- Beginner tutorials
+<ul>
+<li>Beginner tutorials</li>
 
-- Advanced strategies
+<li>Advanced strategies</li>
 
-- Tool usage
+<li>Tool usage</li>
 
-- Best practices
+<li>Best practices</li>
 
-3. **Tools & Resources**
+</ul>
+<p>3. **Tools & Resources**</p>
 
-- Calculators
+<ul>
+<li>Calculators</li>
 
-- Trackers
+<li>Trackers</li>
 
-- Templates
+<li>Templates</li>
 
-- Automation
+<li>Automation</li>
 
-4. **Experience Sharing**
+</ul>
+<p>4. **Experience Sharing**</p>
 
-- Success stories
+<ul>
+<li>Success stories</li>
 
-- Failure lessons
+<li>Failure lessons</li>
 
-- Journey updates
+<li>Journey updates</li>
 
-- Tips & tricks
+<li>Tips & tricks</li>
 
+</ul>
 </div>
 
 ### Mentorship Programs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👨‍🏫 Teaching and Learning
-** Becoming a Mentor:
-- ** 6+ months experience
-- 70%+ success rate
-- Strong communication
-- Time commitment
-- Patience & empathy
-** Mentorship Activities:
-- ** 1-on-1 guidance
-- Group workshops
-- Strategy reviews
-- Portfolio analysis
-- Emotional support
-** Mentor Benefits:
-- ** Deeper learning
-- Network expansion
-- Reputation building
-- XP rewards
-- Personal satisfaction
+<h3>👨‍🏫 Teaching and Learning</h3>
+<p>** Becoming a Mentor:**</p>
+<ul>
+<li>**6+ months experience**</li>
+<li>70%+ success rate</li>
+<li>Strong communication</li>
+<li>Time commitment</li>
+<li>Patience & empathy</li>
 
+</ul>
+<p>** Mentorship Activities:**</p>
+<ul>
+<li>**1-on-1 guidance**</li>
+<li>Group workshops</li>
+<li>Strategy reviews</li>
+<li>Portfolio analysis</li>
+<li>Emotional support</li>
+
+</ul>
+<p>** Mentor Benefits:**</p>
+<ul>
+<li>**Deeper learning**</li>
+<li>Network expansion</li>
+<li>Reputation building</li>
+<li>XP rewards</li>
+<li>Personal satisfaction</li>
+
+</ul>
 </div>
 
 ## Building Relationships
 
 ### Strategic Networking
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌐 Network Strategically
-** Key Relationships:
-1. **Peer Echoes**
+<h3>🌐 Network Strategically</h3>
+<p>** Key Relationships:**</p>
+<p>1. **Peer Echoes**</p>
 
-- Similar experience
+<ul>
+<li>Similar experience</li>
 
-- Shared learning
+<li>Shared learning</li>
 
-- Mutual support
+<li>Mutual support</li>
 
-- Collaboration potential
+<li>Collaboration potential</li>
 
-2. **Veteran Echoes**
+</ul>
+<p>2. **Veteran Echoes**</p>
 
-- Learn from experience
+<ul>
+<li>Learn from experience</li>
 
-- Gain insights
+<li>Gain insights</li>
 
-- Access wisdom
+<li>Access wisdom</li>
 
-- Shortcut learning
+<li>Shortcut learning</li>
 
-3. **Senders (Founders)**
+</ul>
+<p>3. **Senders (Founders)**</p>
 
-- Direct information
+<ul>
+<li>Direct information</li>
 
-- Early insights
+<li>Early insights</li>
 
-- Relationship value
+<li>Relationship value</li>
 
-- Future opportunities
+<li>Future opportunities</li>
 
-4. **Anchors (Validators)**
+</ul>
+<p>4. **Anchors (Validators)**</p>
 
-- Quality standards
+<ul>
+<li>Quality standards</li>
 
-- Validation insights
+<li>Validation insights</li>
 
-- Process understanding
+<li>Process understanding</li>
 
-- Credibility boost
+<li>Credibility boost</li>
 
+</ul>
 </div>
 
 ### Collaboration Opportunities
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Working Together
-** Collaboration Types:
-1. **Research Partnerships**
+<h3>🤝 Working Together</h3>
+<p>** Collaboration Types:**</p>
+<p>1. **Research Partnerships**</p>
 
-- Share workload
+<ul>
+<li>Share workload</li>
 
-- Combine expertise
+<li>Combine expertise</li>
 
-- Deeper analysis
+<li>Deeper analysis</li>
 
-- Better outcomes
+<li>Better outcomes</li>
 
-2. **Tool Development**
+</ul>
+<p>2. **Tool Development**</p>
 
-- Identify needs
+<ul>
+<li>Identify needs</li>
 
-- Pool skills
+<li>Pool skills</li>
 
-- Build together
+<li>Build together</li>
 
-- Share credit
+<li>Share credit</li>
 
-3. **Strategy Groups**
+</ul>
+<p>3. **Strategy Groups**</p>
 
-- Private discussions
+<ul>
+<li>Private discussions</li>
 
-- Shared insights
+<li>Shared insights</li>
 
-- Collective intelligence
+<li>Collective intelligence</li>
 
-- Accountability
+<li>Accountability</li>
 
-4. **Investment Clubs**
+</ul>
+<p>4. **Investment Clubs**</p>
 
-- Pool resources
+<ul>
+<li>Pool resources</li>
 
-- Share research
+<li>Share research</li>
 
-- Group decisions
+<li>Group decisions</li>
 
-- Risk sharing
+<li>Risk sharing</li>
 
+</ul>
 </div>
 
 ## Community Leadership
 
 ### Becoming an Influencer
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👑 Leadership Path
-** Leadership Qualities:
-- ** Consistent presence
-- Valuable contributions
-- Positive attitude
-- Inclusive approach
-- Innovation drive
-** Leadership Activities:
-1. **Content Leadership**
+<h3>👑 Leadership Path</h3>
+<p>** Leadership Qualities:**</p>
+<ul>
+<li>**Consistent presence**</li>
+<li>Valuable contributions</li>
+<li>Positive attitude</li>
+<li>Inclusive approach</li>
+<li>Innovation drive</li>
 
-- Regular posting
+</ul>
+<p>** Leadership Activities:**</p>
+<p>1. **Content Leadership**</p>
 
-- Quality insights
+<ul>
+<li>Regular posting</li>
 
-- Educational focus
+<li>Quality insights</li>
 
-- Thought leadership
+<li>Educational focus</li>
 
-2. **Event Leadership**
+<li>Thought leadership</li>
 
-- Host AMAs
+</ul>
+<p>2. **Event Leadership**</p>
 
-- Organize workshops
+<ul>
+<li>Host AMAs</li>
 
-- Lead discussions
+<li>Organize workshops</li>
 
-- Create experiences
+<li>Lead discussions</li>
 
-3. **Cultural Leadership**
+<li>Create experiences</li>
 
-- Set positive tone
+</ul>
+<p>3. **Cultural Leadership**</p>
 
-- Resolve conflicts
+<ul>
+<li>Set positive tone</li>
 
-- Welcome newcomers
+<li>Resolve conflicts</li>
 
-- Shape norms
+<li>Welcome newcomers</li>
 
+<li>Shape norms</li>
+
+</ul>
 </div>
 
 ### Community Initiatives
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Driving Innovation
-** Initiative Ideas:
-1. **Echo Academy**
+<h3>🚀 Driving Innovation</h3>
+<p>** Initiative Ideas:**</p>
+<p>1. **Echo Academy**</p>
 
-- Structured education
+<ul>
+<li>Structured education</li>
 
-- Progressive curriculum
+<li>Progressive curriculum</li>
 
-- Certification program
+<li>Certification program</li>
 
-- Mentor matching
+<li>Mentor matching</li>
 
-2. **Research Collective**
+</ul>
+<p>2. **Research Collective**</p>
 
-- Shared research
+<ul>
+<li>Shared research</li>
 
-- Sector specialization
+<li>Sector specialization</li>
 
-- Report publication
+<li>Report publication</li>
 
-- Knowledge base
+<li>Knowledge base</li>
 
-3. **Tool Ecosystem**
+</ul>
+<p>3. **Tool Ecosystem**</p>
 
-- Open source tools
+<ul>
+<li>Open source tools</li>
 
-- API development
+<li>API development</li>
 
-- Integration suite
+<li>Integration suite</li>
 
-- Community maintenance
+<li>Community maintenance</li>
 
-4. **Social Impact**
+</ul>
+<p>4. **Social Impact**</p>
 
-- Charity signals
+<ul>
+<li>Charity signals</li>
 
-- Education outreach
+<li>Education outreach</li>
 
-- Ecosystem growth
+<li>Ecosystem growth</li>
 
-- Positive change
+<li>Positive change</li>
 
+</ul>
 </div>
 
 ## Engagement Best Practices
 
 ### Daily Habits
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 Consistent Engagement
-** Daily Routine (30 min):
-- ** Morning: Check announcements
-- Midday: Engage in discussions
-- Evening: Share insights
-- Night: Help newcomers
-** Weekly Goals:
-- ** 5+ helpful posts
-- 1 detailed analysis
-- 3 newcomers helped
-- 1 collaboration
-- Community event attendance
-** Monthly Targets:
-- ** 1 guide written
-- 5 connections made
-- 1 initiative led
-- 10 problems solved
-- Measurable impact
+<h3>📅 Consistent Engagement</h3>
+<p>** Daily Routine (30 min):**</p>
+<ul>
+<li>**Morning: Check announcements**</li>
+<li>Midday: Engage in discussions</li>
+<li>Evening: Share insights</li>
+<li>Night: Help newcomers</li>
 
+</ul>
+<p>** Weekly Goals:**</p>
+<ul>
+<li>**5+ helpful posts**</li>
+<li>1 detailed analysis</li>
+<li>3 newcomers helped</li>
+<li>1 collaboration</li>
+<li>Community event attendance</li>
+
+</ul>
+<p>** Monthly Targets:**</p>
+<ul>
+<li>**1 guide written**</li>
+<li>5 connections made</li>
+<li>1 initiative led</li>
+<li>10 problems solved</li>
+<li>Measurable impact</li>
+
+</ul>
 </div>
 
 ### Avoiding Pitfalls
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Engagement Mistakes
-** What to Avoid:
-- ** Self-promotion only
-- Negativity spreading
-- Drama creation
-- Information hoarding
-- Clique formation
-** Toxic Behaviors:
-- ** Personal attacks
-- Spreading FUD
-- Manipulation attempts
-- Trolling/spamming
-- Breaking trust
-** Consequences:
-- ** Reputation damage
-- Community rejection
-- Opportunity loss
-- Platform penalties
-- Permanent impact
+<h3>❌ Engagement Mistakes</h3>
+<p>** What to Avoid:**</p>
+<ul>
+<li>**Self-promotion only**</li>
+<li>Negativity spreading</li>
+<li>Drama creation</li>
+<li>Information hoarding</li>
+<li>Clique formation</li>
 
+</ul>
+<p>** Toxic Behaviors:**</p>
+<ul>
+<li>**Personal attacks**</li>
+<li>Spreading FUD</li>
+<li>Manipulation attempts</li>
+<li>Trolling/spamming</li>
+<li>Breaking trust</li>
+
+</ul>
+<p>** Consequences:**</p>
+<ul>
+<li>**Reputation damage**</li>
+<li>Community rejection</li>
+<li>Opportunity loss</li>
+<li>Platform penalties</li>
+<li>Permanent impact</li>
+
+</ul>
 </div>
 
 ## Leveraging Community
 
 ### Information Networks
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 Intelligence Gathering
-** Information Sources:
-1. **Direct Channels**
+<h3>📡 Intelligence Gathering</h3>
+<p>** Information Sources:**</p>
+<p>1. **Direct Channels**</p>
 
-- Founder updates
+<ul>
+<li>Founder updates</li>
 
-- Anchor insights
+<li>Anchor insights</li>
 
-- Peer research
+<li>Peer research</li>
 
-- Expert opinions
+<li>Expert opinions</li>
 
-2. **Indirect Signals**
+</ul>
+<p>2. **Indirect Signals**</p>
 
-- Sentiment shifts
+<ul>
+<li>Sentiment shifts</li>
 
-- Behavior patterns
+<li>Behavior patterns</li>
 
-- Hidden concerns
+<li>Hidden concerns</li>
 
-- Early warnings
-** Best Practices:
-- ** Verify information
-- Share sources
-- Credit contributors
-- Add value
-- Build trust
+<li>Early warnings</li>
 
+</ul>
+<p>** Best Practices:**</p>
+<ul>
+<li>**Verify information**</li>
+<li>Share sources</li>
+<li>Credit contributors</li>
+<li>Add value</li>
+<li>Build trust</li>
+
+</ul>
 </div>
 
 ### Collective Intelligence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Wisdom of Crowds
-** Harnessing Group Wisdom:
-1. **Diverse Perspectives**
+<h3>🧠 Wisdom of Crowds</h3>
+<p>** Harnessing Group Wisdom:**</p>
+<p>1. **Diverse Perspectives**</p>
 
-- Different backgrounds
+<ul>
+<li>Different backgrounds</li>
 
-- Various expertise
+<li>Various expertise</li>
 
-- Multiple viewpoints
+<li>Multiple viewpoints</li>
 
-- Reduced blind spots
+<li>Reduced blind spots</li>
 
-2. **Error Correction**
+</ul>
+<p>2. **Error Correction**</p>
 
-- Peer review
+<ul>
+<li>Peer review</li>
 
-- Fact checking
+<li>Fact checking</li>
 
-- Assumption testing
+<li>Assumption testing</li>
 
-- Bias reduction
+<li>Bias reduction</li>
 
-3. **Pattern Recognition**
+</ul>
+<p>3. **Pattern Recognition**</p>
 
-- Collective memory
+<ul>
+<li>Collective memory</li>
 
-- Historical context
+<li>Historical context</li>
 
-- Trend identification
+<li>Trend identification</li>
 
-- Early detection
+<li>Early detection</li>
 
+</ul>
 </div>
 
 ## Community Tools
 
 ### Engagement Platforms
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Essential Tools
-** Communication Tools:
-- ** Discord (real-time)
-- Forum (long-form)
-- Twitter (updates)
-- Telegram (groups)
-** Collaboration Tools:
-- ** Notion (wikis)
-- GitHub (code)
-- Figma (design)
-- Miro (planning)
-** Analytics Tools:
-- ** Engagement trackers
-- Sentiment analysis
-- Network mapping
-- Impact measurement
+<h3>🛠️ Essential Tools</h3>
+<p>** Communication Tools:**</p>
+<ul>
+<li>**Discord (real-time)**</li>
+<li>Forum (long-form)</li>
+<li>Twitter (updates)</li>
+<li>Telegram (groups)</li>
 
+</ul>
+<p>** Collaboration Tools:**</p>
+<ul>
+<li>**Notion (wikis)**</li>
+<li>GitHub (code)</li>
+<li>Figma (design)</li>
+<li>Miro (planning)</li>
+
+</ul>
+<p>** Analytics Tools:**</p>
+<ul>
+<li>**Engagement trackers**</li>
+<li>Sentiment analysis</li>
+<li>Network mapping</li>
+<li>Impact measurement</li>
+
+</ul>
 </div>
 
 ## Measuring Impact
 
 ### Engagement Metrics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Track Your Impact
-** Quantitative Metrics:
-- ** Posts per month
-- Responses generated
-- Problems solved
-- Tools created
-- Events hosted
-** Qualitative Metrics:
-- ** Testimonials received
-- Relationships built
-- Culture influenced
-- Knowledge shared
-- Lives impacted
-** Reputation Indicators:
-- ** Mentions by others
-- Requests for help
-- Collaboration invites
-- Leadership opportunities
-- Platform recognition
+<h3>📊 Track Your Impact</h3>
+<p>** Quantitative Metrics:**</p>
+<ul>
+<li>**Posts per month**</li>
+<li>Responses generated</li>
+<li>Problems solved</li>
+<li>Tools created</li>
+<li>Events hosted</li>
 
+</ul>
+<p>** Qualitative Metrics:**</p>
+<ul>
+<li>**Testimonials received**</li>
+<li>Relationships built</li>
+<li>Culture influenced</li>
+<li>Knowledge shared</li>
+<li>Lives impacted</li>
+
+</ul>
+<p>** Reputation Indicators:**</p>
+<ul>
+<li>**Mentions by others**</li>
+<li>Requests for help</li>
+<li>Collaboration invites</li>
+<li>Leadership opportunities</li>
+<li>Platform recognition</li>
+
+</ul>
 </div>
 
 ## Advanced Engagement
 
 ### Community Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Strategic Engagement
-** Long-term Strategy:
-1. **Year 1:**
- Build foundation
-2. **Year 2:**
- Establish expertise
-3. **Year 3:**
- Lead initiatives
-4. **Year 4:**
- Drive innovation
-5. **Year 5:**
- Legacy building**
-- ** Network Effects:
-- ** Each connection multiplies value
-- Reputation compounds
-- Opportunities accelerate
-- Impact scales
-- Success breeds success
+<h3>🎯 Strategic Engagement</h3>
+<p>** Long-term Strategy:**</p>
+<p>1. **Year 1:**</p>
 
+<p>**Build foundation**</p>
+<p>2. **Year 2:**</p>
+
+<p>**Establish expertise**</p>
+<p>3. **Year 3:**</p>
+
+<p>**Lead initiatives**</p>
+<p>4. **Year 4:**</p>
+
+<p>**Drive innovation**</p>
+<p>5. **Year 5:**</p>
+<p>Legacy building</p>
+
+<ul>
+<li>**Network Effects:**</li>
+<li>**Each connection multiplies value**</li>
+<li>Reputation compounds</li>
+<li>Opportunities accelerate</li>
+<li>Impact scales</li>
+<li>Success breeds success</li>
+
+</ul>
 </div>
 
 ## Community Ethics
 
 ### Ethical Guidelines
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Community Standards
-** Core Principles:
-- 
-1. **Integrity**
-- Always be honest
-2. **Generosity**
-- Share freely
-3. **Respect**
-- Value everyone
-4. **Growth**
-- Help others succeed
-5. **Innovation**
-- Push boundaries**
-- ** The Community Pledge:
-**"I will contribute more than I consume, help more than I ask, and leave the community better than I found it."
+<h3>⚖️ Community Standards</h3>
+<p>** Core Principles:**</p>
+<p>-</p>
+<p>1. **Integrity**</p>
+<ul>
+<li>Always be honest</li>
+</ul>
+<p>2. **Generosity**</p>
+<ul>
+<li>Share freely</li>
+</ul>
+<p>3. **Respect**</p>
+<ul>
+<li>Value everyone</li>
+</ul>
+<p>4. **Growth**</p>
+<ul>
+<li>Help others succeed</li>
+</ul>
+<p>5. **Innovation**</p>
+<ul>
+<li>Push boundaries**</li>
+<li>**The Community Pledge:**</li>
+
+</ul>
+<p>**"I will contribute more than I consume, help more than I ask, and leave the community better than I found it."**</p>
 
 </div>
 

@@ -2,11 +2,11 @@
 
 ## A Step-by-Step Guide to Getting Started
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Your Echo Journey Begins
+<h3>🎯 Your Echo Journey Begins</h3>
 
-Making your first signal can feel overwhelming. This guide walks you through every step, from choosing your first venture to celebrating your first successful prediction. Start small, learn fast, and build confidence.
+<p>Making your first signal can feel overwhelming. This guide walks you through every step, from choosing your first venture to celebrating your first successful prediction. Start small, learn fast, and build confidence.</p>
 
 </div>
 
@@ -14,85 +14,101 @@ Making your first signal can feel overwhelming. This guide walks you through eve
 
 ### Essential Preparation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Pre-Signal Checklist
+<h3>📚 Pre-Signal Checklist</h3>
 
-**Knowledge Requirements:**
+<p>**Knowledge Requirements:**</p>
 
-- ** [ ] Read the Echo Basics guide
-- [ ] Understand signal mechanics
-- [ ] Know the risk of burns
-- [ ] Grasp reward structures
-- [ ] Join Echo community channels
-** Technical Setup:
-- ** [ ] Wallet connected
-- [ ] $SIGNAL tokens acquired
-- [ ] Gas fees available
-- [ ] Platform account created
-- [ ] Notifications enabled
-** Mental Preparation:
-- ** [ ] Accept risk of loss
-- [ ] Start small mindset
-- [ ] Learning focus
-- [ ] No FOMO pressure
-- [ ] Long-term thinking
+<ul>
+<li>**[ ] Read the Echo Basics guide**</li>
+<li>[ ] Understand signal mechanics</li>
+<li>[ ] Know the risk of burns</li>
+<li>[ ] Grasp reward structures</li>
+<li>[ ] Join Echo community channels</li>
 
+</ul>
+<p>** Technical Setup:**</p>
+<ul>
+<li>**[ ] Wallet connected**</li>
+<li>[ ] $SIGNAL tokens acquired</li>
+<li>[ ] Gas fees available</li>
+<li>[ ] Platform account created</li>
+<li>[ ] Notifications enabled</li>
+
+</ul>
+<p>** Mental Preparation:**</p>
+<ul>
+<li>**[ ] Accept risk of loss**</li>
+<li>[ ] Start small mindset</li>
+<li>[ ] Learning focus</li>
+<li>[ ] No FOMO pressure</li>
+<li>[ ] Long-term thinking</li>
+
+</ul>
 </div>
 
 ## Choosing Your First Venture
 
 ### Selection Criteria
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 What to Look For
-** Beginner-Friendly Ventures:
-1. **Clear Milestones**
+<h3>🔍 What to Look For</h3>
+<p>** Beginner-Friendly Ventures:**</p>
+<p>1. **Clear Milestones**</p>
 
-- Specific deliverables
+<ul>
+<li>Specific deliverables</li>
 
-- Reasonable timelines
+<li>Reasonable timelines</li>
 
-- Measurable outcomes
+<li>Measurable outcomes</li>
 
-- Defined success criteria
+<li>Defined success criteria</li>
 
-2. **Active Communication**
+</ul>
+<p>2. **Active Communication**</p>
 
-- Daily updates
+<ul>
+<li>Daily updates</li>
 
-- Responsive founder
+<li>Responsive founder</li>
 
-- Transparent progress
+<li>Transparent progress</li>
 
-- Community engagement
+<li>Community engagement</li>
 
-3. **Moderate Risk**
+</ul>
+<p>3. **Moderate Risk**</p>
 
-- Not too ambitious
+<ul>
+<li>Not too ambitious</li>
 
-- Proven team members
+<li>Proven team members</li>
 
-- Some traction shown
+<li>Some traction shown</li>
 
-- Realistic goals
+<li>Realistic goals</li>
 
-4. **Good Documentation**
+</ul>
+<p>4. **Good Documentation**</p>
 
-- Detailed plans
+<ul>
+<li>Detailed plans</li>
 
-- Clear roadmap
+<li>Clear roadmap</li>
 
-- Technical specs
+<li>Technical specs</li>
 
-- Market analysis
+<li>Market analysis</li>
 
+</ul>
 </div>
 
 ### Red Flags to Avoid
-** Warning Signs:
-- ** Anonymous teams
+** Warning Signs:**
+- **Anonymous teams**
 - Vague milestones
 - Unrealistic timelines
 - Poor communication
@@ -105,87 +121,110 @@ Making your first signal can feel overwhelming. This guide walks you through eve
 
 ### Step-by-Step Analysis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔬 Research Framework
-1. Initial Scan (5 minutes)
-- ** Read venture description
-- Check current phase
-- Note signal ratio
-- Review recent updates
-- Gauge first impression
-2. Team Investigation (10 minutes)
-- ** Founder backgrounds
-- Previous projects
-- LinkedIn profiles
-- GitHub activity
-- Community reputation
-3. Technical Review (10 minutes)
-- ** Feasibility assessment
-- Technology stack
-- Development progress
-- Code repositories
-- Demo availability
-4. Market Analysis (10 minutes)
-- ** Problem validation
-- Competition research
-- Target audience
-- Revenue model
-- Growth potential
-5. Community Check (5 minutes)
-- ** Discord activity
-- Supporter quality
-- Question responses
-- Overall sentiment
-- Red flag reports
+<h3>🔬 Research Framework</h3>
+<p>1. Initial Scan (5 minutes)</p>
 
+<ul>
+<li>**Read venture description**</li>
+<li>Check current phase</li>
+<li>Note signal ratio</li>
+<li>Review recent updates</li>
+<li>Gauge first impression</li>
+</ul>
+<p>2. Team Investigation (10 minutes)</p>
+
+<ul>
+<li>**Founder backgrounds**</li>
+<li>Previous projects</li>
+<li>LinkedIn profiles</li>
+<li>GitHub activity</li>
+<li>Community reputation</li>
+</ul>
+<p>3. Technical Review (10 minutes)</p>
+
+<ul>
+<li>**Feasibility assessment**</li>
+<li>Technology stack</li>
+<li>Development progress</li>
+<li>Code repositories</li>
+<li>Demo availability</li>
+</ul>
+<p>4. Market Analysis (10 minutes)</p>
+
+<ul>
+<li>**Problem validation**</li>
+<li>Competition research</li>
+<li>Target audience</li>
+<li>Revenue model</li>
+<li>Growth potential</li>
+</ul>
+<p>5. Community Check (5 minutes)</p>
+
+<ul>
+<li>**Discord activity**</li>
+<li>Supporter quality</li>
+<li>Question responses</li>
+<li>Overall sentiment</li>
+<li>Red flag reports</li>
+
+</ul>
 </div>
 
 ## Making Your First Signal
 
 ### The Signal Process
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Step-by-Step Execution
-**Step 1: Final Decision
+<h3>🚀 Step-by-Step Execution</h3>
+<p>**Step 1: Final Decision**</p>
 ```
-Research Score: _/10
-Risk Level: Low/Medium/High
-Signal Type: Belief/Doubt
-Confidence: _%
+<p>Research Score: _/10</p>
+<p>Risk Level: Low/Medium/High</p>
+<p>Signal Type: Belief/Doubt</p>
+<p>Confidence: _%</p>
 ```
-**Step 2: Size Your Stake
-- ** First signal: 10-50 $SIGNAL
-- Never more than 5% bankroll
-- Leave room for gas
-- Plan for 2-3 signals
-**Step 3: Execute Signal
-1. Navigate to venture page
-2. Click "Signal" button
-3. Select Belief or Doubt
-4. Enter token amount
-5. Review transaction
-6. Confirm in wallet
-7. Wait for confirmation
-**Step 4: Document Decision
-- ** Screenshot your signal
-- Write down reasoning
-- Note key factors
-- Set calendar reminder
-- Join venture Discord
 
+<p>**Step 2: Size Your Stake**</p>
+<ul>
+<li>**First signal: 10-50 $SIGNAL**</li>
+<li>Never more than 5% bankroll</li>
+<li>Leave room for gas</li>
+<li>Plan for 2-3 signals</li>
+
+</ul>
+<p>**Step 3: Execute Signal**</p>
+<p>1. Navigate to venture page</p>
+<p>2. Click "Signal" button</p>
+<p>3. Select Belief or Doubt</p>
+<p>4. Enter token amount</p>
+<p>5. Review transaction</p>
+<p>6. Confirm in wallet</p>
+<p>7. Wait for confirmation</p>
+
+<p>**Step 4: Document Decision**</p>
+<ul>
+<li>**Screenshot your signal**</li>
+<li>Write down reasoning</li>
+<li>Note key factors</li>
+<li>Set calendar reminder</li>
+<li>Join venture Discord</li>
+
+</ul>
 </div>
 
 ### Post-Signal Actions
-** Immediate Steps:
-- ** Verify transaction success
+** Immediate Steps:**
+- **Verify transaction success**
 - Check signal appears
 - Read other signals
 - Introduce yourself
 - Ask any questions
-** Ongoing Engagement:
-- ** Daily progress checks
+
+** Ongoing Engagement:**
+- **Daily progress checks**
 - Participate in discussions
 - Support the venture
 - Learn from others
@@ -195,278 +234,359 @@ Confidence: _%
 
 ### Conservative Approach
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛡️ Safe Start Strategy
-** Profile:
-- ** Risk tolerance: Low
-- Learning focus: High
-- Capital preservation: Priority
-** Tactics:
-- ** Signal size: 10-20 $SIGNAL
-- Only established ventures
-- Phase 3+ preferred
-- Strong team focus
-- 80%+ belief pools
-** Expected Outcomes:
-- ** Lower returns (1.2-1.5x)
-- Higher success rate
-- Confidence building
-- Steady learning
-- Minimal stress
+<h3>🛡️ Safe Start Strategy</h3>
+<p>** Profile:**</p>
+<ul>
+<li>**Risk tolerance: Low**</li>
+<li>Learning focus: High</li>
+<li>Capital preservation: Priority</li>
 
+</ul>
+<p>** Tactics:**</p>
+<ul>
+<li>**Signal size: 10-20 $SIGNAL**</li>
+<li>Only established ventures</li>
+<li>Phase 3+ preferred</li>
+<li>Strong team focus</li>
+<li>80%+ belief pools</li>
+
+</ul>
+<p>** Expected Outcomes:**</p>
+<ul>
+<li>**Lower returns (1.2-1.5x)**</li>
+<li>Higher success rate</li>
+<li>Confidence building</li>
+<li>Steady learning</li>
+<li>Minimal stress</li>
+
+</ul>
 </div>
 
 ### Balanced Approach
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Middle Ground Strategy
-** Profile:
-- ** Risk tolerance: Medium
-- Return focus: Balanced
-- Learning: Important
-** Tactics:
-- ** Signal size: 30-50 $SIGNAL
-- Mix of phases
-- Both belief and doubt
-- Diversify ventures
-- Research deeply
-** Expected Outcomes:
-- ** Moderate returns (1.5-2x)
-- Some failures expected
-- Faster learning curve
-- Building intuition
-- Sustainable growth
+<h3>⚖️ Middle Ground Strategy</h3>
+<p>** Profile:**</p>
+<ul>
+<li>**Risk tolerance: Medium**</li>
+<li>Return focus: Balanced</li>
+<li>Learning: Important</li>
 
+</ul>
+<p>** Tactics:**</p>
+<ul>
+<li>**Signal size: 30-50 $SIGNAL**</li>
+<li>Mix of phases</li>
+<li>Both belief and doubt</li>
+<li>Diversify ventures</li>
+<li>Research deeply</li>
+
+</ul>
+<p>** Expected Outcomes:**</p>
+<ul>
+<li>**Moderate returns (1.5-2x)**</li>
+<li>Some failures expected</li>
+<li>Faster learning curve</li>
+<li>Building intuition</li>
+<li>Sustainable growth</li>
+
+</ul>
 </div>
 
 ### Aggressive Approach
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔥 High Risk Strategy
-** Profile:
-- ** Risk tolerance: High
-- Return focus: Maximum
-- Learning: By doing
-** Tactics:
-- ** Signal size: 50-100 $SIGNAL
-- Early phase focus
-- Contrarian plays
-- High conviction only
-- Accept volatility
-** Expected Outcomes:
-- ** High returns possible (2-3x)
-- Higher failure rate
-- Rapid learning
-- Emotional swings
-- Boom or bust
+<h3>🔥 High Risk Strategy</h3>
+<p>** Profile:**</p>
+<ul>
+<li>**Risk tolerance: High**</li>
+<li>Return focus: Maximum</li>
+<li>Learning: By doing</li>
 
+</ul>
+<p>** Tactics:**</p>
+<ul>
+<li>**Signal size: 50-100 $SIGNAL**</li>
+<li>Early phase focus</li>
+<li>Contrarian plays</li>
+<li>High conviction only</li>
+<li>Accept volatility</li>
+
+</ul>
+<p>** Expected Outcomes:**</p>
+<ul>
+<li>**High returns possible (2-3x)**</li>
+<li>Higher failure rate</li>
+<li>Rapid learning</li>
+<li>Emotional swings</li>
+<li>Boom or bust</li>
+
+</ul>
 </div>
 
 ## Common First Signal Mistakes
 
 ### What Goes Wrong
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Rookie Errors
-**Mistake 1: Too Big Too Fast
-- ** Problem: Risking 50% on first signal
-- Result: Devastating if wrong
-- Solution: Max 5% of bankroll
-**Mistake 2: No Research
-- ** Problem: Signaling on hype
-- Result: Poor decisions
-- Solution: Always DYOR
-**Mistake 3: Emotional Decisions
-- ** Problem: FOMO or FUD driven
-- Result: Bad timing
-- Solution: Stick to process
-**Mistake 4: Set and Forget
-- ** Problem: Not monitoring
-- Result: Missed learning
-- Solution: Stay engaged
-**Mistake 5: Chasing Losses
-- ** Problem: Doubling down
-- Result: Bigger losses
-- Solution: Learn and move on
+<h3>❌ Rookie Errors</h3>
+<p>**Mistake 1: Too Big Too Fast**</p>
+<ul>
+<li>**Problem: Risking 50% on first signal**</li>
+<li>Result: Devastating if wrong</li>
+<li>Solution: Max 5% of bankroll</li>
 
+</ul>
+<p>**Mistake 2: No Research**</p>
+<ul>
+<li>**Problem: Signaling on hype**</li>
+<li>Result: Poor decisions</li>
+<li>Solution: Always DYOR</li>
+
+</ul>
+<p>**Mistake 3: Emotional Decisions**</p>
+<ul>
+<li>**Problem: FOMO or FUD driven**</li>
+<li>Result: Bad timing</li>
+<li>Solution: Stick to process</li>
+
+</ul>
+<p>**Mistake 4: Set and Forget**</p>
+<ul>
+<li>**Problem: Not monitoring**</li>
+<li>Result: Missed learning</li>
+<li>Solution: Stay engaged</li>
+
+</ul>
+<p>**Mistake 5: Chasing Losses**</p>
+<ul>
+<li>**Problem: Doubling down**</li>
+<li>Result: Bigger losses</li>
+<li>Solution: Learn and move on</li>
+
+</ul>
 </div>
 
 ## Learning from Outcomes
 
 ### Success Analysis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ When You Win
-** What to Document:
-- ** What went right?
-- Key success factors
-- Research accuracy
-- Timing decisions
-- Lessons learned
-** Actions to Take:
-- ** Claim rewards promptly
-- Thank the team
-- Share insights
-- Help newcomers
-- Plan next signal
-** Mindset Check:
-- ** Don't get overconfident
-- Success ≠ skill (yet)
-- Stay disciplined
-- Keep learning
-- Maintain process
+<h3>✅ When You Win</h3>
+<p>** What to Document:**</p>
+<ul>
+<li>**What went right?**</li>
+<li>Key success factors</li>
+<li>Research accuracy</li>
+<li>Timing decisions</li>
+<li>Lessons learned</li>
 
+</ul>
+<p>** Actions to Take:**</p>
+<ul>
+<li>**Claim rewards promptly**</li>
+<li>Thank the team</li>
+<li>Share insights</li>
+<li>Help newcomers</li>
+<li>Plan next signal</li>
+
+</ul>
+<p>** Mindset Check:**</p>
+<ul>
+<li>**Don't get overconfident**</li>
+<li>Success ≠ skill (yet)</li>
+<li>Stay disciplined</li>
+<li>Keep learning</li>
+<li>Maintain process</li>
+
+</ul>
 </div>
 
 ### Failure Analysis
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ When You Lose
-** What to Document:
-- ** What went wrong?
-- Missed red flags
-- Research gaps
-- Timing errors
-- Key lessons
-** Actions to Take:
-- ** Accept the loss
-- Analyze objectively
-- Seek feedback
-- Adjust process
-- Move forward
-** Mindset Check:
-- ** Losses are tuition
-- Everyone fails sometimes
-- Focus on learning
-- Don't revenge trade
-- Stay positive
+<h3>❌ When You Lose</h3>
+<p>** What to Document:**</p>
+<ul>
+<li>**What went wrong?**</li>
+<li>Missed red flags</li>
+<li>Research gaps</li>
+<li>Timing errors</li>
+<li>Key lessons</li>
 
+</ul>
+<p>** Actions to Take:**</p>
+<ul>
+<li>**Accept the loss**</li>
+<li>Analyze objectively</li>
+<li>Seek feedback</li>
+<li>Adjust process</li>
+<li>Move forward</li>
+
+</ul>
+<p>** Mindset Check:**</p>
+<ul>
+<li>**Losses are tuition**</li>
+<li>Everyone fails sometimes</li>
+<li>Focus on learning</li>
+<li>Don't revenge trade</li>
+<li>Stay positive</li>
+
+</ul>
 </div>
 
 ## Building Your Signal History
 
 ### Tracking Progress
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Performance Tracking
-** Signal Log Template:
+<h3>📊 Performance Tracking</h3>
+<p>** Signal Log Template:**</p>
 ```
-Date: ___________
-Venture: ___________
-Phase: ___________
-Signal Type: Belief/Doubt
-Amount: ___ $SIGNAL
-Reasoning: ___________
-Result: Success/Failure
-Return: ___x
-Lessons: ___________
+<p>Date: ___________</p>
+<p>Venture: ___________</p>
+<p>Phase: ___________</p>
+<p>Signal Type: Belief/Doubt</p>
+<p>Amount: ___ $SIGNAL</p>
+<p>Reasoning: ___________</p>
+<p>Result: Success/Failure</p>
+<p>Return: ___x</p>
+<p>Lessons: ___________</p>
 ```
-** Key Metrics:
-- ** Total signals made
-- Success rate %
-- Average return
-- Best/worst signal
-- Total profit/loss
 
+
+
+<p>Key Metrics:**</p>
+<ul>
+<li>**Total signals made**</li>
+<li>Success rate %</li>
+<li>Average return</li>
+<li>Best/worst signal</li>
+<li>Total profit/loss</li>
+
+</ul>
 </div>
 
 ## Second Signal Planning
 
 ### Applying Lessons
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Level Up Strategy
-** If First Signal Succeeded:
-- ** Similar venture type
-- Slightly larger stake
-- Same research process
-- Build on success
-- Stay disciplined
-** If First Signal Failed:
-- ** Different approach
-- Smaller stake
-- More research
-- Seek mentorship
-- Focus on learning
+<h3>🎯 Level Up Strategy</h3>
+<p>** If First Signal Succeeded:**</p>
+<ul>
+<li>**Similar venture type**</li>
+<li>Slightly larger stake</li>
+<li>Same research process</li>
+<li>Build on success</li>
+<li>Stay disciplined</li>
 
+</ul>
+<p>** If First Signal Failed:**</p>
+<ul>
+<li>**Different approach**</li>
+<li>Smaller stake</li>
+<li>More research</li>
+<li>Seek mentorship</li>
+<li>Focus on learning</li>
+
+</ul>
 </div>
 
 ## Community Integration
 
 ### Getting Support
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Join the Conversation
-** Where to Engage:
-1. **New Echo Channel**
+<h3>👥 Join the Conversation</h3>
+<p>** Where to Engage:**</p>
+<p>1. **New Echo Channel**</p>
 
-- Introduce yourself
+<ul>
+<li>Introduce yourself</li>
 
-- Ask questions
+<li>Ask questions</li>
 
-- Share experience
+<li>Share experience</li>
 
-- Find signal buddies
+<li>Find signal buddies</li>
 
-2. **Venture Discords**
+</ul>
+<p>2. **Venture Discords**</p>
 
-- Follow your signals
+<ul>
+<li>Follow your signals</li>
 
-- Learn from others
+<li>Learn from others</li>
 
-- Support projects
+<li>Support projects</li>
 
-- Build relationships
+<li>Build relationships</li>
 
-3. **Analysis Forums**
+</ul>
+<p>3. **Analysis Forums**</p>
 
-- Read deep dives
+<ul>
+<li>Read deep dives</li>
 
-- Share research
+<li>Share research</li>
 
-- Get feedback
+<li>Get feedback</li>
 
-- Learn methods
+<li>Learn methods</li>
 
+</ul>
 </div>
 
 ## First Week Goals
 
 ### Realistic Targets
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Week 1 Objectives
-** Signals:
-- ** Make 2-3 signals
-- Different ventures
-- Mix belief/doubt
-- Small stakes only
-** Learning:
-- ** Read 10 venture plans
-- Analyze 5 failures
-- Identify patterns
-- Refine process
-** Community:
-- ** Join 3 Discord servers
-- Make 5 forum posts
-- Help 1 newcomer
-- Find 1 mentor
-** Tracking:
-- ** Set up spreadsheet
-- Document all signals
-- Calculate metrics
-- Plan week 2
+<h3>🎯 Week 1 Objectives</h3>
+<p>** Signals:**</p>
+<ul>
+<li>**Make 2-3 signals**</li>
+<li>Different ventures</li>
+<li>Mix belief/doubt</li>
+<li>Small stakes only</li>
 
+</ul>
+<p>** Learning:**</p>
+<ul>
+<li>**Read 10 venture plans**</li>
+<li>Analyze 5 failures</li>
+<li>Identify patterns</li>
+<li>Refine process</li>
+
+</ul>
+<p>** Community:**</p>
+<ul>
+<li>**Join 3 Discord servers**</li>
+<li>Make 5 forum posts</li>
+<li>Help 1 newcomer</li>
+<li>Find 1 mentor</li>
+
+</ul>
+<p>** Tracking:**</p>
+<ul>
+<li>**Set up spreadsheet**</li>
+<li>Document all signals</li>
+<li>Calculate metrics</li>
+<li>Plan week 2</li>
+
+</ul>
 </div>
 
 ## Next Steps

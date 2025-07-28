@@ -2,11 +2,11 @@
 
 ## Strategic Skepticism for Smart Echoes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ The Power of Productive Doubt
+<h3>❌ The Power of Productive Doubt</h3>
 
-Doubt signals aren't about negativity - they're about protecting the ecosystem and profiting from realistic assessments. This guide teaches you to identify overvalued ventures, spot red flags early, and deploy doubt signals strategically for consistent returns.
+<p>Doubt signals aren't about negativity - they're about protecting the ecosystem and profiting from realistic assessments. This guide teaches you to identify overvalued ventures, spot red flags early, and deploy doubt signals strategically for consistent returns.</p>
 
 </div>
 
@@ -14,492 +14,596 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 
 ### The Economics of Doubt
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Doubt Reward Structure
+<h3>💰 Doubt Reward Structure</h3>
 
-**Doubt Returns:**
+<p>**Doubt Returns:**</p>
 
-- ** Base multiplier: 1.2x
-- 1.5x
-- Contrarian bonus: Up to +0.5x
-- Accuracy bonus: Up to +0.3x
-- Protection bonus: Up to +0.2x
-- **Maximum possible: 2.5x**  Success Conditions:
-- ** Milestone failed
-- Major delays
-- Quality issues
-- Pivot required
-- Abandonment
+<ul>
+<li>**Base multiplier: 1.2x**</li>
+<li>1.5x</li>
+<li>Contrarian bonus: Up to +0.5x</li>
+<li>Accuracy bonus: Up to +0.3x</li>
+<li>Protection bonus: Up to +0.2x</li>
+<li>**Maximum possible: 2.5x**  Success Conditions:</li>
+<li>**Milestone failed**</li>
+<li>Major delays</li>
+<li>Quality issues</li>
+<li>Pivot required</li>
+<li>Abandonment</li>
 
+</ul>
 </div>
 
 ### Why Doubt Matters
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛡️ Ecosystem Protection
-** Doubt Benefits:
-1. **Quality Control**
+<h3>🛡️ Ecosystem Protection</h3>
+<p>** Doubt Benefits:**</p>
+<p>1. **Quality Control**</p>
 
-- Filters weak ventures
+<ul>
+<li>Filters weak ventures</li>
 
-- Raises standards
+<li>Raises standards</li>
 
-- Protects believers
+<li>Protects believers</li>
 
-- Improves ecosystem
+<li>Improves ecosystem</li>
 
-2. **Price Discovery**
+</ul>
+<p>2. **Price Discovery**</p>
 
-- Balances optimism
+<ul>
+<li>Balances optimism</li>
 
-- Reality check
+<li>Reality check</li>
 
-- Efficient markets
+<li>Efficient markets</li>
 
-- Fair valuations
+<li>Fair valuations</li>
 
-3. **Valuable Feedback**
+</ul>
+<p>3. **Valuable Feedback**</p>
 
-- Teams improve
+<ul>
+<li>Teams improve</li>
 
-- Issues identified
+<li>Issues identified</li>
 
-- Pivots enabled
+<li>Pivots enabled</li>
 
-- Learning accelerated
+<li>Learning accelerated</li>
 
+</ul>
 </div>
 
 ## Strategic Doubt Framework
 
 ### The SKEPTIC Method
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Systematic Doubt Analysis
-- ** S
-- Suspicious patterns**
-- **  K
-- Knowledge gaps
-- ** E
-- Execution concerns
-- **  P
-- Past failures
-- ** T
-- Timeline unrealistic
-- **  I
-- Information missing
-- ** C
-- Competition superior
+<h3>🔍 Systematic Doubt Analysis</h3>
 
-**Score each 1-10, doubt threshold:** 35/70
+<ul>
+<li>**S**</li>
+<li>Suspicious patterns**</li>
+<li>**K**</li>
+<li>Knowledge gaps</li>
+<li>**E**</li>
+<li>Execution concerns</li>
+<li>**P**</li>
+<li>Past failures</li>
+<li>**T**</li>
+<li>Timeline unrealistic</li>
+<li>**I**</li>
+<li>Information missing</li>
+<li>**C**</li>
+<li>Competition superior</li>
+
+</ul>
+<p>**Score each 1-10, doubt threshold:** 35/70</p>
 
 </div>
 
 ### Doubt Confidence Levels
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Conviction Scale
+<h3>📊 Conviction Scale</h3>
 
-**Ultra-High Doubt (90%+)
-- ** Clear red flags
-- Impossible claims
-- Team issues
-- No evidence
-- **Stake: 3% of bankroll** High Doubt (75-90%)
-- ** Multiple concerns
-- Weak fundamentals
-- Poor progress
-- **Stake: 2% of bankroll** Moderate Doubt (60-75%)
-- ** Significant risks
-- Overvaluation
-- Execution questions
-- **Stake: 1.5% of bankroll** Low Doubt (50-60%)
-- ** Some concerns
-- Worth flagging
-- Small position
-- ** Stake: 1% of bankroll
+<p>**Ultra-High Doubt (90%+)**</p>
+<ul>
+<li>**Clear red flags**</li>
+<li>Impossible claims</li>
+<li>Team issues</li>
+<li>No evidence</li>
+<li>**Stake: 3% of bankroll** High Doubt (75-90%)</li>
+<li>**Multiple concerns**</li>
+<li>Weak fundamentals</li>
+<li>Poor progress</li>
+<li>**Stake: 2% of bankroll** Moderate Doubt (60-75%)</li>
+<li>**Significant risks**</li>
+<li>Overvaluation</li>
+<li>Execution questions</li>
+<li>**Stake: 1.5% of bankroll** Low Doubt (50-60%)</li>
+<li>**Some concerns**</li>
+<li>Worth flagging</li>
+<li>Small position</li>
+<li>**Stake: 1% of bankroll**</li>
+</ul>
 </div>
 
 ## Identifying Doubt Opportunities
 
 ### Red Flag Patterns
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚩 Classic Warning Signs
-** Team Red Flags:
-- ** Anonymous/pseudonymous
-- No relevant experience
-- Previous failures hidden
-- High turnover rate
-- Poor communication
-** Technical Red Flags:
-- ** No working demo
-- Copied code
-- Impossible architecture
-- No GitHub activity
-- Security issues
-** Business Red Flags:
-- ** No clear revenue model
-- Addressable market tiny
-- Unit economics broken
-- Competition ignored
-- Regulatory issues
+<h3>🚩 Classic Warning Signs</h3>
+<p>** Team Red Flags:**</p>
+<ul>
+<li>**Anonymous/pseudonymous**</li>
+<li>No relevant experience</li>
+<li>Previous failures hidden</li>
+<li>High turnover rate</li>
+<li>Poor communication</li>
 
+</ul>
+<p>** Technical Red Flags:**</p>
+<ul>
+<li>**No working demo**</li>
+<li>Copied code</li>
+<li>Impossible architecture</li>
+<li>No GitHub activity</li>
+<li>Security issues</li>
+
+</ul>
+<p>** Business Red Flags:**</p>
+<ul>
+<li>**No clear revenue model**</li>
+<li>Addressable market tiny</li>
+<li>Unit economics broken</li>
+<li>Competition ignored</li>
+<li>Regulatory issues</li>
+
+</ul>
 </div>
 
 ### Overvaluation Indicators
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Spotting Bubble Signals
-** Hype Indicators:
-- ** 90%+ belief ratio
-- Paid promotion heavy
-- Influencer pumping
-- FOMO marketing
-- No substantive updates
-** Valuation Metrics:
-- ** Signal/progress ratio off
-- Comparable ventures lower
-- Unrealistic projections
-- No traction evidence
-- Pure speculation
+<h3>📈 Spotting Bubble Signals</h3>
+<p>** Hype Indicators:**</p>
+<ul>
+<li>**90%+ belief ratio**</li>
+<li>Paid promotion heavy</li>
+<li>Influencer pumping</li>
+<li>FOMO marketing</li>
+<li>No substantive updates</li>
 
+</ul>
+<p>** Valuation Metrics:**</p>
+<ul>
+<li>**Signal/progress ratio off**</li>
+<li>Comparable ventures lower</li>
+<li>Unrealistic projections</li>
+<li>No traction evidence</li>
+<li>Pure speculation</li>
+
+</ul>
 </div>
 
 ## Timing Doubt Signals
 
 ### Optimal Entry Points
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ When to Signal Doubt
-**Early Doubt (Days 1-7)
-- ** Maximum contrarian bonus
-- Highest risk
-- Based on analysis
-- Small positions
-**Mid-Stage Doubt (Days 8-21)
-- ** Evidence emerging
-- Patterns visible
-- Balanced risk/reward
-- Standard positions
-**Late Doubt (Days 22+)
-- ** Clear problems
-- Lower returns
-- Higher certainty
-- Larger positions safe
+<h3>⏰ When to Signal Doubt</h3>
+<p>**Early Doubt (Days 1-7)**</p>
+<ul>
+<li>**Maximum contrarian bonus**</li>
+<li>Highest risk</li>
+<li>Based on analysis</li>
+<li>Small positions</li>
 
+</ul>
+<p>**Mid-Stage Doubt (Days 8-21)**</p>
+<ul>
+<li>**Evidence emerging**</li>
+<li>Patterns visible</li>
+<li>Balanced risk/reward</li>
+<li>Standard positions</li>
+
+</ul>
+<p>**Late Doubt (Days 22+)**</p>
+<ul>
+<li>**Clear problems**</li>
+<li>Lower returns</li>
+<li>Higher certainty</li>
+<li>Larger positions safe</li>
+
+</ul>
 </div>
 
 ### Catalyst-Based Timing
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Event-Driven Doubt
-** Doubt Catalysts:
-1. **Missed Deadlines**
+<h3>⚡ Event-Driven Doubt</h3>
+<p>** Doubt Catalysts:**</p>
+<p>1. **Missed Deadlines**</p>
 
-- First delay
+<ul>
+<li>First delay</li>
 
-- Pattern emerging
+<li>Pattern emerging</li>
 
-- Excuses starting
+<li>Excuses starting</li>
 
-2. **Technical Issues**
+</ul>
+<p>2. **Technical Issues**</p>
 
-- Demo failures
+<ul>
+<li>Demo failures</li>
 
-- Security breaches
+<li>Security breaches</li>
 
-- Performance problems
+<li>Performance problems</li>
 
-3. **Team Problems**
+</ul>
+<p>3. **Team Problems**</p>
 
-- Key departures
+<ul>
+<li>Key departures</li>
 
-- Internal conflicts
+<li>Internal conflicts</li>
 
-- Communication breakdown
+<li>Communication breakdown</li>
 
-4. **Market Shifts**
+</ul>
+<p>4. **Market Shifts**</p>
 
-- Competition launches
+<ul>
+<li>Competition launches</li>
 
-- Regulation changes
+<li>Regulation changes</li>
 
-- Demand disappears
+<li>Demand disappears</li>
 
+</ul>
 </div>
 
 ## Advanced Doubt Strategies
 
 ### The Fade Play
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📉 Fading the Hype
-** Identifying Hype Ventures:
-- ** Massive marketing spend
-- No substance
-- Paid influencers
-- Coordinated pumping
-- Retail FOMO
-** Execution Strategy:
-1. Wait for peak hype
-2. Enter doubt position
-3. Document concerns
-4. Share analysis
-5. Wait for reality
-** Risk Management:
-- ** Never fight momentum
-- Size appropriately
-- Time horizon 30-60 days
-- Accept some losses
+<h3>📉 Fading the Hype</h3>
+<p>** Identifying Hype Ventures:**</p>
+<ul>
+<li>**Massive marketing spend**</li>
+<li>No substance</li>
+<li>Paid influencers</li>
+<li>Coordinated pumping</li>
+<li>Retail FOMO</li>
 
+</ul>
+<p>** Execution Strategy:**</p>
+<p>1. Wait for peak hype</p>
+<p>2. Enter doubt position</p>
+<p>3. Document concerns</p>
+<p>4. Share analysis</p>
+<p>5. Wait for reality</p>
+
+
+
+<p>Risk Management:**</p>
+<ul>
+<li>**Never fight momentum**</li>
+<li>Size appropriately</li>
+<li>Time horizon 30-60 days</li>
+<li>Accept some losses</li>
+
+</ul>
 </div>
 
 ### The Technical Doubt
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 Code-Based Skepticism
-** Technical Analysis:
-- ** Review architecture
-- Check dependencies
-- Assess feasibility
-- Timeline reality
-- Security audit
-** Common Technical Issues:
-- ** Scaling impossibility
-- Security vulnerabilities
-- Performance bottlenecks
-- Integration nightmares
-- Maintenance debt
-** Signaling Approach:
-- ** Document technically
-- Share specific concerns
-- Educate community
-- Professional tone
+<h3>💻 Code-Based Skepticism</h3>
+<p>** Technical Analysis:**</p>
+<ul>
+<li>**Review architecture**</li>
+<li>Check dependencies</li>
+<li>Assess feasibility</li>
+<li>Timeline reality</li>
+<li>Security audit</li>
 
+</ul>
+<p>** Common Technical Issues:**</p>
+<ul>
+<li>**Scaling impossibility**</li>
+<li>Security vulnerabilities</li>
+<li>Performance bottlenecks</li>
+<li>Integration nightmares</li>
+<li>Maintenance debt</li>
+
+</ul>
+<p>** Signaling Approach:**</p>
+<ul>
+<li>**Document technically**</li>
+<li>Share specific concerns</li>
+<li>Educate community</li>
+<li>Professional tone</li>
+
+</ul>
 </div>
 
 ### The Competition Play
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏁 Superior Alternative Exists
-** Competition Analysis:
-- ** Identify better solutions
-- Compare features
-- Analyze moats
-- Check adoption
-- Review funding
-**Doubt Thesis:"Why build this when X exists and is 10x better?"
-** Evidence Required:
-- ** Side-by-side comparison
-- Adoption metrics
-- User testimonials
-- Partnership advantages
-- Technical superiority
+<h3>🏁 Superior Alternative Exists</h3>
+<p>** Competition Analysis:**</p>
+<ul>
+<li>**Identify better solutions**</li>
+<li>Compare features</li>
+<li>Analyze moats</li>
+<li>Check adoption</li>
+<li>Review funding</li>
 
+</ul>
+<p>**Doubt Thesis:"Why build this when X exists and is 10x better?"**</p>
+<p>** Evidence Required:**</p>
+<ul>
+<li>**Side-by-side comparison**</li>
+<li>Adoption metrics</li>
+<li>User testimonials</li>
+<li>Partnership advantages</li>
+<li>Technical superiority</li>
+
+</ul>
 </div>
 
 ## Ethical Doubt Practices
 
 ### Constructive Skepticism
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Doubt with Integrity
-** Ethical Guidelines:
-1. **Be Factual**
-- Evidence
-- based only
+<h3>🤝 Doubt with Integrity</h3>
+<p>** Ethical Guidelines:**</p>
+<p>1. **Be Factual**</p>
+<ul>
+<li>Evidence</li>
+<li>based only</li>
 
-- No personal attacks
+<li>No personal attacks</li>
 
-- Document claims
+<li>Document claims</li>
 
-- Stay professional
+<li>Stay professional</li>
 
-2. **Be Helpful**
+</ul>
+<p>2. **Be Helpful**</p>
 
-- Suggest improvements
+<ul>
+<li>Suggest improvements</li>
 
-- Point out specific issues
+<li>Point out specific issues</li>
 
-- Offer solutions
+<li>Offer solutions</li>
 
-- Maintain respect
+<li>Maintain respect</li>
 
-3. **Be Fair**
+</ul>
+<p>3. **Be Fair**</p>
 
-- Acknowledge strengths
+<ul>
+<li>Acknowledge strengths</li>
 
-- Update if wrong
+<li>Update if wrong</li>
 
-- Admit mistakes
+<li>Admit mistakes</li>
 
-- Stay objective
+<li>Stay objective</li>
 
+</ul>
 </div>
 
 ### Avoiding Toxic Doubt
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ What NOT to Do
-** Forbidden Tactics:
-- ** Spreading FUD
-- Personal attacks
-- Manipulation
-- False information
-- Coordinated attacks
-** Reputation Damage:
-- ** Community backlash
-- Platform penalties
-- Trust erosion
-- Future handicap
+<h3>❌ What NOT to Do</h3>
+<p>** Forbidden Tactics:**</p>
+<ul>
+<li>**Spreading FUD**</li>
+<li>Personal attacks</li>
+<li>Manipulation</li>
+<li>False information</li>
+<li>Coordinated attacks</li>
 
+</ul>
+<p>** Reputation Damage:**</p>
+<ul>
+<li>**Community backlash**</li>
+<li>Platform penalties</li>
+<li>Trust erosion</li>
+<li>Future handicap</li>
+
+</ul>
 </div>
 
 ## Doubt Portfolio Management
 
 ### Diversification Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Doubt Portfolio Structure
-** Optimal Doubt Mix:
+<h3>📊 Doubt Portfolio Structure</h3>
+<p>** Optimal Doubt Mix:**</p>
 ```
-Technical Doubts: 30% (High conviction)
-Overvaluation: 25% (Market correction)
-Competition: 20% (Better exists)
-Team Concerns: 15% (Execution risk)
-Timing Issues: 10% (Unrealistic)
+<p>Technical Doubts: 30% (High conviction)</p>
+<p>Overvaluation: 25% (Market correction)</p>
+<p>Competition: 20% (Better exists)</p>
+<p>Team Concerns: 15% (Execution risk)</p>
+<p>Timing Issues: 10% (Unrealistic)</p>
 ```
-** Risk Management:
-- ** Max 20% portfolio in doubt
-- Never all-in on doubt
-- Balance with belief
-- Time diversification
 
+
+
+<p>Risk Management:**</p>
+<ul>
+<li>**Max 20% portfolio in doubt**</li>
+<li>Never all-in on doubt</li>
+<li>Balance with belief</li>
+<li>Time diversification</li>
+
+</ul>
 </div>
 
 ### Hedging Strategies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Balanced Approaches
-** Hedge Patterns:
-1. **Market Hedge**
+<h3>🔄 Balanced Approaches</h3>
+<p>** Hedge Patterns:**</p>
+<p>1. **Market Hedge**</p>
 
-- Doubt overvalued
+<ul>
+<li>Doubt overvalued</li>
 
-- Believe undervalued
+<li>Believe undervalued</li>
 
-- Market neutral
+<li>Market neutral</li>
 
-2. **Sector Hedge**
+</ul>
+<p>2. **Sector Hedge**</p>
 
-- Doubt weak players
+<ul>
+<li>Doubt weak players</li>
 
-- Believe winners
+<li>Believe winners</li>
 
-- Sector exposure
+<li>Sector exposure</li>
 
-3. **Phase Hedge**
+</ul>
+<p>3. **Phase Hedge**</p>
 
-- Doubt late phase
+<ul>
+<li>Doubt late phase</li>
 
-- Believe early phase
+<li>Believe early phase</li>
 
-- Risk balance
+<li>Risk balance</li>
 
+</ul>
 </div>
 
 ## Doubt Success Stories
 
 ### Case Studies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Learning from Wins
-**Case 1: The Impossible Timeline
-- ** Venture: AI rendering platform
-- Claim: 2 weeks to production
-- Reality: 6 months minimum
-- Doubt entry: Day 2
-- Result: 2.3x return
-** Lessons:
-- ** Technical knowledge paid
-- Early entry rewarded
-- Clear impossibility
-- High conviction win
-**Case 2: The Hidden Competition
-- ** Venture: DeFi aggregator
-- Issue: 5 better alternatives
-- Research: Detailed comparison
-- Doubt entry: 70% belief
-- Result: 1.8x return
-** Lessons:
-- ** Research wins
-- Contrarian profitable
-- Facts convince
-- Patience required
+<h3>📚 Learning from Wins</h3>
+<p>**Case 1: The Impossible Timeline**</p>
+<ul>
+<li>**Venture: AI rendering platform**</li>
+<li>Claim: 2 weeks to production</li>
+<li>Reality: 6 months minimum</li>
+<li>Doubt entry: Day 2</li>
+<li>Result: 2.3x return</li>
 
+</ul>
+<p>** Lessons:**</p>
+<ul>
+<li>**Technical knowledge paid**</li>
+<li>Early entry rewarded</li>
+<li>Clear impossibility</li>
+<li>High conviction win</li>
+
+</ul>
+<p>**Case 2: The Hidden Competition**</p>
+<ul>
+<li>**Venture: DeFi aggregator**</li>
+<li>Issue: 5 better alternatives</li>
+<li>Research: Detailed comparison</li>
+<li>Doubt entry: 70% belief</li>
+<li>Result: 1.8x return</li>
+
+</ul>
+<p>** Lessons:**</p>
+<ul>
+<li>**Research wins**</li>
+<li>Contrarian profitable</li>
+<li>Facts convince</li>
+<li>Patience required</li>
+
+</ul>
 </div>
 
 ## Common Doubt Mistakes
 
 ### Pitfalls to Avoid
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Doubt Failures
-** Strategic Errors:
-- ** Doubting quality teams
-- Ignoring momentum
-- Personal bias
-- Insufficient research
-- Poor timing
-** Psychological Errors:
-- ** Excessive negativity
-- Confirmation bias
-- Stubbornness
-- Emotional decisions
-- Revenge doubt
+<h3>⚠️ Doubt Failures</h3>
+<p>** Strategic Errors:**</p>
+<ul>
+<li>**Doubting quality teams**</li>
+<li>Ignoring momentum</li>
+<li>Personal bias</li>
+<li>Insufficient research</li>
+<li>Poor timing</li>
 
+</ul>
+<p>** Psychological Errors:**</p>
+<ul>
+<li>**Excessive negativity**</li>
+<li>Confirmation bias</li>
+<li>Stubbornness</li>
+<li>Emotional decisions</li>
+<li>Revenge doubt</li>
+
+</ul>
 </div>
 
 ## Doubt Metrics
 
 ### Performance Tracking
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Doubt KPIs
-** Key Metrics:
-- ** Doubt win rate: Target 40%+
-- Average return: Target 1.5x+
-- Contrarian bonus rate
-- Research accuracy
-- Timing effectiveness
-** Monthly Analysis:
+<h3>📊 Doubt KPIs</h3>
+<p>** Key Metrics:**</p>
+<ul>
+<li>**Doubt win rate: Target 40%+**</li>
+<li>Average return: Target 1.5x+</li>
+<li>Contrarian bonus rate</li>
+<li>Research accuracy</li>
+<li>Timing effectiveness</li>
+
+</ul>
+<p>** Monthly Analysis:**</p>
 ```
-Doubt Signals: ___
-Successful: ___
-Failed: ___
-Win Rate: ___%
-Avg Return: ___x
-Best Doubt: ___
-Lessons: ___
+<p>Doubt Signals: ___</p>
+<p>Successful: ___</p>
+<p>Failed: ___</p>
+<p>Win Rate: ___%</p>
+<p>Avg Return: ___x</p>
+<p>Best Doubt: ___</p>
+<p>Lessons: ___</p>
 ```
 
 </div>
@@ -508,95 +612,116 @@ Lessons: ___
 
 ### Information Asymmetry
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🕵️ Knowledge Advantage
-** Sources of Edge:
-1. **Technical Expertise**
+<h3>🕵️ Knowledge Advantage</h3>
 
-- Spot impossibilities
 
-- Understand complexity
+<p>Sources of Edge:**</p>
+<p>1. **Technical Expertise**</p>
 
-- Assess feasibility
+<ul>
+<li>Spot impossibilities</li>
 
-2. **Industry Knowledge**
+<li>Understand complexity</li>
 
-- Know competition
+<li>Assess feasibility</li>
 
-- Understand dynamics
+</ul>
+<p>2. **Industry Knowledge**</p>
 
-- Spot obsolescence
+<ul>
+<li>Know competition</li>
 
-3. **Network Intelligence**
+<li>Understand dynamics</li>
 
-- Inside information
+<li>Spot obsolescence</li>
 
-- Team history
+</ul>
+<p>3. **Network Intelligence**</p>
 
-- Previous failures
+<ul>
+<li>Inside information</li>
 
+<li>Team history</li>
+
+<li>Previous failures</li>
+
+</ul>
 </div>
 
 ### Systematic Doubt
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤖 Algorithmic Skepticism
-** Screening Criteria:
-- ** Anonymous team → Doubt
-- No GitHub → Doubt
-- Impossible timeline → Doubt
-- 95%+ belief → Doubt
-- No demo after 30 days → Doubt
-** Automation Potential:
-- ** Flag patterns
-- Alert system
-- Quick analysis
-- Consistent application
+<h3>🤖 Algorithmic Skepticism</h3>
+<p>** Screening Criteria:**</p>
+<ul>
+<li>**Anonymous team → Doubt**</li>
+<li>No GitHub → Doubt</li>
+<li>Impossible timeline → Doubt</li>
+<li>95%+ belief → Doubt</li>
+<li>No demo after 30 days → Doubt</li>
 
+</ul>
+<p>** Automation Potential:**</p>
+<ul>
+<li>**Flag patterns**</li>
+<li>Alert system</li>
+<li>Quick analysis</li>
+<li>Consistent application</li>
+
+</ul>
 </div>
 
 ## Building Doubt Reputation
 
 ### Becoming a Respected Skeptic
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 Quality Doubt Brand
-** Reputation Building:
-1. **Always Evidence-Based**
+<h3>🌟 Quality Doubt Brand</h3>
+<p>** Reputation Building:**</p>
+<p>1. **Always Evidence-Based**</p>
 
-- Document everything
+<ul>
+<li>Document everything</li>
 
-- Share research
+<li>Share research</li>
 
-- Educate others
+<li>Educate others</li>
 
-2. **Professional Approach**
+</ul>
+<p>2. **Professional Approach**</p>
 
-- No personal attacks
+<ul>
+<li>No personal attacks</li>
 
-- Constructive tone
+<li>Constructive tone</li>
 
-- Helpful suggestions
+<li>Helpful suggestions</li>
 
-3. **Track Record**
+</ul>
+<p>3. **Track Record**</p>
 
-- Public predictions
+<ul>
+<li>Public predictions</li>
 
-- Transparent results
+<li>Transparent results</li>
 
-- Learn publicly
+<li>Learn publicly</li>
 
-4. **Thought Leadership**
+</ul>
+<p>4. **Thought Leadership**</p>
 
-- Write analyses
+<ul>
+<li>Write analyses</li>
 
-- Share frameworks
+<li>Share frameworks</li>
 
-- Teach methods
+<li>Teach methods</li>
 
+</ul>
 </div>
 
 ## Next Steps

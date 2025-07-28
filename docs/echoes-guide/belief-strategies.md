@@ -2,11 +2,11 @@
 
 ## Mastering Positive Conviction Signals
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ The Art of Backing Winners
+<h3>✅ The Art of Backing Winners</h3>
 
-Successful belief signaling requires more than optimism - it demands strategic thinking, careful analysis, and disciplined execution. This guide reveals advanced strategies for identifying, timing, and maximizing belief signals that generate superior returns.
+<p>Successful belief signaling requires more than optimism - it demands strategic thinking, careful analysis, and disciplined execution. This guide reveals advanced strategies for identifying, timing, and maximizing belief signals that generate superior returns.</p>
 
 </div>
 
@@ -14,555 +14,679 @@ Successful belief signaling requires more than optimism - it demands strategic t
 
 ### When Belief Pays
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💎 Belief Signal Economics
+<h3>💎 Belief Signal Economics</h3>
 
-**Belief Reward Structure:**
+<p>**Belief Reward Structure:**</p>
 
-- ** Base multiplier: 1.5x
-- 2.0x
-- Early bonus: Up to +1.0x
-- Reputation bonus: Up to +0.5x
-- Phase bonus: Up to +0.5x
-- **Maximum possible: 4.0x**  Success Requirements:
-- ** Milestone achieved
-- Validation passed
-- No major delays
-- Quality delivered
+<ul>
+<li>**Base multiplier: 1.5x**</li>
+<li>2.0x</li>
+<li>Early bonus: Up to +1.0x</li>
+<li>Reputation bonus: Up to +0.5x</li>
+<li>Phase bonus: Up to +0.5x</li>
+<li>**Maximum possible: 4.0x**  Success Requirements:</li>
+<li>**Milestone achieved**</li>
+<li>Validation passed</li>
+<li>No major delays</li>
+<li>Quality delivered</li>
 
+</ul>
 </div>
 
 ### Belief vs Doubt Psychology
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 The Optimist's Edge
-** Why Belief Succeeds:
-- ** Most ventures try to succeed
-- Teams work hard
-- Milestones set conservatively
-- Community support helps
-- Positive momentum builds
-** Statistical Edge:
-- ** Historical success rate: 65-70%
-- Early phase success: 60-65%
-- Late phase success: 75-80%
-- Quality teams: 80-85%
+<h3>🧠 The Optimist's Edge</h3>
+<p>** Why Belief Succeeds:**</p>
+<ul>
+<li>**Most ventures try to succeed**</li>
+<li>Teams work hard</li>
+<li>Milestones set conservatively</li>
+<li>Community support helps</li>
+<li>Positive momentum builds</li>
 
+</ul>
+<p>** Statistical Edge:**</p>
+<ul>
+<li>**Historical success rate: 65-70%**</li>
+<li>Early phase success: 60-65%</li>
+<li>Late phase success: 75-80%</li>
+<li>Quality teams: 80-85%</li>
+
+</ul>
 </div>
 
 ## Strategic Belief Framework
 
 ### The BELIEVE System
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Systematic Belief Analysis
-- ** B
-- Background verification
-- **  E
-- Execution capability
-- ** L
-- Leadership quality
-- **  I
-- Innovation level
-- ** E
-- Economic model
-- **  V
-- Venture momentum
-- ** E
-- Exit potential
+<h3>🎯 Systematic Belief Analysis</h3>
 
-**Score each 1-10, belief threshold:** 56/70
+<ul>
+<li>**B**</li>
+<li>Background verification</li>
+<li>**E**</li>
+<li>Execution capability</li>
+<li>**L**</li>
+<li>Leadership quality</li>
+<li>**I**</li>
+<li>Innovation level</li>
+<li>**E**</li>
+<li>Economic model</li>
+<li>**V**</li>
+<li>Venture momentum</li>
+<li>**E**</li>
+<li>Exit potential</li>
+
+</ul>
+<p>**Score each 1-10, belief threshold:** 56/70</p>
 
 </div>
 
 ### Conviction Levels
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Belief Confidence Scale
+<h3>📊 Belief Confidence Scale</h3>
 
-**Ultra-High Conviction (90%+)
-- ** Proven team
-- Clear market need
-- Working product
-- Conservative milestone
-- **Stake: 5% of bankroll** High Conviction (75-90%)
-- ** Strong indicators
-- Some uncertainties
-- Good risk/reward
-- **Stake: 3% of bankroll** Moderate Conviction (60-75%)
-- ** Balanced outlook
-- Normal risks
-- Standard play
-- **Stake: 2% of bankroll** Low Conviction (50-60%)
-- ** Marginal belief
-- High uncertainty
-- Small position
-- ** Stake: 1% of bankroll
+<p>**Ultra-High Conviction (90%+)**</p>
+<ul>
+<li>**Proven team**</li>
+<li>Clear market need</li>
+<li>Working product</li>
+<li>Conservative milestone</li>
+<li>**Stake: 5% of bankroll** High Conviction (75-90%)</li>
+<li>**Strong indicators**</li>
+<li>Some uncertainties</li>
+<li>Good risk/reward</li>
+<li>**Stake: 3% of bankroll** Moderate Conviction (60-75%)</li>
+<li>**Balanced outlook**</li>
+<li>Normal risks</li>
+<li>Standard play</li>
+<li>**Stake: 2% of bankroll** Low Conviction (50-60%)</li>
+<li>**Marginal belief**</li>
+<li>High uncertainty</li>
+<li>Small position</li>
+<li>**Stake: 1% of bankroll**</li>
+</ul>
 </div>
 
 ## Timing Belief Signals
 
 ### Entry Point Optimization
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ When to Signal Belief
-** Optimal Entry Indicators:
-1. **Technical Readiness**
+<h3>⏰ When to Signal Belief</h3>
+<p>** Optimal Entry Indicators:**</p>
+<p>1. **Technical Readiness**</p>
 
-- Demo launched
+<ul>
+<li>Demo launched</li>
 
-- Code complete
+<li>Code complete</li>
 
-- Tests passing
+<li>Tests passing</li>
 
-- Team expanded
+<li>Team expanded</li>
 
-2. **Market Signals**
+</ul>
+<p>2. **Market Signals**</p>
 
-- Low belief ratio (<60%)
+<ul>
+<li>Low belief ratio (<60%)</li>
 
-- Smart money entering
+<li>Smart money entering</li>
 
-- Momentum building
+<li>Momentum building</li>
 
-- News catalyst
+<li>News catalyst</li>
 
-3. **Milestone Factors**
-- 20
-- 30 days remaining
+</ul>
+<p>3. **Milestone Factors**</p>
+<ul>
+<li>20</li>
+<li>30 days remaining</li>
 
-- Clear progress shown
+<li>Clear progress shown</li>
 
-- No major blockers
+<li>No major blockers</li>
 
-- Team confidence high
+<li>Team confidence high</li>
 
+</ul>
 </div>
 
 ### Phase-Specific Timing
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Phase Entry Strategies
-** Spark/Forge Phases:
-- ** Enter early for maximum multiplier
-- Higher risk tolerance required
-- Focus on team quality
-- Small positions
-** Ignition Phase:
-- ** Wait for MVP evidence
-- Mid-phase entry optimal
-- Balanced risk/reward
-- Standard positions
-** Drift/Orbit Phases:
-- ** Late entry acceptable
-- Lower multipliers
-- Higher certainty
-- Larger positions safe
+<h3>📈 Phase Entry Strategies</h3>
+<p>** Spark/Forge Phases:**</p>
+<ul>
+<li>**Enter early for maximum multiplier**</li>
+<li>Higher risk tolerance required</li>
+<li>Focus on team quality</li>
+<li>Small positions</li>
 
+</ul>
+<p>** Ignition Phase:**</p>
+<ul>
+<li>**Wait for MVP evidence**</li>
+<li>Mid-phase entry optimal</li>
+<li>Balanced risk/reward</li>
+<li>Standard positions</li>
+
+</ul>
+<p>** Drift/Orbit Phases:**</p>
+<ul>
+<li>**Late entry acceptable**</li>
+<li>Lower multipliers</li>
+<li>Higher certainty</li>
+<li>Larger positions safe</li>
+
+</ul>
 </div>
 
 ## Belief Selection Criteria
 
 ### High-Probability Patterns
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎲 Success Indicators
-** Team Patterns:
-- ** Second-time founders
-- Domain experts
-- Full-time commitment
-- Transparent communication
-- Previous exits
-** Venture Patterns:
-- ** Clear value proposition
-- Existing competition validates market
-- B2B over B2C
-- Platform vs product
-- Network effects
-** Milestone Patterns:
-- ** Specific deliverables
-- Binary outcomes
-- 30-60 day timeframes
-- Progressive building
-- Buffer included
+<h3>🎲 Success Indicators</h3>
+<p>** Team Patterns:**</p>
+<ul>
+<li>**Second-time founders**</li>
+<li>Domain experts</li>
+<li>Full-time commitment</li>
+<li>Transparent communication</li>
+<li>Previous exits</li>
 
+</ul>
+<p>** Venture Patterns:**</p>
+<ul>
+<li>**Clear value proposition**</li>
+<li>Existing competition validates market</li>
+<li>B2B over B2C</li>
+<li>Platform vs product</li>
+<li>Network effects</li>
+
+</ul>
+<p>** Milestone Patterns:**</p>
+<ul>
+<li>**Specific deliverables**</li>
+<li>Binary outcomes</li>
+<li>30-60 day timeframes</li>
+<li>Progressive building</li>
+<li>Buffer included</li>
+
+</ul>
 </div>
 
 ### Sector Selection
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 High-Success Sectors
-** Historically Strong:
-1. **Infrastructure**
- (75% success)**   - Developer tools
+<h3>🎯 High-Success Sectors</h3>
+<p>** Historically Strong:**</p>
+<p>1. **Infrastructure**</p>
+<p>(75% success)**   - Developer tools</p>
 
-- Security solutions
+<ul>
+<li>Security solutions</li>
 
-- Performance optimization
+<li>Performance optimization</li>
 
-- Integration platforms
+<li>Integration platforms</li>
 
-2. **B2B SaaS** (70% success)**   - Clear ROI
+</ul>
+<p>2. **B2B SaaS** (70% success)   - Clear ROI</p>
 
-- Recurring revenue
+<ul>
+<li>Recurring revenue</li>
 
-- Sticky products
+<li>Sticky products</li>
 
-- Enterprise focus
+<li>Enterprise focus</li>
 
-3. **DeFi Protocols** (65% success)**   - Proven models
+</ul>
+<p>3. **DeFi Protocols** (65% success)   - Proven models</p>
 
-- Audit requirements
+<ul>
+<li>Audit requirements</li>
 
-- Community need
+<li>Community need</li>
 
-- Revenue generation
-** Historically Difficult:
-- ** Consumer social (45% success)
-- Gaming (50% success)
-- Marketplaces (40% success)
-- Hardware (35% success)
+<li>Revenue generation</li>
 
+</ul>
+<p>** Historically Difficult:**</p>
+<ul>
+<li>**Consumer social (45% success)**</li>
+<li>Gaming (50% success)</li>
+<li>Marketplaces (40% success)</li>
+<li>Hardware (35% success)</li>
+
+</ul>
 </div>
 
 ## Advanced Belief Strategies
 
 ### The Momentum Play
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Riding Positive Momentum
-** Momentum Indicators:
-- ** Daily progress updates
-- Ahead of schedule
-- Community excitement
-- Media coverage
-- Partnership announcements
-** Execution:
-1. Identify momentum early
-2. Enter with standard position
-3. Add on confirmation
-4. Ride to completion
-5. Take profits
-** Risk Management:
-- ** Never chase late
-- Set stop-loss mentally
-- Take partial profits
-- Don't get greedy
+<h3>🚀 Riding Positive Momentum</h3>
+<p>** Momentum Indicators:**</p>
+<ul>
+<li>**Daily progress updates**</li>
+<li>Ahead of schedule</li>
+<li>Community excitement</li>
+<li>Media coverage</li>
+<li>Partnership announcements</li>
 
+</ul>
+<p>** Execution:**</p>
+<p>1. Identify momentum early</p>
+<p>2. Enter with standard position</p>
+<p>3. Add on confirmation</p>
+<p>4. Ride to completion</p>
+<p>5. Take profits</p>
+
+
+
+<p>Risk Management:**</p>
+<ul>
+<li>**Never chase late**</li>
+<li>Set stop-loss mentally</li>
+<li>Take partial profits</li>
+<li>Don't get greedy</li>
+
+</ul>
 </div>
 
 ### The Recovery Play
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Betting on Comebacks
-** Recovery Patterns:
-- ** Initial struggles
-- Team pivots effectively
-- New approach works
-- Sentiment shifts
-- Doubt converts to belief
-** Selection Criteria:
-- ** Strong team staying
-- Clear pivot plan
-- Community support
-- Sufficient runway
-- Technical feasibility
-** Entry Strategy:
-- ** Wait for pivot proof
-- Start small
-- Add on progress
-- Higher returns possible
+<h3>🔄 Betting on Comebacks</h3>
+<p>** Recovery Patterns:**</p>
+<ul>
+<li>**Initial struggles**</li>
+<li>Team pivots effectively</li>
+<li>New approach works</li>
+<li>Sentiment shifts</li>
+<li>Doubt converts to belief</li>
 
+</ul>
+<p>** Selection Criteria:**</p>
+<ul>
+<li>**Strong team staying**</li>
+<li>Clear pivot plan</li>
+<li>Community support</li>
+<li>Sufficient runway</li>
+<li>Technical feasibility</li>
+
+</ul>
+<p>** Entry Strategy:**</p>
+<ul>
+<li>**Wait for pivot proof**</li>
+<li>Start small</li>
+<li>Add on progress</li>
+<li>Higher returns possible</li>
+
+</ul>
 </div>
 
 ### The Quality Premium
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💎 Premium Team Strategy
-** Identifying Premium Teams:
-- ** Multiple successful exits
-- Industry recognition
-- Top-tier advisors
-- Strong funding
-- Track record
-** Premium Approach:
-- ** Accept lower multipliers
-- Take larger positions
-- Enter any phase
-- Hold through volatility
-- Compound wins
-** Expected Returns:
-- ** Lower multiplier (1.5-2x)
-- Higher success rate (85%+)
-- Consistent profits
-- Less stress
-- Portfolio stability
+<h3>💎 Premium Team Strategy</h3>
+<p>** Identifying Premium Teams:**</p>
+<ul>
+<li>**Multiple successful exits**</li>
+<li>Industry recognition</li>
+<li>Top-tier advisors</li>
+<li>Strong funding</li>
+<li>Track record</li>
 
+</ul>
+<p>** Premium Approach:**</p>
+<ul>
+<li>**Accept lower multipliers**</li>
+<li>Take larger positions</li>
+<li>Enter any phase</li>
+<li>Hold through volatility</li>
+<li>Compound wins</li>
+
+</ul>
+<p>** Expected Returns:**</p>
+<ul>
+<li>**Lower multiplier (1.5-2x)**</li>
+<li>Higher success rate (85%+)</li>
+<li>Consistent profits</li>
+<li>Less stress</li>
+<li>Portfolio stability</li>
+
+</ul>
 </div>
 
 ## Belief Portfolio Construction
 
 ### Diversification Model
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Belief Portfolio Structure
-** Optimal Mix:
+<h3>📊 Belief Portfolio Structure</h3>
+<p>** Optimal Mix:**</p>
 ```
-Premium Teams: 40% (Safe foundation)
-Momentum Plays: 25% (Growth driver)
-Recovery Plays: 15% (High upside)
-Early Phase: 15% (Maximum multiplier)
-Experimental: 5% (Learning/lottery)
+<p>Premium Teams: 40% (Safe foundation)</p>
+<p>Momentum Plays: 25% (Growth driver)</p>
+<p>Recovery Plays: 15% (High upside)</p>
+<p>Early Phase: 15% (Maximum multiplier)</p>
+<p>Experimental: 5% (Learning/lottery)</p>
 ```
-** Risk Balancing:
-- ** Never >10% in one venture
-- Spread across phases
-- Different sectors
-- Various team qualities
-- Timeline diversity
 
+
+
+<p>Risk Balancing:**</p>
+<ul>
+<li>**Never >10% in one venture**</li>
+<li>Spread across phases</li>
+<li>Different sectors</li>
+<li>Various team qualities</li>
+<li>Timeline diversity</li>
+
+</ul>
 </div>
 
 ### Belief Laddering
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🪜 Progressive Position Building
-** Laddering Strategy:
-1. **Initial Position**
- (25%)**   - Test the waters
+<h3>🪜 Progressive Position Building</h3>
+<p>** Laddering Strategy:**</p>
+<p>1. **Initial Position**</p>
+<p>(25%)**   - Test the waters</p>
 
-- Verify thesis
+<ul>
+<li>Verify thesis</li>
 
-- Build confidence
+<li>Build confidence</li>
 
-2. **Progress Position** (35%)**   - Add on evidence
+</ul>
+<p>2. **Progress Position** (35%)   - Add on evidence</p>
 
-- Momentum confirmation
+<ul>
+<li>Momentum confirmation</li>
 
-- Increase exposure
+<li>Increase exposure</li>
 
-3. **Confidence Position** (40%)**   - Final addition
+</ul>
+<p>3. **Confidence Position** (40%)   - Final addition</p>
 
-- High conviction
+<ul>
+<li>High conviction</li>
 
-- Maximize returns
-** Benefits:
-- ** Reduced timing risk
-- Better average entry
-- Flexibility to exit
-- Emotional control
+<li>Maximize returns</li>
 
+</ul>
+<p>** Benefits:**</p>
+<ul>
+<li>**Reduced timing risk**</li>
+<li>Better average entry</li>
+<li>Flexibility to exit</li>
+<li>Emotional control</li>
+
+</ul>
 </div>
 
 ## Managing Belief Positions
 
 ### Active Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎮 Position Monitoring
-** Daily Checks:
-- ** Progress updates
-- Team communication
-- Community sentiment
-- Signal changes
-- News/events
-** Red Flags to Exit Early:
-- ** Team changes
-- Milestone delays
-- Technical issues
-- Communication stops
-- Pivot discussions
+<h3>🎮 Position Monitoring</h3>
+<p>** Daily Checks:**</p>
+<ul>
+<li>**Progress updates**</li>
+<li>Team communication</li>
+<li>Community sentiment</li>
+<li>Signal changes</li>
+<li>News/events</li>
 
-**Note:** No actual exit possible, but stop promoting/supporting**</div>
+</ul>
+<p>** Red Flags to Exit Early:**</p>
+<ul>
+<li>**Team changes**</li>
+<li>Milestone delays</li>
+<li>Technical issues</li>
+<li>Communication stops</li>
+<li>Pivot discussions</li>
+
+</ul>
+</div>
 
 ### Psychological Management
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Belief Mindset
+<h3>🧠 Belief Mindset</h3>
 
-** Healthy Belief Habits:
-- ** Optimistic but realistic
-- Trust but verify
-- Support but question
-- Hope but prepare
-- Believe but diversify
-** Avoiding Bias:
-- ** Don't fall in love
-- Accept failures happen
-- Learn from losses
-- Stay objective
-- Review decisions
+<p>** Healthy Belief Habits:**</p>
+<ul>
+<li>**Optimistic but realistic**</li>
+<li>Trust but verify</li>
+<li>Support but question</li>
+<li>Hope but prepare</li>
+<li>Believe but diversify</li>
 
+</ul>
+<p>** Avoiding Bias:**</p>
+<ul>
+<li>**Don't fall in love**</li>
+<li>Accept failures happen</li>
+<li>Learn from losses</li>
+<li>Stay objective</li>
+<li>Review decisions</li>
+
+</ul>
 </div>
 
 ## Belief Signal Optimization
 
 ### Maximizing Returns
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Return Enhancement
-** Tactics for Higher Returns:
-1. **Early Entry**
+<h3>💰 Return Enhancement</h3>
+<p>** Tactics for Higher Returns:**</p>
+<p>1. **Early Entry**</p>
 
-- First 10% of pool
+<ul>
+<li>First 10% of pool</li>
 
-- Maximum multipliers
+<li>Maximum multipliers</li>
 
-- Higher risk
+<li>Higher risk</li>
 
-2. **Reputation Building**
+</ul>
+<p>2. **Reputation Building**</p>
 
-- Consistent success
+<ul>
+<li>Consistent success</li>
 
-- Higher bonuses
+<li>Higher bonuses</li>
 
-- Compound effect
+<li>Compound effect</li>
 
-3. **Phase Selection**
+</ul>
+<p>3. **Phase Selection**</p>
 
-- Earlier = higher
+<ul>
+<li>Earlier = higher</li>
 
-- Balance risk
+<li>Balance risk</li>
 
-- Diversify phases
+<li>Diversify phases</li>
 
-4. **Size Optimization**
+</ul>
+<p>4. **Size Optimization**</p>
 
-- Larger when confident
+<ul>
+<li>Larger when confident</li>
 
-- Smaller when learning
+<li>Smaller when learning</li>
 
-- Scale with success
+<li>Scale with success</li>
 
+</ul>
 </div>
 
 ## Case Studies
 
 ### Successful Belief Signals
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Learning from Winners
-**Case 1: The Perfect Signal
-- ** Venture: DeFi lending protocol
-- Phase: Ignition
-- Entry: Day 3 of 45
-- Team: Second-time founders
-- Result: 3.2x return
-** Key Lessons:
-- ** Early entry paid off
-- Team quality matters
-- Clear market need
-- Conservative milestone
-**Case 2: The Momentum Ride
-- ** Venture: B2B analytics tool
-- Phase: Drift
-- Entry: After positive demo
-- Momentum: Building fast
-- Result: 2.1x return
-** Key Lessons:
-- ** Momentum entry works
-- Demo de-risked
-- B2B higher success
-- Profit taking smart
+<h3>📚 Learning from Winners</h3>
+<p>**Case 1: The Perfect Signal**</p>
+<ul>
+<li>**Venture: DeFi lending protocol**</li>
+<li>Phase: Ignition</li>
+<li>Entry: Day 3 of 45</li>
+<li>Team: Second-time founders</li>
+<li>Result: 3.2x return</li>
 
+</ul>
+<p>** Key Lessons:**</p>
+<ul>
+<li>**Early entry paid off**</li>
+<li>Team quality matters</li>
+<li>Clear market need</li>
+<li>Conservative milestone</li>
+
+</ul>
+<p>**Case 2: The Momentum Ride**</p>
+<ul>
+<li>**Venture: B2B analytics tool**</li>
+<li>Phase: Drift</li>
+<li>Entry: After positive demo</li>
+<li>Momentum: Building fast</li>
+<li>Result: 2.1x return</li>
+
+</ul>
+<p>** Key Lessons:**</p>
+<ul>
+<li>**Momentum entry works**</li>
+<li>Demo de-risked</li>
+<li>B2B higher success</li>
+<li>Profit taking smart</li>
+
+</ul>
 </div>
 
 ## Common Belief Mistakes
 
 ### What to Avoid
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Belief Pitfalls
-** Fatal Errors:
-- ** Believing hype alone
-- Ignoring red flags
-- Oversized positions
-- No diversification
-- Emotional attachment
-** Subtle Mistakes:
-- ** Late entries
-- Weak conviction
-- No research
-- Following blindly
-- Ignoring phases
+<h3>❌ Belief Pitfalls</h3>
+<p>** Fatal Errors:**</p>
+<ul>
+<li>**Believing hype alone**</li>
+<li>Ignoring red flags</li>
+<li>Oversized positions</li>
+<li>No diversification</li>
+<li>Emotional attachment</li>
 
+</ul>
+<p>** Subtle Mistakes:**</p>
+<ul>
+<li>**Late entries**</li>
+<li>Weak conviction</li>
+<li>No research</li>
+<li>Following blindly</li>
+<li>Ignoring phases</li>
+
+</ul>
 </div>
 
 ## Advanced Techniques
 
 ### Belief Arbitrage
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Market Inefficiencies
-** Arbitrage Opportunities:
-1. **Cross-Venture**
+<h3>🎯 Market Inefficiencies</h3>
+<p>** Arbitrage Opportunities:**</p>
+<p>1. **Cross-Venture**</p>
 
-- Similar ventures
+<ul>
+<li>Similar ventures</li>
 
-- Different valuations
+<li>Different valuations</li>
 
-- Belief disparities
+<li>Belief disparities</li>
 
-2. **Information**
+</ul>
+<p>2. **Information**</p>
 
-- You know something
+<ul>
+<li>You know something</li>
 
-- Market hasn't priced
+<li>Market hasn't priced</li>
 
-- Early advantage
+<li>Early advantage</li>
 
-3. **Sentiment**
+</ul>
+<p>3. **Sentiment**</p>
 
-- Oversold quality
+<ul>
+<li>Oversold quality</li>
 
-- Panic = opportunity
+<li>Panic = opportunity</li>
 
-- Contrarian belief
+<li>Contrarian belief</li>
 
+</ul>
 </div>
 
 ## Belief Success Metrics
 
 ### Tracking Performance
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 KPIs for Belief Signals
-** Key Metrics:
-- ** Win rate: Target 70%+
-- Average return: Target 1.8x+
-- Risk-adjusted return
-- Phase distribution
-- Sector performance
-** Monthly Review:
+<h3>📊 KPIs for Belief Signals</h3>
+<p>** Key Metrics:**</p>
+<ul>
+<li>**Win rate: Target 70%+**</li>
+<li>Average return: Target 1.8x+</li>
+<li>Risk-adjusted return</li>
+<li>Phase distribution</li>
+<li>Sector performance</li>
+
+</ul>
+<p>** Monthly Review:**</p>
 ```
-Belief Signals: ___
-Successes: ___
-Failures: ___
-Win Rate: ___%
-Avg Return: ___x
-Best Signal: ___
-Worst Signal: ___
-Lessons: ___
+<p>Belief Signals: ___</p>
+<p>Successes: ___</p>
+<p>Failures: ___</p>
+<p>Win Rate: ___%</p>
+<p>Avg Return: ___x</p>
+<p>Best Signal: ___</p>
+<p>Worst Signal: ___</p>
+<p>Lessons: ___</p>
 ```
 
 </div>

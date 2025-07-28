@@ -2,11 +2,11 @@
 
 ## Accelerating Your Venture's Growth
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 From Progress to Acceleration
+<h3>🚀 From Progress to Acceleration</h3>
 
-Momentum is the difference between ventures that grind and ventures that soar. It's the compound effect of consistent wins, growing belief, and accelerating progress. This guide shows you how to build and maintain unstoppable momentum.
+<p>Momentum is the difference between ventures that grind and ventures that soar. It's the compound effect of consistent wins, growing belief, and accelerating progress. This guide shows you how to build and maintain unstoppable momentum.</p>
 
 </div>
 
@@ -14,510 +14,566 @@ Momentum is the difference between ventures that grind and ventures that soar. I
 
 ### The Physics of Startups
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Momentum = Mass × Velocity
+<h3>⚡ Momentum = Mass × Velocity</h3>
 
-**Startup Momentum Equation:**
+<p>**Startup Momentum Equation:**</p>
 
 ```python
-def calculate_momentum():
-    mass = {
-        "team_size": team_members,
-        "customer_base": active_users,
-        "community": echo_signals,
-        "resources": runway_months,
-        "partnerships": strategic_allies
-    }
-    
-    velocity = {
-        "growth_rate": month_over_month,
-        "shipping_speed": features_per_sprint,
-        "learning_rate": iterations_per_month,
-        "signal_velocity": new_echoes_daily,
-        "viral_coefficient": referral_rate
-    }
-    
-    momentum = sum(mass.values()) * sum(velocity.values())
-    return momentum
+<p>def calculate_momentum():</p>
+<p>mass = {</p>
+<p>"team_size": team_members,</p>
+<p>"customer_base": active_users,</p>
+<p>"community": echo_signals,</p>
+<p>"resources": runway_months,</p>
+<p>"partnerships": strategic_allies</p>
+<p>}</p>
+
+<p>velocity = {</p>
+<p>"growth_rate": month_over_month,</p>
+<p>"shipping_speed": features_per_sprint,</p>
+<p>"learning_rate": iterations_per_month,</p>
+<p>"signal_velocity": new_echoes_daily,</p>
+<p>"viral_coefficient": referral_rate</p>
+<p>}</p>
+
+<p>momentum = sum(mass.values()) * sum(velocity.values())</p>
+<p>return momentum</p>
 ```
 
-**Momentum Characteristics:**
+<p>**Momentum Characteristics:**</p>
 
-- Self-reinforcing
-- Compounds over time
-- Attracts resources
-- Reduces friction
-- Creates inevitability
+<ul>
+<li>Self-reinforcing</li>
+<li>Compounds over time</li>
+<li>Attracts resources</li>
+<li>Reduces friction</li>
+<li>Creates inevitability</li>
 
+</ul>
 </div>
 
 ### The Momentum Flywheel
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Self-Reinforcing Success
+<h3>🔄 Self-Reinforcing Success</h3>
 
 ```mermaid
-graph LR
-    A[Small Win] --> B[Increased Belief]
-    B --> C[More Resources]
-    C --> D[Faster Execution]
-    D --> E[Bigger Wins]
-    E --> F[Media Attention]
-    F --> G[Talent Attraction]
-    G --> A
+<p>graph LR</p>
+<p>A[Small Win] --> B[Increased Belief]</p>
+<p>B --> C[More Resources]</p>
+<p>C --> D[Faster Execution]</p>
+<p>D --> E[Bigger Wins]</p>
+<p>E --> F[Media Attention]</p>
+<p>F --> G[Talent Attraction]</p>
+<p>G --> A</p>
 ```
 
-**Flywheel Components:**
+<p>**Flywheel Components:**</p>
 
-1. **Achievement** → Confidence
-2. **Confidence** → Investment
-3. **Investment** → Capability
-4. **Capability** → Achievement
-5. **Repeat** → Acceleration
+<p>1. **Achievement** → Confidence</p>
+<p>2. **Confidence** → Investment</p>
+<p>3. **Investment** → Capability</p>
+<p>4. **Capability** → Achievement</p>
+<p>5. **Repeat** → Acceleration</p>
 
-**Critical Mass Point:**
+<p>**Critical Mass Point:**</p>
 
-- When momentum becomes self-sustaining
-- External push no longer needed
-- Growth becomes inevitable
-- Market assumes success
+<ul>
+<li>When momentum becomes self-sustaining</li>
+<li>External push no longer needed</li>
+<li>Growth becomes inevitable</li>
+<li>Market assumes success</li>
 
+</ul>
 </div>
 
 ## Building Initial Momentum
 
 ### Quick Wins Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏆 Stacking Small Victories
-**30-Day Quick Win Plan:**
+<h3>🏆 Stacking Small Victories</h3>
+<p>**30-Day Quick Win Plan:**</p>
 
-**Week 1: Foundation Wins**
+<p>**Week 1: Foundation Wins**</p>
 
 ```markdown
-Day 1-2: Launch announcement
-- ✅ Website live
-- ✅ Community created
-- ✅ First Echo signals
+<p>Day 1-2: Launch announcement</p>
+<ul>
+<li>✅ Website live</li>
+<li>✅ Community created</li>
+<li>✅ First Echo signals</li>
 
-Day 3-4: First feature
-- ✅ Core function working
-- ✅ First user onboarded
-- ✅ Initial feedback
+</ul>
+<p>Day 3-4: First feature</p>
+<ul>
+<li>✅ Core function working</li>
+<li>✅ First user onboarded</li>
+<li>✅ Initial feedback</li>
 
-Day 5-7: Social proof
-- ✅ 10 testimonials
-- ✅ Press mention
-- ✅ 100 followers
+</ul>
+<p>Day 5-7: Social proof</p>
+<ul>
+<li>✅ 10 testimonials</li>
+<li>✅ Press mention</li>
+<li>✅ 100 followers</li>
 ```
 
-**Week 2-3: Building Wins**
+</ul>
+<p>**Week 2-3: Building Wins**</p>
 
-- 50 active users
-- First revenue
-- Key partnership
-- Product update
-- Community event
+<ul>
+<li>50 active users</li>
+<li>First revenue</li>
+<li>Key partnership</li>
+<li>Product update</li>
+<li>Community event</li>
 
-**Week 4: Momentum Wins**
+</ul>
+<p>**Week 4: Momentum Wins**</p>
 
-- Hit milestone early
-- Major announcement
-- Influencer endorsement
-- Team expansion
-- Next phase preview
+<ul>
+<li>Hit milestone early</li>
+<li>Major announcement</li>
+<li>Influencer endorsement</li>
+<li>Team expansion</li>
+<li>Next phase preview</li>
 
+</ul>
 </div>
 
 ### Velocity Hacking
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏱️ Speed as Strategy
+<h3>⏱️ Speed as Strategy</h3>
 
-**Velocity Multipliers:**
+<p>**Velocity Multipliers:**</p>
 
-1. **Parallel Execution**
+<p>1. **Parallel Execution**</p>
    ```python
-   # Not this (sequential)
-   def slow_execution():
-       complete_feature_a()  # 2 weeks
-       then_complete_feature_b()  # 2 weeks
-       then_complete_feature_c()  # 2 weeks
-       total_time = 6  # weeks
-   
-   # This (parallel)
-   def fast_execution():
-       thread_a = start_feature_a()
-       thread_b = start_feature_b()
-       thread_c = start_feature_c()
-       total_time = 2  # weeks
+<h1>Not this (sequential)</h1>
+<p>def slow_execution():</p>
+<p>complete_feature_a()  # 2 weeks</p>
+<p>then_complete_feature_b()  # 2 weeks</p>
+<p>then_complete_feature_c()  # 2 weeks</p>
+<p>total_time = 6  # weeks</p>
+
+<h1>This (parallel)</h1>
+<p>def fast_execution():</p>
+<p>thread_a = start_feature_a()</p>
+<p>thread_b = start_feature_b()</p>
+<p>thread_c = start_feature_c()</p>
+<p>total_time = 2  # weeks</p>
    ```
 
-2. **Rapid Iteration**
-   - Daily deployments
-   - Continuous feedback
-   - Instant pivots
-   - Fast decisions
-   - Quick experiments
+<p>2. **Rapid Iteration**</p>
+<ul>
+<li>Daily deployments</li>
+<li>Continuous feedback</li>
+<li>Instant pivots</li>
+<li>Fast decisions</li>
+<li>Quick experiments</li>
 
-3. **Resource Optimization**
-   - Automate everything
-   - Eliminate blockers
-   - Outsource non-core
-   - Focus ruthlessly
-   - Say no often
+</ul>
+<p>3. **Resource Optimization**</p>
+<ul>
+<li>Automate everything</li>
+<li>Eliminate blockers</li>
+<li>Outsource non-core</li>
+<li>Focus ruthlessly</li>
+<li>Say no often</li>
 
+</ul>
 </div>
 
 ## Momentum Metrics
 
 ### Tracking Acceleration
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Measuring What Matters
+<h3>📊 Measuring What Matters</h3>
 
-**Core Momentum KPIs:**
+<p>**Core Momentum KPIs:**</p>
 
-| Metric | Target | Frequency |
-|--------|--------|------------|
-| Weekly Growth Rate | >10% | Weekly |
-| Echo Signal Velocity | >20/day | Daily |
-| Feature Ship Rate | >2/week | Weekly |
-| NPS Score | >50 | Monthly |
-| Team Velocity | Increasing | Sprint |
-| Press Mentions | >4/month | Monthly |
-| Viral Coefficient | >1.2 | Weekly |
+<p>| Metric | Target | Frequency |</p>
+<p>|--------|--------|------------|</p>
+<p>| Weekly Growth Rate | >10% | Weekly |</p>
+<p>| Echo Signal Velocity | >20/day | Daily |</p>
+<p>| Feature Ship Rate | >2/week | Weekly |</p>
+<p>| NPS Score | >50 | Monthly |</p>
+<p>| Team Velocity | Increasing | Sprint |</p>
+<p>| Press Mentions | >4/month | Monthly |</p>
+<p>| Viral Coefficient | >1.2 | Weekly |</p>
 
-**Momentum Dashboard:**
+<p>**Momentum Dashboard:**</p>
 ```javascript
-const momentumDashboard = {
-    velocity_metrics: {
-        current_week: {
-            growth: "12%",
-            signals: "147",
-            features: "3",
-            status: "🟢"  // Green
-        },
-        trend: "accelerating",
-        projection: "20% next week"
-    },
-    momentum_score: 87,
-    risk_factors: ["competitor launch", "tech debt"],
-    opportunities: ["PR coverage", "partnership close"]
-};
+<p>const momentumDashboard = {</p>
+<p>velocity_metrics: {</p>
+<p>current_week: {</p>
+<p>growth: "12%",</p>
+<p>signals: "147",</p>
+<p>features: "3",</p>
+<p>status: "🟢"  // Green</p>
+<p>},</p>
+<p>trend: "accelerating",</p>
+<p>projection: "20% next week"</p>
+<p>},</p>
+<p>momentum_score: 87,</p>
+<p>risk_factors: ["competitor launch", "tech debt"],</p>
+<p>opportunities: ["PR coverage", "partnership close"]</p>
+<p>};</p>
 ```
 
 </div>
 
 ### Leading vs Lagging
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Predictive Indicators
+<h3>🎯 Predictive Indicators</h3>
 
-**Leading Indicators (Predict Future):**
+<p>**Leading Indicators (Predict Future):**</p>
 
-- Daily active users trend
-- Feature adoption rate
-- Community engagement
-- Pipeline velocity
-- Code commit frequency
+<ul>
+<li>Daily active users trend</li>
+<li>Feature adoption rate</li>
+<li>Community engagement</li>
+<li>Pipeline velocity</li>
+<li>Code commit frequency</li>
 
-**Lagging Indicators (Confirm Past):**
+</ul>
+<p>**Lagging Indicators (Confirm Past):**</p>
 
-- Monthly revenue
-- Customer count
-- Churn rate
-- Market share
-- Profitability
+<ul>
+<li>Monthly revenue</li>
+<li>Customer count</li>
+<li>Churn rate</li>
+<li>Market share</li>
+<li>Profitability</li>
 
-**Balance Strategy:**
+</ul>
+<p>**Balance Strategy:**</p>
 
-- 70% focus on leading
-- 30% tracking lagging
-- Weekly leading review
-- Monthly lagging analysis
-- Quarterly correlation check
+<ul>
+<li>70% focus on leading</li>
+<li>30% tracking lagging</li>
+<li>Weekly leading review</li>
+<li>Monthly lagging analysis</li>
+<li>Quarterly correlation check</li>
 
+</ul>
 </div>
 
 ## Amplification Strategies
 
 ### Media Momentum
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📣 Creating Buzz
+<h3>📣 Creating Buzz</h3>
 
-**PR Momentum Tactics:**
+<p>**PR Momentum Tactics:**</p>
 
-1. **Story Stacking**
+<p>1. **Story Stacking**</p>
    ```text
-   Week 1: Funding announcement
-   Week 2: Key hire reveal
-   Week 3: Partnership news
-   Week 4: Product launch
-   Week 5: Customer milestone
-   = Continuous news cycle
+<p>Week 1: Funding announcement</p>
+<p>Week 2: Key hire reveal</p>
+<p>Week 3: Partnership news</p>
+<p>Week 4: Product launch</p>
+<p>Week 5: Customer milestone</p>
+<p>= Continuous news cycle</p>
    ```
 
-2. **Exclusive Strategy**
-   - TechCrunch exclusive
-   - Podcast premiere
-   - Beta access stories
-   - Behind-scenes content
-   - Founder interviews
+<p>2. **Exclusive Strategy**</p>
+<ul>
+<li>TechCrunch exclusive</li>
+<li>Podcast premiere</li>
+<li>Beta access stories</li>
+<li>Behind-scenes content</li>
+<li>Founder interviews</li>
 
-3. **Newsjacking**
-   - Trend commentary
-   - Industry reactions
-   - Competitive comparisons
-   - Market insights
-   - Future predictions
+</ul>
+<p>3. **Newsjacking**</p>
+<ul>
+<li>Trend commentary</li>
+<li>Industry reactions</li>
+<li>Competitive comparisons</li>
+<li>Market insights</li>
+<li>Future predictions</li>
 
-**Media Multiplier Effect:**
+</ul>
+<p>**Media Multiplier Effect:**</p>
 
-- One story → Three mentions
-- Three mentions → Nine shares
-- Nine shares → Trend status
-- Trend status → Organic coverage
+<ul>
+<li>One story → Three mentions</li>
+<li>Three mentions → Nine shares</li>
+<li>Nine shares → Trend status</li>
+<li>Trend status → Organic coverage</li>
 
+</ul>
 </div>
 
 ### Community Amplification
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Turning Echoes into Engines
+<h3>👥 Turning Echoes into Engines</h3>
 
-**Community Momentum Programs:**
+<p>**Community Momentum Programs:**</p>
 
-1. **Ambassador Army**
+<p>1. **Ambassador Army**</p>
    ```python
-   ambassador_program = {
-       "recruitment": "Top 10% engaged Echoes",
-       "training": "Weekly momentum sessions",
-       "tools": {
-           "content_templates": True,
-           "referral_codes": True,
-           "exclusive_access": True,
-           "swag_kit": True
-       },
-       "rewards": {
-           "referrals": "10% signal bonus",
-           "content": "100 $SIGNAL per piece",
-           "events": "VIP access",
-           "influence": "Advisory input"
-       }
-   }
+<p>ambassador_program = {</p>
+<p>"recruitment": "Top 10% engaged Echoes",</p>
+<p>"training": "Weekly momentum sessions",</p>
+<p>"tools": {</p>
+<p>"content_templates": True,</p>
+<p>"referral_codes": True,</p>
+<p>"exclusive_access": True,</p>
+<p>"swag_kit": True</p>
+<p>},</p>
+<p>"rewards": {</p>
+<p>"referrals": "10% signal bonus",</p>
+<p>"content": "100 $SIGNAL per piece",</p>
+<p>"events": "VIP access",</p>
+<p>"influence": "Advisory input"</p>
+<p>}</p>
+<p>}</p>
    ```
 
-2. **Viral Mechanics**
-   - Referral rewards
-   - Sharing incentives
-   - Network effects
-   - Social proof
-   - FOMO creation
+<p>2. **Viral Mechanics**</p>
+<ul>
+<li>Referral rewards</li>
+<li>Sharing incentives</li>
+<li>Network effects</li>
+<li>Social proof</li>
+<li>FOMO creation</li>
 
-3. **Event Momentum**
-   - Weekly demos
-   - Monthly launches
-   - Quarterly summits
-   - Annual conference
-   - Continuous energy
+</ul>
+<p>3. **Event Momentum**</p>
+<ul>
+<li>Weekly demos</li>
+<li>Monthly launches</li>
+<li>Quarterly summits</li>
+<li>Annual conference</li>
+<li>Continuous energy</li>
 
+</ul>
 </div>
 
 ## Maintaining Momentum
 
 ### Avoiding Stalls
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Momentum Killers
+<h3>⚠️ Momentum Killers</h3>
 
-**Common Stall Causes:**
+<p>**Common Stall Causes:**</p>
 
-1. **Internal Friction**
-   - Team conflicts
-   - Decision paralysis
-   - Technical debt
-   - Process overhead
-   - Vision drift
+<p>1. **Internal Friction**</p>
+<ul>
+<li>Team conflicts</li>
+<li>Decision paralysis</li>
+<li>Technical debt</li>
+<li>Process overhead</li>
+<li>Vision drift</li>
 
-2. **External Shocks**
-   - Competitor moves
-   - Market shifts
-   - Regulatory changes
-   - Economic downturns
-   - Key departures
+</ul>
+<p>2. **External Shocks**</p>
+<ul>
+<li>Competitor moves</li>
+<li>Market shifts</li>
+<li>Regulatory changes</li>
+<li>Economic downturns</li>
+<li>Key departures</li>
 
-3. **Execution Gaps**
-   - Missed deadlines
-   - Quality issues
-   - Customer churn
-   - Feature creep
-   - Focus loss
+</ul>
+<p>3. **Execution Gaps**</p>
+<ul>
+<li>Missed deadlines</li>
+<li>Quality issues</li>
+<li>Customer churn</li>
+<li>Feature creep</li>
+<li>Focus loss</li>
 
-**Anti-Stall Protocols:**
+</ul>
+<p>**Anti-Stall Protocols:**</p>
 
 ```python
-def prevent_momentum_stall():
-    # Daily momentum check
-    if velocity < threshold:
-        diagnose_friction_points()
-        implement_quick_wins()
-        communicate_progress()
-        rally_community()
-    
-    # Weekly momentum boost
-    ship_something_visible()
-    celebrate_wins_publicly()
-    preview_next_milestone()
-    
-    return maintained_momentum
+<p>def prevent_momentum_stall():</p>
+<h1>Daily momentum check</h1>
+<p>if velocity < threshold:</p>
+<p>diagnose_friction_points()</p>
+<p>implement_quick_wins()</p>
+<p>communicate_progress()</p>
+<p>rally_community()</p>
+
+<h1>Weekly momentum boost</h1>
+<p>ship_something_visible()</p>
+<p>celebrate_wins_publicly()</p>
+<p>preview_next_milestone()</p>
+
+<p>return maintained_momentum</p>
 ```
 
 </div>
 
 ### Recovery Strategies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Restarting Stalled Momentum
+<h3>🔄 Restarting Stalled Momentum</h3>
 
-**Momentum Recovery Plan:**
+<p>**Momentum Recovery Plan:**</p>
 
-**Week 1: Diagnosis**
+<p>**Week 1: Diagnosis**</p>
 
-- Identify stall cause
-- Survey community
-- Analyze metrics
-- Team retrospective
-- Create action plan
+<ul>
+<li>Identify stall cause</li>
+<li>Survey community</li>
+<li>Analyze metrics</li>
+<li>Team retrospective</li>
+<li>Create action plan</li>
 
-**Week 2: Quick Fixes**
+</ul>
+<p>**Week 2: Quick Fixes**</p>
 
-- Ship easy wins
-- Fix visible bugs
-- Improve communication
-- Re-engage Echoes
-- Show progress
+<ul>
+<li>Ship easy wins</li>
+<li>Fix visible bugs</li>
+<li>Improve communication</li>
+<li>Re-engage Echoes</li>
+<li>Show progress</li>
 
-**Week 3: Big Push**
+</ul>
+<p>**Week 3: Big Push**</p>
 
-- Major announcement
-- Product update
-- Press coverage
-- Community event
-- Partnership reveal
+<ul>
+<li>Major announcement</li>
+<li>Product update</li>
+<li>Press coverage</li>
+<li>Community event</li>
+<li>Partnership reveal</li>
 
-**Week 4: Sustain**
+</ul>
+<p>**Week 4: Sustain**</p>
 
-- Maintain cadence
-- Build systems
-- Prevent repeat
-- Celebrate recovery
-- Plan ahead
+<ul>
+<li>Maintain cadence</li>
+<li>Build systems</li>
+<li>Prevent repeat</li>
+<li>Celebrate recovery</li>
+<li>Plan ahead</li>
 
+</ul>
 </div>
 
 ## Advanced Techniques
 
 ### Momentum Stacking
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Compound Acceleration
+<h3>🎯 Compound Acceleration</h3>
 
-**Multi-Layer Momentum:**
+<p>**Multi-Layer Momentum:**</p>
 
 ```text
-Product Momentum
-    │
-    ├─> Feature velocity
-    ├─> User growth
-    └─> Quality improvements
-         │
-         ↓
-Community Momentum
-    │
-    ├─> Echo signals
-    ├─> Engagement rate
-    └─> Viral spread
-         │
-         ↓
-Market Momentum
-    │
-    ├─> Press coverage
-    ├─> Competitor fear
-    └─> Industry recognition
-         │
-         ↓
-Team Momentum
-    │
-    ├─> Hiring velocity
-    ├─> Skill growth
-    └─> Culture strength
+<p>Product Momentum</p>
+<p>│</p>
+<p>├─> Feature velocity</p>
+<p>├─> User growth</p>
+<p>└─> Quality improvements</p>
+<p>│</p>
+<p>↓</p>
+<p>Community Momentum</p>
+<p>│</p>
+<p>├─> Echo signals</p>
+<p>├─> Engagement rate</p>
+<p>└─> Viral spread</p>
+<p>│</p>
+<p>↓</p>
+<p>Market Momentum</p>
+<p>│</p>
+<p>├─> Press coverage</p>
+<p>├─> Competitor fear</p>
+<p>└─> Industry recognition</p>
+<p>│</p>
+<p>↓</p>
+<p>Team Momentum</p>
+<p>│</p>
+<p>├─> Hiring velocity</p>
+<p>├─> Skill growth</p>
+<p>└─> Culture strength</p>
 ```
 
-**Stacking Strategy:**
+<p>**Stacking Strategy:**</p>
 
-- Build one layer first
-- Use it to boost next
-- Create reinforcement loops
-- Monitor all layers
-- Maintain balance
+<ul>
+<li>Build one layer first</li>
+<li>Use it to boost next</li>
+<li>Create reinforcement loops</li>
+<li>Monitor all layers</li>
+<li>Maintain balance</li>
 
+</ul>
 </div>
 
 ### Momentum Arbitrage
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💹 Trading Momentum
+<h3>💹 Trading Momentum</h3>
 
-**Arbitrage Opportunities:**
+<p>**Arbitrage Opportunities:**</p>
 
-1. **Attention Arbitrage**
-   - Undervalued channels
-   - Emerging platforms
-   - Niche communities
-   - Untapped markets
-   - Fresh angles
+<p>1. **Attention Arbitrage**</p>
+<ul>
+<li>Undervalued channels</li>
+<li>Emerging platforms</li>
+<li>Niche communities</li>
+<li>Untapped markets</li>
+<li>Fresh angles</li>
 
-2. **Timing Arbitrage**
-   - News cycles
-   - Seasonal trends
-   - Market gaps
-   - Competitor mistakes
-   - Industry shifts
+</ul>
+<p>2. **Timing Arbitrage**</p>
+<ul>
+<li>News cycles</li>
+<li>Seasonal trends</li>
+<li>Market gaps</li>
+<li>Competitor mistakes</li>
+<li>Industry shifts</li>
 
-3. **Network Arbitrage**
-   - Influencer connections
-   - Partnership leverage
-   - Community bridges
-   - Cross-promotion
-   - Ecosystem plays
+</ul>
+<p>3. **Network Arbitrage**</p>
+<ul>
+<li>Influencer connections</li>
+<li>Partnership leverage</li>
+<li>Community bridges</li>
+<li>Cross-promotion</li>
+<li>Ecosystem plays</li>
 
-**Execution:**
+</ul>
+<p>**Execution:**</p>
 
 ```python
-def momentum_arbitrage():
-    opportunities = scan_for_gaps()
-    
-    for opportunity in opportunities:
-        if effort_to_impact_ratio(opportunity) > threshold:
-            execute_quickly(opportunity)
-            amplify_results()
-            compound_gains()
-    
-    return multiplied_momentum
+<p>def momentum_arbitrage():</p>
+<p>opportunities = scan_for_gaps()</p>
+
+<p>for opportunity in opportunities:</p>
+<p>if effort_to_impact_ratio(opportunity) > threshold:</p>
+<p>execute_quickly(opportunity)</p>
+<p>amplify_results()</p>
+<p>compound_gains()</p>
+
+<p>return multiplied_momentum</p>
 ```
 
 </div>
@@ -526,153 +582,182 @@ def momentum_arbitrage():
 
 ### Building a Momentum Team
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Everyone an Accelerator
+<h3>👥 Everyone an Accelerator</h3>
 
-**Cultural Elements:**
+<p>**Cultural Elements:**</p>
 
-1. **Velocity Values**
-   - Ship daily
-   - Decide fast
-   - Learn quickly
-   - Iterate always
-   - Celebrate wins
+<p>1. **Velocity Values**</p>
+<ul>
+<li>Ship daily</li>
+<li>Decide fast</li>
+<li>Learn quickly</li>
+<li>Iterate always</li>
+<li>Celebrate wins</li>
 
-2. **Momentum Rituals**
-   - Daily standups
-   - Weekly demos
-   - Sprint reviews
-   - Win celebrations
-   - Failure parties
+</ul>
+<p>2. **Momentum Rituals**</p>
+<ul>
+<li>Daily standups</li>
+<li>Weekly demos</li>
+<li>Sprint reviews</li>
+<li>Win celebrations</li>
+<li>Failure parties</li>
 
-3. **Accountability Systems**
-   - Public commitments
-   - Transparent metrics
-   - Peer pressure
-   - Reward velocity
-   - Remove blockers
+</ul>
+<p>3. **Accountability Systems**</p>
+<ul>
+<li>Public commitments</li>
+<li>Transparent metrics</li>
+<li>Peer pressure</li>
+<li>Reward velocity</li>
+<li>Remove blockers</li>
 
-**Team Momentum Stack:**
+</ul>
+<p>**Team Momentum Stack:**</p>
 
 ```text
-Individual Momentum
-  × Team Coordination
-  × Resource Availability  
-  × Cultural Alignment
-  = Unstoppable Force
+<p>Individual Momentum</p>
+<p>× Team Coordination</p>
+<p>× Resource Availability</p>
+<p>× Cultural Alignment</p>
+<p>= Unstoppable Force</p>
 ```
 
 </div>
 
 ### Momentum Communication
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📢 Broadcasting Acceleration
+<h3>📢 Broadcasting Acceleration</h3>
 
-**Communication Framework:**
+<p>**Communication Framework:**</p>
 
-**Internal (Team):**
+<p>**Internal (Team):**</p>
 
-- Real-time dashboards
-- Slack celebrations
-- Weekly win emails
-- Sprint velocities
-- Personal records
+<ul>
+<li>Real-time dashboards</li>
+<li>Slack celebrations</li>
+<li>Weekly win emails</li>
+<li>Sprint velocities</li>
+<li>Personal records</li>
 
-**External (Community):**
+</ul>
+<p>**External (Community):**</p>
 
 ```markdown
-### Weekly Momentum Update
 
-🚀 This Week's Velocity:
-- Users: +523 (+47% WoW)
-- Revenue: +$12.3K (+62% WoW)  
-- Features: 8 shipped
-- Echoes: +89 believers
+<h3>Weekly Momentum Update</h3>
 
-🎆 Momentum Highlights:
-- Broke 1,000 user barrier
-- TechCrunch coverage
-- Series A interest
-- Key hire joined
+<p>🚀 This Week's Velocity:</p>
+<ul>
+<li>Users: +523 (+47% WoW)</li>
+<li>Revenue: +$12.3K (+62% WoW)</li>
+<li>Features: 8 shipped</li>
+<li>Echoes: +89 believers</li>
 
-🎯 Next Week Preview:
-- Major feature launch
-- Partnership announcement
-- Community event
-- Surprise reveal 👀
+</ul>
+<p>🎆 Momentum Highlights:</p>
+<ul>
+<li>Broke 1,000 user barrier</li>
+<li>TechCrunch coverage</li>
+<li>Series A interest</li>
+<li>Key hire joined</li>
+
+</ul>
+<p>🎯 Next Week Preview:</p>
+<ul>
+<li>Major feature launch</li>
+<li>Partnership announcement</li>
+<li>Community event</li>
+<li>Surprise reveal 👀</li>
 ```
 
+</ul>
 </div>
 
 ## Momentum Milestones
 
 ### Setting Momentum Goals
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Acceleration Targets
+<h3>🎯 Acceleration Targets</h3>
 
-**Momentum-Based Milestones:**
+<p>**Momentum-Based Milestones:**</p>
 
-1. **Velocity Milestones**
-   - "Ship 50 features in 30 days"
-   - "Reach 100 signals/day"
-   - "10X growth in 90 days"
-   - "Daily press coverage"
+<p>1. **Velocity Milestones**</p>
+<ul>
+<li>"Ship 50 features in 30 days"</li>
+<li>"Reach 100 signals/day"</li>
+<li>"10X growth in 90 days"</li>
+<li>"Daily press coverage"</li>
 
-2. **Compound Milestones**
-   - "Triple monthly triple"
-   - "Viral coefficient >2"
-   - "Self-sustaining growth"
-   - "Market inevitability"
+</ul>
+<p>2. **Compound Milestones**</p>
+<ul>
+<li>"Triple monthly triple"</li>
+<li>"Viral coefficient >2"</li>
+<li>"Self-sustaining growth"</li>
+<li>"Market inevitability"</li>
 
-3. **Breakthrough Milestones**
-   - "Category creation"
-   - "Competitor acquisition"
-   - "Industry standard"
-   - "Unicorn valuation"
+</ul>
+<p>3. **Breakthrough Milestones**</p>
+<ul>
+<li>"Category creation"</li>
+<li>"Competitor acquisition"</li>
+<li>"Industry standard"</li>
+<li>"Unicorn valuation"</li>
 
+</ul>
 </div>
 
 ## Common Pitfalls
 
 ### Momentum Mistakes
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ What Kills Acceleration
+<h3>⚠️ What Kills Acceleration</h3>
 
-**Fatal Errors:**
+<p>**Fatal Errors:**</p>
 
-1. **Fake Momentum**
-   - Vanity metrics
-   - Paid growth only
-   - Hype without substance
-   - Unsustainable pace
+<p>1. **Fake Momentum**</p>
+<ul>
+<li>Vanity metrics</li>
+<li>Paid growth only</li>
+<li>Hype without substance</li>
+<li>Unsustainable pace</li>
 
-2. **Momentum Addiction**
-   - Burnout culture
-   - Quality sacrifice
-   - Strategic drift
-   - Team exhaustion
+</ul>
+<p>2. **Momentum Addiction**</p>
+<ul>
+<li>Burnout culture</li>
+<li>Quality sacrifice</li>
+<li>Strategic drift</li>
+<li>Team exhaustion</li>
 
-3. **Momentum Blindness**
-   - Ignoring warnings
-   - Missing pivots
-   - Runway ignorance
-   - Market deafness
+</ul>
+<p>3. **Momentum Blindness**</p>
+<ul>
+<li>Ignoring warnings</li>
+<li>Missing pivots</li>
+<li>Runway ignorance</li>
+<li>Market deafness</li>
 
-**Healthy Balance:**
+</ul>
+<p>**Healthy Balance:**</p>
 
-- Sustainable pace
-- Quality + Speed
-- Strategic focus
-- Team wellness
-- Long-term view
+<ul>
+<li>Sustainable pace</li>
+<li>Quality + Speed</li>
+<li>Strategic focus</li>
+<li>Team wellness</li>
+<li>Long-term view</li>
 
+</ul>
 </div>
 
 ## Next Steps

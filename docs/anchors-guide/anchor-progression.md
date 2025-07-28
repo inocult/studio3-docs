@@ -2,11 +2,11 @@
 
 ## Your Journey to Mastery
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Climbing the Anchor Ladder
+<h3>🎯 Climbing the Anchor Ladder</h3>
 
-The Anchor progression system recognizes and rewards excellence, providing clear pathways for advancement. This guide maps your journey from Junior Anchor to Master Anchor, detailing requirements, benefits, and strategies for growth.
+<p>The Anchor progression system recognizes and rewards excellence, providing clear pathways for advancement. This guide maps your journey from Junior Anchor to Master Anchor, detailing requirements, benefits, and strategies for growth.</p>
 
 </div>
 
@@ -14,654 +14,761 @@ The Anchor progression system recognizes and rewards excellence, providing clear
 
 ### The Four Levels
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Anchor Hierarchy
+<h3>📊 Anchor Hierarchy</h3>
 
-**Level Structure:**
+<p>**Level Structure:**</p>
 
-| Level | Experience | Validations | Success Rate | Special Requirements |
-|-------|------------|-------------|--------------|---------------------|
-|**Junior Anchor** | 0-6 months | 10+ | 85%+ | Training complete |
-|**Anchor** | 6-18 months | 50+ | 90%+ | Mentor juniors |
-|**Senior Anchor** | 18+ months | 150+ | 93%+ | Lead initiatives |
-|**Master Anchor** | 36+ months | 300+ | 95%+ | Council eligible |
+<p>| Level | Experience | Validations | Success Rate | Special Requirements |</p>
+<p>|-------|------------|-------------|--------------|---------------------|</p>
+<p>| **Junior Anchor** | 0-6 months | 10+ | 85%+ | Training complete |</p>
+<p>| **Anchor** | 6-18 months | 50+ | 90%+ | Mentor juniors |</p>
+<p>| **Senior Anchor** | 18+ months | 150+ | 93%+ | Lead initiatives |</p>
+<p>| **Master Anchor** | 36+ months | 300+ | 95%+ | Council eligible |</p>
 
-**Progression Benefits:**
+<p>**Progression Benefits:**</p>
 
-- Increased compensation
-- Greater influence
-- Advanced opportunities
-- Leadership roles
-- Legacy building
+<ul>
+<li>Increased compensation</li>
+<li>Greater influence</li>
+<li>Advanced opportunities</li>
+<li>Leadership roles</li>
+<li>Legacy building</li>
 
+</ul>
 </div>
 
 ### Career Timeline
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ Typical Progression Path
+<h3>⏰ Typical Progression Path</h3>
 
-**Year 1: Foundation Building**
+<p>**Year 1: Foundation Building**</p>
 
 ```
-Months 1-3: Junior Anchor
-- Complete training
-- First validations
-- Build confidence
-- Learn systems
+<p>Months 1-3: Junior Anchor</p>
+<ul>
+<li>Complete training</li>
+<li>First validations</li>
+<li>Build confidence</li>
+<li>Learn systems</li>
 
-Months 4-6: Growing Junior
-- Increase velocity
-- Expand domains
-- Build reputation
-- Network actively
+</ul>
+<p>Months 4-6: Growing Junior</p>
+<ul>
+<li>Increase velocity</li>
+<li>Expand domains</li>
+<li>Build reputation</li>
+<li>Network actively</li>
 
-Months 7-12: Approaching Anchor
-- Consistent quality
-- Mentor readiness
-- Process mastery
-- Thought leadership
+</ul>
+<p>Months 7-12: Approaching Anchor</p>
+<ul>
+<li>Consistent quality</li>
+<li>Mentor readiness</li>
+<li>Process mastery</li>
+<li>Thought leadership</li>
 ```
 
-**Year 2-3: Expertise Development**
+</ul>
+<p>**Year 2-3: Expertise Development**</p>
 
-- Specialization depth
-- Complex validations
-- Innovation contributions
-- Community leadership
+<ul>
+<li>Specialization depth</li>
+<li>Complex validations</li>
+<li>Innovation contributions</li>
+<li>Community leadership</li>
 
-**Year 3+: Mastery Achievement**
+</ul>
+<p>**Year 3+: Mastery Achievement**</p>
 
-- Strategic influence
-- Ecosystem shaping
-- Knowledge creation
-- Legacy building
+<ul>
+<li>Strategic influence</li>
+<li>Ecosystem shaping</li>
+<li>Knowledge creation</li>
+<li>Legacy building</li>
 
+</ul>
 </div>
 
 ## Junior Anchor (0-6 months)
 
 ### Starting Strong
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌱 The Foundation Phase
+<h3>🌱 The Foundation Phase</h3>
 
-**Core Focus Areas:**
+<p>**Core Focus Areas:**</p>
 
-1. **Technical Proficiency**
-   - Master validation tools
-   - Understand all standards
-   - Build domain knowledge
-   - Develop efficiency
+<p>1. **Technical Proficiency**</p>
+<ul>
+<li>Master validation tools</li>
+<li>Understand all standards</li>
+<li>Build domain knowledge</li>
+<li>Develop efficiency</li>
 
-2. **Process Excellence**
-   - Follow frameworks precisely
-   - Document thoroughly
-   - Meet all deadlines
-   - Maintain quality
+</ul>
+<p>2. **Process Excellence**</p>
+<ul>
+<li>Follow frameworks precisely</li>
+<li>Document thoroughly</li>
+<li>Meet all deadlines</li>
+<li>Maintain quality</li>
 
-3. **Relationship Building**
-   - Professional communication
-   - Founder empathy
-   - Peer networking
-   - Mentor engagement
+</ul>
+<p>3. **Relationship Building**</p>
+<ul>
+<li>Professional communication</li>
+<li>Founder empathy</li>
+<li>Peer networking</li>
+<li>Mentor engagement</li>
 
-**Success Metrics:**
+</ul>
+<p>**Success Metrics:**</p>
 
 ```python
-junior_targets = {
-    "validations_monthly": 3,
-    "success_rate": 0.85,
-    "response_time": "48 hours",
-    "documentation_quality": "complete",
-    "training_modules": "all passed"
-}
+<p>junior_targets = {</p>
+<p>"validations_monthly": 3,</p>
+<p>"success_rate": 0.85,</p>
+<p>"response_time": "48 hours",</p>
+<p>"documentation_quality": "complete",</p>
+<p>"training_modules": "all passed"</p>
+<p>}</p>
 ```
 
 </div>
 
 ### Junior Development Plan
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Accelerating Growth
+<h3>📈 Accelerating Growth</h3>
 
-**Month-by-Month Goals:**
+<p>**Month-by-Month Goals:**</p>
 
-**Month 1-2: Learn**
+<p>**Month 1-2: Learn**</p>
 
-- Shadow senior anchors
-- Complete all training
-- Practice on test cases
-- Build knowledge base
+<ul>
+<li>Shadow senior anchors</li>
+<li>Complete all training</li>
+<li>Practice on test cases</li>
+<li>Build knowledge base</li>
 
-**Month 3-4: Apply**
+</ul>
+<p>**Month 3-4: Apply**</p>
 
-- First solo validations
-- Receive feedback actively
-- Refine approach
-- Build confidence
+<ul>
+<li>First solo validations</li>
+<li>Receive feedback actively</li>
+<li>Refine approach</li>
+<li>Build confidence</li>
 
-**Month 5-6: Excel**
+</ul>
+<p>**Month 5-6: Excel**</p>
 
-- Increase complexity
-- Improve efficiency
-- Contribute insights
-- Prepare for promotion
+<ul>
+<li>Increase complexity</li>
+<li>Improve efficiency</li>
+<li>Contribute insights</li>
+<li>Prepare for promotion</li>
 
-**Key Activities:**
+</ul>
+<p>**Key Activities:**</p>
 
-- Weekly mentor meetings
-- Peer review participation
-- Community engagement
-- Continuous learning
+<ul>
+<li>Weekly mentor meetings</li>
+<li>Peer review participation</li>
+<li>Community engagement</li>
+<li>Continuous learning</li>
 
+</ul>
 </div>
 
 ## Anchor Level (6-18 months)
 
 ### Core Competency
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⭐ The Professional Phase
+<h3>⭐ The Professional Phase</h3>
 
-**Elevated Responsibilities:**
+<p>**Elevated Responsibilities:**</p>
 
-1. **Validation Leadership**
-   - Handle complex cases
-   - Set quality examples
-   - Innovate processes
-   - Share knowledge
+<p>1. **Validation Leadership**</p>
+<ul>
+<li>Handle complex cases</li>
+<li>Set quality examples</li>
+<li>Innovate processes</li>
+<li>Share knowledge</li>
 
-2. **Mentorship Duties**
-   - Guide junior anchors
-   - Share best practices
-   - Provide feedback
-   - Build culture
+</ul>
+<p>2. **Mentorship Duties**</p>
+<ul>
+<li>Guide junior anchors</li>
+<li>Share best practices</li>
+<li>Provide feedback</li>
+<li>Build culture</li>
 
-3. **Community Contribution**
-   - Lead initiatives
-   - Create resources
-   - Facilitate sessions
-   - Drive improvements
+</ul>
+<p>3. **Community Contribution**</p>
+<ul>
+<li>Lead initiatives</li>
+<li>Create resources</li>
+<li>Facilitate sessions</li>
+<li>Drive improvements</li>
 
-**Performance Standards:**
+</ul>
+<p>**Performance Standards:**</p>
 
-| Metric | Target |
-|--------|--------|
-| Monthly Validations | 5-8 |
-| Success Rate | 90%+ |
-| Dispute Rate | <5% |
-| Mentees | 1-2 |
-| Contributions | 2/month |
+<p>| Metric | Target |</p>
+<p>|--------|--------|</p>
+<p>| Monthly Validations | 5-8 |</p>
+<p>| Success Rate | 90%+ |</p>
+<p>| Dispute Rate | <5% |</p>
+<p>| Mentees | 1-2 |</p>
+<p>| Contributions | 2/month |</p>
 
 </div>
 
 ### Skill Expansion
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Growing Your Impact
+<h3>🚀 Growing Your Impact</h3>
 
-**Advanced Skills Development:**
+<p>**Advanced Skills Development:**</p>
 
-**Technical Mastery**
+<p>**Technical Mastery**</p>
 
 ```
-Focus Areas:
-├── Deep Specialization
-│   ├── Industry vertical
-│   ├── Technology stack
-│   └── Phase expertise
-├── Cross-Domain Knowledge
-│   ├── Business + Tech
-│   ├── Market understanding
-│   └── Regulatory awareness
-└── Tool Innovation
-    ├── Process automation
-    ├── Quality enhancement
-    └── Efficiency gains
+<p>Focus Areas:</p>
+<p>├── Deep Specialization</p>
+<p>│   ├── Industry vertical</p>
+<p>│   ├── Technology stack</p>
+<p>│   └── Phase expertise</p>
+<p>├── Cross-Domain Knowledge</p>
+<p>│   ├── Business + Tech</p>
+<p>│   ├── Market understanding</p>
+<p>│   └── Regulatory awareness</p>
+<p>└── Tool Innovation</p>
+<p>├── Process automation</p>
+<p>├── Quality enhancement</p>
+<p>└── Efficiency gains</p>
 ```
 
-**Leadership Skills**
+<p>**Leadership Skills**</p>
 
-- Conflict resolution
-- Strategic thinking
-- Change management
-- Influence building
-- Vision articulation
+<ul>
+<li>Conflict resolution</li>
+<li>Strategic thinking</li>
+<li>Change management</li>
+<li>Influence building</li>
+<li>Vision articulation</li>
 
+</ul>
 </div>
 
 ## Senior Anchor (18+ months)
 
 ### Leadership Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏆 The Leadership Phase
+<h3>🏆 The Leadership Phase</h3>
 
-**Senior Responsibilities:**
+<p>**Senior Responsibilities:**</p>
 
-1. **Strategic Validation**
-   - Most complex ventures
-   - Precedent-setting cases
-   - Crisis interventions
-   - Quality assurance
+<p>1. **Strategic Validation**</p>
+<ul>
+<li>Most complex ventures</li>
+<li>Precedent-setting cases</li>
+<li>Crisis interventions</li>
+<li>Quality assurance</li>
 
-2. **Ecosystem Leadership**
-   - Policy development
-   - Standards evolution
-   - Training design
-   - Culture shaping
+</ul>
+<p>2. **Ecosystem Leadership**</p>
+<ul>
+<li>Policy development</li>
+<li>Standards evolution</li>
+<li>Training design</li>
+<li>Culture shaping</li>
 
-3. **External Representation**
-   - Industry speaking
-   - Partnership building
-   - Thought leadership
-   - Brand ambassadorship
+</ul>
+<p>3. **External Representation**</p>
+<ul>
+<li>Industry speaking</li>
+<li>Partnership building</li>
+<li>Thought leadership</li>
+<li>Brand ambassadorship</li>
 
-**Influence Metrics:**
+</ul>
+<p>**Influence Metrics:**</p>
 
-- Council participation
-- Initiative leadership
-- Policy contributions
-- Mentor tree growth
-- External recognition
+<ul>
+<li>Council participation</li>
+<li>Initiative leadership</li>
+<li>Policy contributions</li>
+<li>Mentor tree growth</li>
+<li>External recognition</li>
 
+</ul>
 </div>
 
 ### Senior Development
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💡 Innovation and Impact
+<h3>💡 Innovation and Impact</h3>
 
-**Growth Strategies:**
+<p>**Growth Strategies:**</p>
 
-**Year 2-3 Focus:**
+<p>**Year 2-3 Focus:**</p>
 
-1. **Specialization Depth**
-   - Become go-to expert
-   - Publish insights
-   - Lead workshops
-   - Drive standards
+<p>1. **Specialization Depth**</p>
+<ul>
+<li>Become go-to expert</li>
+<li>Publish insights</li>
+<li>Lead workshops</li>
+<li>Drive standards</li>
 
-2. **Leadership Expansion**
-   - Multiple mentees
-   - Committee leadership
-   - Cross-team projects
-   - Strategic input
+</ul>
+<p>2. **Leadership Expansion**</p>
+<ul>
+<li>Multiple mentees</li>
+<li>Committee leadership</li>
+<li>Cross-team projects</li>
+<li>Strategic input</li>
 
-3. **External Building**
-   - Industry connections
-   - Conference speaking
-   - Article writing
-   - Community building
+</ul>
+<p>3. **External Building**</p>
+<ul>
+<li>Industry connections</li>
+<li>Conference speaking</li>
+<li>Article writing</li>
+<li>Community building</li>
 
-**Innovation Expectations:**
+</ul>
+<p>**Innovation Expectations:**</p>
 
-- New frameworks
-- Tool development
-- Process improvements
-- Knowledge creation
+<ul>
+<li>New frameworks</li>
+<li>Tool development</li>
+<li>Process improvements</li>
+<li>Knowledge creation</li>
 
+</ul>
 </div>
 
 ## Master Anchor (36+ months)
 
 ### Pinnacle Achievement
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 The Mastery Phase
+<h3>🌟 The Mastery Phase</h3>
 
-**Master Anchor Profile:**
+<p>**Master Anchor Profile:**</p>
 
-**Exceptional Performance:**
+<p>**Exceptional Performance:**</p>
 
-- 95%+ success rate
-- <2% dispute rate
-- 300+ validations
-- Multiple specializations
-- Proven innovation
+<ul>
+<li>95%+ success rate</li>
+<li><2% dispute rate</li>
+<li>300+ validations</li>
+<li>Multiple specializations</li>
+<li>Proven innovation</li>
 
-**Leadership Excellence:**
+</ul>
+<p>**Leadership Excellence:**</p>
 
-- Council member/eligible
-- Multiple initiatives led
-- Significant contributions
-- Mentor tree thriving
-- External recognition
+<ul>
+<li>Council member/eligible</li>
+<li>Multiple initiatives led</li>
+<li>Significant contributions</li>
+<li>Mentor tree thriving</li>
+<li>External recognition</li>
 
-**Strategic Impact:**
+</ul>
+<p>**Strategic Impact:**</p>
 
-- Policy shaping
-- Ecosystem direction
-- Standard setting
-- Culture defining
-- Future building
+<ul>
+<li>Policy shaping</li>
+<li>Ecosystem direction</li>
+<li>Standard setting</li>
+<li>Culture defining</li>
+<li>Future building</li>
 
+</ul>
 </div>
 
 ### Master Responsibilities
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👑 Elite Contributions
+<h3>👑 Elite Contributions</h3>
 
-**Unique Responsibilities:**
+<p>**Unique Responsibilities:**</p>
 
-1. **Apex Validations**
-   - Highest stakes
-   - Most complex
-   - Precedent setting
-   - Crisis management
+<p>1. **Apex Validations**</p>
+<ul>
+<li>Highest stakes</li>
+<li>Most complex</li>
+<li>Precedent setting</li>
+<li>Crisis management</li>
 
-2. **Ecosystem Architecture**
-   - Design systems
-   - Shape policies
-   - Build frameworks
-   - Guide evolution
+</ul>
+<p>2. **Ecosystem Architecture**</p>
+<ul>
+<li>Design systems</li>
+<li>Shape policies</li>
+<li>Build frameworks</li>
+<li>Guide evolution</li>
 
-3. **Legacy Building**
-   - Knowledge codification
-   - Successor development
-   - Culture preservation
-   - Future preparation
+</ul>
+<p>3. **Legacy Building**</p>
+<ul>
+<li>Knowledge codification</li>
+<li>Successor development</li>
+<li>Culture preservation</li>
+<li>Future preparation</li>
 
-**Master Privileges:**
+</ul>
+<p>**Master Privileges:**</p>
 
-- Highest compensation
-- Council eligibility
-- Strategic input
-- Speaking opportunities
-- Legacy recognition
+<ul>
+<li>Highest compensation</li>
+<li>Council eligibility</li>
+<li>Strategic input</li>
+<li>Speaking opportunities</li>
+<li>Legacy recognition</li>
 
+</ul>
 </div>
 
 ## Progression Strategies
 
 ### Accelerating Advancement
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Fast-Track Tactics
+<h3>🚀 Fast-Track Tactics</h3>
 
-**Proven Acceleration Methods:**
+<p>**Proven Acceleration Methods:**</p>
 
-1. **Over-Deliver Consistently**
+<p>1. **Over-Deliver Consistently**</p>
 
    ```python
-   def accelerate_progression():
-       # Exceed minimums
-       target_validations = minimum * 1.5
-       target_quality = standard + 10%
-       
-       # Expand capabilities
-       learn_new_domains()
-       master_advanced_tools()
-       
-       # Build influence
-       contribute_regularly()
-       mentor_proactively()
-       
-       return faster_progression
+<p>def accelerate_progression():</p>
+<h1>Exceed minimums</h1>
+<p>target_validations = minimum * 1.5</p>
+<p>target_quality = standard + 10%</p>
+
+<h1>Expand capabilities</h1>
+<p>learn_new_domains()</p>
+<p>master_advanced_tools()</p>
+
+<h1>Build influence</h1>
+<p>contribute_regularly()</p>
+<p>mentor_proactively()</p>
+
+<p>return faster_progression</p>
    ```
 
-2. **Strategic Networking**
-   - Connect with leaders
-   - Join committees
-   - Attend events
-   - Build reputation
+<p>2. **Strategic Networking**</p>
+<ul>
+<li>Connect with leaders</li>
+<li>Join committees</li>
+<li>Attend events</li>
+<li>Build reputation</li>
 
-3. **Innovation Focus**
-   - Identify improvements
-   - Propose solutions
-   - Lead implementation
-   - Share results
+</ul>
+<p>3. **Innovation Focus**</p>
+<ul>
+<li>Identify improvements</li>
+<li>Propose solutions</li>
+<li>Lead implementation</li>
+<li>Share results</li>
 
+</ul>
 </div>
 
 ### Skill Development
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Continuous Learning
+<h3>📚 Continuous Learning</h3>
 
-**Skill Building Framework:**
+<p>**Skill Building Framework:**</p>
 
-**Technical Skills:**
+<p>**Technical Skills:**</p>
 
-- New technologies
-- Industry trends
-- Advanced tools
-- Security practices
-- Performance optimization
+<ul>
+<li>New technologies</li>
+<li>Industry trends</li>
+<li>Advanced tools</li>
+<li>Security practices</li>
+<li>Performance optimization</li>
 
-**Business Acumen:**
+</ul>
+<p>**Business Acumen:**</p>
 
-- Market dynamics
-- Financial modeling
-- Strategic planning
-- Risk assessment
-- Growth strategies
+<ul>
+<li>Market dynamics</li>
+<li>Financial modeling</li>
+<li>Strategic planning</li>
+<li>Risk assessment</li>
+<li>Growth strategies</li>
 
-**Soft Skills:**
+</ul>
+<p>**Soft Skills:**</p>
 
-- Communication mastery
-- Emotional intelligence
-- Leadership presence
-- Influence building
-- Cultural awareness
+<ul>
+<li>Communication mastery</li>
+<li>Emotional intelligence</li>
+<li>Leadership presence</li>
+<li>Influence building</li>
+<li>Cultural awareness</li>
 
-**Learning Methods:**
+</ul>
+<p>**Learning Methods:**</p>
 
-- Formal training
-- Peer learning
-- Self-study
-- Experimentation
-- External courses
+<ul>
+<li>Formal training</li>
+<li>Peer learning</li>
+<li>Self-study</li>
+<li>Experimentation</li>
+<li>External courses</li>
 
+</ul>
 </div>
 
 ## Performance Management
 
 ### Regular Reviews
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Tracking Progress
+<h3>📊 Tracking Progress</h3>
 
-**Review Cycle:**
+<p>**Review Cycle:**</p>
 
-**Monthly Self-Review:**
+<p>**Monthly Self-Review:**</p>
 
 ```markdown
-## Monthly Performance Check
 
-### Quantitative Metrics
-- Validations completed: X
-- Success rate: X%
-- Response time: X hours
-- Disputes: X
+<h2>Monthly Performance Check</h2>
 
-### Qualitative Assessment
-- Founder feedback
-- Peer recognition
-- Innovation contributions
-- Learning achievements
+<h3>Quantitative Metrics</h3>
+<ul>
+<li>Validations completed: X</li>
+<li>Success rate: X%</li>
+<li>Response time: X hours</li>
+<li>Disputes: X</li>
 
-### Next Month Goals
-- Specific targets
-- Skill development
-- Relationship building
-- Contribution plans
+<h3>Qualitative Assessment</h3>
+<li>Founder feedback</li>
+<li>Peer recognition</li>
+<li>Innovation contributions</li>
+<li>Learning achievements</li>
+
+<h3>Next Month Goals</h3>
+<li>Specific targets</li>
+<li>Skill development</li>
+<li>Relationship building</li>
+<li>Contribution plans</li>
 ```
 
-**Quarterly Formal Review:**
+</ul>
+<p>**Quarterly Formal Review:**</p>
 
-- Manager assessment
-- Peer feedback
-- Self-evaluation
-- Goal setting
-- Development planning
+<ul>
+<li>Manager assessment</li>
+<li>Peer feedback</li>
+<li>Self-evaluation</li>
+<li>Goal setting</li>
+<li>Development planning</li>
 
+</ul>
 </div>
 
 ### Overcoming Plateaus
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧗 Breaking Through Barriers
+<h3>🧗 Breaking Through Barriers</h3>
 
-**Common Plateaus:**
+<p>**Common Plateaus:**</p>
 
-1. **Skill Plateau**
-   - Symptoms: Same mistakes
-   - Solution: New learning
-   - Action: External training
+<p>1. **Skill Plateau**</p>
+<ul>
+<li>Symptoms: Same mistakes</li>
+<li>Solution: New learning</li>
+<li>Action: External training</li>
 
-2. **Motivation Plateau**
-   - Symptoms: Low energy
-   - Solution: New challenges
+</ul>
+<p>2. **Motivation Plateau**</p>
+<ul>
+<li>Symptoms: Low energy</li>
+<li>Solution: New challenges</li>
 
-- Action: Role expansion
+<li>Action: Role expansion</li>
 
-3. **Relationship Plateau**
+</ul>
+<p>3. **Relationship Plateau**</p>
 
-- Symptoms: Limited network
+<ul>
+<li>Symptoms: Limited network</li>
 
-- Solution: Active outreach
+<li>Solution: Active outreach</li>
 
-- Action: Event participation
+<li>Action: Event participation</li>
 
-**Breakthrough Strategies:**
+</ul>
+<p>**Breakthrough Strategies:**</p>
 
-- Seek stretch assignments
-- Request feedback actively
-- Find new mentors
-- Change focus areas
-- Take calculated risks
+<ul>
+<li>Seek stretch assignments</li>
+<li>Request feedback actively</li>
+<li>Find new mentors</li>
+<li>Change focus areas</li>
+<li>Take calculated risks</li>
 
+</ul>
 </div>
 
 ## Compensation Evolution
 
 ### Earnings Growth
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Financial Progression
-**Compensation Scaling:**
+<h3>💰 Financial Progression</h3>
+<p>**Compensation Scaling:**</p>
 
-| Level | Base Multiplier | Performance Bonus | Additional Opportunities |
-|-------|----------------|-------------------|-------------------------|
-| Junior | 1.0x | Up to 20% | Training incentives |
-| Anchor | 1.5x | Up to 30% | Mentorship bonus |
-| Senior | 2.2x | Up to 40% | Leadership roles |
-| Master | 3.0x | Up to 50% | Strategic advisory |
+<p>| Level | Base Multiplier | Performance Bonus | Additional Opportunities |</p>
+<p>|-------|----------------|-------------------|-------------------------|</p>
+<p>| Junior | 1.0x | Up to 20% | Training incentives |</p>
+<p>| Anchor | 1.5x | Up to 30% | Mentorship bonus |</p>
+<p>| Senior | 2.2x | Up to 40% | Leadership roles |</p>
+<p>| Master | 3.0x | Up to 50% | Strategic advisory |</p>
 
-**Additional Income:**
+<p>**Additional Income:**</p>
 
-- Complex validation premiums
-- Mentorship compensation
-- Speaking engagements
-- Content creation
-- Advisory roles
+<ul>
+<li>Complex validation premiums</li>
+<li>Mentorship compensation</li>
+<li>Speaking engagements</li>
+<li>Content creation</li>
+<li>Advisory roles</li>
 
+</ul>
 </div>
 
 ## Career Planning
 
 ### Long-Term Vision
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Your Anchor Future
-**Career Path Options:**
+<h3>🎯 Your Anchor Future</h3>
+<p>**Career Path Options:**</p>
 
-1. **Specialist Track**
+<p>1. **Specialist Track**</p>
 
-- Deep expertise
+<ul>
+<li>Deep expertise</li>
 
-- Industry authority
+<li>Industry authority</li>
 
-- Premium validations
+<li>Premium validations</li>
 
-- Consulting opportunities
+<li>Consulting opportunities</li>
 
-2. **Leadership Track**
+</ul>
+<p>2. **Leadership Track**</p>
 
-- Council membership
+<ul>
+<li>Council membership</li>
 
-- Policy influence
+<li>Policy influence</li>
 
-- Ecosystem shaping
+<li>Ecosystem shaping</li>
 
-- Legacy building
+<li>Legacy building</li>
 
-3. **Entrepreneur Track**
+</ul>
+<p>3. **Entrepreneur Track**</p>
 
-- Start ventures
+<ul>
+<li>Start ventures</li>
 
-- Build tools
+<li>Build tools</li>
 
-- Create services
+<li>Create services</li>
 
-- Industry innovation
+<li>Industry innovation</li>
 
-4. **Educator Track**
+</ul>
+<p>4. **Educator Track**</p>
 
-- Training design
+<ul>
+<li>Training design</li>
 
-- Content creation
+<li>Content creation</li>
 
-- Speaking circuit
+<li>Speaking circuit</li>
 
-- Knowledge sharing
+<li>Knowledge sharing</li>
 
+</ul>
 </div>
 
 ### Goal Setting
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Planning Your Journey
+<h3>🎯 Planning Your Journey</h3>
 
-**SMART Goals Framework:**
+<p>**SMART Goals Framework:**</p>
 
 ```text
-Example 5-Year Plan:
-Year 1: Foundation
-- Complete 50 validations
-- Achieve 90% success rate
-- Mentor 2 juniors
-- Build core network
+<p>Example 5-Year Plan:</p>
+<p>Year 1: Foundation</p>
+<ul>
+<li>Complete 50 validations</li>
+<li>Achieve 90% success rate</li>
+<li>Mentor 2 juniors</li>
+<li>Build core network</li>
 
-Year 2: Expansion
-- Specialize in fintech
-- Lead 1 initiative
-- Speak at conference
-- Join committee
+</ul>
+<p>Year 2: Expansion</p>
+<ul>
+<li>Specialize in fintech</li>
+<li>Lead 1 initiative</li>
+<li>Speak at conference</li>
+<li>Join committee</li>
 
-Year 3: Leadership
-- Senior promotion
-- Policy contribution
-- Tool development
-- External recognition
+</ul>
+<p>Year 3: Leadership</p>
+<ul>
+<li>Senior promotion</li>
+<li>Policy contribution</li>
+<li>Tool development</li>
+<li>External recognition</li>
 
-Year 4-5: Mastery
-- Council candidacy
-- Industry influence
-- Legacy projects
-- Succession planning
+</ul>
+<p>Year 4-5: Mastery</p>
+<ul>
+<li>Council candidacy</li>
+<li>Industry influence</li>
+<li>Legacy projects</li>
+<li>Succession planning</li>
 ```
 
+</ul>
 </div>
 
 ## Next Steps

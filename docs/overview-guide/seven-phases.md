@@ -44,26 +44,30 @@ graph LR
 
 ### Where Ideas Take Flight
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Objective
-Transform a remixed IP concept into a validated venture idea with initial community support.
+<h3>🎯 Objective</h3>
+<p>Transform a remixed IP concept into a validated venture idea with initial community support.</p>
 
-**Key Activities:**
+<p>**Key Activities:**</p>
 
-- **Create Spark NFT from Flambette marketplace**
-- **Enter idea into Spark Arena**
-- **Gather initial belief signals**
-- **Refine concept based on feedback**
-- **Build initial supporter base**
+<ul>
+<li>**Create Spark NFT from Flambette marketplace**</li>
+<li>**Enter idea into Spark Arena**</li>
+<li>**Gather initial belief signals**</li>
+<li>**Refine concept based on feedback**</li>
+<li>**Build initial supporter base**</li>
 
-**Success Criteria:**
+</ul>
+<p>**Success Criteria:**</p>
 
-- **Minimum 100 $SIGNAL in belief**
-- **At least 10 unique supporters**
-- **Clear problem-solution fit**
-- **Feasible execution plan**
+<ul>
+<li>**Minimum 100 $SIGNAL in belief**</li>
+<li>**At least 10 unique supporters**</li>
+<li>**Clear problem-solution fit**</li>
+<li>**Feasible execution plan**</li>
 
+</ul>
 </div>
 
 ### Spark Dynamics
@@ -86,62 +90,69 @@ Transform a remixed IP concept into a validated venture idea with initial commun
 
 ### The Battle for Leadership
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏆 Objective
-Determine the most capable founder through competitive dueling.
-**Duel Format:**
+<h3>🏆 Objective</h3>
+<p>Determine the most capable founder through competitive dueling.</p>
 
-- **Entry Stakes**: 1,000 $SIGNAL minimum
-- **Preparation**: 72 hours to prepare pitch
-- **Presentation**: Live pitch to community
-- **Voting**: Token-weighted community decision
-- **Winner Takes All**: Signal NFT + leadership rights
+<p>**Duel Format:**</p>
 
-**Evaluation Criteria:**
+<ul>
+<li>**Entry Stakes**: 1,000 $SIGNAL minimum</li>
+<li>**Preparation**: 72 hours to prepare pitch</li>
+<li>**Presentation**: Live pitch to community</li>
+<li>**Voting**: Token-weighted community decision</li>
+<li>**Winner Takes All**: Signal NFT + leadership rights</li>
 
-- **Vision clarity and ambition**
-- Technical capability
-- Leadership experience
-- Community engagement
-- Commitment level
+</ul>
+<p>**Evaluation Criteria:**</p>
 
+<ul>
+<li>**Vision clarity and ambition**</li>
+<li>Technical capability</li>
+<li>Leadership experience</li>
+<li>Community engagement</li>
+<li>Commitment level</li>
+
+</ul>
 </div>
 
 ### Forge Strategies
 
 !!! tip "Winning the Forge"
-    1. **Demonstrate Expertise** - Show deep domain knowledge
-    2. **Rally Support** - Build coalitions before the duel
-    3. **Present Clear Plan** - Specific milestones win votes
-    4. **Show Commitment** - Stake significant tokens
+    1. **Demonstrate Expertise** - Show deep domain knowledge**
+    2. **Rally Support** - Build coalitions before the duel**
+    3. **Present Clear Plan** - Specific milestones win votes**
+    4. **Show Commitment** - Stake significant tokens**
     5. **Engage Actively** - Answer all questions thoroughly
 
 ## Phase 3: Ignition 🚀
 
 ### Building the Foundation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔨 Objective
-Form Container DAO, assemble team, and deliver initial MVP.
+<h3>🔨 Objective</h3>
+<p>Form Container DAO, assemble team, and deliver initial MVP.</p>
 
-**Critical Tasks:**
+<p>**Critical Tasks:**</p>
 
-- **Create Container DAO structure**
-- Mint Halo NFT (locked)
-- Recruit 2-4 team members
-- Define technical architecture
-- Build and launch MVP
-- Secure initial users/testers
+<ul>
+<li>**Create Container DAO structure**</li>
+<li>Mint Halo NFT (locked)</li>
+<li>Recruit 2-4 team members</li>
+<li>Define technical architecture</li>
+<li>Build and launch MVP</li>
+<li>Secure initial users/testers</li>
 
-**Milestones:**
+</ul>
+<p>**Milestones:**</p>
 
-1. DAO formation complete
-2. Core team assembled
-3. Technical spec approved
-4. MVP launched
-5. First users onboarded
+<p>1. DAO formation complete</p>
+<p>2. Core team assembled</p>
+<p>3. Technical spec approved</p>
+<p>4. MVP launched</p>
+<p>5. First users onboarded</p>
 
 </div>
 
@@ -169,25 +180,31 @@ graph TD
 
 ### Finding Your Current
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Objective
-Iterate rapidly to find product-market fit through community feedback.
-**Key Characteristics:**
+<h3>🎯 Objective</h3>
+<p>Iterate rapidly to find product-market fit through community feedback.</p>
 
-- **High experimentation rate**
-- Rapid pivots allowed
-- Constant user feedback
-- Flexible milestone adjustments
-- Community-guided development
-**Success Indicators:**
+<p>**Key Characteristics:**</p>
 
-- **User retention > 40%**
-- Organic growth starting
-- Clear use case emerging
-- Positive unit economics
-- Community enthusiasm growing
+<ul>
+<li>**High experimentation rate**</li>
+<li>Rapid pivots allowed</li>
+<li>Constant user feedback</li>
+<li>Flexible milestone adjustments</li>
+<li>Community-guided development</li>
 
+</ul>
+<p>**Success Indicators:**</p>
+
+<ul>
+<li>**User retention > 40%**</li>
+<li>Organic growth starting</li>
+<li>Clear use case emerging</li>
+<li>Positive unit economics</li>
+<li>Community enthusiasm growing</li>
+
+</ul>
 </div>
 
 ### Drift Strategies
@@ -215,26 +232,31 @@ When pivoting during Drift:
 
 ### Achieving Stability
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Objective
-Establish sustainable operations with consistent growth and reliable delivery.
+<h3>🎯 Objective</h3>
+<p>Establish sustainable operations with consistent growth and reliable delivery.</p>
 
-**Orbit Characteristics:**
+<p>**Orbit Characteristics:**</p>
 
-- **Predictable revenue/usage**
-- Stable team operations
-- Consistent milestone achievement
-- Growing community confidence
-- Clear scaling path
-**Key Metrics:**
+<ul>
+<li>**Predictable revenue/usage**</li>
+<li>Stable team operations</li>
+<li>Consistent milestone achievement</li>
+<li>Growing community confidence</li>
+<li>Clear scaling path</li>
 
-- **MRR/MAU growth**: 10%+ monthly
-- Milestone success rate: 80%+
-- Team retention: 90%+
-- User satisfaction: 4.5/5+
-- Token velocity: Increasing
+</ul>
+<p>**Key Metrics:**</p>
 
+<ul>
+<li>**MRR/MAU growth**: 10%+ monthly</li>
+<li>Milestone success rate: 80%+</li>
+<li>Team retention: 90%+</li>
+<li>User satisfaction: 4.5/5+</li>
+<li>Token velocity: Increasing</li>
+
+</ul>
 </div>
 
 ### Operational Excellence
@@ -261,34 +283,40 @@ graph LR
 
 ### Igniting Growth
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Objective
-Scale rapidly with external capital and aggressive expansion.
-**Flare Characteristics:**
+<h3>🚀 Objective</h3>
+<p>Scale rapidly with external capital and aggressive expansion.</p>
 
-- **External funding rounds**
-- Aggressive hiring
-- Market expansion
-- Product scaling
-- Brand building
-**Capital Sources:**
+<p>**Flare Characteristics:**</p>
 
-- **Traditional VCs (now interested)**
-- Strategic partners
-- Revenue-based financing
-- Token sales (if applicable)
-- Community rounds
+<ul>
+<li>**External funding rounds**</li>
+<li>Aggressive hiring</li>
+<li>Market expansion</li>
+<li>Product scaling</li>
+<li>Brand building</li>
 
+</ul>
+<p>**Capital Sources:**</p>
+
+<ul>
+<li>**Traditional VCs (now interested)**</li>
+<li>Strategic partners</li>
+<li>Revenue-based financing</li>
+<li>Token sales (if applicable)</li>
+<li>Community rounds</li>
+
+</ul>
 </div>
 
 ### Scaling Strategies
 
 !!! success "Flare Playbook"
-    1. **Prove Unit Economics** - Show profitable growth potential
-    2. **Build Investor Pipeline** - Leverage Studio3 network
-    3. **Maintain Transparency** - Keep community informed
-    4. **Execute Flawlessly** - High stakes, high scrutiny
+    1. **Prove Unit Economics** - Show profitable growth potential**
+    2. **Build Investor Pipeline** - Leverage Studio3 network**
+    3. **Maintain Transparency** - Keep community informed**
+    4. **Execute Flawlessly** - High stakes, high scrutiny**
     5. **Prepare for Ascension** - Plan graduation early
 
 ### Growth Metrics
@@ -306,37 +334,40 @@ gross_margins = > 70% # For software
 
 ### Achieving Sovereignty
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👑 Objective
-Graduate from Studio3 oversight to complete independence.
+<h3>👑 Objective</h3>
+<p>Graduate from Studio3 oversight to complete independence.</p>
 
-**Ascension Requirements:**
+<p>**Ascension Requirements:**</p>
 
-- **All phases successfully completed**
-- Sustainable business model proven
-- Team fully autonomous
-- Community support maintained
-- Buyback funds available
+<ul>
+<li>**All phases successfully completed**</li>
+<li>Sustainable business model proven</li>
+<li>Team fully autonomous</li>
+<li>Community support maintained</li>
+<li>Buyback funds available</li>
 
-**The Buyback Process:**
+</ul>
+<p>**The Buyback Process:**</p>
 
-1. Initiate graduation request
-2. Final Anchor validation
-3. Buyback Spark + Signal NFTs
-4. Unlock Halo NFT
-5. Transfer Genesis Wallet control
-6. Achieve full sovereignty
+<p>1. Initiate graduation request</p>
+<p>2. Final Anchor validation</p>
+<p>3. Buyback Spark + Signal NFTs</p>
+<p>4. Unlock Halo NFT</p>
+<p>5. Transfer Genesis Wallet control</p>
+<p>6. Achieve full sovereignty</p>
 
 </div>
 
 ### Sovereignty Benefits
 
 !!! info "What Sovereignty Unlocks"
-    - **Full Control**: Complete ownership of all assets
-    - **Sub-Studio Rights**: Launch your own ventures
-    - **Alumni Network**: Lifetime Studio3 benefits
-    - **Mentor Status**: Become an Anchor yourself
+
+    - **Full Control**: Complete ownership of all assets**
+    - **Sub-Studio Rights**: Launch your own ventures**
+    - **Alumni Network**: Lifetime Studio3 benefits**
+    - **Mentor Status**: Become an Anchor yourself**
     - **Legacy Recognition**: Permanent ecosystem honor
 
 ### Post-Ascension Options
@@ -356,24 +387,29 @@ Graduate from Studio3 oversight to complete independence.
 
 ### Moving Forward
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Advancement Criteria
+<h3>📈 Advancement Criteria</h3>
 
-**General Requirements:**
+<p>**General Requirements:**</p>
 
-- **Complete all phase milestones**
-- Maintain community support (>60% belief)
-- Pass Anchor validation
-- Meet minimum duration
-- Achieve phase-specific metrics
-**Special Cases:**
+<ul>
+<li>**Complete all phase milestones**</li>
+<li>Maintain community support (>60% belief)</li>
+<li>Pass Anchor validation</li>
+<li>Meet minimum duration</li>
+<li>Achieve phase-specific metrics</li>
 
-- **Fast Track**: Exceptional ventures can accelerate
-- **Extended Duration**: Complex ventures may need more time
-- **Phase Skipping**: Not allowed - all phases required
-- **Regression**: Can fall back during Drift only
+</ul>
+<p>**Special Cases:**</p>
 
+<ul>
+<li>**Fast Track**: Exceptional ventures can accelerate</li>
+<li>**Extended Duration**: Complex ventures may need more time</li>
+<li>**Phase Skipping**: Not allowed - all phases required</li>
+<li>**Regression**: Can fall back during Drift only</li>
+
+</ul>
 </div>
 
 ### Failure Modes

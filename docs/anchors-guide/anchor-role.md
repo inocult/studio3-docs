@@ -2,11 +2,11 @@
 
 ## Guardians of Quality and Guides of Success
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚓ The Pillars of Studio3
+<h3>⚓ The Pillars of Studio3</h3>
 
-As an Anchor in Studio3, you serve as both validator and mentor, ensuring venture quality while guiding founders toward success. This role combines technical expertise, strategic insight, and human wisdom to maintain the ecosystem's high standards.
+<p>As an Anchor in Studio3, you serve as both validator and mentor, ensuring venture quality while guiding founders toward success. This role combines technical expertise, strategic insight, and human wisdom to maintain the ecosystem's high standards.</p>
 
 </div>
 
@@ -14,562 +14,672 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 
 ### What is an Anchor?
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Core Definition
+<h3>🎯 Core Definition</h3>
 
-**Anchors are experienced builders who:**
+<p>**Anchors are experienced builders who:**</p>
 
-- Validate milestone achievements
-- Guide ventures through challenges
-- Maintain quality standards
-- Protect ecosystem integrity
-- Mentor founders to success
+<ul>
+<li>Validate milestone achievements</li>
+<li>Guide ventures through challenges</li>
+<li>Maintain quality standards</li>
+<li>Protect ecosystem integrity</li>
+<li>Mentor founders to success</li>
 
-**The Name "Anchor":**
+</ul>
+<p>**The Name "Anchor":**</p>
 
-- Provides stability in turbulent waters
-- Keeps ventures grounded in reality
-- Offers secure connection point
-- Prevents drift from objectives
-- Enables safe exploration
+<ul>
+<li>Provides stability in turbulent waters</li>
+<li>Keeps ventures grounded in reality</li>
+<li>Offers secure connection point</li>
+<li>Prevents drift from objectives</li>
+<li>Enables safe exploration</li>
 
+</ul>
 </div>
 
 ### Beyond Traditional Advisors
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 The Evolution
+<h3>🔄 The Evolution</h3>
 
-| Traditional Advisor | Studio3 Anchor |
-|-------------------|----------------|
-| Quarterly check-ins | Continuous engagement |
-| Equity compensation | Performance rewards |
-| Limited accountability | Public validation record |
-| Advisory only | Validation authority |
-| Individual relationship | Ecosystem guardian |
+<p>| Traditional Advisor | Studio3 Anchor |</p>
+<p>|-------------------|----------------|</p>
+<p>| Quarterly check-ins | Continuous engagement |</p>
+<p>| Equity compensation | Performance rewards |</p>
+<p>| Limited accountability | Public validation record |</p>
+<p>| Advisory only | Validation authority |</p>
+<p>| Individual relationship | Ecosystem guardian |</p>
 
-**Key Differentiators:**
+<p>**Key Differentiators:**</p>
 
-- Real skin in the game
-- Public reputation at stake
-- Direct impact on outcomes
-- Community accountability
-- Measurable contribution
+<ul>
+<li>Real skin in the game</li>
+<li>Public reputation at stake</li>
+<li>Direct impact on outcomes</li>
+<li>Community accountability</li>
+<li>Measurable contribution</li>
 
+</ul>
 </div>
 
 ## The Anchor Mindset
 
 ### Core Philosophy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Thinking Like an Anchor
+<h3>🧠 Thinking Like an Anchor</h3>
 
-**Dual Responsibility:**
+<p>**Dual Responsibility:**</p>
 
-1. **To Ventures**
-   - Help them succeed
-2. **To Ecosystem**
-   - Maintain standards
+<p>1. **To Ventures**</p>
+<ul>
+<li>Help them succeed</li>
+</ul>
+<p>2. **To Ecosystem**</p>
+<ul>
+<li>Maintain standards</li>
 
-**Balancing Act:**
+</ul>
+<p>**Balancing Act:**</p>
 
-- Supportive yet objective
-- Helpful yet honest
-- Flexible yet firm
-- Understanding yet uncompromising
-- Mentoring yet measuring
+<ul>
+<li>Supportive yet objective</li>
+<li>Helpful yet honest</li>
+<li>Flexible yet firm</li>
+<li>Understanding yet uncompromising</li>
+<li>Mentoring yet measuring</li>
 
-**The Anchor Oath:**
-"I will guide with wisdom, validate with integrity, and always place ecosystem health above personal gain."
+</ul>
+<p>**The Anchor Oath:**</p>
+<p>"I will guide with wisdom, validate with integrity, and always place ecosystem health above personal gain."</p>
 
 </div>
 
 ### Essential Qualities
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⭐ What Makes Great Anchors
+<h3>⭐ What Makes Great Anchors</h3>
 
-**Technical Excellence:**
+<p>**Technical Excellence:**</p>
 
-- Deep domain expertise
-- Current knowledge
-- Analytical rigor
-- Problem-solving ability
-- Quality recognition
+<ul>
+<li>Deep domain expertise</li>
+<li>Current knowledge</li>
+<li>Analytical rigor</li>
+<li>Problem-solving ability</li>
+<li>Quality recognition</li>
 
-**Human Skills:**
+</ul>
+<p>**Human Skills:**</p>
 
-- Empathetic communication
-- Patient mentorship
-- Conflict resolution
-- Emotional intelligence
-- Cultural sensitivity
+<ul>
+<li>Empathetic communication</li>
+<li>Patient mentorship</li>
+<li>Conflict resolution</li>
+<li>Emotional intelligence</li>
+<li>Cultural sensitivity</li>
 
-**Professional Integrity:**
+</ul>
+<p>**Professional Integrity:**</p>
 
-- Unbiased judgment
-- Consistent standards
-- Transparent process
-- Ethical behavior
-- Long-term thinking
+<ul>
+<li>Unbiased judgment</li>
+<li>Consistent standards</li>
+<li>Transparent process</li>
+<li>Ethical behavior</li>
+<li>Long-term thinking</li>
 
+</ul>
 </div>
 
 ## Anchor Responsibilities
 
 ### Primary Functions
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📋 Core Duties
+<h3>📋 Core Duties</h3>
 
-1. **Milestone Validation**
-   - Review evidence thoroughly
-   - Apply consistent standards
-   - Make fair determinations
-   - Document decisions clearly
-   - Stand by judgments
-2. **Venture Guidance**
-   - Strategic advice
-   - Technical consultation
-   - Resource connections
-   - Problem solving
-   - Crisis support
-3. **Ecosystem Protection**
-   - Quality maintenance
-   - Standard enforcement
-   - Bad actor identification
-   - Culture preservation
-   - Innovation encouragement
+<p>1. **Milestone Validation**</p>
+<ul>
+<li>Review evidence thoroughly</li>
+<li>Apply consistent standards</li>
+<li>Make fair determinations</li>
+<li>Document decisions clearly</li>
+<li>Stand by judgments</li>
+</ul>
+<p>2. **Venture Guidance**</p>
+<ul>
+<li>Strategic advice</li>
+<li>Technical consultation</li>
+<li>Resource connections</li>
+<li>Problem solving</li>
+<li>Crisis support</li>
+</ul>
+<p>3. **Ecosystem Protection**</p>
+<ul>
+<li>Quality maintenance</li>
+<li>Standard enforcement</li>
+<li>Bad actor identification</li>
+<li>Culture preservation</li>
+<li>Innovation encouragement</li>
 
+</ul>
 </div>
 
 ### Time Commitment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ Realistic Expectations
+<h3>⏰ Realistic Expectations</h3>
 
-**Weekly Time Investment:**
+<p>**Weekly Time Investment:**</p>
 
-- Active ventures: 2-4 hours per venture
-- Validation reviews: 1-2 hours each
-- Community engagement: 3-5 hours
-- Continued learning: 2-3 hours
-- **Total: 15-25 hours/week**
+<ul>
+<li>Active ventures: 2-4 hours per venture</li>
+<li>Validation reviews: 1-2 hours each</li>
+<li>Community engagement: 3-5 hours</li>
+<li>Continued learning: 2-3 hours</li>
+<li>**Total: 15-25 hours/week**</li>
 
-**Peak Periods:**
+</ul>
+<p>**Peak Periods:**</p>
 
-- Milestone deadlines
-- Crisis situations
-- Dispute resolutions
-- Major pivots
-- Exit preparations
+<ul>
+<li>Milestone deadlines</li>
+<li>Crisis situations</li>
+<li>Dispute resolutions</li>
+<li>Major pivots</li>
+<li>Exit preparations</li>
 
-**Flexibility Required:**
+</ul>
+<p>**Flexibility Required:**</p>
 
-- Some weeks lighter
-- Some weeks heavier
-- Always available for emergencies
-- Responsive communication
-- Reliable presence
+<ul>
+<li>Some weeks lighter</li>
+<li>Some weeks heavier</li>
+<li>Always available for emergencies</li>
+<li>Responsive communication</li>
+<li>Reliable presence</li>
 
+</ul>
 </div>
 
 ## The Anchor Journey
 
 ### Career Progression
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Advancement Path
+<h3>📈 Advancement Path</h3>
 
-**Level 1: Junior Anchor**
+<p>**Level 1: Junior Anchor**</p>
 
-- Learning the role
-- 1-3 ventures assigned
-- Mentored by seniors
-- Building reputation
+<ul>
+<li>Learning the role</li>
+<li>1-3 ventures assigned</li>
+<li>Mentored by seniors</li>
+<li>Building reputation</li>
 
-**Level 2: Anchor**
+</ul>
+<p>**Level 2: Anchor**</p>
 
-- Fully autonomous
-- 3-5 ventures
-- Specialization emerging
-- Community recognition
+<ul>
+<li>Fully autonomous</li>
+<li>3-5 ventures</li>
+<li>Specialization emerging</li>
+<li>Community recognition</li>
 
-**Level 3: Senior Anchor**
+</ul>
+<p>**Level 3: Senior Anchor**</p>
 
-- Complex ventures
-- 5-8 assignments
-- Mentoring juniors
-- Policy influence
+<ul>
+<li>Complex ventures</li>
+<li>5-8 assignments</li>
+<li>Mentoring juniors</li>
+<li>Policy influence</li>
 
-**Level 4: Master Anchor**
+</ul>
+<p>**Level 4: Master Anchor**</p>
 
-- Elite ventures
-- Selective assignments
-- Thought leadership
-- Ecosystem shaping
+<ul>
+<li>Elite ventures</li>
+<li>Selective assignments</li>
+<li>Thought leadership</li>
+<li>Ecosystem shaping</li>
 
-**Level 5: Council Member**
+</ul>
+<p>**Level 5: Council Member**</p>
 
-- Governance role
-- Strategic direction
-- Standard setting
-- Legacy building
+<ul>
+<li>Governance role</li>
+<li>Strategic direction</li>
+<li>Standard setting</li>
+<li>Legacy building</li>
 
+</ul>
 </div>
 
 ### Specialization Options
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎓 Anchor Specialties
+<h3>🎓 Anchor Specialties</h3>
 
-**Domain Specialization:**
+<p>**Domain Specialization:**</p>
 
-- DeFi protocols
-- Gaming ventures
-- B2B platforms
-- Infrastructure
-- AI/ML applications
+<ul>
+<li>DeFi protocols</li>
+<li>Gaming ventures</li>
+<li>B2B platforms</li>
+<li>Infrastructure</li>
+<li>AI/ML applications</li>
 
-**Phase Specialization:**
+</ul>
+<p>**Phase Specialization:**</p>
 
-- Early stage (Spark/Forge)
-- Building (Ignition/Drift)
-- Scaling (Orbit/Flare)
-- Exit (Ascension)
+<ul>
+<li>Early stage (Spark/Forge)</li>
+<li>Building (Ignition/Drift)</li>
+<li>Scaling (Orbit/Flare)</li>
+<li>Exit (Ascension)</li>
 
-**Function Specialization:**
+</ul>
+<p>**Function Specialization:**</p>
 
-- Technical validation
-- Market assessment
-- Team evaluation
-- Financial analysis
-- Strategic planning
+<ul>
+<li>Technical validation</li>
+<li>Market assessment</li>
+<li>Team evaluation</li>
+<li>Financial analysis</li>
+<li>Strategic planning</li>
 
+</ul>
 </div>
 
 ## Impact and Influence
 
 ### Ecosystem Impact
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 Your Contribution
+<h3>🌟 Your Contribution</h3>
 
-**Direct Impact:**
+<p>**Direct Impact:**</p>
 
-- Ventures guided to success
-- Quality standards maintained
-- Founders developed
-- Innovation fostered
-- Value created
+<ul>
+<li>Ventures guided to success</li>
+<li>Quality standards maintained</li>
+<li>Founders developed</li>
+<li>Innovation fostered</li>
+<li>Value created</li>
 
-**Indirect Impact:**
+</ul>
+<p>**Indirect Impact:**</p>
 
-- Culture shaped
-- Standards elevated
-- Trust built
-- Network strengthened
-- Future enabled
+<ul>
+<li>Culture shaped</li>
+<li>Standards elevated</li>
+<li>Trust built</li>
+<li>Network strengthened</li>
+<li>Future enabled</li>
 
-**Measurable Outcomes:**
+</ul>
+<p>**Measurable Outcomes:**</p>
 
-- Venture success rates
-- Founder satisfaction
-- Ecosystem growth
-- Innovation metrics
-- Quality indicators
+<ul>
+<li>Venture success rates</li>
+<li>Founder satisfaction</li>
+<li>Ecosystem growth</li>
+<li>Innovation metrics</li>
+<li>Quality indicators</li>
 
+</ul>
 </div>
 
 ### Personal Benefits
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💎 What Anchors Gain
+<h3>💎 What Anchors Gain</h3>
 
-**Financial Rewards:**
+<p>**Financial Rewards:**</p>
 
-- Validation fees (2-5% of milestones)
-- Performance bonuses
-- Success participation
-- Long-term upside
-- Stable income
+<ul>
+<li>Validation fees (2-5% of milestones)</li>
+<li>Performance bonuses</li>
+<li>Success participation</li>
+<li>Long-term upside</li>
+<li>Stable income</li>
 
-**Professional Growth:**
+</ul>
+<p>**Professional Growth:**</p>
 
-- Expanded network
-- Deep learning
-- Leadership skills
-- Industry recognition
-- Career opportunities
+<ul>
+<li>Expanded network</li>
+<li>Deep learning</li>
+<li>Leadership skills</li>
+<li>Industry recognition</li>
+<li>Career opportunities</li>
 
-**Personal Satisfaction:**
+</ul>
+<p>**Personal Satisfaction:**</p>
 
-- Meaningful impact
-- Founder success stories
-- Ecosystem building
-- Knowledge sharing
-- Legacy creation
+<ul>
+<li>Meaningful impact</li>
+<li>Founder success stories</li>
+<li>Ecosystem building</li>
+<li>Knowledge sharing</li>
+<li>Legacy creation</li>
 
+</ul>
 </div>
 
 ## Anchor Ethics
 
 ### Ethical Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Moral Foundation
+<h3>⚖️ Moral Foundation</h3>
 
-**Core Principles:**
+<p>**Core Principles:**</p>
 
-1. **Objectivity**
-   - No bias in validation
-2. **Integrity**
-   - Honest assessments always
-3. **Confidentiality**
-   - Respect private information
-4. **Transparency**
-   - Clear communication
-5. **Service**
-   - Ecosystem first
+<p>1. **Objectivity**</p>
+<ul>
+<li>No bias in validation</li>
+</ul>
+<p>2. **Integrity**</p>
+<ul>
+<li>Honest assessments always</li>
+</ul>
+<p>3. **Confidentiality**</p>
+<ul>
+<li>Respect private information</li>
+</ul>
+<p>4. **Transparency**</p>
+<ul>
+<li>Clear communication</li>
+</ul>
+<p>5. **Service**</p>
+<ul>
+<li>Ecosystem first</li>
 
-**Conflict Management:**
+</ul>
+<p>**Conflict Management:**</p>
 
-- Declare all conflicts
-- Recuse when necessary
-- Seek second opinions
-- Document everything
-- Maintain independence
+<ul>
+<li>Declare all conflicts</li>
+<li>Recuse when necessary</li>
+<li>Seek second opinions</li>
+<li>Document everything</li>
+<li>Maintain independence</li>
 
-**Red Lines:**
+</ul>
+<p>**Red Lines:**</p>
 
-- Never accept bribes
-- Never share insider info
-- Never abuse position
-- Never compromise standards
-- Never betray trust
+<ul>
+<li>Never accept bribes</li>
+<li>Never share insider info</li>
+<li>Never abuse position</li>
+<li>Never compromise standards</li>
+<li>Never betray trust</li>
 
+</ul>
 </div>
 
 ## Daily Life of an Anchor
 
 ### Typical Day
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 Day in the Life
+<h3>📅 Day in the Life</h3>
 
-**Morning (2 hours):**
+<p>**Morning (2 hours):**</p>
 
-- Check venture updates
-- Review milestone progress
-- Respond to questions
-- Plan validation schedule
+<ul>
+<li>Check venture updates</li>
+<li>Review milestone progress</li>
+<li>Respond to questions</li>
+<li>Plan validation schedule</li>
 
-**Midday (3 hours):**
+</ul>
+<p>**Midday (3 hours):**</p>
 
-- Deep validation work
-- Technical reviews
-- Evidence assessment
-- Decision documentation
+<ul>
+<li>Deep validation work</li>
+<li>Technical reviews</li>
+<li>Evidence assessment</li>
+<li>Decision documentation</li>
 
-**Afternoon (2 hours):**
+</ul>
+<p>**Afternoon (2 hours):**</p>
 
-- Founder meetings
-- Strategic guidance
-- Problem solving
-- Resource connections
+<ul>
+<li>Founder meetings</li>
+<li>Strategic guidance</li>
+<li>Problem solving</li>
+<li>Resource connections</li>
 
-**Evening (1 hour):**
+</ul>
+<p>**Evening (1 hour):**</p>
 
-- Community engagement
-- Knowledge sharing
-- Continuous learning
-- Relationship building
+<ul>
+<li>Community engagement</li>
+<li>Knowledge sharing</li>
+<li>Continuous learning</li>
+<li>Relationship building</li>
 
+</ul>
 </div>
 
 ### Work Environment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 Your Workspace
+<h3>💻 Your Workspace</h3>
 
-**Digital Tools:**
+<p>**Digital Tools:**</p>
 
-- Validation platform
-- Communication suite
-- Analysis tools
-- Documentation system
-- Collaboration spaces
+<ul>
+<li>Validation platform</li>
+<li>Communication suite</li>
+<li>Analysis tools</li>
+<li>Documentation system</li>
+<li>Collaboration spaces</li>
 
-**Work Style:**
+</ul>
+<p>**Work Style:**</p>
 
-- Remote first
-- Flexible hours
-- Async communication
-- Deep work blocks
-- Regular check-ins
+<ul>
+<li>Remote first</li>
+<li>Flexible hours</li>
+<li>Async communication</li>
+<li>Deep work blocks</li>
+<li>Regular check-ins</li>
 
-**Support System:**
+</ul>
+<p>**Support System:**</p>
 
-- Anchor community
-- Senior mentors
-- Platform team
-- Technical resources
-- Peer network
+<ul>
+<li>Anchor community</li>
+<li>Senior mentors</li>
+<li>Platform team</li>
+<li>Technical resources</li>
+<li>Peer network</li>
 
+</ul>
 </div>
 
 ## Success Factors
 
 ### What Makes Anchors Successful
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏆 Excellence Indicators
+<h3>🏆 Excellence Indicators</h3>
 
-**High-Performing Anchors:**
+<p>**High-Performing Anchors:**</p>
 
-- Clear communication
-- Consistent availability
-- Fair judgments
-- Helpful guidance
-- Positive attitude
+<ul>
+<li>Clear communication</li>
+<li>Consistent availability</li>
+<li>Fair judgments</li>
+<li>Helpful guidance</li>
+<li>Positive attitude</li>
 
-**Success Metrics:**
+</ul>
+<p>**Success Metrics:**</p>
 
-- Venture graduation rate
-- Founder NPS scores
-- Validation accuracy
-- Dispute frequency
-- Peer recognition
+<ul>
+<li>Venture graduation rate</li>
+<li>Founder NPS scores</li>
+<li>Validation accuracy</li>
+<li>Dispute frequency</li>
+<li>Peer recognition</li>
 
-**Growth Mindset:**
+</ul>
+<p>**Growth Mindset:**</p>
 
-- Continuous learning
-- Feedback integration
-- Process improvement
-- Innovation adoption
-- Knowledge sharing
+<ul>
+<li>Continuous learning</li>
+<li>Feedback integration</li>
+<li>Process improvement</li>
+<li>Innovation adoption</li>
+<li>Knowledge sharing</li>
 
+</ul>
 </div>
 
 ## Common Challenges
 
 ### Navigating Difficulties
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Challenge Management
+<h3>⚠️ Challenge Management</h3>
 
-**Typical Challenges:**
+<p>**Typical Challenges:**</p>
 
-1. **Difficult Decisions**
-   - Borderline validations
-   - Founder pushback
-   - Community pressure
-   - Ethical dilemmas
+<p>1. **Difficult Decisions**</p>
+<ul>
+<li>Borderline validations</li>
+<li>Founder pushback</li>
+<li>Community pressure</li>
+<li>Ethical dilemmas</li>
 
-2. **Time Management**
-   - Multiple ventures
-   - Deadline clustering
-   - Emergency situations
-   - Life balance
+</ul>
+<p>2. **Time Management**</p>
+<ul>
+<li>Multiple ventures</li>
+<li>Deadline clustering</li>
+<li>Emergency situations</li>
+<li>Life balance</li>
 
-3. **Emotional Labor**
-   - Founder struggles
-   - Venture failures
-   - Conflict resolution
-   - Stress management
+</ul>
+<p>3. **Emotional Labor**</p>
+<ul>
+<li>Founder struggles</li>
+<li>Venture failures</li>
+<li>Conflict resolution</li>
+<li>Stress management</li>
 
-**Coping Strategies:**
+</ul>
+<p>**Coping Strategies:**</p>
 
-- Strong boundaries
-- Peer support
-- Clear processes
-- Self-care
-- Perspective maintenance
+<ul>
+<li>Strong boundaries</li>
+<li>Peer support</li>
+<li>Clear processes</li>
+<li>Self-care</li>
+<li>Perspective maintenance</li>
 
+</ul>
 </div>
 
 ## Getting Started
 
 ### Your First Steps
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Beginning Your Journey
+<h3>🚀 Beginning Your Journey</h3>
 
-**Immediate Actions:**
+<p>**Immediate Actions:**</p>
 
-1. Complete application
-2. Pass assessment
-3. Attend orientation
-4. Shadow senior Anchor
-5. Take first assignment
+<p>1. Complete application</p>
+<p>2. Pass assessment</p>
+<p>3. Attend orientation</p>
+<p>4. Shadow senior Anchor</p>
+<p>5. Take first assignment</p>
 
-**First Month Goals:**
+<p>**First Month Goals:**</p>
 
-- Understand processes
-- Build relationships
-- Establish routine
-- Gain confidence
-- Make impact
+<ul>
+<li>Understand processes</li>
+<li>Build relationships</li>
+<li>Establish routine</li>
+<li>Gain confidence</li>
+<li>Make impact</li>
 
-**Success Tips:**
+</ul>
+<p>**Success Tips:**</p>
 
-- Ask questions freely
-- Document everything
-- Seek feedback often
-- Build slowly
-- Stay humble
+<ul>
+<li>Ask questions freely</li>
+<li>Document everything</li>
+<li>Seek feedback often</li>
+<li>Build slowly</li>
+<li>Stay humble</li>
 
+</ul>
 </div>
 
 ## The Anchor Community
 
 ### Your Professional Network
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Peer Support
+<h3>🤝 Peer Support</h3>
 
-**Community Benefits:**
+<p>**Community Benefits:**</p>
 
-- Shared experiences
-- Best practices
-- Difficult case discussions
-- Emotional support
-- Career development
+<ul>
+<li>Shared experiences</li>
+<li>Best practices</li>
+<li>Difficult case discussions</li>
+<li>Emotional support</li>
+<li>Career development</li>
 
-**Engagement Opportunities:**
+</ul>
+<p>**Engagement Opportunities:**</p>
 
-- Weekly sync calls
-- Monthly workshops
-- Quarterly retreats
-- Annual conference
-- Continuous chat
+<ul>
+<li>Weekly sync calls</li>
+<li>Monthly workshops</li>
+<li>Quarterly retreats</li>
+<li>Annual conference</li>
+<li>Continuous chat</li>
 
-**Building Relationships:**
+</ul>
+<p>**Building Relationships:**</p>
 
-- Participate actively
-- Share knowledge
-- Seek mentorship
-- Offer help
-- Stay connected
+<ul>
+<li>Participate actively</li>
+<li>Share knowledge</li>
+<li>Seek mentorship</li>
+<li>Offer help</li>
+<li>Stay connected</li>
 
+</ul>
 </div>
 
 ## Next Steps

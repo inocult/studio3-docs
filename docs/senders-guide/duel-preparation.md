@@ -2,11 +2,11 @@
 
 ## Complete Guide to Forge Readiness
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Preparation is Victory
+<h3>🎯 Preparation is Victory</h3>
 
-Success in The Forge is determined before the competition begins. This comprehensive guide covers every aspect of preparation, from team assembly to psychological readiness.
+<p>Success in The Forge is determined before the competition begins. This comprehensive guide covers every aspect of preparation, from team assembly to psychological readiness.</p>
 
 </div>
 
@@ -14,32 +14,36 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 ### Spark Deep Dive
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Understanding the Opportunity
+<h3>🔍 Understanding the Opportunity</h3>
 
-**IP Analysis Checklist:**
+<p>**IP Analysis Checklist:**</p>
 
-- [ ] Read all IP documentation
-- [ ] Understand each technology
-- [ ] Map potential synergies
-- [ ] Identify key innovations
-- [ ] Find commercialization paths
-- [ ] Research patent landscapes
-- [ ] Study prior applications
-- [ ] Contact IP creators
+<ul>
+<li>[ ] Read all IP documentation</li>
+<li>[ ] Understand each technology</li>
+<li>[ ] Map potential synergies</li>
+<li>[ ] Identify key innovations</li>
+<li>[ ] Find commercialization paths</li>
+<li>[ ] Research patent landscapes</li>
+<li>[ ] Study prior applications</li>
+<li>[ ] Contact IP creators</li>
 
-**Market Research:**
+</ul>
+<p>**Market Research:**</p>
 
-- [ ] TAM/SAM/SOM analysis
-- [ ] Competitor landscape
-- [ ] Customer interviews (10+)
-- [ ] Industry trend analysis
-- [ ] Regulatory environment
-- [ ] Go-to-market channels
-- [ ] Pricing strategies
-- [ ] Partnership opportunities
+<ul>
+<li>[ ] TAM/SAM/SOM analysis</li>
+<li>[ ] Competitor landscape</li>
+<li>[ ] Customer interviews (10+)</li>
+<li>[ ] Industry trend analysis</li>
+<li>[ ] Regulatory environment</li>
+<li>[ ] Go-to-market channels</li>
+<li>[ ] Pricing strategies</li>
+<li>[ ] Partnership opportunities</li>
 
+</ul>
 </div>
 
 ### Competitive Intelligence
@@ -67,41 +71,51 @@ Success in The Forge is determined before the competition begins. This comprehen
 
 ### Core Team Roles
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Building Your War Council
+<h3>👥 Building Your War Council</h3>
 
-**Essential Positions:**
-1. **Campaign Manager**
-   - Overall strategy
-   - Timeline management
-   - Resource allocation
-   - Decision making
+<p>**Essential Positions:**</p>
+<p>1. **Campaign Manager**</p>
+<ul>
+<li>Overall strategy</li>
+<li>Timeline management</li>
+<li>Resource allocation</li>
+<li>Decision making</li>
 
-2. **Content Creator**
-   - Presentation design
-   - Video production
-   - Writing copy
-   - Visual assets
+</ul>
+<p>2. **Content Creator**</p>
+<ul>
+<li>Presentation design</li>
+<li>Video production</li>
+<li>Writing copy</li>
+<li>Visual assets</li>
 
-3. **Community Manager**
-   - Discord engagement
-   - Question responses
-   - Supporter coordination
-   - Sentiment tracking
+</ul>
+<p>3. **Community Manager**</p>
+<ul>
+<li>Discord engagement</li>
+<li>Question responses</li>
+<li>Supporter coordination</li>
+<li>Sentiment tracking</li>
 
-4. **Technical Advisor**
-   - Architecture review
-   - Feasibility validation
-   - Demo preparation
-   - Technical Q&A
+</ul>
+<p>4. **Technical Advisor**</p>
+<ul>
+<li>Architecture review</li>
+<li>Feasibility validation</li>
+<li>Demo preparation</li>
+<li>Technical Q&A</li>
 
-5. **PR Coordinator**
-   - Media outreach
-   - Influencer relations
-   - Social amplification
-   - Announcement timing
+</ul>
+<p>5. **PR Coordinator**</p>
+<ul>
+<li>Media outreach</li>
+<li>Influencer relations</li>
+<li>Social amplification</li>
+<li>Announcement timing</li>
 
+</ul>
 </div>
 
 ### Advisor Network
@@ -118,39 +132,44 @@ Success in The Forge is determined before the competition begins. This comprehen
   - Message crafting
 - **Financial Advisors**
   - Model validation
+
 ## Material Creation
 
 ### The Master Deck
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Presentation Excellence
+<h3>📊 Presentation Excellence</h3>
 
-**Slide Structure:**
-1. **Title Slide**
-   - Strong first impression
-2. **Problem** - Why this matters
-3. **Solution** - How you'll solve it
-4. **Market** - Size and opportunity
-5. **Product** - What you'll build
-6. **Business Model** - How you'll make money
-7. **Go-to-Market** - Customer acquisition
-8. **Competition** - Your advantages
-9. **Team** - Why you'll win
-10. **Milestones** - Execution roadmap
-11. **Financials** - 3-year projections
-12. **Ask** - What you need
-13. **Vision** - The big picture
+<p>**Slide Structure:**</p>
+<p>1. **Title Slide**</p>
+<ul>
+<li>Strong first impression</li>
+</ul>
+<p>2. **Problem** - Why this matters</p>
+<p>3. **Solution** - How you'll solve it</p>
+<p>4. **Market** - Size and opportunity</p>
+<p>5. **Product** - What you'll build</p>
+<p>6. **Business Model** - How you'll make money</p>
+<p>7. **Go-to-Market** - Customer acquisition</p>
+<p>8. **Competition** - Your advantages</p>
+<p>9. **Team** - Why you'll win</p>
+<p>10. **Milestones** - Execution roadmap</p>
+<p>11. **Financials** - 3-year projections</p>
+<p>12. **Ask** - What you need</p>
+<p>13. **Vision** - The big picture</p>
 
-**Design Principles:**
+<p>**Design Principles:**</p>
 
-- Clean, professional layout
-- Consistent branding
-- Minimal text per slide
-- Strong visuals
-- Data visualization
-- Mobile-friendly
+<ul>
+<li>Clean, professional layout</li>
+<li>Consistent branding</li>
+<li>Minimal text per slide</li>
+<li>Strong visuals</li>
+<li>Data visualization</li>
+<li>Mobile-friendly</li>
 
+</ul>
 </div>
 
 ### Demo Development
@@ -167,72 +186,89 @@ Success in The Forge is determined before the competition begins. This comprehen
   - How it works
 - **Live Demo Prep**
   - Be ready to show
+
 ### Supporting Documents
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📄 Document Arsenal
+<h3>📄 Document Arsenal</h3>
 
-**Must-Have Documents:**
-1. **Executive Summary** (1 page)
-   - Elevator pitch
-   - Key metrics
-   - Team highlights
-   - Call to action
+<p>**Must-Have Documents:**</p>
+<p>1. **Executive Summary** (1 page)</p>
+<ul>
+<li>Elevator pitch</li>
+<li>Key metrics</li>
+<li>Team highlights</li>
+<li>Call to action</li>
 
-2. **Technical Whitepaper** (5-10 pages)
-   - Architecture details
-   - Implementation plan
-   - Security considerations
-   - Scalability approach
+</ul>
+<p>2. **Technical Whitepaper** (5-10 pages)</p>
+<ul>
+<li>Architecture details</li>
+<li>Implementation plan</li>
+<li>Security considerations</li>
+<li>Scalability approach</li>
 
-3. **Financial Model** (Spreadsheet)
-   - Revenue projections
-   - Cost structure
-   - Unit economics
-   - Funding needs
+</ul>
+<p>3. **Financial Model** (Spreadsheet)</p>
+<ul>
+<li>Revenue projections</li>
+<li>Cost structure</li>
+<li>Unit economics</li>
+<li>Funding needs</li>
 
-4. **Risk Analysis** (2-3 pages)
-   - Key risks identified
-   - Mitigation strategies
-   - Contingency plans
-   - Success factors
+</ul>
+<p>4. **Risk Analysis** (2-3 pages)</p>
+<ul>
+<li>Key risks identified</li>
+<li>Mitigation strategies</li>
+<li>Contingency plans</li>
+<li>Success factors</li>
 
+</ul>
 </div>
 
 ## Strategy Development
 
 ### Positioning Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎭 Choosing Your Angle
+<h3>🎭 Choosing Your Angle</h3>
 
-**Positioning Options:**
-1. **The Veteran**
-   - Emphasize experience
-   - Show past successes
-   - Highlight expertise
-   - Risk mitigation focus
+<p>**Positioning Options:**</p>
+<p>1. **The Veteran**</p>
+<ul>
+<li>Emphasize experience</li>
+<li>Show past successes</li>
+<li>Highlight expertise</li>
+<li>Risk mitigation focus</li>
 
-2. **The Visionary**
-   - Big picture thinking
-   - Transformative impact
-   - Future-focused
-   - Inspiration-driven
+</ul>
+<p>2. **The Visionary**</p>
+<ul>
+<li>Big picture thinking</li>
+<li>Transformative impact</li>
+<li>Future-focused</li>
+<li>Inspiration-driven</li>
 
-3. **The Pragmatist**
-   - Realistic approach
-   - Clear execution
-   - Measured goals
-   - Steady progress
+</ul>
+<p>3. **The Pragmatist**</p>
+<ul>
+<li>Realistic approach</li>
+<li>Clear execution</li>
+<li>Measured goals</li>
+<li>Steady progress</li>
 
-4. **The Disruptor**
-   - Challenge status quo
-   - Novel methods
-   - Breakthrough thinking
-   - High risk/reward
+</ul>
+<p>4. **The Disruptor**</p>
+<ul>
+<li>Challenge status quo</li>
+<li>Novel methods</li>
+<li>Breakthrough thinking</li>
+<li>High risk/reward</li>
 
+</ul>
 </div>
 
 ### Messaging Framework
@@ -244,35 +280,40 @@ Success in The Forge is determined before the competition begins. This comprehen
 3. **Proof Points** - Evidence for each
 4. **Emotional Hook** - Why people should care
 5. **Call to Action** - What supporters should do
+
 ## Psychological Preparation
 
 ### Mental Conditioning
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Warrior Mindset
+<h3>🧠 Warrior Mindset</h3>
 
-**Daily Practices:**
+<p>**Daily Practices:**</p>
 
-- **Visualization**
-  - See yourself winning
-- **Affirmations**
-  - Build confidence
-- **Meditation**
-  - Stay centered
-- **Exercise**
-  - Physical readiness
-- **Sleep**
-  - 7-8 hours minimum
+<ul>
+<li>**Visualization**</li>
+<li>See yourself winning</li>
+<li>**Affirmations**</li>
+<li>Build confidence</li>
+<li>**Meditation**</li>
+<li>Stay centered</li>
+<li>**Exercise**</li>
+<li>Physical readiness</li>
+<li>**Sleep**</li>
+<li>7-8 hours minimum</li>
 
-**Stress Management:**
+</ul>
+<p>**Stress Management:**</p>
 
-- Plan for setbacks
-- Practice responses
-- Build support system
-- Take breaks
-- Stay grounded
+<ul>
+<li>Plan for setbacks</li>
+<li>Practice responses</li>
+<li>Build support system</li>
+<li>Take breaks</li>
+<li>Stay grounded</li>
 
+</ul>
 </div>
 
 ### Scenario Planning
@@ -284,46 +325,55 @@ Success in The Forge is determined before the competition begins. This comprehen
 3. **Attacks** - Handling criticism
 4. **Technical Issues** - Platform problems
 5. **Team Problems** - Internal conflicts
+
 ## Launch Preparation
 
 ### Pre-Launch Checklist
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ 48-Hour Countdown
+<h3>✅ 48-Hour Countdown</h3>
 
-**48 Hours Before:**
+<p>**48 Hours Before:**</p>
 
-- [ ] All materials finalized
-- [ ] Team roles confirmed
-- [ ] Support network alerted
-- [ ] Social media scheduled
-- [ ] Wallet funded
+<ul>
+<li>[ ] All materials finalized</li>
+<li>[ ] Team roles confirmed</li>
+<li>[ ] Support network alerted</li>
+<li>[ ] Social media scheduled</li>
+<li>[ ] Wallet funded</li>
 
-**24 Hours Before:**
+</ul>
+<p>**24 Hours Before:**</p>
 
-- [ ] Final review of materials
-- [ ] Tech check complete
-- [ ] Team final briefing
-- [ ] Rest and nutrition
-- [ ] Mental preparation
+<ul>
+<li>[ ] Final review of materials</li>
+<li>[ ] Tech check complete</li>
+<li>[ ] Team final briefing</li>
+<li>[ ] Rest and nutrition</li>
+<li>[ ] Mental preparation</li>
 
-**12 Hours Before:**
+</ul>
+<p>**12 Hours Before:**</p>
 
-- [ ] Early supporter contact
-- [ ] Social media primed
-- [ ] Final deck review
-- [ ] Equipment check
-- [ ] Meditation/centering
+<ul>
+<li>[ ] Early supporter contact</li>
+<li>[ ] Social media primed</li>
+<li>[ ] Final deck review</li>
+<li>[ ] Equipment check</li>
+<li>[ ] Meditation/centering</li>
 
-**1 Hour Before:**
+</ul>
+<p>**1 Hour Before:**</p>
 
-- [ ] Team assembled
-- [ ] Systems online
-- [ ] Deep breathing
-- [ ] Final preparations
-- [ ] Enter with confidence
+<ul>
+<li>[ ] Team assembled</li>
+<li>[ ] Systems online</li>
+<li>[ ] Deep breathing</li>
+<li>[ ] Final preparations</li>
+<li>[ ] Enter with confidence</li>
 
+</ul>
 </div>
 
 ### Technical Setup
@@ -340,33 +390,40 @@ Success in The Forge is determined before the competition begins. This comprehen
   - Hardware preferred
 - **Accounts**
   - All platforms ready
+
 ## Supporter Mobilization
 
 ### Building Your Army
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📢 Rally the Troops
+<h3>📢 Rally the Troops</h3>
 
-**Pre-Duel Outreach:**
-1. **Email Campaign**
-   - Announcement sequence
-   - Daily updates
-   - Clear CTAs
-   - Easy sharing
+<p>**Pre-Duel Outreach:**</p>
+<p>1. **Email Campaign**</p>
+<ul>
+<li>Announcement sequence</li>
+<li>Daily updates</li>
+<li>Clear CTAs</li>
+<li>Easy sharing</li>
 
-2. **Social Media**
-   - Twitter strategy
-   - LinkedIn posts
-   - Discord presence
-   - Telegram groups
+</ul>
+<p>2. **Social Media**</p>
+<ul>
+<li>Twitter strategy</li>
+<li>LinkedIn posts</li>
+<li>Discord presence</li>
+<li>Telegram groups</li>
 
-3. **Direct Outreach**
-   - Personal calls
-   - Video messages
-   - Custom asks
-   - VIP treatment
+</ul>
+<p>3. **Direct Outreach**</p>
+<ul>
+<li>Personal calls</li>
+<li>Video messages</li>
+<li>Custom asks</li>
+<li>VIP treatment</li>
 
+</ul>
 </div>
 
 ### Coordination Systems
@@ -381,64 +438,77 @@ Success in The Forge is determined before the competition begins. This comprehen
   - Twitter list
 - **Command Center**
   - Notion hub
+
 ## Risk Mitigation
 
 ### Contingency Planning
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Prepare for Problems
+<h3>⚠️ Prepare for Problems</h3>
 
-**Common Issues:**
-1. **Technical Failures**
-   - Backup systems
-   - Mobile hotspot
-   - Cloud storage
-   - Team redundancy
+<p>**Common Issues:**</p>
+<p>1. **Technical Failures**</p>
+<ul>
+<li>Backup systems</li>
+<li>Mobile hotspot</li>
+<li>Cloud storage</li>
+<li>Team redundancy</li>
 
-2. **Team Issues**
-   - Clear roles
-   - Conflict resolution
-   - Backup personnel
-   - Communication protocols
+</ul>
+<p>2. **Team Issues**</p>
+<ul>
+<li>Clear roles</li>
+<li>Conflict resolution</li>
+<li>Backup personnel</li>
+<li>Communication protocols</li>
 
-3. **Market Changes**
-   - Flexible messaging
-   - Pivot strategies
-   - Updated data
-   - Quick adaptation
+</ul>
+<p>3. **Market Changes**</p>
+<ul>
+<li>Flexible messaging</li>
+<li>Pivot strategies</li>
+<li>Updated data</li>
+<li>Quick adaptation</li>
 
+</ul>
 </div>
 
 ## Final Preparations
 
 ### The Day Before
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Final Countdown
+<h3>🎯 Final Countdown</h3>
 
-**Morning:**
+<p>**Morning:**</p>
 
-- Final material review
-- Team check-in
-- Supporter confirmations
-- Tech systems test
+<ul>
+<li>Final material review</li>
+<li>Team check-in</li>
+<li>Supporter confirmations</li>
+<li>Tech systems test</li>
 
-**Afternoon:**
+</ul>
+<p>**Afternoon:**</p>
 
-- Light exercise
-- Healthy meal
-- Relaxation time
-- Early to bed
+<ul>
+<li>Light exercise</li>
+<li>Healthy meal</li>
+<li>Relaxation time</li>
+<li>Early to bed</li>
 
-**Evening Ritual:**
+</ul>
+<p>**Evening Ritual:**</p>
 
-- Review key messages
-- Visualize success
-- Gratitude practice
-- Quality sleep
+<ul>
+<li>Review key messages</li>
+<li>Visualize success</li>
+<li>Gratitude practice</li>
+<li>Quality sleep</li>
 
+</ul>
 </div>
 
 ## Success Metrics
@@ -454,7 +524,7 @@ Success in The Forge is determined before the competition begins. This comprehen
 | Strategy | 20% | ___/20 |
 | Support | 20% | ___/20 |
 | Mental | 20% | ___/20 |
-|**Total** |**100%** |**___/100** |
+| **Total** | **100%** | **___/100** |
 
 **Scoring:**
 

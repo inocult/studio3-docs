@@ -2,11 +2,11 @@
 
 ## Understanding Your Role as a Supporter
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📡 The Power of Belief
+<h3>📡 The Power of Belief</h3>
 
-As an Echo in Studio3, you're not just an investor - you're a signal broadcaster whose conviction shapes venture success. Your belief or doubt, backed by $SIGNAL tokens, influences funding, momentum, and validation.
+<p>As an Echo in Studio3, you're not just an investor - you're a signal broadcaster whose conviction shapes venture success. Your belief or doubt, backed by $SIGNAL tokens, influences funding, momentum, and validation.</p>
 
 </div>
 
@@ -20,7 +20,8 @@ Echoes are participants who:
 - **Earn rewards** for accurate predictions
 - **Shape venture trajectories** with collective wisdom
 - **Build reputation** through consistent performance
-- **Create momentum** for deserving projects
+- **Create momentum** for deserving projects**
+
 ### Beyond Traditional Investing
 
 | Traditional Investor | Studio3 Echo |
@@ -35,100 +36,116 @@ Echoes are participants who:
 
 ### Core Principles
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Think Like an Echo
+<h3>🧠 Think Like an Echo</h3>
 
-1. **Research First**
+<p>1. **Research First**</p>
 
-- Never signal blindly
+<ul>
+<li>Never signal blindly</li>
 
-- Verify all claims
+<li>Verify all claims</li>
 
-- Understand the team
+<li>Understand the team</li>
 
-- Analyze the market
+<li>Analyze the market</li>
 
-2. **Conviction Matters**
+</ul>
+<p>2. **Conviction Matters**</p>
 
-- Back your analysis
+<ul>
+<li>Back your analysis</li>
 
-- Size stakes appropriately
+<li>Size stakes appropriately</li>
 
-- Stand by decisions
+<li>Stand by decisions</li>
 
-- Learn from outcomes
+<li>Learn from outcomes</li>
 
-3. **Community Focus**
+</ul>
+<p>3. **Community Focus**</p>
 
-- Share insights
+<ul>
+<li>Share insights</li>
 
-- Help newcomers
+<li>Help newcomers</li>
 
-- Build relationships
+<li>Build relationships</li>
 
-- Celebrate wins together
+<li>Celebrate wins together</li>
 
+</ul>
 </div>
 
 ## How Signaling Works
 
 ### The Mechanics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚙️ Signal Flow
+<h3>⚙️ Signal Flow</h3>
 
-1. **Discovery Phase**
+<p>1. **Discovery Phase**</p>
 
-- Browse active ventures
+<ul>
+<li>Browse active ventures</li>
 
-- Read milestone declarations
+<li>Read milestone declarations</li>
 
-- Review team backgrounds
+<li>Review team backgrounds</li>
 
-- Analyze market opportunity
+<li>Analyze market opportunity</li>
 
-2. **Decision Making**
+</ul>
+<p>2. **Decision Making**</p>
 
-- Choose belief or doubt
+<ul>
+<li>Choose belief or doubt</li>
 
-- Determine stake size
+<li>Determine stake size</li>
 
-- Consider timing
+<li>Consider timing</li>
 
-- Assess risk/reward
+<li>Assess risk/reward</li>
 
-3. **Staking Process**
+</ul>
+<p>3. **Staking Process**</p>
 
-- Connect wallet
+<ul>
+<li>Connect wallet</li>
 
-- Select signal type
+<li>Select signal type</li>
 
-- Input token amount
+<li>Input token amount</li>
 
-- Confirm transaction
+<li>Confirm transaction</li>
 
-4. **Monitoring Period**
+</ul>
+<p>4. **Monitoring Period**</p>
 
-- Track progress
+<ul>
+<li>Track progress</li>
 
-- Engage with updates
+<li>Engage with updates</li>
 
-- Adjust strategy
+<li>Adjust strategy</li>
 
-- Prepare for outcome
+<li>Prepare for outcome</li>
 
-5. **Settlement**
+</ul>
+<p>5. **Settlement**</p>
 
-- Milestone validated
+<ul>
+<li>Milestone validated</li>
 
-- Rewards distributed
+<li>Rewards distributed</li>
 
-- Reputation updated
+<li>Reputation updated</li>
 
-- Lessons learned
+<li>Lessons learned</li>
 
+</ul>
 </div>
 
 ## Types of Signals
@@ -169,59 +186,71 @@ Echoes are participants who:
 
 ### Progression Path
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Your Growth Trajectory
+<h3>📈 Your Growth Trajectory</h3>
 
-1. **Novice Echo** (0-100 XP)
-   - Learning basics
-   - Small test signals
-   - Observing patterns
-   - Building knowledge
+<p>1. **Novice Echo** (0-100 XP)</p>
+<ul>
+<li>Learning basics</li>
+<li>Small test signals</li>
+<li>Observing patterns</li>
+<li>Building knowledge</li>
 
-2. **Active Echo** (100-500 XP)
-   - Regular participation
-   - Growing accuracy
-   - Developing strategies
-   - Finding specialties
+</ul>
+<p>2. **Active Echo** (100-500 XP)</p>
+<ul>
+<li>Regular participation</li>
+<li>Growing accuracy</li>
+<li>Developing strategies</li>
+<li>Finding specialties</li>
 
-3. **Expert Echo** (500-2000 XP)
-   - High accuracy rate
-   - Larger positions
-   - Community influence
-   - Mentoring others
+</ul>
+<p>3. **Expert Echo** (500-2000 XP)</p>
+<ul>
+<li>High accuracy rate</li>
+<li>Larger positions</li>
+<li>Community influence</li>
+<li>Mentoring others</li>
 
-4. **Master Echo** (2000+ XP)
-   - Top performer
-   - Market mover
-   - Strategy leader
-   - Platform governance
+</ul>
+<p>4. **Master Echo** (2000+ XP)</p>
+<ul>
+<li>Top performer</li>
+<li>Market mover</li>
+<li>Strategy leader</li>
+<li>Platform governance</li>
 
+</ul>
 </div>
 
 ## Core Responsibilities
 
 ### 1. Due Diligence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Research Requirements
-**Always Investigate:**
+<h3>🔍 Research Requirements</h3>
+<p>**Always Investigate:**</p>
 
-- Founder backgrounds
-- Technical feasibility
-- Market opportunity
-- Competition landscape
-- Execution capability
+<ul>
+<li>Founder backgrounds</li>
+<li>Technical feasibility</li>
+<li>Market opportunity</li>
+<li>Competition landscape</li>
+<li>Execution capability</li>
 
-**Red Flag Checklist:**
+</ul>
+<p>**Red Flag Checklist:**</p>
 
-- Anonymous teams
-- Copied whitepapers
-- Impossible timelines
-- No clear use case
-- Poor communication
+<ul>
+<li>Anonymous teams</li>
+<li>Copied whitepapers</li>
+<li>Impossible timelines</li>
+<li>No clear use case</li>
+<li>Poor communication</li>
 
+</ul>
 </div>
 
 ### 2. Risk Management
@@ -246,40 +275,46 @@ Echoes are participants who:
 
 ### How Echoes Earn
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Revenue Streams
+<h3>💰 Revenue Streams</h3>
 
-1. **Signal Rewards**
+<p>1. **Signal Rewards**</p>
 
-- Direct multipliers on correct predictions
+<ul>
+<li>Direct multipliers on correct predictions</li>
 
-- Early signal bonuses
+<li>Early signal bonuses</li>
 
-- Contrarian premiums
+<li>Contrarian premiums</li>
 
-- Streak bonuses
+<li>Streak bonuses</li>
 
-2. **Reputation Benefits**
+</ul>
+<p>2. **Reputation Benefits**</p>
 
-- Higher stake limits
+<ul>
+<li>Higher stake limits</li>
 
-- Better multipliers
+<li>Better multipliers</li>
 
-- Priority access
+<li>Priority access</li>
 
-- Governance rights
+<li>Governance rights</li>
 
-3. **Community Rewards**
+</ul>
+<p>3. **Community Rewards**</p>
 
-- Referral bonuses
+<ul>
+<li>Referral bonuses</li>
 
-- Content creation
+<li>Content creation</li>
 
-- Mentorship programs
+<li>Mentorship programs</li>
 
-- Special events
+<li>Special events</li>
 
+</ul>
 </div>
 
 ### Token Flow
@@ -338,25 +373,29 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### Pitfalls to Avoid
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Echo Errors
-**Fatal Mistakes:**
+<h3>⚠️ Echo Errors</h3>
+<p>**Fatal Mistakes:**</p>
 
-- Signaling without research
-- Emotional decision making
-- Overexposure to one venture
-- Ignoring red flags
-- Chasing losses
+<ul>
+<li>Signaling without research</li>
+<li>Emotional decision making</li>
+<li>Overexposure to one venture</li>
+<li>Ignoring red flags</li>
+<li>Chasing losses</li>
 
-**Warning Signs:**
+</ul>
+<p>**Warning Signs:**</p>
 
-- Declining accuracy
-- Shrinking bankroll
-- Stress reactions
-- Isolation from community
-- Blame mentality
+<ul>
+<li>Declining accuracy</li>
+<li>Shrinking bankroll</li>
+<li>Stress reactions</li>
+<li>Isolation from community</li>
+<li>Blame mentality</li>
 
+</ul>
 </div>
 
 ## Daily Routine
@@ -384,30 +423,36 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### Essential Echo Toolkit
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Your Arsenal
-**Analysis Tools:**
+<h3>🛠️ Your Arsenal</h3>
+<p>**Analysis Tools:**</p>
 
-- Signal calculator
-- Risk assessment matrix
-- Portfolio tracker
-- Performance analytics
+<ul>
+<li>Signal calculator</li>
+<li>Risk assessment matrix</li>
+<li>Portfolio tracker</li>
+<li>Performance analytics</li>
 
-**Information Sources:**
+</ul>
+<p>**Information Sources:**</p>
 
-- Venture dashboards
-- Team profiles
-- Market data
-- Community forums
+<ul>
+<li>Venture dashboards</li>
+<li>Team profiles</li>
+<li>Market data</li>
+<li>Community forums</li>
 
-**Decision Aids:**
+</ul>
+<p>**Decision Aids:**</p>
 
-- Due diligence checklist
-- Red flag detector
-- Timing optimizer
-- Stake sizing guide
+<ul>
+<li>Due diligence checklist</li>
+<li>Red flag detector</li>
+<li>Timing optimizer</li>
+<li>Stake sizing guide</li>
 
+</ul>
 </div>
 
 ## Building Your Network
@@ -433,25 +478,29 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 
 ### Your Most Valuable Asset
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 XP & Reputation
-**How to Build:**
+<h3>🌟 XP & Reputation</h3>
+<p>**How to Build:**</p>
 
-- Consistent accuracy
-- Quality contributions
-- Helpful behavior
-- Active participation
-- Ethical conduct
+<ul>
+<li>Consistent accuracy</li>
+<li>Quality contributions</li>
+<li>Helpful behavior</li>
+<li>Active participation</li>
+<li>Ethical conduct</li>
 
-**How to Lose:**
+</ul>
+<p>**How to Lose:**</p>
 
-- Poor performance
-- Toxic behavior
-- Misinformation
-- Manipulation attempts
-- Community harm
+<ul>
+<li>Poor performance</li>
+<li>Toxic behavior</li>
+<li>Misinformation</li>
+<li>Manipulation attempts</li>
+<li>Community harm</li>
 
+</ul>
 </div>
 
 ## Getting Started Checklist

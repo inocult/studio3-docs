@@ -2,11 +2,11 @@
 
 ## Excellence in Anchor Performance
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⭐ Mastering the Art of Validation
+<h3>⭐ Mastering the Art of Validation</h3>
 
-This comprehensive guide captures the collective wisdom of successful Anchors, providing proven best practices that ensure consistent, fair, and valuable validations. Learn from experience to accelerate your journey to Anchor excellence.
+<p>This comprehensive guide captures the collective wisdom of successful Anchors, providing proven best practices that ensure consistent, fair, and valuable validations. Learn from experience to accelerate your journey to Anchor excellence.</p>
 
 </div>
 
@@ -14,721 +14,815 @@ This comprehensive guide captures the collective wisdom of successful Anchors, p
 
 ### The Foundation of Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ Building on Solid Ground
+<h3>🏗️ Building on Solid Ground</h3>
 
-**The Five Pillars of Great Anchoring:**
+<p>**The Five Pillars of Great Anchoring:**</p>
 
-1. **Consistency**
-   - Same standards for all
-   - Documented processes
-   - Predictable approach
-   - Fair treatment
-   - Clear expectations
+<p>1. **Consistency**</p>
+<ul>
+<li>Same standards for all</li>
+<li>Documented processes</li>
+<li>Predictable approach</li>
+<li>Fair treatment</li>
+<li>Clear expectations</li>
 
-2. **Communication**
-   - Clear and timely
-   - Constructive tone
-   - Active listening
-   - Written clarity
-   - Follow-through
+</ul>
+<p>2. **Communication**</p>
+<ul>
+<li>Clear and timely</li>
+<li>Constructive tone</li>
+<li>Active listening</li>
+<li>Written clarity</li>
+<li>Follow-through</li>
 
-3. **Competence**
-   - Technical expertise
-   - Business acumen
-   - Continuous learning
-   - Tool mastery
-   - Industry awareness
+</ul>
+<p>3. **Competence**</p>
+<ul>
+<li>Technical expertise</li>
+<li>Business acumen</li>
+<li>Continuous learning</li>
+<li>Tool mastery</li>
+<li>Industry awareness</li>
 
-4. **Compassion**
-   - Founder empathy
-   - Growth mindset
-   - Patient guidance
-   - Emotional intelligence
-   - Supportive presence
+</ul>
+<p>4. **Compassion**</p>
+<ul>
+<li>Founder empathy</li>
+<li>Growth mindset</li>
+<li>Patient guidance</li>
+<li>Emotional intelligence</li>
+<li>Supportive presence</li>
 
-5. **Commitment**
-   - Reliable availability
-   - Long-term view
-   - Ecosystem focus
-   - Quality dedication
-   - Continuous improvement
+</ul>
+<p>5. **Commitment**</p>
+<ul>
+<li>Reliable availability</li>
+<li>Long-term view</li>
+<li>Ecosystem focus</li>
+<li>Quality dedication</li>
+<li>Continuous improvement</li>
 
+</ul>
 </div>
 
 ### Time Management Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ Optimizing Your Impact
+<h3>⏰ Optimizing Your Impact</h3>
 
-**Weekly Schedule Best Practices:**
+<p>**Weekly Schedule Best Practices:**</p>
 
 ```
-Monday: Planning & Prep
-- Review week's validations
-- Schedule founder meetings
-- Prepare materials
-- Set priorities
+<p>Monday: Planning & Prep</p>
+<ul>
+<li>Review week's validations</li>
+<li>Schedule founder meetings</li>
+<li>Prepare materials</li>
+<li>Set priorities</li>
 
-Tuesday-Thursday: Deep Work
-- Validation reviews
-- Technical assessments
-- Founder meetings
-- Documentation
+</ul>
+<p>Tuesday-Thursday: Deep Work</p>
+<ul>
+<li>Validation reviews</li>
+<li>Technical assessments</li>
+<li>Founder meetings</li>
+<li>Documentation</li>
 
-Friday: Wrap-up & Learning
-- Complete documentation
-- Community engagement
-- Knowledge sharing
-- Week review
+</ul>
+<p>Friday: Wrap-up & Learning</p>
+<ul>
+<li>Complete documentation</li>
+<li>Community engagement</li>
+<li>Knowledge sharing</li>
+<li>Week review</li>
 ```
 
-**Daily Rhythms:**
+</ul>
+<p>**Daily Rhythms:**</p>
 
-- Morning: High-focus validation work
-- Afternoon: Meetings and communication
-- Evening: Documentation and planning
+<ul>
+<li>Morning: High-focus validation work</li>
+<li>Afternoon: Meetings and communication</li>
+<li>Evening: Documentation and planning</li>
 
-**Efficiency Tips:**
+</ul>
+<p>**Efficiency Tips:**</p>
 
-- Batch similar tasks
-- Use templates extensively
-- Automate where possible
-- Delegate appropriately
-- Focus on high-impact activities
+<ul>
+<li>Batch similar tasks</li>
+<li>Use templates extensively</li>
+<li>Automate where possible</li>
+<li>Delegate appropriately</li>
+<li>Focus on high-impact activities</li>
 
+</ul>
 </div>
 
 ## Validation Process Best Practices
 
 ### Pre-Validation Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📋 Preparation is Key
+<h3>📋 Preparation is Key</h3>
 
-**Best Practice Checklist:**
+<p>**Best Practice Checklist:**</p>
 
 ```python
-def prepare_for_validation():
-    """Gold standard preparation process"""
-    
-    # 1. Context gathering (30 min)
-    review_milestone_declaration()
-    check_venture_history()
-    understand_market_context()
-    identify_potential_issues()
-    
-    # 2. Tool preparation
-    setup_testing_environment()
-    prepare_evaluation_templates()
-    gather_benchmark_data()
-    arrange_expert_consultations()
-    
-    # 3. Mental preparation
-    clear_biases()
-    set_quality_intention()
-    plan_time_allocation()
-    prepare_questions()
-    
-    return ready_to_validate
+<p>def prepare_for_validation():</p>
+<p>"""Gold standard preparation process"""</p>
+
+<h1>1. Context gathering (30 min)</h1>
+<p>review_milestone_declaration()</p>
+<p>check_venture_history()</p>
+<p>understand_market_context()</p>
+<p>identify_potential_issues()</p>
+
+<h1>2. Tool preparation</h1>
+<p>setup_testing_environment()</p>
+<p>prepare_evaluation_templates()</p>
+<p>gather_benchmark_data()</p>
+<p>arrange_expert_consultations()</p>
+
+<h1>3. Mental preparation</h1>
+<p>clear_biases()</p>
+<p>set_quality_intention()</p>
+<p>plan_time_allocation()</p>
+<p>prepare_questions()</p>
+
+<p>return ready_to_validate</p>
 ```
 
-**Pre-Validation Communication:**
+<p>**Pre-Validation Communication:**</p>
 
-- Confirm evidence submission complete
-- Set expectations with founder
-- Schedule follow-up meeting
-- Share validation timeline
-- Request any clarifications
+<ul>
+<li>Confirm evidence submission complete</li>
+<li>Set expectations with founder</li>
+<li>Schedule follow-up meeting</li>
+<li>Share validation timeline</li>
+<li>Request any clarifications</li>
 
+</ul>
 </div>
 
 ### Evidence Review Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Thorough Yet Efficient
+<h3>🔍 Thorough Yet Efficient</h3>
 
-**Systematic Review Process:**
+<p>**Systematic Review Process:**</p>
 
-**First Pass (30 min)**
+<p>**First Pass (30 min)**</p>
 
-- Completeness check
-- Quality scan
-- Red flag identification
-- Organization assessment
-- Initial impressions
+<ul>
+<li>Completeness check</li>
+<li>Quality scan</li>
+<li>Red flag identification</li>
+<li>Organization assessment</li>
+<li>Initial impressions</li>
 
-**Deep Dive (1-3 hours)**
+</ul>
+<p>**Deep Dive (1-3 hours)**</p>
 
 ```
-Evidence Review Framework:
-├── Technical Evidence
-│   ├── Code review
-│   ├── Architecture assessment
-│   ├── Security check
-│   └── Performance validation
-├── Business Evidence
-│   ├── Metrics verification
-│   ├── Customer validation
-│   ├── Financial review
-│   └── Market assessment
-└── Process Evidence
-    ├── Documentation quality
-    ├── Team effectiveness
-    ├── Communication clarity
-    └── Execution excellence
+<p>Evidence Review Framework:</p>
+<p>├── Technical Evidence</p>
+<p>│   ├── Code review</p>
+<p>│   ├── Architecture assessment</p>
+<p>│   ├── Security check</p>
+<p>│   └── Performance validation</p>
+<p>├── Business Evidence</p>
+<p>│   ├── Metrics verification</p>
+<p>│   ├── Customer validation</p>
+<p>│   ├── Financial review</p>
+<p>│   └── Market assessment</p>
+<p>└── Process Evidence</p>
+<p>├── Documentation quality</p>
+<p>├── Team effectiveness</p>
+<p>├── Communication clarity</p>
+<p>└── Execution excellence</p>
 ```
 
-**Verification Testing**
+<p>**Verification Testing**</p>
 
-- Always test claims
-- Reproduce results
-- Verify metrics
-- Check sources
-- Document findings
+<ul>
+<li>Always test claims</li>
+<li>Reproduce results</li>
+<li>Verify metrics</li>
+<li>Check sources</li>
+<li>Document findings</li>
 
+</ul>
 </div>
 
 ### Decision Making Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Fair and Transparent Decisions
+<h3>⚖️ Fair and Transparent Decisions</h3>
 
-**Decision Framework Best Practices:**
+<p>**Decision Framework Best Practices:**</p>
 
-1. **Gather All Information**
-   - Complete evidence review
-   - Clarifying questions asked
-   - Context fully understood
-   - Standards clearly defined
+<p>1. **Gather All Information**</p>
+<ul>
+<li>Complete evidence review</li>
+<li>Clarifying questions asked</li>
+<li>Context fully understood</li>
+<li>Standards clearly defined</li>
 
-2. **Apply Consistent Standards**
-   - Phase-appropriate expectations
-   - Documented criteria
-   - Previous precedents
-   - Peer calibration
+</ul>
+<p>2. **Apply Consistent Standards**</p>
+<ul>
+<li>Phase-appropriate expectations</li>
+<li>Documented criteria</li>
+<li>Previous precedents</li>
+<li>Peer calibration</li>
 
-3. **Document Reasoning**
-   - Clear decision trail
-   - Specific examples
-   - Standard references
-   - Improvement paths
+</ul>
+<p>3. **Document Reasoning**</p>
+<ul>
+<li>Clear decision trail</li>
+<li>Specific examples</li>
+<li>Standard references</li>
+<li>Improvement paths</li>
 
-4. **Communicate Effectively**
-   - Decision first
-   - Reasoning clear
-   - Actions specific
-   - Tone supportive
+</ul>
+<p>4. **Communicate Effectively**</p>
+<ul>
+<li>Decision first</li>
+<li>Reasoning clear</li>
+<li>Actions specific</li>
+<li>Tone supportive</li>
 
+</ul>
 </div>
 
 ## Communication Best Practices
 
 ### Written Communication
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✍️ Clear and Constructive Writing
+<h3>✍️ Clear and Constructive Writing</h3>
 
-**Validation Report Excellence:**
+<p>**Validation Report Excellence:**</p>
 
-**Structure for Clarity:**
+<p>**Structure for Clarity:**</p>
 
 ```markdown
-# Executive Summary
-- Decision upfront
-- Key findings highlighted
-- Action items clear
-- Timeline specified
+<h1>Executive Summary</h1>
+<ul>
+<li>Decision upfront</li>
+<li>Key findings highlighted</li>
+<li>Action items clear</li>
+<li>Timeline specified</li>
 
-# Detailed Analysis
-- Evidence-based observations
-- Specific examples
-- Balanced perspective
-- Growth opportunities
+<h1>Detailed Analysis</h1>
+<li>Evidence-based observations</li>
+<li>Specific examples</li>
+<li>Balanced perspective</li>
+<li>Growth opportunities</li>
 
-# Recommendations
-- Prioritized actions
-- Resource suggestions
-- Success metrics
-- Support offered
+<h1>Recommendations</h1>
+<li>Prioritized actions</li>
+<li>Resource suggestions</li>
+<li>Success metrics</li>
+<li>Support offered</li>
 ```
 
-**Writing Principles:**
+</ul>
+<p>**Writing Principles:**</p>
 
-- Be specific, not general
-- Use examples liberally
-- Balance criticism with praise
-- Focus on growth
-- End with encouragement
+<ul>
+<li>Be specific, not general</li>
+<li>Use examples liberally</li>
+<li>Balance criticism with praise</li>
+<li>Focus on growth</li>
+<li>End with encouragement</li>
 
-**Language Best Practices:**
+</ul>
+<p>**Language Best Practices:**</p>
 
-- Active voice
-- Simple clarity
-- Professional tone
-- Empathetic approach
-- Action-oriented
+<ul>
+<li>Active voice</li>
+<li>Simple clarity</li>
+<li>Professional tone</li>
+<li>Empathetic approach</li>
+<li>Action-oriented</li>
 
+</ul>
 </div>
 
 ### Verbal Communication
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🗣️ Effective Conversations
+<h3>🗣️ Effective Conversations</h3>
 
-**Meeting Best Practices:**
+<p>**Meeting Best Practices:**</p>
 
-**Preparation:**
+<p>**Preparation:**</p>
 
-- Agenda shared ahead
-- Time respected
-- Environment comfortable
-- Materials ready
-- Outcomes defined
+<ul>
+<li>Agenda shared ahead</li>
+<li>Time respected</li>
+<li>Environment comfortable</li>
+<li>Materials ready</li>
+<li>Outcomes defined</li>
 
-**During Meeting:**
+</ul>
+<p>**During Meeting:**</p>
 
 ```
-Meeting Flow:
-1. Build rapport (5 min)
-2. Share decision (5 min)
-3. Discuss details (20 min)
-4. Answer questions (15 min)
-5. Plan next steps (10 min)
-6. End positively (5 min)
+<p>Meeting Flow:</p>
+<p>1. Build rapport (5 min)</p>
+<p>2. Share decision (5 min)</p>
+<p>3. Discuss details (20 min)</p>
+<p>4. Answer questions (15 min)</p>
+<p>5. Plan next steps (10 min)</p>
+<p>6. End positively (5 min)</p>
 ```
 
-**Communication Techniques:**
+<p>**Communication Techniques:**</p>
 
-- Listen more than talk
-- Ask open questions
-- Reflect understanding
-- Stay calm always
-- Focus on solutions
+<ul>
+<li>Listen more than talk</li>
+<li>Ask open questions</li>
+<li>Reflect understanding</li>
+<li>Stay calm always</li>
+<li>Focus on solutions</li>
 
+</ul>
 </div>
 
 ## Relationship Best Practices
 
 ### Building Trust
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 The Foundation of Influence
+<h3>🤝 The Foundation of Influence</h3>
 
-**Trust Building Actions:**
+<p>**Trust Building Actions:**</p>
 
-**Reliability**
+<p>**Reliability**</p>
 
-- Always meet deadlines
-- Respond within 24 hours
-- Keep all promises
-- Show up prepared
-- Follow through completely
+<ul>
+<li>Always meet deadlines</li>
+<li>Respond within 24 hours</li>
+<li>Keep all promises</li>
+<li>Show up prepared</li>
+<li>Follow through completely</li>
 
-**Transparency**
+</ul>
+<p>**Transparency**</p>
 
-- Share your process
-- Explain decisions
-- Admit uncertainties
-- Disclose conflicts
-- Communicate changes
+<ul>
+<li>Share your process</li>
+<li>Explain decisions</li>
+<li>Admit uncertainties</li>
+<li>Disclose conflicts</li>
+<li>Communicate changes</li>
 
-**Competence**
+</ul>
+<p>**Competence**</p>
 
-- Stay current
-- Share knowledge
-- Solve problems
-- Add value
-- Show expertise
+<ul>
+<li>Stay current</li>
+<li>Share knowledge</li>
+<li>Solve problems</li>
+<li>Add value</li>
+<li>Show expertise</li>
 
-**Care**
+</ul>
+<p>**Care**</p>
 
-- Remember details
-- Celebrate successes
-- Support struggles
-- Check in regularly
-- Go extra mile
+<ul>
+<li>Remember details</li>
+<li>Celebrate successes</li>
+<li>Support struggles</li>
+<li>Check in regularly</li>
+<li>Go extra mile</li>
 
+</ul>
 </div>
 
 ### Managing Difficult Situations
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 😤 Grace Under Pressure
+<h3>😤 Grace Under Pressure</h3>
 
-**Handling Pushback:**
+<p>**Handling Pushback:**</p>
 
-**When Founders Disagree:**
+<p>**When Founders Disagree:**</p>
 
-1. Listen completely
-2. Acknowledge feelings
-3. Review evidence together
-4. Explain standards
-5. Seek common ground
-6. Document discussion
-7. Escalate if needed
+<p>1. Listen completely</p>
+<p>2. Acknowledge feelings</p>
+<p>3. Review evidence together</p>
+<p>4. Explain standards</p>
+<p>5. Seek common ground</p>
+<p>6. Document discussion</p>
+<p>7. Escalate if needed</p>
 
-**De-escalation Techniques:**
+<p>**De-escalation Techniques:**</p>
 
-- Stay calm always
-- Use neutral language
-- Focus on facts
-- Acknowledge emotions
-- Seek solutions
-- Take breaks if needed
+<ul>
+<li>Stay calm always</li>
+<li>Use neutral language</li>
+<li>Focus on facts</li>
+<li>Acknowledge emotions</li>
+<li>Seek solutions</li>
+<li>Take breaks if needed</li>
 
-**Common Difficult Scenarios:**
+</ul>
+<p>**Common Difficult Scenarios:**</p>
 
-- Milestone failure anger
-- Standard disputes
-- Timeline pressure
-- Resource constraints
-- Personality conflicts
+<ul>
+<li>Milestone failure anger</li>
+<li>Standard disputes</li>
+<li>Timeline pressure</li>
+<li>Resource constraints</li>
+<li>Personality conflicts</li>
 
+</ul>
 </div>
 
 ## Technical Best Practices
 
 ### Code Review Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💻 Efficient Technical Assessment
+<h3>💻 Efficient Technical Assessment</h3>
 
-**Code Review Strategy:**
+<p>**Code Review Strategy:**</p>
 
 ```python
-def review_code_effectively():
-    """Best practice code review process"""
-    
-    # 1. High-level architecture
-    assess_overall_design()
-    check_pattern_usage()
-    evaluate_scalability()
-    
-    # 2. Critical paths first
-    review_authentication()
-    check_data_handling()
-    assess_error_handling()
-    
-    # 3. Code quality
-    run_automated_tools()
-    spot_check_manually()
-    verify_test_coverage()
-    
-    # 4. Documentation
-    check_code_comments()
-    review_api_docs()
-    validate_setup_guides()
+<p>def review_code_effectively():</p>
+<p>"""Best practice code review process"""</p>
+
+<h1>1. High-level architecture</h1>
+<p>assess_overall_design()</p>
+<p>check_pattern_usage()</p>
+<p>evaluate_scalability()</p>
+
+<h1>2. Critical paths first</h1>
+<p>review_authentication()</p>
+<p>check_data_handling()</p>
+<p>assess_error_handling()</p>
+
+<h1>3. Code quality</h1>
+<p>run_automated_tools()</p>
+<p>spot_check_manually()</p>
+<p>verify_test_coverage()</p>
+
+<h1>4. Documentation</h1>
+<p>check_code_comments()</p>
+<p>review_api_docs()</p>
+<p>validate_setup_guides()</p>
 ```
 
-**Review Tools:**
+<p>**Review Tools:**</p>
 
-- Automated scanners
-- Performance profilers
-- Security analyzers
-- Code quality metrics
-- Documentation generators
+<ul>
+<li>Automated scanners</li>
+<li>Performance profilers</li>
+<li>Security analyzers</li>
+<li>Code quality metrics</li>
+<li>Documentation generators</li>
 
+</ul>
 </div>
 
 ### Security Assessment
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔒 Security Best Practices
+<h3>🔒 Security Best Practices</h3>
 
-**Security Review Checklist:**
+<p>**Security Review Checklist:**</p>
 
 ```
-Essential Security Checks:
-□ Authentication mechanisms
-□ Authorization controls
-□ Data encryption (transit/rest)
-□ Input validation
-□ SQL injection prevention
-□ XSS protection
-□ CSRF tokens
-□ Security headers
-□ Dependency vulnerabilities
-□ Secrets management
+<p>Essential Security Checks:</p>
+<p>□ Authentication mechanisms</p>
+<p>□ Authorization controls</p>
+<p>□ Data encryption (transit/rest)</p>
+<p>□ Input validation</p>
+<p>□ SQL injection prevention</p>
+<p>□ XSS protection</p>
+<p>□ CSRF tokens</p>
+<p>□ Security headers</p>
+<p>□ Dependency vulnerabilities</p>
+<p>□ Secrets management</p>
 ```
 
-**Security Tools:**
+<p>**Security Tools:**</p>
 
-- OWASP ZAP
-- Dependency checkers
-- Static analyzers
-- Penetration testing
-- Vulnerability scanners
+<ul>
+<li>OWASP ZAP</li>
+<li>Dependency checkers</li>
+<li>Static analyzers</li>
+<li>Penetration testing</li>
+<li>Vulnerability scanners</li>
 
+</ul>
 </div>
 
 ## Continuous Improvement
 
 ### Personal Development
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Always Be Learning
+<h3>📚 Always Be Learning</h3>
 
-**Learning Plan Best Practices:**
+<p>**Learning Plan Best Practices:**</p>
 
-**Weekly Learning (2-3 hours):**
+<p>**Weekly Learning (2-3 hours):**</p>
 
-- Industry articles
-- Technical tutorials
-- Peer discussions
-- Case studies
-- Tool exploration
+<ul>
+<li>Industry articles</li>
+<li>Technical tutorials</li>
+<li>Peer discussions</li>
+<li>Case studies</li>
+<li>Tool exploration</li>
 
-**Monthly Deep Dives:**
+</ul>
+<p>**Monthly Deep Dives:**</p>
 
-- New technology
-- Industry vertical
-- Methodology study
-- Skill development
-- Certification progress
+<ul>
+<li>New technology</li>
+<li>Industry vertical</li>
+<li>Methodology study</li>
+<li>Skill development</li>
+<li>Certification progress</li>
 
-**Annual Goals:**
+</ul>
+<p>**Annual Goals:**</p>
 
-- Major skill addition
-- Industry conference
-- Thought leadership
-- Tool creation
-- Process innovation
+<ul>
+<li>Major skill addition</li>
+<li>Industry conference</li>
+<li>Thought leadership</li>
+<li>Tool creation</li>
+<li>Process innovation</li>
 
+</ul>
 </div>
 
 ### Process Improvement
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Refining Your Approach
+<h3>🔄 Refining Your Approach</h3>
 
-**Improvement Methodology:**
+<p>**Improvement Methodology:**</p>
 
-1. **Measure Current State**
-   - Time per validation
-   - Accuracy metrics
-   - Founder satisfaction
-   - Rework frequency
-   - Error patterns
+<p>1. **Measure Current State**</p>
+<ul>
+<li>Time per validation</li>
+<li>Accuracy metrics</li>
+<li>Founder satisfaction</li>
+<li>Rework frequency</li>
+<li>Error patterns</li>
 
-2. **Identify Improvements**
-   - Bottleneck analysis
-   - Feedback integration
-   - Peer comparison
-   - Best practice research
-   - Innovation opportunities
+</ul>
+<p>2. **Identify Improvements**</p>
+<ul>
+<li>Bottleneck analysis</li>
+<li>Feedback integration</li>
+<li>Peer comparison</li>
+<li>Best practice research</li>
+<li>Innovation opportunities</li>
 
-3. **Implement Changes**
-   - Small experiments
-   - Measure impact
-   - Adjust approach
-   - Document learnings
-   - Share successes
+</ul>
+<p>3. **Implement Changes**</p>
+<ul>
+<li>Small experiments</li>
+<li>Measure impact</li>
+<li>Adjust approach</li>
+<li>Document learnings</li>
+<li>Share successes</li>
 
+</ul>
 </div>
 
 ## Community Best Practices
 
 ### Knowledge Sharing
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌐 Contributing to Collective Wisdom
-**Sharing Best Practices:**
+<h3>🌐 Contributing to Collective Wisdom</h3>
+<p>**Sharing Best Practices:**</p>
 
-**What to Share:**
+<p>**What to Share:**</p>
 
-- Validation insights
-- Tool discoveries
-- Process improvements
-- Failure lessons
-- Success patterns
+<ul>
+<li>Validation insights</li>
+<li>Tool discoveries</li>
+<li>Process improvements</li>
+<li>Failure lessons</li>
+<li>Success patterns</li>
 
-**How to Share:**
+</ul>
+<p>**How to Share:**</p>
 
-- Weekly anchor calls
-- Written guides
-- Video tutorials
-- Workshop sessions
-- Mentoring others
+<ul>
+<li>Weekly anchor calls</li>
+<li>Written guides</li>
+<li>Video tutorials</li>
+<li>Workshop sessions</li>
+<li>Mentoring others</li>
 
-**Sharing Principles:**
+</ul>
+<p>**Sharing Principles:**</p>
 
-- Be generous
-- Stay humble
-- Give credit
-- Build on others
-- Create value
+<ul>
+<li>Be generous</li>
+<li>Stay humble</li>
+<li>Give credit</li>
+<li>Build on others</li>
+<li>Create value</li>
 
+</ul>
 </div>
 
 ### Peer Collaboration
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Working with Other Anchors
-**Collaboration Best Practices:**
+<h3>👥 Working with Other Anchors</h3>
+<p>**Collaboration Best Practices:**</p>
 
-**Peer Reviews:**
+<p>**Peer Reviews:**</p>
 
-- Request regularly
-- Provide thoughtfully
-- Learn actively
-- Calibrate standards
-- Share insights
+<ul>
+<li>Request regularly</li>
+<li>Provide thoughtfully</li>
+<li>Learn actively</li>
+<li>Calibrate standards</li>
+<li>Share insights</li>
 
-**Joint Validations:**
+</ul>
+<p>**Joint Validations:**</p>
 
-- Complex cases
-- Learning opportunities
-- Standard alignment
-- Workload sharing
-- Quality assurance
+<ul>
+<li>Complex cases</li>
+<li>Learning opportunities</li>
+<li>Standard alignment</li>
+<li>Workload sharing</li>
+<li>Quality assurance</li>
 
-**Community Building:**
+</ul>
+<p>**Community Building:**</p>
 
-- Welcome new anchors
-- Share resources
-- Organize events
-- Build culture
-- Strengthen bonds
+<ul>
+<li>Welcome new anchors</li>
+<li>Share resources</li>
+<li>Organize events</li>
+<li>Build culture</li>
+<li>Strengthen bonds</li>
 
+</ul>
 </div>
 
 ## Documentation Best Practices
 
 ### Record Keeping Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Maintaining Quality Records
-**Documentation System:**
+<h3>📝 Maintaining Quality Records</h3>
+<p>**Documentation System:**</p>
 ```
-Anchor Records/
-├── Validations/
-│   ├── [Venture Name]/
-│   │   ├── Milestone_1/
-│   │   ├── Milestone_2/
-│   │   └── Notes/
-├── Templates/
-│   ├── Validation_Report.md
-│   ├── Meeting_Notes.md
-│   └── Checklists/
-├── Learning/
-│   ├── Case_Studies/
-│   ├── Best_Practices/
-│   └── Lessons_Learned/
-└── Resources/
-    ├── Tools/
-    ├── Guides/
-    └── References/
+<p>Anchor Records/</p>
+<p>├── Validations/</p>
+<p>│   ├── [Venture Name]/</p>
+<p>│   │   ├── Milestone_1/</p>
+<p>│   │   ├── Milestone_2/</p>
+<p>│   │   └── Notes/</p>
+<p>├── Templates/</p>
+<p>│   ├── Validation_Report.md</p>
+<p>│   ├── Meeting_Notes.md</p>
+<p>│   └── Checklists/</p>
+<p>├── Learning/</p>
+<p>│   ├── Case_Studies/</p>
+<p>│   ├── Best_Practices/</p>
+<p>│   └── Lessons_Learned/</p>
+<p>└── Resources/</p>
+<p>├── Tools/</p>
+<p>├── Guides/</p>
+<p>└── References/</p>
 ```
 
-**Documentation Principles:**
+<p>**Documentation Principles:**</p>
 
-- Document immediately
-- Be thorough
-- Stay organized
-- Regular backups
-- Easy retrieval
+<ul>
+<li>Document immediately</li>
+<li>Be thorough</li>
+<li>Stay organized</li>
+<li>Regular backups</li>
+<li>Easy retrieval</li>
 
+</ul>
 </div>
 
 ## Ethical Best Practices
 
 ### Maintaining Integrity
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚖️ Ethical Excellence
-**Ethical Guidelines:**
+<h3>⚖️ Ethical Excellence</h3>
+<p>**Ethical Guidelines:**</p>
 
-1. **Independence**
+<p>1. **Independence**</p>
 
-- No financial interests
+<ul>
+<li>No financial interests</li>
 
-- Avoid conflicts
+<li>Avoid conflicts</li>
 
-- Disclose connections
+<li>Disclose connections</li>
 
-- Maintain objectivity
+<li>Maintain objectivity</li>
 
-2. **Fairness**
+</ul>
+<p>2. **Fairness**</p>
 
-- Equal treatment
+<ul>
+<li>Equal treatment</li>
 
-- Unbiased assessment
+<li>Unbiased assessment</li>
 
-- Consistent standards
+<li>Consistent standards</li>
 
-- Open mind
+<li>Open mind</li>
 
-3. **Confidentiality**
+</ul>
+<p>3. **Confidentiality**</p>
 
-- Respect privacy
+<ul>
+<li>Respect privacy</li>
 
-- Secure information
+<li>Secure information</li>
 
-- Limited sharing
+<li>Limited sharing</li>
 
-- Professional boundaries
+<li>Professional boundaries</li>
 
-4. **Service**
+</ul>
+<p>4. **Service**</p>
 
-- Ecosystem first
+<ul>
+<li>Ecosystem first</li>
 
-- Founder success
+<li>Founder success</li>
 
-- Community benefit
-- Long
-- term view
+<li>Community benefit</li>
+<li>Long</li>
+<li>term view</li>
 
+</ul>
 </div>
 
 ## Success Metrics
 
 ### Measuring Excellence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Tracking Your Impact
-** Key Performance Indicators:
+<h3>📊 Tracking Your Impact</h3>
+<p>** Key Performance Indicators:**</p>
 ```python
-anchor_metrics = {
-    "validation_quality": {
-        "accuracy_rate": ">95%",
-        "dispute_rate": "<5%",
-        "revision_rate": "<10%"
-    },
-    "efficiency": {
-        "turnaround_time": "<5 days",
-        "meeting_punctuality": "100%",
-        "documentation_complete": "100%"
-    },
-    "relationship": {
-        "founder_nps": ">80",
-        "repeat_requests": ">70%",
-        "referral_rate": ">30%"
-    },
-    "growth": {
-        "skills_added": "2+/year",
-        "ventures_guided": "10+/year",
-        "knowledge_shared": "12+/year"
-    }
-}
+<p>anchor_metrics = {</p>
+<p>"validation_quality": {</p>
+<p>"accuracy_rate": ">95%",</p>
+<p>"dispute_rate": "<5%",</p>
+<p>"revision_rate": "<10%"</p>
+<p>},</p>
+<p>"efficiency": {</p>
+<p>"turnaround_time": "<5 days",</p>
+<p>"meeting_punctuality": "100%",</p>
+<p>"documentation_complete": "100%"</p>
+<p>},</p>
+<p>"relationship": {</p>
+<p>"founder_nps": ">80",</p>
+<p>"repeat_requests": ">70%",</p>
+<p>"referral_rate": ">30%"</p>
+<p>},</p>
+<p>"growth": {</p>
+<p>"skills_added": "2+/year",</p>
+<p>"ventures_guided": "10+/year",</p>
+<p>"knowledge_shared": "12+/year"</p>
+<p>}</p>
+<p>}</p>
 ```
 
 </div>

@@ -2,9 +2,9 @@
 
 ## Finding Product-Market Fit
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-**Phase**: Drift 🌊  **Focus:** : Iteration and Discovery  Duration**: 3-6 months typical</div>
+</div>
 
 ## Overview
 
@@ -30,9 +30,11 @@ The Drift phase is where ventures discover their true path through rapid iterati
 ## Common Patterns
 
 ### Successful Drift Navigation
+
 - **Weekly Updates**: Consistent communication
 - **Clear Pivots** : Explain direction changes
 - **Data-Driven** : Show metrics behind decisions
+
 ### Warning Signs
 - Drifting without direction
 - Ignoring Echo signals

@@ -2,11 +2,11 @@
 
 ## The Technical Details of Belief and Doubt
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚙️ How Signals Actually Work
+<h3>⚙️ How Signals Actually Work</h3>
 
-Understanding the mechanics behind signaling is crucial for maximizing returns and minimizing risks. This guide covers the technical details, mathematical models, and strategic considerations of the signal system.
+<p>Understanding the mechanics behind signaling is crucial for maximizing returns and minimizing risks. This guide covers the technical details, mathematical models, and strategic considerations of the signal system.</p>
 
 </div>
 
@@ -14,34 +14,48 @@ Understanding the mechanics behind signaling is crucial for maximizing returns a
 
 ### Belief Signals
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ✅ Positive Conviction Mechanics
+<h3>✅ Positive Conviction Mechanics</h3>
 
-**Technical Specifications:**
+<p>**Technical Specifications:**</p>
 
-- **Minimum Stake:** 10 $SIGNAL
--- **Maximum Stake:**  Lock Period:
--- **Success Multiplier:**  Failure Result:
-**  Multiplier Formula:
+<ul>
+<li>**Minimum Stake:** 10 $SIGNAL</li>
+</ul>
+<p>-- **Maximum Stake:**</p>
+
+<p>**Lock Period:**</p>
+<p>-- **Success Multiplier:**</p>
+
+<p>**Failure Result:**</p>
+<p>**  Multiplier Formula:**</p>
 ```
-Base Multiplier × Time Bonus × Reputation Modifier × Phase Factor
+<p>Base Multiplier × Time Bonus × Reputation Modifier × Phase Factor</p>
 ```
 
 </div>
 
 ### Doubt Signals
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Negative Conviction Mechanics
-** Technical Specifications:
-- **Minimum Stake:** 10 $SIGNAL
--- **Maximum Stake:**  Lock Period:
--- **Success Multiplier:**  Failure Result:
-**  Multiplier Formula:
+<h3>❌ Negative Conviction Mechanics</h3>
+
+
+<p>Technical Specifications:**</p>
+<ul>
+<li>**Minimum Stake:** 10 $SIGNAL</li>
+</ul>
+<p>-- **Maximum Stake:**</p>
+
+<p>**Lock Period:**</p>
+<p>-- **Success Multiplier:**</p>
+
+<p>**Failure Result:**</p>
+<p>**  Multiplier Formula:**</p>
 ```
-Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor
+<p>Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor</p>
 ```
 
 </div>
@@ -59,76 +73,91 @@ Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor
 
 ### Bonus Modifiers
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Multiplier Bonuses
-** Time Bonus (Early Signals):
-- ** First 10% of pool: +0.5x
-- First 25% of pool: +0.3x
-- First 50% of pool: +0.1x
-- After 50%: No bonus
-** Reputation Modifier:
-- ** 0-100 XP: 1.0x
-- 100-500 XP: 1.1x
-- 500-2000 XP: 1.2x
-- 2000+ XP: 1.3x
-** Phase Factor:
-- ** Spark/Forge: 1.5x
-- Ignition: 1.3x
-- Drift: 1.2x
-- Orbit/Flare: 1.1x
-- Ascension: 1.0x
+<h3>🎯 Multiplier Bonuses</h3>
 
+
+<p>Time Bonus (Early Signals):**</p>
+<ul>
+<li>**First 10% of pool: +0.5x**</li>
+<li>First 25% of pool: +0.3x</li>
+<li>First 50% of pool: +0.1x</li>
+<li>After 50%: No bonus</li>
+
+</ul>
+<p>** Reputation Modifier:**</p>
+<ul>
+<li>**0-100 XP: 1.0x**</li>
+<li>100-500 XP: 1.1x</li>
+<li>500-2000 XP: 1.2x</li>
+<li>2000+ XP: 1.3x</li>
+
+</ul>
+<p>** Phase Factor:**</p>
+<ul>
+<li>**Spark/Forge: 1.5x**</li>
+<li>Ignition: 1.3x</li>
+<li>Drift: 1.2x</li>
+<li>Orbit/Flare: 1.1x</li>
+<li>Ascension: 1.0x</li>
+
+</ul>
 </div>
 
 ## Staking Mechanics
 
 ### The Staking Process
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔐 Technical Flow
+<h3>🔐 Technical Flow</h3>
 
-1. **Signal Initiation**
+<p>1. **Signal Initiation**</p>
    ```javascript
-   function createSignal(ventureId, signalType, amount) {
-     validateStake(amount);
-     checkVentureStatus(ventureId);
-     lockTokens(msg.sender, amount);
-     recordSignal(signalDetails);
-   }
+<p>function createSignal(ventureId, signalType, amount) {</p>
+<p>validateStake(amount);</p>
+<p>checkVentureStatus(ventureId);</p>
+<p>lockTokens(msg.sender, amount);</p>
+<p>recordSignal(signalDetails);</p>
+<p>}</p>
    ```
 
-2. **Token Locking**
+<p>2. **Token Locking**</p>
 
-- Tokens transferred to escrow
+<ul>
+<li>Tokens transferred to escrow</li>
 
-- Cannot be withdrawn
-- Tracked on
-- chain
+<li>Cannot be withdrawn</li>
+<li>Tracked on</li>
+<li>chain</li>
 
-- Visible in UI
+<li>Visible in UI</li>
 
-3. **Settlement Trigger**
+</ul>
+<p>3. **Settlement Trigger**</p>
 
-- Anchor validates milestone
+<ul>
+<li>Anchor validates milestone</li>
 
-- Smart contract executes
+<li>Smart contract executes</li>
 
-- Rewards calculated
+<li>Rewards calculated</li>
 
-- Tokens distributed
+<li>Tokens distributed</li>
 
+</ul>
 </div>
 
 ### Gas Optimization
-** Cost Considerations:
-- ** Signal creation: ~50,000 gas
+** Cost Considerations:**
+- **Signal creation: ~50,000 gas**
 - Batch signals: ~30,000 gas each
 - Claim rewards: ~80,000 gas
 - Emergency exit: ~100,000 gas
-** Optimization Tips:
-- ** Batch multiple signals
+
+** Optimization Tips:**
+- **Batch multiple signals**
 - Time for low gas periods
 - Use meta-transactions
 - Claim rewards together
@@ -137,31 +166,39 @@ Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor
 
 ### Signal Pool Mechanics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏊 Pool Behavior
-** Pool Formation:
-- ** Starts empty at milestone declaration
-- Grows with each signal
-- Belief and doubt tracked separately
-- Ratio affects multipliers
-** Pool Metrics:
-```
-Total Pool = Belief Stakes + Doubt Stakes
-Belief Ratio = Belief Stakes / Total Pool
-Sentiment = (Belief - Doubt) / Total Pool
-```
-** Dynamic Adjustments:
-- ** High belief ratio → Lower belief multipliers
-- High doubt ratio → Lower doubt multipliers
-- Balanced pools → Optimal returns
-- Extreme ratios → Contrarian opportunities
+<h3>🏊 Pool Behavior</h3>
+<p>** Pool Formation:**</p>
+<ul>
+<li>**Starts empty at milestone declaration**</li>
+<li>Grows with each signal</li>
+<li>Belief and doubt tracked separately</li>
+<li>Ratio affects multipliers</li>
 
+</ul>
+<p>** Pool Metrics:**</p>
+```
+<p>Total Pool = Belief Stakes + Doubt Stakes</p>
+<p>Belief Ratio = Belief Stakes / Total Pool</p>
+<p>Sentiment = (Belief - Doubt) / Total Pool</p>
+```
+
+
+
+<p>Dynamic Adjustments:**</p>
+<ul>
+<li>**High belief ratio → Lower belief multipliers**</li>
+<li>High doubt ratio → Lower doubt multipliers</li>
+<li>Balanced pools → Optimal returns</li>
+<li>Extreme ratios → Contrarian opportunities</li>
+
+</ul>
 </div>
 
 ### Liquidity Considerations
-** Pool Depth Effects:
-- ** Shallow pools: Higher volatility
+** Pool Depth Effects:**
+- **Shallow pools: Higher volatility**
 - Deep pools: More stability
 - Early signals: Price discovery
 - Late signals: Efficient market
@@ -170,39 +207,45 @@ Sentiment = (Belief - Doubt) / Total Pool
 
 ### Conditional Signals
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Complex Signaling
-** Types Available:
-1. **Time-Conditional**
+<h3>🔄 Complex Signaling</h3>
+<p>** Types Available:**</p>
+<p>1. **Time-Conditional**</p>
 
-- "I believe IF completed by date X"
+<ul>
+<li>"I believe IF completed by date X"</li>
 
-- Different multipliers for time ranges
+<li>Different multipliers for time ranges</li>
 
-- Partial rewards possible
+<li>Partial rewards possible</li>
 
-2. **Outcome-Conditional**
+</ul>
+<p>2. **Outcome-Conditional**</p>
 
-- "I believe IF metric Y achieved"
+<ul>
+<li>"I believe IF metric Y achieved"</li>
 
-- Specific success criteria
+<li>Specific success criteria</li>
 
-- Binary or graduated rewards
+<li>Binary or graduated rewards</li>
 
-3. **Sequential Signals**
-- Multi
-- milestone commitments
+</ul>
+<p>3. **Sequential Signals**</p>
+<ul>
+<li>Multi</li>
+<li>milestone commitments</li>
 
-- Compounding rewards
+<li>Compounding rewards</li>
 
-- Higher risk/reward
+<li>Higher risk/reward</li>
 
+</ul>
 </div>
 
 ### Hedged Positions
-** Hedging Strategies:
-- ** Belief + smaller doubt position
+** Hedging Strategies:**
+- **Belief + smaller doubt position**
 - Across similar ventures
 - Time-staggered entries
 - Phase diversification
@@ -211,54 +254,85 @@ Sentiment = (Belief - Doubt) / Total Pool
 
 ### Optimal Entry Points
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏰ Timing Your Signals
-** Early Stage (0-20% filled):
-- **Pros:** Maximum multipliers, first-mover advantage
--- **Cons:**  Best for:
-- ** Growth Stage (20-60% filled):**  Some validation, decent multipliers
--- **Cons:**  Best for:
-- ** Late Stage (60-90% filled):**  Maximum information, lower risk
--- **Cons:**  Best for:
-- ** Final Stage (90-100% filled):**  Near-certain outcomes
--- **Cons:**  Best for:
-**</div>
+<h3>⏰ Timing Your Signals</h3>
+<p>** Early Stage (0-20% filled):**</p>
+<ul>
+<li>**Pros:**</li>
+
+</ul>
+<p>**Maximum multipliers, first-mover advantage**</p>
+<p>-- **Cons:**</p>
+
+<p>**Best for:**</p>
+<ul>
+<li>**Growth Stage (20-60% filled):**</li>
+
+</ul>
+<p>**Some validation, decent multipliers**</p>
+<p>-- **Cons:**</p>
+
+<p>**Best for:**</p>
+<ul>
+<li>**Late Stage (60-90% filled):**</li>
+
+</ul>
+<p>**Maximum information, lower risk**</p>
+<p>-- **Cons:**</p>
+
+<p>**Best for:**</p>
+<ul>
+<li>**Final Stage (90-100% filled):**</li>
+
+</ul>
+<p>**Near-certain outcomes**</p>
+<p>-- **Cons:**</p>
+
+<p>**Best for:**</p>
+</div>
 
 ## Risk Calculations
 
 ### Mathematical Models
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Risk/Reward Analysis
-** Expected Value Formula:
+<h3>📊 Risk/Reward Analysis</h3>
+<p>** Expected Value Formula:**</p>
 ```
-EV = (Success Probability × Reward Multiplier × Stake) - 
-     (Failure Probability × Stake)
+<p>EV = (Success Probability × Reward Multiplier × Stake) -</p>
+<p>(Failure Probability × Stake)</p>
 ```
 
-**Example:**  Calculation:
-- ** Stake: 1,000 $SIGNAL
-- Success chance: 70%
-- Multiplier: 2.0x
-- EV = (0.7 × 2.0 × 1,000)
-- (0.3 × 1,000)
-- EV = 1,400
-- 300 = 1,100 $SIGNAL
-** Break-even Success Rate:
+<p>**Example:**</p>
+
+<p>**Calculation:**</p>
+<ul>
+<li>**Stake: 1,000 $SIGNAL**</li>
+<li>Success chance: 70%</li>
+<li>Multiplier: 2.0x</li>
+<li>EV = (0.7 × 2.0 × 1,000)</li>
+<li>(0.3 × 1,000)</li>
+<li>EV = 1,400</li>
+<li>300 = 1,100 $SIGNAL</li>
+
+</ul>
+<p>** Break-even Success Rate:**</p>
 ```
-Break-even = 1 / Multiplier
-2. 0x multiplier = 50% success needed
-1. 5x multiplier = 67% success needed
-3. 0x multiplier = 33% success needed
+<p>Break-even = 1 / Multiplier</p>
+<p>2. 0x multiplier = 50% success needed</p>
+<p>1. 5x multiplier = 67% success needed</p>
+<p>3. 0x multiplier = 33% success needed</p>
 ```
 
 </div>
 
 ### Portfolio Risk Management
-** Optimal Allocation:
-- ** No single signal > 10% of bankroll
+
+
+Optimal Allocation:**
+- **No single signal > 10% of bankroll**
 - Phase diversification
 - Venture diversification
 - Belief/doubt balance
@@ -267,34 +341,38 @@ Break-even = 1 / Multiplier
 
 ### How Rewards Distribute
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Settlement Mechanics
-** Success Settlement:
-1. Anchor validates success
-2. Smart contract triggered
-3. Doubt stakes burned
-4. Belief rewards calculated
-5. Tokens distributed
-6. XP awarded
-** Failure Settlement:
-1. Anchor validates failure
-2. Smart contract triggered
-3. Belief stakes burned
-4. Doubt rewards calculated
-5. Tokens distributed
-6. XP adjusted
+<h3>💰 Settlement Mechanics</h3>
+<p>** Success Settlement:**</p>
+<p>1. Anchor validates success</p>
+<p>2. Smart contract triggered</p>
+<p>3. Doubt stakes burned</p>
+<p>4. Belief rewards calculated</p>
+<p>5. Tokens distributed</p>
+<p>6. XP awarded</p>
+
+
+
+<p>Failure Settlement:**</p>
+<p>1. Anchor validates failure</p>
+<p>2. Smart contract triggered</p>
+<p>3. Belief stakes burned</p>
+<p>4. Doubt rewards calculated</p>
+<p>5. Tokens distributed</p>
+<p>6. XP adjusted</p>
 
 </div>
 
 ### Emergency Procedures
-** Force Exit Conditions:
-- ** Venture abandonment
+** Force Exit Conditions:**
+- **Venture abandonment**
 - Smart contract issues
 - Governance intervention
 - Extended delays
-** Emergency Exit Cost:
-- ** 90% token return
+
+** Emergency Exit Cost:**
+- **90% token return**
 - 10% penalty burn
 - No XP gained/lost
 - Reputation impact
@@ -303,26 +381,31 @@ Break-even = 1 / Multiplier
 
 ### Transaction Costs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⛽ Fee Structure
-** Platform Fees:
-- ** Signal creation: 0.5% of stake
-- Reward claim: 1% of profit
-- Emergency exit: 10% penalty
-- No maintenance fees
-** Network Fees:
-- ** Vary by congestion
-- ~$5-50 per transaction
-- Batch for savings
-- Time for low periods
+<h3>⛽ Fee Structure</h3>
+<p>** Platform Fees:**</p>
+<ul>
+<li>**Signal creation: 0.5% of stake**</li>
+<li>Reward claim: 1% of profit</li>
+<li>Emergency exit: 10% penalty</li>
+<li>No maintenance fees</li>
 
+</ul>
+<p>** Network Fees:**</p>
+<ul>
+<li>**Vary by congestion**</li>
+<li>~$5-50 per transaction</li>
+<li>Batch for savings</li>
+<li>Time for low periods</li>
+
+</ul>
 </div>
 
 ## Technical Integration
 
 ### API Access
-** Available Endpoints:
+** Available Endpoints:**
 ```javascript
 GET /api/signals/{userId} - Your signals
 GET /api/ventures/{ventureId}/signals - Venture signals
@@ -331,7 +414,9 @@ GET /api/signals/{signalId}/status - Check status
 ```
 
 ### Smart Contract Interface
-** Key Functions:
+
+
+Key Functions:**
 ```solidity
 createSignal(uint ventureId, bool belief, uint amount)
 claimRewards(uint signalId)
@@ -343,35 +428,40 @@ getSignalDetails(uint signalId)
 
 ### Signal Tracking
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Performance Monitoring
-** Dashboard Metrics:
-- ** Active signals status
-- Pending settlements
-- Historical performance
-- ROI calculations
-- Risk exposure
-** Alert System:
-- ** Milestone deadlines
-- Settlement notifications
-- Pool movements
-- Opportunity alerts
+<h3>📈 Performance Monitoring</h3>
+<p>** Dashboard Metrics:**</p>
+<ul>
+<li>**Active signals status**</li>
+<li>Pending settlements</li>
+<li>Historical performance</li>
+<li>ROI calculations</li>
+<li>Risk exposure</li>
 
+</ul>
+<p>** Alert System:**</p>
+<ul>
+<li>**Milestone deadlines**</li>
+<li>Settlement notifications</li>
+<li>Pool movements</li>
+<li>Opportunity alerts</li>
+
+</ul>
 </div>
 
 ## Advanced Strategies
 
 ### Arbitrage Opportunities
-** Types of Arbitrage:
-- ** Cross-venture similar milestones
+** Types of Arbitrage:**
+- **Cross-venture similar milestones**
 - Time-based mispricings
 - Information asymmetry
 - Sentiment extremes
 
 ### Algorithmic Signaling
-** Automated Strategies:
-- ** Rule-based entries
+** Automated Strategies:**
+- **Rule-based entries**
 - Portfolio rebalancing
 - Risk management
 - Sentiment following
@@ -380,20 +470,25 @@ getSignalDetails(uint signalId)
 
 ### Troubleshooting
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔧 Problem Resolution
-** Transaction Failures:
-- ** Insufficient gas
-- Token approval needed
-- Pool limits reached
-- Network congestion
-** Settlement Delays:
-- ** Anchor queue
-- Dispute process
-- Technical issues
-- Governance votes
+<h3>🔧 Problem Resolution</h3>
+<p>** Transaction Failures:**</p>
+<ul>
+<li>**Insufficient gas**</li>
+<li>Token approval needed</li>
+<li>Pool limits reached</li>
+<li>Network congestion</li>
 
+</ul>
+<p>** Settlement Delays:**</p>
+<ul>
+<li>**Anchor queue**</li>
+<li>Dispute process</li>
+<li>Technical issues</li>
+<li>Governance votes</li>
+
+</ul>
 </div>
 
 ## Next Steps

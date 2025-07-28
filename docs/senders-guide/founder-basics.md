@@ -2,11 +2,11 @@
 
 ## Your Journey from Idea to Independence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏗️ The Sender's Path
+<h3>🏗️ The Sender's Path</h3>
 
-As a Sender in Studio3, you're not just a founder - you're a public builder who transforms ideas into reality through transparent milestones, community validation, and progressive funding. This guide covers everything you need to know to succeed.
+<p>As a Sender in Studio3, you're not just a founder - you're a public builder who transforms ideas into reality through transparent milestones, community validation, and progressive funding. This guide covers everything you need to know to succeed.</p>
 
 </div>
 
@@ -37,42 +37,46 @@ Senders are the entrepreneurs who:
 
 ### Seven Phases to Sovereignty
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Your Progression Path
+<h3>📈 Your Progression Path</h3>
 
-1. **✨ Spark** - Create and pitch your idea
-2. **⚔️ Forge** - Compete for ownership rights
-3. **🚀 Ignition** - Build your MVP publicly
-4. **🌊 Drift** - Find product-market fit
-5. **🛸 Orbit** - Achieve stable operations
-6. **🔥 Flare** - Scale with major funding
-7. **🎖️ Ascension** - Graduate to full independence</div>
+<p>1. **✨ Spark** - Create and pitch your idea</p>
+<p>2. **⚔️ Forge** - Compete for ownership rights</p>
+<p>3. **🚀 Ignition** - Build your MVP publicly</p>
+<p>4. **🌊 Drift** - Find product-market fit</p>
+<p>5. **🛸 Orbit** - Achieve stable operations</p>
+<p>6. **🔥 Flare** - Scale with major funding</p>
+</div>
 
 ## Core Responsibilities
 
 ### 1. Transparent Building
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 Public Accountability
+<h3>🔍 Public Accountability</h3>
 
-**Daily Requirements:**
+<p>**Daily Requirements:**</p>
 
-- Progress updates in Arena
-- Respond to community questions
-- Share learnings and challenges
-- Document milestone progress
-- Engage with supporters
+<ul>
+<li>Progress updates in Arena</li>
+<li>Respond to community questions</li>
+<li>Share learnings and challenges</li>
+<li>Document milestone progress</li>
+<li>Engage with supporters</li>
 
-**Benefits:**
+</ul>
+<p>**Benefits:**</p>
 
-- Early problem detection
-- Community wisdom access
-- Built-in user base
-- Continuous feedback loop
-- Accountability pressure
+<ul>
+<li>Early problem detection</li>
+<li>Community wisdom access</li>
+<li>Built-in user base</li>
+<li>Continuous feedback loop</li>
+<li>Accountability pressure</li>
 
+</ul>
 </div>
 
 ### 2. Milestone Delivery
@@ -87,18 +91,20 @@ Senders are the entrepreneurs who:
 
 ### 3. Community Engagement
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Building Your Echo Army
+<h3>👥 Building Your Echo Army</h3>
 
-**Engagement Strategies:**
+<p>**Engagement Strategies:**</p>
 
-- Host weekly AMAs
-- Share behind-the-scenes content
-- Celebrate supporter wins
-- Address doubter concerns
-- Build genuine relationships
+<ul>
+<li>Host weekly AMAs</li>
+<li>Share behind-the-scenes content</li>
+<li>Celebrate supporter wins</li>
+<li>Address doubter concerns</li>
+<li>Build genuine relationships</li>
 
+</ul>
 </div>
 
 ## The Sender Mindset
@@ -133,25 +139,31 @@ Senders are the entrepreneurs who:
 
 ### The Digital Journey
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎨 NFT Progression
+<h3>🎨 NFT Progression</h3>
 
-1. **Spark NFT**
-   - Your original idea
-   - Created from remixed IPs
-   - Entry ticket to Arena
+<p>1. **Spark NFT**</p>
+<ul>
+<li>Your original idea</li>
+<li>Created from remixed IPs</li>
+<li>Entry ticket to Arena</li>
 
-2. **Signal NFT**
-   - Won through Forge victory
-   - Tracks your entire journey
-   - Governance rights holder
+</ul>
+<p>2. **Signal NFT**</p>
+<ul>
+<li>Won through Forge victory</li>
+<li>Tracks your entire journey</li>
+<li>Governance rights holder</li>
 
-3. **Halo NFT**
-   - Locked until Ascension
-   - Proof of sovereignty
-   - Ultimate achievement
+</ul>
+<p>3. **Halo NFT**</p>
+<ul>
+<li>Locked until Ascension</li>
+<li>Proof of sovereignty</li>
+<li>Ultimate achievement</li>
 
+</ul>
 </div>
 
 ## Economic Model
@@ -165,21 +177,24 @@ Senders are the entrepreneurs who:
 - **Drift Phase** : Growth capital (50,000-200,000 $SIGNAL)
 - **Orbit Phase** : Stability funding (200,000-1M $SIGNAL)
 - **Flare Phase** : Scale capital (1M-10M $SIGNAL)
-- **Ascension** : Buyback funds (Variable)
+- **Ascension** : Buyback funds (Variable)**
+
 ### Token Economics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Understanding Stakes
+<h3>💰 Understanding Stakes</h3>
 
-**Belief Signals = Your Funding:**
+<p>**Belief Signals = Your Funding:**</p>
 
-- Supporters stake tokens on your success
-- You receive funds progressively
-- Failed milestones burn believer stakes
-- Success multiplies supporter returns
-- Your reputation affects future funding
+<ul>
+<li>Supporters stake tokens on your success</li>
+<li>You receive funds progressively</li>
+<li>Failed milestones burn believer stakes</li>
+<li>Success multiplies supporter returns</li>
+<li>Your reputation affects future funding</li>
 
+</ul>
 </div>
 
 ## Success Factors
@@ -214,26 +229,30 @@ Senders are the entrepreneurs who:
 
 ### What to Avoid
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚠️ Sender Mistakes
+<h3>⚠️ Sender Mistakes</h3>
 
-**Fatal Errors:**
+<p>**Fatal Errors:**</p>
 
-- Overpromising on milestones
-- Going dark during challenges
-- Ignoring community feedback
-- Burning supporter trust
-- Focusing only on believers
+<ul>
+<li>Overpromising on milestones</li>
+<li>Going dark during challenges</li>
+<li>Ignoring community feedback</li>
+<li>Burning supporter trust</li>
+<li>Focusing only on believers</li>
 
-**Early Warning Signs:**
+</ul>
+<p>**Early Warning Signs:**</p>
 
-- Decreasing signal strength
-- Rising doubt percentages
-- Community disengagement
-- Anchor concerns
-- Milestone delays
+<ul>
+<li>Decreasing signal strength</li>
+<li>Rising doubt percentages</li>
+<li>Community disengagement</li>
+<li>Anchor concerns</li>
+<li>Milestone delays</li>
 
+</ul>
 </div>
 
 ## Daily Routines
@@ -265,29 +284,41 @@ Senders are the entrepreneurs who:
 
 ### Container DAO Formation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 👥 Team Composition
+<h3>👥 Team Composition</h3>
 
-**Core Roles Needed:**
-1. **Technical Lead**
-   - Build the product
-2. **Community Manager**
-   - Engage supporters
-3. **Operations Lead**
-   - Handle logistics
-4. **Growth Lead**
-   - Drive adoption
-5. **Anchor Liaison**
-   - Manage validations
+<p>**Core Roles Needed:**</p>
+<p>1. **Technical Lead**</p>
+<ul>
+<li>Build the product</li>
+</ul>
+<p>2. **Community Manager**</p>
+<ul>
+<li>Engage supporters</li>
+</ul>
+<p>3. **Operations Lead**</p>
+<ul>
+<li>Handle logistics</li>
+</ul>
+<p>4. **Growth Lead**</p>
+<ul>
+<li>Drive adoption</li>
+</ul>
+<p>5. **Anchor Liaison**</p>
+<ul>
+<li>Manage validations</li>
 
-**Equity Alternative:**
+</ul>
+<p>**Equity Alternative:**</p>
 
-- Token allocations
-- Revenue sharing
-- Milestone bonuses
-- Reputation rewards
+<ul>
+<li>Token allocations</li>
+<li>Revenue sharing</li>
+<li>Milestone bonuses</li>
+<li>Reputation rewards</li>
 
+</ul>
 </div>
 
 ## Reputation Building
@@ -314,26 +345,30 @@ Senders are the entrepreneurs who:
 
 ### Track What Matters
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Key Performance Indicators
+<h3>📊 Key Performance Indicators</h3>
 
-**Weekly Metrics:**
+<p>**Weekly Metrics:**</p>
 
-- Signal growth rate
-- Belief/doubt ratio
-- Engagement rate
-- Milestone progress
-- Team velocity
+<ul>
+<li>Signal growth rate</li>
+<li>Belief/doubt ratio</li>
+<li>Engagement rate</li>
+<li>Milestone progress</li>
+<li>Team velocity</li>
 
-**Phase Metrics:**
+</ul>
+<p>**Phase Metrics:**</p>
 
-- Time to advancement
-- Success rate
-- Community size
-- Revenue/usage growth
-- Anchor satisfaction
+<ul>
+<li>Time to advancement</li>
+<li>Success rate</li>
+<li>Community size</li>
+<li>Revenue/usage growth</li>
+<li>Anchor satisfaction</li>
 
+</ul>
 </div>
 
 ## Getting Started Checklist

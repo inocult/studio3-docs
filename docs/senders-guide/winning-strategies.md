@@ -2,11 +2,11 @@
 
 ## Mastering The Forge Competition
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏆 The Victor's Playbook
+<h3>🏆 The Victor's Playbook</h3>
 
-Winning The Forge requires more than a good idea - it demands superior strategy, flawless execution, and the ability to inspire belief. This guide reveals the tactics that separate winners from runners-up.
+<p>Winning The Forge requires more than a good idea - it demands superior strategy, flawless execution, and the ability to inspire belief. This guide reveals the tactics that separate winners from runners-up.</p>
 
 </div>
 
@@ -14,39 +14,47 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 ### Understanding the Voters
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🧠 Voter Motivations
+<h3>🧠 Voter Motivations</h3>
 
-**Echoes Vote Based On:**
+<p>**Echoes Vote Based On:**</p>
 
-1. **Return Potential** (40%)
-   - Milestone achievability
-   - Market opportunity
-   - Execution capability
-   - Exit possibilities
+<p>1. **Return Potential** (40%)</p>
+<ul>
+<li>Milestone achievability</li>
+<li>Market opportunity</li>
+<li>Execution capability</li>
+<li>Exit possibilities</li>
 
-2. **Founder Quality** (30%)
-   - Track record
-   - Communication skills
-   - Resilience indicators
-   - Learning ability
+</ul>
+<p>2. **Founder Quality** (30%)</p>
+<ul>
+<li>Track record</li>
+<li>Communication skills</li>
+<li>Resilience indicators</li>
+<li>Learning ability</li>
 
-3. **Vision Alignment** (20%)
-   - Values match
-   - Long-term thinking
-   - Community benefit
-   - Innovation level
+</ul>
+<p>3. **Vision Alignment** (20%)</p>
+<ul>
+<li>Values match</li>
+<li>Long-term thinking</li>
+<li>Community benefit</li>
+<li>Innovation level</li>
 
-4. **Risk Assessment** (10%)
-   - Failure probability
+</ul>
+<p>4. **Risk Assessment** (10%)</p>
+<ul>
+<li>Failure probability</li>
 
-- Mitigation plans
+<li>Mitigation plans</li>
 
-- Backup strategies
+<li>Backup strategies</li>
 
-- Team depth
+<li>Team depth</li>
 
+</ul>
 </div>
 
 ### Emotional Triggers
@@ -62,85 +70,101 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 ### Differentiation Framework
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Standing Out
+<h3>🎯 Standing Out</h3>
 
-**Four Positioning Strategies:**
-1. **The Expert**
-   - Deep domain knowledge
-   - Technical superiority
-   - Industry connections
-   - Proven methods
+<p>**Four Positioning Strategies:**</p>
+<p>1. **The Expert**</p>
+<ul>
+<li>Deep domain knowledge</li>
+<li>Technical superiority</li>
+<li>Industry connections</li>
+<li>Proven methods</li>
 
-2. **The Innovator**
-   - Novel approach
-   - Creative solutions
-   - Breakthrough thinking
-   - First-mover advantage
+</ul>
+<p>2. **The Innovator**</p>
+<ul>
+<li>Novel approach</li>
+<li>Creative solutions</li>
+<li>Breakthrough thinking</li>
+<li>First-mover advantage</li>
 
-3. **The Executor**
-   - Delivery track record
-   - Operational excellence
-   - Speed to market
-   - Reliability focus
+</ul>
+<p>3. **The Executor**</p>
+<ul>
+<li>Delivery track record</li>
+<li>Operational excellence</li>
+<li>Speed to market</li>
+<li>Reliability focus</li>
 
-4. **The Community Builder**
-   - Engagement master
-   - Value sharing
-   - Collaborative approach
+</ul>
+<p>4. **The Community Builder**</p>
+<ul>
+<li>Engagement master</li>
+<li>Value sharing</li>
+<li>Collaborative approach</li>
 
-- Network effects
+<li>Network effects</li>
 
+</ul>
 </div>
 
 ### Competitive Analysis
 
-**Know Your Opponents:
-**| Analysis Area | What to Assess |
+**Know Your Opponents:**
+**| Analysis Area | What to Assess |**
 |--------------|----------------|
-|**Strengths** | What they do well |
-|**Weaknesses** | Where they're vulnerable |
-|**Strategy** | Their likely approach |
-|**Supporters** | Who backs them |
-|**Narrative** | Their story |
+| **Strengths** | What they do well  |
+| **Weaknesses** | Where they're vulnerable  |
+| **Strategy** | Their likely approach  |
+| **Supporters** | Who backs them  |
+| **Narrative** | Their story |
 
 ## Pre-Duel Preparation
 
 ### The 30-Day Sprint
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 Preparation Timeline
+<h3>📅 Preparation Timeline</h3>
 
-**Days 1-7: Foundation**
+<p>**Days 1-7: Foundation**</p>
 
-- Analyze the Spark deeply
-- Research all IPs involved
-- Study market dynamics
-- Define your angle
+<ul>
+<li>Analyze the Spark deeply</li>
+<li>Research all IPs involved</li>
+<li>Study market dynamics</li>
+<li>Define your angle</li>
 
-**Days 8-14: Building**
+</ul>
+<p>**Days 8-14: Building**</p>
 
-- Create core materials
-- Develop prototypes
-- Secure endorsements
-- Build team
+<ul>
+<li>Create core materials</li>
+<li>Develop prototypes</li>
+<li>Secure endorsements</li>
+<li>Build team</li>
 
-**Days 15-21: Testing**
+</ul>
+<p>**Days 15-21: Testing**</p>
 
-- Practice presentations
-- Get feedback
-- Refine messaging
-- Stress test plans
+<ul>
+<li>Practice presentations</li>
+<li>Get feedback</li>
+<li>Refine messaging</li>
+<li>Stress test plans</li>
 
-**Days 22-30: Launch Prep**
+</ul>
+<p>**Days 22-30: Launch Prep**</p>
 
-- Coordinate supporters
-- Finalize materials
-- Mental preparation
-- Rest and recharge
+<ul>
+<li>Coordinate supporters</li>
+<li>Finalize materials</li>
+<li>Mental preparation</li>
+<li>Rest and recharge</li>
 
+</ul>
 </div>
 
 ### Material Development
@@ -155,7 +179,8 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 - Milestone roadmap
 
 2. **Demo Assets**
-- ** Prototype video
+
+- **Prototype video**
 - User testimonials
 
 - Technical proof
@@ -163,7 +188,8 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 - Market validation
 
 3. **Support Documents**
-- ** One-pager summary
+
+- **One-pager summary**
 
 - Technical whitepaper
 
@@ -175,43 +201,45 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 ### Day One Dominance
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Launch Strong
-** First 6 Hours:
-1. **The Announcement**
- (Hour 1) Compelling entry post
+<h3>🚀 Launch Strong</h3>
+<p>** First 6 Hours:**</p>
+<p>1. **The Announcement**</p>
+<p>(Hour 1) Compelling entry post</p>
 
-- Clear value proposition
+<ul>
+<li>Clear value proposition</li>
 
-- Strong visuals
+<li>Strong visuals</li>
 
-- Call to action
+<li>Call to action</li>
 
-- 2.**The Flood**  (Hours 2
-- 3)
-- Supporter testimonials
+<li>2.**The Flood**  (Hours 2</li>
+<li>3)</li>
+<li>Supporter testimonials</li>
 
-- Media coverage
+<li>Media coverage</li>
 
-- Social amplification
+<li>Social amplification</li>
 
-- Discord activity
+<li>Discord activity</li>
 
-- 3.**The Engagement**  (Hours 4
-- 6)
-- Answer every question
+<li>3.**The Engagement**  (Hours 4</li>
+<li>6)</li>
+<li>Answer every question</li>
 
-- Thank supporters
+<li>Thank supporters</li>
 
-- Address concerns
+<li>Address concerns</li>
 
-- Build momentum
+<li>Build momentum</li>
 
+</ul>
 </div>
 
 ### Momentum Tactics
-** Building Unstoppable Force:
+** Building Unstoppable Force:**
 - **Social Proof**
 - Show growing support
 - **Daily Wins**
@@ -222,32 +250,43 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 - Credibility boost
 - **Community Events**
 - Deep engagement
+
 ## Mid-Duel Tactics
 
 ### Maintaining Leadership
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚡ Sustaining Energy
-**Daily Playbook:** Morning (2 hours)** Status update
-- ** Metric review
-- Team sync
-- Content creation
-**Afternoon (4 hours)
-- ** Community engagement
-- Competitor monitoring
-- Strategy adjustment
-- Supporter outreach
-**Evening (2 hours)
-- ** Wrap-up post
-- Next day planning
-- Team debrief
-- Rest
+<h3>⚡ Sustaining Energy</h3>
+<p>**Daily Playbook:** Morning (2 hours)</p>
 
+<p>Status update</p>
+<ul>
+<li>**Metric review**</li>
+<li>Team sync</li>
+<li>Content creation</li>
+
+</ul>
+<p>**Afternoon (4 hours)**</p>
+<ul>
+<li>**Community engagement**</li>
+<li>Competitor monitoring</li>
+<li>Strategy adjustment</li>
+<li>Supporter outreach</li>
+
+</ul>
+<p>**Evening (2 hours)**</p>
+<ul>
+<li>**Wrap-up post**</li>
+<li>Next day planning</li>
+<li>Team debrief</li>
+<li>Rest</li>
+
+</ul>
 </div>
 
 ### Handling Attacks
-** Defensive Strategies:
+** Defensive Strategies:**
 1. **Stay Above the Fray**
  Don't engage in mudslinging
 
@@ -256,13 +295,15 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 - Let work speak
 
 2. **Address Factually**
-- ** Correct misinformation
+
+- **Correct misinformation**
 - Provide evidence
 
 - Stay professional
 
 3. **Turn Negative to Positive**
-- ** Show grace under pressure
+
+- **Show grace under pressure**
 - Demonstrate resilience
 
 - Build sympathy
@@ -271,25 +312,30 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 ### The Pivot Play
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔄 Strategic Adaptation
-** When to Pivot:
-- ** Competitor has better angle
-- Community wants different approach
-- Market feedback suggests change
-- Technical barriers discovered
-** How to Pivot:
-1. Acknowledge honestly
-2. Explain reasoning
-3. Show flexibility
-4. Maintain confidence
-5. Execute flawlessly
+<h3>🔄 Strategic Adaptation</h3>
+<p>** When to Pivot:**</p>
+<ul>
+<li>**Competitor has better angle**</li>
+<li>Community wants different approach</li>
+<li>Market feedback suggests change</li>
+<li>Technical barriers discovered</li>
+
+</ul>
+<p>** How to Pivot:**</p>
+<p>1. Acknowledge honestly</p>
+<p>2. Explain reasoning</p>
+<p>3. Show flexibility</p>
+<p>4. Maintain confidence</p>
+<p>5. Execute flawlessly</p>
 
 </div>
 
 ### Coalition Building
-** Creating Alliances:
+
+
+Creating Alliances:**
 - **Early Supporters**
 - Your evangelists
 - **Domain Experts**
@@ -300,62 +346,80 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 - Ecosystem support
 - **Anchor Interest**
 - Validation preview
+
 ### The Underdog Strategy
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎲 David vs Goliath
-** If You're Behind:
-1. **Change the Narrative**
- Heart over credentials
+<h3>🎲 David vs Goliath</h3>
+<p>** If You're Behind:**</p>
+<p>1. **Change the Narrative**</p>
+<p>Heart over credentials</p>
 
-- Community over capital
+<ul>
+<li>Community over capital</li>
 
-- Innovation over experience
+<li>Innovation over experience</li>
 
-2. **Take Calculated Risks**
-- ** Bold promises (achievable)
-- Unique approaches
+</ul>
+<p>2. **Take Calculated Risks**</p>
 
-- Controversial positions
+<ul>
+<li>**Bold promises (achievable)**</li>
+<li>Unique approaches</li>
 
-3. **Rally the Base**
-- ** Us vs them messaging
-- Emotional appeals
+<li>Controversial positions</li>
 
-- Grassroots energy
+</ul>
+<p>3. **Rally the Base**</p>
 
+<ul>
+<li>**Us vs them messaging**</li>
+<li>Emotional appeals</li>
+
+<li>Grassroots energy</li>
+
+</ul>
 </div>
 
 ## Closing Strong
 
 ### Final 48 Hours
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏁 The Final Sprint
-** 48 Hours Out:
-- ** Summary presentation
-- Major announcement
-- Media blitz
-- Supporter rally
-** 24 Hours Out:
-- ** Final AMA
-- Closing argument
-- Thank supporters
-- Rest briefly
-** Final Day:
-- ** Morning motivation
-- Continuous engagement
-- Real-time updates
-- Victory preparation
+<h3>🏁 The Final Sprint</h3>
+<p>** 48 Hours Out:**</p>
+<ul>
+<li>**Summary presentation**</li>
+<li>Major announcement</li>
+<li>Media blitz</li>
+<li>Supporter rally</li>
 
+</ul>
+<p>** 24 Hours Out:**</p>
+<ul>
+<li>**Final AMA**</li>
+<li>Closing argument</li>
+<li>Thank supporters</li>
+<li>Rest briefly</li>
+
+</ul>
+<p>** Final Day:**</p>
+<ul>
+<li>**Morning motivation**</li>
+<li>Continuous engagement</li>
+<li>Real-time updates</li>
+<li>Victory preparation</li>
+
+</ul>
 </div>
 
 ### The Closing Argument
-** Structure for Impact:
+** Structure for Impact:**
 1. **Recap Journey**
-- ** What you've shown
+
+- **What you've shown**
 - 2.** Address Concerns
 - Final clarifications  
 3. **Paint the Future**
@@ -367,26 +431,31 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 ### Ethical Influence
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎭 Persuasion Tactics
+<h3>🎭 Persuasion Tactics</h3>
 
-** Allowed Techniques:
-- ** Highlighting competitor weaknesses
-- Questioning feasibility
-- Comparing track records
-- Debating approaches
-** Forbidden Tactics:
-- ** Personal attacks
-- Spreading falsehoods
-- Stake manipulation
-- Bribery/collusion
+<p>** Allowed Techniques:**</p>
+<ul>
+<li>**Highlighting competitor weaknesses**</li>
+<li>Questioning feasibility</li>
+<li>Comparing track records</li>
+<li>Debating approaches</li>
 
+</ul>
+<p>** Forbidden Tactics:**</p>
+<ul>
+<li>**Personal attacks**</li>
+<li>Spreading falsehoods</li>
+<li>Stake manipulation</li>
+<li>Bribery/collusion</li>
+
+</ul>
 </div>
 
 ### Reading the Room
-** Signals to Watch:
-- ** Comment sentiment
+** Signals to Watch:**
+- **Comment sentiment**
 - Question types
 - Supporter growth rate
 - Competitor mistakes
@@ -396,84 +465,105 @@ Winning The Forge requires more than a good idea - it demands superior strategy,
 
 ### When You Win
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎉 Post-Victory Actions
-** Immediate (1 hour):
-1. Thank supporters publicly
-2. Acknowledge opponents gracefully
-3. Share immediate plans
-4. Celebrate briefly
-** First Day:
-- ** Claim Signal NFT
-- Contact core supporters
-- Begin DAO formation
-- Plan first milestone
-- Keep momentum
-** First Week:
-- ** Onboard team
-- Set up operations
-- Launch Container DAO
-- Announce roadmap
-- Maintain engagement
+<h3>🎉 Post-Victory Actions</h3>
+<p>** Immediate (1 hour):**</p>
+<p>1. Thank supporters publicly</p>
+<p>2. Acknowledge opponents gracefully</p>
+<p>3. Share immediate plans</p>
+<p>4. Celebrate briefly</p>
 
+
+
+<p>First Day:**</p>
+<ul>
+<li>**Claim Signal NFT**</li>
+<li>Contact core supporters</li>
+<li>Begin DAO formation</li>
+<li>Plan first milestone</li>
+<li>Keep momentum</li>
+
+</ul>
+<p>** First Week:**</p>
+<ul>
+<li>**Onboard team**</li>
+<li>Set up operations</li>
+<li>Launch Container DAO</li>
+<li>Announce roadmap</li>
+<li>Maintain engagement</li>
+
+</ul>
 </div>
 
 ## Learning from Legends
 
 ### Case Studies
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 The Comeback Kid
-** SolarFi's Victory:
-- ** Started 3rd of 4
-- Lost early momentum
-- Pivoted approach
-- Built coalition
-- Won by 2%
-** Key Tactics:
-- ** Listened to feedback
-- Adapted quickly
-- Stayed positive
-- Outworked everyone
-- Built genuine connections
+<h3>🌟 The Comeback Kid</h3>
+<p>** SolarFi's Victory:**</p>
+<ul>
+<li>**Started 3rd of 4**</li>
+<li>Lost early momentum</li>
+<li>Pivoted approach</li>
+<li>Built coalition</li>
+<li>Won by 2%</li>
 
+</ul>
+<p>** Key Tactics:**</p>
+<ul>
+<li>**Listened to feedback**</li>
+<li>Adapted quickly</li>
+<li>Stayed positive</li>
+<li>Outworked everyone</li>
+<li>Built genuine connections</li>
+
+</ul>
 </div>
 
 ## Tools & Resources
 
 ### Victory Arsenal
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🛠️ Essential Tools
-** Analytics:
-- ** Signal tracking dashboard
-- Sentiment analysis
-- Competitor monitoring
-- Engagement metrics
-** Content Creation:
-- ** Canva for graphics
-- Loom for videos
-- Twitter scheduling
-- Discord bots
-** Team Coordination:
-- ** Notion workspace
-- Telegram group
-- Calendar sync
-- Task management
+<h3>🛠️ Essential Tools</h3>
+<p>** Analytics:**</p>
+<ul>
+<li>**Signal tracking dashboard**</li>
+<li>Sentiment analysis</li>
+<li>Competitor monitoring</li>
+<li>Engagement metrics</li>
 
+</ul>
+<p>** Content Creation:**</p>
+<ul>
+<li>**Canva for graphics**</li>
+<li>Loom for videos</li>
+<li>Twitter scheduling</li>
+<li>Discord bots</li>
+
+</ul>
+<p>** Team Coordination:**</p>
+<ul>
+<li>**Notion workspace**</li>
+<li>Telegram group</li>
+<li>Calendar sync</li>
+<li>Task management</li>
+
+</ul>
 </div>
 
 ## Next Steps
 
 ### Continue Your Journey
-**Post-Victory:→ Move to [Container DAO Setup](container-dao.md)
-** During Competition:
-**→ Review [Duel Preparation](duel-preparation.md)
-** Building Phase:
-**→ Study [Milestone Planning](milestone-planning.md)
+**Post-Victory:→ Move to [Container DAO Setup](container-dao.md)**
+** During Competition:**
+**→ Review [Duel Preparation](duel-preparation.md)**
+** Building Phase:**
+**→ Study [Milestone Planning](milestone-planning.md)**
 
 ---
 

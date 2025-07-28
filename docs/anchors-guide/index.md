@@ -12,58 +12,70 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 ## 📚 Guide Contents
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 1. Anchor Fundamentals
-- <a href="anchor-role.md">The Anchor Role</a>
-- <a href="responsibilities.md">Core Responsibilities</a>
-- <a href="requirements.md">Qualification Requirements</a>
+<h3>1. Anchor Fundamentals</h3>
+<ul>
+<li><a href="anchor-role.md">The Anchor Role</a></li>
+<li><a href="responsibilities.md">Core Responsibilities</a></li>
+<li><a href="requirements.md">Qualification Requirements</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 2. Validation Process
-- <a href="validation-framework/">Validation Framework</a>
-- <a href="milestone-review/">Milestone Review Process</a>
-- <a href="evidence-assessment/">Evidence Assessment</a>
+<h3>2. Validation Process</h3>
+<ul>
+<li><a href="validation-framework/">Validation Framework</a></li>
+<li><a href="milestone-review/">Milestone Review Process</a></li>
+<li><a href="evidence-assessment/">Evidence Assessment</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 3. Mentorship
-- <a href="guiding-founders/">Guiding Founders</a>
-- <a href="strategic-advice/">Strategic Advice</a>
-- <a href="crisis-management/">Crisis Management</a>
+<h3>3. Mentorship</h3>
+<ul>
+<li><a href="guiding-founders/">Guiding Founders</a></li>
+<li><a href="strategic-advice/">Strategic Advice</a></li>
+<li><a href="crisis-management/">Crisis Management</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 4. Quality Standards
-- <a href="quality-criteria/">Quality Criteria</a>
-- <a href="red-flags/">Identifying Red Flags</a>
-- <a href="best-practices/">Validation Best Practices</a>
+<h3>4. Quality Standards</h3>
+<ul>
+<li><a href="quality-criteria/">Quality Criteria</a></li>
+<li><a href="red-flags/">Identifying Red Flags</a></li>
+<li><a href="best-practices/">Validation Best Practices</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 5. Advanced Topics
-- <a href="dispute-resolution/">Dispute Resolution</a>
-- <a href="ecosystem-governance/">Ecosystem Governance</a>
-- <a href="anchor-council/">Anchor Council</a>
+<h3>5. Advanced Topics</h3>
+<ul>
+<li><a href="dispute-resolution/">Dispute Resolution</a></li>
+<li><a href="ecosystem-governance/">Ecosystem Governance</a></li>
+<li><a href="anchor-council/">Anchor Council</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 6. Growth & Rewards
-- <a href="anchor-progression/">Progression Levels</a>
-- <a href="compensation/">Compensation Structure</a>
-- <a href="reputation-management/">Reputation Management</a>
+<h3>6. Growth & Rewards</h3>
+<ul>
+<li><a href="anchor-progression/">Progression Levels</a></li>
+<li><a href="compensation/">Compensation Structure</a></li>
+<li><a href="reputation-management/">Reputation Management</a></li>
 
+</ul>
 </div>
 </div>
 
@@ -89,32 +101,36 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 ## 🎓 Anchor Qualifications
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### Minimum Requirements
-- ✅ Successful venture exit (any ecosystem)
-- ✅ 5+ years building experience
+<h3>Minimum Requirements</h3>
+<ul>
+<li>✅ Successful venture exit (any ecosystem)</li>
+<li>✅ 5+ years building experience</li>
 
-- ✅ Strong reputation in community
+<li>✅ Strong reputation in community</li>
 
-- ✅ Time commitment availability
+<li>✅ Time commitment availability</li>
 
-- ✅ Stake requirement met
+<li>✅ Stake requirement met</li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### Preferred Qualifications
-- 🌟 Multiple successful ventures
-- 🌟 Domain expertise in key areas
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>🌟 Multiple successful ventures</li>
+<li>🌟 Domain expertise in key areas</li>
 
-- 🌟 Mentorship experience
+<li>🌟 Mentorship experience</li>
 
-- 🌟 Technical due diligence skills
+<li>🌟 Technical due diligence skills</li>
 
-- 🌟 Network connections
+<li>🌟 Network connections</li>
 
+</ul>
 </div>
 </div>
 
@@ -131,52 +147,57 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 ## 🛠️ Validation Tools
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 📋 Checklists
-- Milestone Validation Checklist
-- Technical Review Template
+<p>#### 📋 Checklists</p>
+<ul>
+<li>Milestone Validation Checklist</li>
+<li>Technical Review Template</li>
 
-- Market Validation Framework
+<li>Market Validation Framework</li>
 
-- Team Assessment Guide
+<li>Team Assessment Guide</li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🔍 Assessment Tools
-- Code Review Platform
-- Market Analysis Dashboard
+<p>#### 🔍 Assessment Tools</p>
+<ul>
+<li>Code Review Platform</li>
+<li>Market Analysis Dashboard</li>
 
-- Team Performance Metrics
+<li>Team Performance Metrics</li>
 
-- Risk Assessment Matrix
+<li>Risk Assessment Matrix</li>
 
+</ul>
 </div>
 </div>
 
 ## 💰 Compensation Structure
 
 !!! info "Anchor Rewards"
+
     - **Base Fee** : 2-5% of milestone value
-- **    -**Performance Bonus** : Up to 3x for quality
-- **    -**Long-term Upside** : Success participation
-- **    -**Reputation Rewards** : Increased influence
-- **    -**Governance Rights**: Shape platform future**## 🌟 Notable Anchors
+- **-**Performance Bonus** : Up to 3x for quality
+- **-**Long-term Upside** : Success participation
+- **-**Reputation Rewards** : Increased influence
+- **-**Governance Rights**: Shape platform future**## 🌟 Notable Anchors
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### The Architect
-Master Anchor who guided 12 ventures to Ascension, specializing in technical architecture and scalability.
+<p>#### The Architect</p>
+<p>Master Anchor who guided 12 ventures to Ascension, specializing in technical architecture and scalability.</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### The Strategist
-Council Member known for helping ventures navigate difficult pivots and find product-market fit.
+<p>#### The Strategist</p>
+<p>Council Member known for helping ventures navigate difficult pivots and find product-market fit.</p>
 
 </div>
 </div>

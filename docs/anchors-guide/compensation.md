@@ -2,11 +2,11 @@
 
 ## Rewarding Excellence in Validation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💰 Earning as an Anchor
+<h3>💰 Earning as an Anchor</h3>
 
-Being an Anchor isn't just about serving the ecosystem - it's a rewarding career path with multiple income streams. This guide details how compensation works, strategies for maximizing earnings, and the financial opportunities available at each level.
+<p>Being an Anchor isn't just about serving the ecosystem - it's a rewarding career path with multiple income streams. This guide details how compensation works, strategies for maximizing earnings, and the financial opportunities available at each level.</p>
 
 </div>
 
@@ -14,597 +14,671 @@ Being an Anchor isn't just about serving the ecosystem - it's a rewarding career
 
 ### Income Structure
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Multiple Revenue Streams
+<h3>📊 Multiple Revenue Streams</h3>
 
-**Core Income Sources:**
+<p>**Core Income Sources:**</p>
 
-1. **Base Validation Fees**
-   - Per-milestone payments
-   - Complexity multipliers
-   - Phase adjustments
-   - Quality bonuses
+<p>1. **Base Validation Fees**</p>
+<ul>
+<li>Per-milestone payments</li>
+<li>Complexity multipliers</li>
+<li>Phase adjustments</li>
+<li>Quality bonuses</li>
 
-2. **Performance Rewards**
-   - Accuracy bonuses
-   - Speed incentives
-   - Streak rewards
-   - Excellence recognition
+</ul>
+<p>2. **Performance Rewards**</p>
+<ul>
+<li>Accuracy bonuses</li>
+<li>Speed incentives</li>
+<li>Streak rewards</li>
+<li>Excellence recognition</li>
 
-3. **Additional Opportunities**
-   - Mentorship programs
-   - Training delivery
-   - Content creation
-   - Strategic advisory
+</ul>
+<p>3. **Additional Opportunities**</p>
+<ul>
+<li>Mentorship programs</li>
+<li>Training delivery</li>
+<li>Content creation</li>
+<li>Strategic advisory</li>
 
-**Typical Income Breakdown:**
+</ul>
+<p>**Typical Income Breakdown:**</p>
 
 ```text
-Anchor Monthly Income
-├── Base Validations (60-70%)
-├── Performance Bonuses (15-20%)
-├── Mentorship (10-15%)
-└── Other Activities (5-10%)
+<p>Anchor Monthly Income</p>
+<p>├── Base Validations (60-70%)</p>
+<p>├── Performance Bonuses (15-20%)</p>
+<p>├── Mentorship (10-15%)</p>
+<p>└── Other Activities (5-10%)</p>
 ```
 
 </div>
 
 ### Token Economics
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 $SIGNAL Token Rewards
+<h3>📈 $SIGNAL Token Rewards</h3>
 
-**How Anchors Earn:**
+<p>**How Anchors Earn:**</p>
 
 ```python
-def calculate_anchor_reward(milestone_value, complexity, performance):
-    # Base calculation
-    base_reward = milestone_value * 0.03  # 3% base rate
-    
-    # Complexity multiplier
-    complexity_bonus = {
-        "simple": 1.0,
-        "moderate": 1.3,
-        "complex": 1.6,
-        "critical": 2.0
-    }
-    
-    # Performance multiplier
-    performance_bonus = min(performance / 100, 1.5)  # Up to 50% bonus
-    
-    total_reward = base_reward * complexity_bonus[complexity] * performance_bonus
-    
-    return total_reward
+<p>def calculate_anchor_reward(milestone_value, complexity, performance):</p>
+<h1>Base calculation</h1>
+<p>base_reward = milestone_value * 0.03  # 3% base rate</p>
+
+<h1>Complexity multiplier</h1>
+<p>complexity_bonus = {</p>
+<p>"simple": 1.0,</p>
+<p>"moderate": 1.3,</p>
+<p>"complex": 1.6,</p>
+<p>"critical": 2.0</p>
+<p>}</p>
+
+<h1>Performance multiplier</h1>
+<p>performance_bonus = min(performance / 100, 1.5)  # Up to 50% bonus</p>
+
+<p>total_reward = base_reward * complexity_bonus[complexity] * performance_bonus</p>
+
+<p>return total_reward</p>
 ```
 
-**Token Value Factors:**
+<p>**Token Value Factors:**</p>
 
-- Platform growth
-- Ecosystem activity
-- Token utility expansion
-- Market conditions
-- Staking mechanics
+<ul>
+<li>Platform growth</li>
+<li>Ecosystem activity</li>
+<li>Token utility expansion</li>
+<li>Market conditions</li>
+<li>Staking mechanics</li>
 
+</ul>
 </div>
 
 ## Base Compensation
 
 ### Validation Fee Structure
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💵 Per-Validation Earnings
+<h3>💵 Per-Validation Earnings</h3>
 
-**Base Rate Schedule:**
+<p>**Base Rate Schedule:**</p>
 
-| Milestone Value | Base Fee | Complexity Multiplier | Time Allocation |
-|-----------------|----------|----------------------|----------------|
-| <$10K | $300-500 | 1.0-1.5x | 2-4 hours |
-| $10-50K | $500-1,500 | 1.2-1.8x | 4-8 hours |
-| $50-100K | $1,500-3,000 | 1.5-2.0x | 8-16 hours |
-| $100K+ | $3,000+ | 2.0-3.0x | 16+ hours |
+<p>| Milestone Value | Base Fee | Complexity Multiplier | Time Allocation |</p>
+<p>|-----------------|----------|----------------------|----------------|</p>
+<p>| <$10K | $300-500 | 1.0-1.5x | 2-4 hours |</p>
+<p>| $10-50K | $500-1,500 | 1.2-1.8x | 4-8 hours |</p>
+<p>| $50-100K | $1,500-3,000 | 1.5-2.0x | 8-16 hours |</p>
+<p>| $100K+ | $3,000+ | 2.0-3.0x | 16+ hours |</p>
 
-**Phase Adjustments:**
+<p>**Phase Adjustments:**</p>
 
-- Spark/Forge: 1.3x multiplier
-- Ignition/Drift: 1.0x multiplier
-- Orbit/Flare: 0.8x multiplier
-- Ascension: 1.5x multiplier
+<ul>
+<li>Spark/Forge: 1.3x multiplier</li>
+<li>Ignition/Drift: 1.0x multiplier</li>
+<li>Orbit/Flare: 0.8x multiplier</li>
+<li>Ascension: 1.5x multiplier</li>
 
-**Specialization Premiums:**
+</ul>
+<p>**Specialization Premiums:**</p>
 
-- Deep tech: +25%
-- Regulated industries: +30%
-- Security critical: +40%
-- International/multi-region: +20%
+<ul>
+<li>Deep tech: +25%</li>
+<li>Regulated industries: +30%</li>
+<li>Security critical: +40%</li>
+<li>International/multi-region: +20%</li>
 
+</ul>
 </div>
 
 ### Monthly Income Targets
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 Earnings by Level
+<h3>📅 Earnings by Level</h3>
 
-**Typical Monthly Earnings:**
+<p>**Typical Monthly Earnings:**</p>
 
 ```text
-Junior Anchor (3-5 validations/month)
-- Base: $1,500-3,000
-- Bonuses: $300-600
-- Total: $1,800-3,600
+<p>Junior Anchor (3-5 validations/month)</p>
+<ul>
+<li>Base: $1,500-3,000</li>
+<li>Bonuses: $300-600</li>
+<li>Total: $1,800-3,600</li>
 
-Anchor (5-8 validations/month)
-- Base: $3,000-8,000
-- Bonuses: $900-2,400
-- Mentorship: $500-1,000
-- Total: $4,400-11,400
+</ul>
+<p>Anchor (5-8 validations/month)</p>
+<ul>
+<li>Base: $3,000-8,000</li>
+<li>Bonuses: $900-2,400</li>
+<li>Mentorship: $500-1,000</li>
+<li>Total: $4,400-11,400</li>
 
-Senior Anchor (8-12 validations/month)
-- Base: $8,000-18,000
-- Bonuses: $2,400-5,400
-- Leadership: $2,000-4,000
-- Total: $12,400-27,400
+</ul>
+<p>Senior Anchor (8-12 validations/month)</p>
+<ul>
+<li>Base: $8,000-18,000</li>
+<li>Bonuses: $2,400-5,400</li>
+<li>Leadership: $2,000-4,000</li>
+<li>Total: $12,400-27,400</li>
 
-Master Anchor (10-15 validations/month)
-- Base: $15,000-30,000
-- Bonuses: $4,500-9,000
-- Strategic: $5,000-10,000
-- Total: $24,500-49,000
+</ul>
+<p>Master Anchor (10-15 validations/month)</p>
+<ul>
+<li>Base: $15,000-30,000</li>
+<li>Bonuses: $4,500-9,000</li>
+<li>Strategic: $5,000-10,000</li>
+<li>Total: $24,500-49,000</li>
 ```
 
+</ul>
 </div>
 
 ## Performance Rewards
 
 ### Quality Bonuses
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⭐ Excellence Multipliers
+<h3>⭐ Excellence Multipliers</h3>
 
-**Performance Metrics:**
+<p>**Performance Metrics:**</p>
 
-| Metric | Threshold | Bonus |
-|--------|-----------|-------|
-| Accuracy Rate | >95% | +20% |
-| Zero Disputes | Monthly | +15% |
-| Founder Rating | >4.8/5 | +10% |
-| Speed | <3 days | +10% |
-| Documentation | Exemplary | +5% |
+<p>| Metric | Threshold | Bonus |</p>
+<p>|--------|-----------|-------|</p>
+<p>| Accuracy Rate | >95% | +20% |</p>
+<p>| Zero Disputes | Monthly | +15% |</p>
+<p>| Founder Rating | >4.8/5 | +10% |</p>
+<p>| Speed | <3 days | +10% |</p>
+<p>| Documentation | Exemplary | +5% |</p>
 
-**Streak Rewards:**
+<p>**Streak Rewards:**</p>
 
-- 10 perfect validations: +$1,000 bonus
-- 25 perfect validations: +$3,000 bonus
-- 50 perfect validations: +$7,500 bonus
-- 100 perfect validations: +$20,000 bonus
+<ul>
+<li>10 perfect validations: +$1,000 bonus</li>
+<li>25 perfect validations: +$3,000 bonus</li>
+<li>50 perfect validations: +$7,500 bonus</li>
+<li>100 perfect validations: +$20,000 bonus</li>
 
-**Excellence Recognition:**
+</ul>
+<p>**Excellence Recognition:**</p>
 
 ```python
-monthly_excellence_bonus = {
-    "top_10_percent": 2000,
-    "top_5_percent": 5000,
-    "top_anchor": 10000,
-    "quarterly_best": 25000,
-    "annual_excellence": 100000
-}
+<p>monthly_excellence_bonus = {</p>
+<p>"top_10_percent": 2000,</p>
+<p>"top_5_percent": 5000,</p>
+<p>"top_anchor": 10000,</p>
+<p>"quarterly_best": 25000,</p>
+<p>"annual_excellence": 100000</p>
+<p>}</p>
 ```
 
 </div>
 
 ### Efficiency Rewards
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⏱️ Speed and Scale Bonuses
+<h3>⏱️ Speed and Scale Bonuses</h3>
 
-**Velocity Incentives:**
+<p>**Velocity Incentives:**</p>
 
-**Fast Turnaround Bonus:**
+<p>**Fast Turnaround Bonus:**</p>
 
-- Same day: +30%
-- Next day: +20%
-- 2 days: +10%
-- 3+ days: Standard rate
+<ul>
+<li>Same day: +30%</li>
+<li>Next day: +20%</li>
+<li>2 days: +10%</li>
+<li>3+ days: Standard rate</li>
 
-**Volume Achievements:**
+</ul>
+<p>**Volume Achievements:**</p>
 
-| Monthly Validations | Bonus Per Validation |
-|--------------------|---------------------|
-| 5-7 | +$100 |
-| 8-10 | +$200 |
-| 11-15 | +$300 |
-| 16+ | +$500 |
+<p>| Monthly Validations | Bonus Per Validation |</p>
+<p>|--------------------|---------------------|</p>
+<p>| 5-7 | +$100 |</p>
+<p>| 8-10 | +$200 |</p>
+<p>| 11-15 | +$300 |</p>
+<p>| 16+ | +$500 |</p>
 
-**Efficiency Tools:**
+<p>**Efficiency Tools:**</p>
 
-- Automation bonuses
-- Template rewards
-- Process improvements
-- Knowledge sharing
+<ul>
+<li>Automation bonuses</li>
+<li>Template rewards</li>
+<li>Process improvements</li>
+<li>Knowledge sharing</li>
 
+</ul>
 </div>
 
 ## Additional Income
 
 ### Mentorship Programs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🤝 Teaching and Guiding
+<h3>🤝 Teaching and Guiding</h3>
 
-**Mentorship Compensation:**
+<p>**Mentorship Compensation:**</p>
 
-**Formal Mentoring:**
+<p>**Formal Mentoring:**</p>
 
-- Junior Anchor mentor: $500/month per mentee
-- Group sessions: $200/hour
-- Training workshops: $500/session
-- Curriculum development: $2,000/module
+<ul>
+<li>Junior Anchor mentor: $500/month per mentee</li>
+<li>Group sessions: $200/hour</li>
+<li>Training workshops: $500/session</li>
+<li>Curriculum development: $2,000/module</li>
 
-**Mentorship Structure:**
+</ul>
+<p>**Mentorship Structure:**</p>
 
 ```text
-Mentorship Commitment:
-├── Weekly 1:1 (1 hour)
-├── Review sessions (2 hours)
-├── On-demand support
-└── Progress tracking
+<p>Mentorship Commitment:</p>
+<p>├── Weekly 1:1 (1 hour)</p>
+<p>├── Review sessions (2 hours)</p>
+<p>├── On-demand support</p>
+<p>└── Progress tracking</p>
 
-Compensation: $500-1,000/month
+<p>Compensation: $500-1,000/month</p>
 ```
 
-**Scaling Mentorship:**
+<p>**Scaling Mentorship:**</p>
 
-- 1-3 mentees: Standard rate
-- 4-6 mentees: +20% per mentee
-- Group programs: Higher efficiency
-- Content creation: Passive income
+<ul>
+<li>1-3 mentees: Standard rate</li>
+<li>4-6 mentees: +20% per mentee</li>
+<li>Group programs: Higher efficiency</li>
+<li>Content creation: Passive income</li>
 
+</ul>
 </div>
 
 ### Content and Training
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📚 Knowledge Monetization
+<h3>📚 Knowledge Monetization</h3>
 
-**Content Creation Rewards:**
+<p>**Content Creation Rewards:**</p>
 
-| Content Type | Compensation | Ongoing Royalties |
-|--------------|--------------|-------------------|
-| Written Guide | $500-1,500 | $50/month if popular |
-| Video Tutorial | $1,000-2,500 | $100/month views |
-| Course Module | $2,000-5,000 | 10% of sales |
-| Tool Development | $5,000-15,000 | 20% of usage fees |
+<p>| Content Type | Compensation | Ongoing Royalties |</p>
+<p>|--------------|--------------|-------------------|</p>
+<p>| Written Guide | $500-1,500 | $50/month if popular |</p>
+<p>| Video Tutorial | $1,000-2,500 | $100/month views |</p>
+<p>| Course Module | $2,000-5,000 | 10% of sales |</p>
+<p>| Tool Development | $5,000-15,000 | 20% of usage fees |</p>
 
-**Training Delivery:**
+<p>**Training Delivery:**</p>
 
-- Live workshops: $500-1,500/session
-- Webinars: $300-800/hour
-- Conference speaking: $2,000-10,000
-- Corporate training: $5,000-15,000/day
+<ul>
+<li>Live workshops: $500-1,500/session</li>
+<li>Webinars: $300-800/hour</li>
+<li>Conference speaking: $2,000-10,000</li>
+<li>Corporate training: $5,000-15,000/day</li>
 
+</ul>
 </div>
 
 ### Strategic Advisory
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 High-Level Consulting
+<h3>🎯 High-Level Consulting</h3>
 
-**Advisory Opportunities:**
+<p>**Advisory Opportunities:**</p>
 
-**Venture Advisory:**
+<p>**Venture Advisory:**</p>
 
-- Strategic guidance: $500-1,500/hour
-- Board advisory: $2,000-5,000/month
-- Crisis intervention: $5,000-10,000/project
-- Growth consulting: 2-5% of value created
+<ul>
+<li>Strategic guidance: $500-1,500/hour</li>
+<li>Board advisory: $2,000-5,000/month</li>
+<li>Crisis intervention: $5,000-10,000/project</li>
+<li>Growth consulting: 2-5% of value created</li>
 
-**Platform Advisory:**
+</ul>
+<p>**Platform Advisory:**</p>
 
-- Policy development: $3,000-8,000/project
-- Standards creation: $5,000-12,000/framework
-- Ecosystem design: $10,000-25,000/initiative
-- Tool architecture: $15,000-40,000/system
+<ul>
+<li>Policy development: $3,000-8,000/project</li>
+<li>Standards creation: $5,000-12,000/framework</li>
+<li>Ecosystem design: $10,000-25,000/initiative</li>
+<li>Tool architecture: $15,000-40,000/system</li>
 
-**External Opportunities:**
+</ul>
+<p>**External Opportunities:**</p>
 
-- Industry consulting
-- Competitive analysis
-- Due diligence support
-- Expert witness services
+<ul>
+<li>Industry consulting</li>
+<li>Competitive analysis</li>
+<li>Due diligence support</li>
+<li>Expert witness services</li>
 
+</ul>
 </div>
 
 ## Compensation Growth
 
 ### Career Earnings Trajectory
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📈 Income Over Time
+<h3>📈 Income Over Time</h3>
 
-**Typical Career Progression:**
+<p>**Typical Career Progression:**</p>
 
 ```python
-# Annual income trajectory
-career_earnings = {
-    "year_1": {
-        "low": 25000,
-        "average": 35000,
-        "high": 50000
-    },
-    "year_2": {
-        "low": 50000,
-        "average": 80000,
-        "high": 120000
-    },
-    "year_3": {
-        "low": 80000,
-        "average": 150000,
-        "high": 250000
-    },
-    "year_5": {
-        "low": 150000,
-        "average": 300000,
-        "high": 500000
-    }
-}
+<h1>Annual income trajectory</h1>
+<p>career_earnings = {</p>
+<p>"year_1": {</p>
+<p>"low": 25000,</p>
+<p>"average": 35000,</p>
+<p>"high": 50000</p>
+<p>},</p>
+<p>"year_2": {</p>
+<p>"low": 50000,</p>
+<p>"average": 80000,</p>
+<p>"high": 120000</p>
+<p>},</p>
+<p>"year_3": {</p>
+<p>"low": 80000,</p>
+<p>"average": 150000,</p>
+<p>"high": 250000</p>
+<p>},</p>
+<p>"year_5": {</p>
+<p>"low": 150000,</p>
+<p>"average": 300000,</p>
+<p>"high": 500000</p>
+<p>}</p>
+<p>}</p>
 ```
 
-**Growth Accelerators:**
+<p>**Growth Accelerators:**</p>
 
-- Specialization depth
-- Reputation building
-- Network expansion
-- Tool creation
-- Thought leadership
+<ul>
+<li>Specialization depth</li>
+<li>Reputation building</li>
+<li>Network expansion</li>
+<li>Tool creation</li>
+<li>Thought leadership</li>
 
+</ul>
 </div>
 
 ### Maximizing Earnings
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Income Optimization Strategies
+<h3>🚀 Income Optimization Strategies</h3>
 
-**Top Earner Tactics:**
+<p>**Top Earner Tactics:**</p>
 
-1. **Specialization Strategy**
-   - Pick high-value niches
-   - Become the go-to expert
-   - Command premium rates
-   - Reduce competition
+<p>1. **Specialization Strategy**</p>
+<ul>
+<li>Pick high-value niches</li>
+<li>Become the go-to expert</li>
+<li>Command premium rates</li>
+<li>Reduce competition</li>
 
-2. **Efficiency Maximization**
-   - Develop templates
-   - Automate processes
-   - Batch similar work
-   - Optimize time usage
+</ul>
+<p>2. **Efficiency Maximization**</p>
+<ul>
+<li>Develop templates</li>
+<li>Automate processes</li>
+<li>Batch similar work</li>
+<li>Optimize time usage</li>
 
-3. **Value Stacking**
-   - Combine services
-   - Upsell advisory
-   - Create packages
-   - Build relationships
+</ul>
+<p>3. **Value Stacking**</p>
+<ul>
+<li>Combine services</li>
+<li>Upsell advisory</li>
+<li>Create packages</li>
+<li>Build relationships</li>
 
-4. **Passive Income**
-   - Create evergreen content
-   - Build tools
-   - License frameworks
-   - Develop courses
+</ul>
+<p>4. **Passive Income**</p>
+<ul>
+<li>Create evergreen content</li>
+<li>Build tools</li>
+<li>License frameworks</li>
+<li>Develop courses</li>
 
+</ul>
 </div>
 
 ## Token Strategies
 
 ### $SIGNAL Optimization
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Token Value Maximization
+<h3>🎯 Token Value Maximization</h3>
 
-**Token Management Best Practices:**
+<p>**Token Management Best Practices:**</p>
 
-**Earning Strategies:**
+<p>**Earning Strategies:**</p>
 
-- Focus on high-value validations
-- Maintain perfect accuracy
-- Build streak bonuses
-- Participate in governance
+<ul>
+<li>Focus on high-value validations</li>
+<li>Maintain perfect accuracy</li>
+<li>Build streak bonuses</li>
+<li>Participate in governance</li>
 
-**Holding vs Liquidating:**
+</ul>
+<p>**Holding vs Liquidating:**</p>
 
 ```text
-Decision Framework:
-├── Immediate Needs
-│   └── Liquidate minimum required
-├── Growth Potential
-│   └── Hold for appreciation
-├── Staking Opportunities
-│   └── Lock for higher returns
-└── Tax Optimization
-    └── Time liquidations wisely
+<p>Decision Framework:</p>
+<p>├── Immediate Needs</p>
+<p>│   └── Liquidate minimum required</p>
+<p>├── Growth Potential</p>
+<p>│   └── Hold for appreciation</p>
+<p>├── Staking Opportunities</p>
+<p>│   └── Lock for higher returns</p>
+<p>└── Tax Optimization</p>
+<p>└── Time liquidations wisely</p>
 ```
 
-**Staking Benefits:**
+<p>**Staking Benefits:**</p>
 
-- Increased validation priority
-- Higher reward multipliers
-- Governance participation
-- Network security contribution
+<ul>
+<li>Increased validation priority</li>
+<li>Higher reward multipliers</li>
+<li>Governance participation</li>
+<li>Network security contribution</li>
 
+</ul>
 </div>
 
 ### DeFi Opportunities
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🏊 Advanced Token Strategies
+<h3>🏊 Advanced Token Strategies</h3>
 
-**DeFi Integration:**
+<p>**DeFi Integration:**</p>
 
-**Liquidity Provision:**
+<p>**Liquidity Provision:**</p>
 
-- Provide $SIGNAL liquidity
-- Earn trading fees
-- Receive LP rewards
-- Compound returns
+<ul>
+<li>Provide $SIGNAL liquidity</li>
+<li>Earn trading fees</li>
+<li>Receive LP rewards</li>
+<li>Compound returns</li>
 
-**Yield Strategies:**
+</ul>
+<p>**Yield Strategies:**</p>
 
-- Staking pools: 10-15% APY
-- Liquidity mining: 20-40% APY
-- Governance staking: 5-10% APY
-- Compound strategies: 30-60% APY
+<ul>
+<li>Staking pools: 10-15% APY</li>
+<li>Liquidity mining: 20-40% APY</li>
+<li>Governance staking: 5-10% APY</li>
+<li>Compound strategies: 30-60% APY</li>
 
-**Risk Management:**
+</ul>
+<p>**Risk Management:**</p>
 
-- Diversify holdings
-- Limit exposure
-- Monitor positions
-- Have exit strategy
+<ul>
+<li>Diversify holdings</li>
+<li>Limit exposure</li>
+<li>Monitor positions</li>
+<li>Have exit strategy</li>
 
+</ul>
 </div>
 
 ## Benefits Package
 
 ### Platform Benefits
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎁 Beyond Direct Compensation
+<h3>🎁 Beyond Direct Compensation</h3>
 
-**Included Benefits:**
+<p>**Included Benefits:**</p>
 
-**Professional Development:**
+<p>**Professional Development:**</p>
 
-- Free training courses
-- Conference attendance
-- Certification support
-- Tool subscriptions
-- Learning stipend: $2,000/year
+<ul>
+<li>Free training courses</li>
+<li>Conference attendance</li>
+<li>Certification support</li>
+<li>Tool subscriptions</li>
+<li>Learning stipend: $2,000/year</li>
 
-**Community Perks:**
+</ul>
+<p>**Community Perks:**</p>
 
-- Exclusive events
-- Networking opportunities
-- Early access features
-- Beta testing rewards
-- Recognition programs
+<ul>
+<li>Exclusive events</li>
+<li>Networking opportunities</li>
+<li>Early access features</li>
+<li>Beta testing rewards</li>
+<li>Recognition programs</li>
 
-**Insurance Options:**
+</ul>
+<p>**Insurance Options:**</p>
 
-- Professional liability coverage
-- Errors & omissions protection
-- Legal support access
-- Dispute resolution assistance
+<ul>
+<li>Professional liability coverage</li>
+<li>Errors & omissions protection</li>
+<li>Legal support access</li>
+<li>Dispute resolution assistance</li>
 
+</ul>
 </div>
 
 ### Career Support
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Growth Resources
+<h3>🚀 Growth Resources</h3>
 
-**Career Development:**
+<p>**Career Development:**</p>
 
-**Advancement Support:**
+<p>**Advancement Support:**</p>
 
-- Performance coaching
-- Leadership training
-- Skill assessments
-- Career planning
-- Succession preparation
+<ul>
+<li>Performance coaching</li>
+<li>Leadership training</li>
+<li>Skill assessments</li>
+<li>Career planning</li>
+<li>Succession preparation</li>
 
-**Resource Access:**
+</ul>
+<p>**Resource Access:**</p>
 
-- Premium tools suite
-- Research databases
-- Expert networks
-- Industry reports
-- Competitive intelligence
+<ul>
+<li>Premium tools suite</li>
+<li>Research databases</li>
+<li>Expert networks</li>
+<li>Industry reports</li>
+<li>Competitive intelligence</li>
 
-**Recognition Programs:**
+</ul>
+<p>**Recognition Programs:**</p>
 
-- Annual awards
-- Hall of fame
-- Speaking opportunities
-- Media features
-- Legacy projects
+<ul>
+<li>Annual awards</li>
+<li>Hall of fame</li>
+<li>Speaking opportunities</li>
+<li>Media features</li>
+<li>Legacy projects</li>
 
+</ul>
 </div>
 
 ## Tax Considerations
 
 ### Income Planning
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📊 Tax Optimization
+<h3>📊 Tax Optimization</h3>
 
-**Tax Planning Strategies:**
+<p>**Tax Planning Strategies:**</p>
 
-**Income Classification:**
+<p>**Income Classification:**</p>
 
-- Validation fees: Business income
-- Token rewards: Capital gains/income
-- Mentorship: Service income
-- Content: Royalty income
+<ul>
+<li>Validation fees: Business income</li>
+<li>Token rewards: Capital gains/income</li>
+<li>Mentorship: Service income</li>
+<li>Content: Royalty income</li>
 
-**Deduction Opportunities:**
+</ul>
+<p>**Deduction Opportunities:**</p>
 
 ```text
-Common Anchor Deductions:
-✓ Home office expenses
-✓ Computer equipment
-✓ Software subscriptions
-✓ Training costs
-✓ Conference travel
-✓ Professional development
-✓ Internet/phone bills
-✓ Professional insurance
+<p>Common Anchor Deductions:</p>
+<p>✓ Home office expenses</p>
+<p>✓ Computer equipment</p>
+<p>✓ Software subscriptions</p>
+<p>✓ Training costs</p>
+<p>✓ Conference travel</p>
+<p>✓ Professional development</p>
+<p>✓ Internet/phone bills</p>
+<p>✓ Professional insurance</p>
 ```
 
-**Optimization Tips:**
+<p>**Optimization Tips:**</p>
 
-- Track all expenses
-- Separate business accounts
-- Quarterly tax payments
-- Professional tax advice
-- International considerations
+<ul>
+<li>Track all expenses</li>
+<li>Separate business accounts</li>
+<li>Quarterly tax payments</li>
+<li>Professional tax advice</li>
+<li>International considerations</li>
 
+</ul>
 </div>
 
 ## Compensation FAQ
 
 ### Common Questions
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❓ Frequently Asked Questions
+<h3>❓ Frequently Asked Questions</h3>
 
-**Q: When do I get paid?**
-A: Within 48 hours of validation completion, automatically via smart contract.
+<p>**Q: When do I get paid?**</p>
+<p>A: Within 48 hours of validation completion, automatically via smart contract.</p>
 
-**Q: How are disputes handled?**
-A: Disputed validations freeze payment until resolution. If upheld, full payment plus inconvenience bonus.
+<p>**Q: How are disputes handled?**</p>
+<p>A: Disputed validations freeze payment until resolution. If upheld, full payment plus inconvenience bonus.</p>
 
-**Q: Can I negotiate rates?**
-A: Base rates are standardized, but complexity assessments and specialization premiums are flexible.
+<p>**Q: Can I negotiate rates?**</p>
+<p>A: Base rates are standardized, but complexity assessments and specialization premiums are flexible.</p>
 
-**Q: What about international taxes?**
-A: Platform provides 1099 equivalents. Consult local tax advisor for obligations.
+<p>**Q: What about international taxes?**</p>
+<p>A: Platform provides 1099 equivalents. Consult local tax advisor for obligations.</p>
 
-**Q: How stable is income?**
-A: Varies with platform activity. Most Anchors see 20-30% monthly variation.
+<p>**Q: How stable is income?**</p>
+<p>A: Varies with platform activity. Most Anchors see 20-30% monthly variation.</p>
 
 </div>
 

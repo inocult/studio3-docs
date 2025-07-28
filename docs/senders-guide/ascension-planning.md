@@ -2,9 +2,9 @@
 
 ## Preparing for Sovereignty
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-**Phase**: Ascension 🏆 **Focus**: Exit Strategy **Duration**: 3-6 months typical
+<p>**Phase**: Ascension 🏆 **Focus**: Exit Strategy **Duration**: 3-6 months typical</p>
 
 </div>
 

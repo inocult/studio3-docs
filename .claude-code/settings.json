@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "post-edit": {
+      "command": "python3 post_edit_linter_hook.py ${file}",
+      "description": "Run markdown linter and auto-fix common issues after edits",
+      "enabled": true,
+      "filePattern": "*.md"
+    }
+  }
+}

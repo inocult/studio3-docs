@@ -12,58 +12,70 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 📚 Guide Contents
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 1. Echo Fundamentals
-- <a href="echo-basics.md">Understanding Your Role</a>
-- <a href="signal-mechanics.md">Signal Mechanics</a>
-- <a href="rewards-system.md">Rewards & Risks</a>
+<h3>1. Echo Fundamentals</h3>
+<ul>
+<li><a href="echo-basics.md">Understanding Your Role</a></li>
+<li><a href="signal-mechanics.md">Signal Mechanics</a></li>
+<li><a href="rewards-system.md">Rewards & Risks</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 2. Getting Started
-- <a href="first-signals.md">Your First Signals</a>
-- <a href="token-management.md">Managing $SIGNAL Tokens</a>
-- <a href="reputation-building.md">Building Reputation</a>
+<h3>2. Getting Started</h3>
+<ul>
+<li><a href="first-signals.md">Your First Signals</a></li>
+<li><a href="token-management.md">Managing $SIGNAL Tokens</a></li>
+<li><a href="reputation-building.md">Building Reputation</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 3. Venture Analysis
-- <a href="evaluating-ventures.md">Evaluating Ventures</a>
-- <a href="reading-signals.md">Reading Market Signals</a>
-- <a href="due-diligence.md">Due Diligence Framework</a>
+<h3>3. Venture Analysis</h3>
+<ul>
+<li><a href="evaluating-ventures.md">Evaluating Ventures</a></li>
+<li><a href="reading-signals.md">Reading Market Signals</a></li>
+<li><a href="due-diligence.md">Due Diligence Framework</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 4. Signal Strategies
-- <a href="belief-strategies.md">When to Believe</a>
-- <a href="doubt-strategies.md">Strategic Doubt</a>
-- <a href="portfolio-management.md">Portfolio Management</a>
+<h3>4. Signal Strategies</h3>
+<ul>
+<li><a href="belief-strategies.md">When to Believe</a></li>
+<li><a href="doubt-strategies.md">Strategic Doubt</a></li>
+<li><a href="portfolio-management.md">Portfolio Management</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 5. Advanced Tactics
-- <a href="phase-strategies.md">Phase-Based Strategies</a>
-- <a href="contrarian-plays.md">Contrarian Opportunities</a>
-- <a href="risk-management.md">Risk Management</a>
+<h3>5. Advanced Tactics</h3>
+<ul>
+<li><a href="phase-strategies.md">Phase-Based Strategies</a></li>
+<li><a href="contrarian-plays.md">Contrarian Opportunities</a></li>
+<li><a href="risk-management.md">Risk Management</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 6. Community & Growth
-- <a href="community-engagement.md">Community Participation</a>
-- <a href="influence-building.md">Building Influence</a>
-- <a href="echo-networks.md">Echo Networks</a>
+<h3>6. Community & Growth</h3>
+<ul>
+<li><a href="community-engagement.md">Community Participation</a></li>
+<li><a href="influence-building.md">Building Influence</a></li>
+<li><a href="echo-networks.md">Echo Networks</a></li>
 
+</ul>
 </div>
 </div>
 
@@ -89,60 +101,70 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 📊 Performance Tracking
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### Key Metrics
-- **Accuracy Rate** 
-- Signal success percentage
-- **Token Returns** 
-- Multiplication achieved
-- **XP Level** 
-- Experience progression
-- **Reputation Score** 
-- Community standing
+<h3>Key Metrics</h3>
 
+<ul>
+<li>**Accuracy Rate**</li>
+<li>Signal success percentage</li>
+<li>**Token Returns**</li>
+<li>Multiplication achieved</li>
+<li>**XP Level**</li>
+<li>Experience progression</li>
+<li>**Reputation Score**</li>
+<li>Community standing</li>
+
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### Leaderboards
-- **Top Echoes** 
-- Overall performance
-- **Phase Specialists** 
-- Phase-specific experts
-- **Contrarians** 
-- Against-the-grain winners
-- **Consistent Performers** 
-- Steady returners
+<h3>Leaderboards</h3>
 
+<ul>
+<li>**Top Echoes**</li>
+<li>Overall performance</li>
+<li>**Phase Specialists**</li>
+<li>Phase-specific experts</li>
+<li>**Contrarians**</li>
+<li>Against-the-grain winners</li>
+<li>**Consistent Performers**</li>
+<li>Steady returners</li>
+
+</ul>
 </div>
 </div>
 
 ## 🎓 Learning Resources
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 📚 Essential Reading
-- Signal Psychology 101
-- Venture Evaluation Basics
+<p>#### 📚 Essential Reading</p>
+<ul>
+<li>Signal Psychology 101</li>
+<li>Venture Evaluation Basics</li>
 
-- Risk vs Reward Analysis
+<li>Risk vs Reward Analysis</li>
 
-- Community Dynamics
+<li>Community Dynamics</li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### 🛠️ Tools & Calculators
-- Signal ROI Calculator
-- Portfolio Analyzer
+<p>#### 🛠️ Tools & Calculators</p>
+<ul>
+<li>Signal ROI Calculator</li>
+<li>Portfolio Analyzer</li>
 
-- Risk Assessment Tool
+<li>Risk Assessment Tool</li>
 
-- Performance Tracker
+<li>Performance Tracker</li>
 
+</ul>
 </div>
 </div>
 
@@ -160,17 +182,17 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 🌟 Echo Success Stories
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### The Contrarian
-Turned 1,000 $SIGNAL into 127,000 by correctly doubting overhyped ventures and believing in overlooked gems.
+<p>#### The Contrarian</p>
+<p>Turned 1,000 $SIGNAL into 127,000 by correctly doubting overhyped ventures and believing in overlooked gems.</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### The Specialist
-Focused exclusively on DeFi ventures, achieving 89% accuracy through deep domain expertise.
+<p>#### The Specialist</p>
+<p>Focused exclusively on DeFi ventures, achieving 89% accuracy through deep domain expertise.</p>
 
 </div>
 </div>

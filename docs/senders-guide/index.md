@@ -12,58 +12,70 @@ This guide is specifically designed for founders (Senders) who want to build ven
 ## 📚 Guide Contents
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 1. Getting Started
-- <a href="founder-basics.md">Founder Basics</a>
-- <a href="requirements.md">Requirements & Prerequisites</a>
-- <a href="creating-spark.md">Creating Your Spark</a>
+<h3>1. Getting Started</h3>
+<ul>
+<li><a href="founder-basics.md">Founder Basics</a></li>
+<li><a href="requirements.md">Requirements & Prerequisites</a></li>
+<li><a href="creating-spark.md">Creating Your Spark</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 2. The Forge
-- <a href="forge-duels.md">Understanding Duels</a>
-- <a href="winning-strategies.md">Winning Strategies</a>
-- <a href="duel-preparation.md">Duel Preparation</a>
+<h3>2. The Forge</h3>
+<ul>
+<li><a href="forge-duels.md">Understanding Duels</a></li>
+<li><a href="winning-strategies.md">Winning Strategies</a></li>
+<li><a href="duel-preparation.md">Duel Preparation</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 3. Building Your Venture
-- <a href="container-dao.md">Container DAO Setup</a>
-- <a href="milestone-planning.md">Milestone Planning</a>
-- <a href="mvp-development.md">MVP Development</a>
+<h3>3. Building Your Venture</h3>
+<ul>
+<li><a href="container-dao.md">Container DAO Setup</a></li>
+<li><a href="milestone-planning.md">Milestone Planning</a></li>
+<li><a href="mvp-development.md">MVP Development</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 4. Community Management
-- <a href="engaging-echoes.md">Engaging Supporters</a>
-- <a href="handling-doubt.md">Handling Doubt Signals</a>
-- <a href="building-momentum.md">Building Momentum</a>
+<h3>4. Community Management</h3>
+<ul>
+<li><a href="engaging-echoes.md">Engaging Supporters</a></li>
+<li><a href="handling-doubt.md">Handling Doubt Signals</a></li>
+<li><a href="building-momentum.md">Building Momentum</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 5. Growth Phases
-- <a href="drift-navigation/">Navigating Drift</a>
-- <a href="achieving-orbit/">Achieving Orbit</a>
-- <a href="flare-scaling/">Flare Scaling</a>
+<h3>5. Growth Phases</h3>
+<ul>
+<li><a href="drift-navigation/">Navigating Drift</a></li>
+<li><a href="achieving-orbit/">Achieving Orbit</a></li>
+<li><a href="flare-scaling/">Flare Scaling</a></li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 6. Exit & Sovereignty
-- <a href="ascension-planning/">Planning Ascension</a>
-- <a href="buyback-process/">Buyback Process</a>
-- <a href="post-graduation/">Post-Graduation</a>
+<h3>6. Exit & Sovereignty</h3>
+<ul>
+<li><a href="ascension-planning/">Planning Ascension</a></li>
+<li><a href="buyback-process/">Buyback Process</a></li>
+<li><a href="post-graduation/">Post-Graduation</a></li>
 
+</ul>
 </div>
 </div>
 
@@ -73,7 +85,8 @@ This guide is specifically designed for founders (Senders) who want to build ven
 - **👥 Founding Teams**  preparing to launch
 - **🔄 Serial Builders**  exploring Studio3
 - **💡 Innovators**  with breakthrough ideas
-- **🏆 Ambitious Founders**  seeking sovereignty
+- **🏆 Ambitious Founders**  seeking sovereignty**
+
 ## 📄 Download Options
 
 <div class="download-section">
@@ -86,28 +99,32 @@ This guide is specifically designed for founders (Senders) who want to build ven
 ## 🛠️ Practical Resources
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📝 Templates
-- Milestone Declaration Template
-- Progress Update Format
+<h3>📝 Templates</h3>
+<ul>
+<li>Milestone Declaration Template</li>
+<li>Progress Update Format</li>
 
-- Pivot Proposal Structure
+<li>Pivot Proposal Structure</li>
 
-- Ascension Plan Checklist
+<li>Ascension Plan Checklist</li>
 
+</ul>
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎥 Tutorials
-- Creating Your First Spark
-- Setting Up Container DAO
+<h3>🎥 Tutorials</h3>
+<ul>
+<li>Creating Your First Spark</li>
+<li>Setting Up Container DAO</li>
 
-- Running Effective Arenas
+<li>Running Effective Arenas</li>
 
-- Managing Token Burns
+<li>Managing Token Burns</li>
 
+</ul>
 </div>
 </div>
 
@@ -125,20 +142,21 @@ Track your progress through key indicators:
 - Active supporter count
 - **XP Accumulation**
 - Founder experience points
+
 ## 🌟 Featured Success Stories
 
 <div class="grid">
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### DataVault Journey
-From privacy idea to $500M acquisition in 18 months. Learn their strategies for rapid growth and community engagement.
+<p>#### DataVault Journey</p>
+<p>From privacy idea to $500M acquisition in 18 months. Learn their strategies for rapid growth and community engagement.</p>
 
 </div>
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-#### EcoChain Pivot
-Successfully pivoted from carbon credits to supply chain transparency. Master the art of strategic direction changes.
+<p>#### EcoChain Pivot</p>
+<p>Successfully pivoted from carbon credits to supply chain transparency. Master the art of strategic direction changes.</p>
 
 </div>
 </div>

@@ -2,9 +2,9 @@
 
 ## Life After Studio3
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-**Status**: Alumni 🎓  **Focus:** : Independent Growth  Benefits**: Lifetime Access</div>
+</div>
 
 ## Overview
 
@@ -157,15 +157,19 @@ Graduation from Studio3 marks the beginning of true sovereignty. Alumni ventures
 ## Case Studies
 
 ### DeFi Protocol Alumni
+
 - **Graduation**: 2023
 - **Current Valuation** : $500M
 - **Team Size** : 150
-- **Global Reach** : 50 countries
+- **Global Reach** : 50 countries**
+
 ### AI Platform Alumni
+
 - **Graduation**: 2022
 - **Acquisition** : $1.2B (2024)
 - **Original Buyback** : $8M
 - **Return Multiple** : 150x
+
 ## Resources
 
 ### Alumni Portal

@@ -2,11 +2,11 @@
 
 ## From IP Remix to Venture Birth
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎨 The Art of Spark Creation
+<h3>🎨 The Art of Spark Creation</h3>
 
-Your Spark NFT is more than just an idea - it's the genesis of your entire venture journey. This guide walks you through creating a compelling Spark that attracts believers and sets the foundation for success.
+<p>Your Spark NFT is more than just an idea - it's the genesis of your entire venture journey. This guide walks you through creating a compelling Spark that attracts believers and sets the foundation for success.</p>
 
 </div>
 
@@ -16,111 +16,134 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 **A Spark NFT Contains:**
 
-- ** Remixed IPs
+- **Remixed IPs**
 - 2-5 existing IP-NFTs combined
-- ** Synthesis Logic
+- **Synthesis Logic**
 - How the IPs connect
-- ** Problem Statement
+- **Problem Statement**
 - What you're solving
-- ** Vision Summary
+- **Vision Summary**
 - Where you're going
-- ** Founder Identity
+- **Founder Identity**
 - Who's building
+
 ### Why Sparks Matter
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 💎 Value Drivers
-** Your Spark Determines:
-- ** Initial community interest
-- Belief signal strength
-- Forge competition intensity
-- Long-term venture identity
-- Historical significance
-** Quality Factors:
-- ** IP selection relevance
-- Synthesis creativity
-- Market timing
-- Problem clarity
-- Vision ambition
+<h3>💎 Value Drivers</h3>
+<p>** Your Spark Determines:**</p>
+<ul>
+<li>**Initial community interest**</li>
+<li>Belief signal strength</li>
+<li>Forge competition intensity</li>
+<li>Long-term venture identity</li>
+<li>Historical significance</li>
 
+</ul>
+<p>** Quality Factors:**</p>
+<ul>
+<li>**IP selection relevance**</li>
+<li>Synthesis creativity</li>
+<li>Market timing</li>
+<li>Problem clarity</li>
+<li>Vision ambition</li>
+
+</ul>
 </div>
 
 ## The Flambette Marketplace
 
 ### Browsing for IPs
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔍 IP Discovery Process
-** Search Strategies:
-1. **Domain-Specific Search**
-- ** Filter by industry
-- Technology categories
+<h3>🔍 IP Discovery Process</h3>
+<p>** Search Strategies:**</p>
+<p>1. **Domain-Specific Search**</p>
 
-- Patent classifications
+<ul>
+<li>**Filter by industry**</li>
+<li>Technology categories</li>
 
-- Research fields
+<li>Patent classifications</li>
 
-2. **Problem-Driven Search**
-- ** Identify pain points
-- Find relevant solutions
+<li>Research fields</li>
 
-- Look for complementary tech
+</ul>
+<p>2. **Problem-Driven Search**</p>
 
-- Discover enablers
+<ul>
+<li>**Identify pain points**</li>
+<li>Find relevant solutions</li>
 
-3. **Trend-Based Search**
-- ** Hot sectors
-- Emerging technologies
+<li>Look for complementary tech</li>
 
-- Regulatory changes
+<li>Discover enablers</li>
 
-- Market shifts
+</ul>
+<p>3. **Trend-Based Search**</p>
 
+<ul>
+<li>**Hot sectors**</li>
+<li>Emerging technologies</li>
+
+<li>Regulatory changes</li>
+
+<li>Market shifts</li>
+
+</ul>
 </div>
 
 ### Evaluating IP Quality
-** Assessment Criteria:
-**| Factor | What to Look For |
+** Assessment Criteria:**
+**| Factor | What to Look For |**
 |--------|------------------|
-|**Novelty** | Unique approaches, breakthrough methods |
-|**Applicability** | Broad use cases, clear applications |
-|**Defensibility** | Strong IP protection, barriers to copy |
-|**Combinability** | Works well with other IPs |
-|**Market Readiness** | Timing for commercialization |
+| **Novelty** | Unique approaches, breakthrough methods  |
+| **Applicability** | Broad use cases, clear applications  |
+| **Defensibility** | Strong IP protection, barriers to copy  |
+| **Combinability** | Works well with other IPs  |
+| **Market Readiness** | Timing for commercialization |
 
 ## Synthesis Strategy
 
 ### The Art of Combination
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🔗 Creating Powerful Combinations
-** Effective Synthesis Patterns:
-1. **Problem + Solution**
- Medical condition + Treatment method
+<h3>🔗 Creating Powerful Combinations</h3>
+<p>** Effective Synthesis Patterns:**</p>
+<p>1. **Problem + Solution**</p>
+<p>Medical condition + Treatment method</p>
 
-- Inefficiency + Optimization tech
+<ul>
+<li>Inefficiency + Optimization tech</li>
 
-- User pain + Relief mechanism
+<li>User pain + Relief mechanism</li>
 
-2. **Technology Stack**
-- ** Frontend + Backend + Infrastructure
-- Hardware + Software + Services
+</ul>
+<p>2. **Technology Stack**</p>
 
-- Data + Processing + Interface
+<ul>
+<li>**Frontend + Backend + Infrastructure**</li>
+<li>Hardware + Software + Services</li>
 
-3. **Market Expansion**
-- ** Core tech + New application
-- Existing solution + New demographic
+<li>Data + Processing + Interface</li>
 
-- Local success + Global approach
+</ul>
+<p>3. **Market Expansion**</p>
 
+<ul>
+<li>**Core tech + New application**</li>
+<li>Existing solution + New demographic</li>
+
+<li>Local success + Global approach</li>
+
+</ul>
 </div>
 
 ### Synthesis Examples
-** Successful Combinations:
+** Successful Combinations:**
 1. **DeFi + Healthcare**
  Medical records blockchain
 
@@ -131,7 +154,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Treatment financing
 
 2. **AI + Sustainability**
-- ** Energy optimization
+
+- **Energy optimization**
 - Waste prediction
 
 - Resource allocation
@@ -139,7 +163,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Carbon tracking
 
 3. **Gaming + Education**
-- ** Learn-to-earn mechanics
+
+- **Learn-to-earn mechanics**
 
 - Skill verification NFTs
 
@@ -151,135 +176,159 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 ### The Spark Story
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📖 Essential Elements
-** Your Narrative Must Include:
-1. **The Problem**
- (30%) Current pain points
+<h3>📖 Essential Elements</h3>
+<p>** Your Narrative Must Include:**</p>
+<p>1. **The Problem**</p>
+<p>(30%) Current pain points</p>
 
-- Market inefficiencies
+<ul>
+<li>Market inefficiencies</li>
 
-- Unmet needs
+<li>Unmet needs</li>
 
-- Why it matters
+<li>Why it matters</li>
 
-2. **The Solution** (40%)
+</ul>
+<p>2. **The Solution** (40%)</p>
 
-- How IPs combine
+<ul>
+<li>How IPs combine</li>
 
-- Unique approach
+<li>Unique approach</li>
 
-- Key innovations
+<li>Key innovations</li>
 
-- Competitive advantages
+<li>Competitive advantages</li>
 
-3. **The Vision** (30%)
+</ul>
+<p>3. **The Vision** (30%)</p>
 
-- Future impact
+<ul>
+<li>Future impact</li>
 
-- Scale potential
+<li>Scale potential</li>
 
-- Success metrics
+<li>Success metrics</li>
 
-- Exit possibilities
+<li>Exit possibilities</li>
 
+</ul>
 </div>
 
 ### Writing Tips
-** Compelling Spark Descriptions:
-- ** Hook immediately
+** Compelling Spark Descriptions:**
+- **Hook immediately**
 - First sentence matters
-- ** Use simple language
+- **Use simple language**
 - Avoid jargon
-- ** Show don't tell
+- **Show don't tell**
 - Concrete examples
-- ** Quantify impact
+- **Quantify impact**
 - Numbers convince
-- ** End with vision
+- **End with vision**
 - Inspire belief
+
 ## Technical Creation
 
 ### Minting Process
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ⚙️ Step-by-Step Minting
+<h3>⚙️ Step-by-Step Minting</h3>
 
-1. **Prepare Metadata**
+<p>1. **Prepare Metadata**</p>
    ```json
-   {
-     "name": "Your Spark Name",
-     "description": "Compelling description",
-     "remixed_ips": [
-       "ipfs://QmX...",
-       "ipfs://QmY..."
-     ],
-     "synthesis": "How they combine",
-     "problem": "What you solve",
-     "vision": "Where you're going"
-   }
+<p>{</p>
+<p>"name": "Your Spark Name",</p>
+<p>"description": "Compelling description",</p>
+<p>"remixed_ips": [</p>
+<p>"ipfs://QmX...",</p>
+<p>"ipfs://QmY..."</p>
+<p>],</p>
+<p>"synthesis": "How they combine",</p>
+<p>"problem": "What you solve",</p>
+<p>"vision": "Where you're going"</p>
+<p>}</p>
    ```
 
-2. **Connect Wallet**
-- ** Ensure sufficient ETH
-- Use hardware wallet
+<p>2. **Connect Wallet**</p>
 
-- Verify network
+<ul>
+<li>**Ensure sufficient ETH**</li>
+<li>Use hardware wallet</li>
 
-3. **Submit Transaction**
-- ** Review gas fees
-- Confirm details
+<li>Verify network</li>
 
-- Wait for confirmation
+</ul>
+<p>3. **Submit Transaction**</p>
 
-4. **Verify Minting**
-- ** Check NFT receipt
-- Verify on explorer
+<ul>
+<li>**Review gas fees**</li>
+<li>Confirm details</li>
 
-- Test Arena entry
+<li>Wait for confirmation</li>
 
+</ul>
+<p>4. **Verify Minting**</p>
+
+<ul>
+<li>**Check NFT receipt**</li>
+<li>Verify on explorer</li>
+
+<li>Test Arena entry</li>
+
+</ul>
 </div>
 
 ### Cost Considerations
-**Budget Planning:| Cost Item | Estimated Range |
+**Budget Planning:| Cost Item | Estimated Range |**
 |-----------|-----------------|
 | IP License Fees | 0.05-0.5 ETH each |
 | Minting Gas | 0.02-0.1 ETH |
 | Platform Fee | 0.1 ETH |
 | Buffer for Retry | 0.05 ETH |
-|**Total Budget** |**0.3-2.0 ETH** |
+| **Total Budget** | **0.3-2.0 ETH** |
 
 ## Pre-Launch Strategy
 
 ### Building Anticipation
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🚀 Pre-Arena Preparation
-** Two Weeks Before:
-- ** Research active ventures
-- Study successful Sparks
-- Build Twitter presence
-- Engage in Discord
-- Find potential supporters
-** One Week Before:
-- ** Finalize IP selection
-- Perfect your narrative
-- Create visual assets
-- Plan launch timing
-- Alert your network
-** Launch Day:
-- ** Mint during low gas
-- Enter Arena immediately
-- Post announcement
-- Engage early viewers
-- Respond quickly
+<h3>🚀 Pre-Arena Preparation</h3>
+<p>** Two Weeks Before:**</p>
+<ul>
+<li>**Research active ventures**</li>
+<li>Study successful Sparks</li>
+<li>Build Twitter presence</li>
+<li>Engage in Discord</li>
+<li>Find potential supporters</li>
 
+</ul>
+<p>** One Week Before:**</p>
+<ul>
+<li>**Finalize IP selection**</li>
+<li>Perfect your narrative</li>
+<li>Create visual assets</li>
+<li>Plan launch timing</li>
+<li>Alert your network</li>
+
+</ul>
+<p>** Launch Day:**</p>
+<ul>
+<li>**Mint during low gas**</li>
+<li>Enter Arena immediately</li>
+<li>Post announcement</li>
+<li>Engage early viewers</li>
+<li>Respond quickly</li>
+
+</ul>
 </div>
 
 ### Visual Presentation
-** Spark Visual Elements:
+** Spark Visual Elements:**
 1. **Cover Image**
  Eye-catching design
 
@@ -290,7 +339,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Memorable branding
 
 2. **Concept Diagrams**
-- ** IP relationship map
+
+- **IP relationship map**
 - Solution architecture
 
 - Market opportunity
@@ -298,7 +348,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Growth trajectory
 
 3. **Team Photos**
-- ** Professional headshots
+
+- **Professional headshots**
 - Authentic personality
 
 - Credibility builders
@@ -309,27 +360,30 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 ### Timing Your Entry
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 📅 Strategic Timing
-** Best Times to Launch:
-- **Tuesday
-- Thursday**  10am
-- 2pm EST Avoid holidays
-- Full attention
-- **Check Arena schedule
-- Avoid competition Market Conditions:
-- ** Bull market = More signals
-- Bear market = Quality focus
-- News cycles matter
-- Sector momentum helps
+<h3>📅 Strategic Timing</h3>
+<p>** Best Times to Launch:**</p>
+<ul>
+<li>**Tuesday**</li>
+<li>Thursday**  10am</li>
+<li>2pm EST Avoid holidays</li>
+<li>Full attention</li>
+<li>**Check Arena schedule**</li>
+<li>Avoid competition Market Conditions:</li>
+<li>**Bull market = More signals**</li>
+<li>Bear market = Quality focus</li>
+<li>News cycles matter</li>
+<li>Sector momentum helps</li>
 
+</ul>
 </div>
 
 ### First 48 Hours
-** Critical Actions:
+** Critical Actions:**
 1. **Hour 1-6**
-- ** Post detailed introduction
+
+- **Post detailed introduction**
 - Answer all questions
 
 - Share on social media
@@ -337,7 +391,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - DM key supporters
 
 2. **Hour 7-24**
-- ** Host live AMA
+
+- **Host live AMA**
 - Release roadmap
 
 - Show team credentials
@@ -345,7 +400,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Build momentum
 
 3. **Hour 25-48**
-- ** Analyze feedback
+
+- **Analyze feedback**
 - Adjust messaging
 
 - Plan Forge strategy
@@ -356,26 +412,31 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 ### What to Avoid
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### ❌ Spark Failures
-** Fatal Errors:
-- ** Weak IP connections
-- Unclear problem statement
-- Overly complex synthesis
-- No market validation
-- Poor timing
-** Quality Issues:
-- ** Generic descriptions
-- Technical jargon overload
-- Unrealistic promises
-- Missing team info
-- Low visual quality
+<h3>❌ Spark Failures</h3>
+<p>** Fatal Errors:**</p>
+<ul>
+<li>**Weak IP connections**</li>
+<li>Unclear problem statement</li>
+<li>Overly complex synthesis</li>
+<li>No market validation</li>
+<li>Poor timing</li>
 
+</ul>
+<p>** Quality Issues:**</p>
+<ul>
+<li>**Generic descriptions**</li>
+<li>Technical jargon overload</li>
+<li>Unrealistic promises</li>
+<li>Missing team info</li>
+<li>Low visual quality</li>
+
+</ul>
 </div>
 
 ### Recovery Strategies
-** If Your Spark Struggles:
+** If Your Spark Struggles:**
 1. **Quick Pivots**
  Clarify messaging
 
@@ -386,7 +447,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Show early traction
 
 2. **Community Engagement**
-- ** Address concerns directly
+
+- **Address concerns directly**
 - Show adaptability
 
 - Build relationships
@@ -394,7 +456,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Prove dedication
 
 3. **Consider Restart**
-- ** Learn from feedback
+
+- **Learn from feedback**
 - Refine approach
 
 - New IP combination
@@ -405,50 +468,66 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 
 ### Learning from Winners
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🌟 Case Study: MediLend
-** The Spark:
-- ** Combined medical records + DeFi lending
-- Clear problem: Healthcare financing
-- Simple synthesis: Credit from health data
-- Strong visuals and narrative
-** Results:
-- ** 50,000 $SIGNAL in first week
-- 500+ unique supporters
-- Won Forge against 4 competitors
-- Now in Orbit phase
-** Key Lessons:
-- ** Simplicity wins
-- Timing matters
-- Visuals convince
-- Engagement crucial
+<h3>🌟 Case Study: MediLend</h3>
+<p>** The Spark:**</p>
+<ul>
+<li>**Combined medical records + DeFi lending**</li>
+<li>Clear problem: Healthcare financing</li>
+<li>Simple synthesis: Credit from health data</li>
+<li>Strong visuals and narrative</li>
 
+</ul>
+<p>** Results:**</p>
+<ul>
+<li>**50,000 $SIGNAL in first week**</li>
+<li>500+ unique supporters</li>
+<li>Won Forge against 4 competitors</li>
+<li>Now in Orbit phase</li>
+
+</ul>
+<p>** Key Lessons:**</p>
+<ul>
+<li>**Simplicity wins**</li>
+<li>Timing matters</li>
+<li>Visuals convince</li>
+<li>Engagement crucial</li>
+
+</ul>
 </div>
 
 ## Advanced Strategies
 
 ### Maximizing Impact
 
-<div class="arena-card" markdown="1">
+<div class="arena-card">
 
-### 🎯 Pro Techniques
-** Pre-Announcement Strategy:
-- ** Build email list
-- Create landing page
-- Generate social proof
-- Line up endorsements
-** Launch Amplification:
-- ** Coordinate supporter posts
-- Media outreach
-- Influencer engagement
-- Community partnerships
-** Narrative Testing:
-- ** A/B test descriptions
-- Focus group feedback
-- Iterate quickly
-- Data-driven refinement
+<h3>🎯 Pro Techniques</h3>
+<p>** Pre-Announcement Strategy:**</p>
+<ul>
+<li>**Build email list**</li>
+<li>Create landing page</li>
+<li>Generate social proof</li>
+<li>Line up endorsements</li>
 
+</ul>
+<p>** Launch Amplification:**</p>
+<ul>
+<li>**Coordinate supporter posts**</li>
+<li>Media outreach</li>
+<li>Influencer engagement</li>
+<li>Community partnerships</li>
+
+</ul>
+<p>** Narrative Testing:**</p>
+<ul>
+<li>**A/B test descriptions**</li>
+<li>Focus group feedback</li>
+<li>Iterate quickly</li>
+<li>Data-driven refinement</li>
+
+</ul>
 </div>
 
 ## Next Steps
@@ -456,7 +535,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 ### After Spark Success
 
 1. **Prepare for Forge**
-- ** Study competitors
+
+- **Study competitors**
 - Build your case
 
 - Rally supporters
@@ -464,7 +544,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Plan presentation
 
 2. **Maintain Momentum**
-- ** Daily updates
+
+- **Daily updates**
 - Deepen engagement
 
 - Expand reach
@@ -472,7 +553,8 @@ Your Spark NFT is more than just an idea - it's the genesis of your entire ventu
 - Build anticipation
 
 3. **Start Building**
-- ** Prototype development
+
+- **Prototype development**
 - Team recruitment
 
 - Resource planning
