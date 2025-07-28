@@ -6,6 +6,9 @@
 
 <h3>🎯 The Core Loop</h3>
 
+<p><strong>Idea → Compete → Build → Signal → Validate → Reward</strong></p>
+<p>Every venture follows this transparent, gamified process where success is earned through public accountability and community support.</p>
+
 </div>
 
 ## 🚀 Step-by-Step Journey
@@ -133,7 +136,7 @@ Every venture progresses through seven phases:
 <div class="grid">
 <div class="arena-card">
 
-<p>#### Phase 1-3: Startup</p>
+<h4>Phase 1-3: Startup</h4>
 
 <p><strong>1. Spark</strong> ✨ - Idea validation</p>
 <p><strong>2. Forge</strong> ⚔️ - Founder selection</p>
@@ -143,11 +146,9 @@ Every venture progresses through seven phases:
 
 <div class="arena-card">
 
-<p>#### Phase 4-6: Growth</p>
+<h4>Phase 4-6: Growth</h4>
 
-<ul>
-<li><strong>4. Drift</strong> 🌊 - Finding product market fit</li>
-</ul>
+<p><strong>4. Drift</strong> 🌊 - Finding product market fit</p>
 <p><strong>5. Orbit</strong> 🛸 - Stable operations</p>
 <p><strong>6. Flare</strong> 🔥 - Scaling up</p>
 
@@ -155,7 +156,7 @@ Every venture progresses through seven phases:
 
 <div class="arena-card">
 
-<p>#### Phase 7: Exit</p>
+<h4>Phase 7: Exit</h4>
 
 <p><strong>7. Ascension</strong> 🎖️ - Full independence</p>
 
@@ -167,6 +168,14 @@ Every venture progresses through seven phases:
 <div class="arena-card">
 
 <h3>How Value Flows</h3>
+
+<p>Success creates value for everyone:</p>
+<ul>
+<li><strong>Founders</strong> build valuable ventures</li>
+<li><strong>Supporters</strong> earn token rewards</li>
+<li><strong>Validators</strong> receive fees for quality assurance</li>
+<li><strong>Community</strong> benefits from innovation</li>
+</ul>
 
 </div>
 
@@ -201,6 +210,8 @@ Every venture progresses through seven phases:
 <div class="arena-card">
 
 <h3>Sarah's Journey</h3>
+
+<p><strong>Real Example:</strong> Sarah had an idea for sustainable packaging. She created a Spark NFT, won the Forge duel, declared monthly milestones, and built transparently. The community signaled belief, she delivered consistently, and graduated with a fully-funded venture after 18 months.</p>
 
 </div>
 
