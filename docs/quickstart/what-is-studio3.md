@@ -31,11 +31,11 @@ Imagine if building a startup was like playing a video game where:
 <p>Just like gladiators competed in ancient arenas:</p>
 
 <ul>
-<li>**Ventures compete** for support and resources</li>
-<li>**Spectators place bets** on who will succeed</li>
-<li>**Performance is public** - no hiding failures</li>
-<li>**Winners earn glory** (and funding)</li>
-<li>**The crowd decides** who deserves support**</li>
+<li><strong>Ventures compete</strong> for support and resources</li>
+<li><strong>Spectators place bets</strong> on who will succeed</li>
+<li><strong>Performance is public</strong> - no hiding failures</li>
+<li><strong>Winners earn glory</strong> (and funding)</li>
+<li><strong>The crowd decides</strong> who deserves support</li>
 </ul>
 </div>
 
@@ -66,11 +66,11 @@ Imagine if building a startup was like playing a video game where:
 <h3>How Belief Becomes Real Support</h3>
 
 <ul>
-<li>**$SIGNAL** tokens represent conviction</li>
-<li>**Stake tokens** to show belief (or doubt)</li>
-<li>**Correct predictions** multiply your tokens</li>
-<li>**Wrong predictions** burn your tokens</li>
-<li>Creates **skin in the game** for everyone**</li>
+<li><strong>$SIGNAL</strong> tokens represent conviction</li>
+<li><strong>Stake tokens</strong> to show belief (or doubt)</li>
+<li><strong>Correct predictions</strong> multiply your tokens</li>
+<li><strong>Wrong predictions</strong> burn your tokens</li>
+<li>Creates <strong>skin in the game</strong> for everyone</li>
 </ul>
 </div>
 
@@ -109,11 +109,11 @@ Every venture follows the same path:
 <p>Studio3 solves real problems:</p>
 
 <ul>
-<li>**Great ideas** get funding regardless of founder's network</li>
-<li>**Community wisdom** catches problems early</li>
-<li>**Public accountability** reduces failure rates</li>
-<li>**Aligned incentives** mean everyone wins together</li>
-<li>**Transparent process** builds trust</li>
+<li><strong>Great ideas</strong> get funding regardless of founder's network</li>
+<li><strong>Community wisdom</strong> catches problems early</li>
+<li><strong>Public accountability</strong> reduces failure rates</li>
+<li><strong>Aligned incentives</strong> mean everyone wins together</li>
+<li><strong>Transparent process</strong> builds trust</li>
 </ul>
 </div>
 

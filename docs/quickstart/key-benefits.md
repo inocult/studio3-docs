@@ -6,18 +6,18 @@
 
 <h3>🎯 The Core Value Proposition</h3>
 
-<p>**Studio3 solves the biggest problems in venture building:**</p>
+<p><strong>Studio3 solves the biggest problems in venture building:</strong></p>
 
 <ul>
-<li>**Access**</li>
+<li><strong>Access</strong></li>
 <li>Anyone can participate based on merit</li>
-<li>**Transparency**</li>
+<li><strong>Transparency</strong></li>
 <li>No more black box decisions</li>
-<li>**Alignment**</li>
+<li><strong>Alignment</strong></li>
 <li>Everyone wins when ventures succeed</li>
-<li>**Efficiency**</li>
+<li><strong>Efficiency</strong></li>
 <li>Community wisdom prevents failures</li>
-<li>**Engagement**</li>
+<li><strong>Engagement</strong></li>
 <li>Gamification makes it exciting</li>
 </ul>
 </div>
@@ -29,17 +29,17 @@
 <div class="arena-card">
 
 <h3>💰 No More Gatekeepers</h3>
-<p>** Traditional Way:**</p>
+<p><strong>Traditional Way:</strong></p>
 <ul>
-<li>**Need connections to VCs**</li>
+<li><strong>Need connections to VCs</strong></li>
 <li>Months of closed-door meetings</li>
 <li>Arbitrary rejection reasons</li>
 <li>Geography limitations</li>
 
 </ul>
-<p>** Studio3 Way:**</p>
+<p><strong>Studio3 Way:</strong></p>
 <ul>
-<li>**Open to anyone with merit**</li>
+<li><strong>Open to anyone with merit</strong></li>
 <li>Public evaluation process</li>
 <li>Clear feedback from community</li>
 <li>Global participation</li>
@@ -53,29 +53,28 @@
 
 <h3>👥 Never Build Alone</h3>
 
-<p>** From day one, you have:**</p>
+<p><strong>From day one, you have:</strong></p>
 <ul>
-<li>**Hundreds of supporters** invested in your success</li>
-<li>**Expert mentors**  guiding your journey</li>
-<li>**Real-time feedback**  on every decision</li>
-<li>**Network effects**  from the ecosystem**</li>
+<li><strong>Hundreds of supporters</strong> invested in your success</li>
+<li><strong>Expert mentors</strong> guiding your journey</li>
+<li><strong>Real-time feedback</strong> on every decision</li>
+<li><strong>Network effects</strong> from the ecosystem</li>
 </ul>
 </div>
 
 ### 3. Progressive Funding
 
-- **No equity dilution** in early stages
-- **Milestone-based funding**  reduces risk
-- **Community validation**  before major capital
-- **Path to full ownership**  through Ascension**
+- <strong>No equity dilution</strong> in early stages
+- <strong>Milestone-based funding</strong> reduces risk
+- <strong>Community validation</strong> before major capital
+- <strong>Path to full ownership</strong> through Ascension
 
 ### 4. Public Accountability
 
-- **Transparent progress** creates discipline
-- **Community pressure**  drives execution
-- **Early warning signs** prevent major failures
-
-- **Celebration of wins** builds momentum
+- <strong>Transparent progress</strong> creates discipline
+- <strong>Community pressure</strong> drives execution
+- <strong>Early warning signs</strong> prevent major failures
+- <strong>Celebration of wins</strong> builds momentum
 
 ## 📡 Benefits for Supporters (Echoes)
 
@@ -86,12 +85,10 @@
 <h3>🚀 Get In Early</h3>
 
 <ul>
-<li>**Discover ventures** before mainstream</li>
-<li>**Support ideas**  you believe in</li>
-<li>**Direct participation** in success</li>
-
-<li>**No accredited investor** requirements</li>
-
+<li><strong>Discover ventures</strong> before mainstream</li>
+<li><strong>Support ideas</strong> you believe in</li>
+<li><strong>Direct participation</strong> in success</li>
+<li><strong>No accredited investor</strong> requirements</li>
 </ul>
 </div>
 
@@ -100,9 +97,9 @@
 <div class="arena-card">
 
 <h3>📊 Know What You're Getting</h3>
-<p>** Clear Mechanics:**</p>
+<p><strong>Clear Mechanics:</strong></p>
 <ul>
-<li>**Exact multipliers for correct predictions (1.5x-3x)**</li>
+<li><strong>Exact multipliers for correct predictions (1.5x-3x)</strong></li>
 <li>Public track records of all participants</li>
 <li>Real-time progress visibility</li>
 <li>Defined success criteria</li>
@@ -112,19 +109,17 @@
 
 ### 3. Active Participation
 
-- **Guide ventures** with your signals
-- **Share expertise**  in discussions
-- **Build reputation** through accuracy
-
-- **Learn by doing** in real scenarios
+- <strong>Guide ventures</strong> with your signals
+- <strong>Share expertise</strong> in discussions
+- <strong>Build reputation</strong> through accuracy
+- <strong>Learn by doing</strong> in real scenarios
 
 ### 4. Diversification Options
 
-- **Small minimum stakes** (10 $SIGNAL)
-- **Portfolio approach**  across ventures
-- **Balance risk** with belief/doubt signals
-
-- **Compound gains** through experience
+- <strong>Small minimum stakes</strong> (10 $SIGNAL)
+- <strong>Portfolio approach</strong> across ventures
+- <strong>Balance risk</strong> with belief/doubt signals
+- <strong>Compound gains</strong> through experience
 
 ## ⚓ Benefits for Validators (Anchors)
 
@@ -135,29 +130,26 @@
 <h3>💎 Your Experience Has Value</h3>
 
 <ul>
-<li>**Earn fees** for validations (3-10%)</li>
-<li>**Build reputation**  as trusted expert</li>
-<li>**Guide next generation**  of founders</li>
-<li>**Stay connected** to innovation</li>
-
+<li><strong>Earn fees</strong> for validations (3-10%)</li>
+<li><strong>Build reputation</strong> as trusted expert</li>
+<li><strong>Guide next generation</strong> of founders</li>
+<li><strong>Stay connected</strong> to innovation</li>
 </ul>
 </div>
 
 ### 2. Meaningful Impact
 
-- **Shape venture quality** standards
-- **Prevent failures**  through guidance
-- **Accelerate success** with mentorship
-
-- **Build ecosystem** you believe in
+- <strong>Shape venture quality</strong> standards
+- <strong>Prevent failures</strong> through guidance
+- <strong>Accelerate success</strong> with mentorship
+- <strong>Build ecosystem</strong> you believe in
 
 ### 3. Flexible Engagement
 
-- **Choose your ventures** to validate
-- **Set your schedule**  for reviews
-- **Remote participation** from anywhere
-
-- **Scale your involvement** as desired
+- <strong>Choose your ventures</strong> to validate
+- <strong>Set your schedule</strong> for reviews
+- <strong>Remote participation</strong> from anywhere
+- <strong>Scale your involvement</strong> as desired
 
 ## 🌍 Benefits for the Ecosystem
 
@@ -166,11 +158,11 @@
 <div class="arena-card">
 
 <h3>📈 Better Outcomes for All</h3>
-<p>**Traditional Startup Failure Rate:** 90%</p>
+<p><strong>Traditional Startup Failure Rate:</strong> 90%</p>
 
 <p>Studio3 Advantages:</p>
 <ul>
-<li>**Community validation catches bad ideas early**</li>
+<li><strong>Community validation catches bad ideas early</strong></li>
 <li>Public accountability drives execution</li>
 <li>Continuous feedback enables quick pivots</li>
 <li>Aligned incentives prevent conflicts</li>
@@ -180,27 +172,24 @@
 
 ### 2. Efficient Capital Allocation
 
-- **Money flows** to validated ideas
-- **Quick failures**  minimize waste
-- **Progressive funding** matches risk
-
-- **Market signals** guide decisions
+- <strong>Money flows</strong> to validated ideas
+- <strong>Quick failures</strong> minimize waste
+- <strong>Progressive funding</strong> matches risk
+- <strong>Market signals</strong> guide decisions
 
 ### 3. Knowledge Sharing
 
-- **Public building** creates learning
-- **Failure analysis**  helps others
-- **Best practices** emerge naturally
-
-- **Collective intelligence** grows
+- <strong>Public building</strong> creates learning
+- <strong>Failure analysis</strong> helps others
+- <strong>Best practices</strong> emerge naturally
+- <strong>Collective intelligence</strong> grows
 
 ### 4. Global Opportunity
 
-- **No geographic limits** on participation
-- **24/7 accessibility**  across timezones
-- **Cultural diversity** in solutions
-
-- **Borderless collaboration** by default
+- <strong>No geographic limits</strong> on participation
+- <strong>24/7 accessibility</strong> across timezones
+- <strong>Cultural diversity</strong> in solutions
+- <strong>Borderless collaboration</strong> by default
 
 ## 💡 Unique Advantages
 
@@ -210,14 +199,12 @@
 
 <h3>🔗 Value Compounds with Growth</h3>
 
-<p>** As more people join:**</p>
+<p><strong>As more people join:</strong></p>
 <ul>
-<li>**More ventures** = More opportunities</li>
-<li>**More signals**  = Better price discovery</li>
-<li>**More validators** = Higher quality</li>
-
-<li>**More success** = More attraction</li>
-
+<li><strong>More ventures</strong> = More opportunities</li>
+<li><strong>More signals</strong> = Better price discovery</li>
+<li><strong>More validators</strong> = Higher quality</li>
+<li><strong>More success</strong> = More attraction</li>
 </ul>
 </div>
 
@@ -225,26 +212,24 @@
 
 Everyone benefits from the same outcome:
 
-- **Founders** want to build great ventures
-- **Echoes**  want ventures to succeed
-- **Anchors** want quality outcomes
-
-- **Platform** grows with ecosystem
+- <strong>Founders</strong> want to build great ventures
+- <strong>Echoes</strong> want ventures to succeed
+- <strong>Anchors</strong> want quality outcomes
+- <strong>Platform</strong> grows with ecosystem
 
 ### 3. Gamified Experience
 
-- **Clear progression** through phases
-- **Achievement systems**  drive engagement
-- **Competitive elements** push excellence
-
-- **Fun and addictive** participation
+- <strong>Clear progression</strong> through phases
+- <strong>Achievement systems</strong> drive engagement
+- <strong>Competitive elements</strong> push excellence
+- <strong>Fun and addictive</strong> participation
 
 ### 4. Real Stakes, Real Rewards
 
-- **Skin in the game** ensures seriousness
-- **Token burns**  filter out non-performers
-- **Reputation systems**  build trust
-- **Financial rewards**  motivate excellence**
+- <strong>Skin in the game</strong> ensures seriousness
+- <strong>Token burns</strong> filter out non-performers
+- <strong>Reputation systems</strong> build trust
+- <strong>Financial rewards</strong> motivate excellence
 
 ## 🎯 Who Benefits Most?
 
@@ -299,25 +284,25 @@ Everyone benefits from the same outcome:
 <div class="arena-card">
 
 <h3>Why Studio3 Wins</h3>
-<p>** For Individuals:**</p>
+<p><strong>For Individuals:</strong></p>
 <ul>
-<li>**Better access to opportunities**</li>
+<li><strong>Better access to opportunities</strong></li>
 <li>Transparent risk and rewards</li>
 <li>Active participation in innovation</li>
 <li>Merit-based success</li>
 
 </ul>
-<p>** For the Ecosystem:**</p>
+<p><strong>For the Ecosystem:</strong></p>
 <ul>
-<li>**Higher venture success rates**</li>
+<li><strong>Higher venture success rates</strong></li>
 <li>Efficient capital allocation</li>
 <li>Collective intelligence</li>
 <li>Global accessibility</li>
 
 </ul>
-<p>** For the Future:**</p>
+<p><strong>For the Future:</strong></p>
 <ul>
-<li>**Democratized venture building**</li>
+<li><strong>Democratized venture building</strong></li>
 <li>Community-driven innovation</li>
 <li>Aligned stakeholder interests</li>
 <li>Sustainable growth model</li>
@@ -337,4 +322,4 @@ Ready to join? Learn [How to Get Started →](get-started.md)
 
 - **Supporters** → [Echoes Guide](../echoes-guide/index.md)
 
-- **Validators**  → [Anchors Guide](../anchors-guide/index.md)
+- <strong>Validators</strong> → [Anchors Guide](../anchors-guide/index.md)

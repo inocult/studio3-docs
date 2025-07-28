@@ -17,8 +17,8 @@
 <h3>✨ The Spark Phase</h3>
 
 <ul>
-<li>Entrepreneurs create **Spark NFTs** from existing research/IP</li>
-<li>**Ideas are presented in public ** Arenas</li>
+<li>Entrepreneurs create <strong>Spark NFTs</strong> from existing research/IP</li>
+<li><strong>Ideas are presented in public</strong> Arenas</li>
 <li>Community members browse and evaluate</li>
 <li>Initial interest gathering begins</li>
 <li>Best ideas attract early believers</li>
@@ -34,8 +34,8 @@
 
 <ul>
 <li>Multiple founders can compete for the same idea</li>
-<li>They enter a**public competition** (The Forge)</li>
-<li>**Each presents their vision and capabilities**</li>
+<li>They enter a <strong>public competition</strong> (The Forge)</li>
+<li><strong>Each presents their vision and capabilities</strong></li>
 <li>Community votes determine the winner</li>
 <li>Winner gets exclusive rights to build</li>
 
@@ -48,11 +48,11 @@
 
 <h3>🏗️ Public Development</h3>
 
-<p>** The winning founder:**</p>
+<p><strong>The winning founder:</strong></p>
 <ul>
-<li>Forms a**Container DAO** (lightweight governance structure)</li>
-<li>**Declares specific **milestones**  with deadlines</li>
-<li>**Works transparently with daily updates**</li>
+<li>Forms a <strong>Container DAO</strong> (lightweight governance structure)</li>
+<li><strong>Declares specific milestones with deadlines</strong></li>
+<li><strong>Works transparently with daily updates</strong></li>
 <li>Engages with community feedback</li>
 <li>Builds toward declared goals</li>
 
@@ -64,21 +64,21 @@
 <div class="arena-card">
 
 <h3>📡 Signaling Mechanics</h3>
-<p>** How the community participates:**</p>
-<p>1. **Research**</p>
+<p><strong>How the community participates:</strong></p>
+<p>1. <strong>Research</strong></p>
 <p>the venture and team</p>
-<p>2. **Decide**</p>
+<p>2. <strong>Decide</strong></p>
 <p>to signal belief or doubt</p>
-<p>3. **Stake**</p>
+<p>3. <strong>Stake</strong></p>
 <p>$SIGNAL tokens on outcome</p>
-<p>4. **Monitor**</p>
+<p>4. <strong>Monitor</strong></p>
 <p>progress actively</p>
-<p>5. **Earn or lose**</p>
+<p>5. <strong>Earn or lose</strong></p>
 <p>based on results</p>
 
-<p>** Example:**</p>
+<p><strong>Example:</strong></p>
 <ul>
-<li>**You believe TeamX will deliver their app by March 1st**</li>
+<li><strong>You believe TeamX will deliver their app by March 1st</strong></li>
 <li>You stake 1,000 $SIGNAL tokens as a belief signal</li>
 <li>If they succeed: You get 1,500-3,000 tokens back (1.5x-3x)</li>
 <li>If they fail: Your 1,000 tokens are burned forever</li>
@@ -92,11 +92,11 @@
 
 <h3>⚓ Quality Assurance</h3>
 
-<p>** When milestones are complete:**</p>
+<p><strong>When milestones are complete:</strong></p>
 <ul>
-<li>Founder submits**evidence** of completion</li>
-<li>**Anchors**  (validators) review thoroughly</li>
-<li>**They verify claims are accurate**</li>
+<li>Founder submits <strong>evidence</strong> of completion</li>
+<li><strong>Anchors</strong> (validators) review thoroughly</li>
+<li><strong>They verify claims are accurate</strong></li>
 <li>Decision is made: Success or Failure</li>
 <li>Results trigger automatic settlements</li>
 
@@ -108,17 +108,17 @@
 <div class="arena-card">
 
 <h3>💰 The Settlement</h3>
-<p>** If Milestone Succeeds:**</p>
+<p><strong>If Milestone Succeeds:</strong></p>
 <ul>
-<li>**Believers earn token multipliers (1.5x-3x)**</li>
+<li><strong>Believers earn token multipliers (1.5x-3x)</strong></li>
 <li>Doubters lose their entire stake</li>
 <li>Founder unlocks next funding</li>
 <li>Anchor earns validation fee</li>
 
 </ul>
-<p>** If Milestone Fails:**</p>
+<p><strong>If Milestone Fails:</strong></p>
 <ul>
-<li>**Doubters earn token multipliers (1.2x-2x)**</li>
+<li><strong>Doubters earn token multipliers (1.2x-2x)</strong></li>
 <li>Believers lose their entire stake</li>
 <li>Founder faces reputation damage</li>
 <li>Must pivot or abandon</li>
@@ -135,9 +135,9 @@ Every venture progresses through seven phases:
 
 <p>#### Phase 1-3: Startup</p>
 
-<p>**1. Spark** ✨ - Idea validation</p>**
-<p>**2. Forge** ⚔️ - Founder selection</p>**
-<p>**3. Ignition** 🚀 - MVP building</p>
+<p><strong>1. Spark</strong> ✨ - Idea validation</p>
+<p><strong>2. Forge</strong> ⚔️ - Founder selection</p>
+<p><strong>3. Ignition</strong> 🚀 - MVP building</p>
 
 </div>
 
@@ -146,12 +146,10 @@ Every venture progresses through seven phases:
 <p>#### Phase 4-6: Growth</p>
 
 <ul>
-<li><p>**4. Drift** 🌊</li>
-<li>Finding product</li>
-<li>market fit</p></li>
+<li><strong>4. Drift</strong> 🌊 - Finding product market fit</li>
 </ul>
-<p>**5. Orbit** 🛸 - Stable operations</p>**
-<p>**6. Flare** 🔥 - Scaling up</p>
+<p><strong>5. Orbit</strong> 🛸 - Stable operations</p>
+<p><strong>6. Flare</strong> 🔥 - Scaling up</p>
 
 </div>
 
@@ -159,7 +157,7 @@ Every venture progresses through seven phases:
 
 <p>#### Phase 7: Exit</p>
 
-<p>**7. Ascension** 🎖️ - Full independence</p>
+<p><strong>7. Ascension</strong> 🎖️ - Full independence</p>
 
 </div>
 </div>
@@ -212,9 +210,9 @@ Every venture progresses through seven phases:
 
 <h3>The Magic Formula</h3>
 
-<p>**Transparency** +**Skin in the Game** +**Community Wisdom** =**Better Outcomes</p>
+<p><strong>Transparency</strong> + <strong>Skin in the Game</strong> + <strong>Community Wisdom</strong> = <strong>Better Outcomes</strong></p>
 <ul>
-<li>**Public pressure creates accountability**</li>
+<li><strong>Public pressure creates accountability</strong></li>
 <li>Token stakes ensure serious participation</li>
 <li>Collective intelligence catches problems early</li>
 <li>Aligned incentives drive collaboration</li>

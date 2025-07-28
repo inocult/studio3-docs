@@ -6,12 +6,12 @@
 
 <h3>🚀 Ready to Begin?</h3>
 
-<p>**Getting started with Studio3 is simple:**</p>
+<p><strong>Getting started with Studio3 is simple:</strong></p>
 
-<p>1. **Choose your role** based on your goals</p>
-<p>2. **Create your account** and connect wallet</p>
-<p>3. **Start small** to learn the system</p>
-<p>4. **Engage actively** with the community</p>
+<p>1. <strong>Choose your role</strong> based on your goals</p>
+<p>2. <strong>Create your account</strong> and connect wallet</p>
+<p>3. <strong>Start small</strong> to learn the system</p>
+<p>4. <strong>Engage actively</strong> with the community</p>
 </div>
 
 ## 🎯 Step 1: Choose Your Path
@@ -23,17 +23,14 @@
 
 <h3>🏗️ Become a Sender</h3>
 
-<p>** If you have:**</p>
+<p><strong>If you have:</strong></p>
 <ul>
 <li>A venture idea</li>
 <li>Execution ability</li>
 <li>Public comfort</li>
 <li>Risk tolerance</li>
-
-
-
 </ul>
-<p>You'll need:**</p>
+<p>You'll need:</p>
 <ul>
 <li>1,000+ $SIGNAL tokens</li>
 <li>Time commitment (full-time)</li>
@@ -47,17 +44,14 @@
 <div class="arena-card">
 
 <h3>📡 Become an Echo</h3>
-<p>** If you have:**</p>
+<p><strong>If you have:</strong></p>
 <ul>
 <li>Investment capital</li>
 <li>Analysis skills</li>
 <li>Risk appetite</li>
 <li>Market intuition</li>
-
-
-
 </ul>
-<p>You'll need:**</p>
+<p>You'll need:</p>
 <ul>
 <li>100+ $SIGNAL tokens</li>
 <li>Daily time (30-60 min)</li>
@@ -71,17 +65,14 @@
 <div class="arena-card">
 
 <h3>⚓ Become an Anchor</h3>
-<p>** If you have:**</p>
+<p><strong>If you have:</strong></p>
 <ul>
 <li>Industry expertise</li>
 <li>Mentoring experience</li>
 <li>Quality standards</li>
 <li>Available time</li>
-
-
-
 </ul>
-<p>You'll need:**</p>
+<p>You'll need:</p>
 <ul>
 <li>Proven track record</li>
 <li>2-4 hours daily</li>
@@ -101,50 +92,38 @@
 
 <h3>💻 What You Need</h3>
 
-<p>1. **Web3 Wallet**</p>
+<p>1. <strong>Web3 Wallet</strong></p>
 
 <ul>
 <li>MetaMask (recommended)</li>
-
-
 <li>WalletConnect compatible</li>
-
 <li>Hardware wallet (optional but recommended)</li>
-
 </ul>
-<p>2. **$SIGNAL Tokens**</p>
+<p>2. <strong>$SIGNAL Tokens</strong></p>
 
 <ul>
 <li>Minimum based on role</li>
-
-
 <li>Available on major DEXs</li>
-
 <li>Start small to learn</li>
-
 </ul>
-<p>3. **Platform Access**</p>
+<p>3. <strong>Platform Access</strong></p>
 
 <ul>
 <li>Visit [studio3.xyz](https://studio3.xyz)</li>
-
-
 <li>Connect wallet</li>
-
 <li>Complete profile</li>
-
 </ul>
 </div>
 
 ### Account Setup Process
 
-1. **Install MetaMask** or compatible wallet
-2. **Fund with ETH** for gas fees
-3. **Acquire $SIGNAL** tokens via DEX
-4. **Connect to Studio3** platform
-5. **Complete profile** with real information
-6. **Verify email** for notifications
-7. **Join Discord** community
+1. <strong>Install MetaMask</strong> or compatible wallet
+2. <strong>Fund with ETH</strong> for gas fees
+3. <strong>Acquire $SIGNAL</strong> tokens via DEX
+4. <strong>Connect to Studio3</strong> platform
+5. <strong>Complete profile</strong> with real information
+6. <strong>Verify email</strong> for notifications
+7. <strong>Join Discord</strong> community
 
 ## 📚 Step 3: Learn the Basics
 
@@ -154,18 +133,15 @@
 
 <h3>📖 Must-Read Resources</h3>
 
-<p>** For All Participants:**</p>
+<p><strong>For All Participants:</strong></p>
 <ul>
 <li>This Quickstart guide (you're here!)</li>
 <li>[Overview Guide](../overview-guide/index.md)</li>
 <li>Complete system understanding</li>
 <li>Community Code of Conduct</li>
 <li>Platform Terms of Service</li>
-
-
-
 </ul>
-<p>Role-Specific:**</p>
+<p>Role-Specific:</p>
 <ul>
 <li>Your chosen role's complete guide</li>
 <li>Success stories from veterans</li>
@@ -176,20 +152,15 @@
 
 ### Key Concepts to Master
 
-1. **The Arena System**
-
+1. <strong>The Arena System</strong>
 - How public building works
-2. **Signal Mechanics**
-
+2. <strong>Signal Mechanics</strong>
 - Belief/doubt token stakes
-3. **Seven Phases**
-
+3. <strong>Seven Phases</strong>
 - Venture progression path
-4. **Rewards & Burns**
-
+4. <strong>Rewards & Burns</strong>
 - Economic incentives
-5. **Reputation (XP)**
-
+5. <strong>Reputation (XP)</strong>
 - Long-term value building
 
 ## 🌱 Step 4: Start Small
@@ -242,25 +213,21 @@
 
 <h3>💬 Community Channels</h3>
 
-<p>** Discord Server:**</p>
+<p><strong>Discord Server:</strong></p>
 <ul>
 <li>Real-time chat</li>
 <li>Role-specific channels</li>
 <li>Voice rooms for discussions</li>
 <li>Event announcements</li>
-
-
-
 </ul>
-<p>Forum:**</p>
+<p>Forum:</p>
 <ul>
 <li>Deep discussions</li>
 <li>Proposal debates</li>
 <li>Strategy sharing</li>
 <li>Knowledge base</li>
-
 </ul>
-<p>** Social Media:**</p>
+<p><strong>Social Media:</strong></p>
 <ul>
 <li>Twitter for updates</li>
 <li>YouTube for tutorials</li>
@@ -271,11 +238,11 @@
 
 ### Building Relationships
 
-1. **Introduce yourself** in newcomer channels
-2. **Ask questions** - community loves helping
-3. **Share insights** from your experience
-4. **Attend events** like office hours
-5. **Find mentors** who've succeeded
+1. <strong>Introduce yourself</strong> in newcomer channels
+2. <strong>Ask questions</strong> - community loves helping
+3. <strong>Share insights</strong> from your experience
+4. <strong>Attend events</strong> like office hours
+5. <strong>Find mentors</strong> who've succeeded
 
 ## 📈 Step 6: Build Your Reputation
 
@@ -285,18 +252,15 @@
 
 <h3>🌟 Reputation Matters</h3>
 
-<p>** How to earn XP:**</p>
+<p><strong>How to earn XP:</strong></p>
 <ul>
 <li>Successful milestones (Senders)</li>
 <li>Accurate signals (Echoes)</li>
 <li>Quality validations (Anchors)</li>
 <li>Community contributions</li>
 <li>Consistent participation</li>
-
-
-
 </ul>
-<p>Benefits of high XP:**</p>
+<p>Benefits of high XP:</p>
 <ul>
 <li>Better multipliers</li>
 <li>Priority access</li>
@@ -309,20 +273,15 @@
 
 ### Long-term Strategy
 
-1. **Consistency beats intensity**
-
+1. <strong>Consistency beats intensity</strong>
 - Daily engagement
-2. **Quality over quantity**
-
+2. <strong>Quality over quantity</strong>
 - Thoughtful participation
-3. **Learn from failures**
-
+3. <strong>Learn from failures</strong>
 - They're valuable too
-4. **Share knowledge**
-
+4. <strong>Share knowledge</strong>
 - Teaching solidifies learning
-5. **Stay positive**
-
+5. <strong>Stay positive</strong>
 - Support ecosystem growth
 
 ## 🎯 Quick Start Checklist
@@ -331,25 +290,21 @@
 
 <h3>✅ Your First Week</h3>
 
-<p>** Day 1:**</p>
+<p><strong>Day 1:</strong></p>
 <ul>
 <li>[ ] Choose your role</li>
 <li>[ ] Set up wallet</li>
 <li>[ ] Get $SIGNAL tokens</li>
 <li>[ ] Create account</li>
-
-
-
 </ul>
-<p>Day 2-3:**</p>
+<p>Day 2-3:</p>
 <ul>
 <li>[ ] Read your role guide</li>
 <li>[ ] Join Discord</li>
 <li>[ ] Introduce yourself</li>
 <li>[ ] Observe active ventures</li>
-
 </ul>
-<p>** Day 4-7:**</p>
+<p><strong>Day 4-7:</strong></p>
 <ul>
 <li>[ ] Make first action (signal/pitch/application)</li>
 <li>[ ] Connect with 5 community members</li>
@@ -403,24 +358,21 @@
 
 ### What Happens Next?
 
-1. **Week 1**: Learn and observe
-2. **Week 2-4**: Active participation
-3. **Month 2-3**: Build reputation
-4. **Month 4-6**: Scale involvement
-5. **Month 6+**: Become veteran helper
+1. <strong>Week 1</strong>: Learn and observe
+2. <strong>Week 2-4</strong>: Active participation
+3. <strong>Month 2-3</strong>: Build reputation
+4. <strong>Month 4-6</strong>: Scale involvement
+5. <strong>Month 6+</strong>: Become veteran helper
 
 ### Success Metrics
 
 You'll know you're on track when:
 
-- **Community recognizes** your username
-- **Actions succeed** more than fail
-
-- **Reputation grows** steadily
-
-- **Opportunities increase** naturally
-
-- **You help newcomers** confidently
+- <strong>Community recognizes</strong> your username
+- <strong>Actions succeed</strong> more than fail
+- <strong>Reputation grows</strong> steadily
+- <strong>Opportunities increase</strong> naturally
+- <strong>You help newcomers</strong> confidently
 
 ## 🎉 Welcome to Studio3!
 
@@ -428,13 +380,13 @@ You'll know you're on track when:
 
 <h3>🌟 You're Part of Something Special</h3>
 
-<p>** By joining Studio3, you're not just participating in a platform - you're helping build the future of venture creation. Every signal, every validation, every milestone contributes to an ecosystem where:**</p>
+<p><strong>By joining Studio3, you're not just participating in a platform - you're helping build the future of venture creation. Every signal, every validation, every milestone contributes to an ecosystem where:</strong></p>
 <ul>
-<li>**Great ideas find support**</li>
+<li><strong>Great ideas find support</strong></li>
 <li>Merit beats connections</li>
-<li>**Transparency builds trust**</li>
+<li><strong>Transparency builds trust</strong></li>
 <li>Community creates value</li>
-<li>**Everyone can succeed**</li>
+<li><strong>Everyone can succeed</strong></li>
 </ul>
 </div>
 
@@ -442,20 +394,20 @@ You'll know you're on track when:
 
 ### Continue Your Journey
 
-1. **Dive deeper** with the [Overview Guide](../overview-guide/index.md)
-2. **Master your role** with specific guides
-3. **Join the community** on [Discord](https://discord.gg/studio3)
-4. **Start participating** today
+1. <strong>Dive deeper</strong> with the [Overview Guide](../overview-guide/index.md)
+2. <strong>Master your role</strong> with specific guides
+3. <strong>Join the community</strong> on [Discord](https://discord.gg/studio3)
+4. <strong>Start participating</strong> today
 
 ### Quick Links
 
-- **Platform**: [studio3.xyz](https://studio3.xyz)
-- **Support**: support@studio3.xyz
-- **Discord**: [discord.gg/studio3](https://discord.gg/studio3)
-- **Twitter**: [@Studio3Official](https://twitter.com/Studio3Official)
+- <strong>Platform</strong>: [studio3.xyz](https://studio3.xyz)
+- <strong>Support</strong>: support@studio3.xyz
+- <strong>Discord</strong>: [discord.gg/studio3](https://discord.gg/studio3)
+- <strong>Twitter</strong>: [@Studio3Official](https://twitter.com/Studio3Official)
 
 
 !!! success "Ready to Begin?"
     Your Studio3 journey starts now. Choose your role, take the first step, and join thousands building the future of venture creation together.
     
-    **Remember**: Every expert was once a beginner. Start small, stay consistent, and trust the process.
+    <strong>Remember</strong>: Every expert was once a beginner. Start small, stay consistent, and trust the process.

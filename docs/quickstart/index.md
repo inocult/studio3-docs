@@ -35,10 +35,11 @@ This quickstart guide gives you the essential overview of Studio3 in just a few 
 
 Imagine a world where:
 
-- **Great ideas** don't die from lack of resources
-- **Community wisdom** guides venture development
-- **Transparent progress** replaces closed-door decisions
-- **Everyone wins** when ventures succeed
+- <strong>Great ideas</strong> don't die from lack of resources
+- <strong>Community wisdom</strong> guides venture development
+- <strong>Transparent progress</strong> replaces closed-door decisions
+- <strong>Everyone wins</strong> when ventures succeed
+
 That's Studio3.
 
 ## 📖 Guide Contents
@@ -81,10 +82,8 @@ That's Studio3.
 
 Before diving into detailed guides, this quickstart:
 
-- **Saves time**
-- Get the essence without the details
-- **Helps you decide**
-- Is Studio3 right for you?
+- <strong>Saves time</strong> - Get the essence without the details
+- <strong>Helps you decide</strong> - Is Studio3 right for you?
 
 ## 📥 Download Options
 
