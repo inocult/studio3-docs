@@ -63,18 +63,18 @@ graph TB
 
 !!! info "Sender → Echo Communications"
 
-    - **Milestone Declarations**: Clear, specific commitments**
-    - **Progress Updates**: Daily during active periods**
-    - **Challenge Transparency**: Honest about obstacles**
-    - **Success Celebrations**: Share wins with supporters**
+    - **Milestone Declarations**: Clear, specific commitments
+    - **Progress Updates**: Daily during active periods
+    - **Challenge Transparency**: Honest about obstacles
+    - **Success Celebrations**: Share wins with supporters
     - **Pivot Explanations**: Justify major changes
 
 !!! info "Echo → Sender Communications"
 
-    - **Due Diligence Questions**: Understand the venture**
-    - **Constructive Feedback**: Improve execution**
-    - **Market Intelligence**: Share relevant insights**
-    - **Network Connections**: Introduce helpful contacts**
+    - **Due Diligence Questions**: Understand the venture
+    - **Constructive Feedback**: Improve execution
+    - **Market Intelligence**: Share relevant insights
+    - **Network Connections**: Introduce helpful contacts
     - **Moral Support**: Encourage during challenges
 
 ### Value Exchange
@@ -200,9 +200,9 @@ sequenceDiagram
 
 !!! warning "Balancing Knowledge"
 
-    - **Anchors know more** about technical execution**
-    - **Echoes know more** about market sentiment**
-    - **Together they create** complete picture**
+    - **Anchors know more** about technical execution
+    - **Echoes know more** about market sentiment
+    - **Together they create** complete picture
     - **Transparency bridges** information gaps
 
 ## Multi-Party Interactions
@@ -364,10 +364,10 @@ graph LR
 
 !!! info "Positive Emergent Patterns"
 
-    - **Reputation Networks**: Trust builds exponentially**
-    - **Knowledge Sharing**: Collective intelligence emerges**
-    - **Innovation Clusters**: Similar ventures collaborate**
-    - **Mentorship Chains**: Successful founders become Anchors**
+    - **Reputation Networks**: Trust builds exponentially
+    - **Knowledge Sharing**: Collective intelligence emerges
+    - **Innovation Clusters**: Similar ventures collaborate
+    - **Mentorship Chains**: Successful founders become Anchors
     - **Investment Syndicates**: Echoes coordinate strategies
 
 ## Interaction Metrics
@@ -468,10 +468,10 @@ graph LR
 
 !!! tip "Coming Interaction Features"
 
-    - **AI-Mediated Discussions**: Better conversation facilitation**
-    - **Reputation Weighted Voting**: Influence based on track record**
-    - **Cross-Venture Collaboration**: Formal partnership tools**
-    - **Automated Conflict Detection**: Early warning systems**
+    - **AI-Mediated Discussions**: Better conversation facilitation
+    - **Reputation Weighted Voting**: Influence based on track record
+    - **Cross-Venture Collaboration**: Formal partnership tools
+    - **Automated Conflict Detection**: Early warning systems
     - **Interaction Rewards**: Incentivize quality engagement
 
 ## Your Interaction Strategy

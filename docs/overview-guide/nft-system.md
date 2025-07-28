@@ -106,7 +106,7 @@ graph TD
 
 
 
-Utility:**
+Utility:
 
 **Trading:**
 
@@ -123,7 +123,7 @@ Browse Flambette
 4. **Mint Spark**
 - Pay minting fee, receive NFT
 5. **Enter Arena**
-- Use Spark to launch venture**### Spark Metadata
+- Use Spark to launch venture
 
 ```json
 {
@@ -144,10 +144,10 @@ Browse Flambette
 
 | Factor | Impact on Value |
 |--------|----------------|
-| **IP Quality** | Higher quality sources = higher value  |
-| **Synthesis Novelty** | Unique combinations command premiums  |
-| **Market Timing** | Hot sectors increase demand  |
-| **Creator Reputation** | Proven creators' Sparks valued higher  |
+| **IP Quality** | Higher quality sources = higher value |
+| **Synthesis Novelty** | Unique combinations command premiums |
+| **Market Timing** | Hot sectors increase demand |
+| **Creator Reputation** | Proven creators' Sparks valued higher |
 | **Historical Performance** | Sparks that led to successful ventures |
 
 ## Signal NFT
@@ -162,7 +162,7 @@ Browse Flambette
 
 
 
-Utility:**
+Utility:
 
 **Updates:**
 
@@ -173,7 +173,7 @@ Utility:**
 <h3>🎨 Visual Evolution</h3>
 
 
-<p>The Signal NFT's appearance changes based on:**</p>
+<p>The Signal NFT's appearance changes based on:</p>
 <ul>
 <li><strong>Phase Progress:</strong></li>
 
@@ -235,10 +235,10 @@ Utility:**
 
 | Utility | Description |
 |---------|-------------|
-| **Governance Weight** | Vote power in Container DAO decisions  |
-| **Revenue Share** | Claim on protocol revenues  |
-| **Access Rights** | Entry to founder-only resources  |
-| **Network Benefits** | Priority access to partners  |
+| **Governance Weight** | Vote power in Container DAO decisions |
+| **Revenue Share** | Claim on protocol revenues |
+| **Access Rights** | Entry to founder-only resources |
+| **Network Benefits** | Priority access to partners |
 | **Historical Record** | Immutable proof of journey |
 
 ## Halo NFT
@@ -253,7 +253,7 @@ Utility:**
 
 
 
-Utility:**
+Utility:
 
 **Transfer:**
 
@@ -362,10 +362,10 @@ graph LR
 
 !!! tip "Trading Strategies"
 
-- **Spark Trading** : Buy promising ideas early
-- **-**Signal Watching** : Track rising ventures
-- **-**Halo Hunting** : Identify near-graduation ventures
-- **-**Trinity Collecting**: Acquire complete sets**## Technical Implementation
+- **Spark Trading**: Buy promising ideas early
+-Signal Watching: Track rising ventures
+-Halo Hunting: Identify near-graduation ventures
+-Trinity Collecting**: Acquire complete sets**## Technical Implementation
 
 ### Smart Contract Architecture
 
@@ -460,7 +460,7 @@ All NFTs follow extended ERC-721 with:
 
 ### Your NFT Journey
 
-1. **As a Creator**: Start on Flambette, mint your Spark2. **As a Founder**: Win the Forge, earn your Signal**3. **As a Collector**: Trade Sparks, watch Signals**4. **As a Builder**: Work toward your Halo**## Next Steps
+1. **As a Creator**: Start on Flambette, mint your Spark2. **As a Founder**: Win the Forge, earn your Signal**3. **As a Collector**: Trade Sparks, watch Signals**4. **As a Builder: Work toward your Halo
 
 - Explore [Seven Phase Lifecycle](seven-phases.md) to understand the journey
 - Learn about [The Arena System](arena-system.md) where NFTs are earned

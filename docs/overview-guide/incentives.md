@@ -46,16 +46,16 @@ graph TD
 
 ### 🏗️ Founder Incentive Stack
 ** Short-term Incentives:**
-- **💰 **Milestone Funding** : Immediate resources for execution
-- **📡 **Community Support** : Belief signals provide validation
-- **🎓 **Expert Guidance** : Anchor mentorship accelerates growth
-- **🏆 **Public Recognition** : Arena success builds reputation
+- **💰 **Milestone Funding: Immediate resources for execution
+- **📡 **Community Support: Belief signals provide validation
+- **🎓 **Expert Guidance: Anchor mentorship accelerates growth
+- **🏆 **Public Recognition: Arena success builds reputation
 
 ** Long-term Incentives:**
-- **👑 **Full Ownership** : Sovereignty through Ascension
-- **🚀 **Unlimited Upside** : No cap on venture value
-- **🌐 **Network Effects** : Alumni status opens doors
-- **🏭 **Sub-Studio Rights** : Launch your own ecosystem
+- **👑 **Full Ownership: Sovereignty through Ascension
+- **🚀 **Unlimited Upside: No cap on venture value
+- **🌐 **Network Effects: Alumni status opens doors
+- **🏭 **Sub-Studio Rights: Launch your own ecosystem
 
 ** Behavioral Alignment:**
 - **Transparency rewarded with more support**
@@ -66,17 +66,17 @@ graph TD
 ### For Echoes (Supporters)
 
 ### 📡 Echo Incentive Matrix
-**Direct Returns:** | Signal Type | Accuracy | Return Multiple | Risk |**|-------------|----------|-----------------|------|
+**Direct Returns:** | Signal Type | Accuracy | Return Multiple | Risk ||-------------|----------|-----------------|------|
 | Early Belief | Correct | 2.5-3x | High |
 | Late Belief | Correct | 1.5-2x | Medium |
 | Early Doubt | Correct | 1.8-2x | Medium |
 | Contrarian | Correct | +0.3x bonus | Varies |
 
 ** Indirect Benefits:**
-- **🌟 **Reputation Growth** : XP from accurate predictions
-- **🤝 **Network Access** : Connect with winners early
-- **🎓 **Learning Opportunity** : Understand venture building
-- **🎯 **Influence Power** : Shape venture direction
+- **🌟 **Reputation Growth: XP from accurate predictions
+- **🤝 **Network Access: Connect with winners early
+- **🎓 **Learning Opportunity: Understand venture building
+- **🎯 **Influence Power: Shape venture direction
 
 ** Behavioral Incentives:**
 - **Research rewarded over speculation**
@@ -88,17 +88,17 @@ graph TD
 
 ### ⚓ Anchor Reward System
 ** Fee Structure:**
-- **Base fee** : 3% of milestone value
-- **Quality multiplier** : 1x to 3x based on validation score
-- **Speed bonus** : Up to 20% for 24-hour completion
-- **Reputation multiplier** : +10% per 10,000 XP
-- **Maximum fee** : Capped at 10% of milestone value
+- **Base fee**: 3% of milestone value
+- **Quality multiplier**: 1x to 3x based on validation score
+- **Speed bonus**: Up to 20% for 24-hour completion
+- **Reputation multiplier**: +10% per 10,000 XP
+- **Maximum fee**: Capped at 10% of milestone value
 
 ** Additional Incentives:**
-- **🎆 **Success Participation** : Tokens in validated ventures
-- **👥 **Network Premium** : Access to top founders
-- **🏅 **Status Recognition** : Elite validator standing
-- **🌱 **Ecosystem Impact** : Shape quality standards
+- **🎆 **Success Participation: Tokens in validated ventures
+- **👥 **Network Premium: Access to top founders
+- **🏅 **Status Recognition: Elite validator standing
+- **🌱 **Ecosystem Impact: Shape quality standards
 
 ** Behavioral Alignment:**
 - **Thorough validation rewarded over rushed**
@@ -131,19 +131,19 @@ graph LR
 
 !!! warning "Negative Incentives Also Align"
     
-   ** For Senders:
+    For Senders:
 - **Failed milestones damage reputation permanently**
 - Poor communication reduces future support
 
 - Abandoned ventures blacklist founders
     
-   ** For Echoes:
-- **Wrong signals burn tokens irrecoverably  **
+    For Echoes:
+- **Wrong signals burn tokens irrecoverably **
 - Herd following punished through contrarian bonuses
 
 - Inactive accounts lose reputation over time
     
-   ** For Anchors:
+    For Anchors:
 - **Poor validations reduce future assignments**
 - Biased judgments trigger Council review
 
@@ -212,12 +212,12 @@ flowchart TD
 Cannot Be Bought
 
 - **Only earned through performance**
-- 2.** Cannot Be Transferred
+2. **Cannot Be Transferred**
 - Prevents gaming
 3. **Decays Without Activity**
 - Encourages participation
 4. **Multiplies Opportunities**
-- Success breeds success**
+- Success breeds success
 - **Reputation Benefits:**
 - **🎯 Higher signal multipliers**
 - 🗿️ Governance voting weight
@@ -228,10 +228,10 @@ Cannot Be Bought
 
 !!! info "Everyone Benefits from Growth"
 
-    - **More Senders** - = More opportunities for Echoes More Echoes**
-    - = Better funding for Senders** More Anchors** - = Higher quality standards**  Higher Quality
-- **- = Attracts more participants** Larger Network**
-- = Greater value for all**## Temporal Alignments
+    - **More Senders** = More opportunities for Echoes More Echoes
+    - = Better funding for Senders** More Anchors** - = Higher quality standards Higher Quality
+- **- = Attracts more participants** Larger Network
+- = Greater value for all
 
 ### Short vs Long Term
 
@@ -330,7 +330,7 @@ Cannot Be Bought
 
 When incentives seem misaligned:
 
-- 1.** Transparency First
+1. **Transparency First**
 - Make all positions clear
 2. **Find Common Ground**
 - Shared success metrics
@@ -339,7 +339,7 @@ When incentives seem misaligned:
 4. **Community Decision**
 - Let ecosystem decide
 5. **Learn & Adjust**
-- Evolve the system**## Incentive Evolution
+- Evolve the system
 
 ### Continuous Improvement
 
@@ -367,11 +367,11 @@ When incentives seem misaligned:
 
 !!! tip "Planned Enhancements"
 
-- **Dynamic Multipliers** : Adjust based on market conditions
-- **-**Skill-Based Matching** : Connect compatible participants
-- **-**Achievement Unlocks** : Gamified progression rewards
-- **-**Cross-Venture Synergies** : Incentivize collaboration
-- **-**Retroactive Rewards**: Surprise bonuses for excellence**## Success Metrics
+- **Dynamic Multipliers**: Adjust based on market conditions
+-Skill-Based Matching: Connect compatible participants
+-Achievement Unlocks: Gamified progression rewards
+-Cross-Venture Synergies: Incentivize collaboration
+-Retroactive Rewards**: Surprise bonuses for excellence**## Success Metrics
 
 ### Measuring Alignment
 
@@ -414,21 +414,21 @@ When incentives seem misaligned:
 ### Alignment in Action
 
 #### 🌟 The DataMesh Success
-**Situation:** Complex technical venture needing patient capital- **Alignment:**  Long-term Echoes matched with technical AnchorsResult:
+**Situation:** Complex technical venture needing patient capital- Alignment: Long-term Echoes matched with technical AnchorsResult:
 
-18-month journey to profitability, 5x returns**> "The aligned incentives meant our Echoes supported us through the hard times, knowing the long-term payoff. Traditional VCs would have pushed for premature scaling." - DataMesh CTO
+18-month journey to profitability, 5x returns> "The aligned incentives meant our Echoes supported us through the hard times, knowing the long-term payoff. Traditional VCs would have pushed for premature scaling." - DataMesh CTO
 
 #### 💪 The QuickPivot Comeback
 
-**Situation:** Failed first product, needed major pivot- **Alignment:**  Burn mechanics motivated honest assessmentResult:
+**Situation:** Failed first product, needed major pivot- Alignment: Burn mechanics motivated honest assessmentResult:
 
-Fast pivot, community retained, eventual success**> "Losing tokens hurt, but it forced us to be honest about our failure. The quick pivot saved the venture and our supporters appreciated the transparency." - QuickPivot Founder
+Fast pivot, community retained, eventual success> "Losing tokens hurt, but it forced us to be honest about our failure. The quick pivot saved the venture and our supporters appreciated the transparency." - QuickPivot Founder
 
 ## Your Incentive Strategy
 
 ### Maximizing Your Alignment
 
-- 1. ** Understand the System
+- 1. Understand the System
 - Know what behaviors are rewarded
 2. **Play Long Games**
 - Reputation compounds over time
@@ -437,7 +437,7 @@ Fast pivot, community retained, eventual success**> "Losing tokens hurt, but it 
 4. **Build Relationships**
 - Network effects multiply returns
 5. **Stay Engaged**
-- Active participation captures more value**## Next Steps
+- Active participation captures more value
 
 - Review role-specific incentives in detailed guides
 - Study [Token Economics](signal-token.md) for deeper understanding

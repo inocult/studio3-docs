@@ -305,10 +305,10 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 !!! danger "Avoid These Errors"
 
-    - **Information Overload**: Trying to learn everything at once**
-    - **Premature Big Moves**: Going all-in too early**
-    - **Ignoring Community**: Working in isolation**
-    - **Emotional Decisions**: Reacting vs responding**
+    - **Information Overload**: Trying to learn everything at once
+    - **Premature Big Moves**: Going all-in too early
+    - **Ignoring Community**: Working in isolation
+    - **Emotional Decisions**: Reacting vs responding
     - **Poor Time Management**: Overcommitting early
 
 ### Role-Specific Warnings
@@ -375,7 +375,7 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 - Build initial connections
 - Establish routines
 
-### Week 2: Experimentation  
+### Week 2: Experimentation 
 - Try different strategies
 - Increase activity level
 - Deepen relationships

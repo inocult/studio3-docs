@@ -12,13 +12,13 @@ Studio3's rewards and penalties system creates powerful incentives for quality e
 
 **Core Philosophy:**
 
-- **🏆 **Rewards** incentivize positive behavior 🔥**Penalties**  discourage negative behavior
+- **🏆 **Rewards** incentivize positive behavior 🔥Penalties** discourage negative behavior
 * ⚖️ **Balance** creates sustainable ecosystem
 
 * 🎯 **Fairness** ensures long-term participation
 
-**Key Principles:**  1. Rewards proportional to risk taken
-- **2. Penalties severe enough to deter gaming**3. Transparent calculation methods**
+**Key Principles:** 1. Rewards proportional to risk taken
+- **2. Penalties severe enough to deter gaming**3. Transparent calculation methods
 4. Immediate settlement when possible
 5. No retroactive changes
 
@@ -54,12 +54,12 @@ graph TD
 - Wrong predictions result in 100% loss
 
 ** Bonus Multipliers:**
-- **Timing Bonus** : Up to 0.5x for early signals (decreases linearly over time)
-- **Contrarian Bonus** : 0.3x for going against the majority and being right
-- **Reputation Bonus** : Up to 0.3x based on your XP level
-- **Phase Bonus** : Higher multipliers for later-stage ventures
-- **Maximum Total Multiplier** : 3x (capped to prevent extreme returns)
-- **Reward Examples:**  | Scenario | Stake | Multiplier | Reward | Profit ||----------|-------|------------|--------|--------|
+- **Timing Bonus**: Up to 0.5x for early signals (decreases linearly over time)
+- **Contrarian Bonus**: 0.3x for going against the majority and being right
+- **Reputation Bonus**: Up to 0.3x based on your XP level
+- **Phase Bonus**: Higher multipliers for later-stage ventures
+- **Maximum Total Multiplier**: 3x (capped to prevent extreme returns)
+- **Reward Examples:** | Scenario | Stake | Multiplier | Reward | Profit ||----------|-------|------------|--------|--------|
 | Early belief, success | 1,000 | 2.1x | 2,100 | 1,100 |
 | Late belief, success | 1,000 | 1.6x | 1,600 | 600 |
 | Contrarian doubt, correct | 1,000 | 1.8x | 1,800 | 800 |
@@ -98,26 +98,26 @@ graph TD
 - Greater autonomy
 
 ** Success Multipliers:**
-- **Funding Unlock** : 100% of milestone budget released
-- **XP Gain** : Base XP multiplied by milestone difficulty
-- **Trust Score** : 10% increase on successful delivery
-- **Next Milestone** : 5% boost to belief ratio per success**
+- **Funding Unlock**: 100% of milestone budget released
+- **XP Gain**: Base XP multiplied by milestone difficulty
+- **Trust Score**: 10% increase on successful delivery
+- **Next Milestone**: 5% boost to belief ratio per success
 
 ### For Anchors (Validators)
 
 ### ⚓ Anchor Compensation Structure
-**Base Validation Fees:** | Milestone Value | Base Fee | Range with Bonuses |**|-----------------|----------|--------------------|
+**Base Validation Fees:** | Milestone Value | Base Fee | Range with Bonuses ||-----------------|----------|--------------------|
 | < 10K $SIGNAL | 3% | 3-9% |
 | 10K-100K | 2.5% | 2.5-7.5% |
 | 100K-1M | 2% | 2-6% |
 | > 1M | 1.5% | 1.5-4.5% |
 
 ** Performance Multipliers:**
-- **Quality Multiplier** : 1x to 3x based on validation thoroughness
-- **Speed Bonus** : +20% for completion within 24 hours
-- **Accuracy History** : Up to +30% based on past performance
-- **Mentorship Bonus** : +50% if venture succeeds after your guidance
-- **Maximum Total Fee** : Capped at 10% of milestone value**
+- **Quality Multiplier**: 1x to 3x based on validation thoroughness
+- **Speed Bonus**: +20% for completion within 24 hours
+- **Accuracy History**: Up to +30% based on past performance
+- **Mentorship Bonus**: +50% if venture succeeds after your guidance
+- **Maximum Total Fee**: Capped at 10% of milestone value
 
 ## Penalties Structure
 
@@ -125,11 +125,11 @@ graph TD
 
 ### 🔥 Echo Penalty System
 ** Wrong Signal Penalties:**
-- **Total Loss** : 100% of staked tokens burned
-- **No Partial Refunds** : Binary outcome
-- **Reputation Impact** : XP reduction
-- **Permanent Record** : Affects future multipliers
-- **Penalty Scenarios:**  | Signal Type | Outcome | Penalty ||-------------|---------|----------|
+- **Total Loss**: 100% of staked tokens burned
+- **No Partial Refunds**: Binary outcome
+- **Reputation Impact**: XP reduction
+- **Permanent Record**: Affects future multipliers
+- **Penalty Scenarios:** | Signal Type | Outcome | Penalty ||-------------|---------|----------|
 | Belief | Milestone Failed | 100% burn |
 | Doubt | Milestone Succeeded | 100% burn |
 | Any | Venture Abandoned | 100% burn |
@@ -137,7 +137,7 @@ graph TD
 
 
 
-Additional Penalties:**
+Additional Penalties:
 - **Market manipulation: Account suspension**
 - Collusion detected: Permanent ban
 - Spam signaling: Escalating fees
@@ -213,7 +213,7 @@ Additional Penalties:**
 
 <ul>
 <li><strong>First minor issue</strong></li>
-<li>2.** Probation</li>
+<li>2. **Probation</li>**
 <li>Reduced fee rate</li>
 </ul>
 <p>3. <strong>Suspension</strong></p>
@@ -222,9 +222,9 @@ Additional Penalties:**
 </ul>
 <p>4. <strong>Removal</strong></p>
 <ul>
-<li>Permanent status loss**</li>
+<li>Permanent status loss</li>
 <li><strong>Financial Penalties:</strong></li>
-<li><strong>If validation is overturned:</strong> Fee Clawback**: Must return 2x the original fee</li>
+<li><strong>If validation is overturned:</strong> Fee Clawback: Must return 2x the original fee</li>
 <li><strong>Reputation Loss</strong> : -500 XP penalty</li>
 <li><strong>Future Rate Cut</strong> : 20% reduction in fee rates</li>
 
@@ -328,10 +328,10 @@ sequenceDiagram
 
 !!! tip "Limited Time Bonuses"
 
-- **Summer Sprint** : 1.5x all rewards
-- **-**New Year Launch** : Double XP month
-- **-**Anniversary Celebration** : Retroactive bonuses
-- **-**Milestone Mania**: Bonus for completions**## Penalty Mitigation
+- **Summer Sprint**: 1.5x all rewards
+-New Year Launch: Double XP month
+-Anniversary Celebration: Retroactive bonuses
+-Milestone Mania**: Bonus for completions**## Penalty Mitigation
 
 ### Insurance Mechanisms
 
@@ -417,19 +417,19 @@ sequenceDiagram
 
 ### Reward Optimization Strategy
 ** For Echoes:**
-- **Strategy** : Focus on early contrarian signals
-- **Expected Return** : 2.3x average multiplier
-- **Risk Level** : High
+- **Strategy**: Focus on early contrarian signals
+- **Expected Return**: 2.3x average multiplier
+- **Risk Level**: High
 
 ** For Senders:**
-- **Strategy** : Under-promise and over-deliver
-- **Expected Bonus** : 15% above baseline
-- **Risk Level** : Medium
+- **Strategy**: Under-promise and over-deliver
+- **Expected Bonus**: 15% above baseline
+- **Risk Level**: Medium
 
 ** For Anchors:**
-- **Strategy** : Thorough validation plus active mentorship
-- **Expected Return** : 5.5% average fee rate
-- **Risk Level** : Low**
+- **Strategy**: Thorough validation plus active mentorship
+- **Expected Return**: 5.5% average fee rate
+- **Risk Level**: Low
 
 ## Case Studies
 
@@ -477,15 +477,15 @@ sequenceDiagram
 
 !!! info "Roadmap Items"
 
-    - **Dynamic Multipliers** : AI-adjusted based on difficulty
-- **-**Partial Rewards** : Graduated success levels
-- **-**Team Bonuses** : Collaborative achievement rewards
-- **-**Streak Rewards** : Consecutive success bonuses
-- **-**Social Rewards**: Community contribution points**## Your Strategy
+    - **Dynamic Multipliers**: AI-adjusted based on difficulty
+-Partial Rewards: Graduated success levels
+-Team Bonuses: Collaborative achievement rewards
+-Streak Rewards: Consecutive success bonuses
+-Social Rewards**: Community contribution points**## Your Strategy
 
 ### Maximizing Rewards
 
-- 1. ** Research Thoroughly
+- 1. Research Thoroughly
 - Knowledge reduces risk
 2. **Time Entry Well**
 - Early birds get bonuses
@@ -494,9 +494,9 @@ sequenceDiagram
 4. **Stay Active**
 - Avoid decay penalties
 5. **Learn Continuously**
-- Adapt strategies**### Minimizing Penalties
+- Adapt strategies
 
-- 1. ** Start Small
+- 1. Start Small
 - Learn with low stakes
 2. **Diversify Risk**
 - Don't all-in
@@ -505,7 +505,7 @@ sequenceDiagram
 4. **Communicate Issues**
 - Early disclosure helps
 5. **Accept Losses**
-- Part of the game**## Next Steps
+- Part of the game
 
 - Study [Value Flow](value-flow.md) to understand system economics
 - Review role-specific guides for detailed strategies

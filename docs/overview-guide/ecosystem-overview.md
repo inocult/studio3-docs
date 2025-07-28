@@ -12,9 +12,9 @@ At the heart of Studio3 lies the Arena - public spaces where ventures prove them
 
 !!! info "Arena Types"
 
-    - **Spark Arenas**: Where ideas compete for attention**
-    - **Forge Arenas**: Battlegrounds for founder duels**
-    - **Milestone Arenas**: Public execution venues**
+    - **Spark Arenas**: Where ideas compete for attention
+    - **Forge Arenas**: Battlegrounds for founder duels
+    - **Milestone Arenas**: Public execution venues
     - **Validation Arenas**: Where progress is verified
 
 ### 📡 The Signal Economy
@@ -61,7 +61,7 @@ graph LR
 - **Container DAOs**: Lightweight governance wrappers for each venture
 - **Genesis Wallets**: Multisig treasuries holding venture NFTs
 - **Signal Pools**: Aggregated belief/doubt for each milestone
-- **Reputation System**: XP tracking for all participants**
+- **Reputation System**: XP tracking for all participants
 
 ## Value Flows
 
@@ -96,7 +96,7 @@ The source of all Spark NFTs through IP remixing:
 - **Technical Validators**: Specialized anchors for deep tech
 - **Capital Partners**: Funding sources for Flare phase
 - **Service Providers**: Legal, marketing, development support
-- **Alumni Network**: Graduated ventures supporting newcomers**
+- **Alumni Network**: Graduated ventures supporting newcomers
 
 ## Network Effects
 
@@ -112,7 +112,7 @@ The source of all Spark NFTs through IP remixing:
 - **Reputation persistence**: XP can't be gamed or transferred
 - **Skin in the game**: Real token stakes prevent spam
 - **Public execution**: Transparency deters bad actors
-- **Community memory**: Past performance influences future**
+- **Community memory**: Past performance influences future
 
 ## Ecosystem Health Metrics
 
@@ -139,9 +139,9 @@ The source of all Spark NFTs through IP remixing:
 
 !!! tip "Coming Soon"
 
-    - **Conditional Signals**: "I believe IF..."**
-    - **Cross-Venture Strategies**: Portfolio approaches**
-    - **Recursive Studios**: Graduates launching sub-platforms**
+    - **Conditional Signals**: "I believe IF..."
+    - **Cross-Venture Strategies**: Portfolio approaches
+    - **Recursive Studios**: Graduates launching sub-platforms
     - **Global Anchor Network**: Specialized validation
 
 ### Ecosystem Sustainability
@@ -158,7 +158,7 @@ The source of all Spark NFTs through IP remixing:
 - **Discord Community**: Real-time discussions and support
 - **Arena Dashboard**: Track all active ventures
 - **Signal Analytics**: Market intelligence tools
-- **Anchor Network**: Find mentors and validators**
+- **Anchor Network**: Find mentors and validators
 
 ### First Steps
 

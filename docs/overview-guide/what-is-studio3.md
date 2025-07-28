@@ -44,7 +44,7 @@ Building ventures becomes an engaging experience:
 Everyone wins when ventures succeed:
 
 - **Founders** gain resources and support
-- **Supporters**  earn rewards for accurate predictions
+- **Supporters** earn rewards for accurate predictions
 
 - **Validators** → [Anchors Guide](../anchors-guide/index.md)
 

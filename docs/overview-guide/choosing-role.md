@@ -146,7 +146,7 @@ Rate yourself 1-5 on each:
 - **Team Building**
 - Can you attract talent?
 
-**Score 20+**: You're ready to be a Sender  **Score 15-19:** : Build skills first  Score <15**: Consider Echo or Anchor role**### For Potential Echoes
+**Score 20+**: You're ready to be a Sender **Score 15-19:**: Build skills first Score <15**: Consider Echo or Anchor role**### For Potential Echoes
 
 Rate yourself 1-5 on each:
 
@@ -161,7 +161,7 @@ Rate yourself 1-5 on each:
 - **Community Engagement**
 - Are you active?
 
-**Score 20+**: Perfect Echo material  **Score 15-19:** : Start small and learn  Score <15**: Study successful Echoes first**### For Potential Anchors
+**Score 20+**: Perfect Echo material **Score 15-19:**: Start small and learn Score <15**: Study successful Echoes first**### For Potential Anchors
 
 Rate yourself 1-5 on each:
 
@@ -176,14 +176,14 @@ Rate yourself 1-5 on each:
 - **Time Management**
 - Can you meet deadlines?
 
-**Score 20+**: Apply for Anchor status  **Score 15-19:** : Gain more experience  Score <15**: Build expertise as Echo first**## Multiple Roles
+**Score 20+**: Apply for Anchor status **Score 15-19:**: Gain more experience Score <15**: Build expertise as Echo first**## Multiple Roles
 
 ### Can You Play Multiple Roles?
 
 ** Yes, with restrictions:**
-- **Echo + Future Sender** : Common progression path
-- **Successful Sender → Anchor** : Natural evolution
-- **Echo + Anchor** : Allowed with disclosure
+- **Echo + Future Sender**: Common progression path
+- **Successful Sender → Anchor**: Natural evolution
+- **Echo + Anchor**: Allowed with disclosure
 
 ** Conflicts to avoid:**
 - **Don't signal on ventures you validate**
@@ -216,7 +216,7 @@ graph LR
 
 <h4>🌱 Complete Beginner</h4>
 
-<p>Start as an<strong>Echo</strong>  with small signals to:</p>
+<p>Start as an<strong>Echo</strong> with small signals to:</p>
 
 <ul>
 <li><strong>Learn the ecosystem</strong></li>
@@ -232,7 +232,7 @@ graph LR
 
 <h4>🚀 Experienced Entrepreneur</h4>
 
-<p>Jump in as a<strong>Sender</strong>  if you have:</p>
+<p>Jump in as a<strong>Sender</strong> if you have:</p>
 
 <ul>
 <li><strong>Clear venture idea</strong></li>
@@ -248,7 +248,7 @@ graph LR
 
 <h4>🎓 Industry Expert</h4>
 
-<p>Consider<strong>Anchor</strong>  role if you have:</p>
+<p>Consider<strong>Anchor</strong> role if you have:</p>
 
 <ul>
 <li><strong>5+ years experience</strong></li>
@@ -266,10 +266,10 @@ graph LR
 ### Step 1: Assess Your Resources
 
 - **Time**: How many hours per day?
-- **Capital** : How much $SIGNAL available?
-- **Skills** : What's your superpower?
-- **Risk** : What can you afford to lose?
-- **Goals** : What do you want to achieve?**
+- **Capital**: How much $SIGNAL available?
+- **Skills**: What's your superpower?
+- **Risk**: What can you afford to lose?
+- **Goals**: What do you want to achieve?
 
 ### Step 2: Match to Role
 
@@ -284,7 +284,7 @@ graph LR
 
 Whatever role you choose:
 
-- 1.** Observe first
+1. **Observe first**
 - Watch active participants
 2. **Start minimal**
 - Small stakes/commitments
@@ -293,21 +293,21 @@ Whatever role you choose:
 4. **Build reputation**
 - Consistency matters
 5. **Scale gradually**
-- Grow with experience**## Common Mistakes
+- Grow with experience
 
 ### Choosing Wrong Role
 
 !!! warning "Avoid These Pitfalls"
 
-- **Ego-driven Sender** : Starting a venture for status
-- **-**Gambling Echo** : Treating signals like casino bets
-- **-**Biased Anchor** : Validating based on relationships
-- **-**Overcommitted** : Taking on too much too fast
-- **-**Undercommitted**: Not giving enough effort**### Role Misalignment Signs
+- **Ego-driven Sender**: Starting a venture for status
+-Gambling Echo: Treating signals like casino bets
+-Biased Anchor: Validating based on relationships
+-Overcommitted: Taking on too much too fast
+-Undercommitted**: Not giving enough effort**### Role Misalignment Signs
 
 - **Senders**: Constant stress, missing deadlines, poor communication
-- **Echoes** : All signals failing, emotional decisions, portfolio concentration
-- **Anchors** : Validation disputes, mentor conflicts, time management issues**
+- **Echoes**: All signals failing, emotional decisions, portfolio concentration
+- **Anchors**: Validation disputes, mentor conflicts, time management issues
 
 ## Making Your Choice
 
@@ -339,7 +339,7 @@ Whatever role you choose:
 Once you've chosen your role:
 
 - **Read the specific guide** for detailed instructions
-- **Join role-specific channels**  in the community
+- **Join role-specific channels** in the community
 - **Find a mentor**
 
 - * who's succeeded in that role
@@ -374,7 +374,7 @@ Once you've chosen your role:
 
 Now that you understand the roles:
 
-1. **Make your choice** based on the assessment2. **Proceed to [First Steps](first-steps.md)** for quick start**3. **Dive into your role-specific guide** for mastery**4. **Join the community** and introduce yourself
+1. **Make your choice** based on the assessment2. Proceed to [First Steps](first-steps.md)** for quick start**3. **Dive into your role-specific guide** for mastery4. **Join the community** and introduce yourself
 
 **Remember:**
 

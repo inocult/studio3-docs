@@ -103,10 +103,10 @@ graph TD
 
 !!! info "Everyone Needs Everyone"
 
-    - **Senders need Echoes** - for funding and validation Senders need Anchors**
-    - for guidance and verification** Echoes need Senders** - for investment opportunities**  Echoes need Anchors
-- **- for quality assurance** Anchors need Senders**
-- for ecosystem growth**  Anchors need Echoes
+    - **Senders need Echoes** for funding and validation Senders need Anchors
+    - for guidance and verification** Echoes need Senders** - for investment opportunities Echoes need Anchors
+- **- for quality assurance** Anchors need Senders
+- for ecosystem growth Anchors need Echoes
 - **- for decentralized wisdom**## Senders (Founders) Deep Dive
 
 ### The Builder's Journey
@@ -404,13 +404,13 @@ sequenceDiagram
 
 !!! warning "When Roles Clash"
     
-   ** Common Conflicts:
+    Common Conflicts:
 - **Sender overpromises, Echo loses tokens**
 - Echo signals doubt, Sender feels attacked
 
 - Anchor validates strictly, Sender disputes
     
-   ** Resolution Mechanisms:
+    Resolution Mechanisms:
 - **Public dialogue for transparency**
 - Anchor Council for disputes
 
@@ -458,10 +458,10 @@ sequenceDiagram
 
 !!! info "Roles Can Evolve"
 
-    - **Echo → Sender** : Build reputation, then launch venture
-- **-**Sender → Anchor** : After successful exit, give back
-- **-**Anchor → Sender** : Use expertise for new venture
-- **-**Multiple Roles**: Can be Echo while building as Sender**## Role Statistics
+    - **Echo → Sender**: Build reputation, then launch venture
+-Sender → Anchor: After successful exit, give back
+-Anchor → Sender: Use expertise for new venture
+-Multiple Roles**: Can be Echo while building as Sender**## Role Statistics
 
 ### Current Distribution
 
@@ -470,17 +470,17 @@ sequenceDiagram
 total_participants = 12847
 
 roles = {
-    'senders': 892,      # 7% - Fewer builders
-    'echoes': 10423,     # 81% - Most are supporters  
-    'anchors': 156,      # 1% - Elite validators
-    'multi_role': 1376   # 11% - Wear multiple hats
+    'senders': 892, # 7% - Fewer builders
+    'echoes': 10423, # 81% - Most are supporters 
+    'anchors': 156, # 1% - Elite validators
+    'multi_role': 1376 # 11% - Wear multiple hats
 }
 
 # Success Rates by Role
 success_metrics = {
-    'sender_graduation_rate': 0.34,  # 34% reach Ascension
-    'echo_profit_rate': 0.67,       # 67% profitable overall
-    'anchor_accuracy_rate': 0.89    # 89% validation accuracy
+    'sender_graduation_rate': 0.34, # 34% reach Ascension
+    'echo_profit_rate': 0.67, # 67% profitable overall
+    'anchor_accuracy_rate': 0.89 # 89% validation accuracy
 }
 ```
 
@@ -490,7 +490,7 @@ success_metrics = {
 |--------|---------|--------|----------|
 | **Avg Weekly Hours** | 50-60 | 5-10 | 10-15 |
 | **Success Rate** | 34% | 67% | 89% |
-| **Avg Earnings** | $500K** | $45K | $120K |
+| **Avg Earnings** | $500K | $45K | $120K |
 | **Reputation Growth** | High | Medium | Very High |
 
 *If successful to Ascension
@@ -524,7 +524,7 @@ success_metrics = {
 - improves Sender fundraising Sender experience
 
 - makes better Anchors** Anchor insights**
-- enhance Echo strategies** Cross-role networks** create opportunities**## Common Misconceptions
+- enhance Echo strategies** Cross-role networks** create opportunities## Common Misconceptions
 
 ### Role Myths Debunked
 
@@ -540,7 +540,7 @@ success_metrics = {
 
 ### Getting Started
 
-- 1. ** Explore All Roles
+- 1. Explore All Roles
 - Understand each deeply
 2. **Assess Yourself**
 - Match skills and goals
@@ -549,13 +549,13 @@ success_metrics = {
 4. **Build Reputation**
 - Success in any role
 5. **Stay Flexible**
-- Adapt as you learn**### Role Resources
+- Adapt as you learn
 
 - **For Senders**: [Senders Guide](../senders-guide/index.md)
 - Complete founder handbook
-- **For Echoes** : [Echoes Guide](../echoes-guide/index.md)
+- **For Echoes**: [Echoes Guide](../echoes-guide/index.md)
 - Master signaling
-- **For Anchors** : [Anchors Guide](../anchors-guide/index.md)
+- **For Anchors**: [Anchors Guide](../anchors-guide/index.md)
 - Validation excellence
 
 ## Next Steps

@@ -120,10 +120,10 @@ graph LR
 ### Forge Strategies
 
 !!! tip "Winning the Forge"
-    1. **Demonstrate Expertise** - Show deep domain knowledge**
-    2. **Rally Support** - Build coalitions before the duel**
-    3. **Present Clear Plan** - Specific milestones win votes**
-    4. **Show Commitment** - Stake significant tokens**
+    1. **Demonstrate Expertise** - Show deep domain knowledge
+    2. **Rally Support** - Build coalitions before the duel
+    3. **Present Clear Plan** - Specific milestones win votes
+    4. **Show Commitment** - Stake significant tokens
     5. **Engage Actively** - Answer all questions thoroughly
 
 ## Phase 3: Ignition 🚀
@@ -313,10 +313,10 @@ graph LR
 ### Scaling Strategies
 
 !!! success "Flare Playbook"
-    1. **Prove Unit Economics** - Show profitable growth potential**
-    2. **Build Investor Pipeline** - Leverage Studio3 network**
-    3. **Maintain Transparency** - Keep community informed**
-    4. **Execute Flawlessly** - High stakes, high scrutiny**
+    1. **Prove Unit Economics** - Show profitable growth potential
+    2. **Build Investor Pipeline** - Leverage Studio3 network
+    3. **Maintain Transparency** - Keep community informed
+    4. **Execute Flawlessly** - High stakes, high scrutiny
     5. **Prepare for Ascension** - Plan graduation early
 
 ### Growth Metrics
@@ -364,10 +364,10 @@ gross_margins = > 70% # For software
 
 !!! info "What Sovereignty Unlocks"
 
-    - **Full Control**: Complete ownership of all assets**
-    - **Sub-Studio Rights**: Launch your own ventures**
-    - **Alumni Network**: Lifetime Studio3 benefits**
-    - **Mentor Status**: Become an Anchor yourself**
+    - **Full Control**: Complete ownership of all assets
+    - **Sub-Studio Rights**: Launch your own ventures
+    - **Alumni Network**: Lifetime Studio3 benefits
+    - **Mentor Status**: Become an Anchor yourself
     - **Legacy Recognition**: Permanent ecosystem honor
 
 ### Post-Ascension Options

@@ -11,9 +11,9 @@ The Arena is Studio3's revolutionary public execution environment where ventures
 An Arena is a transparent, public space where:
 
 - **Ventures declare** their milestones
-- **Supporters signal**  their belief or doubt
+- **Supporters signal** their belief or doubt
 - **Progress unfolds** in real-time
-- **Results determine**  rewards and penalties**
+- **Results determine** rewards and penalties
 !!! quote "The Arena Philosophy"
     "In the Arena, there are no hidden failures, no private pivots, no secret struggles. Everything happens in the open, creating radical accountability."
 
@@ -112,16 +112,16 @@ sequenceDiagram
 ### Universal Principles
 
 !!! warning "Non-Negotiable Rules"
-    1. **All work must be public**  - No private development**
+    1. **All work must be public** - No private development
 1. 
-2. **All milestones are binding**  - Once declared, must be attempted
+2. **All milestones are binding** - Once declared, must be attempted
 2. 
-- 3.** All signals are final
-- No takebacks after placing**
-- **4.**  All validations are independent
+3. **All signals are final**
+- No takebacks after placing
+- **4. All validations are independent
 - No founder influence
-- **5.** All settlements are automatic
-- No manual overrides**### Phase-Specific Rules
+- **5. All settlements are automatic
+- No manual overrides
 
 #### Spark Arena Rules
 - Minimum 100 $SIGNAL initial support to proceed
@@ -129,7 +129,7 @@ sequenceDiagram
 - Ideas can iterate based on feedback
 - Failed Sparks can be re-submitted after 30 days
 
-#### Forge Arena Rules  
+#### Forge Arena Rules 
 - Winner takes all 
 - only one founder proceeds
 - Minimum stake of 1,000 $SIGNAL to enter
@@ -314,22 +314,22 @@ graph TD
 
 The Arena system evolves through:
 
-- 1.** Community Proposals
+1. **Community Proposals**
 - Suggest rule changes
 2. **A/B Testing**
 - Try variations in parallel
 3. **Data Analysis**
 - Optimize based on outcomes
 4. **Feedback Loops**
-- Incorporate learner insights**### Future Enhancements
+- Incorporate learner insights
 
 !!! info "Coming Soon"
 
-    - **Conditional Signals** - "I believe IF X happens"**
-    - **Signal Combinations** - Portfolio strategies**
-    - **Arena Leagues** - Competitive seasons**
-    - **Achievement Badges** - Visual reputation markers**
-    - **Arena Streaming** - Live video updates
+    - **Conditional Signals** "I believe IF X happens"
+    - **Signal Combinations** Portfolio strategies
+    - **Arena Leagues** Competitive seasons
+    - **Achievement Badges** Visual reputation markers
+    - **Arena Streaming** Live video updates
 
 ## Success Stories
 
@@ -340,10 +340,10 @@ The Arena system evolves through:
 <h4>🏆 DataMesh Protocol</h4>
 <p><strong>Arena Performance:</strong> 12/12 milestones completed</p>
 <ul>
-<li><strong>Total Signals:</strong>  2.3M $SIGNAL beliefOutcome:</li>
+<li><strong>Total Signals:</strong> 2.3M $SIGNAL beliefOutcome:</li>
 
 </ul>
-<p>Graduated in record time**> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable."</p>
+<p>Graduated in record time> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable."</p>
 <ul>
 <li>DataMesh Founder</li>
 
@@ -358,11 +358,11 @@ The Arena system evolves through:
 
 <p><strong>Pivoted after milestone 3 failure</strong></p>
 <ul>
-<li><strong>Community Response:</strong>  80% maintained belief post</li>
+<li><strong>Community Response:</strong> 80% maintained belief post</li>
 <li>pivotOutcome:</li>
 
 </ul>
-<p>Successful with new direction**> "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product</p>
+<p>Successful with new direction> "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product</p>
 <ul>
 <li>market fit."</li>
 <li>EcoChain Founder</li>
@@ -378,7 +378,7 @@ The Arena system evolves through:
 
 - **Over-promising**
 - Unrealistic milestones destroy credibility
-- **-**Under-communicating**
+-Under-communicating
 - Silent founders lose support -**Ignoring feedback**
 - Community wisdom is valuable
 
@@ -386,11 +386,11 @@ The Arena system evolves through:
 - Artificial activity is easily detected
 
 - **Blame-shifting**
-- Take responsibility for failures**## Getting Started
+- Take responsibility for failures
 
 ### Your First Arena
 
-- 1. ** Observe
+- 1. Observe
 - Watch active Arenas to understand dynamics
 2. **Analyze**
 - Study successful and failed patterns
@@ -399,7 +399,7 @@ The Arena system evolves through:
 4. **Enter**
 - Start with appropriate stakes
 5. **Learn**
-- Every Arena teaches something valuable**## Next Steps
+- Every Arena teaches something valuable
 
 - Master [Belief & Doubt Signals](belief-signals.md) mechanics
 - Understand the [Seven Phase Lifecycle](seven-phases.md)

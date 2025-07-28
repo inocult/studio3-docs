@@ -82,31 +82,31 @@ flowchart TD
 
 ### Signal Lifecycle
 
-1. **Declaration Phase** (0-2 hours)   - Founder declares specific milestone
+1. **Declaration Phase** (0-2 hours) - Founder declares specific milestone
 
 - System verifies milestone validity
 
 - Arena opens for signaling
 
-2. **Signal Phase** (48-168 hours)   - Echoes analyze milestone feasibility
+2. **Signal Phase** (48-168 hours) - Echoes analyze milestone feasibility
 
 - Signals placed with token stakes
 
 - Real-time sentiment tracking
 
-3. **Execution Phase** (Variable)   - Founder works toward milestone
+3. **Execution Phase** (Variable) - Founder works toward milestone
 
 - Progress updates posted
 
 - No new signals accepted
 
-4. **Validation Phase** (24-48 hours)   - Evidence submitted by founder
+4. **Validation Phase** (24-48 hours) - Evidence submitted by founder
 
 - Anchors verify achievement
 
 - Results determined
 
-5. **Settlement Phase** (Automatic)   - Rewards distributed to correct signals
+5. **Settlement Phase** (Automatic) - Rewards distributed to correct signals
 
 - Wrong signals burned permanently
 
@@ -122,7 +122,7 @@ flowchart TD
 <p><strong> Base Multipliers:</strong></p>
 <ul>
 <li><strong>Belief (Success): 1.5x base</strong></li>
-<li>Doubt (Failure): 1.2x base**  Bonus Factors:</li>
+<li>Doubt (Failure): 1.2x base Bonus Factors:</li>
 <li><strong>Early Signal: +0.1x per 24 hours early</strong></li>
 <li>Contrarian: +0.3x if against majority</li>
 <li>Reputation: +0.01x per 1000 XP</li>
@@ -234,11 +234,11 @@ graph LR
 
 !!! info "Market Indicators"
 
-    - **Signal Velocity** : How fast signals accumulate
-- **-**Belief Ratio** : Belief vs doubt balance
-- **-**Whale Activity** : Large stake movements
-- **-**Anchor Sentiment** : Validator early opinions
-- **-**Historical Patterns**: Similar milestone outcomes**## Signal Psychology
+    - **Signal Velocity**: How fast signals accumulate
+-Belief Ratio: Belief vs doubt balance
+-Whale Activity: Large stake movements
+-Anchor Sentiment: Validator early opinions
+-Historical Patterns**: Similar milestone outcomes**## Signal Psychology
 
 ### Cognitive Biases to Avoid
 
@@ -254,7 +254,7 @@ graph LR
 
 ### Your Rights as an Echo
 
-✅** You have the right to:
+✅ You have the right to:
 
 - **Signal on any open milestone**
 - Access all public information
@@ -264,7 +264,7 @@ graph LR
 
 ### Your Responsibilities
 
-⚠️** You must:
+⚠️ You must:
 
 - **Accept permanent loss risk**
 - Not manipulate markets
@@ -321,16 +321,16 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 ### Performance Improvement
 
 !!! tip "Level Up Your Signaling"
-    1. **Track Everything**  - Log all signals and outcomes**
+    1. **Track Everything** - Log all signals and outcomes
 1. 
-2. **Analyze Patterns**  - Find what works for you
+2. **Analyze Patterns** - Find what works for you
 2. 
-- 3.** Specialize
-- Focus on domains you understand**
-- **4.**  Network
+3. **Specialize**
+- Focus on domains you understand
+- **4. Network
 - Learn from successful Echoes
-- **5.** Stay Humble
-- Markets can humble anyone**## Common Questions
+- **5. Stay Humble
+- Markets can humble anyone
 
 ### FAQ
 
@@ -353,7 +353,7 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 
 ### Prohibited Behaviors
 
-❌ ** Never:
+❌ Never:
 
 - **Coordinate signals in private groups**
 - Spread false information to influence signals
@@ -401,7 +401,7 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 
 ### Your First Signal
 
-- 1.** Start Small
+1. **Start Small**
 - Use minimum stakes initially
 2. **Pick Carefully**
 - Choose milestones you understand
@@ -410,7 +410,7 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 4. **Track Results**
 - Learn from every outcome
 5. **Adjust Strategy**
-- Refine based on results**## Next Steps
+- Refine based on results
 
 - Explore the [Three-NFT System](nft-system.md) for ownership mechanics
 - Study the [Milestone System](milestones.md) for better predictions

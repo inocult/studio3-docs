@@ -204,7 +204,7 @@ All phase transitions require:
 <li>Quality meets standards?</li>
 
 </ul>
-<p>2. <strong>Community Health</strong> (30%)   - Supporter engagement level</p>
+<p>2. <strong>Community Health</strong> (30%) - Supporter engagement level</p>
 
 <ul>
 <li>Belief/doubt ratio</li>
@@ -212,7 +212,7 @@ All phase transitions require:
 <li>Communication quality</li>
 
 </ul>
-<p>3. <strong>Operational Excellence</strong> (20%)   - Team performance</p>
+<p>3. <strong>Operational Excellence</strong> (20%) - Team performance</p>
 
 <ul>
 <li>Resource management</li>
@@ -220,7 +220,7 @@ All phase transitions require:
 <li>Process maturity</li>
 
 </ul>
-<p>4. <strong>Strategic Position</strong> (10%)   - Market opportunity</p>
+<p>4. <strong>Strategic Position</strong> (10%) - Market opportunity</p>
 
 <ul>
 <li>Competitive advantage</li>
@@ -320,10 +320,10 @@ def calculate_phase_health(venture):
     
     # Apply phase-specific modifiers
     if venture.phase == 'Drift' and has_pivoted:
-        total_score *= 0.9  # Pivot penalty
+        total_score *= 0.9 # Pivot penalty
     
     if venture.phase == 'Orbit' and consistent_delivery:
-        total_score *= 1.1  # Consistency bonus
+        total_score *= 1.1 # Consistency bonus
     
     return min(total_score, 100)
 ```
@@ -360,7 +360,7 @@ def calculate_phase_health(venture):
 
 !!! danger "When Ventures Move Backward"
     
-   ** Regression only allowed during Drift phase:
+    Regression only allowed during Drift phase:
 - **Failed product-market fit**
 
 - Major pivot required
@@ -423,9 +423,9 @@ When ventures can't advance:
 - on transition milestones Provide feedback
 
 - during phase reviews** Support extensions**
-- when justified**  Challenge rushers
-- **- who aren't ready** Reward consistency**
-- over speed**## Edge Cases
+- when justified Challenge rushers
+- **- who aren't ready** Reward consistency
+- over speed
 
 ### Complex Scenarios
 
@@ -499,7 +499,7 @@ graph LR
 
 If progression is denied:
 
-- 1.** Review Feedback
+1. **Review Feedback**
 - Understand specific issues
 2. **Prepare Appeal**
 - Address each concern
@@ -515,7 +515,7 @@ If progression is denied:
 
 ### Planning Your Journey
 
-- 1. ** Map Requirements
+- 1. Map Requirements
 - Know every phase's needs
 2. **Build Buffers**
 - Plan for delays
@@ -524,7 +524,7 @@ If progression is denied:
 4. **Engage Community**
 - Maintain support
 5. **Document Progress**
-- Evidence from day one**## Next Steps
+- Evidence from day one
 
 - Study [Seven Phase Lifecycle](seven-phases.md) in detail
 - Review [Milestone System](milestones.md) for execution

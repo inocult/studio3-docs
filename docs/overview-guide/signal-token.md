@@ -12,11 +12,11 @@ The $SIGNAL token is the lifeblood of Studio3's ecosystem, transforming belief i
 
 **Utility Token Properties:**
 
-- **Purpose** : Express belief or doubt in venture milestones
-- **Type** : Utility token for platform participation
-- **Supply** : Fixed maximum with deflationary mechanics
-- **Distribution** : Fair launch with no pre-mine
-- **Governance** : Future DAO voting rights
+- **Purpose**: Express belief or doubt in venture milestones
+- **Type**: Utility token for platform participation
+- **Supply**: Fixed maximum with deflationary mechanics
+- **Distribution**: Fair launch with no pre-mine
+- **Governance**: Future DAO voting rights
 
 ** What $SIGNAL is NOT:**
 - **❌ Not a security or investment contract**
@@ -130,25 +130,25 @@ graph TD
 
 !!! info "Primary Use Cases"
     
-   **1. Signaling on Milestones
+   1. Signaling on Milestones
 - **Minimum: 10 $SIGNAL**
 - Maximum: No limit (but diversify!)
 
 - Locked until validation
     
-   **2. Reputation Staking
+   2. Reputation Staking
 - **Lock tokens to boost XP multiplier**
 - Longer locks = higher boost
 
 - Unlocks governance rights
     
-   **3. Premium Access
+   3. Premium Access
 - **Advanced analytics: 100 $SIGNAL/month**
 - Priority support: 50 $SIGNAL/month
 
 - Early access: 200 $SIGNAL/feature
     
-   **4. Founder Services
+   4. Founder Services
 - **Milestone declaration: 100 $SIGNAL**
 - Forge entry: 1,000 $SIGNAL
 
@@ -161,21 +161,21 @@ graph TD
 1. **Wrong Signals**
 
 - **100% of stake burned**
-- 2.** Failed Milestones
+2. **Failed Milestones**
 - All belief signals burned
 3. **Abandoned Ventures**
 - Founder stakes burned
 4. **Penalty Violations**
 - Bad behavior fines
 5. **Expired Options**
-- Unused allocations**
+- Unused allocations
 - **Burn Impact:**
-- **Supply Reduction** : Permanently removes tokens from circulation
-- **Scarcity Increase** : Remaining tokens become more valuable
-- **Holder Benefit** : All token holders benefit from reduced supply
-- **Deflationary Pressure** : Creates natural price support
+- **Supply Reduction**: Permanently removes tokens from circulation
+- **Scarcity Increase**: Remaining tokens become more valuable
+- **Holder Benefit**: All token holders benefit from reduced supply
+- **Deflationary Pressure**: Creates natural price support
 
-**Example:**: If 1% of supply burns, remaining tokens gain ~1% in scarcity value**## Token Velocity
+**Example:: If 1% of supply burns, remaining tokens gain ~1% in scarcity value
 
 ### Circulation Dynamics
 
@@ -226,7 +226,7 @@ graph LR
 
 ** Voting Weight Calculation:**
 - **Held tokens: 1.0x weight**
-- Staked tokens: 1.5x weight  
+- Staked tokens: 1.5x weight 
 - Reputation bonus: +0.1x per 1000 XP
 
 ** Governance Decisions Include:**
@@ -324,41 +324,41 @@ graph LR
 
 ### Key Performance Indicators
 ** Current Token Metrics (Example):**
-- **Circulating Supply** : 45,000,000 $SIGNAL
-- **Total Burned** : 5,000,000 $SIGNAL
-- **Average Daily Volume** : 2,500,000 $SIGNAL
-- **Unique Holders** : 15,000 addresses
-- **Staking Percentage** : 35%
-- **Velocity Ratio** : 0.12
-- **Monthly Burn Rate** : 2%
+- **Circulating Supply**: 45,000,000 $SIGNAL
+- **Total Burned**: 5,000,000 $SIGNAL
+- **Average Daily Volume**: 2,500,000 $SIGNAL
+- **Unique Holders**: 15,000 addresses
+- **Staking Percentage**: 35%
+- **Velocity Ratio**: 0.12
+- **Monthly Burn Rate**: 2%
 
-**Health Score**: 8.5/10 - Healthy ecosystem**## Future Developments
+**Health Score: 8.5/10 - Healthy ecosystem
 
 ### Roadmap Items
 
 !!! tip "Upcoming Token Features"
     
-    ** Q1 2025:
+     Q1 2025:
 - **Cross-chain bridges**
 
 - Enhanced staking options
 
 - Governance V2 launch
     
-   ** Q2 2025:
+    Q2 2025:
 - **Conditional signal tokens**
 - Reputation NFT integration
 
 - Yield optimization
     
-   ** Q3 2025:
+    Q3 2025:
 - **Sub-studio token framework**
 
 - Advanced DeFi integrations
 
 - Mobile wallet support
     
-   ** Q4 2025:
+    Q4 2025:
 - **Full DAO transition**
 - Treasury diversification
 
@@ -382,7 +382,7 @@ graph LR
 
 ### Getting Started with $SIGNAL
 
-- 1.** Acquire Initial Tokens
+1. **Acquire Initial Tokens**
 - Start small to learn
 2. **Practice Signaling**
 - Low stakes initially
@@ -391,14 +391,14 @@ graph LR
 4. **Diversify Usage**
 - Try different features
 5. **Participate in Governance**
-- Shape the future**## Risk Disclosure
+- Shape the future
 
 !!! danger "Important Risks"
 
-- **Total Loss Possible**: Wrong signals burn 100%**    -**No Guarantees** : Utility token, not investment
-- **-**Volatility** : Price can fluctuate significantly
-- **-**Smart Contract Risk** : Despite audits, bugs possible
-- **-**Regulatory Risk**: Token laws evolving globally**## Next Steps
+- **Total Loss Possible**: Wrong signals burn 100%** -No Guarantees**: Utility token, not investment
+-Volatility: Price can fluctuate significantly
+-Smart Contract Risk: Despite audits, bugs possible
+-Regulatory Risk**: Token laws evolving globally**## Next Steps
 
 - Learn [Belief & Doubt Signals](belief-signals.md) mechanics
 - Understand [Rewards & Penalties](rewards-system.md) in detail

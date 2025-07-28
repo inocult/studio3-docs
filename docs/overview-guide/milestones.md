@@ -113,14 +113,14 @@ stateDiagram-v2
 !!! tip "SMART Milestones"
 
 - **S** pecific: Clear and unambiguous
-- **-**M**easurable: Quantifiable success criteria** -**A** chievable: Realistic given resources
-- **-**R**elevant: Aligned with venture goals** -**T**ime-bound: Fixed deadline**### Good vs Bad Milestones
+-M**easurable: Quantifiable success criteria** -A chievable: Realistic given resources
+-R**elevant: Aligned with venture goals** -T**ime-bound: Fixed deadline**### Good vs Bad Milestones
 
 <div class="grid">
 <div class="arena-card">
 
 <h4>✅ Good Milestone</h4>
-<p><strong>"Launch MVP with 3 core features by March 15"</strong></p>**
+<p><strong>"Launch MVP with 3 core features by March 15"</strong></p>
 <ul>
 <li>Specific features defined</li>
 <li>Clear deliverable (MVP)</li>
@@ -132,7 +132,7 @@ stateDiagram-v2
 <div class="arena-card">
 
 <h4>❌ Bad Milestone</h4>
-<p><strong>"Make significant progress on product"</strong></p>**
+<p><strong>"Make significant progress on product"</strong></p>
 <ul>
 <li>Vague objective</li>
 <li>No success criteria</li>
@@ -194,11 +194,11 @@ flowchart TD
     Token values should reflect:
 
 - **Difficulty**: Technical or operational complexity
-- **Impact** : Importance to venture success
+- **Impact**: Importance to venture success
 
-**    -:** Risk** : Probability of failure
-- **-**Timeline** : Urgency and duration
-- **-**Dependencies**: External factors**### Valuation Guidelines
+- Risk: Probability of failure
+-Timeline: Urgency and duration
+-Dependencies**: External factors**### Valuation Guidelines
 
 | Milestone Type | Typical Range | Factors |
 |----------------|---------------|----------|
@@ -263,11 +263,11 @@ flowchart TD
 
 !!! warning "Evidence Must Be"
 
-- **Authentic** : Not fabricated or manipulated
-- **-**Relevant** : Directly proves milestone completion
-- **-**Sufficient** : Comprehensive enough for validation
-- **-**Timely** : Generated within milestone period
-- **-**Accessible**: Validators can verify independently**## Milestone Execution
+- **Authentic**: Not fabricated or manipulated
+-Relevant: Directly proves milestone completion
+-Sufficient: Comprehensive enough for validation
+-Timely: Generated within milestone period
+-Accessible**: Validators can verify independently**## Milestone Execution
 
 ### Best Practices
 
@@ -285,7 +285,7 @@ flowchart TD
 <p>4. <strong>Resource Management</strong></p>
 <p>: Allocate wisely</p>
 <p>5. <strong>Time Buffering</strong></p>
-<p>: Plan for unexpected delays**</p>
+<p>: Plan for unexpected delays</p>
 
 <ul>
 <li><strong>Communication Guidelines:</strong></li>
@@ -332,11 +332,11 @@ sequenceDiagram
 ### Validation Criteria
 
 !!! info "Anchors Evaluate"
-    1. **Completeness** : All requirements met?**
+    1. **Completeness**: All requirements met?
 1. 
-2. **Quality** : Meets professional standards?
+2. **Quality**: Meets professional standards?
 2. 
-3. **Timeliness**: Delivered on schedule?    4.**Evidence**: Properly documented?**    5.**Impact**: Achieves intended outcome?**### Validation Outcomes
+3. **Timeliness**: Delivered on schedule? 4.**Evidence**: Properly documented?** 5.Impact: Achieves intended outcome?
 
 | Outcome | Result | Token Impact |
 |---------|--------|-------------|
@@ -415,24 +415,24 @@ graph TD
 !!! tip "Coming Soon: Conditional Logic"
     Future milestones will support:
 
-- **IF-THEN**  statements
-- **-** AND/OR
-- 
-- requirements   Prerequisite
-- chains**  Fallback
-- options**  Bonus
-- objectives**## Success Metrics
+- **IF-THEN** statements
+- AND/OR
+
+- requirements Prerequisite
+- chains Fallback
+- options Bonus
+- objectives
 
 ### Tracking Performance
 
 ```python
 # Milestone Success Metrics
 class MilestoneMetrics:
-    completion_rate = 0.75  # 75% success rate
-    average_duration = 21  # days
-    signal_accuracy = 0.68  # 68% correct predictions
-    extension_rate = 0.15  # 15% request extensions
-    dispute_rate = 0.05  # 5% contested results
+    completion_rate = 0.75 # 75% success rate
+    average_duration = 21 # days
+    signal_accuracy = 0.68 # 68% correct predictions
+    extension_rate = 0.15 # 15% request extensions
+    dispute_rate = 0.05 # 5% contested results
 ```
 
 ### Improvement Areas
@@ -462,7 +462,7 @@ class MilestoneMetrics:
 
 ### Getting Started
 
-- 1.** Study Examples
+1. **Study Examples**
 - Learn from successful milestones
 2. **Start Small**
 - Build confidence with achievable goals
@@ -471,7 +471,7 @@ class MilestoneMetrics:
 4. **Document Everything**
 - Evidence collection from day one
 5. **Deliver Consistently**
-- Build reputation over time**## Next Steps
+- Build reputation over time
 
 - Review [Progression Rules](progression.md) for phase requirements
 
