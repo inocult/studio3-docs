@@ -170,7 +170,7 @@
 <div class="grid">
 <div class="arena-card">
 
-<p>#### 🏗️ First Sender Steps</p>
+<h4>🏗️ First Sender Steps</h4>
 
 <p>1. Browse existing ventures</p>
 <p>2. Study successful patterns</p>
@@ -182,7 +182,7 @@
 
 <div class="arena-card">
 
-<p>#### 📡 First Echo Steps</p>
+<h4>📡 First Echo Steps</h4>
 
 <p>1. Make tiny test signal (10 $SIGNAL)</p>
 <p>2. Research 5 ventures daily</p>
@@ -194,7 +194,7 @@
 
 <div class="arena-card">
 
-<p>#### ⚓ First Anchor Steps</p>
+<h4>⚓ First Anchor Steps</h4>
 
 <p>1. Apply for Anchor status</p>
 <p>2. Shadow current validators</p>
@@ -321,7 +321,7 @@
 <div class="grid">
 <div class="arena-card">
 
-<p>#### ✅ DO:</p>
+<h4>✅ DO:</h4>
 
 <ul>
 <li>Start small and learn</li>
@@ -338,7 +338,7 @@
 
 <div class="arena-card">
 
-<p>#### ❌ DON'T:</p>
+<h4>❌ DON'T:</h4>
 
 <ul>
 <li>Rush into big stakes</li>

@@ -236,7 +236,7 @@ Everyone benefits from the same outcome:
 <div class="grid">
 <div class="arena-card">
 
-<p>#### 🌟 Perfect for Founders Who:</p>
+<h4>🌟 Perfect for Founders Who:</h4>
 
 <ul>
 <li>Lack traditional VC connections</li>
@@ -251,7 +251,7 @@ Everyone benefits from the same outcome:
 
 <div class="arena-card">
 
-<p>#### 🌟 Perfect for Supporters Who:</p>
+<h4>🌟 Perfect for Supporters Who:</h4>
 
 <ul>
 <li>Want early-stage exposure</li>
@@ -265,7 +265,7 @@ Everyone benefits from the same outcome:
 
 <div class="arena-card">
 
-<p>#### 🌟 Perfect for Validators Who:</p>
+<h4>🌟 Perfect for Validators Who:</h4>
 
 <ul>
 <li>Have deep expertise</li>
