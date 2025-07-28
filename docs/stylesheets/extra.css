@@ -927,16 +927,21 @@ html {
 }
 
 /* Task List Checkboxes - Override Material Theme */
-.md-typeset .task-list-control .task-list-indicator::before {
-  /* Remove the default circle/dot styling */
-  background-color: transparent !important;
-  mask-image: none !important;
-  -webkit-mask-image: none !important;
-  /* Add custom checkbox styling */
-  content: '';
+/* Hide the default Material indicator completely */
+.md-typeset .task-list-indicator::before,
+.md-typeset .task-list-indicator::after {
+  display: none !important;
+}
+
+/* Create custom checkbox */
+.md-typeset .task-list-control {
+  position: relative;
+}
+
+.md-typeset .task-list-control .task-list-indicator {
   position: absolute;
   top: 0.1em;
-  left: 0;
+  left: -1.5em;
   width: 1.125em;
   height: 1.125em;
   border: 2px solid var(--studio3-pink);
@@ -946,82 +951,62 @@ html {
 }
 
 /* Hover state */
-.md-typeset .task-list-control:hover .task-list-indicator::before {
+.md-typeset .task-list-control:hover .task-list-indicator {
   border-color: var(--studio3-navy);
   transform: scale(1.1);
   box-shadow: 0 2px 8px rgba(233, 30, 99, 0.2);
 }
 
 /* Checked state */
-.md-typeset [type="checkbox"]:checked + .task-list-indicator::before {
+.md-typeset [type="checkbox"]:checked + .task-list-indicator {
   background: var(--studio3-gradient) !important;
   border-color: transparent;
 }
 
-/* Checkmark */
-.md-typeset [type="checkbox"]:checked + .task-list-indicator::after {
-  content: '✓';
+/* Checkmark using CSS */
+.md-typeset [type="checkbox"]:checked + .task-list-indicator::before {
+  content: '';
   position: absolute;
-  top: 0.1em;
-  left: 0.3em;
-  color: white;
-  font-size: 0.9em;
-  font-weight: bold;
-  transform: none;
-  background: none;
-  mask-image: none;
-  -webkit-mask-image: none;
-  border: none;
-}
-
-/* Remove default Material checkmark */
-.md-typeset .task-list-indicator::after {
-  background-color: transparent !important;
-  mask-image: none !important;
-  -webkit-mask-image: none !important;
+  display: block;
+  top: 0.15em;
+  left: 0.35em;
+  width: 0.3em;
+  height: 0.6em;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
 }
 
 /* Arena card specific styling */
-.arena-card .task-list-control .task-list-indicator::before {
+.arena-card .task-list-control .task-list-indicator {
   border-color: var(--studio3-navy);
 }
 
-.arena-card .task-list-control:hover .task-list-indicator::before {
+.arena-card .task-list-control:hover .task-list-indicator {
   border-color: var(--studio3-pink);
   background: rgba(233, 30, 99, 0.05);
 }
 
-.arena-card [type="checkbox"]:checked + .task-list-indicator::before {
+.arena-card [type="checkbox"]:checked + .task-list-indicator {
   background: var(--studio3-navy) !important;
 }
 
 /* Dark mode adjustments */
-[data-md-color-scheme="slate"] .md-typeset .task-list-control .task-list-indicator::before {
+[data-md-color-scheme="slate"] .md-typeset .task-list-control .task-list-indicator {
   background: var(--md-default-bg-color);
   border-color: rgba(233, 30, 99, 0.7);
 }
 
-[data-md-color-scheme="slate"] .md-typeset .task-list-control:hover .task-list-indicator::before {
+[data-md-color-scheme="slate"] .md-typeset .task-list-control:hover .task-list-indicator {
   border-color: var(--studio3-pink);
   background: rgba(233, 30, 99, 0.1);
 }
 
-[data-md-color-scheme="slate"] .arena-card .task-list-control .task-list-indicator::before {
+[data-md-color-scheme="slate"] .arena-card .task-list-control .task-list-indicator {
   border-color: rgba(255, 255, 255, 0.5);
 }
 
-[data-md-color-scheme="slate"] .arena-card .task-list-control:hover .task-list-indicator::before {
+[data-md-color-scheme="slate"] .arena-card .task-list-control:hover .task-list-indicator {
   border-color: var(--studio3-pink);
   background: rgba(233, 30, 99, 0.1);
-}
-
-/* Ensure proper positioning */
-.md-typeset .task-list-control {
-  position: relative;
-}
-
-.md-typeset .task-list-indicator {
-  position: absolute;
-  top: 0.1em;
-  left: -1.5em;
 }
