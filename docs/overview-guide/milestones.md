@@ -14,14 +14,14 @@ Milestones are the fundamental units of progress in Studio3. They represent spec
 
 <p>A milestone is a public commitment to achieve a specific outcome by a defined deadline.</p>
 
-<p>**Key Components:**</p>
+<p><strong>Key Components:</strong></p>
 
 <ul>
-<li>**Specific Goal** : Clear, unambiguous objective</li>
-<li>**Success Criteria** : Measurable completion requirements</li>
-<li>**Timeline** : Fixed deadline for achievement</li>
-<li>**Evidence Requirements** : Proof needed for validation</li>
-<li>**Token Value** : Amount at stake for signals</li>
+<li><strong>Specific Goal</strong> : Clear, unambiguous objective</li>
+<li><strong>Success Criteria</strong> : Measurable completion requirements</li>
+<li><strong>Timeline</strong> : Fixed deadline for achievement</li>
+<li><strong>Evidence Requirements</strong> : Proof needed for validation</li>
+<li><strong>Token Value</strong> : Amount at stake for signals</li>
 
 </ul>
 </div>
@@ -119,8 +119,8 @@ stateDiagram-v2
 <div class="grid">
 <div class="arena-card">
 
-<p>#### ✅ Good Milestone</p>
-<p>**"Launch MVP with 3 core features by March 15"**</p>**
+<h4>✅ Good Milestone</h4>
+<p><strong>"Launch MVP with 3 core features by March 15"</strong></p>**
 <ul>
 <li>Specific features defined</li>
 <li>Clear deliverable (MVP)</li>
@@ -131,8 +131,8 @@ stateDiagram-v2
 
 <div class="arena-card">
 
-<p>#### ❌ Bad Milestone</p>
-<p>**"Make significant progress on product"**</p>**
+<h4>❌ Bad Milestone</h4>
+<p><strong>"Make significant progress on product"</strong></p>**
 <ul>
 <li>Vague objective</li>
 <li>No success criteria</li>
@@ -165,9 +165,9 @@ flowchart TD
 
 <h3>📝 Declaration Checklist</h3>
 
-<p>** Required Elements:**</p>
+<p><strong> Required Elements:</strong></p>
 <ul>
-<li>**[ ] Clear objective statement**</li>
+<li><strong>[ ] Clear objective statement</strong></li>
 <li>[ ] Success criteria (3-5 points)</li>
 <li>[ ] Evidence requirements</li>
 <li>[ ] Realistic timeline</li>
@@ -176,9 +176,9 @@ flowchart TD
 <li>[ ] Dependencies identified</li>
 
 </ul>
-<p>** Optional Enhancements:**</p>
+<p><strong> Optional Enhancements:</strong></p>
 <ul>
-<li>**[ ] Stretch goals**</li>
+<li><strong>[ ] Stretch goals</strong></li>
 <li>[ ] Partial success criteria</li>
 <li>[ ] Progress checkpoints</li>
 <li>[ ] Contingency plans</li>
@@ -275,21 +275,21 @@ flowchart TD
 
 <h3>🏆 Execution Excellence</h3>
 
-<p>**During Development:**</p>
+<p><strong>During Development:</strong></p>
 
-<p>1. **Daily Updates**: Keep community informed</p>
-<p>2. **Progress Tracking**</p>
+<p>1. <strong>Daily Updates</strong>: Keep community informed</p>
+<p>2. <strong>Progress Tracking</strong></p>
 <p>: Show incremental advancement</p>
-<p>3. **Challenge Transparency**</p>
+<p>3. <strong>Challenge Transparency</strong></p>
 <p>: Share obstacles openly</p>
-<p>4. **Resource Management**</p>
+<p>4. <strong>Resource Management</strong></p>
 <p>: Allocate wisely</p>
-<p>5. **Time Buffering**</p>
+<p>5. <strong>Time Buffering</strong></p>
 <p>: Plan for unexpected delays**</p>
 
 <ul>
-<li>**Communication Guidelines:**</li>
-<li>**Post updates at consistent times**</li>
+<li><strong>Communication Guidelines:</strong></li>
+<li><strong>Post updates at consistent times</strong></li>
 <li>Use visual progress indicators</li>
 <li>Respond to community questions</li>
 <li>Acknowledge concerns promptly</li>

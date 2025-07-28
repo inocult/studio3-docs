@@ -12,7 +12,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 <div class="arena-card">
 
 <h3>🏗️ Senders (Founders)</h3>
-<p>**The Builders**</p>
+<p><strong>The Builders</strong></p>
 
 <p>Entrepreneurs who transform ideas into ventures through transparent execution</p>
 
@@ -35,7 +35,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 <div class="arena-card">
 
 <h3>📡 Echoes (Supporters)</h3>
-<p>**The Believers**</p>
+<p><strong>The Believers</strong></p>
 
 <p>Community members who signal conviction through token stakes</p>
 
@@ -58,7 +58,7 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 <div class="arena-card">
 
 <h3>⚓ Anchors (Validators)</h3>
-<p>**The Guardians**</p>
+<p><strong>The Guardians</strong></p>
 
 <p>Experienced builders who ensure quality and provide guidance</p>
 
@@ -115,9 +115,9 @@ graph TD
 
 <h3>🏗️ What Senders Do</h3>
 
-<p>**Primary Activities:**</p>
+<p><strong>Primary Activities:</strong></p>
 
-<p>1. **Ideation & Creation** Remix IPs into Spark NFTs</p>
+<p>1. <strong>Ideation & Creation</strong> Remix IPs into Spark NFTs</p>
 
 <ul>
 <li>Develop venture concepts</li>
@@ -125,28 +125,28 @@ graph TD
 <li>Enter ideas into Arena</li>
 
 </ul>
-<p>2. **Competition & Leadership**</p>
+<p>2. <strong>Competition & Leadership</strong></p>
 
 <ul>
-<li>**Compete in Forge duels**</li>
+<li><strong>Compete in Forge duels</strong></li>
 <li>Win Signal NFT rights</li>
 
 <li>Form founding teams</li>
 
 </ul>
-<p>3. **Execution & Delivery**</p>
+<p>3. <strong>Execution & Delivery</strong></p>
 
 <ul>
-<li>**Declare public milestones**</li>
+<li><strong>Declare public milestones</strong></li>
 <li>Build transparently</li>
 
 <li>Deliver on promises</li>
 
 </ul>
-<p>4. **Growth & Graduation**</p>
+<p>4. <strong>Growth & Graduation</strong></p>
 
 <ul>
-<li>**Scale ventures**</li>
+<li><strong>Scale ventures</strong></li>
 <li>Achieve sovereignty</li>
 <li>Launch sub</li>
 <li>studios</li>
@@ -205,9 +205,9 @@ graph TD
 <div class="arena-card">
 
 <h3>📡 What Echoes Do</h3>
-<p>**Primary Activities:**</p>
+<p><strong>Primary Activities:</strong></p>
 
-<p>1. **Research & Analysis** Evaluate ventures</p>
+<p>1. <strong>Research & Analysis</strong> Evaluate ventures</p>
 
 <ul>
 <li>Assess founders</li>
@@ -217,10 +217,10 @@ graph TD
 <li>Track patterns</li>
 
 </ul>
-<p>2. **Signal Placement**</p>
+<p>2. <strong>Signal Placement</strong></p>
 
 <ul>
-<li>**Stake $SIGNAL tokens**</li>
+<li><strong>Stake $SIGNAL tokens</strong></li>
 <li>Express belief or doubt</li>
 
 <li>Size positions wisely</li>
@@ -228,10 +228,10 @@ graph TD
 <li>Diversify portfolio</li>
 
 </ul>
-<p>3. **Community Participation**</p>
+<p>3. <strong>Community Participation</strong></p>
 
 <ul>
-<li>**Provide feedback**</li>
+<li><strong>Provide feedback</strong></li>
 <li>Share insights</li>
 
 <li>Support builders</li>
@@ -239,10 +239,10 @@ graph TD
 <li>Challenge assumptions</li>
 
 </ul>
-<p>4. **Performance Tracking**</p>
+<p>4. <strong>Performance Tracking</strong></p>
 
 <ul>
-<li>**Monitor progress**</li>
+<li><strong>Monitor progress</strong></li>
 <li>Adjust strategies</li>
 
 <li>Learn from outcomes</li>
@@ -300,9 +300,9 @@ def calculate_echo_returns(signal):
 
 <h3>⚓ What Anchors Do</h3>
 
-<p>**Primary Activities:**</p>
+<p><strong>Primary Activities:</strong></p>
 
-<p>1. **Validation Services** Review milestone evidence</p>
+<p>1. <strong>Validation Services</strong> Review milestone evidence</p>
 
 <ul>
 <li>Score completion quality</li>
@@ -312,10 +312,10 @@ def calculate_echo_returns(signal):
 <li>Resolve disputes</li>
 
 </ul>
-<p>2. **Mentorship & Guidance**</p>
+<p>2. <strong>Mentorship & Guidance</strong></p>
 
 <ul>
-<li>**Advise founders**</li>
+<li><strong>Advise founders</strong></li>
 <li>Share expertise</li>
 
 <li>Prevent failures</li>
@@ -323,10 +323,10 @@ def calculate_echo_returns(signal):
 <li>Accelerate growth</li>
 
 </ul>
-<p>3. **Ecosystem Protection**</p>
+<p>3. <strong>Ecosystem Protection</strong></p>
 
 <ul>
-<li>**Maintain standards**</li>
+<li><strong>Maintain standards</strong></li>
 <li>Identify bad actors</li>
 
 <li>Ensure fairness</li>
@@ -334,10 +334,10 @@ def calculate_echo_returns(signal):
 <li>Guide evolution</li>
 
 </ul>
-<p>4. **Governance Participation**</p>
+<p>4. <strong>Governance Participation</strong></p>
 
 <ul>
-<li>**Vote on proposals**</li>
+<li><strong>Vote on proposals</strong></li>
 <li>Shape policies</li>
 
 <li>Lead councils</li>
@@ -425,27 +425,27 @@ sequenceDiagram
 <div class="arena-card">
 
 <h3>🤔 Which Role Fits You?</h3>
-<p>** Consider Sender If You:**</p>
+<p><strong> Consider Sender If You:</strong></p>
 <ul>
-<li>**Have a venture idea**</li>
+<li><strong>Have a venture idea</strong></li>
 <li>Love building things</li>
 <li>Thrive under pressure</li>
 <li>Communicate well publicly</li>
 <li>Accept high risk/reward</li>
 
 </ul>
-<p>** Consider Echo If You:**</p>
+<p><strong> Consider Echo If You:</strong></p>
 <ul>
-<li>**Enjoy analysis and research**</li>
+<li><strong>Enjoy analysis and research</strong></li>
 <li>Have risk capital available</li>
 <li>Want portfolio approach</li>
 <li>Prefer supporting to leading</li>
 <li>Learn from patterns</li>
 
 </ul>
-<p>** Consider Anchor If You:**</p>
+<p><strong> Consider Anchor If You:</strong></p>
 <ul>
-<li>**Have deep expertise**</li>
+<li><strong>Have deep expertise</strong></li>
 <li>Built ventures before</li>
 <li>Enjoy mentoring others</li>
 <li>Value ecosystem health</li>

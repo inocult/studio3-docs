@@ -13,22 +13,22 @@ Progression through Studio3's seven phases follows clear rules designed to ensur
 <h3>📏 The Five Laws</h3>
 
 <ul>
-<li>1. **Sequential Progress**</li>
+<li>1. <strong>Sequential Progress</strong></li>
 <li>Phases must be completed in order</li>
 </ul>
-<p>2. **No Skipping**</p>
+<p>2. <strong>No Skipping</strong></p>
 <ul>
 <li>Every venture experiences every phase</li>
 </ul>
-<p>3. **Merit-Based**</p>
+<p>3. <strong>Merit-Based</strong></p>
 <ul>
 <li>Advancement requires proven achievement</li>
 </ul>
-<p>4. **Community Validated**</p>
+<p>4. <strong>Community Validated</strong></p>
 <ul>
 <li>Progress confirmed by ecosystem</li>
 </ul>
-<p>5. **Time Bounded**</p>
+<p>5. <strong>Time Bounded</strong></p>
 </div>
 
 ### The Progression Framework
@@ -62,7 +62,7 @@ All phase transitions require:
 <div class="grid cards">
 <div class="arena-card">
 
-<p>#### ✨ Spark → Forge</p>
+<h4>✨ Spark → Forge</h4>
 
 <ul>
 <li>100+ $SIGNAL in belief</li>
@@ -83,7 +83,7 @@ All phase transitions require:
     
 <div class="arena-card">
 
-<p>#### ⚔️ Forge → Ignition</p>
+<h4>⚔️ Forge → Ignition</h4>
 
 <ul>
 <li>Win founder duel</li>
@@ -104,7 +104,7 @@ All phase transitions require:
     
 <div class="arena-card">
 
-<p>#### 🚀 Ignition → Drift</p>
+<h4>🚀 Ignition → Drift</h4>
 
 <ul>
 <li>Container DAO formed</li>
@@ -125,7 +125,7 @@ All phase transitions require:
     
 <div class="arena-card">
 
-<p>#### 🌊 Drift → Orbit</p>
+<h4>🌊 Drift → Orbit</h4>
 <ul>
 <li>Product</li>
 <li>market fit signals</li>
@@ -145,7 +145,7 @@ All phase transitions require:
     
 <div class="arena-card">
 
-<p>#### 🛸 Orbit → Flare</p>
+<h4>🛸 Orbit → Flare</h4>
 
 <ul>
 <li>6 months stable operations</li>
@@ -166,7 +166,7 @@ All phase transitions require:
     
 <div class="arena-card">
 
-<p>#### 🔥 Flare → Ascension</p>
+<h4>🔥 Flare → Ascension</h4>
 
 <ul>
 <li>Funding secured</li>
@@ -194,9 +194,9 @@ All phase transitions require:
 
 <h3>⚓ Validation Framework</h3>
 
-<p>**Anchors evaluate:**</p>
+<p><strong>Anchors evaluate:</strong></p>
 
-<p>1. **Milestone Completion** (40%) All declared goals achieved?</p>
+<p>1. <strong>Milestone Completion</strong> (40%) All declared goals achieved?</p>
 
 <ul>
 <li>Evidence properly documented?</li>
@@ -204,7 +204,7 @@ All phase transitions require:
 <li>Quality meets standards?</li>
 
 </ul>
-<p>2. **Community Health** (30%)   - Supporter engagement level</p>
+<p>2. <strong>Community Health</strong> (30%)   - Supporter engagement level</p>
 
 <ul>
 <li>Belief/doubt ratio</li>
@@ -212,7 +212,7 @@ All phase transitions require:
 <li>Communication quality</li>
 
 </ul>
-<p>3. **Operational Excellence** (20%)   - Team performance</p>
+<p>3. <strong>Operational Excellence</strong> (20%)   - Team performance</p>
 
 <ul>
 <li>Resource management</li>
@@ -220,7 +220,7 @@ All phase transitions require:
 <li>Process maturity</li>
 
 </ul>
-<p>4. **Strategic Position** (10%)   - Market opportunity</p>
+<p>4. <strong>Strategic Position</strong> (10%)   - Market opportunity</p>
 
 <ul>
 <li>Competitive advantage</li>
@@ -228,7 +228,7 @@ All phase transitions require:
 <li>Growth potential</li>
 
 </ul>
-<p>**Minimum score: 70% to proceed**</p>
+<p><strong>Minimum score: 70% to proceed</strong></p>
 </div>
 
 ### Community Confirmation
@@ -336,19 +336,19 @@ def calculate_phase_health(venture):
 
 <h3>⚡ Fast Track Qualification</h3>
 
-<p>**Exceptional ventures may progress faster if:**</p>
+<p><strong>Exceptional ventures may progress faster if:</strong></p>
 
 <ul>
-<li>**Exceed all metrics by 200%+**</li>
+<li><strong>Exceed all metrics by 200%+</strong></li>
 <li>Unanimous Anchor approval</li>
 <li>90%+ community support</li>
 <li>Demonstrated exceptional execution</li>
 <li>Strategic opportunity requires speed</li>
 
 </ul>
-<p>** Fast Track Limits:**</p>
+<p><strong> Fast Track Limits:</strong></p>
 <ul>
-<li>**Minimum durations still apply**</li>
+<li><strong>Minimum durations still apply</strong></li>
 <li>Cannot skip phases</li>
 <li>Extra scrutiny on validation</li>
 <li>Higher evidence standards</li>
@@ -433,15 +433,15 @@ When ventures can't advance:
 
 <h3>🤔 What If...</h3>
 
-<p>**Q: Venture succeeds wildly but hasn't met time minimum?**A: Must wait. Time requirements ensure proper foundation.</p>
+<p><strong>Q: Venture succeeds wildly but hasn't met time minimum?</strong>A: Must wait. Time requirements ensure proper foundation.</p>
 
-<p>**Q: All requirements met but Anchors see red flags?**A: Anchors can require additional evidence or delays.</p>
+<p><strong>Q: All requirements met but Anchors see red flags?</strong>A: Anchors can require additional evidence or delays.</p>
 
-<p>**Q: Community loves venture but metrics are weak?**A: Objective metrics must be met. Sentiment alone insufficient.</p>
+<p><strong>Q: Community loves venture but metrics are weak?</strong>A: Objective metrics must be met. Sentiment alone insufficient.</p>
 
-<p>**Q: External event disrupts progress (pandemic, war)?**A: Force majeure provisions allow special extensions.</p>
+<p><strong>Q: External event disrupts progress (pandemic, war)?</strong>A: Force majeure provisions allow special extensions.</p>
 
-<p>**Q: Founders want to stay in current phase longer?**A: Allowed in Orbit/Flare. Other phases have maximums.</p>
+<p><strong>Q: Founders want to stay in current phase longer?</strong>A: Allowed in Orbit/Flare. Other phases have maximums.</p>
 
 </div>
 

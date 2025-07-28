@@ -11,19 +11,19 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 
 <h3>🏗️ Become a Sender</h3>
 
-<p>**You should be a Sender if you:**</p>
+<p><strong>You should be a Sender if you:</strong></p>
 
 <ul>
-<li>**Have a venture idea ready to build**</li>
+<li><strong>Have a venture idea ready to build</strong></li>
 <li>Enjoy public accountability</li>
 <li>Thrive under pressure</li>
 <li>Want full ownership potential</li>
 <li>Can handle transparent failure</li>
 
 </ul>
-<p>** Required:**</p>
+<p><strong> Required:</strong></p>
 <ul>
-<li>**Entrepreneurial drive**</li>
+<li><strong>Entrepreneurial drive</strong></li>
 <li>Execution ability</li>
 <li>Communication skills</li>
 <li>Risk tolerance</li>
@@ -35,18 +35,18 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <div class="arena-card">
 
 <h3>📡 Become an Echo</h3>
-<p>** You should be an Echo if you:**</p>
+<p><strong> You should be an Echo if you:</strong></p>
 <ul>
-<li>**Enjoy evaluating opportunities**</li>
+<li><strong>Enjoy evaluating opportunities</strong></li>
 <li>Have capital to deploy</li>
 <li>Want diversified exposure</li>
 <li>Like community participation</li>
 <li>Seek merit-based returns</li>
 
 </ul>
-<p>** Required:**</p>
+<p><strong> Required:</strong></p>
 <ul>
-<li>**$SIGNAL tokens**</li>
+<li><strong>$SIGNAL tokens</strong></li>
 <li>Analytical mindset</li>
 <li>Risk management</li>
 <li>Active engagement</li>
@@ -58,18 +58,18 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <div class="arena-card">
 
 <h3>⚓ Become an Anchor</h3>
-<p>** You should be an Anchor if you:**</p>
+<p><strong> You should be an Anchor if you:</strong></p>
 <ul>
-<li>**Have venture experience**</li>
+<li><strong>Have venture experience</strong></li>
 <li>Enjoy mentoring founders</li>
 <li>Want ecosystem impact</li>
 <li>Value quality standards</li>
 <li>Seek consistent income</li>
 
 </ul>
-<p>** Required:**</p>
+<p><strong> Required:</strong></p>
 <ul>
-<li>**Proven track record**</li>
+<li><strong>Proven track record</strong></li>
 <li>Validation skills</li>
 <li>Time commitment</li>
 <li>Fair judgment</li>
@@ -103,25 +103,25 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 <div class="arena-card">
 
 <h3>⚖️ Risk vs Reward Analysis</h3>
-<p>**Highest Risk, Highest Reward: Sender**</p>
+<p><strong>Highest Risk, Highest Reward: Sender</strong></p>
 <ul>
-<li>**Can lose entire venture**</li>
+<li><strong>Can lose entire venture</strong></li>
 <li>Can achieve full sovereignty</li>
 <li>Reputation permanently affected</li>
 <li>Unlimited value creation</li>
 
 </ul>
-<p>**Moderate Risk, Moderate Reward: Echo**</p>
+<p><strong>Moderate Risk, Moderate Reward: Echo</strong></p>
 <ul>
-<li>**Can lose signal stakes**</li>
+<li><strong>Can lose signal stakes</strong></li>
 <li>Can earn consistent multipliers</li>
 <li>Diversification possible</li>
 <li>Compound growth potential</li>
 
 </ul>
-<p>**Lowest Risk, Steady Reward: Anchor**</p>
+<p><strong>Lowest Risk, Steady Reward: Anchor</strong></p>
 <ul>
-<li>**Minimal financial risk**</li>
+<li><strong>Minimal financial risk</strong></li>
 <li>Steady fee income</li>
 <li>Reputation-based growth</li>
 <li>Network value accrual</li>
@@ -214,12 +214,12 @@ graph LR
 <div class="grid">
 <div class="arena-card">
 
-<p>#### 🌱 Complete Beginner</p>
+<h4>🌱 Complete Beginner</h4>
 
-<p>Start as an**Echo**  with small signals to:</p>
+<p>Start as an<strong>Echo</strong>  with small signals to:</p>
 
 <ul>
-<li>**Learn the ecosystem**</li>
+<li><strong>Learn the ecosystem</strong></li>
 <li>Build reputation</li>
 <li>Network with others</li>
 <li>Understand ventures</li>
@@ -230,12 +230,12 @@ graph LR
 
 <div class="arena-card">
 
-<p>#### 🚀 Experienced Entrepreneur</p>
+<h4>🚀 Experienced Entrepreneur</h4>
 
-<p>Jump in as a**Sender**  if you have:</p>
+<p>Jump in as a<strong>Sender</strong>  if you have:</p>
 
 <ul>
-<li>**Clear venture idea**</li>
+<li><strong>Clear venture idea</strong></li>
 <li>Execution track record</li>
 <li>Risk tolerance</li>
 <li>Time to commit</li>
@@ -246,12 +246,12 @@ graph LR
 
 <div class="arena-card">
 
-<p>#### 🎓 Industry Expert</p>
+<h4>🎓 Industry Expert</h4>
 
-<p>Consider**Anchor**  role if you have:</p>
+<p>Consider<strong>Anchor</strong>  role if you have:</p>
 
 <ul>
-<li>**5+ years experience**</li>
+<li><strong>5+ years experience</strong></li>
 <li>Mentorship history</li>
 <li>Quality standards</li>
 <li>Available time</li>

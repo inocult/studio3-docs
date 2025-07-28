@@ -49,23 +49,23 @@ graph LR
 <h3>🎯 Objective</h3>
 <p>Transform a remixed IP concept into a validated venture idea with initial community support.</p>
 
-<p>**Key Activities:**</p>
+<p><strong>Key Activities:</strong></p>
 
 <ul>
-<li>**Create Spark NFT from Flambette marketplace**</li>
-<li>**Enter idea into Spark Arena**</li>
-<li>**Gather initial belief signals**</li>
-<li>**Refine concept based on feedback**</li>
-<li>**Build initial supporter base**</li>
+<li><strong>Create Spark NFT from Flambette marketplace</strong></li>
+<li><strong>Enter idea into Spark Arena</strong></li>
+<li><strong>Gather initial belief signals</strong></li>
+<li><strong>Refine concept based on feedback</strong></li>
+<li><strong>Build initial supporter base</strong></li>
 
 </ul>
-<p>**Success Criteria:**</p>
+<p><strong>Success Criteria:</strong></p>
 
 <ul>
-<li>**Minimum 100 $SIGNAL in belief**</li>
-<li>**At least 10 unique supporters**</li>
-<li>**Clear problem-solution fit**</li>
-<li>**Feasible execution plan**</li>
+<li><strong>Minimum 100 $SIGNAL in belief</strong></li>
+<li><strong>At least 10 unique supporters</strong></li>
+<li><strong>Clear problem-solution fit</strong></li>
+<li><strong>Feasible execution plan</strong></li>
 
 </ul>
 </div>
@@ -95,20 +95,20 @@ graph LR
 <h3>🏆 Objective</h3>
 <p>Determine the most capable founder through competitive dueling.</p>
 
-<p>**Duel Format:**</p>
+<p><strong>Duel Format:</strong></p>
 
 <ul>
-<li>**Entry Stakes**: 1,000 $SIGNAL minimum</li>
-<li>**Preparation**: 72 hours to prepare pitch</li>
-<li>**Presentation**: Live pitch to community</li>
-<li>**Voting**: Token-weighted community decision</li>
-<li>**Winner Takes All**: Signal NFT + leadership rights</li>
+<li><strong>Entry Stakes</strong>: 1,000 $SIGNAL minimum</li>
+<li><strong>Preparation</strong>: 72 hours to prepare pitch</li>
+<li><strong>Presentation</strong>: Live pitch to community</li>
+<li><strong>Voting</strong>: Token-weighted community decision</li>
+<li><strong>Winner Takes All</strong>: Signal NFT + leadership rights</li>
 
 </ul>
-<p>**Evaluation Criteria:**</p>
+<p><strong>Evaluation Criteria:</strong></p>
 
 <ul>
-<li>**Vision clarity and ambition**</li>
+<li><strong>Vision clarity and ambition</strong></li>
 <li>Technical capability</li>
 <li>Leadership experience</li>
 <li>Community engagement</li>
@@ -135,10 +135,10 @@ graph LR
 <h3>🔨 Objective</h3>
 <p>Form Container DAO, assemble team, and deliver initial MVP.</p>
 
-<p>**Critical Tasks:**</p>
+<p><strong>Critical Tasks:</strong></p>
 
 <ul>
-<li>**Create Container DAO structure**</li>
+<li><strong>Create Container DAO structure</strong></li>
 <li>Mint Halo NFT (locked)</li>
 <li>Recruit 2-4 team members</li>
 <li>Define technical architecture</li>
@@ -146,7 +146,7 @@ graph LR
 <li>Secure initial users/testers</li>
 
 </ul>
-<p>**Milestones:**</p>
+<p><strong>Milestones:</strong></p>
 
 <p>1. DAO formation complete</p>
 <p>2. Core team assembled</p>
@@ -185,20 +185,20 @@ graph TD
 <h3>🎯 Objective</h3>
 <p>Iterate rapidly to find product-market fit through community feedback.</p>
 
-<p>**Key Characteristics:**</p>
+<p><strong>Key Characteristics:</strong></p>
 
 <ul>
-<li>**High experimentation rate**</li>
+<li><strong>High experimentation rate</strong></li>
 <li>Rapid pivots allowed</li>
 <li>Constant user feedback</li>
 <li>Flexible milestone adjustments</li>
 <li>Community-guided development</li>
 
 </ul>
-<p>**Success Indicators:**</p>
+<p><strong>Success Indicators:</strong></p>
 
 <ul>
-<li>**User retention > 40%**</li>
+<li><strong>User retention > 40%</strong></li>
 <li>Organic growth starting</li>
 <li>Clear use case emerging</li>
 <li>Positive unit economics</li>
@@ -237,20 +237,20 @@ When pivoting during Drift:
 <h3>🎯 Objective</h3>
 <p>Establish sustainable operations with consistent growth and reliable delivery.</p>
 
-<p>**Orbit Characteristics:**</p>
+<p><strong>Orbit Characteristics:</strong></p>
 
 <ul>
-<li>**Predictable revenue/usage**</li>
+<li><strong>Predictable revenue/usage</strong></li>
 <li>Stable team operations</li>
 <li>Consistent milestone achievement</li>
 <li>Growing community confidence</li>
 <li>Clear scaling path</li>
 
 </ul>
-<p>**Key Metrics:**</p>
+<p><strong>Key Metrics:</strong></p>
 
 <ul>
-<li>**MRR/MAU growth**: 10%+ monthly</li>
+<li><strong>MRR/MAU growth</strong>: 10%+ monthly</li>
 <li>Milestone success rate: 80%+</li>
 <li>Team retention: 90%+</li>
 <li>User satisfaction: 4.5/5+</li>
@@ -288,20 +288,20 @@ graph LR
 <h3>🚀 Objective</h3>
 <p>Scale rapidly with external capital and aggressive expansion.</p>
 
-<p>**Flare Characteristics:**</p>
+<p><strong>Flare Characteristics:</strong></p>
 
 <ul>
-<li>**External funding rounds**</li>
+<li><strong>External funding rounds</strong></li>
 <li>Aggressive hiring</li>
 <li>Market expansion</li>
 <li>Product scaling</li>
 <li>Brand building</li>
 
 </ul>
-<p>**Capital Sources:**</p>
+<p><strong>Capital Sources:</strong></p>
 
 <ul>
-<li>**Traditional VCs (now interested)**</li>
+<li><strong>Traditional VCs (now interested)</strong></li>
 <li>Strategic partners</li>
 <li>Revenue-based financing</li>
 <li>Token sales (if applicable)</li>
@@ -339,17 +339,17 @@ gross_margins = > 70% # For software
 <h3>👑 Objective</h3>
 <p>Graduate from Studio3 oversight to complete independence.</p>
 
-<p>**Ascension Requirements:**</p>
+<p><strong>Ascension Requirements:</strong></p>
 
 <ul>
-<li>**All phases successfully completed**</li>
+<li><strong>All phases successfully completed</strong></li>
 <li>Sustainable business model proven</li>
 <li>Team fully autonomous</li>
 <li>Community support maintained</li>
 <li>Buyback funds available</li>
 
 </ul>
-<p>**The Buyback Process:**</p>
+<p><strong>The Buyback Process:</strong></p>
 
 <p>1. Initiate graduation request</p>
 <p>2. Final Anchor validation</p>
@@ -391,23 +391,23 @@ gross_margins = > 70% # For software
 
 <h3>📈 Advancement Criteria</h3>
 
-<p>**General Requirements:**</p>
+<p><strong>General Requirements:</strong></p>
 
 <ul>
-<li>**Complete all phase milestones**</li>
+<li><strong>Complete all phase milestones</strong></li>
 <li>Maintain community support (>60% belief)</li>
 <li>Pass Anchor validation</li>
 <li>Meet minimum duration</li>
 <li>Achieve phase-specific metrics</li>
 
 </ul>
-<p>**Special Cases:**</p>
+<p><strong>Special Cases:</strong></p>
 
 <ul>
-<li>**Fast Track**: Exceptional ventures can accelerate</li>
-<li>**Extended Duration**: Complex ventures may need more time</li>
-<li>**Phase Skipping**: Not allowed - all phases required</li>
-<li>**Regression**: Can fall back during Drift only</li>
+<li><strong>Fast Track</strong>: Exceptional ventures can accelerate</li>
+<li><strong>Extended Duration</strong>: Complex ventures may need more time</li>
+<li><strong>Phase Skipping</strong>: Not allowed - all phases required</li>
+<li><strong>Regression</strong>: Can fall back during Drift only</li>
 
 </ul>
 </div>

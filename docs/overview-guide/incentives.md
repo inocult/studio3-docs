@@ -238,8 +238,8 @@ Cannot Be Bought
 <div class="grid cards">
 <div class="arena-card">
 
-<p>#### ⏱️ Short-term Alignment</p>
-<p>**Immediate Rewards for Good Behavior**</p>
+<h4>⏱️ Short-term Alignment</h4>
+<p><strong>Immediate Rewards for Good Behavior</strong></p>
 
 
 <ul>
@@ -259,8 +259,8 @@ Cannot Be Bought
     
 <div class="arena-card">
 
-<p>#### 📈 Long-term Alignment</p>
-<p>**Compound Benefits for Patience**</p>
+<h4>📈 Long-term Alignment</h4>
+<p><strong>Compound Benefits for Patience</strong></p>
 
 
 <ul>

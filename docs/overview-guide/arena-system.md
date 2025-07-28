@@ -24,54 +24,54 @@ An Arena is a transparent, public space where:
 <div class="grid cards">
 <div class="arena-card">
         <h3>✨ Spark Arena</h3>
-        <p>**Purpose:**
+        <p><strong>Purpose:</strong>
 
-<p>**Idea validation</p>**</p>
-        <p>**Duration:** 7-14 days</p>
+<p><strong>Idea validation</p></strong></p>
+        <p><strong>Duration:</strong> 7-14 days</p>
 
-<p>**Stakes:**
+<p><strong>Stakes:</strong>
 
-<p>**Initial belief gathering</p>**</p>
+<p><strong>Initial belief gathering</p></strong></p>
         <p>Where ideas compete for attention and initial support</p>
 </div>
     
 <div class="arena-card">
         <h3>⚔️ Forge Arena</h3>
-        <p>**Purpose:**
+        <p><strong>Purpose:</strong>
 
-<p>**Founder selection</p>**</p>
-        <p>**Duration:** 3-5 days</p>
+<p><strong>Founder selection</p></strong></p>
+        <p><strong>Duration:</strong> 3-5 days</p>
 
-<p>**Stakes:**
+<p><strong>Stakes:</strong>
 
-<p>**Venture ownership</p>**</p>
+<p><strong>Venture ownership</p></strong></p>
         <p>Where founders duel for the right to build</p>
 </div>
     
 <div class="arena-card">
         <h3>🎯 Milestone Arena</h3>
-        <p>**Purpose:**
+        <p><strong>Purpose:</strong>
 
-<p>**Progress validation</p>**</p>
-        <p>**Duration:**
+<p><strong>Progress validation</p></strong></p>
+        <p><strong>Duration:</strong>
 
-<p>**Variable (per milestone)</p>**</p>
-        <p>**Stakes:**
+<p><strong>Variable (per milestone)</p></strong></p>
+        <p><strong>Stakes:</strong>
 
-<p>**Token rewards/burns</p>**</p>
+<p><strong>Token rewards/burns</p></strong></p>
         <p>Where ventures prove their execution ability</p>
 </div>
     
 <div class="arena-card">
         <h3>✅ Validation Arena</h3>
-        <p>**Purpose:**
+        <p><strong>Purpose:</strong>
 
-<p>**Achievement verification</p>**</p>
-        <p>**Duration:** 24-48 hours</p>
+<p><strong>Achievement verification</p></strong></p>
+        <p><strong>Duration:</strong> 24-48 hours</p>
 
-<p>**Stakes:**
+<p><strong>Stakes:</strong>
 
-<p>**Milestone completion</p>**</p>
+<p><strong>Milestone completion</p></strong></p>
         <p>Where Anchors verify claimed progress</p>
 </div>
 </div>
@@ -150,9 +150,9 @@ sequenceDiagram
 
 <h3>📡 Signal Mechanics</h3>
 
-<p>**Belief Signals** 👍</p>
+<p><strong>Belief Signals</strong> 👍</p>
 <ul>
-<li>**Stake tokens on successful completion**</li>
+<li><strong>Stake tokens on successful completion</strong></li>
 <li>Earn 1.5x</li>
 
 <li>3x multiplier if correct</li>
@@ -160,9 +160,9 @@ sequenceDiagram
 <li>Lose entire stake if wrong</li>
 
 </ul>
-<p>**Doubt Signals** 👎</p>
+<p><strong>Doubt Signals</strong> 👎</p>
 <ul>
-<li>**Stake tokens on milestone failure**</li>
+<li><strong>Stake tokens on milestone failure</strong></li>
 <li>Earn 1.2x</li>
 
 <li>2x multiplier if correct</li>
@@ -170,9 +170,9 @@ sequenceDiagram
 <li>Lose entire stake if wrong</li>
 
 </ul>
-<p>** Multiplier Factors:**</p>
+<p><strong> Multiplier Factors:</strong></p>
 <ul>
-<li>**Early signals earn higher multipliers**</li>
+<li><strong>Early signals earn higher multipliers</strong></li>
 <li>Contrarian correct signals bonus</li>
 <li>Reputation level affects multipliers</li>
 <li>Phase difficulty impacts rewards</li>
@@ -337,10 +337,10 @@ The Arena system evolves through:
 
 <div class="arena-card">
 
-<p>#### 🏆 DataMesh Protocol</p>
-<p>**Arena Performance:** 12/12 milestones completed</p>
+<h4>🏆 DataMesh Protocol</h4>
+<p><strong>Arena Performance:</strong> 12/12 milestones completed</p>
 <ul>
-<li>**Total Signals:**  2.3M $SIGNAL beliefOutcome:</li>
+<li><strong>Total Signals:</strong>  2.3M $SIGNAL beliefOutcome:</li>
 
 </ul>
 <p>Graduated in record time**> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable."</p>
@@ -352,13 +352,13 @@ The Arena system evolves through:
 
 <div class="arena-card">
 
-<p>#### 💡 EcoChain Initiative</p>
+<h4>💡 EcoChain Initiative</h4>
 
-<p>**Arena Performance:**</p>
+<p><strong>Arena Performance:</strong></p>
 
-<p>**Pivoted after milestone 3 failure**</p>
+<p><strong>Pivoted after milestone 3 failure</strong></p>
 <ul>
-<li>**Community Response:**  80% maintained belief post</li>
+<li><strong>Community Response:</strong>  80% maintained belief post</li>
 <li>pivotOutcome:</li>
 
 </ul>

@@ -204,31 +204,31 @@ These aren't just ideas - they're daily practices:
 
 <div class="arena-card">
 
-<p>#### 🌟 Case Study: OpenHealth Venture</p>
-<p>**Principle Applied:**</p>
+<h4>🌟 Case Study: OpenHealth Venture</h4>
+<p><strong>Principle Applied:</strong></p>
 
-<p>**Radical Transparency**</p>
+<p><strong>Radical Transparency</strong></p>
 
 <p>When OpenHealth hit technical challenges in Phase 3, they shared their struggles publicly. The community rallied with technical support, and they pivoted successfully.</p>
 
-<p>**Result:**</p>
+<p><strong>Result:</strong></p>
 
-<p>**Stronger product, loyal community, successful graduation**</p>
+<p><strong>Stronger product, loyal community, successful graduation</strong></p>
 
 </div>
 
 <div class="arena-card">
 
-<p>#### 💥 Case Study: QuickFlip Failure</p>
-<p>**Principle Applied:**</p>
+<h4>💥 Case Study: QuickFlip Failure</h4>
+<p><strong>Principle Applied:</strong></p>
 
-<p>**Failure as Feature**</p>
+<p><strong>Failure as Feature</strong></p>
 
 <p>QuickFlip consistently missed milestones, burning 500K $SIGNAL tokens. Their detailed post-mortem became required reading for new founders.</p>
 
-<p>**Result:**</p>
+<p><strong>Result:</strong></p>
 
-<p>**Expensive lesson that improved ecosystem quality**</p>
+<p><strong>Expensive lesson that improved ecosystem quality</strong></p>
 
 </div>
 

@@ -148,9 +148,9 @@ Additional Penalties:**
 <div class="arena-card">
 
 <h3>💥 Sender Penalty Framework</h3>
-<p>**Failure Consequences:**</p>
+<p><strong>Failure Consequences:</strong></p>
 
-<p>1. **Immediate Penalties** Milestone funds locked/returned</p>
+<p>1. <strong>Immediate Penalties</strong> Milestone funds locked/returned</p>
 
 <ul>
 <li>Belief signals burned</li>
@@ -160,10 +160,10 @@ Additional Penalties:**
 <li>Public failure record</li>
 
 </ul>
-<p>2. **Ongoing Impact**</p>
+<p>2. <strong>Ongoing Impact</strong></p>
 
 <ul>
-<li>**Reduced future support**</li>
+<li><strong>Reduced future support</strong></li>
 <li>Higher evidence requirements</li>
 
 <li>Limited phase progression</li>
@@ -171,10 +171,10 @@ Additional Penalties:**
 <li>Anchor scrutiny increase</li>
 
 </ul>
-<p>3. **Severe Violations**</p>
+<p>3. <strong>Severe Violations</strong></p>
 
 <ul>
-<li>**Venture dissolution**</li>
+<li><strong>Venture dissolution</strong></li>
 <li>Founder blacklisting</li>
 
 <li>NFT lockdown</li>
@@ -182,12 +182,12 @@ Additional Penalties:**
 <li>Legal action possible</li>
 
 </ul>
-<p>** Penalty Calculation:**</p>
+<p><strong> Penalty Calculation:</strong></p>
 <ul>
-<li>**Tokens Burned** : All belief signals on failed milestone</li>
-<li>**XP Loss** : -100 points multiplied by milestone difficulty</li>
-<li>**Trust Reduction** : 30% decrease in trust score</li>
-<li>**Future Penalty** : Next milestones 10% harder to fund</li>
+<li><strong>Tokens Burned</strong> : All belief signals on failed milestone</li>
+<li><strong>XP Loss</strong> : -100 points multiplied by milestone difficulty</li>
+<li><strong>Trust Reduction</strong> : 30% decrease in trust score</li>
+<li><strong>Future Penalty</strong> : Next milestones 10% harder to fund</li>
 
 </ul>
 </div>
@@ -197,36 +197,36 @@ Additional Penalties:**
 <div class="arena-card">
 
 <h3>⚠️ Anchor Accountability</h3>
-<p>** Quality Failures:**</p>
+<p><strong> Quality Failures:</strong></p>
 <ul>
-<li>**Poor validation: Reduced future assignments**</li>
+<li><strong>Poor validation: Reduced future assignments</strong></li>
 <li>Biased judgments: Council review</li>
 <li>Negligent approval: Fee clawback</li>
 <li>Repeated issues: Anchor status loss</li>
 
 </ul>
-<p>**Penalty Progression:**</p>
+<p><strong>Penalty Progression:</strong></p>
 
 <p>1.</p>
 
 <p>Warning</p>
 
 <ul>
-<li>**First minor issue**</li>
+<li><strong>First minor issue</strong></li>
 <li>2.** Probation</li>
 <li>Reduced fee rate</li>
 </ul>
-<p>3. **Suspension**</p>
+<p>3. <strong>Suspension</strong></p>
 <ul>
 <li>No new validations</li>
 </ul>
-<p>4. **Removal**</p>
+<p>4. <strong>Removal</strong></p>
 <ul>
 <li>Permanent status loss**</li>
-<li>**Financial Penalties:**</li>
-<li>**If validation is overturned:** Fee Clawback**: Must return 2x the original fee</li>
-<li>**Reputation Loss** : -500 XP penalty</li>
-<li>**Future Rate Cut** : 20% reduction in fee rates</li>
+<li><strong>Financial Penalties:</strong></li>
+<li><strong>If validation is overturned:</strong> Fee Clawback**: Must return 2x the original fee</li>
+<li><strong>Reputation Loss</strong> : -500 XP penalty</li>
+<li><strong>Future Rate Cut</strong> : 20% reduction in fee rates</li>
 
 </ul>
 </div>
@@ -283,9 +283,9 @@ sequenceDiagram
 <div class="arena-card">
 
 <h3>🎆 Bonus Reward Programs</h3>
-<p>**Active Programs:**</p>
+<p><strong>Active Programs:</strong></p>
 
-<p>1. **Early Adopter Rewards** 2x XP for first 1000 users</p>
+<p>1. <strong>Early Adopter Rewards</strong> 2x XP for first 1000 users</p>
 
 <ul>
 <li>Bonus multipliers for early ventures</li>
@@ -293,19 +293,19 @@ sequenceDiagram
 <li>Exclusive NFT badges</li>
 
 </ul>
-<p>2. **Referral Program**</p>
+<p>2. <strong>Referral Program</strong></p>
 
 <ul>
-<li>**5% of referred user's earnings**</li>
+<li><strong>5% of referred user's earnings</strong></li>
 <li>Bonus for successful ventures</li>
 
 <li>Network growth rewards</li>
 
 </ul>
-<p>3. **Bug Bounties**</p>
+<p>3. <strong>Bug Bounties</strong></p>
 
 <ul>
-<li>**Critical: 10,000 $SIGNAL**</li>
+<li><strong>Critical: 10,000 $SIGNAL</strong></li>
 <li>High: 5,000 $SIGNAL</li>
 
 <li>Medium: 1,000 $SIGNAL</li>
@@ -313,10 +313,10 @@ sequenceDiagram
 <li>Low: 100 $SIGNAL</li>
 
 </ul>
-<p>4. **Governance Participation**</p>
+<p>4. <strong>Governance Participation</strong></p>
 
 <ul>
-<li>**Voting rewards: 10 $SIGNAL/vote**</li>
+<li><strong>Voting rewards: 10 $SIGNAL/vote</strong></li>
 <li>Proposal rewards: 1,000 $SIGNAL</li>
 
 <li>Implementation: Revenue share</li>
@@ -339,25 +339,25 @@ sequenceDiagram
 
 <h3>🛡️ Protection Options</h3>
 
-<p>**Signal Insurance** (Coming Soon)</p>
+<p><strong>Signal Insurance</strong> (Coming Soon)</p>
 <ul>
-<li>**Pay 10% premium**</li>
+<li><strong>Pay 10% premium</strong></li>
 <li>Get 50% refund on wrong signals</li>
 <li>Limited to 3 uses per month</li>
 <li>Not available for contrarian positions</li>
 
 </ul>
-<p>**Founder Protection**</p>
+<p><strong>Founder Protection</strong></p>
 <ul>
-<li>**Force majeure provisions**</li>
+<li><strong>Force majeure provisions</strong></li>
 <li>Medical emergency extensions</li>
 <li>Natural disaster considerations</li>
 <li>Regulatory change adaptations</li>
 
 </ul>
-<p>**Anchor Indemnity**</p>
+<p><strong>Anchor Indemnity</strong></p>
 <ul>
-<li>**Good faith protection**</li>
+<li><strong>Good faith protection</strong></li>
 <li>Dispute resolution support</li>
 <li>Legal defense fund</li>
 <li>Professional insurance</li>
@@ -437,16 +437,16 @@ sequenceDiagram
 
 <div class="arena-card">
 
-<p>#### 🌟 The Perfect Signal</p>
-<p>**Echo:**</p>
+<h4>🌟 The Perfect Signal</h4>
+<p><strong>Echo:</strong></p>
 
-<p>**CryptoSage**</p>
+<p><strong>CryptoSage</strong></p>
 
-<p>**Signal:** 10,000 $SIGNAL belief on DeFiVault Phase 4</p>
+<p><strong>Signal:</strong> 10,000 $SIGNAL belief on DeFiVault Phase 4</p>
 
-<p>**Timing:** 14 days early</p>
+<p><strong>Timing:</strong> 14 days early</p>
 
-<p>**Result:** 2.8x return (28,000 $SIGNAL)</p>
+<p><strong>Result:</strong> 2.8x return (28,000 $SIGNAL)</p>
 
 <blockquote>"I spent days analyzing their code and team. The early signal risk paid off beautifully." - CryptoSage</blockquote>
 
@@ -456,16 +456,16 @@ sequenceDiagram
 
 <div class="arena-card">
 
-<p>#### 💥 The Costly Mistake</p>
-<p>**Sender:**</p>
+<h4>💥 The Costly Mistake</h4>
+<p><strong>Sender:</strong></p>
 
-<p>**RushProtocol**</p>
+<p><strong>RushProtocol</strong></p>
 
-<p>**Failure:**</p>
+<p><strong>Failure:</strong></p>
 
-<p>**Overpromised on scaling milestone**</p>
+<p><strong>Overpromised on scaling milestone</strong></p>
 
-<p>**Penalty:** 250,000 $SIGNAL burned, -2000 XP</p>
+<p><strong>Penalty:</strong> 250,000 $SIGNAL burned, -2000 XP</p>
 
 <blockquote>"We learned to be realistic with timelines. The penalty hurt but taught us valuable lessons." - RushProtocol CEO</blockquote>
 

@@ -114,13 +114,13 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 <h3>For the Startup Ecosystem</h3>
 
 <ul>
-<li>**Reduced Failure Rate**</li>
+<li><strong>Reduced Failure Rate</strong></li>
 <li>Community validation catches issues early</li>
-<li>**Better Resource Allocation**</li>
+<li><strong>Better Resource Allocation</strong></li>
 <li>Support flows to promising ventures</li>
-<li>**Faster Iteration**</li>
+<li><strong>Faster Iteration</strong></li>
 <li>Public feedback accelerates learning</li>
-<li>**Stronger Networks**</li>
+<li><strong>Stronger Networks</strong></li>
 <li>Built-in community from day one</li>
 
 </ul>

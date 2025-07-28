@@ -228,11 +228,11 @@ graph LR
 <div class="grid cards">
 <div class="arena-card">
 
-<p>#### 🎭 Scenario: Pivot Decision</p>
+<h4>🎭 Scenario: Pivot Decision</h4>
 
-<p>**Participants:**</p>
+<p><strong>Participants:</strong></p>
 
-<p>**Sender + Multiple Echoes + Anchor**</p>
+<p><strong>Sender + Multiple Echoes + Anchor</strong></p>
 
 <ul>
 <li>Sender proposes major pivot</li>
@@ -244,11 +244,11 @@ graph LR
     
 <div class="arena-card">
 
-<p>#### ⚖️ Scenario: Disputed Validation</p>
+<h4>⚖️ Scenario: Disputed Validation</h4>
 
-<p>**Participants:**</p>
+<p><strong>Participants:</strong></p>
 
-<p>**Sender + Echoes + Multiple Anchors**</p>
+<p><strong>Sender + Echoes + Multiple Anchors</strong></p>
 
 <ul>
 <li>Sender claims success</li>

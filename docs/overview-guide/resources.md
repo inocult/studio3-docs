@@ -13,23 +13,23 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <h3>🏛️ Studio3 Platform</h3>
 
-<p>**Main Website**: [studio**</p>
+<p><strong>Main Website</strong>: [studio**</p>
 <p>3. xyz](https://studio</p>
 <p>3. xyz)</p>
 
 <ul>
-<li>**Launch Arenas**</li>
+<li><strong>Launch Arenas</strong></li>
 <li>Track ventures</li>
 <li>Manage signals</li>
 <li>View analytics</li>
 
 </ul>
-<p>**Platform Status**: [status.studio**</p>
+<p><strong>Platform Status</strong>: [status.studio**</p>
 <p>3. xyz](https://status.studio</p>
 <p>3. xyz)</p>
 
 <ul>
-<li>**System health**</li>
+<li><strong>System health</strong></li>
 <li>Maintenance windows</li>
 <li>Incident reports</li>
 
@@ -39,20 +39,20 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="arena-card">
 
 <h3>💬 Community Hub</h3>
-<p>**Discord**: [discord.gg/studio3](https://discord.gg/studio3)</p>
+<p><strong>Discord</strong>: [discord.gg/studio3](https://discord.gg/studio3)</p>
 <ul>
-<li>**Real-time chat**</li>
+<li><strong>Real-time chat</strong></li>
 <li>Role channels</li>
 <li>Voice rooms</li>
 <li>Events</li>
 
 </ul>
-<p>**Forum:**: [forum.studio**</p>
+<p><strong>Forum:</strong>: [forum.studio**</p>
 <p>3. xyz](https://forum.studio</p>
 <p>3. xyz)</p>
 
 <ul>
-<li>**Deep discussions**</li>
+<li><strong>Deep discussions</strong></li>
 <li>Proposals</li>
 <li>Guides</li>
 <li>Q&A</li>
@@ -83,25 +83,25 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="arena-card">
 
 <h3>📋 Cheat Sheets</h3>
-<p>**Phase Progression**</p>
+<p><strong>Phase Progression</strong></p>
 <ul>
-<li>**Requirements per phase**</li>
+<li><strong>Requirements per phase</strong></li>
 <li>Success metrics</li>
 <li>Common pitfalls</li>
 <li>[Download PDF](../assets/phase-progression-cheatsheet.pdf)</li>
 
 </ul>
-<p>**Signal Strategy**</p>
+<p><strong>Signal Strategy</strong></p>
 <ul>
-<li>**Multiplier calculations**</li>
+<li><strong>Multiplier calculations</strong></li>
 <li>Risk management</li>
 <li>Portfolio balance</li>
 <li>[Download PDF](../assets/signal-strategy-cheatsheet.pdf)</li>
 
 </ul>
-<p>**Validation Checklist**</p>
+<p><strong>Validation Checklist</strong></p>
 <ul>
-<li>**Evidence requirements**</li>
+<li><strong>Evidence requirements</strong></li>
 <li>Quality standards</li>
 <li>Report template</li>
 <li>[Download PDF](../assets/validation-checklist.pdf)</li>
@@ -116,9 +116,9 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="grid">
 <div class="arena-card">
 
-<p>#### 📊 Analytics Dashboard</p>
+<h4>📊 Analytics Dashboard</h4>
 
-<p>** Access real-time metrics:**</p>
+<p><strong> Access real-time metrics:</strong></p>
 <ul>
 <li>Venture performance</li>
 
@@ -133,7 +133,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card">
 
-<p>#### 🔍 Arena Explorer</p>
+<h4>🔍 Arena Explorer</h4>
 
 
 
@@ -212,25 +212,25 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="arena-card">
 
 <h3>🚀 Quick Start Courses</h3>
-<p>**Studio3 Fundamentals** (2 hours)</p>
+<p><strong>Studio3 Fundamentals</strong> (2 hours)</p>
 <ul>
-<li>**Platform overview**</li>
+<li><strong>Platform overview</strong></li>
 <li>Core mechanics</li>
 <li>Role introduction</li>
 <li>[Start Course →](https://learn.studio3.xyz/fundamentals)</li>
 
 </ul>
-<p>**Advanced Strategies** (5 hours)</p>
+<p><strong>Advanced Strategies</strong> (5 hours)</p>
 <ul>
-<li>**Signal optimization**</li>
+<li><strong>Signal optimization</strong></li>
 <li>Risk management</li>
 <li>Network effects</li>
 <li>[Start Course →](https://learn.studio3.xyz/advanced)</li>
 
 </ul>
-<p>**Mentor Certification** (10 hours)</p>
+<p><strong>Mentor Certification</strong> (10 hours)</p>
 <ul>
-<li>**Anchor requirements**</li>
+<li><strong>Anchor requirements</strong></li>
 <li>Validation mastery</li>
 <li>Ethics & standards</li>
 <li>[Start Course →](https://learn.studio3.xyz/anchor-cert)</li>
@@ -272,27 +272,27 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="grid">
 <div class="arena-card">
 
-<p>#### 🆘 Support Levels</p>
+<h4>🆘 Support Levels</h4>
 
-<p>**Self-Service**</p>
+<p><strong>Self-Service</strong></p>
 <ul>
-<li>**Knowledge base**</li>
+<li><strong>Knowledge base</strong></li>
 <li>FAQs</li>
 <li>Video guides</li>
 <li>Community wiki</li>
 
 </ul>
-<p>**Community Support**</p>
+<p><strong>Community Support</strong></p>
 <ul>
-<li>**Discord help channels**</li>
+<li><strong>Discord help channels</strong></li>
 <li>Forum Q&A</li>
 <li>Peer mentoring</li>
 <li>Study groups</li>
 
 </ul>
-<p>**Official Support**</p>
+<p><strong>Official Support</strong></p>
 <ul>
-<li>**Support tickets**</li>
+<li><strong>Support tickets</strong></li>
 <li>Office hours</li>
 <li>Email support</li>
 <li>Emergency hotline</li>
@@ -302,22 +302,22 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <div class="arena-card">
 
-<p>#### 📞 Contact Methods</p>
-<p>**General Support**</p>
+<h4>📞 Contact Methods</h4>
+<p><strong>General Support</strong></p>
 <ul>
-<li>**Email: support@studio3.xyz**</li>
+<li><strong>Email: support@studio3.xyz</strong></li>
 <li>Response: 24-48 hours</li>
 
 </ul>
-<p>**Technical Issues**</p>
+<p><strong>Technical Issues</strong></p>
 <ul>
-<li>**Email: tech@studio3.xyz**</li>
+<li><strong>Email: tech@studio3.xyz</strong></li>
 <li>Discord: #tech-support</li>
 
 </ul>
-<p>**Urgent Matters**</p>
+<p><strong>Urgent Matters</strong></p>
 <ul>
-<li>**Hotline: +1-555-STUDIO3**</li>
+<li><strong>Hotline: +1-555-STUDIO3</strong></li>
 <li>Discord: @emergency-mod</li>
 
 </ul>
@@ -350,26 +350,26 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="arena-card">
 
 <h3>🌟 Community Recognition</h3>
-<p>**Monthly Awards**</p>
+<p><strong>Monthly Awards</strong></p>
 <ul>
-<li>**Top Sender**</li>
+<li><strong>Top Sender</strong></li>
 <li>Accurate Echo</li>
 <li>Quality Anchor</li>
 <li>Rising Star</li>
 <li>Community Helper</li>
 
 </ul>
-<p>**Leaderboards**</p>
+<p><strong>Leaderboards</strong></p>
 <ul>
-<li>**Global rankings**</li>
+<li><strong>Global rankings</strong></li>
 <li>Role-specific</li>
 <li>Regional boards</li>
 <li>All-time records</li>
 
 </ul>
-<p>**Badges & NFTs**</p>
+<p><strong>Badges & NFTs</strong></p>
 <ul>
-<li>**Milestone badges**</li>
+<li><strong>Milestone badges</strong></li>
 <li>Achievement NFTs</li>
 <li>Special editions</li>
 <li>Legacy markers</li>
@@ -399,25 +399,25 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="arena-card">
 
 <h3>🛡️ Security Essentials</h3>
-<p>**Wallet Security**</p>
+<p><strong>Wallet Security</strong></p>
 <ul>
-<li>**Hardware wallet guide**</li>
+<li><strong>Hardware wallet guide</strong></li>
 <li>Backup strategies</li>
 <li>Recovery planning</li>
 <li>[Security Guide](../assets/wallet-security.pdf)</li>
 
 </ul>
-<p>**Account Protection**</p>
+<p><strong>Account Protection</strong></p>
 <ul>
-<li>**2FA setup required**</li>
+<li><strong>2FA setup required</strong></li>
 <li>Password managers</li>
 <li>Session monitoring</li>
 <li>[Protection Guide](../assets/account-security.pdf)</li>
 
 </ul>
-<p>**Scam Prevention**</p>
+<p><strong>Scam Prevention</strong></p>
 <ul>
-<li>**Common scam types**</li>
+<li><strong>Common scam types</strong></li>
 <li>Red flag indicators</li>
 <li>Reporting process</li>
 <li>[Stay Safe Guide](../assets/scam-prevention.pdf)</li>
@@ -485,18 +485,18 @@ Currently available in:
 <div class="grid">
 <div class="arena-card">
 
-<p>#### 📰 News & Updates</p>
-<p>**Weekly Newsletter**</p>
+<h4>📰 News & Updates</h4>
+<p><strong>Weekly Newsletter</strong></p>
 <ul>
-<li>**Platform updates**</li>
+<li><strong>Platform updates</strong></li>
 <li>Featured ventures</li>
 <li>Community highlights</li>
 <li>[Subscribe](https://studio3.xyz/newsletter)</li>
 
 </ul>
-<p>**Development Blog**</p>
+<p><strong>Development Blog</strong></p>
 <ul>
-<li>**Technical updates**</li>
+<li><strong>Technical updates</strong></li>
 <li>Roadmap progress</li>
 <li>Feature previews</li>
 <li>[Read Blog](https://dev.studio3.xyz)</li>
@@ -506,18 +506,18 @@ Currently available in:
 
 <div class="arena-card">
 
-<p>#### 🎙️ Podcast & Media</p>
-<p>**Studio3 Podcast**</p>
+<h4>🎙️ Podcast & Media</h4>
+<p><strong>Studio3 Podcast</strong></p>
 <ul>
-<li>**Founder stories**</li>
+<li><strong>Founder stories</strong></li>
 <li>Strategy deep dives</li>
 <li>Market analysis</li>
 <li>[Listen Now](https://podcast.studio3.xyz)</li>
 
 </ul>
-<p>**YouTube Updates**</p>
+<p><strong>YouTube Updates</strong></p>
 <ul>
-<li>**Weekly summaries**</li>
+<li><strong>Weekly summaries</strong></li>
 <li>Tutorial releases</li>
 <li>Live events</li>
 <li>[Subscribe](https://youtube.com/studio3)</li>

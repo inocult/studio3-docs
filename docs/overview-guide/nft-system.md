@@ -12,7 +12,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 <div class="arena-card">
 
 <h3>🎨 Spark NFT</h3>
-<p>**The Origin**</p>
+<p><strong>The Origin</strong></p>
 
 <p>Represents the original idea and IP combination</p>
 
@@ -35,7 +35,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 <div class="arena-card">
 
 <h3>📡 Signal NFT</h3>
-<p>**The Journey**</p>
+<p><strong>The Journey</strong></p>
 
 <p>Dynamic NFT tracking the venture's entire lifecycle</p>
 
@@ -58,7 +58,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 <div class="arena-card">
 
 <h3>🛡️ Halo NFT</h3>
-<p>**The Achievement**</p>
+<p><strong>The Achievement</strong></p>
 
 <p>Soulbound proof of successful graduation</p>
 
@@ -175,31 +175,31 @@ Utility:**
 
 <p>The Signal NFT's appearance changes based on:**</p>
 <ul>
-<li>**Phase Progress:**</li>
+<li><strong>Phase Progress:</strong></li>
 
 </ul>
-<p>**Color shifts with each phase**</p>
+<p><strong>Color shifts with each phase</strong></p>
 
 <ul>
-<li>**Signal Strength:**</li>
+<li><strong>Signal Strength:</strong></li>
 
 </ul>
-<p>**Brightness indicates support**</p>
+<p><strong>Brightness indicates support</strong></p>
 <ul>
-<li>**Milestone Success:**</li>
+<li><strong>Milestone Success:</strong></li>
 
 </ul>
-<p>**New elements appear**</p>
+<p><strong>New elements appear</strong></p>
 <ul>
-<li>**Community Size:**</li>
+<li><strong>Community Size:</strong></li>
 
 </ul>
-<p>**Complexity increases**</p>
+<p><strong>Complexity increases</strong></p>
 <ul>
-<li>**Time Active:**</li>
+<li><strong>Time Active:</strong></li>
 
 </ul>
-<p>**Aged patina develops**</p>
+<p><strong>Aged patina develops</strong></p>
 
 </div>
 
@@ -322,16 +322,16 @@ sequenceDiagram
 <div class="arena-card">
 
 <h3>🔗 The Trinity Effect</h3>
-<p>** When all three NFTs are united in one wallet:**</p>
+<p><strong> When all three NFTs are united in one wallet:</strong></p>
 <ul>
-<li>🎨 **Spark** provides the origin story</li>
+<li>🎨 <strong>Spark</strong> provides the origin story</li>
 
-<li>📡 **Signal** shows the journey</li>
+<li>📡 <strong>Signal</strong> shows the journey</li>
 
-<li>🛡️ **Halo** proves the achievement**Result:**</li>
+<li>🛡️ <strong>Halo</strong> proves the achievement<strong>Result:</strong></li>
 
 </ul>
-<p>**Complete sovereignty over the venture's future**</p>
+<p><strong>Complete sovereignty over the venture's future</strong></p>
 
 </div>
 
@@ -441,16 +441,16 @@ All NFTs follow extended ERC-721 with:
 
 <div class="arena-card">
 
-<p>#### 🌟 The First Trinity</p>
-<p>**Venture:**</p>
+<h4>🌟 The First Trinity</h4>
+<p><strong>Venture:</strong></p>
 
-<p>**DecentralHealth**</p>
+<p><strong>DecentralHealth</strong></p>
 
-<p>**Journey:** 18 months from Spark to Sovereignty</p>
+<p><strong>Journey:</strong> 18 months from Spark to Sovereignty</p>
 
-<p>**Current Value:**</p>
+<p><strong>Current Value:</strong></p>
 
-<p>**Spark (50 ETH), Signal (200 ETH), Halo (Priceless)**</p>
+<p><strong>Spark (50 ETH), Signal (200 ETH), Halo (Priceless)</strong></p>
 
 <blockquote>"Watching our Signal NFT evolve with each milestone was magical. When we finally unlocked our Halo, it felt like graduation day." - DecentralHealth Founder</blockquote>
 

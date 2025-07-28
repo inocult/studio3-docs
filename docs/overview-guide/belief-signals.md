@@ -119,19 +119,19 @@ flowchart TD
 <div class="arena-card">
 
 <h3>📊 Multiplier Formula</h3>
-<p>** Base Multipliers:**</p>
+<p><strong> Base Multipliers:</strong></p>
 <ul>
-<li>**Belief (Success): 1.5x base**</li>
+<li><strong>Belief (Success): 1.5x base</strong></li>
 <li>Doubt (Failure): 1.2x base**  Bonus Factors:</li>
-<li>**Early Signal: +0.1x per 24 hours early**</li>
+<li><strong>Early Signal: +0.1x per 24 hours early</strong></li>
 <li>Contrarian: +0.3x if against majority</li>
 <li>Reputation: +0.01x per 1000 XP</li>
 <li>Phase Difficulty: +0.1x per phase level</li>
 
 </ul>
-<p>** Maximum Possible:**</p>
+<p><strong> Maximum Possible:</strong></p>
 <ul>
-<li>**Belief: 3x multiplier**</li>
+<li><strong>Belief: 3x multiplier</strong></li>
 <li>Doubt: 2x multiplier</li>
 
 </ul>
@@ -279,23 +279,23 @@ graph LR
 <div class="arena-card">
 
 <h3>🔮 Future Signal Features</h3>
-<p>**Conditional Signals** 🎯</p>
+<p><strong>Conditional Signals</strong> 🎯</p>
 <ul>
-<li>**"I believe IF [condition] is met"**</li>
+<li><strong>"I believe IF [condition] is met"</strong></li>
 <li>Automated trigger mechanisms</li>
 <li>Complex strategy options</li>
 
 </ul>
-<p>**Signal Combinations** 🧮</p>
+<p><strong>Signal Combinations</strong> 🧮</p>
 <ul>
-<li>**Bundle multiple milestones**</li>
+<li><strong>Bundle multiple milestones</strong></li>
 <li>Create signal portfolios</li>
 <li>Share strategies with others</li>
 
 </ul>
-<p>**Signal Insurance** 🛡️</p>
+<p><strong>Signal Insurance</strong> 🛡️</p>
 <ul>
-<li>**Partial loss protection**</li>
+<li><strong>Partial loss protection</strong></li>
 <li>Paid from insurance pools</li>
 <li>For verified edge cases</li>
 
@@ -367,14 +367,14 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 
 <div class="arena-card">
 
-<p>#### 🏆 EchoMaster_7</p>
-<p>**Stats:** 342 signals, 78% accuracy</p>
+<h4>🏆 EchoMaster_7</h4>
+<p><strong>Stats:</strong> 342 signals, 78% accuracy</p>
 
-<p>**Specialty:**</p>
+<p><strong>Specialty:</strong></p>
 
-<p>**Technical infrastructure milestones**</p>
+<p><strong>Technical infrastructure milestones</strong></p>
 
-<p>**Best Call:** 2.9x on CloudScale's Phase 5</p>
+<p><strong>Best Call:</strong> 2.9x on CloudScale's Phase 5</p>
 
 <blockquote>"I only signal on what I understand deeply. Better to miss opportunities than lose on ignorance."</blockquote>
 
@@ -382,16 +382,16 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 
 <div class="arena-card">
 
-<p>#### 🌟 SignalSavant</p>
-<p>**Stats:** 567 signals, 71% accuracy</p>
+<h4>🌟 SignalSavant</h4>
+<p><strong>Stats:</strong> 567 signals, 71% accuracy</p>
 
-<p>**Specialty:**</p>
+<p><strong>Specialty:</strong></p>
 
-<p>**Early-stage technical ventures**</p>
+<p><strong>Early-stage technical ventures</strong></p>
 
-<p>**Strategy:**</p>
+<p><strong>Strategy:</strong></p>
 
-<p>**Small stakes, high volume**</p>
+<p><strong>Small stakes, high volume</strong></p>
 
 <blockquote>"Diversification is my protection. I'd rather earn steady 1.5x returns than chase 3x moonshots."</blockquote>
 
