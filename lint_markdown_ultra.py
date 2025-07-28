@@ -66,8 +66,7 @@ class UltraMarkdownLinter:
                 in_arena_card = True
                 if 'markdown="1"' not in line:
                     errors.append((i + 1, "arena-card div missing markdown='1' attribute", line))
-            elif '<div class="grid' in line and 'markdown="1"' not in line:
-                errors.append((i + 1, "grid div missing markdown='1' attribute", line))
+            # Grid divs should NOT have markdown="1" - they contain HTML content
             elif '</div>' in line and in_arena_card:
                 in_arena_card = False
             

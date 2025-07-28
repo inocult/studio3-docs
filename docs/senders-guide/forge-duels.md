@@ -17,44 +17,40 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 **The Forge Process:**
 
 1. **Entry Requirements**
- Own the Spark NFT
-
-- Stake 1,000+ $SIGNAL
-
-- Complete founder profile
-
-- Pass basic verification
+   - Own the Spark NFT
+   - Stake 1,000+ $SIGNAL
+   - Complete founder profile
+   - Pass basic verification
 
 2. **Competition Period**
-- ** 7-14 days typical
-
-- Public presentations
-
-- Community Q&A
-
-- Live debates
+   - 7-14 days typical
+   - Public presentations
+   - Community Q&A
+   - Live debates
 
 3. **Victory Conditions**
-- ** Highest belief signals
-- Community vote
-
-- Anchor endorsement
-
-- Technical merit
+   - Highest belief signals
+   - Community vote
+   - Anchor endorsement
+   - Technical merit
 
 ### Why Duels Matter
 
 <div class="arena-card" markdown="1">
 
 ### 🎯 The Stakes
-** Winner Receives:
-- ** Exclusive building rights
+
+**Winner Receives:**
+
+- Exclusive building rights
 - Signal NFT ownership
 - Community support
 - Initial funding pool
 - Platform privileges
-** Losers Face:
-- ** Stake penalties (50% burn)
+
+**Losers Face:**
+
+- Stake penalties (50% burn)
 - Cannot re-enter same Spark
 - Reputation impact
 - Must find new opportunity
@@ -71,47 +67,37 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 ### 📊 Competition Formats
 
 1. **Open Duel** (Most Common)
-
-- Any founder can enter
-- 2
-- 10 competitors typical
-- 7
-- day competition
-- Pure merit
-- based
+   - Any founder can enter
+   - 2-10 competitors typical
+   - 7-day competition
+   - Pure merit-based
 
 2. **Invited Duel** (Curated)
-
-- Spark owner invites specific founders
-
-- Higher quality competition
-
-- Focused expertise
-
-- Faster resolution
+   - Spark owner invites specific founders
+   - Higher quality competition
+   - Focused expertise
+   - Faster resolution
 
 3. **Resurrection Duel** (Second Chance)
-
-- Failed ventures only
-
-- Proven founders get priority
-
-- Higher stakes
-
-- Redemption opportunity
+   - Failed ventures only
+   - Proven founders get priority
+   - Higher stakes
+   - Redemption opportunity
 
 </div>
 
 ### Special Circumstances
-** Unique Duel Types:
-- ** Lightning Duel
-- 48-hour sprint
-- ** Marathon Duel
-- 30-day comprehensive
-- ** Team Duel
-- Pre-formed teams compete
-- ** Bounty Duel
-- Platform-sponsored ventures
+
+**Unique Duel Types:**
+
+- **Lightning Duel**
+  - 48-hour sprint
+- **Marathon Duel**
+  - 30-day comprehensive
+- **Team Duel**
+  - Pre-formed teams compete
+- **Bounty Duel**
+  - Platform-sponsored ventures
 ## Preparation Strategy
 
 ### Pre-Duel Planning
@@ -119,18 +105,24 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### 📋 Essential Preparation
-** 4 Weeks Before:
-- ** Research the Spark thoroughly
+
+**4 Weeks Before:**
+
+- Research the Spark thoroughly
 - Study IP components
 - Analyze market opportunity
 - Build your narrative
-** 2 Weeks Before:
-- ** Assemble support team
+
+**2 Weeks Before:**
+
+- Assemble support team
 - Create presentation materials
 - Line up endorsements
 - Practice pitch
-** 1 Week Before:
-- ** Finalize strategy
+
+**1 Week Before:**
+
+- Finalize strategy
 - Coordinate supporters
 - Polish all materials
 - Rest and prepare mentally
@@ -138,47 +130,37 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 </div>
 
 ### Building Your Case
-** Five Pillars of Victory:
+
+**Five Pillars of Victory:**
 1. **Founder Credibility**
- Relevant experience
-
-- Past successes
-
-- Domain expertise
-
-- Network strength
+   - Relevant experience
+   - Past successes
+   - Domain expertise
+   - Network strength
 
 2. **Vision Clarity**
-- ** Compelling future state
-- Clear path forward
-
-- Realistic milestones
-
-- Inspiring narrative
+   - Compelling future state
+   - Clear path forward
+   - Realistic milestones
+   - Inspiring narrative
 
 3. **Execution Plan**
-- ** Detailed roadmap
-- Resource allocation
-
-- Risk mitigation
-
-- Timeline feasibility
+   - Detailed roadmap
+   - Resource allocation
+   - Risk mitigation
+   - Timeline feasibility
 
 4. **Team Strength**
-- ** Complementary skills
-- Proven collaboration
-
-- Advisor quality
-
-- Recruitment pipeline
+   - Complementary skills
+   - Proven collaboration
+   - Advisor quality
+   - Recruitment pipeline
 
 5. **Community Alignment**
-- ** Supporter engagement
-- Value distribution
-
-- Feedback integration
-
-- Long-term thinking
+   - Supporter engagement
+   - Value distribution
+   - Feedback integration
+   - Long-term thinking
 
 ## Competition Tactics
 
@@ -187,38 +169,33 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### ⚔️ Winning Tactics
-** Differentiation Methods:
+
+**Differentiation Methods:**
 1. **Unique Angle**
- Novel approach to problem
-
-- Different market entry
-
-- Innovative tech stack
-
-- Creative partnerships
+   - Novel approach to problem
+   - Different market entry
+   - Innovative tech stack
+   - Creative partnerships
 
 2. **Superior Preparation**
-- ** Prototype ready
-- Customer interviews
-
-- LOIs secured
-
-- Team assembled
+   - Prototype ready
+   - Customer interviews
+   - LOIs secured
+   - Team assembled
 
 3. **Community Building**
-- ** Pre-duel supporters
-
-- Influencer backing
-
-- Echo testimonials
-
-- Viral content
+   - Pre-duel supporters
+   - Influencer backing
+   - Echo testimonials
+   - Viral content
 
 </div>
 
 ### Defensive Strategies
-** Protecting Your Position:
-- ** Address weaknesses proactively
+
+**Protecting Your Position:**
+
+- Address weaknesses proactively
 - Counter competitor claims
 - Maintain high ground
 - Focus on strengths
@@ -229,13 +206,17 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### 🧠 Mental Game
-** Allowed Tactics:
-- ** Highlight competitor gaps
+
+**Allowed Tactics:**
+
+- Highlight competitor gaps
 - Question feasibility
 - Challenge experience
 - Debate publicly
-** Forbidden Tactics:
-- ** Personal attacks
+
+**Forbidden Tactics:**
+
+- Personal attacks
 - False information
 - Stake manipulation
 - Collusion
@@ -250,28 +231,38 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### 📅 Seven-Day Duel
-**Day 1: Opening Statements
-- ** Post comprehensive vision
+
+**Day 1: Opening Statements**
+
+- Post comprehensive vision
 - Share founder backgrounds
 - Outline execution plan
 - Engage early supporters
-**Day 2-3: Deep Dives
-- ** Technical architecture
+
+**Day 2-3: Deep Dives**
+
+- Technical architecture
 - Business model details
 - Go-to-market strategy
 - Team introductions
-**Day 4-5: Community Engagement
-- ** Host live AMA
+
+**Day 4-5: Community Engagement**
+
+- Host live AMA
 - Answer all questions
 - Address concerns
 - Build momentum
-**Day 6: Final Push
-- ** Summary presentation
+
+**Day 6: Final Push**
+
+- Summary presentation
 - Endorsement reveals
 - Rally supporters
 - Last arguments
-**Day 7: Voting Day
-- ** Final statements
+
+**Day 7: Voting Day**
+
+- Final statements
 - Community decides
 - Results announced
 - Victory/defeat
@@ -287,52 +278,38 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 ### 🎯 Winning Presentation Format
 
 1. **Hook** (30 seconds)
-
-- Grab attention
-
-- State the problem
-
-- Tease solution
+   - Grab attention
+   - State the problem
+   - Tease solution
 
 2. **Credibility** (2 minutes)
-
-- Your background
-
-- Relevant wins
-
-- Why you
+   - Your background
+   - Relevant wins
+   - Why you
 
 3. **Vision** (3 minutes)
-
-- Future state
-
-- Market size
-
-- Impact scale
+   - Future state
+   - Market size
+   - Impact scale
 
 4. **Execution** (5 minutes)
-
-- Milestone plan
-
-- Resource needs
-
-- Timeline
-
-- Risks
+   - Milestone plan
+   - Resource needs
+   - Timeline
+   - Risks
 
 5. **Call to Action** (1 minute)
-
-- Why support
-
-- What happens next
-
-- Commitment level
+   - Why support
+   - What happens next
+   - Commitment level
 
 </div>
 
 ### Visual Excellence
-** Presentation Assets:
-- ** Professional deck (10-15 slides)
+
+**Presentation Assets:**
+
+- Professional deck (10-15 slides)
 - Demo video (2-3 minutes)
 - Architecture diagrams
 - Financial projections
@@ -345,14 +322,18 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### 💬 Engagement Strategy
-** Daily Activities:
-- ** Morning update post
+
+**Daily Activities:**
+
+- Morning update post
 - Answer all questions
 - Share progress
 - Thank supporters
 - Address doubters
-** Special Events:
-- ** Live video AMA
+
+**Special Events:**
+
+- Live video AMA
 - Twitter Space
 - Discord town hall
 - Supporter meetup
@@ -361,25 +342,22 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 </div>
 
 ### Converting Doubters
-** Strategies for Skeptics:
+
+**Strategies for Skeptics:**
 1. **Listen First**
- Understand concerns
-
-- Acknowledge validity
-
-- Show respect
+   - Understand concerns
+   - Acknowledge validity
+   - Show respect
 
 2. **Address Directly**
-- ** Provide evidence
-- Offer clarification
-
-- Show flexibility
+   - Provide evidence
+   - Offer clarification
+   - Show flexibility
 
 3. **Convert Through Action**
-- ** Deliver small wins
-- Prove capability
-
-- Build trust
+   - Deliver small wins
+   - Prove capability
+   - Build trust
 
 ## Common Pitfalls
 
@@ -388,18 +366,24 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### ❌ Fatal Mistakes
-** Preparation Failures:
-- ** Underestimating competitors
+
+**Preparation Failures:**
+
+- Underestimating competitors
 - Poor time management
 - Weak presentation
 - No differentiation
-** Execution Failures:
-- ** Ignoring questions
+
+**Execution Failures:**
+
+- Ignoring questions
 - Getting defensive
 - Over-promising
 - Team conflicts
-** Behavioral Failures:
-- ** Arrogance
+
+**Behavioral Failures:**
+
+- Arrogance
 - Desperation
 - Negativity
 - Dishonesty
@@ -413,14 +397,17 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### 🏆 Post-Victory Protocol
-** Immediate Actions:
+
+**Immediate Actions:**
 1. Thank all supporters
 2. Acknowledge competitors
 3. Share the vision
 4. Begin planning
 5. Maintain momentum
-** First Week:
-- ** Claim Signal NFT
+
+**First Week:**
+
+- Claim Signal NFT
 - Form Container DAO
 - Onboard team
 - Set first milestone
@@ -429,27 +416,23 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 </div>
 
 ### Losing Constructively
-** If You Lose:
+
+**If You Lose:**
 1. **Accept gracefully**
- Congratulate winner
-
-- Thank supporters
-
-- Learn lessons
+   - Congratulate winner
+   - Thank supporters
+   - Learn lessons
 
 2. **Analyze failure**
-- ** What went wrong?
-- What could improve?
-
-- What's next?
+   - What went wrong?
+   - What could improve?
+   - What's next?
 
 3. **Plan comeback**
-- ** New Spark search
-- Skill building
-
-- Network growth
-
-- Next attempt
+   - New Spark search
+   - Skill building
+   - Network growth
+   - Next attempt
 
 ## Success Stories
 
@@ -458,14 +441,18 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### 🌟 The Underdog Victory
-** DecentraHealth Duel:
-- ** 5 competitors entered
+
+**DecentraHealth Duel:**
+
+- 5 competitors entered
 - Favorite had $10M exit
 - Underdog had passion
 - Community chose heart
 - Now valued at $50M
-** Key Lessons:
-- ** Credentials aren't everything
+
+**Key Lessons:**
+
+- Credentials aren't everything
 - Community values authenticity
 - Preparation beats pedigree
 - Passion convinces
@@ -479,16 +466,22 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 <div class="arena-card" markdown="1">
 
 ### 🎮 Strategic Considerations
-** Timing Strategies:
-- ** Enter early for momentum
+
+**Timing Strategies:**
+
+- Enter early for momentum
 - Enter late for counter-positioning
 - Mid-entry for flexibility
-** Staking Strategies:
-- ** Minimum viable stake
+
+**Staking Strategies:**
+
+- Minimum viable stake
 - Overwhelming force
 - Progressive increases
-** Alliance Building:
-- ** Coordinate supporters
+
+**Alliance Building:**
+
+- Coordinate supporters
 - Share resources
 - Post-duel partnerships
 
@@ -497,11 +490,17 @@ The Forge is Studio3's unique founder selection mechanism. Multiple entrepreneur
 ## Next Steps
 
 ### Post-Duel Journey
-**If You Win:→ Continue to [Winning Strategies](winning-strategies.md)
-** Preparation Phase:
-**→ Review [Duel Preparation](duel-preparation.md)
-** Building Phase:
-**→ Jump to [Container DAO Setup](container-dao.md)
+**If You Win:**
+
+→ Continue to [Winning Strategies](winning-strategies.md)
+
+**Preparation Phase:**
+
+→ Review [Duel Preparation](duel-preparation.md)
+
+**Building Phase:**
+
+→ Jump to [Container DAO Setup](container-dao.md)
 
 ---
 

@@ -6,9 +6,7 @@
 
 ### 🏆 The Victor's Playbook
 
-- Winning The Forge requires more than a good idea
-- it demands superior strategy, flawless execution, and the ability to inspire belief. This guide reveals the tactics that separate winners from runners
-- up.
+Winning The Forge requires more than a good idea - it demands superior strategy, flawless execution, and the ability to inspire belief. This guide reveals the tactics that separate winners from runners-up.
 
 </div>
 
@@ -22,32 +20,26 @@
 
 **Echoes Vote Based On:**
 
-1. **Return Potential**
- (40%) Milestone achievability
+1. **Return Potential** (40%)
+   - Milestone achievability
+   - Market opportunity
+   - Execution capability
+   - Exit possibilities
 
-- Market opportunity
+2. **Founder Quality** (30%)
+   - Track record
+   - Communication skills
+   - Resilience indicators
+   - Learning ability
 
-- Execution capability
+3. **Vision Alignment** (20%)
+   - Values match
+   - Long-term thinking
+   - Community benefit
+   - Innovation level
 
-- Exit possibilities
-
-2. **Founder Quality** (30%)**   - Track record
-
-- Communication skills
-
-- Resilience indicators
-
-- Learning ability
-
-3. **Vision Alignment** (20%)**   - Values match
-- Long
-- term thinking
-
-- Community benefit
-
-- Innovation level
-
-4. **Risk Assessment** (10%)**   - Failure probability
+4. **Risk Assessment** (10%)
+   - Failure probability
 
 - Mitigation plans
 
@@ -58,13 +50,12 @@
 </div>
 
 ### Emotional Triggers
-** What Drives Belief:
-- **Confidence**  without arrogance
-- **Vulnerability**  with strength 
-- **Passion** with pragmatism
-  
-- **Vision** with specifics
 
+**What Drives Belief:**
+- **Confidence** without arrogance
+- **Vulnerability** with strength
+- **Passion** with pragmatism
+- **Vision** with specifics
 - **Humility** with competence
 
 ## Strategic Positioning
@@ -74,44 +65,38 @@
 <div class="arena-card" markdown="1">
 
 ### 🎯 Standing Out
-** Four Positioning Strategies:
+
+**Four Positioning Strategies:**
 1. **The Expert**
- Deep domain knowledge
-
-- Technical superiority
-
-- Industry connections
-
-- Proven methods
+   - Deep domain knowledge
+   - Technical superiority
+   - Industry connections
+   - Proven methods
 
 2. **The Innovator**
-- ** Novel approach
-- Creative solutions
-
-- Breakthrough thinking
-- First
-- mover advantage
+   - Novel approach
+   - Creative solutions
+   - Breakthrough thinking
+   - First-mover advantage
 
 3. **The Executor**
-- ** Delivery track record
-- Operational excellence
-
-- Speed to market
-
-- Reliability focus
+   - Delivery track record
+   - Operational excellence
+   - Speed to market
+   - Reliability focus
 
 4. **The Community Builder**
-- ** Engagement master
-- Value sharing
-
-- Collaborative approach
+   - Engagement master
+   - Value sharing
+   - Collaborative approach
 
 - Network effects
 
 </div>
 
 ### Competitive Analysis
-** Know Your Opponents:
+
+**Know Your Opponents:
 **| Analysis Area | What to Assess |
 |--------------|----------------|
 |**Strengths** | What they do well |
@@ -127,23 +112,31 @@
 <div class="arena-card" markdown="1">
 
 ### 📅 Preparation Timeline
-**Days 1-7: Foundation
-- ** Analyze the Spark deeply
+
+**Days 1-7: Foundation**
+
+- Analyze the Spark deeply
 - Research all IPs involved
 - Study market dynamics
 - Define your angle
-**Days 8-14: Building
-- ** Create core materials
+
+**Days 8-14: Building**
+
+- Create core materials
 - Develop prototypes
 - Secure endorsements
 - Build team
-**Days 15-21: Testing
-- ** Practice presentations
+
+**Days 15-21: Testing**
+
+- Practice presentations
 - Get feedback
 - Refine messaging
 - Stress test plans
-**Days 22-30: Launch Prep
-- ** Coordinate supporters
+
+**Days 22-30: Launch Prep**
+
+- Coordinate supporters
 - Finalize materials
 - Mental preparation
 - Rest and recharge
@@ -151,17 +144,13 @@
 </div>
 
 ### Material Development
-** Essential Assets:
-1. **Master Deck**
-- ** (20-30 slides)
 
-- Vision slides
-
-- Execution plan
-
-- Financial model
-
-- Team showcase
+**Essential Assets:**
+1. **Master Deck** (20-30 slides)
+   - Vision slides
+   - Execution plan
+   - Financial model
+   - Team showcase
 
 - Milestone roadmap
 

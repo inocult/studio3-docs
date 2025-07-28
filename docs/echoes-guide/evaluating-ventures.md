@@ -18,22 +18,16 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 ### 🏰 Systematic Analysis
 
-- **F** 
-- Founder Assessment
-- ** O
-- Opportunity Analysis**
-- **  R
-- Risk Evaluation
-- ** T
-- Technical Feasibility
-- **  R
-- Roadmap Review
-- ** E
-- Execution Track Record
-- **  S
-- Signal Analysis
-- ** S
-- Sustainability Check**Each element scored 1-10, minimum 56/80 for positive signal.
+- **F** - Founder Assessment
+- **O** - Opportunity Analysis
+- **R** - Risk Evaluation
+- **T** - Technical Feasibility
+- **R** - Roadmap Review
+- **E** - Execution Track Record
+- **S** - Signal Analysis
+- **S** - Sustainability Check
+
+Each element scored 1-10, minimum 56/80 for positive signal.
 
 </div>
 
@@ -45,34 +39,24 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 
 ### 👥 Evaluating the Builders
 
-** Background Research:
+**Background Research:**
+
 1. **Professional History**
-
-- LinkedIn profiles
-
-- Previous startups
-
-- Work experience
-
-- Education credentials
-
-- Public speaking
+   - LinkedIn profiles
+   - Previous startups
+   - Work experience
+   - Education credentials
+   - Public speaking
 
 2. **Crypto Experience**
-- On
-- chain history
-
-- GitHub activity
-
-- Community involvement
-
-- Protocol contributions
-
-- Thought leadership
+   - On-chain history
+   - GitHub activity
+   - Community involvement
+   - Protocol contributions
+   - Thought leadership
 
 3. **Reputation Markers**
-
-- Studio3 track record
+   - Studio3 track record
 
 - Community testimonials
 
@@ -85,14 +69,18 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 </div>
 
 ### Team Dynamics
-** Key Questions:
-- ** Solo founder or team?
-- Complementary skills?
-- Prior collaboration?
-- Full-time commitment?
-- Advisor quality?
-** Red Flags:
-- ** Anonymous team
+
+**Key Questions:**
+
+- **Solo founder or team?**
+- **Complementary skills?**
+- **Prior collaboration?**
+- **Full-time commitment?**
+- **Advisor quality?**
+
+**Red Flags:**
+
+- **Anonymous team**
 - Fake LinkedIn profiles
 - No relevant experience
 - High turnover
@@ -105,21 +93,23 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 <div class="arena-card" markdown="1">
 
 ### 📊 Market Opportunity
-** TAM Assessment:
-- ** Total Addressable Market size
+**TAM Assessment:**
+
+- **Total Addressable Market size**
 - Growth rate projections
 - Current penetration
 - Expansion potential
 - Geographic reach
-** Competition Analysis:
+**Competition Analysis:**
+
 ```
-** Direct Competitors:
+Direct Competitors:
 - Who exists?
 - Market share?
 - Strengths/weaknesses?
 - Differentiation?
 
-** Indirect Competition:
+Indirect Competition:
 - Alternative solutions?
 - Substitution risk?
 - Switching costs?
@@ -173,7 +163,9 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 <div class="arena-card" markdown="1">
 
 ### ⚠️ Comprehensive Risk Assessment
-**Risk Categories:| Risk Type | Low | Medium | High |
+**Risk Categories:**
+
+| Risk Type | Low | Medium | High |
 |-----------|-----|---------|------|
 | Technical | Proven tech | Some innovation | Breakthrough needed |
 | Market | Established | Emerging | Unproven |
@@ -181,8 +173,9 @@ Success as an Echo depends on your ability to evaluate ventures accurately. This
 | Competition | Differentiated | Crowded | Dominated |
 | Execution | Experienced | Learning | First-time |
 | Financial | Funded | Tight | Struggling |
-** Risk Score:
-- ** 0-2 High risks: Consider belief
+**Risk Score:**
+
+- **0-2 High risks**: Consider belief
 - 3-4 High risks: Careful analysis
 - 5+ High risks: Likely doubt
 

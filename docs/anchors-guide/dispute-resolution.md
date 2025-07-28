@@ -19,6 +19,7 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 ### 🎯 Common Conflict Categories
 
 **Validation Disputes**
+
 - Milestone achievement claims
 - Evidence interpretation
 - Standard application
@@ -26,6 +27,7 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 - Quality assessments
 
 **Stakeholder Conflicts**
+
 - Founder vs Echo tensions
 - Team internal conflicts
 - Community disagreements
@@ -33,6 +35,7 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 - Resource allocation
 
 **Technical Disputes**
+
 - Architecture decisions
 - Technology choices
 - Performance standards
@@ -40,6 +43,7 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 - Implementation approaches
 
 **Business Disputes**
+
 - Strategic direction
 - Market approach
 - Pivot decisions
@@ -53,8 +57,10 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 <div class="arena-card" markdown="1">
 
 ### 🔍 How Conflicts Escalate
+
 **Escalation Pattern:**
-```
+
+```text
 Disagreement → Tension → Conflict → Dispute → Crisis
     ↓            ↓          ↓          ↓         ↓
   Discussion   Emotion   Positions   Formal    Damage
@@ -85,6 +91,7 @@ Disagreement → Tension → Conflict → Dispute → Crisis
 <div class="arena-card" markdown="1">
 
 ### 🛠️ Systematic Conflict Resolution
+
 - **R** - Recognize the dispute early
 - **E** - Establish neutral ground
 - **S** - Separate people from positions
@@ -108,10 +115,12 @@ Disagreement → Tension → Conflict → Dispute → Crisis
 <div class="arena-card" markdown="1">
 
 ### 🚨 First 48 Hours
+
 **Immediate Actions:**
 
 **Hour 1-4: Acknowledge**
-```
+
+```text
 Response Template:
 "I acknowledge your concern about [issue]. 
 I take this seriously and will investigate thoroughly. 
@@ -120,6 +129,7 @@ Timeline for resolution: [specific date]"
 ```
 
 **Hour 5-24: Investigate**
+
 - Gather all perspectives
 - Review documentation
 - Check precedents
@@ -127,6 +137,7 @@ Timeline for resolution: [specific date]"
 - Prepare approach
 
 **Hour 25-48: Engage**
+
 - Meet with parties
 - Listen actively
 - Establish process
@@ -142,6 +153,7 @@ Timeline for resolution: [specific date]"
 <div class="arena-card" markdown="1">
 
 ### ⚖️ When Founders Disagree
+
 **Common Challenge Reasons:**
 
 - Evidence interpretation
@@ -153,6 +165,7 @@ Timeline for resolution: [specific date]"
 **Resolution Process:**
 
 **Step 1: Review Request**
+
 ```markdown
 ## Validation Review Request
 Venture: [Name]
@@ -164,6 +177,7 @@ Requested Outcome: [What they want]
 ```
 
 **Step 2: Re-examination**
+
 - Fresh eyes approach
 - All evidence reviewed
 - Standards reconfirmed
@@ -171,6 +185,7 @@ Requested Outcome: [What they want]
 - Peer input sought
 
 **Step 3: Decision Communication**
+
 - Clear determination
 - Detailed reasoning
 - Learning captured
@@ -183,39 +198,28 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 ### 📊 Interpreting Gray Areas
+
 **Evidence Interpretation Framework:**
 
 **When Evidence Conflicts:**
 
 1. **Weight Evidence**
-
-- Primary over secondary
-
-- Verified over claimed
-
-- Consistent over outlier
-
-- Recent over old
+   - Primary over secondary
+   - Verified over claimed
+   - Consistent over outlier
+   - Recent over old
 
 2. **Seek Clarity**
-
-- Additional evidence
-
-- Expert opinions
-
-- Testing/verification
-
-- Context expansion
+   - Additional evidence
+   - Expert opinions
+   - Testing/verification
+   - Context expansion
 
 3. **Apply Judgment**
-
-- Benefit of doubt where appropriate
-
-- Precedent consideration
-
-- Ecosystem benefit
-
-- Fair resolution
+   - Benefit of doubt where appropriate
+   - Precedent consideration
+   - Ecosystem benefit
+   - Fair resolution
 
 **Documentation:**
 
@@ -233,6 +237,7 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 ### 👥 When Leaders Clash
+
 **Common Co-Founder Issues:**
 
 - Vision misalignment
@@ -244,7 +249,8 @@ Requested Outcome: [What they want]
 **Mediation Approach:**
 
 **1. Separate Meetings**
-```
+
+```text
 Individual Session Guide:
 - Safe space creation
 - Full story hearing
@@ -254,6 +260,7 @@ Individual Session Guide:
 ```
 
 **2. Joint Session**
+
 - Ground rules set
 - Structured dialogue
 - Focus on interests
@@ -261,6 +268,7 @@ Individual Session Guide:
 - Agreement building
 
 **3. Documentation**
+
 - Clear agreements
 - Specific actions
 - Timeline defined
@@ -274,6 +282,7 @@ Individual Session Guide:
 <div class="arena-card" markdown="1">
 
 ### 😤 Employee Grievances
+
 **Resolution Strategy:**
 
 **Assessment Phase:**
@@ -309,6 +318,7 @@ Individual Session Guide:
 <div class="arena-card" markdown="1">
 
 ### 📡 Signal Stakeholder Issues
+
 **Common Conflicts:**
 
 - Progress disputes
@@ -320,6 +330,7 @@ Individual Session Guide:
 **Resolution Approach:**
 
 **1. Fact Finding**
+
 - Claims documented
 - Evidence gathered
 - Timeline reviewed
@@ -327,7 +338,8 @@ Individual Session Guide:
 - Context understood
 
 **2. Stakeholder Alignment**
-```
+
+```text
 Alignment Workshop:
 1. Shared goal reminder
 2. Success definition
@@ -337,6 +349,7 @@ Alignment Workshop:
 ```
 
 **3. Forward Path**
+
 - Specific commitments
 - Measurement criteria
 - Check-in schedule
@@ -350,6 +363,7 @@ Alignment Workshop:
 <div class="arena-card" markdown="1">
 
 ### 🌐 Public Conflicts
+
 **Managing Public Disputes:**
 
 **Immediate Response:**
@@ -369,7 +383,8 @@ Alignment Workshop:
 - Learning shared
 
 **Communication Strategy:**
-```
+
+```text
 Public Statement Structure:
 1. Issue acknowledgment
 2. Process explanation
@@ -387,6 +402,7 @@ Public Statement Structure:
 <div class="arena-card" markdown="1">
 
 ### 💻 Technical Decision Conflicts
+
 **Common Technical Disputes:**
 
 - Technology stack choices
@@ -398,6 +414,7 @@ Public Statement Structure:
 **Resolution Framework:**
 
 **1. Technical Review**
+
 ```python
 def resolve_technical_dispute():
     # Gather technical arguments
@@ -415,6 +432,7 @@ def resolve_technical_dispute():
 ```
 
 **2. Decision Criteria**
+
 - Technical merit
 - Business alignment
 - Resource reality
@@ -428,9 +446,11 @@ def resolve_technical_dispute():
 <div class="arena-card" markdown="1">
 
 ### ⭐ Standard Application Conflicts
+
 **Resolution Process:**
 
 **1. Standard Clarification**
+
 - Review written standards
 - Check precedents
 - Industry benchmarks
@@ -438,6 +458,7 @@ def resolve_technical_dispute():
 - Context factors
 
 **2. Fair Application**
+
 - Consistent interpretation
 - Reasonable adjustment
 - Document reasoning
@@ -445,6 +466,7 @@ def resolve_technical_dispute():
 - Update standards
 
 **3. Future Prevention**
+
 - Standard refinement
 - Example creation
 - Training improvement
@@ -460,9 +482,11 @@ def resolve_technical_dispute():
 <div class="arena-card" markdown="1">
 
 ### 🤝 Facilitating Resolution
+
 **Mediation Skills:**
 
 **1. Active Listening**
+
 - Full attention
 - No interruption
 - Reflect understanding
@@ -470,7 +494,8 @@ def resolve_technical_dispute():
 - Show empathy
 
 **2. Reframing**
-```
+
+```text
 Negative: "They never listen to me"
 Reframe: "You feel unheard in discussions"
 
@@ -479,6 +504,7 @@ Reframe: "The current state needs improvement"
 ```
 
 **3. Finding Common Ground**
+
 - Shared goals identification
 - Mutual interests
 - Common values
@@ -486,6 +512,7 @@ Reframe: "The current state needs improvement"
 - Joint vision
 
 **4. Creative Solutions**
+
 - Brainstorm options
 - Combine ideas
 - Think outside box
@@ -499,6 +526,7 @@ Reframe: "The current state needs improvement"
 <div class="arena-card" markdown="1">
 
 ### 😡 Emotional De-escalation
+
 **De-escalation Techniques:**
 
 **Verbal Techniques:**
@@ -518,7 +546,8 @@ Reframe: "The current state needs improvement"
 - Written communication
 
 **Psychological Safety:**
-```
+
+```text
 Creating Safe Space:
 □ No judgment zone
 □ Confidentiality assured
@@ -536,43 +565,32 @@ Creating Safe Space:
 <div class="arena-card" markdown="1">
 
 ### 📈 When Resolution Fails
+
 **Escalation Ladder:**
 
 1. **Anchor Resolution** (Days 1-7)
-- Direct mediation
-
-- Informal process
-
-- Flexible approach
-
-- Quick resolution
+   - Direct mediation
+   - Informal process
+   - Flexible approach
+   - Quick resolution
 
 2. **Senior Anchor Review** (Days 8-14)
-- Formal review
-
-- Structured process
-
-- Documented decision
-
-- Binding outcome
+   - Formal review
+   - Structured process
+   - Documented decision
+   - Binding outcome
 
 3. **Anchor Council** (Days 15-21)
-- Panel review
-
-- Formal hearing
-
-- Final decision
-
-- Precedent setting
+   - Panel review
+   - Formal hearing
+   - Final decision
+   - Precedent setting
 
 4. **Platform Arbitration** (Days 22+)
    - External review
-
-- Legal framework
-
-- Binding arbitration
-
-- No appeal
+   - Legal framework
+   - Binding arbitration
+   - No appeal
 
 </div>
 
@@ -581,7 +599,9 @@ Creating Safe Space:
 <div class="arena-card" markdown="1">
 
 ### 📝 Formal Documentation
+
 **Dispute Record Template:**
+
 ```markdown
 # Dispute Resolution Record
 
@@ -626,20 +646,28 @@ Creating Safe Space:
 <div class="arena-card" markdown="1">
 
 ### 🛡️ Preventing Disputes
-**Prevention Framework:** 1. Clear Communication
-- ** Written agreements
+
+**Prevention Framework:**
+
+**1. Clear Communication**
+
+- Written agreements
 - Defined expectations
 - Regular check-ins
 - Transparent process
 - Open channels
-2. Early Intervention
-- ** Spot tensions
+
+**2. Early Intervention**
+
+- Spot tensions
 - Address quickly
 - Small corrections
 - Continuous dialogue
 - Relationship focus
-3. System Design
-- ** Clear policies
+
+**3. System Design**
+
+- Clear policies
 - Fair processes
 - Appeal mechanisms
 - Precedent library
@@ -652,14 +680,18 @@ Creating Safe Space:
 <div class="arena-card" markdown="1">
 
 ### 💪 Strengthening Relationships
-** Relationship Building:
-- ** Regular positive interaction
+
+**Relationship Building:**
+
+- Regular positive interaction
 - Celebration of successes
 - Trust bank deposits
 - Benefit of doubt
 - Grace in failure
-** Cultural Elements:
-- ** Psychological safety
+
+**Cultural Elements:**
+
+- Psychological safety
 - Growth mindset
 - Conflict normalization
 - Resolution skills
@@ -674,36 +706,26 @@ Creating Safe Space:
 <div class="arena-card" markdown="1">
 
 ### 📚 Extracting Lessons
-** Learning Framework:
+
+**Learning Framework:**
+
 1. **What Happened?**
-
-- Trigger identification
-
-- Escalation analysis
-
-- Resolution review
-
-- Outcome assessment
+   - Trigger identification
+   - Escalation analysis
+   - Resolution review
+   - Outcome assessment
 
 2. **Why Did It Happen?**
-
-- Root cause analysis
-
-- System failures
-
-- Communication gaps
-
-- Expectation mismatches
+   - Root cause analysis
+   - System failures
+   - Communication gaps
+   - Expectation mismatches
 
 3. **How to Prevent?**
-
-- Process improvements
-
-- Policy updates
-
-- Training needs
-
-- Tool development
+   - Process improvements
+   - Policy updates
+   - Training needs
+   - Tool development
 
 </div>
 
@@ -712,6 +734,7 @@ Creating Safe Space:
 ### Mastering Dispute Resolution
 
 Continue developing with:
+
 1. [Ecosystem Governance](ecosystem-governance.md) - System-level disputes
 2. [Anchor Council](anchor-council.md) - Peer support
 3. [Reputation Management](reputation-management.md) - Post-dispute recovery

@@ -98,8 +98,10 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 ### 🏃 First 24 Hours
+
 **Hour 1-2: Assessment**
-```
+
+```text
 Crisis Triage:
 □ Identify crisis type/scope
 □ Assess immediate dangers
@@ -109,6 +111,7 @@ Crisis Triage:
 ```
 
 **Hour 3-6: Stabilization**
+
 - Stop the bleeding
 - Prevent escalation
 - Secure critical assets
@@ -116,6 +119,7 @@ Crisis Triage:
 - Rally core team
 
 **Hour 7-12: Planning**
+
 - Gather full information
 - Develop response options
 - Allocate resources
@@ -123,6 +127,7 @@ Crisis Triage:
 - Prepare communications
 
 **Hour 13-24: Execution**
+
 - Implement immediate fixes
 - Communicate broadly
 - Monitor progress
@@ -136,27 +141,32 @@ Crisis Triage:
 <div class="arena-card" markdown="1">
 
 ### 🎖️ Organizing for Action
+
 **Crisis Team Roles:**
 
 **Crisis Leader (Usually CEO)**
+
 - Final decisions
 - External face
 - Resource allocation
 - Stakeholder management
 
 **Operations Lead**
+
 - Tactical execution
 - Team coordination
 - Progress tracking
 - Internal communication
 
 **Technical Lead** (If applicable)
-- ** Problem solving
+
+- Problem solving
 - Solution implementation
 - Risk assessment
 - Recovery planning
 
 **Communications Lead**
+
 - Message development
 - Stakeholder updates
 - Media management
@@ -178,9 +188,11 @@ Crisis Triage:
 <div class="arena-card" markdown="1">
 
 ### 💸 When Money Runs Out
+
 **Immediate Actions:**
 
 **Week 1: Reality Check**
+
 ```python
 def assess_financial_crisis():
     current_burn = calculate_monthly_burn()
@@ -197,31 +209,22 @@ def assess_financial_crisis():
 **Cost Reduction Options:**
 
 1. **Personnel** (50-70% of costs)
-- Salary cuts/deferrals
-
-- Hiring freeze
-
-- Layoffs if necessary
-
-- Contractor reduction
+   - Salary cuts/deferrals
+   - Hiring freeze
+   - Layoffs if necessary
+   - Contractor reduction
 
 2. **Operations** (20-30%)
-- Office reduction
-
-- Tool consolidation
-
-- Travel elimination
-
-- Marketing pause
+   - Office reduction
+   - Tool consolidation
+   - Travel elimination
+   - Marketing pause
 
 3. **Strategic** (Variable)
    - Feature scope reduction
-
-- Market focus
-
-- Partnership emphasis
-
-- Revenue acceleration
+   - Market focus
+   - Partnership emphasis
+   - Revenue acceleration
 
 </div>
 
@@ -230,27 +233,32 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### 💰 Capital in Crisis
+
 **Funding Options Ranked:**
 
 **1. Revenue Acceleration**
+
 - Discounts for prepayment
 - Annual plan push
 - New revenue streams
 - Service offerings
 
 **2. Bridge Financing**
+
 - Existing investor top-up
 - Convertible notes
 - Revenue-based financing
 - Emergency credit
 
 **3. Asset Strategies**
+
 - IP licensing
 - Asset sales
 - Talent lending
 - Partnership deals
 
 **4. Last Resort**
+
 - Acquisition talks
 - Distress investment
 - Personal funds
@@ -273,9 +281,11 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### 🔒 Data Breach Protocol
+
 **Immediate Response:**
 
 **Hour 1: Contain**
+
 ```bash
 # Emergency Protocol
 1. Isolate affected systems
@@ -286,6 +296,7 @@ def assess_financial_crisis():
 ```
 
 **Hour 2-6: Assess**
+
 - What was accessed?
 - How many affected?
 - How did it happen?
@@ -293,6 +304,7 @@ def assess_financial_crisis():
 - Legal obligations?
 
 **Hour 7-24: Respond**
+
 - Fix vulnerability
 - Notify authorities
 - Prepare user comms
@@ -300,6 +312,7 @@ def assess_financial_crisis():
 - Begin recovery
 
 **Day 2-7: Recover**
+
 - Full investigation
 - User notifications
 - Credit monitoring
@@ -313,6 +326,7 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### 💻 Critical Outage Management
+
 **Outage Response Framework:**
 
 **Severity Levels:**
@@ -325,44 +339,28 @@ def assess_financial_crisis():
 **Response Protocol:**
 
 1. **Declare Incident**
-
-- Severity level
-
-- Impact scope
-
-- Response team
-
-- Communication plan
+   - Severity level
+   - Impact scope
+   - Response team
+   - Communication plan
 
 2. **War Room**
-
-- Central command
-
-- Clear roles
-
-- Status updates
-
-- Decision authority
+   - Central command
+   - Clear roles
+   - Status updates
+   - Decision authority
 
 3. **Recovery Execution**
-
-- Root cause focus
-
-- Parallel workstreams
-
-- Regular updates
-
-- Testing protocol
+   - Root cause focus
+   - Parallel workstreams
+   - Regular updates
+   - Testing protocol
 
 4. **Post-Mortem**
-
-- Blameless culture
-
-- Timeline reconstruction
-
-- Lessons learned
-
-- Prevention plan
+   - Blameless culture
+   - Timeline reconstruction
+   - Lessons learned
+   - Prevention plan
 
 </div>
 
@@ -373,21 +371,25 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### 👥 When Leaders Clash
+
 **Conflict Escalation Stages:**
 
 **Stage 1: Tension**
+
 - Communication breakdown
 - Avoidance behaviors
 - Team taking sides
 - Productivity impact
 
 **Stage 2: Open Conflict**
+
 - Public disagreements
 - Power struggles
 - Trust breakdown
 - Team morale crisis
 
 **Stage 3: Crisis Point**
+
 - Departure threats
 - Legal considerations
 - Investor involvement
@@ -397,30 +399,21 @@ def assess_financial_crisis():
 
 1. **Immediate Separation**
    - Cool-down period
-
-- Individual sessions
-
-- Issue identification
-
-- Stakes clarification
+   - Individual sessions
+   - Issue identification
+   - Stakes clarification
 
 2. **Mediated Discussion**
-
-- Neutral facilitator
-
-- Structured dialogue
-
-- Focus on interests
-- Seek win-win
+   - Neutral facilitator
+   - Structured dialogue
+   - Focus on interests
+   - Seek win-win
 
 3. **Resolution Planning**
-
-- Clear agreements
-
-- Role clarification
-
-- Communication rules
-- Follow-up schedule
+   - Clear agreements
+   - Role clarification
+   - Communication rules
+   - Follow-up schedule
 
 </div>
 
@@ -429,6 +422,7 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### 🚪 Team Exodus Management
+
 **When Teams Leave:**
 
 **Immediate Response:**
@@ -438,17 +432,21 @@ def assess_financial_crisis():
 - Assess knowledge loss
 - Stabilize remainder
 - Communicate quickly
-** Retention Emergency:
-```
-** Retention Toolkit:
+
+**Retention Emergency:**
+
+```text
+Retention Toolkit:
 1. One-on-ones with remainder
 2. Address core issues
 3. Short-term incentives
 4. Long-term promises
 5. Culture reset
 ```
-** Recovery Planning:
-- ** Critical hire priorities
+
+**Recovery Planning:**
+
+- Critical hire priorities
 - Knowledge documentation
 - Process simplification
 - Contractor bridge
@@ -463,26 +461,36 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### ⚖️ Legal/Regulatory Crisis
-**Regulatory Response:** Day 1: Assess
-- ** Understand violation
+
+**Regulatory Response:**
+
+**Day 1: Assess**
+
+- Understand violation
 - Gauge severity
 - Legal counsel
 - Compliance audit
 - Stakeholder impact
-**Week 1: Respond
-- ** Regulatory dialogue
+
+**Week 1: Respond**
+
+- Regulatory dialogue
 - Compliance plan
 - User communications
 - Operational adjustments
 - Legal strategy
-**Month 1: Adapt
-- ** Business model pivot
+
+**Month 1: Adapt**
+
+- Business model pivot
 - Compliance implementation
 - Market repositioning
 - Stakeholder management
 - Future prevention
-** Regulatory Strategy:
-- ** Cooperate fully
+
+**Regulatory Strategy:**
+
+- Cooperate fully
 - Show good faith
 - Propose solutions
 - Build relationships
@@ -495,8 +503,13 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### 📰 Public Relations Crisis
-**PR Crisis Response:** Hour 1-4: Control Narrative```
-** Communication Priority:
+
+**PR Crisis Response:**
+
+**Hour 1-4: Control Narrative**
+
+```text
+Communication Priority:
 1. Internal team first
 2. Direct stakeholders
 3. Broader community
@@ -504,20 +517,25 @@ def assess_financial_crisis():
 5. General public
 ```
 
-** Message Framework:
-- ** Acknowledge issue
+**Message Framework:**
+
+- Acknowledge issue
 - Take responsibility
 - Show empathy
 - Outline actions
 - Commit to updates
-** Channel Strategy:
-- ** Official statement
+
+**Channel Strategy:**
+
+- Official statement
 - Social media
 - Direct emails
 - Community forums
 - Media interviews
-** Recovery Path:
-- ** Consistent messaging
+
+**Recovery Path:**
+
+- Consistent messaging
 - Action over words
 - Transparency commitment
 - Rebuild trust
@@ -532,15 +550,20 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### 📢 Crisis Communications
-**Stakeholder Priority Matrix:| Stakeholder | Priority | Key Messages | Channel |
+
+**Stakeholder Priority Matrix:**
+
+| Stakeholder | Priority | Key Messages | Channel |
 |------------|----------|--------------|---------|
 | Team | Immediate | Full truth, support | All-hands |
 | Investors | Very High | Recovery plan | Direct call |
 | Customers | High | Service continuity | Email/App |
 | Community | High | Transparency | Forum/Discord |
 | Media | Managed | Controlled message | PR/Official |
-** Message Principles:
-- ** Truth (within legal bounds)
+
+**Message Principles:**
+
+- Truth (within legal bounds)
 - Speed over perfection
 - Consistency across channels
 - Empathy first
@@ -553,14 +576,20 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 ### 👥 Keeping Team Aligned
-**Team Communication Framework:** Daily Standups
-- ** Situation update
+
+**Team Communication Framework:**
+
+**Daily Standups**
+
+- Situation update
 - Progress report
 - Blockers identified
 - Morale check
 - Next 24 hours
-** Information Flow:
-```
+
+**Information Flow:**
+
+```text
 Leadership Team
     ↓
 Department Heads
@@ -569,8 +598,10 @@ Team Members
     ↓
 Feedback Loop ↑
 ```
-** Morale Management:
-- ** Acknowledge difficulty
+
+**Morale Management:**
+
+- Acknowledge difficulty
 - Celebrate small wins
 - Maintain normalcy where possible
 - Provide support resources
@@ -585,20 +616,28 @@ Feedback Loop ↑
 <div class="arena-card" markdown="1">
 
 ### 🔄 Building Back Better
-**Recovery Phases:** Phase 1: Stabilization (Week 1-2)
-- ** Crisis contained
+
+**Recovery Phases:**
+
+**Phase 1: Stabilization (Week 1-2)**
+
+- Crisis contained
 - Bleeding stopped
 - Team stabilized
 - Communications managed
 - Planning begun
-**Phase 2: Recovery (Week 3-8)
-- ** Solutions implemented
+
+**Phase 2: Recovery (Week 3-8)**
+
+- Solutions implemented
 - Trust rebuilding
 - Operations normalizing
 - Metrics improving
 - Lessons documented
-**Phase 3: Growth (Week 9+)
-- ** Stronger foundation
+
+**Phase 3: Growth (Week 9+)**
+
+- Stronger foundation
 - New processes
 - Better prepared
 - Team unified
@@ -611,20 +650,28 @@ Feedback Loop ↑
 <div class="arena-card" markdown="1">
 
 ### 📚 Post-Mortem Excellence
-**Post-Crisis Analysis:**  Blameless Review:
+
+**Post-Crisis Analysis:**
+
+**Blameless Review:**
+
 1. Timeline reconstruction
 2. Decision analysis
 3. What went well
 4. What went poorly
 5. Improvement areas
-** Process Improvements:
-- ** Early warning systems
+
+**Process Improvements:**
+
+- Early warning systems
 - Response protocols
 - Communication plans
 - Training needs
 - Tool requirements
-** Cultural Changes:
-- ** Risk awareness
+
+**Cultural Changes:**
+
+- Risk awareness
 - Transparency increase
 - Trust building
 - Resilience mindset
@@ -639,20 +686,26 @@ Feedback Loop ↑
 <div class="arena-card" markdown="1">
 
 ### 🛠️ Crisis Management Tools
-** Contact Lists:
-- ** Emergency services
+
+**Contact Lists:**
+
+- Emergency services
 - Legal counsel
 - PR specialists
 - Technical experts
 - Financial advisors
-** Template Library:
-- ** Crisis communication templates
+
+**Template Library:**
+
+- Crisis communication templates
 - Stakeholder updates
 - Legal notices
 - PR statements
 - Recovery plans
-** Decision Frameworks:
-- ** Severity assessment
+
+**Decision Frameworks:**
+
+- Severity assessment
 - Resource allocation
 - Communication priority
 - Recovery planning
@@ -665,18 +718,26 @@ Feedback Loop ↑
 <div class="arena-card" markdown="1">
 
 ### 🧠 Crisis Thinking Tools
-**Useful Frameworks:** OODA Loop** (Observe, Orient, Decide, Act)
-- ** Rapid decision cycling
+
+**Useful Frameworks:**
+
+**OODA Loop** (Observe, Orient, Decide, Act)
+
+- Rapid decision cycling
 - Continuous adjustment
 - Speed advantage
 - Clear action
-**Swiss Cheese Model
-- ** Multiple failures align
+
+**Swiss Cheese Model**
+
+- Multiple failures align
 - Defense in depth
 - System thinking
 - Prevention focus
-**Black Swan Preparation
-- ** Expect unexpected
+
+**Black Swan Preparation**
+
+- Expect unexpected
 - Build resilience
 - Create options
 - Stay adaptable
@@ -688,6 +749,7 @@ Feedback Loop ↑
 ### Crisis Readiness
 
 Continue preparing with:
+
 1. [Dispute Resolution](dispute-resolution.md) - Conflict management
 2. [Quality Criteria](quality-criteria.md) - Standards maintenance
 3. [Anchor Council](anchor-council.md) - Peer support

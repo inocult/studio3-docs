@@ -4,7 +4,9 @@
 
 <div class="arena-card" markdown="1">
 
-**Phase**: Ascension 🏆  **Focus:** : Exit Strategy  Duration**: 3-6 months typical</div>
+**Phase**: Ascension 🏆 **Focus**: Exit Strategy **Duration**: 3-6 months typical
+
+</div>
 
 ## Overview
 
@@ -13,18 +15,21 @@ Ascension is the final phase where ventures achieve full sovereignty by buying b
 ## Sovereignty Requirements
 
 ### 1. Financial Readiness
+
 - Sufficient capital for buyback
 - Sustainable revenue model
 - Clear valuation metrics
 - Legal entity established
 
 ### 2. Operational Maturity
+
 - Independent infrastructure
 - Complete team structure
 - Governance framework
 - Compliance systems
 
 ### 3. Community Alignment
+
 - Echo support verified
 - Anchor endorsement
 - Signal holder consensus
@@ -33,12 +38,18 @@ Ascension is the final phase where ventures achieve full sovereignty by buying b
 ## Buyback Mechanics
 
 ### NFT Valuation
-1. **Spark NFT**: Original creation value + appreciation**2. **Signal NFT**: Performance-based multiplier**3. **Halo NFT**: Unlocks upon complete buyback**### Pricing Formula
+
+1. **Spark NFT**: Original creation value + appreciation
+2. **Signal NFT**: Performance-based multiplier
+3. **Halo NFT**: Unlocks upon complete buyback
+
+### Pricing Formula
 ```
 Buyback Price = Base Value × Performance Multiple × Market Factor
 ```
 
 ### Payment Options
+
 - Direct purchase (preferred)
 - Structured payments
 - Revenue sharing
@@ -47,18 +58,21 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 ## Ascension Timeline
 
 ### Month 1: Preparation
+
 - Financial audit
 - Legal structuring
 - Valuation negotiation
 - Community announcement
 
 ### Month 2: Execution
+
 - Buyback initiation
 - NFT transfers
 - Genesis Wallet transition
 - Documentation updates
 
 ### Month 3: Graduation
+
 - Halo NFT unlock
 - Full sovereignty transfer
 - Alumni status
@@ -67,18 +81,21 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 ## Post-Ascension Benefits
 
 ### 1. Complete Autonomy
+
 - Full IP ownership
 - Independent operations
 - Direct governance
 - Market flexibility
 
 ### 2. Alumni Network
+
 - Continued mentorship
 - Partnership opportunities
 - Knowledge sharing
 - Brand association
 
 ### 3. Sub-Studio Rights
+
 - Launch own ventures
 - Mentor new founders
 - Create venture funds
@@ -87,12 +104,14 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 ## Success Metrics
 
 ### Graduation Criteria (TRL 9)
+
 - Market leadership position
 - Sustainable profitability
 - Team succession ready
 - Technology maturity
 
 ### Community Impact
+
 - Signal holder returns
 - Echo reputation gains
 - Anchor success fees
@@ -101,24 +120,30 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 ## Case Studies
 
 ### DeFi Success
+
 - **Entry**: $100K Spark value
-- **Exit** : $10M buyback price
-- **Multiple** : 100x return
-- **Duration** : 24 months
+- **Exit**: $10M buyback price
+- **Multiple**: 100x return
+- **Duration**: 24 months
+
 ### AI Platform
+
 - **Entry**: $50K Spark value
-- **Exit** : $5M buyback price
-- **Multiple** : 100x return
-- **Duration** : 18 months
+- **Exit**: $5M buyback price
+- **Multiple**: 100x return
+- **Duration**: 18 months
+
 ## Common Concerns
 
 ### Valuation Disputes
+
 - Third-party assessment
 - Community arbitration
 - Performance metrics
 - Market comparables
 
 ### Timing Pressure
+
 - No forced exits
 - Mutual agreement required
 - Extension options

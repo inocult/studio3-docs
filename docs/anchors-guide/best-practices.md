@@ -21,62 +21,39 @@ This comprehensive guide captures the collective wisdom of successful Anchors, p
 **The Five Pillars of Great Anchoring:**
 
 1. **Consistency**
-
-- Same standards for all
-
-- Documented processes
-
-- Predictable approach
-
-- Fair treatment
-
-- Clear expectations
+   - Same standards for all
+   - Documented processes
+   - Predictable approach
+   - Fair treatment
+   - Clear expectations
 
 2. **Communication**
-
-- Clear and timely
-
-- Constructive tone
-
-- Active listening
-
-- Written clarity
-- Follow-through
+   - Clear and timely
+   - Constructive tone
+   - Active listening
+   - Written clarity
+   - Follow-through
 
 3. **Competence**
-
-- Technical expertise
-
-- Business acumen
-
-- Continuous learning
-
-- Tool mastery
-
-- Industry awareness
+   - Technical expertise
+   - Business acumen
+   - Continuous learning
+   - Tool mastery
+   - Industry awareness
 
 4. **Compassion**
-
-- Founder empathy
-
-- Growth mindset
-
-- Patient guidance
-
-- Emotional intelligence
-
-- Supportive presence
+   - Founder empathy
+   - Growth mindset
+   - Patient guidance
+   - Emotional intelligence
+   - Supportive presence
 
 5. **Commitment**
-
-- Reliable availability
-- Long-term view
-
-- Ecosystem focus
-
-- Quality dedication
-
-- Continuous improvement
+   - Reliable availability
+   - Long-term view
+   - Ecosystem focus
+   - Quality dedication
+   - Continuous improvement
 
 </div>
 
@@ -85,7 +62,9 @@ This comprehensive guide captures the collective wisdom of successful Anchors, p
 <div class="arena-card" markdown="1">
 
 ### ⏰ Optimizing Your Impact
+
 **Weekly Schedule Best Practices:**
+
 ```
 Monday: Planning & Prep
 - Review week's validations
@@ -129,7 +108,9 @@ Friday: Wrap-up & Learning
 <div class="arena-card" markdown="1">
 
 ### 📋 Preparation is Key
+
 **Best Practice Checklist:**
+
 ```python
 def prepare_for_validation():
     """Gold standard preparation process"""
@@ -170,9 +151,11 @@ def prepare_for_validation():
 <div class="arena-card" markdown="1">
 
 ### 🔍 Thorough Yet Efficient
+
 **Systematic Review Process:**
 
 **First Pass (30 min)**
+
 - Completeness check
 - Quality scan
 - Red flag identification
@@ -180,6 +163,7 @@ def prepare_for_validation():
 - Initial impressions
 
 **Deep Dive (1-3 hours)**
+
 ```
 Evidence Review Framework:
 ├── Technical Evidence
@@ -200,6 +184,7 @@ Evidence Review Framework:
 ```
 
 **Verification Testing**
+
 - Always test claims
 - Reproduce results
 - Verify metrics
@@ -213,46 +198,32 @@ Evidence Review Framework:
 <div class="arena-card" markdown="1">
 
 ### ⚖️ Fair and Transparent Decisions
+
 **Decision Framework Best Practices:**
 
 1. **Gather All Information**
-
-- Complete evidence review
-
-- Clarifying questions asked
-
-- Context fully understood
-
-- Standards clearly defined
+   - Complete evidence review
+   - Clarifying questions asked
+   - Context fully understood
+   - Standards clearly defined
 
 2. **Apply Consistent Standards**
    - Phase-appropriate expectations
-
-- Documented criteria
-
-- Previous precedents
-
-- Peer calibration
+   - Documented criteria
+   - Previous precedents
+   - Peer calibration
 
 3. **Document Reasoning**
-
-- Clear decision trail
-
-- Specific examples
-
-- Standard references
-
-- Improvement paths
+   - Clear decision trail
+   - Specific examples
+   - Standard references
+   - Improvement paths
 
 4. **Communicate Effectively**
-
-- Decision first
-
-- Reasoning clear
-
-- Actions specific
-
-- Tone supportive
+   - Decision first
+   - Reasoning clear
+   - Actions specific
+   - Tone supportive
 
 </div>
 
@@ -263,9 +234,11 @@ Evidence Review Framework:
 <div class="arena-card" markdown="1">
 
 ### ✍️ Clear and Constructive Writing
+
 **Validation Report Excellence:**
 
 **Structure for Clarity:**
+
 ```markdown
 # Executive Summary
 - Decision upfront
@@ -309,6 +282,7 @@ Evidence Review Framework:
 <div class="arena-card" markdown="1">
 
 ### 🗣️ Effective Conversations
+
 **Meeting Best Practices:**
 
 **Preparation:**
@@ -320,6 +294,7 @@ Evidence Review Framework:
 - Outcomes defined
 
 **During Meeting:**
+
 ```
 Meeting Flow:
 1. Build rapport (5 min)
@@ -347,9 +322,11 @@ Meeting Flow:
 <div class="arena-card" markdown="1">
 
 ### 🤝 The Foundation of Influence
+
 **Trust Building Actions:**
 
 **Reliability**
+
 - Always meet deadlines
 - Respond within 24 hours
 - Keep all promises
@@ -357,6 +334,7 @@ Meeting Flow:
 - Follow through completely
 
 **Transparency**
+
 - Share your process
 - Explain decisions
 - Admit uncertainties
@@ -364,6 +342,7 @@ Meeting Flow:
 - Communicate changes
 
 **Competence**
+
 - Stay current
 - Share knowledge
 - Solve problems
@@ -371,6 +350,7 @@ Meeting Flow:
 - Show expertise
 
 **Care**
+
 - Remember details
 - Celebrate successes
 - Support struggles
@@ -384,6 +364,7 @@ Meeting Flow:
 <div class="arena-card" markdown="1">
 
 ### 😤 Grace Under Pressure
+
 **Handling Pushback:**
 
 **When Founders Disagree:**
@@ -422,7 +403,9 @@ Meeting Flow:
 <div class="arena-card" markdown="1">
 
 ### 💻 Efficient Technical Assessment
+
 **Code Review Strategy:**
+
 ```python
 def review_code_effectively():
     """Best practice code review process"""
@@ -463,7 +446,9 @@ def review_code_effectively():
 <div class="arena-card" markdown="1">
 
 ### 🔒 Security Best Practices
+
 **Security Review Checklist:**
+
 ```
 Essential Security Checks:
 □ Authentication mechanisms
@@ -495,6 +480,7 @@ Essential Security Checks:
 <div class="arena-card" markdown="1">
 
 ### 📚 Always Be Learning
+
 **Learning Plan Best Practices:**
 
 **Weekly Learning (2-3 hours):**
@@ -528,43 +514,29 @@ Essential Security Checks:
 <div class="arena-card" markdown="1">
 
 ### 🔄 Refining Your Approach
+
 **Improvement Methodology:**
 
 1. **Measure Current State**
-
-- Time per validation
-
-- Accuracy metrics
-
-- Founder satisfaction
-
-- Rework frequency
-
-- Error patterns
+   - Time per validation
+   - Accuracy metrics
+   - Founder satisfaction
+   - Rework frequency
+   - Error patterns
 
 2. **Identify Improvements**
-
-- Bottleneck analysis
-
-- Feedback integration
-
-- Peer comparison
-
-- Best practice research
-
-- Innovation opportunities
+   - Bottleneck analysis
+   - Feedback integration
+   - Peer comparison
+   - Best practice research
+   - Innovation opportunities
 
 3. **Implement Changes**
-
-- Small experiments
-
-- Measure impact
-
-- Adjust approach
-
-- Document learnings
-
-- Share successes
+   - Small experiments
+   - Measure impact
+   - Adjust approach
+   - Document learnings
+   - Share successes
 
 </div>
 

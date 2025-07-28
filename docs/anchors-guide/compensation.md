@@ -22,35 +22,25 @@ Being an Anchor isn't just about serving the ecosystem - it's a rewarding career
 
 1. **Base Validation Fees**
    - Per-milestone payments
-
-- Complexity multipliers
-
-- Phase adjustments
-
-- Quality bonuses
+   - Complexity multipliers
+   - Phase adjustments
+   - Quality bonuses
 
 2. **Performance Rewards**
-
-- Accuracy bonuses
-
-- Speed incentives
-
-- Streak rewards
-
-- Excellence recognition
+   - Accuracy bonuses
+   - Speed incentives
+   - Streak rewards
+   - Excellence recognition
 
 3. **Additional Opportunities**
-
-- Mentorship programs
-
-- Training delivery
-
-- Content creation
-
-- Strategic advisory
+   - Mentorship programs
+   - Training delivery
+   - Content creation
+   - Strategic advisory
 
 **Typical Income Breakdown:**
-```
+
+```text
 Anchor Monthly Income
 ├── Base Validations (60-70%)
 ├── Performance Bonuses (15-20%)
@@ -65,7 +55,9 @@ Anchor Monthly Income
 <div class="arena-card" markdown="1">
 
 ### 📈 $SIGNAL Token Rewards
+
 **How Anchors Earn:**
+
 ```python
 def calculate_anchor_reward(milestone_value, complexity, performance):
     # Base calculation
@@ -104,6 +96,7 @@ def calculate_anchor_reward(milestone_value, complexity, performance):
 <div class="arena-card" markdown="1">
 
 ### 💵 Per-Validation Earnings
+
 **Base Rate Schedule:**
 
 | Milestone Value | Base Fee | Complexity Multiplier | Time Allocation |
@@ -134,8 +127,10 @@ def calculate_anchor_reward(milestone_value, complexity, performance):
 <div class="arena-card" markdown="1">
 
 ### 📅 Earnings by Level
+
 **Typical Monthly Earnings:**
-```
+
+```text
 Junior Anchor (3-5 validations/month)
 - Base: $1,500-3,000
 - Bonuses: $300-600
@@ -169,6 +164,7 @@ Master Anchor (10-15 validations/month)
 <div class="arena-card" markdown="1">
 
 ### ⭐ Excellence Multipliers
+
 **Performance Metrics:**
 
 | Metric | Threshold | Bonus |
@@ -187,6 +183,7 @@ Master Anchor (10-15 validations/month)
 - 100 perfect validations: +$20,000 bonus
 
 **Excellence Recognition:**
+
 ```python
 monthly_excellence_bonus = {
     "top_10_percent": 2000,
@@ -204,6 +201,7 @@ monthly_excellence_bonus = {
 <div class="arena-card" markdown="1">
 
 ### ⏱️ Speed and Scale Bonuses
+
 **Velocity Incentives:**
 
 **Fast Turnaround Bonus:**
@@ -238,6 +236,7 @@ monthly_excellence_bonus = {
 <div class="arena-card" markdown="1">
 
 ### 🤝 Teaching and Guiding
+
 **Mentorship Compensation:**
 
 **Formal Mentoring:**
@@ -248,7 +247,8 @@ monthly_excellence_bonus = {
 - Curriculum development: $2,000/module
 
 **Mentorship Structure:**
-```
+
+```text
 Mentorship Commitment:
 ├── Weekly 1:1 (1 hour)
 ├── Review sessions (2 hours)
@@ -272,7 +272,9 @@ Compensation: $500-1,000/month
 <div class="arena-card" markdown="1">
 
 ### 📚 Knowledge Monetization
+
 **Content Creation Rewards:**
+
 | Content Type | Compensation | Ongoing Royalties |
 |--------------|--------------|-------------------|
 | Written Guide | $500-1,500 | $50/month if popular |
@@ -294,6 +296,7 @@ Compensation: $500-1,000/month
 <div class="arena-card" markdown="1">
 
 ### 🎯 High-Level Consulting
+
 **Advisory Opportunities:**
 
 **Venture Advisory:**
@@ -326,7 +329,9 @@ Compensation: $500-1,000/month
 <div class="arena-card" markdown="1">
 
 ### 📈 Income Over Time
+
 **Typical Career Progression:**
+
 ```python
 # Annual income trajectory
 career_earnings = {
@@ -368,45 +373,32 @@ career_earnings = {
 <div class="arena-card" markdown="1">
 
 ### 🚀 Income Optimization Strategies
+
 **Top Earner Tactics:**
 
 1. **Specialization Strategy**
    - Pick high-value niches
    - Become the go-to expert
-
-- Command premium rates
-
-- Reduce competition
+   - Command premium rates
+   - Reduce competition
 
 2. **Efficiency Maximization**
-
-- Develop templates
-
-- Automate processes
-
-- Batch similar work
-
-- Optimize time usage
+   - Develop templates
+   - Automate processes
+   - Batch similar work
+   - Optimize time usage
 
 3. **Value Stacking**
-
-- Combine services
-
-- Upsell advisory
-
-- Create packages
-
-- Build relationships
+   - Combine services
+   - Upsell advisory
+   - Create packages
+   - Build relationships
 
 4. **Passive Income**
-
-- Create evergreen content
-
-- Build tools
-
-- License frameworks
-
-- Develop courses
+   - Create evergreen content
+   - Build tools
+   - License frameworks
+   - Develop courses
 
 </div>
 
@@ -417,6 +409,7 @@ career_earnings = {
 <div class="arena-card" markdown="1">
 
 ### 🎯 Token Value Maximization
+
 **Token Management Best Practices:**
 
 **Earning Strategies:**
@@ -427,7 +420,8 @@ career_earnings = {
 - Participate in governance
 
 **Holding vs Liquidating:**
-```
+
+```text
 Decision Framework:
 ├── Immediate Needs
 │   └── Liquidate minimum required
@@ -453,6 +447,7 @@ Decision Framework:
 <div class="arena-card" markdown="1">
 
 ### 🏊 Advanced Token Strategies
+
 **DeFi Integration:**
 
 **Liquidity Provision:**
@@ -485,6 +480,7 @@ Decision Framework:
 <div class="arena-card" markdown="1">
 
 ### 🎁 Beyond Direct Compensation
+
 **Included Benefits:**
 
 **Professional Development:**
@@ -517,6 +513,7 @@ Decision Framework:
 <div class="arena-card" markdown="1">
 
 ### 🚀 Growth Resources
+
 **Career Development:**
 
 **Advancement Support:**
@@ -552,6 +549,7 @@ Decision Framework:
 <div class="arena-card" markdown="1">
 
 ### 📊 Tax Optimization
+
 **Tax Planning Strategies:**
 
 **Income Classification:**
@@ -562,7 +560,8 @@ Decision Framework:
 - Content: Royalty income
 
 **Deduction Opportunities:**
-```
+
+```text
 Common Anchor Deductions:
 ✓ Home office expenses
 ✓ Computer equipment
@@ -591,6 +590,7 @@ Common Anchor Deductions:
 <div class="arena-card" markdown="1">
 
 ### ❓ Frequently Asked Questions
+
 **Q: When do I get paid?**
 A: Within 48 hours of validation completion, automatically via smart contract.
 
@@ -613,6 +613,7 @@ A: Varies with platform activity. Most Anchors see 20-30% monthly variation.
 ### Maximizing Your Earnings
 
 Continue optimizing with:
+
 1. [Anchor Progression](anchor-progression.md) - Advance levels
 2. [Reputation Management](reputation-management.md) - Build premium brand
 3. [Best Practices](best-practices.md) - Increase efficiency

@@ -64,7 +64,9 @@ graph LR
 
 - **Build Fast** - 2-4 week sprints
 - **Measure Everything** - Learn Quickly
-- **Iterate Constantly** - Stay Lean</div>
+- **Iterate Constantly** - Stay Lean
+
+</div>
 
 ## Planning Your MVP
 
@@ -73,6 +75,7 @@ graph LR
 <div class="arena-card" markdown="1">
 
 ### 📋 The MoSCoW Method
+
 **Feature Categories:**
 
 **Must Have (60%)**
@@ -140,6 +143,7 @@ features = {
 <div class="arena-card" markdown="1">
 
 ### 🗄️ Building User Journeys
+
 **Story Structure:**
 ```
 As a [user type]
@@ -235,6 +239,7 @@ mvp_stack = {
 <div class="arena-card" markdown="1">
 
 ### 🏗️ Building for Evolution
+
 **Architecture Principles:**
 ```
 MVP Architecture
@@ -261,7 +266,9 @@ MVP Architecture
 2. **API-First** - Flexible frontend
 3. **Stateless** - Easy to scale
 4. **Documented** - Easy to maintain
-5. **Tested** - Easy to evolve</div>
+5. **Tested** - Easy to evolve
+
+</div>
 
 ## Development Process
 
@@ -270,6 +277,7 @@ MVP Architecture
 <div class="arena-card" markdown="1">
 
 ### 🏃 2-Week Sprint Cycles
+
 **Sprint Structure:**
 
 **Week 1: Build**
@@ -351,6 +359,7 @@ Day 9-10: Release Prep
 <div class="arena-card" markdown="1">
 
 ### 🔐 First User Experience
+
 **Auth Requirements:**
 ```javascript
 // Minimal auth flow
@@ -391,6 +400,7 @@ const authFlow = {
 <div class="arena-card" markdown="1">
 
 ### 💡 The Magic Moment
+
 **Value Delivery Framework:**
 
 1. **Identify Core Value**
@@ -421,6 +431,7 @@ const authFlow = {
 <div class="arena-card" markdown="1">
 
 ### 📊 Learning from Users
+
 **Essential Analytics:**
 ```javascript
 // Track these from day 1
@@ -466,6 +477,7 @@ const analytics = {
 <div class="arena-card" markdown="1">
 
 ### 🧪 Pragmatic Testing
+
 **Testing Priorities:**
 
 1. **Critical Path Testing**
@@ -501,6 +513,7 @@ const analytics = {
 <div class="arena-card" markdown="1">
 
 ### 👥 Getting Real Feedback
+
 **Beta Testing Strategy:**
 
 **Week 1: Closed Beta**
@@ -533,6 +546,7 @@ const analytics = {
 <div class="arena-card" markdown="1">
 
 ### ✅ Ready for Launch?
+
 **Technical Checklist:**
 
 - [ ] Core features working
@@ -593,6 +607,7 @@ const analytics = {
 <div class="arena-card" markdown="1">
 
 ### ⚠️ Don't Do This
+
 **Classic Mistakes:**
 
 1. **Feature Creep**
@@ -624,6 +639,7 @@ const analytics = {
 <div class="arena-card" markdown="1">
 
 ### 🌱 Growing Beyond MVP
+
 **Evolution Path:**
 
 1. **Validate Core** (Weeks 1-4)

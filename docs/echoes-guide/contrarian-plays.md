@@ -6,10 +6,7 @@
 
 ### 🎲 The Art of Contrarian Signaling
 
-- The biggest returns often come from going against consensus
-- but only when you're right. This guide teaches you to identify genuine contrarian opportunities, execute against
-- the
-- grain strategies, and maximize the substantial rewards available to those brave enough to think differently.
+The biggest returns often come from going against consensus - but only when you're right. This guide teaches you to identify genuine contrarian opportunities, execute against-the-grain strategies, and maximize the substantial rewards available to those brave enough to think differently.
 
 </div>
 
@@ -23,17 +20,21 @@
 
 **Economic Incentives:**
 
-- ** Base multiplier: Standard
-- Contrarian bonus: +0.5x to +1.0x
-- Scarcity premium: Additional rewards
-- Total potential: Up to 4x returns
-** Market Psychology:
-- ** Crowds often wrong at extremes
-- Herd mentality creates inefficiency
-- Fear and greed drive mistakes
-- Independent thinking wins
-** Success Requirements:
-- ** Strong conviction
+- **Base multiplier**: Standard
+- **Contrarian bonus**: +0.5x to +1.0x
+- **Scarcity premium**: Additional rewards
+- **Total potential**: Up to 4x returns
+
+**Market Psychology:**
+
+- **Crowds often wrong at extremes**
+- **Herd mentality creates inefficiency**
+- **Fear and greed drive mistakes**
+- **Independent thinking wins**
+
+**Success Requirements:**
+
+- **Strong conviction**
 - Independent analysis
 - Emotional discipline
 - Patience for vindication
@@ -78,13 +79,14 @@
 - No questioning allowed
 - FOMO driving stakes
 - Valuation ignored
-** Bearish Extremes (Fade with Belief):
-- ** 90%+ doubt signals
+**Bearish Extremes (Fade with Belief):**
+
+- **90%+ doubt signals**
 - Panic selling mentality
 - Good news ignored
 - Capitulation evident
 - Value emerging
-**Key Principle:Extremes tend to revert to mean
+**Key Principle**: Extremes tend to revert to mean
 
 </div>
 
@@ -185,13 +187,14 @@
 <div class="arena-card" markdown="1">
 
 ### 💻 Expertise-Based Contrarian
-** When Crowd Misunderstands:
-- ** Technical complexity high
+**When Crowd Misunderstands:**
+
+- **Technical complexity high**
 - Crowd assumes impossible
 - You know it's feasible
 - Time will prove you right
 
-**Example:**  Scenarios:
+**Example Scenarios:**
 1. **"Too Ambitious" Projects**
 
 - Crowd: "Can't be done"
@@ -424,18 +427,19 @@ Score > 20 = Strong contrarian opportunity
 
 ### ❌ Contrarian Failures
 ** Strategic Errors:
-- ** Contrarian for sake of it
+- **Contrarian for sake of it**
 - Fighting unstoppable trends
 - No analytical basis
 - Too early timing
 - Oversized positions
-** Psychological Errors:
-- ** Ego-driven decisions
+**Psychological Errors:**
+
+- **Ego-driven decisions**
 - Refusing to admit wrong
 - Isolation from feedback
 - Martyr complex
 - Revenge trading
-**Remember:Being contrarian doesn't mean being stupid
+**Remember**: Being contrarian doesn't mean being stupid
 
 </div>
 
@@ -469,9 +473,10 @@ Experimental: 5%
 <div class="arena-card" markdown="1">
 
 ### 🎭 The Double Contrarian
-**Second-Order Thinking:"Everyone thinks everyone is wrong, but actually..."
-** Example:
-- ** Obvious contrarian play emerges
+**Second-Order Thinking**: "Everyone thinks everyone is wrong, but actually..."
+**Example:**
+
+- **Obvious contrarian play emerges**
 - Too many pile into contrarian side
 - Actual opportunity: Original thesis
 - Be contrarian to contrarians

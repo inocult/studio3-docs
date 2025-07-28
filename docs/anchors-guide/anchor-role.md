@@ -67,6 +67,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 🧠 Thinking Like an Anchor
+
 **Dual Responsibility:**
 
 1. **To Ventures**
@@ -92,6 +93,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### ⭐ What Makes Great Anchors
+
 **Technical Excellence:**
 
 - Deep domain expertise
@@ -125,24 +127,25 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 📋 Core Duties
+
 1. **Milestone Validation**
    - Review evidence thoroughly
-- Apply consistent standards
-- Make fair determinations
-- Document decisions clearly
-- Stand by judgments
+   - Apply consistent standards
+   - Make fair determinations
+   - Document decisions clearly
+   - Stand by judgments
 2. **Venture Guidance**
    - Strategic advice
-- Technical consultation
-- Resource connections
-- Problem solving
-- Crisis support
+   - Technical consultation
+   - Resource connections
+   - Problem solving
+   - Crisis support
 3. **Ecosystem Protection**
    - Quality maintenance
-- Standard enforcement
-- Bad actor identification
-- Culture preservation
-- Innovation encouragement
+   - Standard enforcement
+   - Bad actor identification
+   - Culture preservation
+   - Innovation encouragement
 
 </div>
 
@@ -151,6 +154,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### ⏰ Realistic Expectations
+
 **Weekly Time Investment:**
 
 - Active ventures: 2-4 hours per venture
@@ -184,31 +188,37 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 📈 Advancement Path
+
 **Level 1: Junior Anchor**
+
 - Learning the role
 - 1-3 ventures assigned
 - Mentored by seniors
 - Building reputation
 
 **Level 2: Anchor**
+
 - Fully autonomous
 - 3-5 ventures
 - Specialization emerging
 - Community recognition
 
 **Level 3: Senior Anchor**
+
 - Complex ventures
 - 5-8 assignments
 - Mentoring juniors
 - Policy influence
 
 **Level 4: Master Anchor**
+
 - Elite ventures
 - Selective assignments
 - Thought leadership
 - Ecosystem shaping
 
 **Level 5: Council Member**
+
 - Governance role
 - Strategic direction
 - Standard setting
@@ -221,6 +231,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 🎓 Anchor Specialties
+
 **Domain Specialization:**
 
 - DeFi protocols
@@ -253,6 +264,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 🌟 Your Contribution
+
 **Direct Impact:**
 
 - Ventures guided to success
@@ -284,6 +296,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 💎 What Anchors Gain
+
 **Financial Rewards:**
 
 - Validation fees (2-5% of milestones)
@@ -317,6 +330,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### ⚖️ Moral Foundation
+
 **Core Principles:**
 
 1. **Objectivity**
@@ -355,6 +369,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 📅 Day in the Life
+
 **Morning (2 hours):**
 
 - Check venture updates
@@ -390,6 +405,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 💻 Your Workspace
+
 **Digital Tools:**
 
 - Validation platform
@@ -423,6 +439,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 🏆 Excellence Indicators
+
 **High-Performing Anchors:**
 
 - Clear communication
@@ -456,37 +473,26 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### ⚠️ Challenge Management
+
 **Typical Challenges:**
 
 1. **Difficult Decisions**
-
-- Borderline validations
-
-- Founder pushback
-
-- Community pressure
-
-- Ethical dilemmas
+   - Borderline validations
+   - Founder pushback
+   - Community pressure
+   - Ethical dilemmas
 
 2. **Time Management**
-
-- Multiple ventures
-
-- Deadline clustering
-
-- Emergency situations
-
-- Life balance
+   - Multiple ventures
+   - Deadline clustering
+   - Emergency situations
+   - Life balance
 
 3. **Emotional Labor**
-
-- Founder struggles
-
-- Venture failures
-
-- Conflict resolution
-
-- Stress management
+   - Founder struggles
+   - Venture failures
+   - Conflict resolution
+   - Stress management
 
 **Coping Strategies:**
 
@@ -505,6 +511,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 🚀 Beginning Your Journey
+
 **Immediate Actions:**
 
 1. Complete application
@@ -538,6 +545,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 ### 🤝 Peer Support
+
 **Community Benefits:**
 
 - Shared experiences
@@ -569,6 +577,7 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 ### Continue Your Journey
 
 Ready to dive deeper? Continue with:
+
 1. [Core Responsibilities](responsibilities.md) - Detailed duty breakdown
 2. [Qualification Requirements](requirements.md) - How to qualify
 3. [Validation Framework](validation-framework.md) - The process

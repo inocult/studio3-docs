@@ -21,52 +21,32 @@ The Anchor Council represents the highest level of responsibility and influence 
 **Core Purposes:**
 
 1. **Standards Governance**
-
-- Define quality benchmarks
-
-- Evolve validation frameworks
-
-- Maintain consistency
-
-- Drive excellence
-
-- Adapt to growth
+   - Define quality benchmarks
+   - Evolve validation frameworks
+   - Maintain consistency
+   - Drive excellence
+   - Adapt to growth
 
 2. **Dispute Resolution**
-
-- Final appeals authority
-
-- Complex case arbitration
-
-- Precedent setting
-
-- Fairness assurance
-
-- Conflict mediation
+   - Final appeals authority
+   - Complex case arbitration
+   - Precedent setting
+   - Fairness assurance
+   - Conflict mediation
 
 3. **Anchor Development**
-
-- Career progression design
-
-- Training program oversight
-
-- Mentorship coordination
-
-- Performance standards
-
-- Recognition systems
+   - Career progression design
+   - Training program oversight
+   - Mentorship coordination
+   - Performance standards
+   - Recognition systems
 
 4. **Ecosystem Leadership**
-
-- Strategic input
-
-- Policy recommendations
-
-- Innovation fostering
-
-- Culture shaping
-
-- Future planning
+   - Strategic input
+   - Policy recommendations
+   - Innovation fostering
+   - Culture shaping
+   - Future planning
 
 </div>
 
@@ -75,6 +55,7 @@ The Anchor Council represents the highest level of responsibility and influence 
 <div class="arena-card" markdown="1">
 
 ### 👥 Who Serves on the Council
+
 **Council Structure:**
 
 - **Size:** 9-15 members
@@ -109,9 +90,11 @@ The Anchor Council represents the highest level of responsibility and influence 
 <div class="arena-card" markdown="1">
 
 ### 📅 How the Council Functions
+
 **Regular Meetings:**
 
 **Weekly Operational (2 hours)**
+
 ```
 Agenda Structure:
 1. Opening & Quorum (5 min)
@@ -124,6 +107,7 @@ Agenda Structure:
 ```
 
 **Monthly Strategic (4 hours)**
+
 ```
 Deep Dive Topics:
 - Policy development
@@ -134,6 +118,7 @@ Deep Dive Topics:
 ```
 
 **Quarterly Town Hall (2 hours)**
+
 - Open to all Anchors
 - Transparency report
 - Q&A session
@@ -147,6 +132,7 @@ Deep Dive Topics:
 <div class="arena-card" markdown="1">
 
 ### ⚖️ Council Governance Process
+
 **Decision Framework:**
 
 **Voting Requirements:**
@@ -162,34 +148,22 @@ Deep Dive Topics:
 **Decision Process:**
 
 1. **Proposal Introduction**
-
-- Clear problem statement
-
-- Proposed solution
-
-- Impact analysis
-
-- Implementation plan
+   - Clear problem statement
+   - Proposed solution
+   - Impact analysis
+   - Implementation plan
 
 2. **Discussion Period**
-
-- Member input
-
-- Expert consultation
-
-- Community feedback
-
-- Refinement
+   - Member input
+   - Expert consultation
+   - Community feedback
+   - Refinement
 
 3. **Voting**
-
-- Formal motion
-
-- Recorded vote
-
-- Rationale documented
-
-- Results published
+   - Formal motion
+   - Recorded vote
+   - Rationale documented
+   - Results published
 
 </div>
 
@@ -200,9 +174,11 @@ Deep Dive Topics:
 <div class="arena-card" markdown="1">
 
 ### 📏 Maintaining Excellence
+
 **Standards Oversight:**
 
 **Regular Review Cycle:**
+
 ```python
 def quarterly_standards_review():
     # Collect performance data
@@ -241,6 +217,7 @@ def quarterly_standards_review():
 <div class="arena-card" markdown="1">
 
 ### ⚖️ Final Appeals Authority
+
 **Dispute Handling Process:**
 
 **Case Acceptance Criteria:**
@@ -254,34 +231,22 @@ def quarterly_standards_review():
 **Arbitration Process:**
 
 1. **Case Review**
-
-- Full documentation
-
-- Party statements
-
-- Evidence examination
-
-- Context understanding
+   - Full documentation
+   - Party statements
+   - Evidence examination
+   - Context understanding
 
 2. **Hearing (if needed)**
-
-- Structured presentation
-
-- Question period
-
-- Deliberation
-
-- Decision
+   - Structured presentation
+   - Question period
+   - Deliberation
+   - Decision
 
 3. **Ruling**
-
-- Clear decision
-
-- Detailed rationale
-
-- Precedent implications
-
-- Implementation guidance
+   - Clear decision
+   - Detailed rationale
+   - Precedent implications
+   - Implementation guidance
 
 **Appeal Principles:**
 
@@ -298,6 +263,7 @@ def quarterly_standards_review():
 <div class="arena-card" markdown="1">
 
 ### 🌱 Nurturing Excellence
+
 **Development Programs:**
 
 **Training Oversight:**
@@ -309,6 +275,7 @@ def quarterly_standards_review():
 - Effectiveness measurement
 
 **Career Progression:**
+
 ```
 Council Responsibilities:
 ├── Define Level Criteria
@@ -342,38 +309,28 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### 🔮 Shaping the Future
+
 **Strategic Planning Areas:**
 
 **5-Year Vision Development:**
 
 1. **Anchor Role Evolution**
-
-- Expanded responsibilities
-
-- New specializations
-
-- Technology integration
-
-- Global scaling
+   - Expanded responsibilities
+   - New specializations
+   - Technology integration
+   - Global scaling
 
 2. **Quality Framework**
    - Next-gen standards
-
-- Automated validation
-
-- Predictive quality
-
-- Innovation metrics
+   - Automated validation
+   - Predictive quality
+   - Innovation metrics
 
 3. **Community Growth**
-
-- Anchor recruitment
-
-- Diversity initiatives
-
-- Geographic expansion
-
-- Culture strengthening
+   - Anchor recruitment
+   - Diversity initiatives
+   - Geographic expansion
+   - Culture strengthening
 
 **Annual Priorities:**
 
@@ -389,6 +346,7 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### 💡 Driving Progress
+
 **Innovation Initiatives:**
 
 **Current Focus Areas:**
@@ -402,34 +360,22 @@ Council Responsibilities:
 **Innovation Process:**
 
 1. **Ideation**
-
-- Community input
-
-- Trend analysis
-
-- Problem identification
-
-- Solution brainstorming
+   - Community input
+   - Trend analysis
+   - Problem identification
+   - Solution brainstorming
 
 2. **Experimentation**
-
-- Pilot programs
-
-- Controlled testing
-
-- Data gathering
-
-- Iteration
+   - Pilot programs
+   - Controlled testing
+   - Data gathering
+   - Iteration
 
 3. **Implementation**
-
-- Rollout planning
-
-- Training development
-
-- Tool creation
-
-- Adoption tracking
+   - Rollout planning
+   - Training development
+   - Tool creation
+   - Adoption tracking
 
 </div>
 
@@ -440,9 +386,11 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### 👥 Specialized Teams
+
 **Standing Committees:**
 
 **1. Standards Committee**
+
 - Technical standards
 - Business criteria
 - Process requirements
@@ -450,6 +398,7 @@ Council Responsibilities:
 - Documentation
 
 **2. Education Committee**
+
 - Training programs
 - Resource development
 - Knowledge management
@@ -457,6 +406,7 @@ Council Responsibilities:
 - Certification
 
 **3. Technology Committee**
+
 - Tool development
 - Platform integration
 - Automation opportunities
@@ -464,6 +414,7 @@ Council Responsibilities:
 - Innovation adoption
 
 **4. Community Committee**
+
 - Culture initiatives
 - Diversity programs
 - Recognition systems
@@ -477,6 +428,7 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### ⚡ Rapid Response Teams
+
 **Ad Hoc Groups:**
 
 **Formation Triggers:**
@@ -512,6 +464,7 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### 🎯 Your Journey to Council
+
 **Prerequisites:**
 
 **Performance Excellence:**
@@ -545,6 +498,7 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### 🏃 Running for Council
+
 **Campaign Timeline:**
 
 **6 Weeks Before Election:**
@@ -592,9 +546,11 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### ⭐ Being a Great Council Member
+
 **Excellence Principles:**
 
 **1. Preparation**
+
 - Read all materials
 - Research issues
 - Consult experts
@@ -602,6 +558,7 @@ Council Responsibilities:
 - Come ready
 
 **2. Participation**
+
 - Attend all meetings
 - Engage actively
 - Listen openly
@@ -609,6 +566,7 @@ Council Responsibilities:
 - Follow through
 
 **3. Leadership**
+
 - Model behavior
 - Build consensus
 - Drive progress
@@ -616,6 +574,7 @@ Council Responsibilities:
 - Stay humble
 
 **4. Communication**
+
 - Transparent updates
 - Clear explanations
 - Regular availability
@@ -629,9 +588,11 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### ⚠️ Common Council Mistakes
+
 **What to Avoid:**
 
 **Personal Agenda**
+
 - Self-interest
 - Favoritism
 - Power plays
@@ -639,6 +600,7 @@ Council Responsibilities:
 - Conflict creation
 
 **Poor Engagement**
+
 - Missing meetings
 - Unprepared participation
 - Minimal contribution
@@ -646,6 +608,7 @@ Council Responsibilities:
 - Communication gaps
 
 **Governance Failures**
+
 - Rushed decisions
 - Ignored feedback
 - Opaque process
@@ -661,6 +624,7 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### 📊 Council Effectiveness
+
 **Success Metrics:**
 
 **Quantitative Measures:**
@@ -694,6 +658,7 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### 🔄 Ensuring Continuity
+
 **Knowledge Transfer:**
 
 **Documentation:**
@@ -729,6 +694,7 @@ Council Responsibilities:
 <div class="arena-card" markdown="1">
 
 ### 🛠️ Supporting Infrastructure
+
 **Available Resources:**
 
 **Administrative Support:**
@@ -762,6 +728,7 @@ Council Responsibilities:
 ### Your Council Journey
 
 Whether aspiring or serving:
+
 1. [Anchor Progression](anchor-progression.md) - Build qualifications
 2. [Reputation Management](reputation-management.md) - Enhance standing
 3. [Compensation](compensation.md) - Understand rewards

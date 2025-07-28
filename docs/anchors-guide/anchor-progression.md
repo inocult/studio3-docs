@@ -42,7 +42,9 @@ The Anchor progression system recognizes and rewards excellence, providing clear
 <div class="arena-card" markdown="1">
 
 ### ⏰ Typical Progression Path
+
 **Year 1: Foundation Building**
+
 ```
 Months 1-3: Junior Anchor
 - Complete training
@@ -64,12 +66,14 @@ Months 7-12: Approaching Anchor
 ```
 
 **Year 2-3: Expertise Development**
+
 - Specialization depth
 - Complex validations
 - Innovation contributions
 - Community leadership
 
 **Year 3+: Mastery Achievement**
+
 - Strategic influence
 - Ecosystem shaping
 - Knowledge creation
@@ -84,39 +88,29 @@ Months 7-12: Approaching Anchor
 <div class="arena-card" markdown="1">
 
 ### 🌱 The Foundation Phase
+
 **Core Focus Areas:**
 
 1. **Technical Proficiency**
-
-- Master validation tools
-
-- Understand all standards
-
-- Build domain knowledge
-
-- Develop efficiency
+   - Master validation tools
+   - Understand all standards
+   - Build domain knowledge
+   - Develop efficiency
 
 2. **Process Excellence**
-
-- Follow frameworks precisely
-
-- Document thoroughly
-
-- Meet all deadlines
-
-- Maintain quality
+   - Follow frameworks precisely
+   - Document thoroughly
+   - Meet all deadlines
+   - Maintain quality
 
 3. **Relationship Building**
-
-- Professional communication
-
-- Founder empathy
-
-- Peer networking
-
-- Mentor engagement
+   - Professional communication
+   - Founder empathy
+   - Peer networking
+   - Mentor engagement
 
 **Success Metrics:**
+
 ```python
 junior_targets = {
     "validations_monthly": 3,
@@ -134,21 +128,25 @@ junior_targets = {
 <div class="arena-card" markdown="1">
 
 ### 📈 Accelerating Growth
+
 **Month-by-Month Goals:**
 
 **Month 1-2: Learn**
+
 - Shadow senior anchors
 - Complete all training
 - Practice on test cases
 - Build knowledge base
 
 **Month 3-4: Apply**
+
 - First solo validations
 - Receive feedback actively
 - Refine approach
 - Build confidence
 
 **Month 5-6: Excel**
+
 - Increase complexity
 - Improve efficiency
 - Contribute insights
@@ -170,37 +168,26 @@ junior_targets = {
 <div class="arena-card" markdown="1">
 
 ### ⭐ The Professional Phase
+
 **Elevated Responsibilities:**
 
 1. **Validation Leadership**
-
-- Handle complex cases
-
-- Set quality examples
-
-- Innovate processes
-
-- Share knowledge
+   - Handle complex cases
+   - Set quality examples
+   - Innovate processes
+   - Share knowledge
 
 2. **Mentorship Duties**
-
-- Guide junior anchors
-
-- Share best practices
-
-- Provide feedback
-
-- Build culture
+   - Guide junior anchors
+   - Share best practices
+   - Provide feedback
+   - Build culture
 
 3. **Community Contribution**
-
-- Lead initiatives
-
-- Create resources
-
-- Facilitate sessions
-
-- Drive improvements
+   - Lead initiatives
+   - Create resources
+   - Facilitate sessions
+   - Drive improvements
 
 **Performance Standards:**
 
@@ -219,9 +206,11 @@ junior_targets = {
 <div class="arena-card" markdown="1">
 
 ### 🚀 Growing Your Impact
+
 **Advanced Skills Development:**
 
 **Technical Mastery**
+
 ```
 Focus Areas:
 ├── Deep Specialization
@@ -239,6 +228,7 @@ Focus Areas:
 ```
 
 **Leadership Skills**
+
 - Conflict resolution
 - Strategic thinking
 - Change management
@@ -254,36 +244,26 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 🏆 The Leadership Phase
+
 **Senior Responsibilities:**
 
 1. **Strategic Validation**
-
-- Most complex ventures
-- Precedent-setting cases
-
-- Crisis interventions
-
-- Quality assurance
+   - Most complex ventures
+   - Precedent-setting cases
+   - Crisis interventions
+   - Quality assurance
 
 2. **Ecosystem Leadership**
-
-- Policy development
-
-- Standards evolution
-
-- Training design
-
-- Culture shaping
+   - Policy development
+   - Standards evolution
+   - Training design
+   - Culture shaping
 
 3. **External Representation**
-
-- Industry speaking
-
-- Partnership building
-
-- Thought leadership
-
-- Brand ambassadorship
+   - Industry speaking
+   - Partnership building
+   - Thought leadership
+   - Brand ambassadorship
 
 **Influence Metrics:**
 
@@ -300,37 +280,28 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 💡 Innovation and Impact
+
 **Growth Strategies:**
 
 **Year 2-3 Focus:**
 
 1. **Specialization Depth**
-- Become go-to expert
-
-- Publish insights
-
-- Lead workshops
-
-- Drive standards
+   - Become go-to expert
+   - Publish insights
+   - Lead workshops
+   - Drive standards
 
 2. **Leadership Expansion**
-
-- Multiple mentees
-
-- Committee leadership
-- Cross-team projects
-
-- Strategic input
+   - Multiple mentees
+   - Committee leadership
+   - Cross-team projects
+   - Strategic input
 
 3. **External Building**
-
-- Industry connections
-
-- Conference speaking
-
-- Article writing
-
-- Community building
+   - Industry connections
+   - Conference speaking
+   - Article writing
+   - Community building
 
 **Innovation Expectations:**
 
@@ -348,6 +319,7 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 🌟 The Mastery Phase
+
 **Master Anchor Profile:**
 
 **Exceptional Performance:**
@@ -381,37 +353,26 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 👑 Elite Contributions
+
 **Unique Responsibilities:**
 
 1. **Apex Validations**
-
-- Highest stakes
-
-- Most complex
-
-- Precedent setting
-
-- Crisis management
+   - Highest stakes
+   - Most complex
+   - Precedent setting
+   - Crisis management
 
 2. **Ecosystem Architecture**
-
-- Design systems
-
-- Shape policies
-
-- Build frameworks
-
-- Guide evolution
+   - Design systems
+   - Shape policies
+   - Build frameworks
+   - Guide evolution
 
 3. **Legacy Building**
-
-- Knowledge codification
-
-- Successor development
-
-- Culture preservation
-
-- Future preparation
+   - Knowledge codification
+   - Successor development
+   - Culture preservation
+   - Future preparation
 
 **Master Privileges:**
 
@@ -430,9 +391,11 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 🚀 Fast-Track Tactics
+
 **Proven Acceleration Methods:**
 
 1. **Over-Deliver Consistently**
+
    ```python
    def accelerate_progression():
        # Exceed minimums
@@ -451,24 +414,16 @@ Focus Areas:
    ```
 
 2. **Strategic Networking**
-
-- Connect with leaders
-
-- Join committees
-
-- Attend events
-
-- Build reputation
+   - Connect with leaders
+   - Join committees
+   - Attend events
+   - Build reputation
 
 3. **Innovation Focus**
-
-- Identify improvements
-
-- Propose solutions
-
-- Lead implementation
-
-- Share results
+   - Identify improvements
+   - Propose solutions
+   - Lead implementation
+   - Share results
 
 </div>
 
@@ -477,6 +432,7 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 📚 Continuous Learning
+
 **Skill Building Framework:**
 
 **Technical Skills:**
@@ -520,9 +476,11 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 📊 Tracking Progress
+
 **Review Cycle:**
 
 **Monthly Self-Review:**
+
 ```markdown
 ## Monthly Performance Check
 
@@ -560,21 +518,17 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 🧗 Breaking Through Barriers
+
 **Common Plateaus:**
 
 1. **Skill Plateau**
-
-- Symptoms: Same mistakes
-
-- Solution: New learning
-
-- Action: External training
+   - Symptoms: Same mistakes
+   - Solution: New learning
+   - Action: External training
 
 2. **Motivation Plateau**
-
-- Symptoms: Low energy
-
-- Solution: New challenges
+   - Symptoms: Low energy
+   - Solution: New challenges
 
 - Action: Role expansion
 
@@ -678,8 +632,10 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 ### 🎯 Planning Your Journey
+
 **SMART Goals Framework:**
-```
+
+```text
 Example 5-Year Plan:
 Year 1: Foundation
 - Complete 50 validations
