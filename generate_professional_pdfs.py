@@ -2,6 +2,7 @@
 """
 Generate professional PDF files for each guide with custom styling
 Uses WeasyPrint with custom CSS for Studio3 branding
+Version 2: Enhanced section dividers
 """
 
 import os
@@ -140,6 +141,49 @@ class ProfessionalPDFGenerator:
             </div>
             <div class="cover-footer">
                 <p>Where belief becomes momentum</p>
+            </div>
+        </div>
+        """
+    
+    def create_section_divider(self, title, upcoming_pages):
+        """Create an attractive section divider page"""
+        # Count pages in this section
+        page_count = sum(1 for p in upcoming_pages if p['path'] is not None and p['level'] <= upcoming_pages[0]['level'])
+        
+        # Get section emoji if available
+        emoji_map = {
+            'Getting Started': '🚀',
+            'Core Concepts': '💡',
+            'Building': '🏗️',
+            'Community': '🤝',
+            'Growth': '📈',
+            'Participants': '👥',
+            'Economics': '💰',
+            'The Forge': '⚔️',
+            'Advanced': '🎯',
+            'Resources': '📚'
+        }
+        emoji = emoji_map.get(title, '📖')
+        
+        # Build preview of upcoming topics
+        topics_html = '<ul class="section-topics">'
+        for i, page in enumerate(upcoming_pages[:6]):  # Show first 6 topics
+            if page['path'] is not None and page['level'] <= upcoming_pages[0]['level']:
+                topics_html += f'<li>{page["title"]}</li>'
+        if page_count > 6:
+            topics_html += f'<li class="more">...and {page_count - 6} more</li>'
+        topics_html += '</ul>'
+        
+        return f"""
+        <div class="section-divider">
+            <div class="section-content">
+                <div class="section-emoji">{emoji}</div>
+                <h1 class="section-title">{title}</h1>
+                <div class="section-subtitle">Section {page_count} pages</div>
+                <div class="section-preview">
+                    <h3>In this section:</h3>
+                    {topics_html}
+                </div>
             </div>
         </div>
         """
@@ -309,6 +353,105 @@ class ProfessionalPDFGenerator:
             font-style: italic;
             color: #888;
             font-size: 10pt;
+        }
+        
+        /* Section dividers */
+        .section-divider {
+            page-break-before: always;
+            page-break-after: always;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #FFE4B5 0%, #FFD4A3 100%);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .section-divider::before {
+            content: "";
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: repeating-linear-gradient(
+                45deg,
+                transparent,
+                transparent 20px,
+                rgba(255, 255, 255, 0.1) 20px,
+                rgba(255, 255, 255, 0.1) 40px
+            );
+            animation: none;
+        }
+        
+        .section-content {
+            text-align: center;
+            position: relative;
+            z-index: 1;
+            padding: 2cm;
+        }
+        
+        .section-emoji {
+            font-size: 72pt;
+            margin-bottom: 0.5cm;
+            opacity: 0.8;
+        }
+        
+        .section-title {
+            font-size: 36pt;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin: 0 0 0.3cm 0;
+            letter-spacing: -1px;
+        }
+        
+        .section-subtitle {
+            font-size: 14pt;
+            color: #666;
+            margin-bottom: 1cm;
+        }
+        
+        .section-preview {
+            margin-top: 2cm;
+            text-align: left;
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 1cm;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .section-preview h3 {
+            font-size: 14pt;
+            margin: 0 0 0.5cm 0;
+            color: #333;
+        }
+        
+        .section-topics {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .section-topics li {
+            padding: 0.2cm 0;
+            font-size: 12pt;
+            color: #555;
+            position: relative;
+            padding-left: 1cm;
+        }
+        
+        .section-topics li::before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: #FF6B6B;
+        }
+        
+        .section-topics li.more {
+            font-style: italic;
+            color: #888;
         }
         
         /* Table of contents */
@@ -521,7 +664,7 @@ class ProfessionalPDFGenerator:
             page-break-after: always;
         }
         
-        h1 {
+        h1.section-header {
             page-break-before: always;
         }
         
@@ -533,6 +676,11 @@ class ProfessionalPDFGenerator:
         /* Emoji support */
         .emoji {
             font-family: "Apple Color Emoji", "Segoe UI Emoji", sans-serif;
+        }
+        
+        /* Hide section headers in content */
+        h1.section-header {
+            display: none;
         }
         """
     
@@ -567,10 +715,22 @@ class ProfessionalPDFGenerator:
         
         # Add content pages
         page_num = 3  # After cover and TOC
-        for page in pages:
+        i = 0
+        while i < len(pages):
+            page = pages[i]
+            
             if page['path'] is None:
-                # Section divider
-                html_content += f'<h1 class="section-header">{page["title"]}</h1>'
+                # This is a section divider
+                # Find upcoming pages in this section
+                upcoming_pages = []
+                j = i + 1
+                while j < len(pages) and (pages[j]['level'] > page['level'] or pages[j]['path'] is not None):
+                    upcoming_pages.append(pages[j])
+                    j += 1
+                
+                # Create section divider
+                html_content += self.create_section_divider(page['title'], upcoming_pages)
+                page_num += 1
             else:
                 # Read and process markdown file
                 file_path = Path('docs') / page['path']
@@ -583,15 +743,16 @@ class ProfessionalPDFGenerator:
                     # Process markdown to HTML
                     page_html = self.process_markdown_content(content)
                     
-                    # Add to document
+                    # Add to document - no need for extra h1 as markdown already has it
                     html_content += f'<div class="content-page" data-page-num="{page_num}">'
-                    html_content += f'<h1>{page["title"]}</h1>'
                     html_content += page_html
                     html_content += '</div>'
                     
                     page_num += 1
                 else:
                     print(f"  ⚠️  File not found: {file_path}")
+            
+            i += 1
         
         html_content += """
         </body>
@@ -621,7 +782,7 @@ class ProfessionalPDFGenerator:
     
     def generate_all_pdfs(self):
         """Generate PDFs for all guides"""
-        print("🚀 Starting professional PDF generation...")
+        print("🚀 Starting professional PDF generation (v2)...")
         
         success_count = 0
         for guide_key, guide_info in self.guides.items():
