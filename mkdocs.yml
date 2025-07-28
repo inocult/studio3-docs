@@ -62,12 +62,6 @@ plugins:
       fallback_to_build_date: true
   - glightbox
   - awesome-pages
-  - pdf-export:
-      verbose: false
-      media_type: print
-      enabled_if_env: ENABLE_PDF_EXPORT
-      combined: true
-      combined_output_path: pdf/studio3-complete-guide.pdf
 
 markdown_extensions:
   - abbr
