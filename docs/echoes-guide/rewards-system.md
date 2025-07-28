@@ -19,12 +19,18 @@ Understanding how rewards work is essential for Echo success. This comprehensive
 <h3>🎯 How You Earn</h3>
 
 **Primary Sources:**
-1. **Signal Rewards** - Correct predictions
-**2. **Bonus Multipliers** - Enhanced returns
-**3. **Streak Bonuses** - Consistency rewards
-**4. **XP Benefits** - Reputation perks
-**5. **Special Events** - Limited opportunities
-**Reward Formula:**
+- 
+1. **Signal Rewards**
+- Correct predictions
+2. **Bonus Multipliers**
+- Enhanced returns
+3. **Streak Bonuses**
+- Consistency rewards
+4. **XP Benefits**
+- Reputation perks
+5. **Special Events**
+- Limited opportunities**
+- ** Reward Formula:
 ```
 Total Reward = Base Stake × Multiplier × Bonuses - Fees
 ```
@@ -46,11 +52,11 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 <div class="arena-card" markdown="1">
 
 <h3>🏃 First Mover Advantages</h3>
-
-**Bonus Structure:** First 10 signals:** +50% multiplier**
-- **Signals 11-50:** Signals 51-200:
-- **Signals 201-500:** After 500:
-- ** Example:**
+** Bonus Structure:
+- **First 10 signals:** +50% multiplier
+-- **Signals 11-50:**  Signals 51-200:
+-- **Signals 201-500:**  After 500:
+**  Example:
 - Base belief multiplier: 1.5x
 - You're signal #7: +50% bonus
 - Final multiplier: 2.25x
@@ -62,10 +68,7 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 <div class="arena-card" markdown="1">
 
 <h3>⭐ XP-Based Rewards</h3>
-
-**XP Tiers & Bonuses:**
-
-| XP Range | Title | Reward Bonus | Other Perks |
+**XP Tiers & Bonuses:| XP Range | Title | Reward Bonus | Other Perks |
 |----------|-------|--------------|-------------|
 | 0-100 | Novice Echo | 0% | Learning resources |
 | 100-500 | Active Echo | +10% | Priority support |
@@ -80,15 +83,13 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 <div class="arena-card" markdown="1">
 
 <h3>🔥 Consistency Rewards</h3>
-
-**Accuracy Streaks:**
-- 3 correct in a row: +5% next signal
+** Accuracy Streaks:
+- ** 3 correct in a row: +5% next signal
 - 5 correct in a row: +10% next signal
 - 10 correct in a row: +20% next signal
 - 20 correct in a row: +30% next signal
-
-**Participation Streaks:**
-- 7 days active: +50 XP
+** Participation Streaks:
+- ** 7 days active: +50 XP
 - 30 days active: +200 XP
 - 90 days active: +1000 XP
 - 365 days active: +5000 XP
@@ -102,33 +103,48 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 <div class="arena-card" markdown="1">
 
 <h3>✨ Risk = Reward</h3>
+** Phase Multipliers:
+- 
+1. **Spark Phase**
+ (Highest Risk)**
+- Base: 2.5x
+- 3.0x
 
-**Phase Multipliers:**
+- Limited information
 
-1. **Spark Phase** (Highest Risk)
-**   - Base: 2.5x - 3.0x**
-   - Limited information
-   - Maximum potential
+- Maximum potential
 
-2. **Forge Phase** (High Risk)
-**   - Base: 2.0x - 2.5x**
-   - Competition insights
-   - Strong upside
+- 2.**Forge Phase**  (High Risk)
+- Base: 2.0x
+- 2.5x
 
-3. **Ignition Phase** (Moderate Risk)
-**   - Base: 1.7x - 2.0x**
-   - MVP validation
-   - Balanced returns
+- Competition insights
 
-4. **Drift Phase** (Lower Risk)
-**   - Base: 1.5x - 1.7x**
-   - Market feedback
-   - Steady gains
+- Strong upside
 
-5. **Later Phases** (Minimal Risk)
-**   - Base: 1.2x - 1.5x**
-   - Proven execution
-   - Safe returns
+- 3.**Ignition Phase**  (Moderate Risk)
+- Base: 1.7x
+- 2.0x
+
+- MVP validation
+
+- Balanced returns
+
+- 4.**Drift Phase**  (Lower Risk)
+- Base: 1.5x
+- 1.7x
+
+- Market feedback
+
+- Steady gains
+
+- 5.**Later Phases**  (Minimal Risk)
+- Base: 1.2x
+- 1.5x
+
+- Proven execution
+
+- Safe returns
 
 </div>
 
@@ -139,14 +155,12 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 <div class="arena-card" markdown="1">
 
 <h3>🎲 Contrarian Bonuses</h3>
-
-**When Majority is Wrong:**
-- You signal opposite of 70%+ pool
+** When Majority is Wrong:
+- ** You signal opposite of 70%+ pool
 - Your position proves correct
 - Earn extra 0.5x-1.0x multiplier
-
-**Example Scenario:**
-- 90% belief signals on venture
+**Example:**  Scenario:
+- ** 90% belief signals on venture
 - You signal doubt with 1,000 $SIGNAL
 - Venture fails milestone
 - Base doubt reward: 1.5x
@@ -162,14 +176,12 @@ Total Reward = Base Stake × Multiplier × Bonuses - Fees
 <div class="arena-card" markdown="1">
 
 <h3>📈 Compounding Effects</h3>
-
-**Sequential Signals:**
-- Signal on multiple milestones
+** Sequential Signals:
+- ** Signal on multiple milestones
 - Reinvest rewards immediately
 - Compound growth potential
 - Build venture relationships
-
-**Portfolio Compounding:**
+** Portfolio Compounding:
 ```
 Month 1: 10,000 $SIGNAL
 Average return: 1.7x
@@ -187,28 +199,38 @@ Month 12: 145,000 $SIGNAL
 <div class="arena-card" markdown="1">
 
 <h3>🎉 Bonus Events</h3>
-
-**Regular Events:**
-
+** Regular Events:
 1. **Double XP Weekends**
-   - 2x experience points
-   - Faster tier progression
-   - Reputation building
+
+- 2x experience points
+
+- Faster tier progression
+
+- Reputation building
 
 2. **Multiplier Madness**
-   - +0.5x all multipliers
-   - 48-hour windows
-   - Announced in advance
+
+- +0.5x all multipliers
+- 48
+- hour windows
+
+- Announced in advance
 
 3. **Venture Spotlights**
-   - Featured ventures
-   - Enhanced rewards
-   - Special challenges
+
+- Featured ventures
+
+- Enhanced rewards
+
+- Special challenges
 
 4. **Seasonal Competitions**
-   - Leaderboard prizes
-   - Achievement rewards
-   - Community recognition
+
+- Leaderboard prizes
+
+- Achievement rewards
+
+- Community recognition
 
 </div>
 
@@ -219,17 +241,15 @@ Month 12: 145,000 $SIGNAL
 <div class="arena-card" markdown="1">
 
 <h3>💸 Getting Paid</h3>
-
-**Automatic Distribution:**
+** Automatic Distribution:
 1. Milestone completes
 2. Anchor validates
 3. Smart contract executes
 4. Rewards calculated
 5. Tokens sent to wallet
 6. XP updated
-
-**Manual Claims:**
-- Some rewards require claiming
+** Manual Claims:
+- ** Some rewards require claiming
 - Gas-efficient batch claims
 - 30-day claim window
 - Unclaimed = donated
@@ -237,15 +257,13 @@ Month 12: 145,000 $SIGNAL
 </div>
 
 ### Tax Considerations
-
-**Reward Types:**
-- Signal profits: Trading income
+** Reward Types:
+- ** Signal profits: Trading income
 - Bonus rewards: Additional income
 - XP benefits: Non-taxable
 - Governance tokens: Varies
-
-**Best Practices:**
-- Track all transactions
+** Best Practices:
+- ** Track all transactions
 - Export platform data
 - Consult tax professional
 - Consider jurisdiction
@@ -257,10 +275,7 @@ Month 12: 145,000 $SIGNAL
 <div class="arena-card" markdown="1">
 
 <h3>🌟 Building Your Score</h3>
-
-**XP Earnings:**
-
-| Action | XP Gained | XP Lost |
+**XP Earnings:| Action | XP Gained | XP Lost |
 |--------|-----------|----------|
 | Correct belief signal | +10-50 | 0 |
 | Correct doubt signal | +15-60 | 0 |
@@ -268,9 +283,8 @@ Month 12: 145,000 $SIGNAL
 | Milestone participation | +5 | 0 |
 | Community contribution | +1-20 | 0 |
 | Toxic behavior | 0 | -100 |
-
-**Reputation Benefits:**
-- Higher stake limits
+** Reputation Benefits:
+- ** Higher stake limits
 - Better multipliers
 - Priority access
 - Community trust
@@ -287,38 +301,48 @@ Month 12: 145,000 $SIGNAL
 <h3>🚀 Pro Tactics</h3>
 
 1. **Early Entry Focus**
-   - Monitor new ventures
-   - Quick evaluation process
-   - First-mover positioning
+
+- Monitor new ventures
+
+- Quick evaluation process
+- First
+- mover positioning
 
 2. **Reputation Building**
-   - Consistent participation
-   - Quality over quantity
-   - Community engagement
+
+- Consistent participation
+
+- Quality over quantity
+
+- Community engagement
 
 3. **Streak Maintenance**
-   - Careful selection
-   - Risk management
-   - Avoid breaking streaks
+
+- Careful selection
+
+- Risk management
+
+- Avoid breaking streaks
 
 4. **Event Participation**
-   - Calendar awareness
-   - Preparation time
-   - Maximum advantage
+
+- Calendar awareness
+
+- Preparation time
+
+- Maximum advantage
 
 </div>
 
 ### ROI Tracking
-
-**Key Metrics:**
-- Total return percentage
+** Key Metrics:
+- ** Total return percentage
 - Average multiplier achieved
 - Success rate
 - XP growth rate
 - Time investment
-
-**Tracking Tools:**
-- Platform dashboard
+** Tracking Tools:
+- ** Platform dashboard
 - Export features
 - Third-party analytics
 - Custom spreadsheets
@@ -330,21 +354,18 @@ Month 12: 145,000 $SIGNAL
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ Strategic Balance</h3>
-
-**High Risk/Reward:**
-- Early phase signals
+** High Risk/Reward:
+- ** Early phase signals
 - Contrarian positions
 - Large stakes
 - New ventures
-
-**Low Risk/Reward:**
-- Late phase signals
+** Low Risk/Reward:
+- ** Late phase signals
 - Consensus positions
 - Small stakes
 - Proven ventures
-
-**Optimal Mix:**
-- 60% moderate risk
+** Optimal Mix:
+- ** 60% moderate risk
 - 25% high risk
 - 15% low risk
 
@@ -357,16 +378,14 @@ Month 12: 145,000 $SIGNAL
 <div class="arena-card" markdown="1">
 
 <h3>❌ Reward Pitfalls</h3>
-
-**Fatal Errors:**
-- Chasing losses with bigger stakes
+** Fatal Errors:
+- ** Chasing losses with bigger stakes
 - Ignoring risk for multipliers
 - Breaking streaks carelessly
 - Missing claim windows
 - Focusing only on rewards
-
-**Optimization Errors:**
-- Not tracking performance
+** Optimization Errors:
+- ** Not tracking performance
 - Ignoring XP benefits
 - Missing bonus events
 - Poor timing
@@ -377,16 +396,14 @@ Month 12: 145,000 $SIGNAL
 ## Reward Psychology
 
 ### Healthy Mindset
-
-**Success Principles:**
-- Rewards are bonuses, not guarantees
+** Success Principles:
+- ** Rewards are bonuses, not guarantees
 - Focus on long-term growth
 - Celebrate wins appropriately
 - Learn from losses
 - Stay disciplined
-
-**Avoiding Tilt:**
-- Set reward targets
+** Avoiding Tilt:
+- ** Set reward targets
 - Take breaks after losses
 - Don't revenge signal
 - Keep perspective
@@ -399,17 +416,15 @@ Month 12: 145,000 $SIGNAL
 <div class="arena-card" markdown="1">
 
 <h3>📊 Systematic Rewards</h3>
-
-**Diversification Model:**
+** Diversification Model:
 ```
 Early Signals (30%): Maximum multipliers
 Mid Signals (40%): Balanced approach  
 Late Signals (20%): Safe accumulation
 Contrarian (10%): High-risk plays
 ```
-
-**Reinvestment Strategy:**
-- Keep 30% as reserves
+** Reinvestment Strategy:
+- ** Keep 30% as reserves
 - Reinvest 50% in signals
 - Take 20% as profits
 - Adjust based on performance
@@ -423,31 +438,38 @@ Contrarian (10%): High-risk plays
 <div class="arena-card" markdown="1">
 
 <h3>🌐 Beyond Signals</h3>
-
-**Additional Rewards:**
+** Additional Rewards:
 1. **Content Creation**
-   - Analysis posts: 10-50 XP
-   - Video guides: 50-200 XP
-   - Tools/calculators: 100-500 XP
+- Analysis posts: 10
+- 50 XP
+- Video guides: 50
+- 200 XP
+- Tools/calculators: 100
+- 500 XP
 
 2. **Community Help**
-   - Answer questions: 1-5 XP
-   - Mentor newcomers: 20-100 XP
-   - Report issues: 10-50 XP
+- Answer questions: 1
+- 5 XP
+- Mentor newcomers: 20
+- 100 XP
+- Report issues: 10
+- 50 XP
 
 3. **Governance**
-   - Vote participation: 5-20 XP
-   - Proposal creation: 50-200 XP
-   - Implementation: 200-1000 XP
+- Vote participation: 5
+- 20 XP
+- Proposal creation: 50
+- 200 XP
+- Implementation: 200
+- 1000 XP
 
 </div>
 
 ## Future Rewards
 
 ### Upcoming Features
-
-**Planned Enhancements:**
-- Achievement system
+** Planned Enhancements:
+- ** Achievement system
 - NFT rewards
 - Tier benefits
 - Loyalty programs
@@ -460,9 +482,8 @@ Contrarian (10%): High-risk plays
 <div class="arena-card" markdown="1">
 
 <h3>📝 Reward Checklist</h3>
-
-**Maximize Returns:**
-- ✓ Signal early for bonuses
+** Maximize Returns:
+- ** ✓ Signal early for bonuses
 - ✓ Build reputation consistently
 - ✓ Maintain accuracy streaks
 - ✓ Participate in events

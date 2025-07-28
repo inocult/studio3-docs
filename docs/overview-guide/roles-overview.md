@@ -16,13 +16,17 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 
         Entrepreneurs who transform ideas into ventures through transparent execution
 
-        - Create and lead ventures
 
-        - Execute public milestones
+- Create and lead ventures
 
-        - Build in the Arena
 
-        - Achieve sovereignty
+- Execute public milestones
+
+
+- Build in the Arena
+
+
+- Achieve sovereignty
 
 </div>
     
@@ -33,13 +37,17 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 
         Community members who signal conviction through token stakes
 
-        - Evaluate ventures
 
-        - Signal belief or doubt
+- Evaluate ventures
 
-        - Earn from accuracy
 
-        - Guide through wisdom
+- Signal belief or doubt
+
+
+- Earn from accuracy
+
+
+- Guide through wisdom
 
 </div>
     
@@ -50,13 +58,17 @@ Studio3's ecosystem thrives on the balanced interaction of three distinct roles,
 
         Experienced builders who ensure quality and provide guidance
 
-        - Validate milestones
 
-        - Mentor founders
+- Validate milestones
 
-        - Maintain standards
 
-        - Resolve disputes
+- Mentor founders
+
+
+- Maintain standards
+
+
+- Resolve disputes
 
 </div>
 </div>
@@ -84,12 +96,13 @@ graph TD
 ### Interdependencies
 
 !!! info "Everyone Needs Everyone"
-    - **Senders need Echoes** - for funding and validation Senders need Anchors**
-    - for guidance and verification** Echoes need Senders** - for investment opportunities** Echoes need Anchors
-**    - for quality assurance** Anchors need Senders** - for ecosystem growth** Anchors need Echoes
-**    - for decentralized wisdom**
-
-## Senders (Founders) Deep Dive
+    - **Senders need Echoes** - for funding and validation Senders need Anchors
+    - for guidance and verification** Echoes need Senders** - for investment opportunities**  Echoes need Anchors
+- **
+- for quality assurance** Anchors need Senders**
+- for ecosystem growth**  Anchors need Echoes
+- **
+- for decentralized wisdom**## Senders (Founders) Deep Dive
 
 ### The Builder's Journey
 
@@ -97,34 +110,31 @@ graph TD
 
 <h3>🏗️ What Senders Do</h3>
 
-**Primary Activities:** 1. **Ideation & Creation** Remix IPs into Spark NFTs
-   - Develop venture concepts
-   - Enter ideas into Arena
+**Primary Activities:**
+
+1. **Ideation & Creation** Remix IPs into Spark NFTs
+
+- Develop venture concepts
+
+- Enter ideas into Arena
 
 2. **Competition & Leadership**
-
-   
-- Compete in Forge duels
-
-   
+- ** Compete in Forge duels
 - Win Signal NFT rights
-   - Form founding teams
+
+- Form founding teams
 
 3. **Execution & Delivery**
-
-   
-- Declare public milestones
-
-   
+- ** Declare public milestones
 - Build transparently
-   - Deliver on promises
+
+- Deliver on promises
 
 4. **Growth & Graduation**
-   
-- Scale ventures
-   
+- ** Scale ventures
 - Achieve sovereignty
-   - Launch sub-studios
+- Launch sub
+- studios
 
 </div>
 
@@ -132,11 +142,11 @@ graph TD
 
 | Requirement | Description | Why It Matters |
 |-------------|-------------|----------------|
-| **Vision** | Clear venture concept | Attracts support |
-| **Execution** | Ability to deliver | Builds trust |
-| **Communication** | Public engagement | Maintains confidence |
-| **Resilience** | Handle setbacks | Ventures face challenges |
-| **Leadership** | Team building | Can't succeed alone |
+|**Vision** | Clear venture concept | Attracts support |
+|**Execution** | Ability to deliver | Builds trust |
+|**Communication** | Public engagement | Maintains confidence |
+|**Resilience** | Handle setbacks | Ventures face challenges |
+|**Leadership** | Team building | Can't succeed alone |
 
 ### Sender Rewards
 
@@ -179,50 +189,60 @@ graph TD
 <div class="arena-card" markdown="1">
 
 <h3>📡 What Echoes Do</h3>
+**Primary Activities:**
 
-**Primary Activities:** 1. **Research & Analysis** Evaluate ventures
-   - Assess founders
-   - Study milestones
-   - Track patterns
+1. **Research & Analysis** Evaluate ventures
+
+- Assess founders
+
+- Study milestones
+
+- Track patterns
 
 2. **Signal Placement**
-
-   
-- Stake $SIGNAL tokens
-
-   
+- ** Stake $SIGNAL tokens
 - Express belief or doubt
-   - Size positions wisely
-   - Diversify portfolio
+
+- Size positions wisely
+
+- Diversify portfolio
 
 3. **Community Participation**
-
-   
-- Provide feedback
-
-   
+- ** Provide feedback
 - Share insights
-   - Support builders
-   - Challenge assumptions
+
+- Support builders
+
+- Challenge assumptions
 
 4. **Performance Tracking**
-   
-- Monitor progress
-   
+- ** Monitor progress
 - Adjust strategies
-   - Learn from outcomes
-   - Build reputation
+
+- Learn from outcomes
+
+- Build reputation
 
 </div>
 
 ### Echo Skills
 
 !!! tip "Successful Echo Traits"
-    - **Analytical Mind** - Evaluate objectively
-    - **Risk Management** - Size stakes appropriately
-    - **Pattern Recognition** - Spot trends early
-    - **Emotional Control** - Avoid FOMO/FUD
-    - **Continuous Learning** - Adapt strategies
+
+- **Analytical Mind**
+- Evaluate objectively
+
+- **Risk Management**
+- Size stakes appropriately
+
+- **Pattern Recognition**
+- Spot trends early
+
+- **Emotional Control**
+- Avoid FOMO/FUD
+
+- **Continuous Learning**
+- Adapt strategies
 
 ### Echo Earnings
 
@@ -253,38 +273,39 @@ def calculate_echo_returns(signal):
 
 <h3>⚓ What Anchors Do</h3>
 
-**Primary Activities:** 1. **Validation Services** Review milestone evidence
-   - Score completion quality
-   - Provide detailed feedback
-   - Resolve disputes
+**Primary Activities:**
+
+1. **Validation Services** Review milestone evidence
+
+- Score completion quality
+
+- Provide detailed feedback
+
+- Resolve disputes
 
 2. **Mentorship & Guidance**
-
-   
-- Advise founders
-
-   
+- ** Advise founders
 - Share expertise
-   - Prevent failures
-   - Accelerate growth
+
+- Prevent failures
+
+- Accelerate growth
 
 3. **Ecosystem Protection**
-
-   
-- Maintain standards
-
-   
+- ** Maintain standards
 - Identify bad actors
-   - Ensure fairness
-   - Guide evolution
+
+- Ensure fairness
+
+- Guide evolution
 
 4. **Governance Participation**
-   
-- Vote on proposals
-   
+- ** Vote on proposals
 - Shape policies
-   - Lead councils
-   - Drive improvements
+
+- Lead councils
+
+- Drive improvements
 
 </div>
 
@@ -292,11 +313,11 @@ def calculate_echo_returns(signal):
 
 | Qualification | Requirement | Verification |
 |---------------|-------------|-------------|
-| **Experience** | 5+ years building | Portfolio review |
-| **Reputation** | Strong track record | Reference checks |
-| **Availability** | 10+ hours/week | Commitment letter |
-| **Expertise** | Domain knowledge | Skill assessment |
-| **Objectivity** | Unbiased judgment | Ethics training |
+|**Experience** | 5+ years building | Portfolio review |
+|**Reputation** | Strong track record | Reference checks |
+|**Availability** | 10+ hours/week | Commitment letter |
+|**Expertise** | Domain knowledge | Skill assessment |
+|**Objectivity** | Unbiased judgment | Ethics training |
 
 ### Anchor Compensation
 
@@ -345,18 +366,19 @@ sequenceDiagram
 
 !!! warning "When Roles Clash"
     
-    **Common Conflicts:**
-- Sender overpromises, Echo loses tokens
-
+   ** Common Conflicts:
+- ** Sender overpromises, Echo loses tokens
 - Echo signals doubt, Sender feels attacked
-    - Anchor validates strictly, Sender disputes
-    
-    **Resolution Mechanisms:**
-- Public dialogue for transparency
 
+- Anchor validates strictly, Sender disputes
+    
+   ** Resolution Mechanisms:
+- ** Public dialogue for transparency
 - Anchor Council for disputes
-    - Community votes for deadlocks
-    - Reputation impacts for bad behavior
+
+- Community votes for deadlocks
+
+- Reputation impacts for bad behavior
 
 ## Choosing Your Role
 
@@ -365,23 +387,20 @@ sequenceDiagram
 <div class="arena-card" markdown="1">
 
 <h3>🤔 Which Role Fits You?</h3>
-
-**Consider Sender If You:**
-- Have a venture idea
+** Consider Sender If You:
+- ** Have a venture idea
 - Love building things
 - Thrive under pressure
 - Communicate well publicly
 - Accept high risk/reward
-
-**Consider Echo If You:**
-- Enjoy analysis and research
+** Consider Echo If You:
+- ** Enjoy analysis and research
 - Have risk capital available
 - Want portfolio approach
 - Prefer supporting to leading
 - Learn from patterns
-
-**Consider Anchor If You:**
-- Have deep expertise
+** Consider Anchor If You:
+- ** Have deep expertise
 - Built ventures before
 - Enjoy mentoring others
 - Value ecosystem health
@@ -392,11 +411,10 @@ sequenceDiagram
 ### Role Progression
 
 !!! info "Roles Can Evolve"
-    - **Echo → Sender**: Build reputation, then launch venture
-**    - **Sender → Anchor**: After successful exit, give back
-**    - **Anchor → Sender**: Use expertise for new venture
-**    - **Multiple Roles**: Can be Echo while building as Sender
-## Role Statistics
+    - **Echo → Sender** : Build reputation, then launch venture
+- **    -**Sender → Anchor** : After successful exit, give back
+- **    -**Anchor → Sender** : Use expertise for new venture
+- **    -**Multiple Roles**: Can be Echo while building as Sender**## Role Statistics
 
 ### Current Distribution
 
@@ -424,9 +442,9 @@ success_metrics = {
 | Metric | Senders | Echoes | Anchors |
 |--------|---------|--------|----------|
 | **Avg Weekly Hours** | 50-60 | 5-10 | 10-15 |
-| **Success Rate** | 34% | 67% | 89% |
-| **Avg Earnings** | $500K** | $45K | $120K |
-| **Reputation Growth** | High | Medium | Very High |
+|**Success Rate** | 34% | 67% | 89% |
+|**Avg Earnings** | $500K** | $45K | $120K |
+|**Reputation Growth** | High | Medium | Very High |
 
 *If successful to Ascension
 
@@ -454,9 +472,12 @@ success_metrics = {
 ### Role Synergies
 
 !!! success "Leveraging Multiple Perspectives"
-    - **Echo experience** - improves Sender fundraising Sender experience**
-    - makes better Anchors** Anchor insights** - enhance Echo strategies** Cross-role networks** create opportunities**
-## Common Misconceptions
+
+- **Echo experience**
+- improves Sender fundraising Sender experience
+
+- makes better Anchors** Anchor insights**
+- enhance Echo strategies** Cross-role networks** create opportunities**## Common Misconceptions
 
 ### Role Myths Debunked
 
@@ -472,16 +493,23 @@ success_metrics = {
 
 ### Getting Started
 
-1. **Explore All Roles** - Understand each deeply
-**2. **Assess Yourself** - Match skills and goals
-**3. **Start Small** - Test before committing
-**4. **Build Reputation** - Success in any role
-**5. **Stay Flexible** - Adapt as you learn
-### Role Resources
+- 1. ** Explore All Roles
+- Understand each deeply
+2. **Assess Yourself**
+- Match skills and goals
+3. **Start Small**
+- Test before committing
+4. **Build Reputation**
+- Success in any role
+5. **Stay Flexible**
+- Adapt as you learn**### Role Resources
 
-- **For Senders**: [Senders Guide](../senders-guide/index.md) - Complete founder handbook
-- **For Echoes**: [Echoes Guide](../echoes-guide/index.md) - Master signaling
-- **For Anchors**: [Anchors Guide](../anchors-guide/index.md) - Validation excellence
+- **For Senders**: [Senders Guide](../senders-guide/index.md)
+- Complete founder handbook
+- **For Echoes** : [Echoes Guide](../echoes-guide/index.md)
+- Master signaling
+- **For Anchors** : [Anchors Guide](../anchors-guide/index.md)
+- Validation excellence
 ## Next Steps
 
 - Dive deep into your chosen role's guide

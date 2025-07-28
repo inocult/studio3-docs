@@ -16,13 +16,17 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         Represents the original idea and IP combination
 
-        - Created from Flambette marketplace
 
-        - Contains remixed IP metadata
+- Created from Flambette marketplace
 
-        - Tradeable and collectible
 
-        - Required for Forge entry
+- Contains remixed IP metadata
+
+
+- Tradeable and collectible
+
+
+- Required for Forge entry
 
 </div>
     
@@ -33,13 +37,17 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         Dynamic NFT tracking the venture's entire lifecycle
 
-        - Awarded to Forge winner
 
-        - Updates with each milestone
+- Awarded to Forge winner
 
-        - Records all signals received
 
-        - Becomes more valuable over time
+- Updates with each milestone
+
+
+- Records all signals received
+
+
+- Becomes more valuable over time
 
 </div>
     
@@ -50,13 +58,17 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
         Soulbound proof of successful graduation
 
-        - Created at venture inception
 
-        - Locked until Ascension
+- Created at venture inception
 
-        - Non-transferable honor
 
-        - Unlocks sovereign rights
+- Locked until Ascension
+
+- Non
+- transferable honor
+
+
+- Unlocks sovereign rights
 
 </div>
 </div>
@@ -81,16 +93,20 @@ graph TD
 ### The Beginning of Everything
 
 !!! info "Spark NFT Details"
-    **Purpose:** Creation:
-**    Utility:** Trading:
+    **Purpose:**  Creation:
+**    Utility:**  Trading:
 ### Creation Process
 
-1. **Browse Flambette** - Explore available IP-NFTs
-**2. **Select Components** - Choose 2-5 IPs to combine
-**3. **Define Synthesis** - Explain how they connect
-**4. **Mint Spark** - Pay minting fee, receive NFT
-**5. **Enter Arena** - Use Spark to launch venture
-### Spark Metadata
+- 1.** Browse Flambette
+- Explore available IP-NFTs
+2. **Select Components**
+- Choose 2-5 IPs to combine
+3. **Define Synthesis**
+- Explain how they connect
+4. **Mint Spark**
+- Pay minting fee, receive NFT
+5. **Enter Arena**
+- Use Spark to launch venture**### Spark Metadata
 
 ```json
 {
@@ -112,25 +128,24 @@ graph TD
 | Factor | Impact on Value |
 |--------|----------------|
 | **IP Quality** | Higher quality sources = higher value |
-| **Synthesis Novelty** | Unique combinations command premiums |
-| **Market Timing** | Hot sectors increase demand |
-| **Creator Reputation** | Proven creators' Sparks valued higher |
-| **Historical Performance** | Sparks that led to successful ventures |
+|**Synthesis Novelty** | Unique combinations command premiums |
+|**Market Timing** | Hot sectors increase demand |
+|**Creator Reputation** | Proven creators' Sparks valued higher |
+|**Historical Performance** | Sparks that led to successful ventures |
 
 ## Signal NFT
 
 ### The Living Chronicle
 
 !!! info "Signal NFT Details"
-    **Purpose:** Creation:
-**    Utility:** Updates:
+   **Purpose:**  Creation:
+**    Utility:**  Updates:
 ### Dynamic Properties
 
 <div class="arena-card" markdown="1">
 
 <h3>🎨 Visual Evolution</h3>
-The Signal NFT's appearance changes based on:
-
+** The Signal NFT's appearance changes based on:
 - <strong>Phase Progress:</strong> Color shifts with each phase
 
 - <strong>Signal Strength:</strong> Brightness indicates support
@@ -172,19 +187,19 @@ The Signal NFT's appearance changes based on:
 
 | Utility | Description |
 |---------|-------------|
-| **Governance Weight** | Vote power in Container DAO decisions |
-| **Revenue Share** | Claim on protocol revenues |
-| **Access Rights** | Entry to founder-only resources |
-| **Network Benefits** | Priority access to partners |
-| **Historical Record** | Immutable proof of journey |
+|**Governance Weight** | Vote power in Container DAO decisions |
+|**Revenue Share** | Claim on protocol revenues |
+|**Access Rights** | Entry to founder-only resources |
+|**Network Benefits** | Priority access to partners |
+|**Historical Record** | Immutable proof of journey |
 
 ## Halo NFT
 
 ### The Ultimate Achievement
 
 !!! info "Halo NFT Details"
-    **Purpose:** Creation:
-**    Utility:** Transfer:
+   **Purpose:**  Creation:
+**    Utility:**  Transfer:
 ### Sovereignty Rights
 
 The Halo NFT unlocks:
@@ -238,10 +253,10 @@ sequenceDiagram
 
 | Phase | Signers | Threshold |
 |-------|---------|----------|
-| **Ignition-Drift** | 2 Founders + 1 Anchor + 2 Studio3 | 3 of 5 |
-| **Orbit** | 3 Founders + 1 Anchor + 1 Studio3 | 3 of 5 |
-| **Flare** | 4 Founders + 1 Studio3 | 3 of 5 |
-| **Ascension** | 5 Founders | 3 of 5 |
+|**Ignition-Drift** | 2 Founders + 1 Anchor + 2 Studio3 | 3 of 5 |
+|**Orbit** | 3 Founders + 1 Anchor + 1 Studio3 | 3 of 5 |
+|**Flare** | 4 Founders + 1 Studio3 | 3 of 5 |
+|**Ascension** | 5 Founders | 3 of 5 |
 
 ## NFT Interactions
 
@@ -250,8 +265,7 @@ sequenceDiagram
 <div class="arena-card" markdown="1">
 
 <h3>🔗 The Trinity Effect</h3>
-When all three NFTs are united in one wallet:
-
+** When all three NFTs are united in one wallet:
 - 🎨 <strong>Spark</strong> provides the origin story
 
 - 📡 <strong>Signal</strong> shows the journey
@@ -279,18 +293,18 @@ graph LR
 
 | NFT Type | Primary Value | Secondary Value |
 |----------|---------------|----------------|
-| **Spark** | IP combination quality | Historical significance |
-| **Signal** | Venture performance | Community size |
-| **Halo** | Sovereignty rights | Alumni network |
+|**Spark** | IP combination quality | Historical significance |
+|**Signal** | Venture performance | Community size |
+|**Halo** | Sovereignty rights | Alumni network |
 
 ### Market Dynamics
 
 !!! tip "Trading Strategies"
-    - **Spark Trading**: Buy promising ideas early
-**    - **Signal Watching**: Track rising ventures
-**    - **Halo Hunting**: Identify near-graduation ventures
-**    - **Trinity Collecting**: Acquire complete sets
-## Technical Implementation
+
+- **Spark Trading** : Buy promising ideas early
+- **    -**Signal Watching** : Track rising ventures
+- **    -**Halo Hunting** : Identify near-graduation ventures
+- **    -**Trinity Collecting**: Acquire complete sets**## Technical Implementation
 
 ### Smart Contract Architecture
 
@@ -350,20 +364,15 @@ All NFTs follow extended ERC-721 with:
 
 ### NFT FAQ
 
-**Q: Can I sell my Signal NFT during the journey?**
-A: Yes, but it transfers all governance rights and future claims.
+**Q: Can I sell my Signal NFT during the journey?**A: Yes, but it transfers all governance rights and future claims.
 
-**Q: What happens to NFTs if a venture fails?**
-A: Spark remains tradeable, Signal stops updating, Halo stays locked.
+**Q: What happens to NFTs if a venture fails?**A: Spark remains tradeable, Signal stops updating, Halo stays locked.
 
-**Q: Can multiple Sparks be combined?**
-A: Not directly, but you can reference multiple Sparks in proposals.
+**Q: Can multiple Sparks be combined?**A: Not directly, but you can reference multiple Sparks in proposals.
 
-**Q: Are NFTs required to participate as an Echo?**
-A: No, only Founders need NFTs. Echoes only need $SIGNAL tokens.
+**Q: Are NFTs required to participate as an Echo?**A: No, only Founders need NFTs. Echoes only need $SIGNAL tokens.
 
-**Q: Can NFTs be used as collateral?**
-A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
+**Q: Can NFTs be used as collateral?**A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
 
 ## Success Stories
 
@@ -386,11 +395,7 @@ A: Some DeFi protocols accept Spark and Signal NFTs as collateral.
 
 ### Your NFT Journey
 
-1. **As a Creator**: Start on Flambette, mint your Spark
-**2. **As a Founder**: Win the Forge, earn your Signal
-**3. **As a Collector**: Trade Sparks, watch Signals
-**4. **As a Builder**: Work toward your Halo
-## Next Steps
+1. **As a Creator**: Start on Flambette, mint your Spark**2. **As a Founder**: Win the Forge, earn your Signal**3. **As a Collector**: Trade Sparks, watch Signals**4. **As a Builder**: Work toward your Halo**## Next Steps
 
 - Explore [Seven Phase Lifecycle](seven-phases.md) to understand the journey
 - Learn about [The Arena System](arena-system.md) where NFTs are earned

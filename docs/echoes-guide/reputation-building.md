@@ -19,13 +19,19 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <h3>📊 The Reputation System</h3>
 
 **Components:**
-1. **XP Score** - Quantified experience points
-**2. **Accuracy Rate** - Historical performance
-**3. **Community Standing** - Social reputation
-**4. **Specializations** - Recognized expertise
-**5. **Achievements** - Milestone markers
-**Why It Matters:**
-- Higher reward multipliers
+- 
+1. **XP Score**
+- Quantified experience points
+2. **Accuracy Rate**
+- Historical performance
+3. **Community Standing**
+- Social reputation
+4. **Specializations**
+- Recognized expertise
+5. **Achievements**
+- Milestone markers**
+- ** Why It Matters:
+- ** Higher reward multipliers
 - Increased stake limits
 - Priority platform access
 - Community influence
@@ -51,21 +57,18 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>💎 Maximize XP Gains</h3>
-
-**Signal Success:**
-- Correct belief: +10-50 XP
+** Signal Success:
+- ** Correct belief: +10-50 XP
 - Correct doubt: +15-60 XP
 - Contrarian win: +25-100 XP
 - Perfect milestone: +100 XP
-
-**Participation:**
-- Daily activity: +5 XP
+** Participation:
+- ** Daily activity: +5 XP
 - Weekly streak: +25 XP
 - Monthly streak: +150 XP
 - First signal on venture: +10 XP
-
-**Community:**
-- Quality analysis post: +20 XP
+** Community:
+- ** Quality analysis post: +20 XP
 - Helping newcomers: +10 XP
 - Bug reports: +50 XP
 - Tool creation: +200 XP
@@ -77,29 +80,36 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>🎯 Improving Win Rate</h3>
-
-**Current Accuracy Tiers:**
-- 0-40%: Learning phase
+** Current Accuracy Tiers:
+- ** 0-40%: Learning phase
 - 40-60%: Developing skills
 - 60-70%: Proficient
 - 70-80%: Expert
 - 80%+: Master class
-
-**Improvement Strategies:**
+** Improvement Strategies:
 1. **Specialize First**
-   - Pick 1-2 sectors
-   - Deep expertise
-   - Better predictions
+- Pick 1
+- 2 sectors
+
+- Deep expertise
+
+- Better predictions
 
 2. **Quality Over Quantity**
-   - Fewer, better signals
-   - Higher confidence only
-   - Skip uncertain plays
+
+- Fewer, better signals
+
+- Higher confidence only
+
+- Skip uncertain plays
 
 3. **Learn From Failures**
-   - Document mistakes
-   - Pattern recognition
-   - Adjust strategies
+
+- Document mistakes
+
+- Pattern recognition
+
+- Adjust strategies
 
 </div>
 
@@ -110,9 +120,8 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>👥 Becoming a Respected Echo</h3>
-
-**Positive Actions:**
-- Share quality research
+** Positive Actions:
+- ** Share quality research
 - Help newcomers
 - Celebrate others' wins
 - Provide constructive feedback
@@ -120,9 +129,8 @@ In Studio3, your reputation is everything. It determines your earning potential,
 - Write guides
 - Host discussions
 - Mentor peers
-
-**Reputation Multipliers:**
-- Consistent presence
+** Reputation Multipliers:
+- ** Consistent presence
 - Valuable contributions
 - Positive attitude
 - Ethical behavior
@@ -135,16 +143,14 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>❌ What Hurts Your Standing</h3>
-
-**Damaging Behaviors:**
-- Spreading misinformation (-100 XP)
+** Damaging Behaviors:
+- ** Spreading misinformation (-100 XP)
 - Toxic behavior (-200 XP)
 - Spam posting (-50 XP)
 - Pump schemes (-500 XP)
 - Multi-accounting (Ban)
-
-**Recovery Time:**
-- Minor infractions: 30 days
+** Recovery Time:
+- ** Minor infractions: 30 days
 - Major violations: 90 days
 - Severe damage: 6 months
 - Some actions: Permanent
@@ -158,39 +164,52 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>🎓 Expertise Development</h3>
-
-**Popular Specializations:**
-
+** Popular Specializations:
 1. **Phase Specialist**
-   - Master specific phases
-   - 80%+ accuracy in phase
-   - Recognized expertise
-   - Tagged in discussions
+
+- Master specific phases
+
+- 80%+ accuracy in phase
+
+- Recognized expertise
+
+- Tagged in discussions
 
 2. **Sector Expert**
-   - DeFi, Gaming, AI, etc.
-   - Deep domain knowledge
-   - Go-to for analysis
-   - Premium reputation
+
+- DeFi, Gaming, AI, etc.
+
+- Deep domain knowledge
+- Go
+- to for analysis
+
+- Premium reputation
 
 3. **Contrarian Master**
-   - Against-grain success
-   - Spot overvaluation
-   - High-risk prowess
-   - Unique insights
+- Against
+- grain success
+
+- Spot overvaluation
+- High
+- risk prowess
+
+- Unique insights
 
 4. **Technical Analyst**
-   - Data-driven approach
-   - Tool creation
-   - Metric mastery
-   - Quantitative edge
+- Data
+- driven approach
+
+- Tool creation
+
+- Metric mastery
+
+- Quantitative edge
 
 </div>
 
 ### Building Your Brand
-
-**Personal Branding:**
-- Consistent username
+** Personal Branding:
+- ** Consistent username
 - Recognizable avatar
 - Signature analysis style
 - Regular posting schedule
@@ -204,27 +223,23 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>🏆 Achievement Badges</h3>
-
-**Participation Achievements:**
-- First Signal ✓
+** Participation Achievements:
+- ** First Signal ✓
 - 10 Signals 🎯
 - 100 Signals 💯
 - 1000 Signals 🌟
-
-**Performance Achievements:**
-- First Win 🎉
+** Performance Achievements:
+- ** First Win 🎉
 - 10-Streak 🔥
 - 50% Accuracy 📊
 - 80% Accuracy 🏅
-
-**Community Achievements:**
-- Helper Badge 🤝
+** Community Achievements:
+- ** Helper Badge 🤝
 - Creator Badge 🛠️
 - Mentor Badge 👨‍🏫
 - Leader Badge 👑
-
-**Special Achievements:**
-- Contrarian Victor 🎲
+** Special Achievements:
+- ** Contrarian Victor 🎲
 - Phase Master 🎓
 - Echo of the Month 🌙
 - Annual Champion 🏆
@@ -238,23 +253,20 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>🚀 Accelerated Building</h3>
-
-**Month 1-3: Foundation**
-- Daily participation
+**Month 1-3: Foundation
+- ** Daily participation
 - Small, safe signals
 - Learn from others
 - Build connections
 - Target: 100 XP
-
-**Month 4-6: Acceleration**
-- Increase activity
+**Month 4-6: Acceleration
+- ** Increase activity
 - Share analyses
 - Find specialization
 - Mentor newcomers
 - Target: 500 XP
-
-**Month 7-12: Establishment**
-- Recognized expert
+**Month 7-12: Establishment
+- ** Recognized expert
 - Larger positions
 - Community leader
 - Create content
@@ -267,22 +279,19 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>📈 Maintaining Excellence</h3>
-
-**Daily Habits:**
-- Check in consistently
+** Daily Habits:
+- ** Check in consistently
 - Engage meaningfully
 - Share insights
 - Help others
 - Stay positive
-
-**Weekly Goals:**
-- 5+ quality signals
+** Weekly Goals:
+- ** 5+ quality signals
 - 10+ helpful posts
 - 1 deep analysis
 - Connect with 3 new Echoes
-
-**Monthly Reviews:**
-- Accuracy trends
+** Monthly Reviews:
+- ** Accuracy trends
 - XP growth rate
 - Community feedback
 - Strategy adjustments
@@ -296,23 +305,20 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>💰 Reputation Benefits</h3>
-
-**Direct Benefits:**
-- Higher multipliers (up to +50%)
+** Direct Benefits:
+- ** Higher multipliers (up to +50%)
 - Larger stake limits
 - Beta feature access
 - Priority support
 - Governance voting
-
-**Indirect Benefits:**
-- Collaboration offers
+** Indirect Benefits:
+- ** Collaboration offers
 - Paid consultations
 - Speaking opportunities
 - Partnership deals
 - Job opportunities
-
-**Platform Privileges:**
-- Early venture access
+** Platform Privileges:
+- ** Early venture access
 - Anchor introductions
 - Special events
 - Exclusive channels
@@ -327,31 +333,41 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>🛡️ Reputation Defense</h3>
-
-**Best Practices:**
+** Best Practices:
 1. **Document Everything**
-   - Screenshot wins
-   - Save analyses
-   - Track contributions
-   - Build portfolio
+
+- Screenshot wins
+
+- Save analyses
+
+- Track contributions
+
+- Build portfolio
 
 2. **Stay Consistent**
-   - Regular activity
-   - Reliable presence
-   - Predictable quality
-   - Steady growth
+
+- Regular activity
+
+- Reliable presence
+
+- Predictable quality
+
+- Steady growth
 
 3. **Handle Conflicts Well**
-   - Stay professional
-   - Admit mistakes
-   - Learn publicly
-   - Move forward
+
+- Stay professional
+
+- Admit mistakes
+
+- Learn publicly
+
+- Move forward
 
 </div>
 
 ### Crisis Management
-
-**If Reputation Damaged:**
+** If Reputation Damaged:
 1. Acknowledge issue immediately
 2. Apologize if appropriate
 3. Show corrective actions
@@ -365,16 +381,14 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>👑 Echo Leadership</h3>
-
-**Leadership Activities:**
-- Host weekly discussions
+** Leadership Activities:
+- ** Host weekly discussions
 - Create educational content
 - Organize Echo meetups
 - Develop analysis frameworks
 - Mentor systematically
-
-**Recognition Markers:**
-- Named in testimonials
+** Recognition Markers:
+- ** Named in testimonials
 - Tagged for opinions
 - Quoted in guides
 - Featured in spotlights
@@ -389,8 +403,7 @@ In Studio3, your reputation is everything. It determines your earning potential,
 <div class="arena-card" markdown="1">
 
 <h3>📊 Key Performance Indicators</h3>
-
-**Weekly Tracking:**
+** Weekly Tracking:
 ```
 XP Gained: ___
 Accuracy Rate: ___%
@@ -398,9 +411,8 @@ Community Posts: ___
 Newcomers Helped: ___
 Recognition Events: ___
 ```
-
-**Monthly Analysis:**
-- XP growth rate
+** Monthly Analysis:
+- ** XP growth rate
 - Accuracy trends
 - Engagement levels
 - Influence metrics
@@ -415,16 +427,14 @@ Recognition Events: ___
 <div class="arena-card" markdown="1">
 
 <h3>🌟 Intangible Assets</h3>
-
-**True Reputation Markers:**
-- People seek your opinion
+** True Reputation Markers:
+- ** People seek your opinion
 - Ventures want your signal
 - Newcomers ask for mentorship
 - Platform features you
 - Community trusts you
-
-**Building Legacy:**
-- Consistent excellence
+** Building Legacy:
+- ** Consistent excellence
 - Generous knowledge sharing
 - Ethical behavior
 - Long-term thinking
@@ -439,16 +449,14 @@ Recognition Events: ___
 <div class="arena-card" markdown="1">
 
 <h3>⚠️ What to Avoid</h3>
-
-**Short-term Thinking:**
-- XP farming behaviors
+** Short-term Thinking:
+- ** XP farming behaviors
 - Quantity over quality
 - Gaming the system
 - Burning bridges
 - Selfish actions
-
-**Long-term Damage:**
-- One toxic incident
+** Long-term Damage:
+- ** One toxic incident
 - Spreading FUD
 - Betraying trust
 - Pump participation
@@ -463,23 +471,20 @@ Recognition Events: ___
 <div class="arena-card" markdown="1">
 
 <h3>✅ 90-Day Challenge</h3>
-
-**Days 1-30:**
-- [ ] Reach 100 XP
+** Days 1-30:
+- ** [ ] Reach 100 XP
 - [ ] 60% accuracy rate
 - [ ] Join 3 communities
 - [ ] Help 10 newcomers
 - [ ] Write 1 guide
-
-**Days 31-60:**
-- [ ] Reach 300 XP
+** Days 31-60:
+- ** [ ] Reach 300 XP
 - [ ] 65% accuracy rate
 - [ ] Find specialization
 - [ ] Create 1 tool
 - [ ] Gain recognition
-
-**Days 61-90:**
-- [ ] Reach 500 XP
+** Days 61-90:
+- ** [ ] Reach 500 XP
 - [ ] 70% accuracy rate
 - [ ] Establish expertise
 - [ ] Lead discussions

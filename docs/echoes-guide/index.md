@@ -70,8 +70,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 🎯 Who Should Read This Guide?
 
 - **📊 Active Supporters** signaling daily
-- **💰 Token Holders** maximizing returns
-
+- **💰 Token Holders**  maximizing returns
 - **🔍 Analysts** evaluating ventures
 
 - **🌐 Community Members** growing influence

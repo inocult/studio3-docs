@@ -1,0 +1,17 @@
+{
+  "name": "studio3-docs",
+  "version": "1.0.0",
+  "description": "Studio3 Documentation",
+  "scripts": {
+    "lint": "python3 lint_markdown.py docs",
+    "lint:fix": "python3 fix_markdown_issues.py",
+    "build": "mkdocs build",
+    "serve": "mkdocs serve",
+    "deploy": "mkdocs gh-deploy"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inocult/studio3-docs.git"
+  }
+}

@@ -19,13 +19,12 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <h3>💰 Minimum Stakes</h3>
 
 **Phase-Based Requirements:**
-- **Spark Entry**: 100 $SIGNAL (recommended 500+)
-- **Forge Competition**: 1,000 $SIGNAL minimum
-- **Ignition Launch**: 5,000 $SIGNAL reserve
-- **Operations Buffer**: 10,000 $SIGNAL recommended
-**Why You Need Tokens:**
-- Demonstrate skin in the game
-
+- **Spark Entry** : 100 $SIGNAL (recommended 500+)
+- **Forge Competition** : 1,000 $SIGNAL minimum
+- **Ignition Launch** : 5,000 $SIGNAL reserve
+- **Operations Buffer** : 10,000 $SIGNAL recommended
+** Why You Need Tokens:
+- ** Demonstrate skin in the game
 - Pay for platform operations
 - Emergency milestone coverage
 - Team incentive pool
@@ -34,10 +33,7 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 </div>
 
 ### Additional Costs
-
-**Budget Considerations:**
-
-| Expense | Estimated Cost |
+**Budget Considerations:| Expense | Estimated Cost |
 |---------|----------------|
 | Spark NFT Minting | 0.1-0.5 ETH |
 | Gas Fees (Monthly) | 0.5-2 ETH |
@@ -52,18 +48,14 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <div class="arena-card" markdown="1">
 
 <h3>🛠️ Essential Skills</h3>
-
-**Must Have:**
-- Basic Web3 knowledge
-
+** Must Have:
+- ** Basic Web3 knowledge
 - Wallet management skills
 - Smart contract interaction
 - Version control (Git)
 - Public communication
-
-**Highly Recommended:**
-- Previous startup experience
-
+** Highly Recommended:
+- ** Previous startup experience
 - Technical development skills
 - Community management
 - Financial planning
@@ -72,29 +64,31 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 </div>
 
 ### Platform Proficiency
+** You Should Understand:
+1. **Arena Mechanics**
+ How signals work
 
-**You Should Understand:**
+- Milestone validation
 
-1. **Arena Mechanics** How signals work
-   - Milestone validation
-   - Phase progression
-   - Reputation system
+- Phase progression
+
+- Reputation system
 
 2. **NFT System**
-   
-- Spark creation process
-   
+- ** Spark creation process
 - Signal NFT dynamics
-   - Halo requirements
-   - Genesis wallet
+
+- Halo requirements
+
+- Genesis wallet
 
 3. **DAO Operations**
-   
-- Multisig management
-   
+- ** Multisig management
 - Governance proposals
-   - Token distributions
-   - Treasury management
+
+- Token distributions
+
+- Treasury management
 
 ## Time Commitment
 
@@ -103,13 +97,12 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <div class="arena-card" markdown="1">
 
 <h3>⏰ Time Investment</h3>
-
-**Minimum Daily Commitment:**
-- **Spark Phase**: 2-4 hours
-- **Forge Phase**: 4-6 hours
-- **Ignition+**: 8-10 hours (full-time)
-**Weekly Breakdown:**
-- Development: 30-40 hours
+** Minimum Daily Commitment:
+- **Spark Phase** : 2-4 hours
+- **Forge Phase** : 4-6 hours
+- **Ignition+** : 8-10 hours (full-time)
+** Weekly Breakdown:
+- ** Development: 30-40 hours
 - Community: 10-15 hours
 - Planning: 5-10 hours
 - Admin: 5 hours
@@ -117,17 +110,15 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 </div>
 
 ### Phase Duration
-
-**Typical Timeline:**
-- **Spark**: 1-4 weeks
-- **Forge**: 1-2 weeks
-- **Ignition**: 2-3 months
-- **Drift**: 3-6 months
-- **Orbit**: 6-12 months
-- **Flare**: 6-12 months
-- **Ascension**: 3-6 months
-**Total Journey**: 18-36 months average
-## Team Requirements
+** Typical Timeline:
+- **Spark** : 1-4 weeks
+- **Forge** : 1-2 weeks
+- **Ignition** : 2-3 months
+- **Drift** : 3-6 months
+- **Orbit** : 6-12 months
+- **Flare** : 6-12 months
+- **Ascension** : 3-6 months
+**Total Journey**: 18-36 months average**## Team Requirements
 
 ### Building Your Squad
 
@@ -135,29 +126,27 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 
 <h3>👥 Ideal Team Composition</h3>
 
-**Minimum Viable Team (MVT):**
+** Minimum Viable Team (MVT):
+1. **Founder/CEO**
+ (You) Vision & strategy
 
-1. **Founder/CEO** (You) Vision & strategy
-   - Community face
-   - Milestone planning
+- Community face
+
+- Milestone planning
 
 2. **Technical Lead**
-   
-- Product development
-   
+- ** Product development
 - Architecture decisions
-   - Technical milestones
+
+- Technical milestones
 
 3. **Community Manager**
-   
-- Daily engagement
-   
+- ** Daily engagement
 - Support coordination
-   - Content creation
 
-**Scaling Team (Post-Ignition):**
-- Operations Manager
-
+- Content creation
+** Scaling Team (Post-Ignition):
+- ** Operations Manager
 - Business Development
 - Marketing Lead
 - Additional Developers
@@ -166,17 +155,14 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 </div>
 
 ### Recruitment Strategies
-
-**Where to Find Team Members:**
-- Studio3 talent pool
-
+** Where to Find Team Members:
+- ** Studio3 talent pool
 - Previous Echoes/supporters
 - Web3 communities
 - Traditional networks
 - Freelance platforms
-
-**Incentive Structures:**
-- Token allocations (5-15%)
+** Incentive Structures:
+- ** Token allocations (5-15%)
 - Milestone bonuses
 - Revenue sharing
 - Reputation rewards
@@ -189,17 +175,18 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <div class="arena-card" markdown="1">
 
 <h3>🧠 Mental Preparation</h3>
-
-**Essential Traits:**
-- **Resilience** - Handle public criticism
-- **Transparency** - Share failures openly
-- **Adaptability** - Pivot based on feedback
-- **Persistence** - Push through challenges
-- **Humility** - Learn from everyone
-
-**Red Flags:**
-- Need for privacy
-
+** Essential Traits:
+- ** Resilience
+- Handle public criticism**
+- **  Transparency
+- Share failures openly
+- ** Adaptability
+- Pivot based on feedback
+- **  Persistence
+- Push through challenges
+- ** Humility
+- Learn from everyone Red Flags:
+- ** Need for privacy
 - Perfectionism
 - Ego sensitivity
 - Conflict avoidance
@@ -208,10 +195,8 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 </div>
 
 ### Lifestyle Compatibility
-
-**Consider Your Situation:**
-- [ ] Can you work publicly?
-
+** Consider Your Situation:
+- ** [ ] Can you work publicly?
 - [ ] Handle financial uncertainty?
 - [ ] Commit 2+ years?
 - [ ] Accept potential failure?
@@ -224,18 +209,14 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <div class="arena-card" markdown="1">
 
 <h3>💡 What Makes a Good Idea</h3>
-
-**Must Have:**
-- Clear problem definition
-
+** Must Have:
+- ** Clear problem definition
 - Identifiable target market
 - Feasible solution approach
 - Scalability potential
 - Web3 integration logic
-
-**Should Have:**
-- Unique value proposition
-
+** Should Have:
+- ** Unique value proposition
 - Defensible positioning
 - Network effects
 - Community benefits
@@ -244,9 +225,8 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 </div>
 
 ### IP Requirements
-
-**For Spark Creation:**
-- Access to 2-5 IP-NFTs
+** For Spark Creation:
+- ** Access to 2-5 IP-NFTs
 - Clear synthesis logic
 - Non-infringing combination
 - Value-add explanation
@@ -259,18 +239,14 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ Legal Preparedness</h3>
-
-**Essential Documentation:**
-- Business entity formation
-
+** Essential Documentation:
+- ** Business entity formation
 - Founder agreements
 - IP assignments
 - Privacy policy
 - Terms of service
-
-**Regulatory Awareness:**
-- Securities law compliance
-
+** Regulatory Awareness:
+- ** Securities law compliance
 - Tax obligations
 - Data protection (GDPR)
 - Jurisdiction requirements
@@ -279,10 +255,8 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 </div>
 
 ### Risk Mitigation
-
-**Protect Yourself:**
-- Legal counsel access
-
+** Protect Yourself:
+- ** Legal counsel access
 - Liability insurance
 - Proper disclosures
 - Compliance procedures
@@ -295,29 +269,31 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <div class="arena-card" markdown="1">
 
 <h3>🔧 Technical Setup</h3>
+** Before Starting:
+1. **Wallet Configuration**
+ Hardware wallet recommended
 
-**Before Starting:**
+- Backup seed phrases
 
-1. **Wallet Configuration** Hardware wallet recommended
-   - Backup seed phrases
-   - Multiple addresses
-   - Proper security
+- Multiple addresses
+
+- Proper security
 
 2. **Platform Access**
-   
-- Verified account
-   
+- ** Verified account
 - KYC completion
-   - Email verification
-   - 2FA enabled
+
+- Email verification
+
+- 2FA enabled
 
 3. **Social Presence**
-   
-- Twitter account
-   
+- ** Twitter account
 - Discord access
-   - LinkedIn profile
-   - GitHub account
+
+- LinkedIn profile
+
+- GitHub account
 
 </div>
 
@@ -328,10 +304,8 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <div class="arena-card" markdown="1">
 
 <h3>✅ Ready to Launch?</h3>
-
-**Week Before Spark:**
-- [ ] Idea fully developed
-
+** Week Before Spark:
+- ** [ ] Idea fully developed
 - [ ] IPs identified on Flambette
 - [ ] Initial team assembled
 - [ ] Financial reserves ready
@@ -347,29 +321,31 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 ## Common Disqualifiers
 
 ### What Prevents Success
+** Avoid These Situations:
+1. **Insufficient Preparation**
+ Rushing to launch
 
-**Avoid These Situations:**
+- Incomplete planning
 
-1. **Insufficient Preparation** Rushing to launch
-   - Incomplete planning
-   - No team support
-   - Inadequate funding
+- No team support
+
+- Inadequate funding
 
 2. **Wrong Motivations**
-   
-- Quick profit focus
-   
+- ** Quick profit focus
 - Ego-driven decisions
-   - Closed mindset
-   - Scarcity thinking
+
+- Closed mindset
+
+- Scarcity thinking
 
 3. **Poor Timing**
-   
-- Major life transitions
-   
+- ** Major life transitions
 - Financial instability
-   - Health issues
-   - Relationship problems
+
+- Health issues
+
+- Relationship problems
 
 ## Success Indicators
 
@@ -378,10 +354,8 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 <div class="arena-card" markdown="1">
 
 <h3>✅ You're Ready When...</h3>
-
-**Strong Indicators:**
-- Previous startup experience
-
+** Strong Indicators:
+- ** Previous startup experience
 - Successful community building
 - Technical expertise
 - Financial stability
@@ -389,10 +363,8 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 - Clear vision
 - Proven execution
 - High resilience
-
-**Bonus Points:**
-- Web3 native
-
+** Bonus Points:
+- ** Web3 native
 - Public figure
 - Domain expert
 - Serial builder
@@ -403,18 +375,14 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 ## Getting Help
 
 ### Support Resources
-
-**Official Support:**
-- Founder readiness assessment
-
+** Official Support:
+- ** Founder readiness assessment
 - Mentor matching program
 - Legal resource library
 - Financial planning tools
 - Team building workshops
-
-**Community Support:**
-- Founder support groups
-
+** Community Support:
+- ** Founder support groups
 - Peer advisory boards
 - Skill exchanges
 - Resource sharing
@@ -424,12 +392,7 @@ Before entering the Arena as a Sender, ensure you meet all requirements. This is
 
 ### Moving Forward
 
-1. **Complete self-assessment** using this guide
-**2. **Address any gaps** in requirements
-**3. **Join pre-founder** communities
-**4. **Study successful** Sender journeys
-**5. **Prepare your** Spark concept
-Ready to create your venture? Continue to [Creating Your Spark](creating-spark.md)
+1. **Complete self-assessment** using this guide**2. **Address any gaps** in requirements**3. **Join pre-founder** communities**4. **Study successful** Sender journeys**5. **Prepare your** Spark concept**Ready to create your venture? Continue to [Creating Your Spark](creating-spark.md)
 
 ---
 

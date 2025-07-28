@@ -11,16 +11,16 @@
 
 This quickstart guide gives you the essential overview of Studio3 in just a few pages:
 
-**What Studio3 is** — *and why it's revolutionary*  
-**How the platform works** — *in simple terms*  
-**Key benefits** — *for all participants*  
-**How to get started** — *today*
+**What Studio3 is** —**and why it's revolutionary**  
+**How the platform works** —**in simple terms**  
+**Key benefits** —**for all participants**  
+**How to get started** —**today**
 
 <div class="arena-card" markdown="1">
 
 <h3>⏱️ Reading Time: 5 minutes</h3>
 
-Perfect for:
+**Perfect for:**
 
 - First-time visitors
 - Potential participants
@@ -36,10 +36,9 @@ After reading, you'll understand the core concepts and be ready to choose your r
 Imagine a world where:
 
 - **Great ideas** don't die from lack of resources
-- **Community wisdom** guides venture development
-- **Transparent progress** replaces closed-door decisions
-- **Everyone wins** when ventures succeed
-
+- **Community wisdom**  guides venture development
+- **Transparent progress**  replaces closed-door decisions
+- **Everyone wins**  when ventures succeed
 That's Studio3.
 
 ## 📖 Guide Contents
@@ -98,9 +97,10 @@ Your first steps into the Studio3 ecosystem.
 
 Before diving into detailed guides, this quickstart:
 
-- **Saves time** - Get the essence without the details
-- **Helps you decide** - Is Studio3 right for you?
-
+- **Saves time**
+- Get the essence without the details
+- **Helps you decide**
+- Is Studio3 right for you?
 ## 📥 Download Options
 
 <div class="arena-card" markdown="1">

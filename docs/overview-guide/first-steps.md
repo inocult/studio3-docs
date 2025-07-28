@@ -12,25 +12,19 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 <h3>🚀 Essential Setup</h3>
 
-**1. Create Your Account**
-
-- Connect wallet with $SIGNAL tokens
+1. Create Your Account
+- **Connect wallet with $SIGNAL tokens**
 
 - Set up profile with real information
 - Verify email for notifications
 - Enable two-factor authentication
-
-**2. Join the Community**
-
-- Discord server for real-time chat
+2. Join the Community
+- ** Discord server for real-time chat
 - Forum for deeper discussions
 - Follow official Twitter
 - Subscribe to newsletter
-
-**3. Explore the Platform**
-
-- Browse active Arenas
-
+3. Explore the Platform
+- ** Browse active Arenas
 - Read recent milestones
 - Check leaderboards
 - Review success stories
@@ -38,15 +32,13 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 </div>
 
 ### Day 2-3: Learn the Basics
-
-**Essential Reading:**
-- This Overview Guide (you're here!)
+** Essential Reading:
+- ** This Overview Guide (you're here!)
 - Platform Terms of Service
 - Community Code of Conduct
 - Your role-specific guide
-
-**Watch and Learn:**
-- Observe 5 active ventures
+** Watch and Learn:
+- ** Observe 5 active ventures
 - Read 10 milestone declarations
 - Study 5 validation reports
 - Note patterns of success
@@ -86,76 +78,73 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 #### Week 1: Foundation
 
 1. **Refine Your Idea**
-
-   
-- Write clear problem statement
-
-   
+- ** Write clear problem statement
 - Define target market
-   - Research existing solutions
-   - Identify unique value
+
+- Research existing solutions
+
+- Identify unique value
 
 2. **Study the Competition**
-   
-- Analyze successful ventures
-   
+- ** Analyze successful ventures
 - Understand failure patterns
-   - Note funding levels
-   - Learn from pivots
+
+- Note funding levels
+
+- Learn from pivots
 
 3. **Prepare Your Spark**
-   
-- Research remixable IPs
-   
+- ** Research remixable IPs
 - Plan combinations
-   - Draft initial pitch
-   - Gather feedback
+
+- Draft initial pitch
+
+- Gather feedback
 
 #### Week 2: Preparation
 
 1. **Build Your Network**
-   
-- Connect with potential Echoes
-   
+- ** Connect with potential Echoes
 - Identify helpful Anchors
-   - Join founder groups
-   - Find collaborators
+
+- Join founder groups
+
+- Find collaborators
 
 2. **Plan Your Milestones**
-   
-- Map 6-month journey
-   - Set realistic goals
-   - Budget resources
-   - Define success metrics
+- ** Map 6-month journey
+
+- Set realistic goals
+
+- Budget resources
+
+- Define success metrics
 
 3. **Practice Transparency**
-   
-- Start build journal
-   
+- ** Start build journal
 - Share daily updates
-   - Respond to questions
-   - Handle criticism well
+
+- Respond to questions
+
+- Handle criticism well
 
 #### Week 3-4: Launch Preparation
 
 <div class="arena-card" markdown="1">
 
 <h3>⚡ Pre-Launch Checklist</h3>
-
-**Technical Ready:**
-- [ ] Wallet funded with $SIGNAL
+** Technical Ready:
+- ** [ ] Wallet funded with $SIGNAL
 - [ ] Development environment set
 - [ ] Version control configured
 - [ ] Communication tools ready
-
-**Content Ready:**
-- [ ] Compelling venture story
+** Content Ready:
+- ** [ ] Compelling venture story
 - [ ] Clear milestone plan
 - [ ] Evidence templates
 - [ ] FAQ prepared
-
-**Mental Ready:**
-- [ ] Prepared for public scrutiny
+** Mental Ready:
+- ** [ ] Prepared for public scrutiny
 - [ ] Stress management plan
 - [ ] Support system in place
 - [ ] Failure contingencies
@@ -167,69 +156,67 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 #### Week 1: Learning
 
 1. **Understand Signaling**
-   
-- Read signal mechanics
-   
+- ** Read signal mechanics
 - Study reward calculations
-   - Learn burn scenarios
-   - Practice with paper trades
+
+- Learn burn scenarios
+
+- Practice with paper trades
 
 2. **Develop Analysis Framework**
-   
-- Create evaluation checklist
-   
+- ** Create evaluation checklist
 - Define risk parameters
-   - Set position sizing rules
-   - Plan portfolio balance
+
+- Set position sizing rules
+
+- Plan portfolio balance
 
 3. **Start Small**
-   
-- Make first 10 $SIGNAL signal
-   
+- ** Make first 10 $SIGNAL signal
 - Track reasoning publicly
-   - Learn from outcome
-   - Adjust strategy
+
+- Learn from outcome
+
+- Adjust strategy
 
 #### Week 2: Building Skills
 
 1. **Venture Analysis**
-   
-- Evaluate 10 ventures daily
-   
+- ** Evaluate 10 ventures daily
 - Write analysis notes
-   - Share insights publicly
-   - Get community feedback
+
+- Share insights publicly
+
+- Get community feedback
 
 2. **Risk Management**
-   
-- Set loss limits
-   
+- ** Set loss limits
 - Diversification rules
-   - Time allocation
-   - Emotional discipline
+
+- Time allocation
+
+- Emotional discipline
 
 3. **Community Engagement**
-   
-- Join Echo groups
-   
+- ** Join Echo groups
 - Share strategies
-   - Learn from losses
-   - Celebrate wins
+
+- Learn from losses
+
+- Celebrate wins
 
 #### Week 3-4: Scaling Up
 
 <div class="arena-card" markdown="1">
 
 <h3>📈 Progressive Scaling</h3>
-
-**Signal Sizing:**
-- Week 1: 10-50 $SIGNAL per signal
+** Signal Sizing:
+- ** Week 1: 10-50 $SIGNAL per signal
 - Week 2: 50-100 $SIGNAL per signal
 - Week 3: 100-500 $SIGNAL per signal
 - Week 4: Your comfort level
-
-**Portfolio Rules:**
-- Maximum 10% in one venture
+** Portfolio Rules:
+- ** Maximum 10% in one venture
 - Minimum 5 active positions
 - Balance belief/doubt signals
 - Reserve 30% for opportunities
@@ -241,70 +228,68 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 #### Week 1: Qualification
 
 1. **Application Process**
-   
-- Prepare experience portfolio
-   
+- ** Prepare experience portfolio
 - Document expertise areas
-   - Gather references
-   - Submit application
+
+- Gather references
+
+- Submit application
 
 2. **Study Standards**
-   
-- Read all guidelines
-   
+- ** Read all guidelines
 - Review past validations
-   - Understand quality metrics
-   - Note edge cases
+
+- Understand quality metrics
+
+- Note edge cases
 
 3. **Shadow Current Anchors**
-   
-- Observe validations
-   
+- ** Observe validations
 - Read detailed reports
-   - Note decision patterns
-   - Ask clarifying questions
+
+- Note decision patterns
+
+- Ask clarifying questions
 
 #### Week 2: Preparation
 
 1. **Develop Frameworks**
-   
-- Create validation checklists
-   
+- ** Create validation checklists
 - Build evidence templates
-   - Design feedback formats
-   - Plan time management
+
+- Design feedback formats
+
+- Plan time management
 
 2. **Practice Evaluations**
-   
-- Review historical milestones
-   
+- ** Review historical milestones
 - Write practice validations
-   - Get feedback from Council
-   - Refine approach
+
+- Get feedback from Council
+
+- Refine approach
 
 3. **Build Reputation**
-   
-- Contribute insights
-   
+- ** Contribute insights
 - Help in forums
-   - Share expertise
-   - Demonstrate fairness
+
+- Share expertise
+
+- Demonstrate fairness
 
 #### Week 3-4: First Validations
 
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ Validation Excellence</h3>
-
-**Quality Standards:**
-- Thorough evidence review
+** Quality Standards:
+- ** Thorough evidence review
 - Clear documentation
 - Constructive feedback
 - Timely completion
 - Fair judgment
-
-**Time Management:**
-- 2-4 hours per validation
+** Time Management:
+- ** 2-4 hours per validation
 - 24-48 hour turnaround
 - Batch similar reviews
 - Avoid rush decisions
@@ -316,19 +301,29 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ### Universal Pitfalls
 
 !!! danger "Avoid These Errors"
-    - **Information Overload** - Trying to learn everything at once
-    - **Premature Big Moves** - Going all-in too early
-    - **Ignoring Community** - Working in isolation
-    - **Emotional Decisions** - Reacting vs responding
-    - **Poor Time Management** - Overcommitting early
+
+- **Information Overload**
+- Trying to learn everything at once
+
+- **Premature Big Moves**
+- Going all-in too early
+
+- **Ignoring Community**
+- Working in isolation
+
+- **Emotional Decisions**
+- Reacting vs responding
+
+- **Poor Time Management**
+- Overcommitting early
 
 ### Role-Specific Warnings
 
 | Role | Common Mistake | Better Approach |
 |------|----------------|-----------------|
-| **Sender** | Over-promising on first milestone | Under-promise, over-deliver |
-| **Echo** | Betting entire stake on one venture | Diversify from day one |
-| **Anchor** | Being too harsh or too lenient | Find balanced middle ground |
+|**Sender** | Over-promising on first milestone | Under-promise, over-deliver |
+|**Echo** | Betting entire stake on one venture | Diversify from day one |
+|**Anchor** | Being too harsh or too lenient | Find balanced middle ground |
 
 ## 30-Day Success Metrics
 
@@ -408,27 +403,18 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 <div class="arena-card" markdown="1">
 
 <h3>⏰ Daily Success Habits</h3>
-
-**Morning (30-60 min)**
-
-- Check overnight activity
-
+**Morning (30-60 min)
+- ** Check overnight activity
 - Review notifications
 - Plan day's priorities
 - Update progress
-
-**Midday (60-90 min)**
-
-- Execute core activities
-
+**Midday (60-90 min)
+- ** Execute core activities
 - Engage with community
 - Research opportunities
 - Document learnings
-
-**Evening (30-60 min)**
-
-- Review day's results
-
+**Evening (30-60 min)
+- ** Review day's results
 - Respond to messages
 - Plan tomorrow
 - Reflect on progress
@@ -440,27 +426,31 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ### Essential Tools
 
 - **Wallet**: MetaMask or compatible
-- **Analytics**: Platform dashboard
-- **Communication**: Discord, Twitter
-- **Documentation**: Notion or similar
-- **Time Tracking**: Toggle or similar
+- **Analytics** : Platform dashboard
+- **Communication** : Discord, Twitter
+- **Documentation** : Notion or similar
+- **Time Tracking** : Toggle or similar
 ### Learning Resources
 
 - **Official Docs**: Always up-to-date
-- **Community Wiki**: Crowd-sourced wisdom
-- **Video Tutorials**: Visual learning
-- **Office Hours**: Live Q&A sessions
-- **Mentor Matching**: 1-on-1 guidance
+- **Community Wiki** : Crowd-sourced wisdom
+- **Video Tutorials** : Visual learning
+- **Office Hours** : Live Q&A sessions
+- **Mentor Matching** : 1-on-1 guidance
 ## Getting Unstuck
 
 ### When You Feel Overwhelmed
 
-1. **Pause and breathe** - It's a marathon, not sprint
-**2. **Return to basics** - Review fundamental concepts
-**3. **Ask for help** - Community is supportive
-**4. **Reduce scope** - Focus on fewer things
-**5. **Take breaks** - Prevent burnout
-### Finding Support
+- 1.** Pause and breathe
+- It's a marathon, not sprint
+2. **Return to basics**
+- Review fundamental concepts
+3. **Ask for help**
+- Community is supportive
+4. **Reduce scope**
+- Focus on fewer things
+5. **Take breaks**
+- Prevent burnout**### Finding Support
 
 <div class="grid">
 <div class="arena-card" markdown="1">
@@ -529,9 +519,6 @@ You'll know you've successfully completed your first steps when:
 
 Congratulations on taking your first steps! Continue your journey:
 
-1. **Dive deeper** into your role-specific guide
-**2. **Access resources** in [Resources & Support](resources.md)
-**3. **Execute daily** on your action plan
-**4. **Engage actively** with the community
-**5. **Track progress** and iterate
-Remember: Everyone started where you are now. Stay consistent, stay engaged, and trust the process. Your Studio3 journey has officially begun! 🚀
+1. **Dive deeper** into your role-specific guide**2. **Access resources** in [Resources & Support](resources.md)**3. **Execute daily** on your action plan**4. **Engage actively** with the community**5. **Track progress** and iterate
+
+**Remember:** Everyone started where you are now. Stay consistent, stay engaged, and trust the process. Your Studio3 journey has officially begun! 🚀

@@ -3,10 +3,7 @@
 ## Stabilizing Your Venture
 
 <div class="arena-card" markdown="1">
-**Phase**: Orbit 🛨  
-**Focus**: Operational Excellence  
-**Duration**: 6-12 months typical
-**</div>**
+**Phase**: Orbit 🛨  **Focus:** : Operational Excellence  Duration**: 6-12 months typical</div>
 
 ## Overview
 
@@ -49,10 +46,7 @@ Orbit represents stable operations with consistent delivery. Your venture has fo
 ## Maintaining Orbit
 
 ### Regular Cadence
-1. **Weekly**: Team syncs, metrics review
-**2. **Monthly**: Milestone declarations, Echo updates
-**3. **Quarterly**: Strategic planning, Anchor reviews
-### Risk Management
+1. **Weekly**: Team syncs, metrics review**2. **Monthly**: Milestone declarations, Echo updates**3. **Quarterly**: Strategic planning, Anchor reviews**### Risk Management
 - Monitor signal sentiment
 - Address concerns quickly
 - Maintain transparency

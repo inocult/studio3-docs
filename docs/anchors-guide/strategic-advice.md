@@ -18,25 +18,21 @@ Strategic advice is where Anchors provide their highest value - helping founders
 
 <h3>🧠 Thinking Like a Strategist</h3>
 
-**Strategic vs Tactical Thinking:**
-
-| Tactical | Strategic |
+**Strategic vs Tactical Thinking:| Tactical | Strategic |
 |----------|-----------|
 | How to build | What to build |
 | This week | Next year |
 | Features | Positioning |
 | Execution | Direction |
 | Trees | Forest |
-
-**Strategic Questions:**
-- Where is the market going?
+** Strategic Questions:
+- ** Where is the market going?
 - What's our unique advantage?
 - How do we win long-term?
 - What must we become?
 - When do we pivot/persist?
-
-**Strategic Perspective:**
-- Industry dynamics
+** Strategic Perspective:
+- ** Industry dynamics
 - Competitive forces
 - Technology trends
 - Regulatory environment
@@ -49,9 +45,7 @@ Strategic advice is where Anchors provide their highest value - helping founders
 <div class="arena-card" markdown="1">
 
 <h3>🔄 Understanding Interconnections</h3>
-
-**Systems Elements:**
-
+** Systems Elements:
 ```mermaid
 graph TD
     A[Market Forces] --> B[Venture Strategy]
@@ -64,25 +58,36 @@ graph TD
     G[Technology] --> B
     H[Regulation] --> A
 ```
-
-**Systems Analysis:**
+** Systems Analysis:
 1. **Identify Components**
-   - Internal elements
-   - External forces
-   - Relationships
-   - Feedback loops
+
+- Internal elements
+
+- External forces
+
+- Relationships
+
+- Feedback loops
 
 2. **Map Interactions**
-   - Cause and effect
-   - Time delays
-   - Amplifying loops
-   - Balancing forces
+
+- Cause and effect
+
+- Time delays
+
+- Amplifying loops
+
+- Balancing forces
 
 3. **Find Leverage Points**
-   - Maximum impact areas
-   - Intervention opportunities
-   - Unintended consequences
-   - System constraints
+
+- Maximum impact areas
+
+- Intervention opportunities
+
+- Unintended consequences
+
+- System constraints
 
 </div>
 
@@ -93,9 +98,7 @@ graph TD
 <div class="arena-card" markdown="1">
 
 <h3>📊 Understanding Market Dynamics</h3>
-
-**Market Assessment Framework:** TAM/SAM/SOM Analysis
-```
+**Market Assessment Framework:** TAM/SAM/SOM Analysis```
 TAM (Total Addressable Market)
 ├── SAM (Serviceable Addressable Market)
 │   └── SOM (Serviceable Obtainable Market)
@@ -103,14 +106,13 @@ TAM (Total Addressable Market)
 │           └── First 100 Customers
 ```
 
-**Market Dynamics:**
-- Growth rate
+** Market Dynamics:
+- ** Growth rate
 - Maturity stage
 - Disruption potential
 - Consolidation trends
 - Technology shifts
-
-**Strategic Questions:**
+** Strategic Questions:
 1. Is the market growing or shrinking?
 2. What forces drive change?
 3. Where is opportunity greatest?
@@ -124,33 +126,28 @@ TAM (Total Addressable Market)
 <div class="arena-card" markdown="1">
 
 <h3>⚔️ Winning in the Market</h3>
-
 **Porter's Five Forces Applied:** 1. Competitive Rivalry
-- Current competitors
+- ** Current competitors
 - Intensity factors
 - Differentiation opportunities
 - Exit barriers
-
-**2. Supplier Power**
-- Key dependencies
+2. Supplier Power
+- ** Key dependencies
 - Switching costs
 - Integration opportunities
 - Alternative sources
-
-**3. Buyer Power**
-- Customer concentration
+3. Buyer Power
+- ** Customer concentration
 - Price sensitivity
 - Switching costs
 - Bargaining leverage
-
-**4. Threat of Substitutes**
-- Alternative solutions
+4. Threat of Substitutes
+- ** Alternative solutions
 - Switching triggers
 - Performance comparison
 - Price-value equation
-
-**5. Threat of New Entrants**
-- Entry barriers
+5. Threat of New Entrants
+- ** Entry barriers
 - Capital requirements
 - Network effects
 - Regulatory moats
@@ -162,32 +159,42 @@ TAM (Total Addressable Market)
 <div class="arena-card" markdown="1">
 
 <h3>🎯 Finding Your Space</h3>
-
-**Positioning Framework:** Value Proposition Canvas:
+**Positioning Framework:**  Value Proposition Canvas:
 ```
 Customer Jobs → Products/Services
 Pain Points → Pain Relievers  
 Desired Gains → Gain Creators
 ```
-
-**Differentiation Strategies:**
+** Differentiation Strategies:
 1. **Cost Leadership**
-   - Operational efficiency
-   - Scale economics
-   - Process innovation
-   - Automation focus
+
+- Operational efficiency
+
+- Scale economics
+
+- Process innovation
+
+- Automation focus
 
 2. **Differentiation**
-   - Unique features
-   - Superior quality
-   - Brand strength
-   - Customer experience
+
+- Unique features
+
+- Superior quality
+
+- Brand strength
+
+- Customer experience
 
 3. **Focus/Niche**
-   - Segment specialization
-   - Geographic focus
-   - Use case expert
-   - Industry vertical
+
+- Segment specialization
+
+- Geographic focus
+
+- Use case expert
+
+- Industry vertical
 
 </div>
 
@@ -198,27 +205,23 @@ Desired Gains → Gain Creators
 <div class="arena-card" markdown="1">
 
 <h3>💰 Designing Sustainable Models</h3>
-
 **Revenue Model Options:** Transaction-Based
-- One-time purchase
+- ** One-time purchase
 - Pay-per-use
 - Commission/fees
 - Marketplace take
-
-**Recurring Revenue**
-- SaaS subscriptions
+**Recurring Revenue
+- ** SaaS subscriptions
 - Membership fees
 - Maintenance contracts
 - Platform access
-
-**Hybrid Models**
-- Freemium
+**Hybrid Models
+- ** Freemium
 - Land and expand
 - Platform + services
 - Hardware + software
-
-**Strategic Considerations:**
-- Customer lifetime value
+** Strategic Considerations:
+- ** Customer lifetime value
 - Acquisition costs
 - Churn implications
 - Growth dynamics
@@ -231,9 +234,7 @@ Desired Gains → Gain Creators
 <div class="arena-card" markdown="1">
 
 <h3>📈 Building Profitable Growth</h3>
-
-**Unit Economic Framework:**
-
+** Unit Economic Framework:
 ```
 LTV (Lifetime Value) = ARPU × Gross Margin × Customer Lifetime
 CAC (Customer Acquisition Cost) = Marketing + Sales / New Customers
@@ -241,25 +242,36 @@ CAC (Customer Acquisition Cost) = Marketing + Sales / New Customers
 Target: LTV/CAC > 3:1
 Payback Period < 12 months
 ```
-
-**Optimization Strategies:**
+** Optimization Strategies:
 1. **Increase LTV**
-   - Improve retention
-   - Upsell/cross-sell
-   - Price optimization
-   - Value enhancement
+
+- Improve retention
+- Upsell/cross
+- sell
+
+- Price optimization
+
+- Value enhancement
 
 2. **Reduce CAC**
-   - Channel efficiency
-   - Referral programs
-   - Content marketing
-   - Product virality
+
+- Channel efficiency
+
+- Referral programs
+
+- Content marketing
+
+- Product virality
 
 3. **Improve Margins**
-   - Cost reduction
-   - Pricing power
-   - Operational efficiency
-   - Automation
+
+- Cost reduction
+
+- Pricing power
+
+- Operational efficiency
+
+- Automation
 
 </div>
 
@@ -270,27 +282,23 @@ Payback Period < 12 months
 <div class="arena-card" markdown="1">
 
 <h3>🚀 Scaling Strategically</h3>
-
 **Growth Stages:** Stage 1: Product-Market Fit
-- Problem validation
+- ** Problem validation
 - Solution refinement
 - Early adopters
 - Retention focus
-
-**Stage 2: Growth Traction**
-- Channel discovery
+**Stage 2: Growth Traction
+- ** Channel discovery
 - Scaling experiments
 - Team building
 - Process creation
-
-**Stage 3: Scaling**
-- Channel optimization
+**Stage 3: Scaling
+- ** Channel optimization
 - Market expansion
 - Competitive defense
 - Culture preservation
-
-**Stage 4: Market Leadership**
-- Category creation
+**Stage 4: Market Leadership
+- ** Category creation
 - Ecosystem building
 - M&A opportunities
 - International expansion
@@ -302,18 +310,14 @@ Payback Period < 12 months
 <div class="arena-card" markdown="1">
 
 <h3>📢 Distribution Excellence</h3>
-
-**Channel Assessment Matrix:**
-
-| Channel | CAC | Scale Potential | Control | Fit |
+**Channel Assessment Matrix:| Channel | CAC | Scale Potential | Control | Fit |
 |---------|-----|----------------|---------|-----|
 | Direct Sales | High | Medium | High | B2B |
 | Content/SEO | Low | High | High | Long-term |
 | Paid Ads | Medium | High | Medium | B2C |
 | Partnerships | Low | High | Low | Varies |
 | Community | Low | Medium | High | Engaged |
-
-**Channel Strategy Questions:**
+** Channel Strategy Questions:
 1. Where are our customers?
 2. What channels scale?
 3. How do channels interact?
@@ -329,26 +333,22 @@ Payback Period < 12 months
 <div class="arena-card" markdown="1">
 
 <h3>💡 Staying Ahead</h3>
-
 **Innovation Horizons:** Horizon 1: Core (70%)
-- Current business
+- ** Current business
 - Incremental improvement
 - Optimization focus
 - Near-term returns
-
-**Horizon 2: Emerging (20%)**
-- Adjacent opportunities
+**Horizon 2: Emerging (20%)
+- ** Adjacent opportunities
 - New segments
 - Channel expansion
 - Medium-term bets
-
-**Horizon 3: Transformational (10%)**
-- Breakthrough innovation
+**Horizon 3: Transformational (10%)
+- ** Breakthrough innovation
 - New business models
 - Long-term bets
 - Future options
-
-**Innovation Process:**
+** Innovation Process:
 1. Continuous scanning
 2. Rapid experimentation
 3. Fail fast learning
@@ -362,30 +362,28 @@ Payback Period < 12 months
 <div class="arena-card" markdown="1">
 
 <h3>🔧 Technical Strategic Decisions</h3>
-
-**Technology Choices:** Build vs Buy vs Partner
-```
-Build When:
+**Technology Choices:** Build vs Buy vs Partner```
+** Build When:
 - Core differentiator
 - No good solutions
 - Control critical
 - IP valuable
 
-Buy When:
+** Buy When:
 - Commodity function
 - Time critical
 - Cost effective
 - Support available
 
-Partner When:
+** Partner When:
 - Complementary skills
 - Market access
 - Risk sharing
 - Speed needed
 ```
 
-**Technical Debt Management:**
-- Strategic debt (conscious)
+** Technical Debt Management:
+- ** Strategic debt (conscious)
 - Accidental debt (fix)
 - Payback planning
 - Refactoring rhythm
@@ -399,27 +397,23 @@ Partner When:
 <div class="arena-card" markdown="1">
 
 <h3>👥 Building for Scale</h3>
-
 **Organizational Evolution:** Founder-Led (1-10)
-- Flat structure
+- ** Flat structure
 - Direct communication
 - Rapid decisions
 - Culture by example
-
-**Team-Based (10-50)**
-- Functional teams
+**Team-Based (10-50)
+- ** Functional teams
 - Clear roles
 - Process emergence
 - Culture codification
-
-**Scaled Organization (50+)**
-- Hierarchical elements
+**Scaled Organization (50+)
+- ** Hierarchical elements
 - Specialized functions
 - Formal processes
 - Culture programs
-
-**Strategic Considerations:**
-- Communication paths
+** Strategic Considerations:
+- ** Communication paths
 - Decision velocity
 - Innovation capacity
 - Cultural preservation
@@ -431,26 +425,22 @@ Partner When:
 <div class="arena-card" markdown="1">
 
 <h3>🌟 Winning the Talent War</h3>
-
-**Talent Acquisition:**
-- Employer brand
+** Talent Acquisition:
+- ** Employer brand
 - Sourcing strategy
 - Assessment process
 - Onboarding excellence
-
-**Talent Development:**
-- Skill mapping
+** Talent Development:
+- ** Skill mapping
 - Growth paths
 - Mentorship programs
 - Leadership pipeline
-
-**Talent Retention:**
-- Compensation philosophy
+** Talent Retention:
+- ** Compensation philosophy
 - Equity strategy
 - Culture investment
 - Career development
-
-**Strategic Questions:**
+** Strategic Questions:
 1. What talent do we need when?
 2. Build, buy, or borrow?
 3. How to compete for talent?
@@ -466,32 +456,27 @@ Partner When:
 <div class="arena-card" markdown="1">
 
 <h3>💵 Capital Planning</h3>
-
 **Funding Options Analysis:** Bootstrapping
-- Full control
+- ** Full control
 - Slow growth
 - Customer funded
 - Sustainable focus
-
-**Angel/Seed**
-- Validation capital
+**Angel/Seed
+- ** Validation capital
 - Smart money value
 - Network access
 - Flexibility retained
-
-**Venture Capital**
-- Growth acceleration
+**Venture Capital
+- ** Growth acceleration
 - Expertise access
 - Pressure increase
 - Control dilution
-
-**Alternative Funding**
-- Revenue financing
+**Alternative Funding
+- ** Revenue financing
 - Crowdfunding
 - Grants/competitions
 - Strategic partners
-
-**Strategic Framework:**
+** Strategic Framework:
 1. How much do we need?
 2. What will we achieve?
 3. What are we trading?
@@ -505,33 +490,28 @@ Partner When:
 <div class="arena-card" markdown="1">
 
 <h3>🎯 Planning the Endgame</h3>
-
 **Exit Options:** Acquisition
-- Strategic buyers
+- ** Strategic buyers
 - Financial buyers
 - Competitor consolidation
 - Customer acquisition
-
-**IPO**
-- Public markets
+**IPO
+- ** Public markets
 - Liquidity event
 - Continued independence
 - Regulatory burden
-
-**Secondary Sale**
-- Founder liquidity
+**Secondary Sale
+- ** Founder liquidity
 - Investor returns
 - Continued operation
 - New growth capital
-
-**Studio3 Ascension**
-- Full independence
+**Studio3 Ascension
+- ** Full independence
 - Token mechanics
 - Community ownership
 - Ecosystem value
-
-**Exit Preparation:**
-- Clean financials
+** Exit Preparation:
+- ** Clean financials
 - Scalable operations
 - Strong management
 - Growth trajectory
@@ -546,26 +526,22 @@ Partner When:
 <div class="arena-card" markdown="1">
 
 <h3>⚠️ Strategic Risk Management</h3>
-
 **Risk Categories:** Market Risks
-- Demand disappearance
+- ** Demand disappearance
 - Competition intensity
 - Technology disruption
 - Economic downturn
-
-**Execution Risks**
-- Team capability
+**Execution Risks
+- ** Team capability
 - Technical complexity
 - Operational scaling
 - Financial management
-
-**External Risks**
-- Regulatory changes
+**External Risks
+- ** Regulatory changes
 - Platform dependencies
 - Supplier concentration
 - Geopolitical factors
-
-**Risk Mitigation:**
+** Risk Mitigation:
 1. Identify systematically
 2. Assess probability/impact
 3. Develop contingencies
@@ -581,23 +557,20 @@ Partner When:
 <div class="arena-card" markdown="1">
 
 <h3>📊 Strategic Alignment</h3>
-
 **Communication Framework:** Strategic Updates
-- Market dynamics
+- ** Market dynamics
 - Competitive position
 - Progress metrics
 - Strategic pivots
 - Resource needs
-
-**Decision Frameworks**
-- Options analysis
+**Decision Frameworks
+- ** Options analysis
 - Recommendation rationale
 - Risk assessment
 - Resource implications
 - Success metrics
-
-**Stakeholder Alignment:**
-- Vision consistency
+** Stakeholder Alignment:
+- ** Vision consistency
 - Strategy understanding
 - Expectation management
 - Conflict resolution
@@ -612,13 +585,16 @@ Partner When:
 <div class="arena-card" markdown="1">
 
 <h3>🛠️ Strategic Toolbox</h3>
-
-**Essential Frameworks:**
-1. **SWOT Analysis**: 2. Value Chain Analysis**
-3. **BCG Matrix**: 4. Ansoff Matrix**
-5. **Blue Ocean Strategy**: 6. Jobs-to-be-Done**
-7. **OKR Planning** When to Use Each:
-- SWOT: Initial assessment
+** Essential Frameworks:
+1. **SWOT Analysis**
+: 2. Value Chain Analysis
+3. **BCG Matrix**
+: 4. Ansoff Matrix
+5. **Blue Ocean Strategy**
+: 6. Jobs-to-be-Done
+7. **OKR Planning**
+ When to Use Each:**
+- ** SWOT: Initial assessment
 - Value Chain: Efficiency
 - BCG: Portfolio decisions
 - Ansoff: Growth options

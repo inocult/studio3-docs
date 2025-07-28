@@ -18,22 +18,20 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 
 <h3>🏆 Proven Track Record</h3>
 
-**Mandatory Experience:** Venture Building:
-- Minimum 5 years building startups/projects
+**Mandatory Experience:**  Venture Building:
+- ** Minimum 5 years building startups/projects
 - At least 1 successful exit (any ecosystem)
 - Demonstrated product development
 - Team leadership experience
 - Market validation expertise
-
-**Domain Expertise:**
-- Deep knowledge in 1+ sectors
+** Domain Expertise:
+- ** Deep knowledge in 1+ sectors
 - Technical or business specialization
 - Current industry involvement
 - Network connections
 - Thought leadership evidence
-
-**Validation Experience:**
-- Due diligence background
+** Validation Experience:
+- ** Due diligence background
 - Quality assessment skills
 - Objective decision-making
 - Documentation habits
@@ -46,10 +44,9 @@ Becoming an Anchor requires a unique combination of experience, expertise, and c
 <div class="arena-card" markdown="1">
 
 <h3>💻 Required Skills</h3>
-
-**Technical Assessment Ability:**
+** Technical Assessment Ability:
 ```
-Core Competencies:
+** Core Competencies:
 □ Code review capability
 □ Architecture evaluation
 □ Security assessment
@@ -58,18 +55,16 @@ Core Competencies:
 □ Integration understanding
 □ Best practices knowledge
 ```
-
-**Business Assessment Skills:**
-- Market analysis
+** Business Assessment Skills:
+- ** Market analysis
 - Financial modeling
 - Unit economics
 - Growth strategies
 - Competitive positioning
 - Risk assessment
 - Exit planning
-
-**Soft Skills:**
-- Written communication
+** Soft Skills:
+- ** Written communication
 - Verbal articulation
 - Active listening
 - Conflict resolution
@@ -84,30 +79,26 @@ Core Competencies:
 <div class="arena-card" markdown="1">
 
 <h3>⭐ Personal Qualities</h3>
-
-**Essential Character Traits:** Integrity:
-- Unquestionable ethics
+**Essential Character Traits:**  Integrity:
+- ** Unquestionable ethics
 - Consistent honesty
 - Transparent dealings
 - Promise keeping
 - Accountability ownership
-
-**Objectivity:**
-- Bias recognition
+** Objectivity:
+- ** Bias recognition
 - Fair assessment
 - Evidence focus
 - Emotional control
 - Balanced perspective
-
-**Service Mindset:**
-- Ecosystem first
+** Service Mindset:
+- ** Ecosystem first
 - Founder support
 - Community building
 - Knowledge sharing
 - Long-term thinking
-
-**Resilience:**
-- Stress management
+** Resilience:
+- ** Stress management
 - Difficult decisions
 - Criticism handling
 - Failure acceptance
@@ -122,23 +113,20 @@ Core Competencies:
 <div class="arena-card" markdown="1">
 
 <h3>💰 Economic Commitment</h3>
-
-**Minimum Stake:**
-- 50,000 $SIGNAL tokens
+** Minimum Stake:
+- ** 50,000 $SIGNAL tokens
 - Locked for 12 months minimum
 - Slashing risk acceptance
 - Alignment demonstration
 - Skin in the game
-
-**Stake Purpose:**
-- Alignment incentive
+** Stake Purpose:
+- ** Alignment incentive
 - Quality insurance
 - Commitment proof
 - Bad behavior deterrent
 - Ecosystem investment
-
-**Slashing Conditions:**
-- Malicious validation: -50%
+** Slashing Conditions:
+- ** Malicious validation: -50%
 - Gross negligence: -25%
 - Repeated failures: -10%
 - Ethics violations: -100%
@@ -151,16 +139,14 @@ Core Competencies:
 <div class="arena-card" markdown="1">
 
 <h3>🏦 Economic Readiness</h3>
-
-**Personal Financial Health:**
-- Not dependent on Anchor income
+** Personal Financial Health:
+- ** Not dependent on Anchor income
 - 6+ months emergency fund
 - No desperate decisions
 - Long-term perspective
 - Sustainable commitment
-
-**Time Investment Value:**
-- 15-25 hours weekly
+** Time Investment Value:
+- ** 15-25 hours weekly
 - Opportunity cost considered
 - Other income sources
 - Balanced portfolio
@@ -175,8 +161,7 @@ Core Competencies:
 <div class="arena-card" markdown="1">
 
 <h3>⏰ Time Commitment</h3>
-
-**Weekly Minimums:**
+** Weekly Minimums:
 ```
 Regular Weeks: 15-20 hours
 - Validations: 5-8 hours
@@ -191,9 +176,8 @@ Peak Periods: 25-30 hours
 - Dispute resolution
 - Major pivots
 ```
-
-**Response Times:**
-- Initial response: 24 hours
+** Response Times:
+- ** Initial response: 24 hours
 - Validation decision: 5 days
 - Emergency response: 4 hours
 - Meeting scheduling: 48 hours
@@ -206,16 +190,14 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>📅 Duration Expectations</h3>
-
-**Minimum Commitment:**
-- 12 months initial term
+** Minimum Commitment:
+- ** 12 months initial term
 - 6 months notice period
 - Venture completion honor
 - Knowledge transfer duty
 - Relationship maintenance
-
-**Ideal Commitment:**
-- 3-5 year vision
+** Ideal Commitment:
+- ** 3-5 year vision
 - Career integration
 - Ecosystem building
 - Legacy creation
@@ -230,34 +212,41 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>📝 Application Journey</h3>
-
-**Phase 1: Initial Application**
+**Phase 1: Initial Application
 ```
 1. Complete online form
-2. Submit credentials:
-   - Professional history
-   - Exit documentation
-   - Reference contacts
-   - Portfolio examples
-   - Stake proof
+** 2. Submit credentials:
 
-3. Essay questions:
-   - Why become an Anchor?
-   - Validation philosophy
-   - Conflict scenarios
-   - Time availability
-   - Long-term vision
+- Professional history
+
+- Exit documentation
+
+- Reference contacts
+
+- Portfolio examples
+
+- Stake proof
+
+** 3. Essay questions:
+
+- Why become an Anchor?
+
+- Validation philosophy
+
+- Conflict scenarios
+
+- Time availability
+- Long
+- term vision
 ```
-
-**Phase 2: Assessment**
-- Technical evaluation
+**Phase 2: Assessment
+- ** Technical evaluation
 - Case study analysis
 - Behavioral interview
 - Reference checks
 - Community feedback
-
-**Phase 3: Trial Period**
-- Shadow senior Anchor
+**Phase 3: Trial Period
+- ** Shadow senior Anchor
 - Practice validations
 - Receive feedback
 - Demonstrate competence
@@ -270,19 +259,15 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>📊 Evaluation Framework</h3>
-
-**Scoring Matrix:**
-
-| Category | Weight | Minimum Score |
+**Scoring Matrix:| Category | Weight | Minimum Score |
 |----------|--------|---------------|
 | Experience | 30% | 80/100 |
 | Technical Skills | 25% | 75/100 |
 | Communication | 20% | 85/100 |
 | Character | 15% | 90/100 |
 | Commitment | 10% | 85/100 |
-
-**Total Required: 82/100** Assessment Methods:
-- Portfolio review
+**Total Required: 82/100**  Assessment Methods:
+- ** Portfolio review
 - Technical tests
 - Case simulations
 - Reference verification
@@ -297,32 +282,46 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>🎯 Qualification Path</h3>
-
-**If Lacking Experience:**
+** If Lacking Experience:
 1. **Build More**
-   - Launch projects
-   - Join ventures
-   - Gain expertise
-   - Document journey
+
+- Launch projects
+
+- Join ventures
+
+- Gain expertise
+
+- Document journey
 
 2. **Alternative Paths**
-   - Angel investing
-   - Advisor roles
-   - Accelerator mentor
-   - Technical consulting
 
-**If Lacking Skills:**
+- Angel investing
+
+- Advisor roles
+
+- Accelerator mentor
+
+- Technical consulting
+** If Lacking Skills:
 1. **Technical Development**
-   - Online courses
-   - Certifications
-   - Open source
-   - Hackathons
+
+- Online courses
+
+- Certifications
+
+- Open source
+
+- Hackathons
 
 2. **Business Development**
-   - MBA programs
-   - Strategy courses
-   - Finance training
-   - Market analysis
+
+- MBA programs
+
+- Strategy courses
+
+- Finance training
+
+- Market analysis
 
 </div>
 
@@ -331,23 +330,20 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>✨ Standing Out</h3>
-
-**Differentiation Strategies:** Unique Value Proposition:
-- Specialized expertise
+**Differentiation Strategies:**  Unique Value Proposition:
+- ** Specialized expertise
 - Rare combinations
 - Notable achievements
 - Strong network
 - Innovation history
-
-**Evidence Quality:**
-- Quantified results
+** Evidence Quality:
+- ** Quantified results
 - Third-party validation
 - Public recognition
 - Testimonials
 - Media coverage
-
-**Presentation Excellence:**
-- Clear narrative
+** Presentation Excellence:
+- ** Clear narrative
 - Professional materials
 - Compelling vision
 - Authentic voice
@@ -362,23 +358,20 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>❌ Automatic Disqualifiers</h3>
-
-**Behavioral Issues:**
-- Ethics violations
+** Behavioral Issues:
+- ** Ethics violations
 - Legal problems
 - Toxic behavior
 - Discrimination history
 - Trust breaches
-
-**Professional Gaps:**
-- No real experience
+** Professional Gaps:
+- ** No real experience
 - Failed ventures only
 - Poor references
 - Skill deficiencies
 - Time unavailability
-
-**Attitude Problems:**
-- Ego issues
+** Attitude Problems:
+- ** Ego issues
 - Know-it-all mindset
 - Inflexibility
 - Poor listening
@@ -391,16 +384,14 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>🤔 Special Considerations</h3>
-
-**Exceptional Candidates:**
-- Outstanding expertise
+** Exceptional Candidates:
+- ** Outstanding expertise
 - Unique perspectives
 - High potential
 - Strong endorsements
 - Alternative experience
-
-**Conditional Acceptance:**
-- Extended trial period
+** Conditional Acceptance:
+- ** Extended trial period
 - Additional training
 - Mentor partnership
 - Limited scope
@@ -415,16 +406,14 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>📈 Continuous Standards</h3>
-
-**Annual Requirements:**
-- Performance review pass
+** Annual Requirements:
+- ** Performance review pass
 - Continued education (20 hours)
 - Community contribution
 - Stake maintenance
 - Ethics compliance
-
-**Skill Maintenance:**
-- Industry awareness
+** Skill Maintenance:
+- ** Industry awareness
 - Technology updates
 - Methodology evolution
 - Network growth
@@ -437,23 +426,20 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>🚀 Growing as Anchor</h3>
-
-**Level Progression Requirements:** Junior → Anchor:
-- 6 months experience
+**Level Progression Requirements:**  Junior → Anchor:
+- ** 6 months experience
 - 10+ validations
 - 90% satisfaction
 - No major issues
 - Peer endorsement
-
-**Anchor → Senior:**
-- 18 months experience
+** Anchor → Senior:
+- ** 18 months experience
 - 50+ validations
 - Mentor juniors
 - Process improvements
 - Thought leadership
-
-**Senior → Master:**
-- 3+ years experience
+** Senior → Master:
+- ** 3+ years experience
 - 100+ validations
 - Major contributions
 - Industry recognition
@@ -468,16 +454,14 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>🤝 Onboarding Excellence</h3>
-
-**Support Provided:**
-- Comprehensive orientation
+** Support Provided:
+- ** Comprehensive orientation
 - Mentor assignment
 - Resource library
 - Peer community
 - Regular check-ins
-
-**Training Program:**
-- Week 1: Platform & processes
+** Training Program:
+- ** Week 1: Platform & processes
 - Week 2: Validation practice
 - Week 3: Communication skills
 - Week 4: Live shadowing
@@ -492,21 +476,16 @@ Peak Periods: 25-30 hours
 <div class="arena-card" markdown="1">
 
 <h3>❓ Frequently Asked</h3>
-
-**Q: Can I apply without an exit?**
-A: Exceptional candidates with deep expertise and strong references may be considered.
-
-**Q: Is the time commitment flexible?**
-A: Core hours are flexible, but availability for ventures is non-negotiable.
-
-**Q: Can I specialize in one phase?**
-A: Yes, after demonstrating general competence.
-
-**Q: What if I fail the assessment?**
-A: Reapply after 6 months with improvements.
-
-**Q: Is international participation okay?**
-A: Yes, if you can meet time zone needs.
+**Q: Can I apply without an exit?
+**A: Exceptional candidates with deep expertise and strong references may be considered.
+**Q: Is the time commitment flexible?
+**A: Core hours are flexible, but availability for ventures is non-negotiable.
+**Q: Can I specialize in one phase?
+**A: Yes, after demonstrating general competence.
+**Q: What if I fail the assessment?
+**A: Reapply after 6 months with improvements.
+**Q: Is international participation okay?
+**A: Yes, if you can meet time zone needs.
 
 </div>
 

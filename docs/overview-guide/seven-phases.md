@@ -31,12 +31,12 @@ graph LR
 | Phase | Duration | Goal | Success Rate |
 |-------|----------|------|-------------|
 | **Spark** | 1-2 weeks | Validate idea & gather initial support | 60% |
-| **Forge** | 3-5 days | Select committed founder | 100%* |
-| **Ignition** | 2-4 weeks | Form team & create MVP | 75% |
-| **Drift** | 2-6 months | Find product-market fit | 40% |
-| **Orbit** | 6-12 months | Achieve sustainable operations | 65% |
-| **Flare** | 6-18 months | Scale with capital | 80% |
-| **Ascension** | 1-2 months | Graduate to sovereignty | 95% |
+|**Forge** | 3-5 days | Select committed founder | 100%** |
+|**Ignition** | 2-4 weeks | Form team & create MVP | 75% |
+|**Drift** | 2-6 months | Find product-market fit | 40% |
+|**Orbit** | 6-12 months | Achieve sustainable operations | 65% |
+|**Flare** | 6-18 months | Scale with capital | 80% |
+|**Ascension** | 1-2 months | Graduate to sovereignty | 95% |
 
 *Someone always wins the Forge
 
@@ -50,14 +50,13 @@ graph LR
 Transform a remixed IP concept into a validated venture idea with initial community support.
 
 **Key Activities:**
-- Create Spark NFT from Flambette marketplace
+- ** Create Spark NFT from Flambette marketplace
 - Enter idea into Spark Arena
 - Gather initial belief signals
 - Refine concept based on feedback
 - Build initial supporter base
-
-**Success Criteria:**
-- Minimum 100 $SIGNAL in belief
+** Success Criteria:
+- ** Minimum 100 $SIGNAL in belief
 - At least 10 unique supporters
 - Clear problem-solution fit
 - Feasible execution plan
@@ -71,11 +70,14 @@ Transform a remixed IP concept into a validated venture idea with initial commun
 
 ### Common Pitfalls
 
-- **Vague Concepts** - Be specific about what you're building
-- **Ignoring Feedback** - Community wisdom is valuable
-- **Overselling** - Unrealistic promises backfire
-- **Poor Timing** - Market readiness matters
-
+- **Vague Concepts**
+- Be specific about what you're building
+- **Ignoring Feedback**
+- Community wisdom is valuable
+- **Overselling**
+- Unrealistic promises backfire
+- **Poor Timing**
+- Market readiness matters
 ## Phase 2: Forge ⚔️
 
 ### The Battle for Leadership
@@ -84,15 +86,14 @@ Transform a remixed IP concept into a validated venture idea with initial commun
 
 <h3>🏆 Objective</h3>
 Determine the most capable founder through competitive dueling.
-
-**Duel Format:**
-- **Entry Stakes**: 1,000 $SIGNAL minimum
-- **Preparation**: 72 hours to prepare pitch
-- **Presentation**: Live pitch to community
-- **Voting**: Token-weighted community decision
-- **Winner Takes All**: Signal NFT + leadership rights
-**Evaluation Criteria:**
-- Vision clarity and ambition
+** Duel Format:
+- **Entry Stakes** : 1,000 $SIGNAL minimum
+- **Preparation** : 72 hours to prepare pitch
+- **Presentation** : Live pitch to community
+- **Voting** : Token-weighted community decision
+- **Winner Takes All** : Signal NFT + leadership rights
+** Evaluation Criteria:
+- ** Vision clarity and ambition
 - Technical capability
 - Leadership experience
 - Community engagement
@@ -103,12 +104,16 @@ Determine the most capable founder through competitive dueling.
 ### Forge Strategies
 
 !!! tip "Winning the Forge"
-    1. **Demonstrate Expertise** - Show deep domain knowledge
-**    2. **Rally Support** - Build coalitions before the duel
-**    3. **Present Clear Plan** - Specific milestones win votes
-**    4. **Show Commitment** - Stake significant tokens
-**    5. **Engage Actively** - Answer all questions thoroughly
-## Phase 3: Ignition 🚀
+    1. **Demonstrate Expertise**  - Show deep domain knowledge
+1. 
+2. **Rally Support**  - Build coalitions before the duel
+2. 
+- 3.** Present Clear Plan
+- Specific milestones win votes**
+- **    4.**  Show Commitment
+- Stake significant tokens
+- **    5.** Engage Actively
+- Answer all questions thoroughly**## Phase 3: Ignition 🚀
 
 ### Building the Foundation
 
@@ -117,16 +122,16 @@ Determine the most capable founder through competitive dueling.
 <h3>🔨 Objective</h3>
 Form Container DAO, assemble team, and deliver initial MVP.
 
-**Critical Tasks:**
-- Create Container DAO structure
+** Critical Tasks:
+- ** Create Container DAO structure
 - Mint Halo NFT (locked)
 - Recruit 2-4 team members
 - Define technical architecture
 - Build and launch MVP
 - Secure initial users/testers
-
-**Milestones:** 1. DAO formation complete
-**2. Core team assembled**
+**Milestones:**   1. DAO formation complete
+- 
+2. Core team assembled**
 3. Technical spec approved
 4. MVP launched
 5. First users onboarded
@@ -149,9 +154,9 @@ graph TD
 | Resource | Ignition Allocation | Purpose |
 |----------|--------------------|---------|
 | **Development** | 40% | MVP creation |
-| **Team Building** | 30% | Recruitment & onboarding |
-| **Marketing** | 20% | Initial awareness |
-| **Operations** | 10% | Legal, admin, tools |
+|**Team Building** | 30% | Recruitment & onboarding |
+|**Marketing** | 20% | Initial awareness |
+|**Operations** | 10% | Legal, admin, tools |
 
 ## Phase 4: Drift 🌊
 
@@ -161,16 +166,14 @@ graph TD
 
 <h3>🎯 Objective</h3>
 Iterate rapidly to find product-market fit through community feedback.
-
-**Key Characteristics:**
-- High experimentation rate
+** Key Characteristics:
+- ** High experimentation rate
 - Rapid pivots allowed
 - Constant user feedback
 - Flexible milestone adjustments
 - Community-guided development
-
-**Success Indicators:**
-- User retention > 40%
+** Success Indicators:
+- ** User retention > 40%
 - Organic growth starting
 - Clear use case emerging
 - Positive unit economics
@@ -184,8 +187,7 @@ Iterate rapidly to find product-market fit through community feedback.
     This phase has the highest failure rate. Success requires:
 
 - **Humility** to accept when things aren't working
-- **Speed** to iterate faster than resources deplete
-
+- **Speed**  to iterate faster than resources deplete
     * **Focus** to avoid feature creep
 
     * **Communication** to maintain supporter confidence
@@ -194,12 +196,16 @@ Iterate rapidly to find product-market fit through community feedback.
 
 When pivoting during Drift:
 
-1. **Announce Early** - Don't surprise supporters
-**2. **Explain Reasoning** - Data-driven decisions
-**3. **Maintain Vision** - Core mission stays consistent
-**4. **Reset Milestones** - New direction, new goals
-**5. **Re-engage Community** - Rebuild confidence
-## Phase 5: Orbit 🛸
+- 1.** Announce Early
+- Don't surprise supporters
+2. **Explain Reasoning**
+- Data-driven decisions
+3. **Maintain Vision**
+- Core mission stays consistent
+4. **Reset Milestones**
+- New direction, new goals
+5. **Re-engage Community**
+- Rebuild confidence**## Phase 5: Orbit 🛸
 
 ### Achieving Stability
 
@@ -208,15 +214,14 @@ When pivoting during Drift:
 <h3>🎯 Objective</h3>
 Establish sustainable operations with consistent growth and reliable delivery.
 
-**Orbit Characteristics:**
-- Predictable revenue/usage
+** Orbit Characteristics:
+- ** Predictable revenue/usage
 - Stable team operations
 - Consistent milestone achievement
 - Growing community confidence
 - Clear scaling path
-
-**Key Metrics:**
-- MRR/MAU growth: 10%+ monthly
+** Key Metrics:
+- ** MRR/MAU growth: 10%+ monthly
 - Milestone success rate: 80%+
 - Team retention: 90%+
 - User satisfaction: 4.5/5+
@@ -239,10 +244,10 @@ graph LR
 
 | Milestone Type | Frequency | Typical Goals |
 |----------------|-----------|---------------|
-| **Product** | Monthly | Feature releases, improvements |
-| **Growth** | Bi-weekly | User acquisition, retention |
-| **Revenue** | Monthly | MRR targets, unit economics |
-| **Team** | Quarterly | Hiring, culture, processes |
+|**Product** | Monthly | Feature releases, improvements |
+|**Growth** | Bi-weekly | User acquisition, retention |
+|**Revenue** | Monthly | MRR targets, unit economics |
+|**Team** | Quarterly | Hiring, culture, processes |
 
 ## Phase 6: Flare 🔥
 
@@ -252,16 +257,14 @@ graph LR
 
 <h3>🚀 Objective</h3>
 Scale rapidly with external capital and aggressive expansion.
-
-**Flare Characteristics:**
-- External funding rounds
+** Flare Characteristics:
+- ** External funding rounds
 - Aggressive hiring
 - Market expansion
 - Product scaling
 - Brand building
-
-**Capital Sources:**
-- Traditional VCs (now interested)
+** Capital Sources:
+- ** Traditional VCs (now interested)
 - Strategic partners
 - Revenue-based financing
 - Token sales (if applicable)
@@ -272,12 +275,16 @@ Scale rapidly with external capital and aggressive expansion.
 ### Scaling Strategies
 
 !!! success "Flare Playbook"
-    1. **Prove Unit Economics** - Show profitable growth potential
-**    2. **Build Investor Pipeline** - Leverage Studio3 network
-**    3. **Maintain Transparency** - Keep community informed
-**    4. **Execute Flawlessly** - High stakes, high scrutiny
-**    5. **Prepare for Ascension** - Plan graduation early
-### Growth Metrics
+    1. **Prove Unit Economics**  - Show profitable growth potential
+1. 
+2. **Build Investor Pipeline**  - Leverage Studio3 network
+2. 
+- 3.** Maintain Transparency
+- Keep community informed**
+- **    4.**  Execute Flawlessly
+- High stakes, high scrutiny
+- **    5.** Prepare for Ascension
+- Plan graduation early**### Growth Metrics
 
 ```python
 # Flare Phase Targets
@@ -297,15 +304,15 @@ gross_margins = > 70%  # For software
 <h3>👑 Objective</h3>
 Graduate from Studio3 oversight to complete independence.
 
-**Ascension Requirements:**
-- All phases successfully completed
+** Ascension Requirements:
+- ** All phases successfully completed
 - Sustainable business model proven
 - Team fully autonomous
 - Community support maintained
 - Buyback funds available
-
-**The Buyback Process:** 1. Initiate graduation request
-**2. Final Anchor validation**
+**The Buyback Process:**   1. Initiate graduation request
+- 
+2. Final Anchor validation**
 3. Buyback Spark + Signal NFTs
 4. Unlock Halo NFT
 5. Transfer Genesis Wallet control
@@ -316,19 +323,22 @@ Graduate from Studio3 oversight to complete independence.
 ### Sovereignty Benefits
 
 !!! info "What Sovereignty Unlocks"
-    - **Full Control**: Complete ownership of all assets
-**    - **Sub-Studio Rights**: Launch your own ventures
-**    - **Alumni Network**: Lifetime Studio3 benefits
-**    - **Mentor Status**: Become an Anchor yourself
-**    - **Legacy Recognition**: Permanent ecosystem honor
-### Post-Ascension Options
+    - **Full Control** : Complete ownership of all assets
+- **    -**Sub-Studio Rights** : Launch your own ventures
+- **    -**Alumni Network** : Lifetime Studio3 benefits
+- **    -**Mentor Status** : Become an Anchor yourself
+- **    -**Legacy Recognition**: Permanent ecosystem honor**### Post-Ascension Options
 
-1. **Continue Independently** - Run as traditional company
-**2. **Launch Sub-Studio** - Create venture studio
-**3. **Acquire Others** - Buy struggling ventures
-**4. **Go Public** - Traditional exit paths
-**5. **Stay Connected** - Remain in ecosystem
-## Phase Progression Rules
+- 1. ** Continue Independently
+- Run as traditional company
+2. **Launch Sub-Studio**
+- Create venture studio
+3. **Acquire Others**
+- Buy struggling ventures
+4. **Go Public**
+- Traditional exit paths
+5. **Stay Connected**
+- Remain in ecosystem**## Phase Progression Rules
 
 ### Moving Forward
 
@@ -336,33 +346,30 @@ Graduate from Studio3 oversight to complete independence.
 
 <h3>📈 Advancement Criteria</h3>
 
-**General Requirements:**
-- Complete all phase milestones
+** General Requirements:
+- ** Complete all phase milestones
 - Maintain community support (>60% belief)
 - Pass Anchor validation
 - Meet minimum duration
 - Achieve phase-specific metrics
-
-**Special Cases:**
-- **Fast Track**: Exceptional ventures can accelerate
-- **Extended Duration**: Complex ventures may need more time
-- **Phase Skipping**: Not allowed 
-- all phases required
-
-- **Regression**: Can fall back during Drift only
-</div>
+** Special Cases:
+- **Fast Track** : Exceptional ventures can accelerate
+- **Extended Duration** : Complex ventures may need more time
+- **Phase Skipping** : Not allowed
+- ** all phases required
+- **Regression**: Can fall back during Drift only**</div>
 
 ### Failure Modes
 
 !!! danger "When Ventures Fail"
-    - **Spark**: Idea doesn't gather support → NFT remains tradeable
-**    - **Forge**: No suitable founder emerges → Spark returns to Arena
-**    - **Ignition**: Can't build MVP → Dissolution, token return
-**    - **Drift**: No product-market fit → Pivot or dissolve
-**    - **Orbit**: Can't sustain operations → Acquisition candidate
-**    - **Flare**: Growth stalls → Return to Orbit or exit
-**    - **Ascension**: Can't afford buyback → Remain in Flare
-## Success Patterns
+
+- **Spark** : Idea doesn't gather support → NFT remains tradeable
+- **    -**Forge** : No suitable founder emerges → Spark returns to Arena
+- **    -**Ignition** : Can't build MVP → Dissolution, token return
+- **    -**Drift** : No product-market fit → Pivot or dissolve
+- **    -**Orbit** : Can't sustain operations → Acquisition candidate
+- **    -**Flare** : Growth stalls → Return to Orbit or exit
+- **    -**Ascension**: Can't afford buyback → Remain in Flare**## Success Patterns
 
 ### What Works
 
@@ -392,23 +399,27 @@ Graduate from Studio3 oversight to complete independence.
 | Phase | Primary Support | Secondary Support |
 |-------|----------------|------------------|
 | **Spark** | Community feedback | Idea refinement tools |
-| **Forge** | Pitch coaching | Debate preparation |
-| **Ignition** | Technical mentors | DAO setup guides |
-| **Drift** | Product advisors | Pivot frameworks |
-| **Orbit** | Operations experts | Scaling playbooks |
-| **Flare** | Growth hackers | Fundraising support |
-| **Ascension** | Legal counsel | Buyback financing |
+|**Forge** | Pitch coaching | Debate preparation |
+|**Ignition** | Technical mentors | DAO setup guides |
+|**Drift** | Product advisors | Pivot frameworks |
+|**Orbit** | Operations experts | Scaling playbooks |
+|**Flare** | Growth hackers | Fundraising support |
+|**Ascension** | Legal counsel | Buyback financing |
 
 ## Your Phase Journey
 
 ### Getting Started
 
-1. **Assess Readiness** - Do you have a strong IP combination?
-**2. **Study Patterns** - Learn from successful phase transitions
-**3. **Build Network** - Connect with phase-specific experts
-**4. **Plan Ahead** - Know requirements for next phase
-**5. **Execute Publicly** - Transparency builds trust
-## Next Steps
+- 1.** Assess Readiness
+- Do you have a strong IP combination?
+2. **Study Patterns**
+- Learn from successful phase transitions
+3. **Build Network**
+- Connect with phase-specific experts
+4. **Plan Ahead**
+- Know requirements for next phase
+5. **Execute Publicly**
+- Transparency builds trust**## Next Steps
 
 - Master the [Milestone System](milestones.md) for each phase
 

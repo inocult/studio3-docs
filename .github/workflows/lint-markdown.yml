@@ -1,0 +1,72 @@
+name: Validate Documentation
+
+on:
+  push:
+    paths:
+      - 'docs/**/*.md'
+      - 'mkdocs.yml'
+      - 'lint_markdown.py'
+  pull_request:
+    paths:
+      - 'docs/**/*.md'
+      - 'mkdocs.yml'
+      - 'lint_markdown.py'
+
+jobs:
+  validate:
+    name: Validate Documentation
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Create virtual environment
+      run: |
+        python -m venv venv
+        source venv/bin/activate
+        python -m pip install --upgrade pip
+        
+    - name: Install MkDocs dependencies
+      run: |
+        source venv/bin/activate
+        pip install mkdocs mkdocs-material pyyaml
+        pip install mkdocs-minify-plugin mkdocs-git-revision-date-localized-plugin
+        pip install mkdocs-glightbox mkdocs-awesome-pages-plugin mkdocs-pdf-export-plugin
+        
+    - name: Run MkDocs strict validation
+      run: |
+        source venv/bin/activate
+        echo "🔍 Running MkDocs strict validation..."
+        mkdocs build --strict --verbose
+        
+    - name: Run custom markdown linter
+      run: |
+        source venv/bin/activate
+        echo "🔍 Running custom markdown linter..."
+        python lint_markdown.py docs > lint_output.txt 2>&1 || true
+        
+        # Show summary but don't fail on warnings
+        if grep -q "ERROR:" lint_output.txt; then
+          echo "❌ Critical markdown errors found!"
+          head -50 lint_output.txt
+          exit 1
+        else
+          echo "✅ No critical errors found"
+          echo "Summary:"
+          tail -10 lint_output.txt
+        fi
+        
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: documentation-build
+        path: |
+          site/
+          lint_output.txt

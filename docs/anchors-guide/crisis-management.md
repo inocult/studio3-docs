@@ -19,27 +19,28 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <h3>⚡ Defining True Emergencies</h3>
 
 **Crisis Characteristics:**
-- Threatens venture survival
+- ** Threatens venture survival
 - Requires immediate action
 - Normal processes insufficient
 - High uncertainty
 - Stakeholder panic potential
-
-**Crisis vs Challenge:**
-| Challenge | Crisis |
+**Crisis vs Challenge:| Challenge | Crisis |
 |-----------|--------|
 | Planned for | Unexpected |
 | Resources available | Resources strained |
 | Time to decide | Immediate action |
 | Limited impact | Existential threat |
 | Internal focus | Public scrutiny |
-
-**Crisis Categories:**
-1. **Acute** - Sudden, severe
-**2. **Chronic** - Slow burning
-**3. **Compound** - Multiple issues
-**4. **Cascading** - Domino effect
-</div>
+** Crisis Categories:
+- 
+1. **Acute**
+- Sudden, severe
+2. **Chronic**
+- Slow burning
+3. **Compound**
+- Multiple issues
+4. **Cascading**
+- Domino effect**</div>
 
 ### Types of Venture Crises
 
@@ -47,36 +48,32 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 <h3>🎯 Common Crisis Scenarios</h3>
 
-**Technical Crises:**
-- Critical security breach
+** Technical Crises:
+- ** Critical security breach
 - Complete system failure  
 - Data loss/corruption
 - Integration collapse
 - Performance meltdown
-
-**Financial Crises:**
-- Runway exhaustion
+** Financial Crises:
+- ** Runway exhaustion
 - Investor withdrawal
 - Revenue collapse
 - Cost explosion
 - Fraud discovery
-
-**Team Crises:**
-- Founder conflict/departure
+** Team Crises:
+- ** Founder conflict/departure
 - Mass resignation
 - Legal action
 - Ethical violations
 - Culture breakdown
-
-**Market Crises:**
-- Regulatory shutdown
+** Market Crises:
+- ** Regulatory shutdown
 - Competitive decimation
 - Customer exodus
 - PR disaster
 - Platform delisting
-
-**Operational Crises:**
-- Supply chain failure
+** Operational Crises:
+- ** Supply chain failure
 - Quality catastrophe
 - Partnership collapse
 - Infrastructure loss
@@ -91,33 +88,29 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>🏃 First 24 Hours</h3>
-
-**Hour 1-2: Assessment**
+**Hour 1-2: Assessment
 ```
-Crisis Triage:
+** Crisis Triage:
 □ Identify crisis type/scope
 □ Assess immediate dangers
 □ Determine resources available
 □ Identify key stakeholders
 □ Establish command center
 ```
-
-**Hour 3-6: Stabilization**
-- Stop the bleeding
+**Hour 3-6: Stabilization
+- ** Stop the bleeding
 - Prevent escalation
 - Secure critical assets
 - Initial communications
 - Rally core team
-
-**Hour 7-12: Planning**
-- Gather full information
+**Hour 7-12: Planning
+- ** Gather full information
 - Develop response options
 - Allocate resources
 - Create action plan
 - Prepare communications
-
-**Hour 13-24: Execution**
-- Implement immediate fixes
+**Hour 13-24: Execution
+- ** Implement immediate fixes
 - Communicate broadly
 - Monitor progress
 - Adjust as needed
@@ -130,33 +123,28 @@ Crisis Triage:
 <div class="arena-card" markdown="1">
 
 <h3>🎖️ Organizing for Action</h3>
-
 **Crisis Team Roles:** Crisis Leader** (Usually CEO)
-- Final decisions
+- ** Final decisions
 - External face
 - Resource allocation
 - Stakeholder management
-
-**Operations Lead**
-- Tactical execution
+**Operations Lead
+- ** Tactical execution
 - Team coordination
 - Progress tracking
 - Internal communication
-
 **Technical Lead** (If applicable)
-- Problem solving
+- ** Problem solving
 - Solution implementation
 - Risk assessment
 - Recovery planning
-
-**Communications Lead**
-- Message development
+**Communications Lead
+- ** Message development
 - Stakeholder updates
 - Media management
 - Community relations
-
-**Anchor Role:**
-- Strategic advisor
+** Anchor Role:
+- ** Strategic advisor
 - Calm presence
 - Experience provider
 - Network activator
@@ -170,39 +158,48 @@ Crisis Triage:
 <div class="arena-card" markdown="1">
 
 <h3>💸 When Money Runs Out</h3>
-
-**Immediate Actions:** Week 1: Reality Check
-```python
-def assess_financial_crisis():
+**Immediate Actions:** Week 1: Reality Check```python
+** def assess_financial_crisis():
     current_burn = calculate_monthly_burn()
     runway_left = cash_balance / current_burn
     
-    if runway_left < 3:
+** if runway_left < 3:
         return "CRITICAL"
-    elif runway_left < 6:
+** elif runway_left < 6:
         return "URGENT"
-    else:
+** else:
         return "MANAGEABLE"
 ```
 
-**Cost Reduction Options:**
-1. **Personnel** (50-70% of costs)
-**   - Salary cuts/deferrals**
-   - Hiring freeze
-   - Layoffs if necessary
-   - Contractor reduction
+** Cost Reduction Options:
+1. **Personnel**
+- (50
+- 70% of costs)**
+- Salary cuts/deferrals
 
-2. **Operations** (20-30%)
-**   - Office reduction**
-   - Tool consolidation
-   - Travel elimination
-   - Marketing pause
+- Hiring freeze
 
-3. **Strategic** (Variable)
-**   - Feature scope reduction**
-   - Market focus
-   - Partnership emphasis
-   - Revenue acceleration
+- Layoffs if necessary
+
+- Contractor reduction
+
+- 2.**Operations**  (20
+- 30%)
+- Office reduction
+
+- Tool consolidation
+
+- Travel elimination
+
+- Marketing pause
+
+3. **Strategic** (Variable)**   - Feature scope reduction
+
+- Market focus
+
+- Partnership emphasis
+
+- Revenue acceleration
 
 </div>
 
@@ -211,33 +208,28 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 <h3>💰 Capital in Crisis</h3>
-
 **Funding Options Ranked:** 1. Revenue Acceleration
-- Discounts for prepayment
+- ** Discounts for prepayment
 - Annual plan push
 - New revenue streams
 - Service offerings
-
-**2. Bridge Financing**
-- Existing investor top-up
+2. Bridge Financing
+- ** Existing investor top-up
 - Convertible notes
 - Revenue-based financing
 - Emergency credit
-
-**3. Asset Strategies**
-- IP licensing
+3. Asset Strategies
+- ** IP licensing
 - Asset sales
 - Talent lending
 - Partnership deals
-
-**4. Last Resort**
-- Acquisition talks
+4. Last Resort
+- ** Acquisition talks
 - Distress investment
 - Personal funds
 - Shutdown planning
-
-**Negotiation in Crisis:**
-- Be transparent
+** Negotiation in Crisis:
+- ** Be transparent
 - Show recovery plan
 - Offer upside
 - Move quickly
@@ -252,9 +244,7 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 <h3>🔒 Data Breach Protocol</h3>
-
-**Immediate Response:** Hour 1: Contain
-```bash
+**Immediate Response:** Hour 1: Contain```bash
 # Emergency Protocol
 1. Isolate affected systems
 2. Preserve evidence
@@ -263,22 +253,20 @@ def assess_financial_crisis():
 5. Activate response team
 ```
 
-**Hour 2-6: Assess**
-- What was accessed?
+**Hour 2-6: Assess
+- ** What was accessed?
 - How many affected?
 - How did it happen?
 - What's at risk?
 - Legal obligations?
-
-**Hour 7-24: Respond**
-- Fix vulnerability
+**Hour 7-24: Respond
+- ** Fix vulnerability
 - Notify authorities
 - Prepare user comms
 - Implement monitoring
 - Begin recovery
-
-**Day 2-7: Recover**
-- Full investigation
+**Day 2-7: Recover
+- ** Full investigation
 - User notifications
 - Credit monitoring
 - System hardening
@@ -291,35 +279,51 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 <h3>💻 Critical Outage Management</h3>
-
-**Outage Response Framework:** Severity Levels:** SEV1**: Complete outage
-- **SEV2**: Major degradation  
-- **SEV3**: Partial impact
-- **SEV4**: Minor issues
-**Response Protocol:**
+** Outage Response Framework:
+- **Severity Levels:** SEV1**: Complete outage
+- **SEV2** : Major degradation 
+- **SEV3** : Partial impact
+- **SEV4** : Minor issues
+** Response Protocol:
 1. **Declare Incident**
-   - Severity level
-   - Impact scope
-   - Response team
-   - Communication plan
+
+- Severity level
+
+- Impact scope
+
+- Response team
+
+- Communication plan
 
 2. **War Room**
-   - Central command
-   - Clear roles
-   - Status updates
-   - Decision authority
+
+- Central command
+
+- Clear roles
+
+- Status updates
+
+- Decision authority
 
 3. **Recovery Execution**
-   - Root cause focus
-   - Parallel workstreams
-   - Regular updates
-   - Testing protocol
+
+- Root cause focus
+
+- Parallel workstreams
+
+- Regular updates
+
+- Testing protocol
 
 4. **Post-Mortem**
-   - Blameless culture
-   - Timeline reconstruction
-   - Lessons learned
-   - Prevention plan
+
+- Blameless culture
+
+- Timeline reconstruction
+
+- Lessons learned
+
+- Prevention plan
 
 </div>
 
@@ -330,43 +334,51 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 <h3>👥 When Leaders Clash</h3>
-
 **Conflict Escalation Stages:** Stage 1: Tension
-- Communication breakdown
+- ** Communication breakdown
 - Avoidance behaviors
 - Team taking sides
 - Productivity impact
-
-**Stage 2: Open Conflict**
-- Public disagreements
+**Stage 2: Open Conflict
+- ** Public disagreements
 - Power struggles
 - Trust breakdown
 - Team morale crisis
-
-**Stage 3: Crisis Point**
-- Departure threats
+**Stage 3: Crisis Point
+- ** Departure threats
 - Legal considerations
 - Investor involvement
 - Company paralysis
-
-**Intervention Strategy:**
+** Intervention Strategy:
 1. **Immediate Separation**
-   - Cool-down period
-   - Individual sessions
-   - Issue identification
-   - Stakes clarification
+- Cool
+- down period
+
+- Individual sessions
+
+- Issue identification
+
+- Stakes clarification
 
 2. **Mediated Discussion**
-   - Neutral facilitator
-   - Structured dialogue
-   - Focus on interests
-   - Seek win-win
+
+- Neutral facilitator
+
+- Structured dialogue
+
+- Focus on interests
+- Seek win
+- win
 
 3. **Resolution Planning**
-   - Clear agreements
-   - Role clarification
-   - Communication rules
-   - Follow-up schedule
+
+- Clear agreements
+
+- Role clarification
+
+- Communication rules
+- Follow
+- up schedule
 
 </div>
 
@@ -375,26 +387,23 @@ def assess_financial_crisis():
 <div class="arena-card" markdown="1">
 
 <h3>🚪 Team Exodus Management</h3>
-
-**When Teams Leave:** Immediate Response:
-- Understand why
+**When Teams Leave:**  Immediate Response:
+- ** Understand why
 - Identify critical roles
 - Assess knowledge loss
 - Stabilize remainder
 - Communicate quickly
-
-**Retention Emergency:**
+** Retention Emergency:
 ```
-Retention Toolkit:
+** Retention Toolkit:
 1. One-on-ones with remainder
 2. Address core issues
 3. Short-term incentives
 4. Long-term promises
 5. Culture reset
 ```
-
-**Recovery Planning:**
-- Critical hire priorities
+** Recovery Planning:
+- ** Critical hire priorities
 - Knowledge documentation
 - Process simplification
 - Contractor bridge
@@ -409,30 +418,26 @@ Retention Toolkit:
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ Legal/Regulatory Crisis</h3>
-
 **Regulatory Response:** Day 1: Assess
-- Understand violation
+- ** Understand violation
 - Gauge severity
 - Legal counsel
 - Compliance audit
 - Stakeholder impact
-
-**Week 1: Respond**
-- Regulatory dialogue
+**Week 1: Respond
+- ** Regulatory dialogue
 - Compliance plan
 - User communications
 - Operational adjustments
 - Legal strategy
-
-**Month 1: Adapt**
-- Business model pivot
+**Month 1: Adapt
+- ** Business model pivot
 - Compliance implementation
 - Market repositioning
 - Stakeholder management
 - Future prevention
-
-**Regulatory Strategy:**
-- Cooperate fully
+** Regulatory Strategy:
+- ** Cooperate fully
 - Show good faith
 - Propose solutions
 - Build relationships
@@ -445,10 +450,8 @@ Retention Toolkit:
 <div class="arena-card" markdown="1">
 
 <h3>📰 Public Relations Crisis</h3>
-
-**PR Crisis Response:** Hour 1-4: Control Narrative
-```
-Communication Priority:
+**PR Crisis Response:** Hour 1-4: Control Narrative```
+** Communication Priority:
 1. Internal team first
 2. Direct stakeholders
 3. Broader community
@@ -456,22 +459,20 @@ Communication Priority:
 5. General public
 ```
 
-**Message Framework:**
-- Acknowledge issue
+** Message Framework:
+- ** Acknowledge issue
 - Take responsibility
 - Show empathy
 - Outline actions
 - Commit to updates
-
-**Channel Strategy:**
-- Official statement
+** Channel Strategy:
+- ** Official statement
 - Social media
 - Direct emails
 - Community forums
 - Media interviews
-
-**Recovery Path:**
-- Consistent messaging
+** Recovery Path:
+- ** Consistent messaging
 - Action over words
 - Transparency commitment
 - Rebuild trust
@@ -486,19 +487,15 @@ Communication Priority:
 <div class="arena-card" markdown="1">
 
 <h3>📢 Crisis Communications</h3>
-
-**Stakeholder Priority Matrix:**
-
-| Stakeholder | Priority | Key Messages | Channel |
+**Stakeholder Priority Matrix:| Stakeholder | Priority | Key Messages | Channel |
 |------------|----------|--------------|---------|
 | Team | Immediate | Full truth, support | All-hands |
 | Investors | Very High | Recovery plan | Direct call |
 | Customers | High | Service continuity | Email/App |
 | Community | High | Transparency | Forum/Discord |
 | Media | Managed | Controlled message | PR/Official |
-
-**Message Principles:**
-- Truth (within legal bounds)
+** Message Principles:
+- ** Truth (within legal bounds)
 - Speed over perfection
 - Consistency across channels
 - Empathy first
@@ -511,15 +508,13 @@ Communication Priority:
 <div class="arena-card" markdown="1">
 
 <h3>👥 Keeping Team Aligned</h3>
-
 **Team Communication Framework:** Daily Standups
-- Situation update
+- ** Situation update
 - Progress report
 - Blockers identified
 - Morale check
 - Next 24 hours
-
-**Information Flow:**
+** Information Flow:
 ```
 Leadership Team
     ↓
@@ -529,9 +524,8 @@ Team Members
     ↓
 Feedback Loop ↑
 ```
-
-**Morale Management:**
-- Acknowledge difficulty
+** Morale Management:
+- ** Acknowledge difficulty
 - Celebrate small wins
 - Maintain normalcy where possible
 - Provide support resources
@@ -546,23 +540,20 @@ Feedback Loop ↑
 <div class="arena-card" markdown="1">
 
 <h3>🔄 Building Back Better</h3>
-
 **Recovery Phases:** Phase 1: Stabilization (Week 1-2)
-- Crisis contained
+- ** Crisis contained
 - Bleeding stopped
 - Team stabilized
 - Communications managed
 - Planning begun
-
-**Phase 2: Recovery (Week 3-8)**
-- Solutions implemented
+**Phase 2: Recovery (Week 3-8)
+- ** Solutions implemented
 - Trust rebuilding
 - Operations normalizing
 - Metrics improving
 - Lessons documented
-
-**Phase 3: Growth (Week 9+)**
-- Stronger foundation
+**Phase 3: Growth (Week 9+)
+- ** Stronger foundation
 - New processes
 - Better prepared
 - Team unified
@@ -575,23 +566,20 @@ Feedback Loop ↑
 <div class="arena-card" markdown="1">
 
 <h3>📚 Post-Mortem Excellence</h3>
-
-**Post-Crisis Analysis:** Blameless Review:
+**Post-Crisis Analysis:**  Blameless Review:
 1. Timeline reconstruction
 2. Decision analysis
 3. What went well
 4. What went poorly
 5. Improvement areas
-
-**Process Improvements:**
-- Early warning systems
+** Process Improvements:
+- ** Early warning systems
 - Response protocols
 - Communication plans
 - Training needs
 - Tool requirements
-
-**Cultural Changes:**
-- Risk awareness
+** Cultural Changes:
+- ** Risk awareness
 - Transparency increase
 - Trust building
 - Resilience mindset
@@ -606,23 +594,20 @@ Feedback Loop ↑
 <div class="arena-card" markdown="1">
 
 <h3>🛠️ Crisis Management Tools</h3>
-
-**Contact Lists:**
-- Emergency services
+** Contact Lists:
+- ** Emergency services
 - Legal counsel
 - PR specialists
 - Technical experts
 - Financial advisors
-
-**Template Library:**
-- Crisis communication templates
+** Template Library:
+- ** Crisis communication templates
 - Stakeholder updates
 - Legal notices
 - PR statements
 - Recovery plans
-
-**Decision Frameworks:**
-- Severity assessment
+** Decision Frameworks:
+- ** Severity assessment
 - Resource allocation
 - Communication priority
 - Recovery planning
@@ -635,21 +620,18 @@ Feedback Loop ↑
 <div class="arena-card" markdown="1">
 
 <h3>🧠 Crisis Thinking Tools</h3>
-
 **Useful Frameworks:** OODA Loop** (Observe, Orient, Decide, Act)
-- Rapid decision cycling
+- ** Rapid decision cycling
 - Continuous adjustment
 - Speed advantage
 - Clear action
-
-**Swiss Cheese Model**
-- Multiple failures align
+**Swiss Cheese Model
+- ** Multiple failures align
 - Defense in depth
 - System thinking
 - Prevention focus
-
-**Black Swan Preparation**
-- Expect unexpected
+**Black Swan Preparation
+- ** Expect unexpected
 - Build resilience
 - Create options
 - Stay adaptable

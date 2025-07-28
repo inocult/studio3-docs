@@ -16,13 +16,17 @@ Signals are token-backed predictions about a venture's ability to achieve specif
 <h3>👍 Belief Signals</h3>
         Express confidence that a milestone will be achieved
 
-        - Stake $SIGNAL tokens on success
 
-        - Earn multipliers if correct (1.5x 
+- Stake $SIGNAL tokens on success
 
-        - 3x)
 
-        - Lose entire stake if wrong
+- Earn multipliers if correct (1.5x
+
+
+- 3x)
+
+
+- Lose entire stake if wrong
 
 </div>
     
@@ -31,13 +35,17 @@ Signals are token-backed predictions about a venture's ability to achieve specif
 <h3>👎 Doubt Signals</h3>
         Express skepticism that a milestone will be achieved
 
-        - Stake $SIGNAL tokens on failure
 
-        - Earn multipliers if correct (1.2x 
+- Stake $SIGNAL tokens on failure
 
-        - 2x)
 
-        - Lose entire stake if wrong
+- Earn multipliers if correct (1.2x
+
+
+- 2x)
+
+
+- Lose entire stake if wrong
 
 </div>
 </div>
@@ -70,30 +78,35 @@ flowchart TD
 
 ### Signal Lifecycle
 
-1. **Declaration Phase** (0-2 hours)
-**   - Founder declares specific milestone**
-   - System verifies milestone validity
-   - Arena opens for signaling
+1. **Declaration Phase** (0-2 hours)**   - Founder declares specific milestone
 
-2. **Signal Phase** (48-168 hours)
-**   - Echoes analyze milestone feasibility**
-   - Signals placed with token stakes
-   - Real-time sentiment tracking
+- System verifies milestone validity
 
-3. **Execution Phase** (Variable)
-**   - Founder works toward milestone**
-   - Progress updates posted
-   - No new signals accepted
+- Arena opens for signaling
 
-4. **Validation Phase** (24-48 hours)
-**   - Evidence submitted by founder**
-   - Anchors verify achievement
-   - Results determined
+2. **Signal Phase** (48-168 hours)**   - Echoes analyze milestone feasibility
 
-5. **Settlement Phase** (Automatic)
-**   - Rewards distributed to correct signals**
-   - Wrong signals burned permanently
-   - Reputation points updated
+- Signals placed with token stakes
+
+- Real-time sentiment tracking
+
+3. **Execution Phase** (Variable)**   - Founder works toward milestone
+
+- Progress updates posted
+
+- No new signals accepted
+
+4. **Validation Phase** (24-48 hours)**   - Evidence submitted by founder
+
+- Anchors verify achievement
+
+- Results determined
+
+5. **Settlement Phase** (Automatic)**   - Rewards distributed to correct signals
+
+- Wrong signals burned permanently
+
+- Reputation points updated
 
 ## Signal Economics
 
@@ -102,17 +115,15 @@ flowchart TD
 <div class="arena-card" markdown="1">
 
 <h3>📊 Multiplier Formula</h3>
-
-**Base Multipliers:**
-- Belief (Success): 1.5x base
-- Doubt (Failure): 1.2x base** Bonus Factors:**
-- Early Signal: +0.1x per 24 hours early
+** Base Multipliers:
+- ** Belief (Success): 1.5x base
+- Doubt (Failure): 1.2x base**  Bonus Factors:
+- ** Early Signal: +0.1x per 24 hours early
 - Contrarian: +0.3x if against majority
 - Reputation: +0.01x per 1000 XP
 - Phase Difficulty: +0.1x per phase level
-
-**Maximum Possible:**
-- Belief: 3x multiplier
+** Maximum Possible:
+- ** Belief: 3x multiplier
 - Doubt: 2x multiplier
 
 </div>
@@ -132,33 +143,32 @@ flowchart TD
 
 !!! tip "Successful Signaling"
     1. **Research Thoroughly**
-       
-- Review founder's track record
-       
+- ** Review founder's track record
 - Analyze milestone specificity
-       - Check available resources
-       - Consider market conditions
+
+- Check available resources
+
+- Consider market conditions
     
-    2. **Time Your Entry**
-       
-- Early signals earn more
-       
+1. 
+2. **Time Your Entry**
+- ** Early signals earn more
 - But less information available
-       - Balance risk vs reward
+
+- Balance risk vs reward
     
-    3. **Size Your Stakes**
-       
-- Never signal more than you can lose
-       
+2. 
+3. **Size Your Stakes**
+- ** Never signal more than you can lose
 - Diversify across multiple milestones
-       - Increase stakes as confidence grows
+
+- Increase stakes as confidence grows
     
     4. **Monitor Progress**
-       
-- Follow daily updates
-       
+- ** Follow daily updates
 - Engage with founders
-       - Learn from outcomes
+
+- Learn from outcomes
 
 ### Signal Patterns
 
@@ -210,29 +220,28 @@ graph LR
 ### Reading Signal Markets
 
 !!! info "Market Indicators"
-    - **Signal Velocity**: How fast signals accumulate
-**    - **Belief Ratio**: Belief vs doubt balance
-**    - **Whale Activity**: Large stake movements
-**    - **Anchor Sentiment**: Validator early opinions
-**    - **Historical Patterns**: Similar milestone outcomes
-## Signal Psychology
+    - **Signal Velocity** : How fast signals accumulate
+- **    -**Belief Ratio** : Belief vs doubt balance
+- **    -**Whale Activity** : Large stake movements
+- **    -**Anchor Sentiment** : Validator early opinions
+- **    -**Historical Patterns**: Similar milestone outcomes**## Signal Psychology
 
 ### Cognitive Biases to Avoid
 
 | Bias | Description | Mitigation |
 |------|-------------|------------|
 | **Herd Mentality** | Following the crowd | Do independent research |
-| **Confirmation Bias** | Seeking supporting info only | Consider contrary evidence |
-| **Sunk Cost Fallacy** | Throwing good tokens after bad | Accept losses, move on |
-| **Recency Bias** | Overweighting recent events | Look at full history |
-| **Overconfidence** | Believing you can't be wrong | Size stakes appropriately |
+|**Confirmation Bias** | Seeking supporting info only | Consider contrary evidence |
+|**Sunk Cost Fallacy** | Throwing good tokens after bad | Accept losses, move on |
+|**Recency Bias** | Overweighting recent events | Look at full history |
+|**Overconfidence** | Believing you can't be wrong | Size stakes appropriately |
 
 ## Signal Rights & Responsibilities
 
 ### Your Rights as an Echo
 
-✅ **You have the right to:**
-- Signal on any open milestone
+✅** You have the right to:
+- ** Signal on any open milestone
 - Access all public information
 - Change strategy between milestones
 - Withdraw unused tokens anytime
@@ -240,8 +249,8 @@ graph LR
 
 ### Your Responsibilities
 
-⚠️ **You must:**
-- Accept permanent loss risk
+⚠️** You must:
+- ** Accept permanent loss risk
 - Not manipulate markets
 - Not coordinate signals illegally
 - Respect validation outcomes
@@ -254,19 +263,16 @@ graph LR
 <div class="arena-card" markdown="1">
 
 <h3>🔮 Future Signal Features</h3>
-
 **Conditional Signals** 🎯
-- "I believe IF [condition] is met"
+- ** "I believe IF [condition] is met"
 - Automated trigger mechanisms
 - Complex strategy options
-
 **Signal Combinations** 🧮
-- Bundle multiple milestones
+- ** Bundle multiple milestones
 - Create signal portfolios
 - Share strategies with others
-
 **Signal Insurance** 🛡️
-- Partial loss protection
+- ** Partial loss protection
 - Paid from insurance pools
 - For verified edge cases
 
@@ -291,29 +297,28 @@ Worst Loss: 5,000 $SIGNAL on QuickPay
 ### Performance Improvement
 
 !!! tip "Level Up Your Signaling"
-    1. **Track Everything** - Log all signals and outcomes
-**    2. **Analyze Patterns** - Find what works for you
-**    3. **Specialize** - Focus on domains you understand
-**    4. **Network** - Learn from successful Echoes
-**    5. **Stay Humble** - Markets can humble anyone
-## Common Questions
+    1. **Track Everything**  - Log all signals and outcomes
+1. 
+2. **Analyze Patterns**  - Find what works for you
+2. 
+- 3.** Specialize
+- Focus on domains you understand**
+- **    4.**  Network
+- Learn from successful Echoes
+- **    5.** Stay Humble
+- Markets can humble anyone**## Common Questions
 
 ### FAQ
 
-**Q: Can I cancel a signal after placing it?**
-A: No, all signals are final once placed.
+**Q: Can I cancel a signal after placing it?**A: No, all signals are final once placed.
 
-**Q: What happens if a milestone is cancelled?**
-A: All signals are returned in full.
+**Q: What happens if a milestone is cancelled?**A: All signals are returned in full.
 
-**Q: Can I signal on my own venture?**
-A: No, founders cannot signal on their own milestones.
+**Q: Can I signal on my own venture?**A: No, founders cannot signal on their own milestones.
 
-**Q: Is there a minimum signal amount?**
-A: Yes, currently 10 $SIGNAL minimum.
+**Q: Is there a minimum signal amount?**A: Yes, currently 10 $SIGNAL minimum.
 
-**Q: How quickly are rewards distributed?**
-A: Immediately after validation completes.
+**Q: How quickly are rewards distributed?**A: Immediately after validation completes.
 
 ## Signal Ethics
 
@@ -324,8 +329,8 @@ A: Immediately after validation completes.
 
 ### Prohibited Behaviors
 
-❌ **Never:**
-- Coordinate signals in private groups
+❌ ** Never:
+- ** Coordinate signals in private groups
 - Spread false information to influence signals
 - Use insider information
 - Create fake accounts for signaling
@@ -365,12 +370,16 @@ A: Immediately after validation completes.
 
 ### Your First Signal
 
-1. **Start Small** - Use minimum stakes initially
-**2. **Pick Carefully** - Choose milestones you understand
-**3. **Document Why** - Write down your reasoning
-**4. **Track Results** - Learn from every outcome
-**5. **Adjust Strategy** - Refine based on results
-## Next Steps
+- 1.** Start Small
+- Use minimum stakes initially
+2. **Pick Carefully**
+- Choose milestones you understand
+3. **Document Why**
+- Write down your reasoning
+4. **Track Results**
+- Learn from every outcome
+5. **Adjust Strategy**
+- Refine based on results**## Next Steps
 
 - Explore the [Three-NFT System](nft-system.md) for ownership mechanics
 - Study the [Milestone System](milestones.md) for better predictions

@@ -39,21 +39,19 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <h3>✨ Spark Phase Mastery</h3>
 
 **Phase Characteristics:**
-- Raw ideas enter Arena
+- ** Raw ideas enter Arena
 - Minimal validation
 - High uncertainty
 - Maximum potential returns
 - Shortest duration
-
-**What to Look For:**
-- Novel IP combinations
+** What to Look For:
+- ** Novel IP combinations
 - Clear problem statements
 - Experienced founders
 - Early traction signs
 - Community excitement
-
-**Red Flags:**
-- Vague descriptions
+** Red Flags:
+- ** Vague descriptions
 - Anonymous teams
 - No differentiator
 - Copied concepts
@@ -66,25 +64,32 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>💡 Spark Tactics</h3>
-
-**Approach Options:**
-
+** Approach Options:
 1. **Early Bird Strategy**
-   - First 24 hours entry
-   - Maximum multiplier
-   - High risk tolerance
-   - Small positions only
-   - Quick decisions
+
+- First 24 hours entry
+
+- Maximum multiplier
+
+- High risk tolerance
+
+- Small positions only
+
+- Quick decisions
 
 2. **Wait and Watch**
-   - Observe initial traction
-   - Read community sentiment
-   - Enter days 3-5
-   - Balanced risk/reward
-   - More information
 
-**Position Sizing:**
-- Maximum 1% of portfolio per signal
+- Observe initial traction
+
+- Read community sentiment
+- Enter days 3
+- 5
+
+- Balanced risk/reward
+
+- More information
+** Position Sizing:
+- ** Maximum 1% of portfolio per signal
 - Diversify across 5-10 Sparks
 - Expect 50% failure rate
 - Focus on home runs
@@ -98,23 +103,20 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>⚔️ Forge Phase Mastery</h3>
-
-**Phase Characteristics:**
-- Multiple founders compete
+** Phase Characteristics:
+- ** Multiple founders compete
 - Public presentations
 - Community voting
 - Winner takes all
 - High drama/engagement
-
-**What to Analyze:**
-- Founder quality comparison
+** What to Analyze:
+- ** Founder quality comparison
 - Vision clarity
 - Execution capability
 - Community support
 - Presentation skills
-
-**Key Metrics:**
-- Previous experience
+** Key Metrics:
+- ** Previous experience
 - Technical competence
 - Communication quality
 - Resource access
@@ -127,29 +129,38 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>🏆 Competition Tactics</h3>
-
-**Signal Timing:**
-
+** Signal Timing:
 1. **Pre-Duel Research**
-   - Study all competitors
-   - Background checks
-   - Capability assessment
-   - Early favorite
+
+- Study all competitors
+
+- Background checks
+
+- Capability assessment
+
+- Early favorite
 
 2. **During Duel**
-   - Watch presentations
-   - Monitor sentiment
-   - Adjust positions
-   - Follow momentum
+
+- Watch presentations
+
+- Monitor sentiment
+
+- Adjust positions
+
+- Follow momentum
 
 3. **Post-Declaration**
-   - Back winner quickly
-   - Larger positions
-   - Ride confidence
-   - Support actively
 
-**Advanced Tactics:**
-- Hedge top 2 candidates
+- Back winner quickly
+
+- Larger positions
+
+- Ride confidence
+
+- Support actively
+** Advanced Tactics:
+- ** Hedge top 2 candidates
 - Fade obvious losers
 - Watch smart money
 - Consider contrarian
@@ -163,23 +174,20 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>🚀 Ignition Phase Mastery</h3>
-
-**Phase Characteristics:**
-- MVP development
+** Phase Characteristics:
+- ** MVP development
 - First real building
 - Technical validation
 - Market testing
 - Progress visible
-
-**Critical Milestones:**
-- Technical architecture
+** Critical Milestones:
+- ** Technical architecture
 - First demo
 - User testing
 - Core features
 - Launch readiness
-
-**Success Indicators:**
-- Regular updates
+** Success Indicators:
+- ** Regular updates
 - Demo quality
 - User feedback
 - Technical progress
@@ -192,29 +200,38 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>🔧 Building Phase Tactics</h3>
-
-**Entry Points:**
-
+** Entry Points:
 1. **Early Ignition (Days 1-15)**
-   - Higher risk/reward
-   - Pre-demo entry
-   - Team trust required
-   - 2x+ potential
+
+- Higher risk/reward
+- Pre
+- demo entry
+
+- Team trust required
+
+- 2x+ potential
 
 2. **Mid Ignition (Days 16-45)**
-   - Demo available
-   - Progress visible
-   - Balanced approach
-   - 1.7x potential
+
+- Demo available
+
+- Progress visible
+
+- Balanced approach
+
+- 1.7x potential
 
 3. **Late Ignition (Days 46-60)**
-   - Near completion
-   - Low risk
-   - Smaller returns
-   - High certainty
 
-**Key Assessments:**
-- Demo functionality
+- Near completion
+
+- Low risk
+
+- Smaller returns
+
+- High certainty
+** Key Assessments:
+- ** Demo functionality
 - Code quality
 - Update frequency
 - Community engagement
@@ -229,23 +246,20 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>🌊 Drift Phase Mastery</h3>
-
-**Phase Characteristics:**
-- Market validation
+** Phase Characteristics:
+- ** Market validation
 - User acquisition
 - Revenue testing
 - Iteration cycles
 - Pivot potential
-
-**Key Metrics:**
-- User growth rate
+** Key Metrics:
+- ** User growth rate
 - Retention metrics
 - Revenue traction
 - Market feedback
 - Competitive position
-
-**Risk Factors:**
-- Market rejection
+** Risk Factors:
+- ** Market rejection
 - Slow adoption
 - Competition
 - Pivot needs
@@ -258,25 +272,32 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>📊 Market Validation Tactics</h3>
-
-**Signal Approach:**
-
+** Signal Approach:
 1. **Growth Momentum Play**
-   - Strong metrics
-   - Accelerating adoption
-   - Positive feedback
-   - Clear PMF
-   - Larger positions
+
+- Strong metrics
+
+- Accelerating adoption
+
+- Positive feedback
+
+- Clear PMF
+
+- Larger positions
 
 2. **Turnaround Play**
-   - Initial struggles
-   - Smart pivot
-   - New traction
-   - Higher returns
-   - Careful timing
 
-**Analysis Focus:**
-- Weekly active users
+- Initial struggles
+
+- Smart pivot
+
+- New traction
+
+- Higher returns
+
+- Careful timing
+** Analysis Focus:
+- ** Weekly active users
 - Revenue growth
 - Churn rates
 - NPS scores
@@ -291,23 +312,20 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>🛸 Orbit Phase Mastery</h3>
-
-**Phase Characteristics:**
-- Stable operations
+** Phase Characteristics:
+- ** Stable operations
 - Predictable growth
 - Established market
 - Lower volatility
 - Steady returns
-
-**Investment Thesis:**
-- Proven model
+** Investment Thesis:
+- ** Proven model
 - Execution focus
 - Scale potential
 - Lower risk
 - Consistent returns
-
-**Due Diligence:**
-- Financial metrics
+** Due Diligence:
+- ** Financial metrics
 - Operational efficiency
 - Team stability
 - Market position
@@ -320,23 +338,20 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ Stability Investing</h3>
-
-**Portfolio Role:**
-- Core holdings
+** Portfolio Role:
+- ** Core holdings
 - Larger positions
 - Lower volatility
 - Steady accumulation
 - Risk balance
-
-**Signal Sizing:**
-- 3-5% positions acceptable
+** Signal Sizing:
+- ** 3-5% positions acceptable
 - Focus on quality
 - Long-term holds
 - Compound returns
 - Low maintenance
-
-**Selection Criteria:**
-- 6+ months operations
+** Selection Criteria:
+- ** 6+ months operations
 - Positive unit economics
 - Growing user base
 - Strong team
@@ -351,23 +366,20 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>🔥 Flare Phase Mastery</h3>
-
-**Phase Characteristics:**
-- Aggressive scaling
+** Phase Characteristics:
+- ** Aggressive scaling
 - Major funding
 - Market expansion
 - Team growth
 - Exit preparation
-
-**Growth Indicators:**
-- Revenue acceleration
+** Growth Indicators:
+- ** Revenue acceleration
 - Geographic expansion
 - Product extensions
 - Strategic partnerships
 - Brand recognition
-
-**Risk Considerations:**
-- Execution complexity
+** Risk Considerations:
+- ** Execution complexity
 - Competition response
 - Scaling challenges
 - Cultural dilution
@@ -380,23 +392,20 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>📈 Scale Investment Tactics</h3>
-
-**Investment Approach:**
-- Large, safe positions
+** Investment Approach:
+- ** Large, safe positions
 - Lower returns accepted
 - Portfolio anchors
 - Reputation builders
 - Network effects
-
-**Due Diligence Focus:**
-- Management quality
+** Due Diligence Focus:
+- ** Management quality
 - Scalability proof
 - Financial runway
 - Competitive moat
 - Exit potential
-
-**Position Management:**
-- 5%+ positions possible
+** Position Management:
+- ** 5%+ positions possible
 - Long-term perspective
 - Support actively
 - Compound gains
@@ -411,23 +420,20 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>🎖️ Ascension Phase Mastery</h3>
-
-**Phase Characteristics:**
-- Near sovereignty
+** Phase Characteristics:
+- ** Near sovereignty
 - Proven success
 - Exit preparation
 - Minimal risk
 - Victory lap
-
-**Investment Rationale:**
-- Celebration participation
+** Investment Rationale:
+- ** Celebration participation
 - Community support
 - Relationship value
 - Platform goodwill
 - Historical significance
-
-**Returns Expectation:**
-- Minimal financial return
+** Returns Expectation:
+- ** Minimal financial return
 - Reputational value
 - Network benefits
 - Learning opportunity
@@ -442,24 +448,28 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>🔄 Transition Opportunities</h3>
-
-**Phase Transition Signals:**
-- End of current phase
+** Phase Transition Signals:
+- ** End of current phase
 - Strong performance
 - Next phase readiness
 - Momentum building
 - Community confidence
-
-**Tactics:**
+** Tactics:
 1. **Pre-Transition Entry**
-   - Signal before advancement
-   - Capture announcement pop
-   - Lower risk entry
+
+- Signal before advancement
+
+- Capture announcement pop
+
+- Lower risk entry
 
 2. **Post-Transition Entry**
-   - Confirmation of advancement
-   - New phase multipliers
-   - Fresh opportunity
+
+- Confirmation of advancement
+
+- New phase multipliers
+
+- Fresh opportunity
 
 </div>
 
@@ -468,24 +478,32 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>💎 Multi-Phase Strategies</h3>
-
-**Arbitrage Patterns:**
-
+** Arbitrage Patterns:
 1. **Similar Ventures, Different Phases**
-   - Compare valuations
-   - Identify disparities
-   - Exploit inefficiencies
+
+- Compare valuations
+
+- Identify disparities
+
+- Exploit inefficiencies
 
 2. **Phase Momentum Trading**
-   - Ride success through phases
-   - Compound returns
-   - Build relationships
+
+- Ride success through phases
+
+- Compound returns
+
+- Build relationships
 
 3. **Phase Specialization**
-   - Master one phase
-   - Deep expertise
-   - Consistent returns
-   - Reputation building
+
+- Master one phase
+
+- Deep expertise
+
+- Consistent returns
+
+- Reputation building
 
 </div>
 
@@ -496,8 +514,7 @@ Each phase in Studio3's seven-phase journey presents unique opportunities and ri
 <div class="arena-card" markdown="1">
 
 <h3>📊 Phase Diversification</h3>
-
-**Aggressive Portfolio:**
+** Aggressive Portfolio:
 ```
 Spark: 25%
 Forge: 20%
@@ -505,8 +522,7 @@ Ignition: 30%
 Drift: 15%
 Later: 10%
 ```
-
-**Balanced Portfolio:**
+** Balanced Portfolio:
 ```
 Spark: 10%
 Forge: 15%
@@ -514,8 +530,7 @@ Ignition: 25%
 Drift: 25%
 Later: 25%
 ```
-
-**Conservative Portfolio:**
+** Conservative Portfolio:
 ```
 Spark: 5%
 Forge: 10%
@@ -553,8 +568,7 @@ Later: 35%
 <div class="arena-card" markdown="1">
 
 <h3>📈 Phase Performance Tracking</h3>
-
-**Track Your Success:**
+** Track Your Success:
 ```
 Phase      | Signals | Wins | Win% | Avg Return
 -----------|---------|------|------|------------
@@ -564,9 +578,8 @@ Ignition   |    25   |  18  | 72%  |   1.9x
 Drift      |    20   |  15  | 75%  |   1.7x
 Orbit+     |    20   |  17  | 85%  |   1.4x
 ```
-
-**Optimization Focus:**
-- Identify strong phases
+** Optimization Focus:
+- ** Identify strong phases
 - Improve weak areas
 - Adjust allocation
 - Build expertise

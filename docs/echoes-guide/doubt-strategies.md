@@ -19,12 +19,13 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 <h3>💰 Doubt Reward Structure</h3>
 
 **Doubt Returns:**
-- Base multiplier: 1.2x - 1.5x
+- ** Base multiplier: 1.2x
+- 1.5x
 - Contrarian bonus: Up to +0.5x
 - Accuracy bonus: Up to +0.3x
 - Protection bonus: Up to +0.2x
-- **Maximum possible: 2.5x** Success Conditions:
-- Milestone failed
+- **Maximum possible: 2.5x**  Success Conditions:
+- ** Milestone failed
 - Major delays
 - Quality issues
 - Pivot required
@@ -37,25 +38,36 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 <div class="arena-card" markdown="1">
 
 <h3>🛡️ Ecosystem Protection</h3>
-
-**Doubt Benefits:**
+** Doubt Benefits:
 1. **Quality Control**
-   - Filters weak ventures
-   - Raises standards
-   - Protects believers
-   - Improves ecosystem
+
+- Filters weak ventures
+
+- Raises standards
+
+- Protects believers
+
+- Improves ecosystem
 
 2. **Price Discovery**
-   - Balances optimism
-   - Reality check
-   - Efficient markets
-   - Fair valuations
+
+- Balances optimism
+
+- Reality check
+
+- Efficient markets
+
+- Fair valuations
 
 3. **Valuable Feedback**
-   - Teams improve
-   - Issues identified
-   - Pivots enabled
-   - Learning accelerated
+
+- Teams improve
+
+- Issues identified
+
+- Pivots enabled
+
+- Learning accelerated
 
 </div>
 
@@ -66,15 +78,22 @@ Doubt signals aren't about negativity - they're about protecting the ecosystem a
 <div class="arena-card" markdown="1">
 
 <h3>🔍 Systematic Doubt Analysis</h3>
+- ** S
+- Suspicious patterns**
+- **  K
+- Knowledge gaps
+- ** E
+- Execution concerns
+- **  P
+- Past failures
+- ** T
+- Timeline unrealistic
+- **  I
+- Information missing
+- ** C
+- Competition superior
 
-**S** - Suspicious patterns
-**K** - Knowledge gaps
-**E** - Execution concerns
-**P** - Past failures
-**T** - Timeline unrealistic
-**I** - Information missing
-**C** - Competition superior
-Score each 1-10, doubt threshold: 35/70
+**Score each 1-10, doubt threshold:** 35/70
 
 </div>
 
@@ -84,25 +103,24 @@ Score each 1-10, doubt threshold: 35/70
 
 <h3>📊 Conviction Scale</h3>
 
-**Ultra-High Doubt (90%+)**
-- Clear red flags
+**Ultra-High Doubt (90%+)
+- ** Clear red flags
 - Impossible claims
 - Team issues
 - No evidence
 - **Stake: 3% of bankroll** High Doubt (75-90%)
-- Multiple concerns
+- ** Multiple concerns
 - Weak fundamentals
 - Poor progress
 - **Stake: 2% of bankroll** Moderate Doubt (60-75%)
-- Significant risks
+- ** Significant risks
 - Overvaluation
 - Execution questions
 - **Stake: 1.5% of bankroll** Low Doubt (50-60%)
-- Some concerns
+- ** Some concerns
 - Worth flagging
 - Small position
-- **Stake: 1% of bankroll**
-
+- ** Stake: 1% of bankroll
 </div>
 
 ## Identifying Doubt Opportunities
@@ -112,23 +130,20 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>🚩 Classic Warning Signs</h3>
-
-**Team Red Flags:**
-- Anonymous/pseudonymous
+** Team Red Flags:
+- ** Anonymous/pseudonymous
 - No relevant experience
 - Previous failures hidden
 - High turnover rate
 - Poor communication
-
-**Technical Red Flags:**
-- No working demo
+** Technical Red Flags:
+- ** No working demo
 - Copied code
 - Impossible architecture
 - No GitHub activity
 - Security issues
-
-**Business Red Flags:**
-- No clear revenue model
+** Business Red Flags:
+- ** No clear revenue model
 - Addressable market tiny
 - Unit economics broken
 - Competition ignored
@@ -141,16 +156,14 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>📈 Spotting Bubble Signals</h3>
-
-**Hype Indicators:**
-- 90%+ belief ratio
+** Hype Indicators:
+- ** 90%+ belief ratio
 - Paid promotion heavy
 - Influencer pumping
 - FOMO marketing
 - No substantive updates
-
-**Valuation Metrics:**
-- Signal/progress ratio off
+** Valuation Metrics:
+- ** Signal/progress ratio off
 - Comparable ventures lower
 - Unrealistic projections
 - No traction evidence
@@ -165,21 +178,18 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>⏰ When to Signal Doubt</h3>
-
-**Early Doubt (Days 1-7)**
-- Maximum contrarian bonus
+**Early Doubt (Days 1-7)
+- ** Maximum contrarian bonus
 - Highest risk
 - Based on analysis
 - Small positions
-
-**Mid-Stage Doubt (Days 8-21)**
-- Evidence emerging
+**Mid-Stage Doubt (Days 8-21)
+- ** Evidence emerging
 - Patterns visible
 - Balanced risk/reward
 - Standard positions
-
-**Late Doubt (Days 22+)**
-- Clear problems
+**Late Doubt (Days 22+)
+- ** Clear problems
 - Lower returns
 - Higher certainty
 - Larger positions safe
@@ -191,27 +201,38 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>⚡ Event-Driven Doubt</h3>
-
-**Doubt Catalysts:**
+** Doubt Catalysts:
 1. **Missed Deadlines**
-   - First delay
-   - Pattern emerging
-   - Excuses starting
+
+- First delay
+
+- Pattern emerging
+
+- Excuses starting
 
 2. **Technical Issues**
-   - Demo failures
-   - Security breaches
-   - Performance problems
+
+- Demo failures
+
+- Security breaches
+
+- Performance problems
 
 3. **Team Problems**
-   - Key departures
-   - Internal conflicts
-   - Communication breakdown
+
+- Key departures
+
+- Internal conflicts
+
+- Communication breakdown
 
 4. **Market Shifts**
-   - Competition launches
-   - Regulation changes
-   - Demand disappears
+
+- Competition launches
+
+- Regulation changes
+
+- Demand disappears
 
 </div>
 
@@ -222,23 +243,20 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>📉 Fading the Hype</h3>
-
-**Identifying Hype Ventures:**
-- Massive marketing spend
+** Identifying Hype Ventures:
+- ** Massive marketing spend
 - No substance
 - Paid influencers
 - Coordinated pumping
 - Retail FOMO
-
-**Execution Strategy:**
+** Execution Strategy:
 1. Wait for peak hype
 2. Enter doubt position
 3. Document concerns
 4. Share analysis
 5. Wait for reality
-
-**Risk Management:**
-- Never fight momentum
+** Risk Management:
+- ** Never fight momentum
 - Size appropriately
 - Time horizon 30-60 days
 - Accept some losses
@@ -250,23 +268,20 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>💻 Code-Based Skepticism</h3>
-
-**Technical Analysis:**
-- Review architecture
+** Technical Analysis:
+- ** Review architecture
 - Check dependencies
 - Assess feasibility
 - Timeline reality
 - Security audit
-
-**Common Technical Issues:**
-- Scaling impossibility
+** Common Technical Issues:
+- ** Scaling impossibility
 - Security vulnerabilities
 - Performance bottlenecks
 - Integration nightmares
 - Maintenance debt
-
-**Signaling Approach:**
-- Document technically
+** Signaling Approach:
+- ** Document technically
 - Share specific concerns
 - Educate community
 - Professional tone
@@ -278,19 +293,15 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>🏁 Superior Alternative Exists</h3>
-
-**Competition Analysis:**
-- Identify better solutions
+** Competition Analysis:
+- ** Identify better solutions
 - Compare features
 - Analyze moats
 - Check adoption
 - Review funding
-
-**Doubt Thesis:**
-"Why build this when X exists and is 10x better?"
-
-**Evidence Required:**
-- Side-by-side comparison
+**Doubt Thesis:"Why build this when X exists and is 10x better?"
+** Evidence Required:
+- ** Side-by-side comparison
 - Adoption metrics
 - User testimonials
 - Partnership advantages
@@ -305,25 +316,36 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>🤝 Doubt with Integrity</h3>
-
-**Ethical Guidelines:**
+** Ethical Guidelines:
 1. **Be Factual**
-   - Evidence-based only
-   - No personal attacks
-   - Document claims
-   - Stay professional
+- Evidence
+- based only
+
+- No personal attacks
+
+- Document claims
+
+- Stay professional
 
 2. **Be Helpful**
-   - Suggest improvements
-   - Point out specific issues
-   - Offer solutions
-   - Maintain respect
+
+- Suggest improvements
+
+- Point out specific issues
+
+- Offer solutions
+
+- Maintain respect
 
 3. **Be Fair**
-   - Acknowledge strengths
-   - Update if wrong
-   - Admit mistakes
-   - Stay objective
+
+- Acknowledge strengths
+
+- Update if wrong
+
+- Admit mistakes
+
+- Stay objective
 
 </div>
 
@@ -332,16 +354,14 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>❌ What NOT to Do</h3>
-
-**Forbidden Tactics:**
-- Spreading FUD
+** Forbidden Tactics:
+- ** Spreading FUD
 - Personal attacks
 - Manipulation
 - False information
 - Coordinated attacks
-
-**Reputation Damage:**
-- Community backlash
+** Reputation Damage:
+- ** Community backlash
 - Platform penalties
 - Trust erosion
 - Future handicap
@@ -355,8 +375,7 @@ Score each 1-10, doubt threshold: 35/70
 <div class="arena-card" markdown="1">
 
 <h3>📊 Doubt Portfolio Structure</h3>
-
-**Optimal Doubt Mix:**
+** Optimal Doubt Mix:
 ```
 Technical Doubts: 30% (High conviction)
 Overvaluation: 25% (Market correction)
@@ -364,9 +383,8 @@ Competition: 20% (Better exists)
 Team Concerns: 15% (Execution risk)
 Timing Issues: 10% (Unrealistic)
 ```
-
-**Risk Management:**
-- Max 20% portfolio in doubt
+** Risk Management:
+- ** Max 20% portfolio in doubt
 - Never all-in on doubt
 - Balance with belief
 - Time diversification
@@ -378,22 +396,30 @@ Timing Issues: 10% (Unrealistic)
 <div class="arena-card" markdown="1">
 
 <h3>🔄 Balanced Approaches</h3>
-
-**Hedge Patterns:**
+** Hedge Patterns:
 1. **Market Hedge**
-   - Doubt overvalued
-   - Believe undervalued
-   - Market neutral
+
+- Doubt overvalued
+
+- Believe undervalued
+
+- Market neutral
 
 2. **Sector Hedge**
-   - Doubt weak players
-   - Believe winners
-   - Sector exposure
+
+- Doubt weak players
+
+- Believe winners
+
+- Sector exposure
 
 3. **Phase Hedge**
-   - Doubt late phase
-   - Believe early phase
-   - Risk balance
+
+- Doubt late phase
+
+- Believe early phase
+
+- Risk balance
 
 </div>
 
@@ -404,29 +430,25 @@ Timing Issues: 10% (Unrealistic)
 <div class="arena-card" markdown="1">
 
 <h3>📚 Learning from Wins</h3>
-
-**Case 1: The Impossible Timeline**
-- Venture: AI rendering platform
+**Case 1: The Impossible Timeline
+- ** Venture: AI rendering platform
 - Claim: 2 weeks to production
 - Reality: 6 months minimum
 - Doubt entry: Day 2
 - Result: 2.3x return
-
-**Lessons:**
-- Technical knowledge paid
+** Lessons:
+- ** Technical knowledge paid
 - Early entry rewarded
 - Clear impossibility
 - High conviction win
-
-**Case 2: The Hidden Competition**
-- Venture: DeFi aggregator
+**Case 2: The Hidden Competition
+- ** Venture: DeFi aggregator
 - Issue: 5 better alternatives
 - Research: Detailed comparison
 - Doubt entry: 70% belief
 - Result: 1.8x return
-
-**Lessons:**
-- Research wins
+** Lessons:
+- ** Research wins
 - Contrarian profitable
 - Facts convince
 - Patience required
@@ -440,16 +462,14 @@ Timing Issues: 10% (Unrealistic)
 <div class="arena-card" markdown="1">
 
 <h3>⚠️ Doubt Failures</h3>
-
-**Strategic Errors:**
-- Doubting quality teams
+** Strategic Errors:
+- ** Doubting quality teams
 - Ignoring momentum
 - Personal bias
 - Insufficient research
 - Poor timing
-
-**Psychological Errors:**
-- Excessive negativity
+** Psychological Errors:
+- ** Excessive negativity
 - Confirmation bias
 - Stubbornness
 - Emotional decisions
@@ -464,15 +484,13 @@ Timing Issues: 10% (Unrealistic)
 <div class="arena-card" markdown="1">
 
 <h3>📊 Doubt KPIs</h3>
-
-**Key Metrics:**
-- Doubt win rate: Target 40%+
+** Key Metrics:
+- ** Doubt win rate: Target 40%+
 - Average return: Target 1.5x+
 - Contrarian bonus rate
 - Research accuracy
 - Timing effectiveness
-
-**Monthly Analysis:**
+** Monthly Analysis:
 ```
 Doubt Signals: ___
 Successful: ___
@@ -492,22 +510,30 @@ Lessons: ___
 <div class="arena-card" markdown="1">
 
 <h3>🕵️ Knowledge Advantage</h3>
-
-**Sources of Edge:**
+** Sources of Edge:
 1. **Technical Expertise**
-   - Spot impossibilities
-   - Understand complexity
-   - Assess feasibility
+
+- Spot impossibilities
+
+- Understand complexity
+
+- Assess feasibility
 
 2. **Industry Knowledge**
-   - Know competition
-   - Understand dynamics
-   - Spot obsolescence
+
+- Know competition
+
+- Understand dynamics
+
+- Spot obsolescence
 
 3. **Network Intelligence**
-   - Inside information
-   - Team history
-   - Previous failures
+
+- Inside information
+
+- Team history
+
+- Previous failures
 
 </div>
 
@@ -516,16 +542,14 @@ Lessons: ___
 <div class="arena-card" markdown="1">
 
 <h3>🤖 Algorithmic Skepticism</h3>
-
-**Screening Criteria:**
-- Anonymous team → Doubt
+** Screening Criteria:
+- ** Anonymous team → Doubt
 - No GitHub → Doubt
 - Impossible timeline → Doubt
 - 95%+ belief → Doubt
 - No demo after 30 days → Doubt
-
-**Automation Potential:**
-- Flag patterns
+** Automation Potential:
+- ** Flag patterns
 - Alert system
 - Quick analysis
 - Consistent application
@@ -539,27 +563,38 @@ Lessons: ___
 <div class="arena-card" markdown="1">
 
 <h3>🌟 Quality Doubt Brand</h3>
-
-**Reputation Building:**
+** Reputation Building:
 1. **Always Evidence-Based**
-   - Document everything
-   - Share research
-   - Educate others
+
+- Document everything
+
+- Share research
+
+- Educate others
 
 2. **Professional Approach**
-   - No personal attacks
-   - Constructive tone
-   - Helpful suggestions
+
+- No personal attacks
+
+- Constructive tone
+
+- Helpful suggestions
 
 3. **Track Record**
-   - Public predictions
-   - Transparent results
-   - Learn publicly
+
+- Public predictions
+
+- Transparent results
+
+- Learn publicly
 
 4. **Thought Leadership**
-   - Write analyses
-   - Share frameworks
-   - Teach methods
+
+- Write analyses
+
+- Share frameworks
+
+- Teach methods
 
 </div>
 

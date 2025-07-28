@@ -3,10 +3,7 @@
 ## Preparing for Sovereignty
 
 <div class="arena-card" markdown="1">
-**Phase**: Ascension 🏆  
-**Focus**: Exit Strategy  
-**Duration**: 3-6 months typical
-**</div>**
+**Phase**: Ascension 🏆  **Focus:** : Exit Strategy  Duration**: 3-6 months typical</div>
 
 ## Overview
 
@@ -35,10 +32,7 @@ Ascension is the final phase where ventures achieve full sovereignty by buying b
 ## Buyback Mechanics
 
 ### NFT Valuation
-1. **Spark NFT**: Original creation value + appreciation
-**2. **Signal NFT**: Performance-based multiplier
-**3. **Halo NFT**: Unlocks upon complete buyback
-### Pricing Formula
+1. **Spark NFT**: Original creation value + appreciation**2. **Signal NFT**: Performance-based multiplier**3. **Halo NFT**: Unlocks upon complete buyback**### Pricing Formula
 ```
 Buyback Price = Base Value × Performance Multiple × Market Factor
 ```
@@ -107,14 +101,14 @@ Buyback Price = Base Value × Performance Multiple × Market Factor
 
 ### DeFi Success
 - **Entry**: $100K Spark value
-- **Exit**: $10M buyback price
-- **Multiple**: 100x return
-- **Duration**: 24 months
+- **Exit** : $10M buyback price
+- **Multiple** : 100x return
+- **Duration** : 24 months
 ### AI Platform
 - **Entry**: $50K Spark value
-- **Exit**: $5M buyback price
-- **Multiple**: 100x return
-- **Duration**: 18 months
+- **Exit** : $5M buyback price
+- **Multiple** : 100x return
+- **Duration** : 18 months
 ## Common Concerns
 
 ### Valuation Disputes

@@ -18,17 +18,14 @@ The Anchor progression system recognizes and rewards excellence, providing clear
 
 <h3>📊 Anchor Hierarchy</h3>
 
-**Level Structure:**
-
-| Level | Experience | Validations | Success Rate | Special Requirements |
+**Level Structure:| Level | Experience | Validations | Success Rate | Special Requirements |
 |-------|------------|-------------|--------------|---------------------|
-| **Junior Anchor** | 0-6 months | 10+ | 85%+ | Training complete |
-| **Anchor** | 6-18 months | 50+ | 90%+ | Mentor juniors |
-| **Senior Anchor** | 18+ months | 150+ | 93%+ | Lead initiatives |
-| **Master Anchor** | 36+ months | 300+ | 95%+ | Council eligible |
-
-**Progression Benefits:**
-- Increased compensation
+|**Junior Anchor** | 0-6 months | 10+ | 85%+ | Training complete |
+|**Anchor** | 6-18 months | 50+ | 90%+ | Mentor juniors |
+|**Senior Anchor** | 18+ months | 150+ | 93%+ | Lead initiatives |
+|**Master Anchor** | 36+ months | 300+ | 95%+ | Council eligible |
+** Progression Benefits:
+- ** Increased compensation
 - Greater influence
 - Advanced opportunities
 - Leadership roles
@@ -41,8 +38,7 @@ The Anchor progression system recognizes and rewards excellence, providing clear
 <div class="arena-card" markdown="1">
 
 <h3>⏰ Typical Progression Path</h3>
-
-**Year 1: Foundation Building**
+**Year 1: Foundation Building
 ```
 Months 1-3: Junior Anchor
 - Complete training
@@ -62,15 +58,13 @@ Months 7-12: Approaching Anchor
 - Process mastery
 - Thought leadership
 ```
-
-**Year 2-3: Expertise Development**
-- Specialization depth
+**Year 2-3: Expertise Development
+- ** Specialization depth
 - Complex validations
 - Innovation contributions
 - Community leadership
-
-**Year 3+: Mastery Achievement**
-- Strategic influence
+**Year 3+: Mastery Achievement
+- ** Strategic influence
 - Ecosystem shaping
 - Knowledge creation
 - Legacy building
@@ -84,28 +78,37 @@ Months 7-12: Approaching Anchor
 <div class="arena-card" markdown="1">
 
 <h3>🌱 The Foundation Phase</h3>
-
-**Core Focus Areas:**
-
+** Core Focus Areas:
 1. **Technical Proficiency**
-   - Master validation tools
-   - Understand all standards
-   - Build domain knowledge
-   - Develop efficiency
+
+- Master validation tools
+
+- Understand all standards
+
+- Build domain knowledge
+
+- Develop efficiency
 
 2. **Process Excellence**
-   - Follow frameworks precisely
-   - Document thoroughly
-   - Meet all deadlines
-   - Maintain quality
+
+- Follow frameworks precisely
+
+- Document thoroughly
+
+- Meet all deadlines
+
+- Maintain quality
 
 3. **Relationship Building**
-   - Professional communication
-   - Founder empathy
-   - Peer networking
-   - Mentor engagement
 
-**Success Metrics:**
+- Professional communication
+
+- Founder empathy
+
+- Peer networking
+
+- Mentor engagement
+** Success Metrics:
 ```python
 junior_targets = {
     "validations_monthly": 3,
@@ -123,27 +126,23 @@ junior_targets = {
 <div class="arena-card" markdown="1">
 
 <h3>📈 Accelerating Growth</h3>
-
 **Month-by-Month Goals:** Month 1-2: Learn
-- Shadow senior anchors
+- ** Shadow senior anchors
 - Complete all training
 - Practice on test cases
 - Build knowledge base
-
-**Month 3-4: Apply**
-- First solo validations
+**Month 3-4: Apply
+- ** First solo validations
 - Receive feedback actively
 - Refine approach
 - Build confidence
-
-**Month 5-6: Excel**
-- Increase complexity
+**Month 5-6: Excel
+- ** Increase complexity
 - Improve efficiency
 - Contribute insights
 - Prepare for promotion
-
-**Key Activities:**
-- Weekly mentor meetings
+** Key Activities:
+- ** Weekly mentor meetings
 - Peer review participation
 - Community engagement
 - Continuous learning
@@ -157,29 +156,37 @@ junior_targets = {
 <div class="arena-card" markdown="1">
 
 <h3>⭐ The Professional Phase</h3>
-
-**Elevated Responsibilities:**
-
+** Elevated Responsibilities:
 1. **Validation Leadership**
-   - Handle complex cases
-   - Set quality examples
-   - Innovate processes
-   - Share knowledge
+
+- Handle complex cases
+
+- Set quality examples
+
+- Innovate processes
+
+- Share knowledge
 
 2. **Mentorship Duties**
-   - Guide junior anchors
-   - Share best practices
-   - Provide feedback
-   - Build culture
+
+- Guide junior anchors
+
+- Share best practices
+
+- Provide feedback
+
+- Build culture
 
 3. **Community Contribution**
-   - Lead initiatives
-   - Create resources
-   - Facilitate sessions
-   - Drive improvements
 
-**Performance Standards:**
-| Metric | Target |
+- Lead initiatives
+
+- Create resources
+
+- Facilitate sessions
+
+- Drive improvements
+**Performance Standards:| Metric | Target |
 |--------|--------|
 | Monthly Validations | 5-8 |
 | Success Rate | 90%+ |
@@ -194,10 +201,8 @@ junior_targets = {
 <div class="arena-card" markdown="1">
 
 <h3>🚀 Growing Your Impact</h3>
-
-**Advanced Skills Development:** Technical Mastery
-```
-Focus Areas:
+**Advanced Skills Development:** Technical Mastery```
+** Focus Areas:
 ├── Deep Specialization
 │   ├── Industry vertical
 │   ├── Technology stack
@@ -212,8 +217,8 @@ Focus Areas:
     └── Efficiency gains
 ```
 
-**Leadership Skills**
-- Conflict resolution
+**Leadership Skills
+- ** Conflict resolution
 - Strategic thinking
 - Change management
 - Influence building
@@ -228,29 +233,38 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>🏆 The Leadership Phase</h3>
-
-**Senior Responsibilities:**
-
+** Senior Responsibilities:
 1. **Strategic Validation**
-   - Most complex ventures
-   - Precedent-setting cases
-   - Crisis interventions
-   - Quality assurance
+
+- Most complex ventures
+- Precedent
+- setting cases
+
+- Crisis interventions
+
+- Quality assurance
 
 2. **Ecosystem Leadership**
-   - Policy development
-   - Standards evolution
-   - Training design
-   - Culture shaping
+
+- Policy development
+
+- Standards evolution
+
+- Training design
+
+- Culture shaping
 
 3. **External Representation**
-   - Industry speaking
-   - Partnership building
-   - Thought leadership
-   - Brand ambassadorship
 
-**Influence Metrics:**
-- Council participation
+- Industry speaking
+
+- Partnership building
+
+- Thought leadership
+
+- Brand ambassadorship
+** Influence Metrics:
+- ** Council participation
 - Initiative leadership
 - Policy contributions
 - Mentor tree growth
@@ -263,28 +277,38 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>💡 Innovation and Impact</h3>
-
-**Growth Strategies:** Year 2-3 Focus:
+**Growth Strategies:**  Year 2-3 Focus:
 1. **Specialization Depth**
-   - Become go-to expert
-   - Publish insights
-   - Lead workshops
-   - Drive standards
+- Become go
+- to expert
+
+- Publish insights
+
+- Lead workshops
+
+- Drive standards
 
 2. **Leadership Expansion**
-   - Multiple mentees
-   - Committee leadership
-   - Cross-team projects
-   - Strategic input
+
+- Multiple mentees
+
+- Committee leadership
+- Cross
+- team projects
+
+- Strategic input
 
 3. **External Building**
-   - Industry connections
-   - Conference speaking
-   - Article writing
-   - Community building
 
-**Innovation Expectations:**
-- New frameworks
+- Industry connections
+
+- Conference speaking
+
+- Article writing
+
+- Community building
+** Innovation Expectations:
+- ** New frameworks
 - Tool development
 - Process improvements
 - Knowledge creation
@@ -298,23 +322,20 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>🌟 The Mastery Phase</h3>
-
-**Master Anchor Profile:** Exceptional Performance:
-- 95%+ success rate
+**Master Anchor Profile:**  Exceptional Performance:
+- ** 95%+ success rate
 - <2% dispute rate
 - 300+ validations
 - Multiple specializations
 - Proven innovation
-
-**Leadership Excellence:**
-- Council member/eligible
+** Leadership Excellence:
+- ** Council member/eligible
 - Multiple initiatives led
 - Significant contributions
 - Mentor tree thriving
 - External recognition
-
-**Strategic Impact:**
-- Policy shaping
+** Strategic Impact:
+- ** Policy shaping
 - Ecosystem direction
 - Standard setting
 - Culture defining
@@ -327,29 +348,38 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>👑 Elite Contributions</h3>
-
-**Unique Responsibilities:**
-
+** Unique Responsibilities:
 1. **Apex Validations**
-   - Highest stakes
-   - Most complex
-   - Precedent setting
-   - Crisis management
+
+- Highest stakes
+
+- Most complex
+
+- Precedent setting
+
+- Crisis management
 
 2. **Ecosystem Architecture**
-   - Design systems
-   - Shape policies
-   - Build frameworks
-   - Guide evolution
+
+- Design systems
+
+- Shape policies
+
+- Build frameworks
+
+- Guide evolution
 
 3. **Legacy Building**
-   - Knowledge codification
-   - Successor development
-   - Culture preservation
-   - Future preparation
 
-**Master Privileges:**
-- Highest compensation
+- Knowledge codification
+
+- Successor development
+
+- Culture preservation
+
+- Future preparation
+** Master Privileges:
+- ** Highest compensation
 - Council eligibility
 - Strategic input
 - Speaking opportunities
@@ -364,12 +394,10 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>🚀 Fast-Track Tactics</h3>
-
-**Proven Acceleration Methods:**
-
+** Proven Acceleration Methods:
 1. **Over-Deliver Consistently**
    ```python
-   def accelerate_progression():
+** def accelerate_progression():
        # Exceed minimums
        target_validations = minimum * 1.5
        target_quality = standard + 10%
@@ -386,16 +414,24 @@ Focus Areas:
    ```
 
 2. **Strategic Networking**
-   - Connect with leaders
-   - Join committees
-   - Attend events
-   - Build reputation
+
+- Connect with leaders
+
+- Join committees
+
+- Attend events
+
+- Build reputation
 
 3. **Innovation Focus**
-   - Identify improvements
-   - Propose solutions
-   - Lead implementation
-   - Share results
+
+- Identify improvements
+
+- Propose solutions
+
+- Lead implementation
+
+- Share results
 
 </div>
 
@@ -404,30 +440,26 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>📚 Continuous Learning</h3>
-
-**Skill Building Framework:** Technical Skills:
-- New technologies
+**Skill Building Framework:**  Technical Skills:
+- ** New technologies
 - Industry trends
 - Advanced tools
 - Security practices
 - Performance optimization
-
-**Business Acumen:**
-- Market dynamics
+** Business Acumen:
+- ** Market dynamics
 - Financial modeling
 - Strategic planning
 - Risk assessment
 - Growth strategies
-
-**Soft Skills:**
-- Communication mastery
+** Soft Skills:
+- ** Communication mastery
 - Emotional intelligence
 - Leadership presence
 - Influence building
 - Cultural awareness
-
-**Learning Methods:**
-- Formal training
+** Learning Methods:
+- ** Formal training
 - Peer learning
 - Self-study
 - Experimentation
@@ -442,8 +474,7 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>📊 Tracking Progress</h3>
-
-**Review Cycle:** Monthly Self-Review:
+**Review Cycle:**  Monthly Self-Review:
 ```markdown
 ## Monthly Performance Check
 
@@ -465,9 +496,8 @@ Focus Areas:
 - Relationship building
 - Contribution plans
 ```
-
-**Quarterly Formal Review:**
-- Manager assessment
+** Quarterly Formal Review:
+- ** Manager assessment
 - Peer feedback
 - Self-evaluation
 - Goal setting
@@ -480,26 +510,32 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>🧗 Breaking Through Barriers</h3>
-
-**Common Plateaus:**
-
+** Common Plateaus:
 1. **Skill Plateau**
-   - Symptoms: Same mistakes
-   - Solution: New learning
-   - Action: External training
+
+- Symptoms: Same mistakes
+
+- Solution: New learning
+
+- Action: External training
 
 2. **Motivation Plateau**
-   - Symptoms: Low energy
-   - Solution: New challenges
-   - Action: Role expansion
+
+- Symptoms: Low energy
+
+- Solution: New challenges
+
+- Action: Role expansion
 
 3. **Relationship Plateau**
-   - Symptoms: Limited network
-   - Solution: Active outreach
-   - Action: Event participation
 
-**Breakthrough Strategies:**
-- Seek stretch assignments
+- Symptoms: Limited network
+
+- Solution: Active outreach
+
+- Action: Event participation
+** Breakthrough Strategies:
+- ** Seek stretch assignments
 - Request feedback actively
 - Find new mentors
 - Change focus areas
@@ -514,18 +550,14 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>💰 Financial Progression</h3>
-
-**Compensation Scaling:**
-
-| Level | Base Multiplier | Performance Bonus | Additional Opportunities |
+**Compensation Scaling:| Level | Base Multiplier | Performance Bonus | Additional Opportunities |
 |-------|----------------|-------------------|-------------------------|
 | Junior | 1.0x | Up to 20% | Training incentives |
 | Anchor | 1.5x | Up to 30% | Mentorship bonus |
 | Senior | 2.2x | Up to 40% | Leadership roles |
 | Master | 3.0x | Up to 50% | Strategic advisory |
-
-**Additional Income:**
-- Complex validation premiums
+** Additional Income:
+- ** Complex validation premiums
 - Mentorship compensation
 - Speaking engagements
 - Content creation
@@ -540,32 +572,46 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>🎯 Your Anchor Future</h3>
-
-**Career Path Options:**
-
+** Career Path Options:
 1. **Specialist Track**
-   - Deep expertise
-   - Industry authority
-   - Premium validations
-   - Consulting opportunities
+
+- Deep expertise
+
+- Industry authority
+
+- Premium validations
+
+- Consulting opportunities
 
 2. **Leadership Track**
-   - Council membership
-   - Policy influence
-   - Ecosystem shaping
-   - Legacy building
+
+- Council membership
+
+- Policy influence
+
+- Ecosystem shaping
+
+- Legacy building
 
 3. **Entrepreneur Track**
-   - Start ventures
-   - Build tools
-   - Create services
-   - Industry innovation
+
+- Start ventures
+
+- Build tools
+
+- Create services
+
+- Industry innovation
 
 4. **Educator Track**
-   - Training design
-   - Content creation
-   - Speaking circuit
-   - Knowledge sharing
+
+- Training design
+
+- Content creation
+
+- Speaking circuit
+
+- Knowledge sharing
 
 </div>
 
@@ -574,12 +620,9 @@ Focus Areas:
 <div class="arena-card" markdown="1">
 
 <h3>🎯 Planning Your Journey</h3>
-
-**SMART Goals Framework:**
-
+** SMART Goals Framework:
 ```
-Example 5-Year Plan:
-
+** Example 5-Year Plan:
 Year 1: Foundation
 - Complete 50 validations
 - Achieve 90% success rate

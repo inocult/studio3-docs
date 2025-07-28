@@ -19,19 +19,23 @@ Congratulations on winning your Forge Duel! Now it's time to establish your Cont
 <h3>📦 Your Venture's Governance Wrapper</h3>
 
 **Container DAO Fundamentals:**
-- Lightweight governance structure
+- ** Lightweight governance structure
 - Houses all three NFTs (Spark, Signal, Halo)
 - Enables community participation
 - Preserves founder control
 - Progressive decentralization path
-
-**Key Benefits:**
-1. **No Equity Dilution** - Community participates without taking shares
-**2. **Clear Governance** - Transparent decision-making
-**3. **NFT Security** - All NFTs secured in Genesis Wallet
-**4. **Flexibility** - Adapt governance as you grow
-**5. **Exit Path** - Clear route to full sovereignty
-</div>
+** Key Benefits:
+- 
+1. **No Equity Dilution**
+- Community participates without taking shares
+2. **Clear Governance**
+- Transparent decision-making
+3. **NFT Security**
+- All NFTs secured in Genesis Wallet
+4. **Flexibility**
+- Adapt governance as you grow
+5. **Exit Path**
+- Clear route to full sovereignty**</div>
 
 ### The Genesis Wallet
 
@@ -39,21 +43,20 @@ Congratulations on winning your Forge Duel! Now it's time to establish your Cont
 
 <h3>🔐 Your NFT Treasury</h3>
 
-**Genesis Wallet Structure:**
+** Genesis Wallet Structure:
 ```
 Genesis Wallet (Multisig)
 ├── Spark NFT (Original Idea)
 ├── Signal NFT (Journey Identity)
 └── Halo NFT (Sovereignty Seal - Locked)
 
-Signers:
+** Signers:
 - Founder(s): 2-3 signatures
 - Platform: 1 signature
 - Community: 0-1 signature (later phases)
 ```
-
-**Security Features:**
-- Multi-signature requirement
+** Security Features:
+- ** Multi-signature requirement
 - Time-locked operations
 - Transparent on-chain
 - Recovery mechanisms
@@ -68,15 +71,13 @@ Signers:
 <div class="arena-card" markdown="1">
 
 <h3>✅ Before You Begin</h3>
-
-**Required Elements:**
-- [ ] Forge Duel victory confirmation
+** Required Elements:
+- ** [ ] Forge Duel victory confirmation
 - [ ] Founding team alignment
 - [ ] Wallet addresses ready
 - [ ] Initial governance decisions
 - [ ] Legal structure clarity
-
-**Preparation Steps:**
+** Preparation Steps:
 1. Review DAO documentation
 2. Align with co-founders
 3. Prepare governance proposal
@@ -90,11 +91,10 @@ Signers:
 <div class="arena-card" markdown="1">
 
 <h3>🚀 Step-by-Step Setup</h3>
-
-**Phase 1: Initialize (Day 1)**
+**Phase 1: Initialize (Day 1)
 ```python
 # DAO Initialization
-def initialize_container_dao():
+** def initialize_container_dao():
     # Create Genesis Wallet
     genesis_wallet = create_multisig_wallet(
         founders=[founder_1, founder_2],
@@ -109,16 +109,14 @@ def initialize_container_dao():
     
     return dao_address
 ```
-
-**Phase 2: Configure (Days 2-3)**
-- Set governance parameters
+**Phase 2: Configure (Days 2-3)
+- ** Set governance parameters
 - Define voting mechanisms
 - Establish treasury rules
 - Create initial proposals
 - Test all functions
-
-**Phase 3: Launch (Day 4-7)**
-- Public announcement
+**Phase 3: Launch (Day 4-7)
+- ** Public announcement
 - Community onboarding
 - First governance vote
 - Treasury activation
@@ -133,22 +131,23 @@ def initialize_container_dao():
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ Balanced Governance
-
-**Voting Power Distribution:**
-
-| Stakeholder | Ignition | Drift | Orbit | Flare | Ascension |
+**Voting Power Distribution:| Stakeholder | Ignition | Drift | Orbit | Flare | Ascension |
 |-------------|----------|-------|-------|-------|-----------|
 | Founders | 80% | 70% | 60% | 51% | Buyback |
 | Echoes | 15% | 20% | 25% | 29% | N/A |
 | Anchors | 5% | 10% | 15% | 20% | N/A |
-
-**Decision Types:**
-1. **Operational** - Day-to-day (Founder discretion)
-**2. **Strategic** - Major pivots (60% approval)
-**3. **Financial** - Treasury use (70% approval)
-**4. **Constitutional** - DAO changes (80% approval)
-**5. **Emergency** - Crisis response (Founder + Platform)
-</div>
+** Decision Types:
+- 
+1. **Operational**
+- Day-to-day (Founder discretion)
+2. **Strategic**
+- Major pivots (60% approval)
+3. **Financial**
+- Treasury use (70% approval)
+4. **Constitutional**
+- DAO changes (80% approval)
+5. **Emergency**
+- Crisis response (Founder + Platform)**</div>
 
 ### Proposal System
 
@@ -156,16 +155,16 @@ def initialize_container_dao():
 
 <h3>📋 Making Decisions
 
-**Proposal Lifecycle:**
+** Proposal Lifecycle:
 ```
 Idea → Draft → Review → Vote → Execute
  (1d)   (2d)    (1d)    (3d)    (1d)
 ```
-
-**Proposal Types:** Milestone Proposals** - Define next goals**
-- **Budget Proposals** Strategy Proposals
-- **Emergency Proposals** Upgrade Proposals
-- ** Best Practices:**
+** Proposal Types:
+Milestone Proposals** - Define next goals
+- **Budget Proposals**  Strategy Proposals
+- **Emergency Proposals**  Upgrade Proposals
+**  Best Practices:
 - Clear problem statement
 - Specific solutions
 - Success metrics
@@ -181,7 +180,8 @@ Idea → Draft → Review → Vote → Execute
 <div class="arena-card" markdown="1">
 
 <h3>💰 Managing DAO Resources</n
-**Treasury Structure:**
+
+** Treasury Structure:
 ```
 Container DAO Treasury
 ├── Operating Fund (30%)
@@ -201,9 +201,8 @@ Container DAO Treasury
     ├── Anchor payments
     └── Governance incentives
 ```
-
-**Spending Controls:**
-- Multi-sig requirements
+** Spending Controls:
+- ** Multi-sig requirements
 - Spending limits
 - Audit trails
 - Regular reporting
@@ -216,18 +215,27 @@ Container DAO Treasury
 <div class="arena-card" markdown="1">
 
 <h3>📈 Funding Your DAO
-
-**Revenue Sources:**
-1. **Milestone Rewards** - Platform incentives
-**2. **Echo Contributions** - Community investment
-**3. **Service Revenue** - Customer payments
-**4. **Partnership Income** - Strategic deals
-**5. **Token Appreciation** - $SIGNAL value growth
-**Revenue Allocation:**
-- 40% - Operations
-- 30% - Growth initiatives
-- 20% - Treasury reserve
-- 10% - Community rewards
+** Revenue Sources:
+- 
+1. **Milestone Rewards**
+- Platform incentives
+2. **Echo Contributions**
+- Community investment
+3. **Service Revenue**
+- Customer payments
+4. **Partnership Income**
+- Strategic deals
+5. **Token Appreciation**
+- $SIGNAL value growth**
+- ** Revenue Allocation:
+- ** 40%
+- Operations
+- 30%
+- Growth initiatives
+- 20%
+- Treasury reserve
+- 10%
+- Community rewards
 
 </div>
 
@@ -238,18 +246,16 @@ Container DAO Treasury
 <div class="arena-card" markdown="1">
 
 <h3>👥 Activating Your Community
-
-**Engagement Strategies:** Communication Channels:
-- Discord server setup
+**Engagement Strategies:**  Communication Channels:
+- ** Discord server setup
 - Telegram groups
 - Forum creation
 - Newsletter launch
 - Regular AMAs
-
-**Participation Incentives:**
+** Participation Incentives:
 ```python
 # Reward active participants
-def calculate_participation_rewards():
+** def calculate_participation_rewards():
     rewards = {
         "proposal_creation": 100,
         "voting_participation": 10,
@@ -259,27 +265,25 @@ def calculate_participation_rewards():
     }
     return total_rewards
 ```
-
-**Community Roles:** Contributors** - Active participants**
-- **Moderators** Ambassadors
-- **Advisors** Validators
-</div>
+** Community Roles:
+Contributors** - Active participants
+- **Moderators**  Ambassadors
+- **Advisors**  Validators
+**</div>
 
 ### Echo Integration
 
 <div class="arena-card" markdown="1">
 
 <h3>📡 Leveraging Signal Holders
-
-**Echo Benefits in DAO:**
-- Early access to products
+** Echo Benefits in DAO:
+- ** Early access to products
 - Governance participation
 - Revenue sharing (if applicable)
 - Exclusive updates
 - Network access
-
-**Echo Responsibilities:**
-- Constructive feedback
+** Echo Responsibilities:
+- ** Constructive feedback
 - Active participation
 - Network promotion
 - Resource contribution
@@ -294,29 +298,24 @@ def calculate_participation_rewards():
 <div class="arena-card" markdown="1">
 
 <h3>🔄 From Founder-Led to Community-Driven
-
 **Decentralization Phases:** Phase 1: Ignition (Months 1-6)
-- Founder control: 80%
+- ** Founder control: 80%
 - Focus: Product building
 - Community: Advisory
-
-**Phase 2: Drift (Months 7-12)**
-- Founder control: 70%
+**Phase 2: Drift (Months 7-12)
+- ** Founder control: 70%
 - Focus: Product-market fit
 - Community: Active input
-
-**Phase 3: Orbit (Months 13-24)**
-- Founder control: 60%
+**Phase 3: Orbit (Months 13-24)
+- ** Founder control: 60%
 - Focus: Scaling
 - Community: Co-governance
-
-**Phase 4: Flare (Year 2+)**
-- Founder control: 51%
+**Phase 4: Flare (Year 2+)
+- ** Founder control: 51%
 - Focus: Growth
 - Community: Major influence
-
-**Phase 5: Ascension**
-- Full sovereignty
+**Phase 5: Ascension
+- ** Full sovereignty
 - Founder buyback option
 - Community transition
 
@@ -327,15 +326,20 @@ def calculate_participation_rewards():
 <div class="arena-card" markdown="1">
 
 <h3>🎯 Founder Protections
-
-**Control Mechanisms:**
-1. **Veto Rights** - On critical decisions
-**2. **Golden Shares** - Special voting class
-**3. **Time Locks** - Gradual transition
-**4. **Buy-back Options** - Exit rights
-**5. **Emergency Powers** - Crisis management
-**Balance Strategies:**
-- Clear communication
+** Control Mechanisms:
+- 
+1. **Veto Rights**
+- On critical decisions
+2. **Golden Shares**
+- Special voting class
+3. **Time Locks**
+- Gradual transition
+4. **Buy-back Options**
+- Exit rights
+5. **Emergency Powers**
+- Crisis management**
+- ** Balance Strategies:
+- ** Clear communication
 - Transparent roadmap
 - Fair value sharing
 - Mutual benefit focus
@@ -350,22 +354,26 @@ def calculate_participation_rewards():
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ Legal Framework
-
-**Key Considerations:**
-- Jurisdiction selection
+** Key Considerations:
+- ** Jurisdiction selection
 - Entity structure
 - Tax implications
 - Securities compliance
 - IP ownership
-
-**Common Structures:**
-1. **Wyoming DAO LLC** - US flexibility
-**2. **Cayman Foundation** - International
-**3. **Swiss Association** - European option
-**4. **Singapore Structure** - Asian base
-**5. **Hybrid Model** - Multi-jurisdiction
-**Legal Checklist:**
-- [ ] Entity formation
+** Common Structures:
+- 
+1. **Wyoming DAO LLC**
+- US flexibility
+2. **Cayman Foundation**
+- International
+3. **Swiss Association**
+- European option
+4. **Singapore Structure**
+- Asian base
+5. **Hybrid Model**
+- Multi-jurisdiction**
+- ** Legal Checklist:
+- ** [ ] Entity formation
 - [ ] Operating agreement
 - [ ] IP assignment
 - [ ] Compliance review
@@ -380,28 +388,36 @@ def calculate_participation_rewards():
 <div class="arena-card" markdown="1">
 
 <h3>⚠️ Common DAO Mistakes
-
-**What to Avoid:**
-
+** What to Avoid:
 1. **Over-Decentralization**
-   - Problem: Losing control too early
-   - Solution: Gradual transition
+
+- Problem: Losing control too early
+
+- Solution: Gradual transition
 
 2. **Under-Communication**
-   - Problem: Community confusion
-   - Solution: Regular updates
+
+- Problem: Community confusion
+
+- Solution: Regular updates
 
 3. **Weak Governance**
-   - Problem: Decision paralysis
-   - Solution: Clear frameworks
+
+- Problem: Decision paralysis
+
+- Solution: Clear frameworks
 
 4. **Treasury Mismanagement**
-   - Problem: Resource depletion
-   - Solution: Strict controls
+
+- Problem: Resource depletion
+
+- Solution: Strict controls
 
 5. **Legal Negligence**
-   - Problem: Regulatory issues
-   - Solution: Proper compliance
+
+- Problem: Regulatory issues
+
+- Solution: Proper compliance
 
 </div>
 
@@ -412,16 +428,14 @@ def calculate_participation_rewards():
 <div class="arena-card" markdown="1">
 
 <h3>🚀 After DAO Creation
-
-**Immediate Actions:**
+** Immediate Actions:
 1. Announce DAO launch
 2. Onboard initial members
 3. Create first proposals
 4. Set milestone targets
 5. Begin operations
-
-**First Week Goals:**
-- [ ] Hold first community call
+** First Week Goals:
+- ** [ ] Hold first community call
 - [ ] Pass initial proposals
 - [ ] Establish rhythms
 - [ ] Launch communications

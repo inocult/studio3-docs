@@ -11,11 +11,9 @@ The Arena is Studio3's revolutionary public execution environment where ventures
 An Arena is a transparent, public space where:
 
 - **Ventures declare** their milestones
-- **Supporters signal** their belief or doubt
-
+- **Supporters signal**  their belief or doubt
 - **Progress unfolds** in real-time
-- **Results determine** rewards and penalties
-
+- **Results determine**  rewards and penalties
 !!! quote "The Arena Philosophy"
     "In the Arena, there are no hidden failures, no private pivots, no secret struggles. Everything happens in the open, creating radical accountability."
 
@@ -24,7 +22,7 @@ An Arena is a transparent, public space where:
 ### Different Stages, Different Rules
 
 <div class="grid cards">
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>✨ Spark Arena</h3>
         <p><strong>Purpose:</strong> Idea validation</p>
         <p><strong>Duration:</strong> 7-14 days</p>
@@ -32,7 +30,7 @@ An Arena is a transparent, public space where:
         <p>Where ideas compete for attention and initial support</p>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>⚔️ Forge Arena</h3>
         <p><strong>Purpose:</strong> Founder selection</p>
         <p><strong>Duration:</strong> 3-5 days</p>
@@ -40,7 +38,7 @@ An Arena is a transparent, public space where:
         <p>Where founders duel for the right to build</p>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>🎯 Milestone Arena</h3>
         <p><strong>Purpose:</strong> Progress validation</p>
         <p><strong>Duration:</strong> Variable (per milestone)</p>
@@ -48,7 +46,7 @@ An Arena is a transparent, public space where:
         <p>Where ventures prove their execution ability</p>
     </div>
     
-    <div class="arena-card">
+    <div class="arena-card" markdown="1">
         <h3>✅ Validation Arena</h3>
         <p><strong>Purpose:</strong> Achievement verification</p>
         <p><strong>Duration:</strong> 24-48 hours</p>
@@ -82,23 +80,27 @@ sequenceDiagram
 
 | Component | Function | Participants |
 |-----------|----------|-------------|
-| **Declaration** | Public commitment to specific goals | Founders |
-| **Signaling** | Token-backed belief or doubt | Echoes |
-| **Execution** | Transparent work toward goals | Founders |
-| **Validation** | Independent verification of results | Anchors |
-| **Settlement** | Automated reward/penalty distribution | System |
+|**Declaration** | Public commitment to specific goals | Founders |
+|**Signaling** | Token-backed belief or doubt | Echoes |
+|**Execution** | Transparent work toward goals | Founders |
+|**Validation** | Independent verification of results | Anchors |
+|**Settlement** | Automated reward/penalty distribution | System |
 
 ## Arena Rules
 
 ### Universal Principles
 
 !!! warning "Non-Negotiable Rules"
-    1. **All work must be public** - No private development
-**    2. **All milestones are binding** - Once declared, must be attempted
-**    3. **All signals are final** - No takebacks after placing
-**    4. **All validations are independent** - No founder influence
-**    5. **All settlements are automatic** - No manual overrides
-### Phase-Specific Rules
+    1. **All work must be public**  - No private development
+1. 
+2. **All milestones are binding**  - Once declared, must be attempted
+2. 
+- 3.** All signals are final
+- No takebacks after placing**
+- **    4.**  All validations are independent
+- No founder influence
+- **    5.** All settlements are automatic
+- No manual overrides**### Phase-Specific Rules
 
 #### Spark Arena Rules
 - Minimum 100 $SIGNAL initial support to proceed
@@ -128,25 +130,21 @@ sequenceDiagram
 <h3>📡 Signal Mechanics</h3>
 
 **Belief Signals** 👍
-- Stake tokens on successful completion
-
+- ** Stake tokens on successful completion
 - Earn 1.5x 
 
 - 3x multiplier if correct
 
 - Lose entire stake if wrong
-
 **Doubt Signals** 👎
-- Stake tokens on milestone failure
-
+- ** Stake tokens on milestone failure
 - Earn 1.2x 
 
 - 2x multiplier if correct  
 
 - Lose entire stake if wrong
-
-**Multiplier Factors:**
-- Early signals earn higher multipliers
+** Multiplier Factors:
+- ** Early signals earn higher multipliers
 - Contrarian correct signals bonus
 - Reputation level affects multipliers
 - Phase difficulty impacts rewards
@@ -173,16 +171,14 @@ graph TD
 ## Arena Transparency
 
 ### Everything is Visible
-
-**Public Information:**
-- All milestone declarations
+** Public Information:
+- ** All milestone declarations
 - All signal amounts and timing
 - All founder updates and evidence
 - All validator comments and scores
 - All reward distributions
-
-**Performance Metrics:**
-- Success/failure rates by founder
+** Performance Metrics:
+- ** Success/failure rates by founder
 - Signal accuracy by Echo
 - Validation quality by Anchor
 - Phase progression timelines
@@ -193,29 +189,59 @@ graph TD
 ### For Founders
 
 !!! tip "Arena Best Practices"
-    - **Declare realistic milestones** - Under-promise, over-deliver
-    - **Update progress daily** - Keep supporters engaged
-    - **Share challenges openly** - Build trust through transparency
-    - **Submit evidence early** - Allow time for validation
-    - **Engage with feedback** - Community wisdom is valuable
+
+- **Declare realistic milestones**
+- Under-promise, over-deliver
+
+- **Update progress daily**
+- Keep supporters engaged
+
+- **Share challenges openly**
+- Build trust through transparency
+
+- **Submit evidence early**
+- Allow time for validation
+
+- **Engage with feedback**
+- Community wisdom is valuable
 
 ### For Echoes
 
 !!! tip "Signaling Strategies"
-    - **Research thoroughly** - Past performance predicts future
-    - **Diversify signals** - Don't put all tokens on one milestone
-    - **Time entries well** - Early signals earn more
-    - **Monitor actively** - Adjust strategies based on progress
-    - **Learn from losses** - Failed signals teach valuable lessons
+
+- **Research thoroughly**
+- Past performance predicts future
+
+- **Diversify signals**
+- Don't put all tokens on one milestone
+
+- **Time entries well**
+- Early signals earn more
+
+- **Monitor actively**
+- Adjust strategies based on progress
+
+- **Learn from losses**
+- Failed signals teach valuable lessons
 
 ### For Anchors
 
 !!! tip "Validation Excellence"
-    - **Set clear criteria** - Define success before evaluation
-    - **Document thoroughly** - Justify all decisions
-    - **Remain impartial** - Ignore signal dynamics
-    - **Provide feedback** - Help ventures improve
-    - **Maintain standards** - Ecosystem quality depends on you
+
+- **Set clear criteria**
+- Define success before evaluation
+
+- **Document thoroughly**
+- Justify all decisions
+
+- **Remain impartial**
+- Ignore signal dynamics
+
+- **Provide feedback**
+- Help ventures improve
+
+- **Maintain standards**
+- Ecosystem quality depends on you
 
 ## Arena Technology
 
@@ -246,11 +272,11 @@ graph TD
 
 | Metric | Description | Why It Matters |
 |--------|-------------|----------------|
-| **Signal Velocity** | Speed of belief/doubt accumulation | Indicates market confidence |
-| **Completion Rate** | % of milestones achieved | Shows execution quality |
-| **Accuracy Score** | % of correct signals | Measures Echo expertise |
-| **Validation Time** | Hours to verify completion | Indicates Anchor efficiency |
-| **Token Multiplier** | Average reward multiple | Shows risk/reward balance |
+|**Signal Velocity** | Speed of belief/doubt accumulation | Indicates market confidence |
+|**Completion Rate** | % of milestones achieved | Shows execution quality |
+|**Accuracy Score** | % of correct signals | Measures Echo expertise |
+|**Validation Time** | Hours to verify completion | Indicates Anchor efficiency |
+|**Token Multiplier** | Average reward multiple | Shows risk/reward balance |
 
 ## Arena Evolution
 
@@ -258,11 +284,14 @@ graph TD
 
 The Arena system evolves through:
 
-1. **Community Proposals** - Suggest rule changes
-**2. **A/B Testing** - Try variations in parallel
-**3. **Data Analysis** - Optimize based on outcomes
-**4. **Feedback Loops** - Incorporate learner insights
-### Future Enhancements
+- 1.** Community Proposals
+- Suggest rule changes
+2. **A/B Testing**
+- Try variations in parallel
+3. **Data Analysis**
+- Optimize based on outcomes
+4. **Feedback Loops**
+- Incorporate learner insights**### Future Enhancements
 
 !!! info "Coming Soon"
     - **Conditional Signals** - "I believe IF X happens"
@@ -278,11 +307,9 @@ The Arena system evolves through:
 <div class="arena-card" markdown="1">
 
 <h4>🏆 DataMesh Protocol</h4>
-
 **Arena Performance:** 12/12 milestones completed
-**Total Signals:** 2.3M $SIGNAL belief
-**Outcome:** Graduated in record time
-> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable." - DataMesh Founder
+- **Total Signals:**  2.3M $SIGNAL beliefOutcome:** Graduated in record time**> "The Arena's transparency forced us to be better. Every day we knew thousands were watching, believing, and holding us accountable."
+- DataMesh Founder
 
 </div>
 
@@ -291,9 +318,10 @@ The Arena system evolves through:
 <h4>💡 EcoChain Initiative</h4>
 
 **Arena Performance:** Pivoted after milestone 3 failure
-**Community Response:** 80% maintained belief post-pivot
-**Outcome:** Successful with new direction
-> "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product-market fit." - EcoChain Founder
+- **Community Response:**  80% maintained belief post
+- pivotOutcome:** Successful with new direction**> "Failing in public was painful but invaluable. The Arena's feedback helped us find our real product
+- market fit."
+- EcoChain Founder
 
 </div>
 
@@ -302,20 +330,31 @@ The Arena system evolves through:
 ### What to Avoid
 
 !!! danger "Arena Mistakes"
-    - **Over-promising** - Unrealistic milestones destroy credibility
-**    - **Under-communicating** - Silent founders lose support - **Ignoring feedback** - Community wisdom is valuable
-    - **Gaming metrics** - Artificial activity is easily detected
-    - **Blame-shifting** - Take responsibility for failures
-## Getting Started
+
+- **Over-promising**
+- Unrealistic milestones destroy credibility
+- **    -**Under-communicating**
+- Silent founders lose support -**Ignoring feedback**
+- Community wisdom is valuable
+
+- **Gaming metrics**
+- Artificial activity is easily detected
+
+- **Blame-shifting**
+- Take responsibility for failures**## Getting Started
 
 ### Your First Arena
 
-1. **Observe** - Watch active Arenas to understand dynamics
-**2. **Analyze** - Study successful and failed patterns
-**3. **Prepare** - Plan your approach carefully
-**4. **Enter** - Start with appropriate stakes
-**5. **Learn** - Every Arena teaches something valuable
-## Next Steps
+- 1. ** Observe
+- Watch active Arenas to understand dynamics
+2. **Analyze**
+- Study successful and failed patterns
+3. **Prepare**
+- Plan your approach carefully
+4. **Enter**
+- Start with appropriate stakes
+5. **Learn**
+- Every Arena teaches something valuable**## Next Steps
 
 - Master [Belief & Doubt Signals](belief-signals.md) mechanics
 - Understand the [Seven Phase Lifecycle](seven-phases.md)

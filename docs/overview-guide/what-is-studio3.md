@@ -17,28 +17,34 @@ Studio3 creates an ecosystem where great ideas can find support, validation, and
 
 Every venture in Studio3 operates in public view:
 
-- **Open Milestones** - All goals and deadlines are visible
-- **Public Progress** - Development happens in the open
-- **Clear Metrics** - Success and failure are measurable
-- **Community Feedback** - Real-time input from supporters
-
+- **Open Milestones**
+- All goals and deadlines are visible
+- **Public Progress**
+- Development happens in the open
+- **Clear Metrics**
+- Success and failure are measurable
+- **Community Feedback**
+- Real-time input from supporters
 ### 🎮 Gamified Entrepreneurship
 
 Building ventures becomes an engaging experience:
 
-- **Seven Phases** - Clear progression from idea to independence
-- **XP System** - Earn experience and unlock capabilities
-- **Achievements** - Recognize exceptional performance
-- **Leaderboards** - Friendly competition drives excellence
-
+- **Seven Phases**
+- Clear progression from idea to independence
+- **XP System**
+- Earn experience and unlock capabilities
+- **Achievements**
+- Recognize exceptional performance
+- **Leaderboards**
+- Friendly competition drives excellence
 ### 🤝 Aligned Incentives
 
 Everyone wins when ventures succeed:
 
 - **Founders** gain resources and support
-- **Supporters** earn rewards for accurate predictions
+- **Supporters**  earn rewards for accurate predictions
 
-    - **Validators** → [Anchors Guide](../anchors-guide/index.md)
+- **Validators** → [Anchors Guide](../anchors-guide/index.md)
 
 - **Ecosystem** grows stronger with each success
 
@@ -117,11 +123,14 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 
 ### For Individual Participants
 
-- **Founders** - Access to resources without traditional gatekeepers
-- **Supporters** - Direct participation in venture success
-    - **Validators** → [Anchors Guide](../anchors-guide/index.md)
-- **Everyone** - Transparent, fair, merit-based system
+- **Founders**
+- Access to resources without traditional gatekeepers
+- **Supporters**
+- Direct participation in venture success
 
+- **Validators** → [Anchors Guide](../anchors-guide/index.md)
+- **Everyone**
+- Transparent, fair, merit-based system
 ## Key Differentiators
 
 | Traditional VC | Studio3 |
@@ -136,12 +145,16 @@ Experienced builders who validate progress, mentor founders, and maintain ecosys
 
 Studio3 measures success through:
 
-- **Venture Graduation Rate** - Percentage reaching Ascension
-- **Community Satisfaction** - Participant NPS scores
-- **Ecosystem Growth** - New ventures and participants
-- **Value Creation** - Total market cap of graduated ventures
-- **Innovation Impact** - Real-world problems solved
-
+- **Venture Graduation Rate**
+- Percentage reaching Ascension
+- **Community Satisfaction**
+- Participant NPS scores
+- **Ecosystem Growth**
+- New ventures and participants
+- **Value Creation**
+- Total market cap of graduated ventures
+- **Innovation Impact**
+- Real-world problems solved
 ## Getting Started
 
 Ready to join the Studio3 ecosystem? Your next steps depend on your goals:

@@ -70,8 +70,7 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 ## 🎯 Who Should Read This Guide?
 
 - **🏆 Experienced Builders** with proven track records
-- **👨‍🏫 Mentors** wanting to guide ventures
-
+- **👨‍🏫 Mentors**  wanting to guide ventures
 - **🛡️ Quality Guardians** ensuring standards
 
 - **⚖️ Fair Judges** of venture progress
@@ -160,12 +159,11 @@ This guide is for experienced builders who want to become Anchors (Validators) i
 ## 💰 Compensation Structure
 
 !!! info "Anchor Rewards"
-    - **Base Fee**: 2-5% of milestone value
-**    - **Performance Bonus**: Up to 3x for quality
-**    - **Long-term Upside**: Success participation
-**    - **Reputation Rewards**: Increased influence
-**    - **Governance Rights**: Shape platform future
-## 🌟 Notable Anchors
+    - **Base Fee** : 2-5% of milestone value
+- **    -**Performance Bonus** : Up to 3x for quality
+- **    -**Long-term Upside** : Success participation
+- **    -**Reputation Rewards** : Increased influence
+- **    -**Governance Rights**: Shape platform future**## 🌟 Notable Anchors
 
 <div class="grid">
 <div class="arena-card" markdown="1">

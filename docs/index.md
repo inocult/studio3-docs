@@ -104,13 +104,10 @@ Essential handbook for validators who guide ventures and maintain ecosystem inte
 
 ## 🌟 The Studio3 Difference
 
-Studio3 transforms venture building through **🏟️ Public Arenas** where all progress happens transparently, **📊 Belief Signals** where community conviction drives support, and **🎮 Seven Phases** that guide ventures from idea spark to full sovereignty. With **🏆 Real Stakes**, success brings rewards while failure has consequences, all within a **🤝 Community-Driven** ecosystem where collective intelligence guides development.
-## 📖 About These Guides
+Studio3 transforms venture building through **🏟️ Public Arenas** where all progress happens transparently,**📊 Belief Signals** where community conviction drives support, and**🎮 Seven Phases** that guide ventures from idea spark to full sovereignty. With**🏆 Real Stakes**, success brings rewards while failure has consequences, all within a**🤝 Community-Driven** ecosystem where collective intelligence guides development.**## 📖 About These Guides
 
-Each guide is **self-contained** with everything you need in one place and **role-specific**, tailored to your journey. All guides are **downloadable** as PDFs for offline reading and **regularly updated** to stay current with platform changes.
-!!! tip "Choose Your Path"
-    Not sure which guide to start with? The **Overview Guide** provides a complete introduction to help you decide your role in the Studio3 ecosystem.
----
+Each guide is **self-contained** with everything you need in one place and**role-specific**, tailored to your journey. All guides are**downloadable** as PDFs for offline reading and**regularly updated** to stay current with platform changes.**!!! tip "Choose Your Path"
+    Not sure which guide to start with? The **Overview Guide** provides a complete introduction to help you decide your role in the Studio3 ecosystem.**---
 
 ## 📜 License
 
