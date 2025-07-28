@@ -35,25 +35,29 @@ graph TB
 
 **How They Connect:**
 
-1. **Discovery Phase**
-   - Senders pitch ventures in Arenas
-   - Echoes research and evaluate
-   - Initial conversations begin
+#### Discovery Phase
 
-2. **Signaling Phase**
-   - Echoes place belief/doubt stakes
-   - Senders see support levels
-   - Feedback flows both ways
+- Senders pitch ventures in Arenas
+- Echoes research and evaluate
+- Initial conversations begin
 
-3. **Execution Phase**
-   - Senders deliver on promises
-   - Echoes monitor progress
-   - Communication stays open
+#### Signaling Phase
 
-4. **Settlement Phase**
-   - Results determine rewards
-   - Relationships strengthen or end
-   - Lessons learned by both
+- Echoes place belief/doubt stakes
+- Senders see support levels
+- Feedback flows both ways
+
+#### Execution Phase
+
+- Senders deliver on promises
+- Echoes monitor progress
+- Communication stays open
+
+#### Settlement Phase
+
+- Results determine rewards
+- Relationships strengthen or end
+- Lessons learned by both
 
 ### Communication Patterns
 
@@ -89,26 +93,30 @@ graph TB
 
 **Key Interactions:**
 
-1. **Validation Moments**
-   - Senders submit evidence
-   - Anchors review thoroughly
-   - Feedback improves execution
+#### Validation Moments
 
-2. **Mentorship Sessions**
-   - Strategic planning help
-   - Technical guidance
-   - Network introductions
-   - Crisis management
+- Senders submit evidence
+- Anchors review thoroughly
+- Feedback improves execution
 
-3. **Standards Setting**
-   - Anchors define quality
-   - Senders strive to exceed
-   - Continuous improvement
+#### Mentorship Sessions
 
-4. **Dispute Resolution**
-   - Fair hearings
-   - Evidence-based decisions
-   - Learning opportunities
+- Strategic planning help
+- Technical guidance
+- Network introductions
+- Crisis management
+
+#### Standards Setting
+
+- Anchors define quality
+- Senders strive to exceed
+- Continuous improvement
+
+#### Dispute Resolution
+
+- Fair hearings
+- Evidence-based decisions
+- Learning opportunities
 
 ### Interaction Protocols
 
@@ -162,25 +170,29 @@ sequenceDiagram
 
 **How They Collaborate:**
 
-1. **Signal Confidence**
-   - Anchors provide quality assurance
-   - Echoes trust validation process
-   - Reduces investment risk
+#### Signal Confidence
 
-2. **Information Flow**
-   - Anchors share insights
-   - Echoes provide market sentiment
-   - Collective intelligence emerges
+- Anchors provide quality assurance
+- Echoes trust validation process
+- Reduces investment risk
 
-3. **Dispute Mediation**
-   - Anchors investigate concerns
-   - Echoes present evidence
-   - Fair resolutions build trust
+#### Information Flow
 
-4. **Ecosystem Protection**
-   - Both identify bad actors
-   - Collaborative defense
-   - Maintains platform integrity
+- Anchors share insights
+- Echoes provide market sentiment
+- Collective intelligence emerges
+
+#### Dispute Mediation
+
+- Anchors investigate concerns
+- Echoes present evidence
+- Fair resolutions build trust
+
+#### Ecosystem Protection
+
+- Both identify bad actors
+- Collaborative defense
+- Maintains platform integrity
 
 ### Information Asymmetry
 
@@ -215,13 +227,13 @@ graph LR
 
 <h4>🎭 Scenario: Pivot Decision</h4>
 
-<strong>Participants:</strong> Sender + Multiple Echoes + Anchor
+<strong>Participants:</strong> 
+Sender + Multiple Echoes + Anchor
 
 - Sender proposes major pivot
 - Echoes debate merits
 - Anchor provides expert opinion
 - Collective decision emerges
-
 </div>
     
     <div class="arena-card" markdown="1">
@@ -291,22 +303,26 @@ graph LR
 
 ### ⚖️ Dispute Resolution Framework
 
-**Level 1: Direct Resolution**
+#### Level 1: Direct Resolution
+
 - Parties attempt to resolve directly
 - Open communication encouraged
 - Focus on mutual benefit
 
-**Level 2: Community Mediation**
+#### Level 2: Community Mediation
+
 - Neutral Echoes facilitate
 - Public discussion if appropriate
 - Seek consensus solution
 
-**Level 3: Anchor Arbitration**
+#### Level 3: Anchor Arbitration
+
 - Formal Anchor review
 - Evidence-based decision
 - Binding resolution
 
-**Level 4: Council Judgment**
+#### Level 4: Council Judgment
+
 - Anchor Council final say
 - Sets precedent for future
 - Reputation consequences
@@ -388,25 +404,29 @@ graph LR
 
 **Core Values:**
 
-1. **Transparency Above All**
-   - Share information openly
-   - Admit mistakes quickly
-   - Celebrate successes together
+#### Transparency Above All
 
-2. **Constructive Engagement**
-   - Criticism with solutions
-   - Support through challenges
-   - Learn from failures
+- Share information openly
+- Admit mistakes quickly
+- Celebrate successes together
 
-3. **Long-term Thinking**
-   - Build lasting relationships
-   - Reputation over quick gains
-   - Ecosystem health priority
+#### Constructive Engagement
 
-4. **Meritocratic Respect**
-   - Ideas over identities
-   - Performance over politics
-   - Results over rhetoric
+- Criticism with solutions
+- Support through challenges
+- Learn from failures
+
+#### Long-term Thinking
+
+- Build lasting relationships
+- Reputation over quick gains
+- Ecosystem health priority
+
+#### Meritocratic Respect
+
+- Ideas over identities
+- Performance over politics
+- Results over rhetoric
 
 ## Success Stories
 
@@ -439,20 +459,25 @@ graph LR
 
 ### Building Strong Relationships
 
-1. **Start with Empathy**
-   - Understand other perspectives
+#### Start with Empathy
 
-2. **Communicate Clearly**
-   - Avoid ambiguity
+- Understand other perspectives
 
-3. **Follow Through**
-   - Do what you say
+#### Communicate Clearly
 
-4. **Add Value**
-   - Give before you receive
+- Avoid ambiguity
 
-5. **Think Long-term**
-   - Reputation compounds
+#### Follow Through
+
+- Do what you say
+
+#### Add Value
+
+- Give before you receive
+
+#### Think Long-term
+
+- Reputation compounds
 
 ## Next Steps
 

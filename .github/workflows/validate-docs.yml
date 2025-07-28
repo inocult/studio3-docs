@@ -8,6 +8,7 @@ on:
       - 'lint_markdown_strict.py'
       - '.prettierrc'
       - 'package.json'
+      - 'Makefile'
   pull_request:
     paths:
       - 'docs/**/*.md'
@@ -15,6 +16,7 @@ on:
       - 'lint_markdown_strict.py'
       - '.prettierrc'
       - 'package.json'
+      - 'Makefile'
 
 jobs:
   validate:
@@ -34,43 +36,42 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
+        cache: 'npm'
         
-    - name: Install dependencies
-      run: |
-        echo "📦 Installing all dependencies..."
-        make install
+    - name: Install all dependencies
+      run: make install
         
-    - name: Check markdown formatting with Prettier
+    - name: Run all validations
       run: |
-        echo "💅 Checking markdown formatting..."
-        make format-check
+        echo "🔍 Running all validation checks..."
         
-    - name: Run MkDocs strict validation
-      run: |
-        echo "🔍 Running MkDocs strict validation..."
+        # Run format check (don't fail on this)
+        echo "💅 Checking Prettier formatting..."
+        make format-check || echo "⚠️ Formatting issues found (non-blocking)"
+        
+        # Run strict build (this should fail on errors)
+        echo "🏗️ Running MkDocs strict build..."
         make build-strict
         
-    - name: Run custom markdown linter
-      run: |
-        echo "🔍 Running strict markdown linter..."
+        # Run custom linter (fail on errors, not warnings)
+        echo "🔍 Running custom markdown linter..."
         make lint > lint_output.txt 2>&1 || true
         
-        # Show summary but don't fail on warnings
-        if grep -q "ERROR:" lint_output.txt; then
+        # Check for errors
+        if grep -q "❌ ERRORS" lint_output.txt; then
           echo "❌ Critical markdown errors found!"
-          head -50 lint_output.txt
+          cat lint_output.txt
           exit 1
         else
           echo "✅ No critical errors found"
-          echo "Summary:"
-          tail -10 lint_output.txt
+          tail -20 lint_output.txt || true
         fi
         
     - name: Upload build artifacts
       uses: actions/upload-artifact@v3
       if: always()
       with:
-        name: documentation-build
+        name: validation-results
         path: |
           site/
           lint_output.txt

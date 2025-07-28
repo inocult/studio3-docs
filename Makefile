@@ -1,4 +1,4 @@
-.PHONY: lint lint-strict lint-fix build build-strict serve clean install validate help
+.PHONY: lint lint-strict lint-fix build build-strict serve clean install validate help format format-check
 
 # Default target
 help:
@@ -7,6 +7,8 @@ help:
 	@echo "  lint-strict - Run MkDocs strict build validation"
 	@echo "  validate    - Run both linting methods"
 	@echo "  lint-fix    - Fix common markdown issues"
+	@echo "  format      - Format markdown files with Prettier"
+	@echo "  format-check- Check markdown formatting without changes"
 	@echo "  build       - Build the documentation"
 	@echo "  build-strict- Build with strict validation"
 	@echo "  serve       - Serve documentation locally"
@@ -16,7 +18,7 @@ help:
 # Custom markdown linter
 lint:
 	@echo "🔍 Running custom markdown linter..."
-	@bash -c "source venv/bin/activate && python3 lint_markdown.py docs"
+	@bash -c "source venv/bin/activate && python3 lint_markdown_strict.py docs"
 
 # MkDocs strict validation
 lint-strict:
@@ -30,7 +32,7 @@ validate: lint-strict lint
 # Fix common markdown issues
 lint-fix:
 	@echo "🔧 Fixing markdown issues..."
-	@python3 fix_markdown_issues.py
+	@echo "Note: Automated fixing not available. Please fix issues manually."
 
 # Build documentation
 build:
@@ -53,8 +55,24 @@ clean:
 	@rm -rf site/
 	@rm -f lint_output.txt
 
+# Format markdown files with Prettier
+format:
+	@echo "💅 Formatting markdown files with Prettier..."
+	@npm install --silent
+	@npm run format
+
+# Check markdown formatting without changes
+format-check:
+	@echo "🔍 Checking markdown formatting..."
+	@npm install --silent
+	@npm run lint:prettier
+
 # Install dependencies
 install:
-	@echo "📦 Installing dependencies..."
+	@echo "📦 Installing Python dependencies..."
 	@python3 -m venv venv || true
-	@source venv/bin/activate && pip install mkdocs mkdocs-material pyyaml
+	@bash -c "source venv/bin/activate && pip install mkdocs mkdocs-material pyyaml"
+	@bash -c "source venv/bin/activate && pip install mkdocs-minify-plugin mkdocs-git-revision-date-localized-plugin"
+	@bash -c "source venv/bin/activate && pip install mkdocs-glightbox mkdocs-awesome-pages-plugin mkdocs-pdf-export-plugin"
+	@echo "📦 Installing Node dependencies..."
+	@npm install

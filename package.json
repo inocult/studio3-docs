@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "description": "Studio3 Documentation",
   "scripts": {
-    "lint": "python3 lint_markdown.py docs",
-    "lint:fix": "python3 fix_markdown_issues.py",
+    "lint": "python3 lint_markdown_strict.py docs",
+    "lint:fix": "python3 lint_markdown_strict.py docs --fix",
+    "lint:prettier": "prettier --check 'docs/**/*.md'",
+    "format": "prettier --write 'docs/**/*.md'",
     "build": "mkdocs build",
     "serve": "mkdocs serve",
-    "deploy": "mkdocs gh-deploy"
+    "deploy": "mkdocs gh-deploy",
+    "pre-commit": "prettier --write 'docs/**/*.md' && python3 lint_markdown_strict.py docs"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/inocult/studio3-docs.git"

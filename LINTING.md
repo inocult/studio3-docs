@@ -4,10 +4,11 @@ This document explains the comprehensive markdown linting system for Studio3 doc
 
 ## Overview
 
-We use a two-tier validation approach:
+We use a three-tier validation approach:
 
-1. **MkDocs Built-in Strict Mode** - Catches structural issues
-2. **Custom Markdown Linter** - Catches formatting and style issues
+1. **Prettier Formatting** - Ensures consistent markdown formatting
+2. **Custom Markdown Linter** - Catches Studio3-specific issues
+3. **MkDocs Built-in Strict Mode** - Catches structural issues
 
 ## Quick Commands
 
@@ -16,8 +17,13 @@ We use a two-tier validation approach:
 make validate
 
 # Run individual validations
-make lint-strict    # MkDocs validation
+make format-check  # Check Prettier formatting
+make lint-strict   # MkDocs validation
 make lint          # Custom linter
+
+# Format and fix
+make format        # Apply Prettier formatting
+make lint-fix      # Fix custom linter issues
 
 # Build documentation
 make build         # Regular build
@@ -27,6 +33,21 @@ make build-strict  # Build with validation
 make serve         # Local development server
 make install       # Set up environment
 ```
+
+## Prettier Formatting
+
+Prettier ensures consistent markdown formatting:
+
+- **Consistent spacing** around headers and lists
+- **Proper indentation** for nested content
+- **Line wrapping** at configured width (100 chars)
+- **Table formatting** alignment
+- **Code block** consistency
+
+Configuration in `.prettierrc`:
+- `proseWrap: preserve` - Maintains manual line breaks
+- `printWidth: 100` - Maximum line width
+- `embeddedLanguageFormatting: auto` - Formats code blocks
 
 ## MkDocs Built-in Validation
 
