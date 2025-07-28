@@ -237,6 +237,66 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+    // Interactive Task Lists
+    const taskListItems = document.querySelectorAll('.task-list-item');
+    taskListItems.forEach(item => {
+        const checkbox = item.querySelector('input[type="checkbox"]');
+        const label = item.querySelector('label');
+        
+        if (checkbox && label) {
+            // Make the checkbox interactive
+            checkbox.disabled = false;
+            checkbox.style.pointerEvents = 'auto';
+            label.style.pointerEvents = 'auto';
+            
+            // Store state in localStorage
+            const pageUrl = window.location.pathname;
+            const itemText = item.textContent.trim();
+            const storageKey = `task-${pageUrl}-${itemText}`;
+            
+            // Restore saved state
+            const savedState = localStorage.getItem(storageKey);
+            if (savedState === 'true') {
+                checkbox.checked = true;
+            }
+            
+            // Save state on change
+            checkbox.addEventListener('change', function() {
+                localStorage.setItem(storageKey, this.checked);
+                
+                // Add animation
+                if (this.checked) {
+                    item.classList.add('task-completed');
+                    // Create celebration effect
+                    const celebration = document.createElement('span');
+                    celebration.className = 'task-celebration';
+                    celebration.innerHTML = '✨';
+                    celebration.style.cssText = `
+                        position: absolute;
+                        left: -1.5em;
+                        top: 0.1em;
+                        font-size: 1.5em;
+                        animation: celebrate 0.6s ease-out forwards;
+                        pointer-events: none;
+                    `;
+                    item.style.position = 'relative';
+                    item.appendChild(celebration);
+                    
+                    setTimeout(() => celebration.remove(), 600);
+                } else {
+                    item.classList.remove('task-completed');
+                }
+            });
+            
+            // Add click handler to the whole label
+            label.addEventListener('click', function(e) {
+                e.preventDefault();
+                checkbox.checked = !checkbox.checked;
+                checkbox.dispatchEvent(new Event('change'));
+            });
+        }
+    });
+
     // Copy code blocks with feedback
     const codeBlocks = document.querySelectorAll('pre code');
     codeBlocks.forEach(block => {
@@ -339,6 +399,41 @@ animationStyles.textContent = `
     @keyframes fadeIn {
         from { opacity: 0; }
         to { opacity: 1; }
+    }
+    
+    /* Task list animations */
+    .task-completed {
+        text-decoration: line-through;
+        opacity: 0.7;
+        transition: all 0.3s ease;
+    }
+    
+    @keyframes celebrate {
+        0% {
+            transform: scale(0) rotate(0deg);
+            opacity: 1;
+        }
+        50% {
+            transform: scale(1.2) rotate(180deg);
+        }
+        100% {
+            transform: scale(0) rotate(360deg) translateY(-20px);
+            opacity: 0;
+        }
+    }
+    
+    /* Make checkboxes clickable */
+    .task-list-control {
+        cursor: pointer !important;
+    }
+    
+    .task-list-control input[type="checkbox"] {
+        cursor: pointer !important;
+        pointer-events: auto !important;
+    }
+    
+    .task-list-control label {
+        cursor: pointer !important;
     }
 `;
 
