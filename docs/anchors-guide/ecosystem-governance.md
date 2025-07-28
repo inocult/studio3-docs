@@ -19,9 +19,9 @@ As an experienced Anchor, you have the opportunity and responsibility to help go
 <h3>🌟 Principles of Ecosystem Governance</h3>
 
 **Core Governance Principles:**
+
 1. **Decentralization**
-- Distributed decision
-- making
+   - Distributed decision-making
 
 - No single point of control
 
@@ -44,8 +44,7 @@ As an experienced Anchor, you have the opportunity and responsibility to help go
 - Growth enabled
 
 3. **Sustainability**
-- Long
-- term thinking
+   - Long-term thinking
 
 - Ecosystem health
 
@@ -74,7 +73,7 @@ As an experienced Anchor, you have the opportunity and responsibility to help go
 <div class="arena-card" markdown="1">
 
 <h3>🏗️ How Studio3 Governs Itself</h3>
-** Governance Layers:
+**Governance Layers:**
 ```
 Platform Team
     ↓
@@ -86,23 +85,22 @@ Community Proposals
     ↓
 Token Holder Votes
 ```
-** Decision Types:
-- 
-1. **Operational**
-- Day-to-day platform
-2. **Policy**
-- Rules and standards
-3. **Economic**
-- Token and incentives
-4. **Strategic**
-- Long-term direction
-5. **Emergency**
-- Crisis response**
-- **Governance Bodies:**  Platform Team
-- Technical implementation
-- **Governance Council**  Anchor Council
-- **Community Forums**  Token Holders
-**</div>
+**Decision Types:**
+
+1. **Operational** - Day-to-day platform
+2. **Policy** - Rules and standards
+3. **Economic** - Token and incentives
+4. **Strategic** - Long-term direction
+5. **Emergency** - Crisis response
+
+**Governance Bodies:**
+- **Platform Team:** Technical implementation
+- **Governance Council:** Policy and standards
+- **Anchor Council:** Anchor representation
+- **Community Forums:** Open discussion
+- **Token Holders:** Voting rights
+
+</div>
 
 ## Anchor Council
 
@@ -111,13 +109,14 @@ Token Holder Votes
 <div class="arena-card" markdown="1">
 
 <h3>👥 The Anchor Governance Body</h3>
-** Council Composition:
-- ** 9-15 Senior/Master Anchors
+**Council Composition:**
+- 9-15 Senior/Master Anchors
 - Elected by Anchor community
 - 1-year terms (staggered)
 - Maximum 2 consecutive terms
 - Diverse representation required
-** Council Responsibilities:
+**Council Responsibilities:**
+
 1. **Standards Setting**
 
 - Quality criteria updates
@@ -165,7 +164,7 @@ Token Holder Votes
 <div class="arena-card" markdown="1">
 
 <h3>⚙️ How the Council Works</h3>
-** Meeting Structure:
+**Meeting Structure:**
 ```
 Weekly Operations Meeting (2 hours)
 - Current issues review
@@ -185,14 +184,14 @@ Quarterly Community Meeting (2 hours)
 - Transparency report
 - Q&A
 ```
-** Decision Making:
-- ** Quorum: 60% attendance
+**Decision Making:**
+- Quorum: 60% attendance
 - Simple majority: Operational
 - Super majority (67%): Policy
 - Unanimous: Emergency only
 - Abstention: Conflict of interest
-** Transparency Requirements:
-- ** Meeting minutes public
+**Transparency Requirements:**
+- Meeting minutes public
 - Decisions documented
 - Rationale explained
 - Dissent recorded
@@ -207,7 +206,8 @@ Quarterly Community Meeting (2 hours)
 <div class="arena-card" markdown="1">
 
 <h3>📜 Policy Framework</h3>
-** Policy Lifecycle:
+**Policy Lifecycle:**
+
 1. **Identification**
 
 - Issue recognition
@@ -220,7 +220,7 @@ Quarterly Community Meeting (2 hours)
 
 2. **Development**
    ```
-** Policy Development Process:
+   Policy Development Process:
    ├── Research Phase
    │   ├── Best practices
    │   ├── Stakeholder input
@@ -272,13 +272,16 @@ Quarterly Community Meeting (2 hours)
 <div class="arena-card" markdown="1">
 
 <h3>📊 Maintaining Quality Standards</h3>
-**Standards Review Process:**  Quarterly Reviews:
-- ** Current standards assessment
+**Standards Review Process:**
+
+**Quarterly Reviews:**
+- Current standards assessment
 - Edge case analysis
 - Consistency checking
 - Innovation incorporation
 - Simplification opportunities
-** Standard Categories:
+**Standard Categories:**
+
 1. **Technical Standards**
 
 - Code quality metrics
@@ -308,8 +311,8 @@ Quarterly Community Meeting (2 hours)
 - Timeline expectations
 
 - Team effectiveness
-** Evolution Principles:
-- ** Raise bar gradually
+**Evolution Principles:**
+- Raise bar gradually
 - Phase-appropriate
 - Innovation-friendly
 - Clearly communicated
@@ -324,7 +327,9 @@ Quarterly Community Meeting (2 hours)
 <div class="arena-card" markdown="1">
 
 <h3>💰 Economic Parameter Setting</h3>
-**Anchor Input Areas:**  Validation Rewards:
+**Anchor Input Areas:**
+
+**Validation Rewards:**
 ```python
 reward_parameters = {
     "base_rate": "2-5% of milestone value",
@@ -337,14 +342,14 @@ reward_parameters = {
     }
 }
 ```
-** Signal Mechanics:
-- ** Multiplier ranges
+**Signal Mechanics:**
+- Multiplier ranges
 - Burn mechanisms
 - Stake requirements
 - Lock periods
 - Reward distribution
-** Economic Health Metrics:
-- ** Token velocity
+**Economic Health Metrics:**
+- Token velocity
 - Stake participation
 - Reward sustainability
 - Inflation/deflation
@@ -357,20 +362,22 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>🎯 Balancing Ecosystem Incentives</h3>
-**Stakeholder Balance:| Stakeholder | Primary Incentive | Governance Weight |
+**Stakeholder Balance:**
+
+| Stakeholder | Primary Incentive | Governance Weight |
 |------------|------------------|-------------------|
 | Founders | Success/Growth | 25% |
 | Echoes | Returns/Accuracy | 35% |
 | Anchors | Quality/Rewards | 25% |
 | Platform | Sustainability | 15% |
-** Incentive Design Principles:
-- ** Long-term alignment
+**Incentive Design Principles:**
+- Long-term alignment
 - Quality over quantity
 - Sustainable growth
 - Fair distribution
 - Positive-sum outcomes
-** Adjustment Mechanisms:
-- ** Regular review cycles
+**Adjustment Mechanisms:**
+- Regular review cycles
 - Data-driven decisions
 - Community input
 - Gradual changes
@@ -385,26 +392,28 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>🧭 Shaping Studio3's Future</h3>
-**Strategic Areas:**  Technology Roadmap:
-- ** Feature priorities
+**Strategic Areas:**
+
+**Technology Roadmap:**
+- Feature priorities
 - Technical architecture
 - Integration strategy
 - Innovation adoption
 - Platform capabilities
-** Market Expansion:
-- ** Geographic growth
+**Market Expansion:**
+- Geographic growth
 - Vertical focus
 - Partnership strategy
 - Ecosystem alliances
 - Network effects
-** Community Growth:
-- ** Onboarding improvement
+**Community Growth:**
+- Onboarding improvement
 - Education programs
 - Culture development
 - Diversity initiatives
 - Global reach
-** Governance Evolution:
-- ** Decentralization path
+**Governance Evolution:**
+- Decentralization path
 - Automation opportunities
 - Transparency enhancement
 - Participation increase
@@ -417,23 +426,27 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>💡 Fostering Ecosystem Innovation</h3>
-**Innovation Framework:**  Experimentation Zones:
-- ** Pilot programs
+**Innovation Framework:**
+
+**Experimentation Zones:**
+- Pilot programs
 - Sandbox environments
 - Limited risk exposure
 - Learning focus
 - Rapid iteration
-** Innovation Funding:
+
+**Innovation Funding:**
 ```
-** Innovation Budget Allocation:
+Innovation Budget Allocation:
 - Anchor tools: 30%
 - Process improvements: 25%
 - Community experiments: 20%
 - Technical infrastructure: 15%
 - Research/education: 10%
 ```
-** Success Metrics:
-- ** Adoption rates
+
+**Success Metrics:**
+- Adoption rates
 - Efficiency gains
 - Quality improvements
 - User satisfaction
@@ -448,27 +461,32 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>🙋 Your Governance Participation</h3>
-**Participation Opportunities:** 1. Proposal Creation
-- ** Identify issues
-- Research solutions
-- Draft proposals
-- Build support
-- Champion implementation
-2. Feedback Provision
-- ** Comment periods
-- Survey participation
-- Focus groups
-- Pilot testing
-- Data contribution
-3. Voting Rights
-- ** Policy votes
-- Council elections
-- Standard changes
-- Strategic decisions
-- Emergency measures
-4. Committee Service
-- ** Working groups
-- Task forces
+**Participation Opportunities:**
+
+1. **Proposal Creation**
+   - Identify issues
+   - Research solutions
+   - Draft proposals
+   - Build support
+   - Champion implementation
+
+2. **Feedback Provision**
+   - Comment periods
+   - Survey participation
+   - Focus groups
+   - Pilot testing
+   - Data contribution
+
+3. **Voting Rights**
+   - Policy votes
+   - Council elections
+   - Standard changes
+   - Strategic decisions
+   - Emergency measures
+
+4. **Committee Service**
+   - Working groups
+   - Task forces
 - Review committees
 - Advisory boards
 - Special projects
@@ -480,26 +498,31 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>📈 Growing Governance Impact</h3>
-**Influence Building Path:** Year 1: Learn and Observe
-- ** Attend meetings
+**Influence Building Path:**
+
+**Year 1: Learn and Observe**
+- Attend meetings
 - Read proposals
 - Understand process
 - Build relationships
 - Small contributions
-**Year 2: Active Participation
-- ** Submit proposals
+
+**Year 2: Active Participation**
+- Submit proposals
 - Join committees
 - Lead initiatives
 - Mentor others
 - Build reputation
-**Year 3+: Leadership
-- ** Council candidacy
+
+**Year 3+: Leadership**
+- Council candidacy
 - Major proposals
 - Strategic influence
 - Ecosystem shaping
 - Legacy building
-** Influence Multipliers:
-- ** Quality contributions
+
+**Influence Multipliers:**
+- Quality contributions
 - Consistent participation
 - Collaborative approach
 - Data-driven proposals
@@ -514,36 +537,43 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>⚠️ Navigating Governance Challenges</h3>
-**Typical Challenges:** 1. Participation Fatigue
-- ** Too many decisions
-- Complex proposals
-- Time demands
-- Low engagement
-** Solutions:
-- ** Streamline decisions
-- Simplify proposals
-- Delegate appropriately
-- Incentivize participation
-2. Conflicting Interests
-- ** Stakeholder tensions
-- Short vs long term
-- Individual vs collective
-- Innovation vs stability
-** Solutions:
-- ** Clear principles
-- Transparent process
-- Balanced representation
-- Win-win seeking
-3. Decision Paralysis
-- ** Over-analysis
-- Consensus seeking
-- Risk aversion
-- Perfect solutions
-** Solutions:
-- ** Time boundaries
-- Experimentation
-- Reversible decisions
-- Bias toward action
+**Typical Challenges:**
+
+1. **Participation Fatigue**
+   - Too many decisions
+   - Complex proposals
+   - Time demands
+   - Low engagement
+   
+   **Solutions:**
+   - Streamline decisions
+   - Simplify proposals
+   - Delegate appropriately
+   - Incentivize participation
+
+2. **Conflicting Interests**
+   - Stakeholder tensions
+   - Short vs long term
+   - Individual vs collective
+   - Innovation vs stability
+   
+   **Solutions:**
+   - Clear principles
+   - Transparent process
+   - Balanced representation
+   - Win-win seeking
+
+3. **Decision Paralysis**
+   - Over-analysis
+   - Consensus seeking
+   - Risk aversion
+   - Perfect solutions
+   
+   **Solutions:**
+   - Time boundaries
+   - Experimentation
+   - Reversible decisions
+   - Bias toward action
 
 </div>
 
@@ -552,24 +582,28 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>🔄 Continuous Improvement</h3>
-**Evolution Strategies:** 1. Regular Assessment
-- ** Governance effectiveness
-- Participation rates
-- Decision quality
-- Implementation success
-- Stakeholder satisfaction
-2. Adaptive Mechanisms
-- ** Process refinement
-- Tool improvement
-- Structure optimization
-- Communication enhancement
-- Incentive adjustment
-3. Future Readiness
-- ** Scalability planning
-- Decentralization path
-- Technology adoption
-- Global considerations
-- Regulatory adaptation
+**Evolution Strategies:**
+
+1. **Regular Assessment**
+   - Governance effectiveness
+   - Participation rates
+   - Decision quality
+   - Implementation success
+   - Stakeholder satisfaction
+
+2. **Adaptive Mechanisms**
+   - Process refinement
+   - Tool improvement
+   - Structure optimization
+   - Communication enhancement
+   - Incentive adjustment
+
+3. **Future Readiness**
+   - Scalability planning
+   - Decentralization path
+   - Technology adoption
+   - Global considerations
+   - Regulatory adaptation
 
 </div>
 
@@ -580,13 +614,14 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>🚨 Emergency Decision Making</h3>
-** Emergency Triggers:
-- ** Security breaches
+**Emergency Triggers:**
+- Security breaches
 - Economic attacks
 - Regulatory threats
 - Technical failures
 - Market crises
-** Emergency Protocol:
+
+**Emergency Protocol:
 ```
 1. Issue Identification (Hour 1)
 
@@ -638,24 +673,28 @@ reward_parameters = {
 <div class="arena-card" markdown="1">
 
 <h3>🛠️ Governance Infrastructure</h3>
-**Tool Categories:** 1. Proposal Management
-- ** Submission platform
-- Comment systems
-- Version control
-- Impact modeling
-- Voting infrastructure
-2. Analytics Dashboards
-- ** Participation metrics
-- Decision outcomes
-- Implementation tracking
-- Ecosystem health
-- Stakeholder sentiment
-3. Communication Channels
-- ** Forum platforms
-- Video conferencing
-- Documentation wikis
-- Notification systems
-- Archive access
+**Tool Categories:**
+
+1. **Proposal Management**
+   - Submission platform
+   - Comment systems
+   - Version control
+   - Impact modeling
+   - Voting infrastructure
+
+2. **Analytics Dashboards**
+   - Participation metrics
+   - Decision outcomes
+   - Implementation tracking
+   - Ecosystem health
+   - Stakeholder sentiment
+
+3. **Communication Channels**
+   - Forum platforms
+   - Video conferencing
+   - Documentation wikis
+   - Notification systems
+   - Archive access
 
 </div>
 

@@ -18,26 +18,26 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 
 <h3>🎯 Common Conflict Categories</h3>
 
-**Validation Disputes
-- ** Milestone achievement claims
+**Validation Disputes**
+- Milestone achievement claims
 - Evidence interpretation
 - Standard application
 - Timeline disagreements
 - Quality assessments
-**Stakeholder Conflicts
-- ** Founder vs Echo tensions
+**Stakeholder Conflicts**
+- Founder vs Echo tensions
 - Team internal conflicts
 - Community disagreements
 - Platform policy disputes
 - Resource allocation
-**Technical Disputes
-- ** Architecture decisions
+**Technical Disputes**
+- Architecture decisions
 - Technology choices
 - Performance standards
 - Security requirements
 - Implementation approaches
-**Business Disputes
-- ** Strategic direction
+**Business Disputes**
+- Strategic direction
 - Market approach
 - Pivot decisions
 - Equity splits
@@ -50,20 +50,20 @@ Disputes are inevitable in high-stakes venture building. As an Anchor, you'll ne
 <div class="arena-card" markdown="1">
 
 <h3>🔍 How Conflicts Escalate</h3>
-** Escalation Pattern:
+**Escalation Pattern:**
 ```
 Disagreement → Tension → Conflict → Dispute → Crisis
     ↓            ↓          ↓          ↓         ↓
   Discussion   Emotion   Positions   Formal    Damage
 ```
-** Common Triggers:
-- ** Unmet expectations
+**Common Triggers:**
+- Unmet expectations
 - Poor communication
 - Resource pressure
 - Power dynamics
 - Past grievances
-** Warning Signs:
-- ** Communication breakdown
+**Warning Signs:**
+- Communication breakdown
 - Emotional language
 - Public complaints
 - Alliance forming
@@ -78,21 +78,15 @@ Disagreement → Tension → Conflict → Dispute → Crisis
 <div class="arena-card" markdown="1">
 
 <h3>🛠️ Systematic Conflict Resolution</h3>
-- ** R
-- Recognize the dispute early
-- **  E
-- Establish neutral ground
-- ** S
-- Separate people from positions
-- **  O
-- Outline interests clearly
-- ** L
-- Look for creative solutions
-- **  V
-- Validate agreements made
-- ** E
-- Ensure implementation
-- ** Framework Application:
+- **R** - Recognize the dispute early
+- **E** - Establish neutral ground
+- **S** - Separate people from positions
+- **O** - Outline interests clearly
+- **L** - Look for creative solutions
+- **V** - Validate agreements made
+- **E** - Ensure implementation
+
+**Framework Application:**
 1. Early intervention critical
 2. Process transparency essential
 3. Fairness perception key
@@ -106,22 +100,25 @@ Disagreement → Tension → Conflict → Dispute → Crisis
 <div class="arena-card" markdown="1">
 
 <h3>🚨 First 48 Hours</h3>
-**Immediate Actions:** Hour 1-4: Acknowledge```
-** Response Template:
+**Immediate Actions:**
+
+**Hour 1-4: Acknowledge**
+```
+Response Template:
 "I acknowledge your concern about [issue]. 
 I take this seriously and will investigate thoroughly. 
 Let's schedule time to discuss within 24 hours.
 Timeline for resolution: [specific date]"
 ```
 
-**Hour 5-24: Investigate
-- ** Gather all perspectives
+**Hour 5-24: Investigate**
+- Gather all perspectives
 - Review documentation
 - Check precedents
 - Consult if needed
 - Prepare approach
-**Hour 25-48: Engage
-- ** Meet with parties
+**Hour 25-48: Engage**
+- Meet with parties
 - Listen actively
 - Establish process
 - Set expectations
@@ -136,13 +133,16 @@ Timeline for resolution: [specific date]"
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ When Founders Disagree</h3>
-** Common Challenge Reasons:
-- ** Evidence interpretation
+**Common Challenge Reasons:**
+- Evidence interpretation
 - Standard application
 - Context consideration
 - Technical understanding
 - Timeline factors
-**Resolution Process:** Step 1: Review Request```markdown
+**Resolution Process:**
+
+**Step 1: Review Request**
+```markdown
 ## Validation Review Request
 Venture: [Name]
 Milestone: [Description]
@@ -152,14 +152,14 @@ New Evidence: [If any]
 Requested Outcome: [What they want]
 ```
 
-**Step 2: Re-examination
-- ** Fresh eyes approach
+**Step 2: Re-examination**
+- Fresh eyes approach
 - All evidence reviewed
 - Standards reconfirmed
 - Context reconsidered
 - Peer input sought
-**Step 3: Decision Communication
-- ** Clear determination
+**Step 3: Decision Communication**
+- Clear determination
 - Detailed reasoning
 - Learning captured
 - Process improved
@@ -171,7 +171,9 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 <h3>📊 Interpreting Gray Areas</h3>
-**Evidence Interpretation Framework:**  When Evidence Conflicts:
+**Evidence Interpretation Framework:**
+
+**When Evidence Conflicts:**
 1. **Weight Evidence**
 
 - Primary over secondary
@@ -201,8 +203,8 @@ Requested Outcome: [What they want]
 - Ecosystem benefit
 
 - Fair resolution
-** Documentation:
-- ** All viewpoints captured
+**Documentation:**
+- All viewpoints captured
 - Reasoning transparent
 - Decision defensible
 - Learning extracted
@@ -216,14 +218,17 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 <h3>👥 When Leaders Clash</h3>
-** Common Co-Founder Issues:
-- ** Vision misalignment
+**Common Co-Founder Issues:**
+- Vision misalignment
 - Role confusion
 - Equity disputes
 - Performance gaps
 - Personal conflicts
-**Mediation Approach:** 1. Separate Meetings```
-** Individual Session Guide:
+**Mediation Approach:**
+
+**1. Separate Meetings**
+```
+Individual Session Guide:
 - Safe space creation
 - Full story hearing
 - Emotion acknowledgment
@@ -231,14 +236,14 @@ Requested Outcome: [What they want]
 - Option exploration
 ```
 
-2. Joint Session
-- ** Ground rules set
+**2. Joint Session**
+- Ground rules set
 - Structured dialogue
 - Focus on interests
 - Creative solutions
 - Agreement building
-3. Documentation
-- ** Clear agreements
+**3. Documentation**
+- Clear agreements
 - Specific actions
 - Timeline defined
 - Accountability measures
@@ -251,26 +256,24 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 <h3>😤 Employee Grievances</h3>
-**Resolution Strategy:**  Assessment Phase:
-- ** Grievance validity
+**Resolution Strategy:**
+
+**Assessment Phase:**
+- Grievance validity
 - Pattern identification
 - Cultural issues
 - Leadership gaps
 - System problems
-** Intervention Options:
-- 
-1. **Coaching**
-- Leadership development
-2. **Mediation**
-- Facilitated dialogue
-3. **Restructuring**
-- Role changes
-4. **Culture Reset**
-- Team intervention
-5. **Last Resort**
-- Personnel changes**
-- ** Success Factors:
-- ** Confidentiality maintained
+**Intervention Options:**
+
+1. **Coaching** - Leadership development
+2. **Mediation** - Facilitated dialogue
+3. **Restructuring** - Role changes
+4. **Culture Reset** - Team intervention
+5. **Last Resort** - Personnel changes
+
+**Success Factors:**
+- Confidentiality maintained
 - Fair process
 - Quick resolution
 - Clear outcomes
@@ -285,29 +288,31 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 <h3>📡 Signal Stakeholder Issues</h3>
-** Common Conflicts:
-- ** Progress disputes
+**Common Conflicts:**
+- Progress disputes
 - Communication gaps
 - Expectation mismatches
 - Strategy disagreements
 - Trust breakdowns
-**Resolution Approach:** 1. Fact Finding
-- ** Claims documented
+**Resolution Approach:**
+
+**1. Fact Finding**
+- Claims documented
 - Evidence gathered
 - Timeline reviewed
 - Communications checked
 - Context understood
-2. Stakeholder Alignment
+**2. Stakeholder Alignment**
 ```
-** Alignment Workshop:
+Alignment Workshop:
 1. Shared goal reminder
 2. Success definition
 3. Role clarification
 4. Expectation reset
 5. Communication plan
 ```
-3. Forward Path
-- ** Specific commitments
+**3. Forward Path**
+- Specific commitments
 - Measurement criteria
 - Check-in schedule
 - Escalation path
@@ -320,21 +325,23 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 <h3>🌐 Public Conflicts</h3>
-**Managing Public Disputes:**  Immediate Response:
-- ** Acknowledge publicly
+**Managing Public Disputes:**
+
+**Immediate Response:**
+- Acknowledge publicly
 - Move to private channel
 - Show fairness commitment
 - Provide timeline
 - Follow through
-** Resolution Principles:
-- ** Transparency where possible
+**Resolution Principles:**
+- Transparency where possible
 - Privacy where needed
 - Community interest first
 - Fair process visible
 - Learning shared
-** Communication Strategy:
+**Communication Strategy:**
 ```
-** Public Statement Structure:
+Public Statement Structure:
 1. Issue acknowledgment
 2. Process explanation
 3. Timeline commitment
@@ -351,14 +358,17 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 <h3>💻 Technical Decision Conflicts</h3>
-** Common Technical Disputes:
-- ** Technology stack choices
+**Common Technical Disputes:**
+- Technology stack choices
 - Architecture patterns
 - Performance standards
 - Security requirements
 - Scalability approaches
-**Resolution Framework:** 1. Technical Review```python
-** def resolve_technical_dispute():
+**Resolution Framework:**
+
+**1. Technical Review**
+```python
+def resolve_technical_dispute():
     # Gather technical arguments
     positions = document_all_positions()
     
@@ -373,8 +383,8 @@ Requested Outcome: [What they want]
     return balanced_technical_decision()
 ```
 
-2. Decision Criteria
-- ** Technical merit
+**2. Decision Criteria**
+- Technical merit
 - Business alignment
 - Resource reality
 - Risk assessment
@@ -387,20 +397,22 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 <h3>⭐ Standard Application Conflicts</h3>
-**Resolution Process:** 1. Standard Clarification
-- ** Review written standards
+**Resolution Process:**
+
+**1. Standard Clarification**
+- Review written standards
 - Check precedents
 - Industry benchmarks
 - Phase appropriateness
 - Context factors
-2. Fair Application
-- ** Consistent interpretation
+**2. Fair Application**
+- Consistent interpretation
 - Reasonable adjustment
 - Document reasoning
 - Create precedent
 - Update standards
-3. Future Prevention
-- ** Standard refinement
+**3. Future Prevention**
+- Standard refinement
 - Example creation
 - Training improvement
 - Communication enhancement
@@ -415,13 +427,15 @@ Requested Outcome: [What they want]
 <div class="arena-card" markdown="1">
 
 <h3>🤝 Facilitating Resolution</h3>
-**Mediation Skills:** 1. Active Listening
-- ** Full attention
+**Mediation Skills:**
+
+**1. Active Listening**
+- Full attention
 - No interruption
 - Reflect understanding
 - Ask clarification
 - Show empathy
-2. Reframing
+**2. Reframing**
 ```
 Negative: "They never listen to me"
 Reframe: "You feel unheard in discussions"
@@ -429,14 +443,14 @@ Reframe: "You feel unheard in discussions"
 Negative: "This is completely broken"
 Reframe: "The current state needs improvement"
 ```
-3. Finding Common Ground
-- ** Shared goals identification
+**3. Finding Common Ground**
+- Shared goals identification
 - Mutual interests
 - Common values
 - Agreed facts
 - Joint vision
-4. Creative Solutions
-- ** Brainstorm options
+**4. Creative Solutions**
+- Brainstorm options
 - Combine ideas
 - Think outside box
 - Test proposals
@@ -449,21 +463,23 @@ Reframe: "The current state needs improvement"
 <div class="arena-card" markdown="1">
 
 <h3>😡 Emotional De-escalation</h3>
-**De-escalation Techniques:**  Verbal Techniques:
-- ** Calm tone
+**De-escalation Techniques:**
+
+**Verbal Techniques:**
+- Calm tone
 - Slower pace
 - Lower volume
 - Neutral language
 - Empathy expressions
-** Process Techniques:
-- ** Take breaks
+**Process Techniques:**
+- Take breaks
 - Change environment
 - Separate parties
 - Time to cool
 - Written communication
-** Psychological Safety:
+**Psychological Safety:**
 ```
-** Creating Safe Space:
+Creating Safe Space:
 □ No judgment zone
 □ Confidentiality assured
 □ Equal speaking time
@@ -480,10 +496,9 @@ Reframe: "The current state needs improvement"
 <div class="arena-card" markdown="1">
 
 <h3>📈 When Resolution Fails</h3>
-** Escalation Ladder:
-1. **Anchor Resolution**
-- (Days 1
-- 7)**
+**Escalation Ladder:**
+
+1. **Anchor Resolution** (Days 1-7)
 - Direct mediation
 
 - Informal process
@@ -492,8 +507,7 @@ Reframe: "The current state needs improvement"
 
 - Quick resolution
 
-- 2.**Senior Anchor Review**  (Days 8
-- 14)
+2. **Senior Anchor Review** (Days 8-14)
 - Formal review
 
 - Structured process
@@ -502,8 +516,7 @@ Reframe: "The current state needs improvement"
 
 - Binding outcome
 
-- 3.**Anchor Council**  (Days 15
-- 21)
+3. **Anchor Council** (Days 15-21)
 - Panel review
 
 - Formal hearing
@@ -512,7 +525,8 @@ Reframe: "The current state needs improvement"
 
 - Precedent setting
 
-4. **Platform Arbitration** (Days 22+)**   - External review
+4. **Platform Arbitration** (Days 22+)
+   - External review
 
 - Legal framework
 
@@ -527,7 +541,7 @@ Reframe: "The current state needs improvement"
 <div class="arena-card" markdown="1">
 
 <h3>📝 Formal Documentation</h3>
-** Dispute Record Template:
+**Dispute Record Template:**
 ```markdown
 # Dispute Resolution Record
 

@@ -19,13 +19,13 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <h3>🎯 Core Definition</h3>
 
 **Anchors are experienced builders who:**
-- ** Validate milestone achievements
+- Validate milestone achievements
 - Guide ventures through challenges
 - Maintain quality standards
 - Protect ecosystem integrity
 - Mentor founders to success
-** The Name "Anchor":
-- ** Provides stability in turbulent waters
+**The Name "Anchor":**
+- Provides stability in turbulent waters
 - Keeps ventures grounded in reality
 - Offers secure connection point
 - Prevents drift from objectives
@@ -46,8 +46,8 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 | Limited accountability | Public validation record |
 | Advisory only | Validation authority |
 | Individual relationship | Ecosystem guardian |
-** Key Differentiators:
-- ** Real skin in the game
+**Key Differentiators:**
+- Real skin in the game
 - Public reputation at stake
 - Direct impact on outcomes
 - Community accountability
@@ -62,20 +62,21 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>🧠 Thinking Like an Anchor</h3>
-** Dual Responsibility:
-- 
+**Dual Responsibility:**
+
 1. **To Ventures**
-- Help them succeed
+   - Help them succeed
 2. **To Ecosystem**
-- Maintain standards**
-- ** Balancing Act:
-- ** Supportive yet objective
+   - Maintain standards
+
+**Balancing Act:**
+- Supportive yet objective
 - Helpful yet honest
 - Flexible yet firm
 - Understanding yet uncompromising
 - Mentoring yet measuring
-** The Anchor Oath:
-**"I will guide with wisdom, validate with integrity, and always place ecosystem health above personal gain."
+**The Anchor Oath:**
+"I will guide with wisdom, validate with integrity, and always place ecosystem health above personal gain."
 
 </div>
 
@@ -84,20 +85,20 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>⭐ What Makes Great Anchors</h3>
-** Technical Excellence:
-- ** Deep domain expertise
+**Technical Excellence:**
+- Deep domain expertise
 - Current knowledge
 - Analytical rigor
 - Problem-solving ability
 - Quality recognition
-** Human Skills:
-- ** Empathetic communication
+**Human Skills:**
+- Empathetic communication
 - Patient mentorship
 - Conflict resolution
 - Emotional intelligence
 - Cultural sensitivity
-** Professional Integrity:
-- ** Unbiased judgment
+**Professional Integrity:**
+- Unbiased judgment
 - Consistent standards
 - Transparent process
 - Ethical behavior
@@ -112,20 +113,20 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>📋 Core Duties</h3>
-1. Milestone Validation
-- ** Review evidence thoroughly
+1. **Milestone Validation**
+   - Review evidence thoroughly
 - Apply consistent standards
 - Make fair determinations
 - Document decisions clearly
 - Stand by judgments
-2. Venture Guidance
-- ** Strategic advice
+2. **Venture Guidance**
+   - Strategic advice
 - Technical consultation
 - Resource connections
 - Problem solving
 - Crisis support
-3. Ecosystem Protection
-- ** Quality maintenance
+3. **Ecosystem Protection**
+   - Quality maintenance
 - Standard enforcement
 - Bad actor identification
 - Culture preservation
@@ -138,19 +139,21 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>⏰ Realistic Expectations</h3>
-** Weekly Time Investment:
-- ** Active ventures: 2-4 hours per venture
+**Weekly Time Investment:**
+- Active ventures: 2-4 hours per venture
 - Validation reviews: 1-2 hours each
 - Community engagement: 3-5 hours
 - Continued learning: 2-3 hours
-- **Total: 15-25 hours/week**  Peak Periods:
-- ** Milestone deadlines
+- **Total: 15-25 hours/week**
+
+**Peak Periods:**
+- Milestone deadlines
 - Crisis situations
 - Dispute resolutions
 - Major pivots
 - Exit preparations
-** Flexibility Required:
-- ** Some weeks lighter
+**Flexibility Required:**
+- Some weeks lighter
 - Some weeks heavier
 - Always available for emergencies
 - Responsive communication
@@ -165,28 +168,28 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>📈 Advancement Path</h3>
-**Level 1: Junior Anchor
-- ** Learning the role
+**Level 1: Junior Anchor**
+- Learning the role
 - 1-3 ventures assigned
 - Mentored by seniors
 - Building reputation
-**Level 2: Anchor
-- ** Fully autonomous
+**Level 2: Anchor**
+- Fully autonomous
 - 3-5 ventures
 - Specialization emerging
 - Community recognition
-**Level 3: Senior Anchor
-- ** Complex ventures
+**Level 3: Senior Anchor**
+- Complex ventures
 - 5-8 assignments
 - Mentoring juniors
 - Policy influence
-**Level 4: Master Anchor
-- ** Elite ventures
+**Level 4: Master Anchor**
+- Elite ventures
 - Selective assignments
 - Thought leadership
 - Ecosystem shaping
-**Level 5: Council Member
-- ** Governance role
+**Level 5: Council Member**
+- Governance role
 - Strategic direction
 - Standard setting
 - Legacy building
@@ -198,19 +201,19 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>🎓 Anchor Specialties</h3>
-** Domain Specialization:
-- ** DeFi protocols
+**Domain Specialization:**
+- DeFi protocols
 - Gaming ventures
 - B2B platforms
 - Infrastructure
 - AI/ML applications
-** Phase Specialization:
-- ** Early stage (Spark/Forge)
+**Phase Specialization:**
+- Early stage (Spark/Forge)
 - Building (Ignition/Drift)
 - Scaling (Orbit/Flare)
 - Exit (Ascension)
-** Function Specialization:
-- ** Technical validation
+**Function Specialization:**
+- Technical validation
 - Market assessment
 - Team evaluation
 - Financial analysis
@@ -225,20 +228,20 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>🌟 Your Contribution</h3>
-** Direct Impact:
-- ** Ventures guided to success
+**Direct Impact:**
+- Ventures guided to success
 - Quality standards maintained
 - Founders developed
 - Innovation fostered
 - Value created
-** Indirect Impact:
-- ** Culture shaped
+**Indirect Impact:**
+- Culture shaped
 - Standards elevated
 - Trust built
 - Network strengthened
 - Future enabled
-** Measurable Outcomes:
-- ** Venture success rates
+**Measurable Outcomes:**
+- Venture success rates
 - Founder satisfaction
 - Ecosystem growth
 - Innovation metrics
@@ -251,20 +254,20 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>💎 What Anchors Gain</h3>
-** Financial Rewards:
-- ** Validation fees (2-5% of milestones)
+**Financial Rewards:**
+- Validation fees (2-5% of milestones)
 - Performance bonuses
 - Success participation
 - Long-term upside
 - Stable income
-** Professional Growth:
-- ** Expanded network
+**Professional Growth:**
+- Expanded network
 - Deep learning
 - Leadership skills
 - Industry recognition
 - Career opportunities
-** Personal Satisfaction:
-- ** Meaningful impact
+**Personal Satisfaction:**
+- Meaningful impact
 - Founder success stories
 - Ecosystem building
 - Knowledge sharing
@@ -279,26 +282,27 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>⚖️ Moral Foundation</h3>
-** Core Principles:
-- 
+**Core Principles:**
+
 1. **Objectivity**
-- No bias in validation
+   - No bias in validation
 2. **Integrity**
-- Honest assessments always
+   - Honest assessments always
 3. **Confidentiality**
-- Respect private information
+   - Respect private information
 4. **Transparency**
-- Clear communication
+   - Clear communication
 5. **Service**
-- Ecosystem first**
-- ** Conflict Management:
-- ** Declare all conflicts
+   - Ecosystem first
+
+**Conflict Management:**
+- Declare all conflicts
 - Recuse when necessary
 - Seek second opinions
 - Document everything
 - Maintain independence
-** Red Lines:
-- ** Never accept bribes
+**Red Lines:**
+- Never accept bribes
 - Never share insider info
 - Never abuse position
 - Never compromise standards
@@ -313,23 +317,23 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>📅 Day in the Life</h3>
-** Morning (2 hours):
-- ** Check venture updates
+**Morning (2 hours):**
+- Check venture updates
 - Review milestone progress
 - Respond to questions
 - Plan validation schedule
-** Midday (3 hours):
-- ** Deep validation work
+**Midday (3 hours):**
+- Deep validation work
 - Technical reviews
 - Evidence assessment
 - Decision documentation
-** Afternoon (2 hours):
-- ** Founder meetings
+**Afternoon (2 hours):**
+- Founder meetings
 - Strategic guidance
 - Problem solving
 - Resource connections
-** Evening (1 hour):
-- ** Community engagement
+**Evening (1 hour):**
+- Community engagement
 - Knowledge sharing
 - Continuous learning
 - Relationship building
@@ -341,20 +345,20 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>💻 Your Workspace</h3>
-** Digital Tools:
-- ** Validation platform
+**Digital Tools:**
+- Validation platform
 - Communication suite
 - Analysis tools
 - Documentation system
 - Collaboration spaces
-** Work Style:
-- ** Remote first
+**Work Style:**
+- Remote first
 - Flexible hours
 - Async communication
 - Deep work blocks
 - Regular check-ins
-** Support System:
-- ** Anchor community
+**Support System:**
+- Anchor community
 - Senior mentors
 - Platform team
 - Technical resources
@@ -369,20 +373,20 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>🏆 Excellence Indicators</h3>
-** High-Performing Anchors:
-- ** Clear communication
+**High-Performing Anchors:**
+- Clear communication
 - Consistent availability
 - Fair judgments
 - Helpful guidance
 - Positive attitude
-** Success Metrics:
-- ** Venture graduation rate
+**Success Metrics:**
+- Venture graduation rate
 - Founder NPS scores
 - Validation accuracy
 - Dispute frequency
 - Peer recognition
-** Growth Mindset:
-- ** Continuous learning
+**Growth Mindset:**
+- Continuous learning
 - Feedback integration
 - Process improvement
 - Innovation adoption
@@ -397,7 +401,8 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>⚠️ Challenge Management</h3>
-** Typical Challenges:
+**Typical Challenges:**
+
 1. **Difficult Decisions**
 
 - Borderline validations
@@ -427,8 +432,8 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 - Conflict resolution
 
 - Stress management
-** Coping Strategies:
-- ** Strong boundaries
+**Coping Strategies:**
+- Strong boundaries
 - Peer support
 - Clear processes
 - Self-care
@@ -443,20 +448,20 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>🚀 Beginning Your Journey</h3>
-** Immediate Actions:
+**Immediate Actions:**
 1. Complete application
 2. Pass assessment
 3. Attend orientation
 4. Shadow senior Anchor
 5. Take first assignment
-** First Month Goals:
-- ** Understand processes
+**First Month Goals:**
+- Understand processes
 - Build relationships
 - Establish routine
 - Gain confidence
 - Make impact
-** Success Tips:
-- ** Ask questions freely
+**Success Tips:**
+- Ask questions freely
 - Document everything
 - Seek feedback often
 - Build slowly
@@ -471,20 +476,20 @@ As an Anchor in Studio3, you serve as both validator and mentor, ensuring ventur
 <div class="arena-card" markdown="1">
 
 <h3>🤝 Peer Support</h3>
-** Community Benefits:
-- ** Shared experiences
+**Community Benefits:**
+- Shared experiences
 - Best practices
 - Difficult case discussions
 - Emotional support
 - Career development
-** Engagement Opportunities:
-- ** Weekly sync calls
+**Engagement Opportunities:**
+- Weekly sync calls
 - Monthly workshops
 - Quarterly retreats
 - Annual conference
 - Continuous chat
-** Building Relationships:
-- ** Participate actively
+**Building Relationships:**
+- Participate actively
 - Share knowledge
 - Seek mentorship
 - Offer help

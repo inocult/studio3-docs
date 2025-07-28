@@ -19,28 +19,26 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <h3>⚡ Defining True Emergencies</h3>
 
 **Crisis Characteristics:**
-- ** Threatens venture survival
+- Threatens venture survival
 - Requires immediate action
 - Normal processes insufficient
 - High uncertainty
 - Stakeholder panic potential
-**Crisis vs Challenge:| Challenge | Crisis |
+**Crisis vs Challenge:**
+
+| Challenge | Crisis |
 |-----------|--------|
 | Planned for | Unexpected |
 | Resources available | Resources strained |
 | Time to decide | Immediate action |
 | Limited impact | Existential threat |
 | Internal focus | Public scrutiny |
-** Crisis Categories:
-- 
-1. **Acute**
-- Sudden, severe
-2. **Chronic**
-- Slow burning
-3. **Compound**
-- Multiple issues
-4. **Cascading**
-- Domino effect**</div>
+**Crisis Categories:**
+
+1. **Acute** - Sudden, severe
+2. **Chronic** - Slow burning
+3. **Compound** - Multiple issues
+4. **Cascading** - Domino effect</div>
 
 ### Types of Venture Crises
 
@@ -48,32 +46,32 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 <h3>🎯 Common Crisis Scenarios</h3>
 
-** Technical Crises:
-- ** Critical security breach
+**Technical Crises:**
+- Critical security breach
 - Complete system failure  
 - Data loss/corruption
 - Integration collapse
 - Performance meltdown
-** Financial Crises:
-- ** Runway exhaustion
+**Financial Crises:**
+- Runway exhaustion
 - Investor withdrawal
 - Revenue collapse
 - Cost explosion
 - Fraud discovery
-** Team Crises:
-- ** Founder conflict/departure
+**Team Crises:**
+- Founder conflict/departure
 - Mass resignation
 - Legal action
 - Ethical violations
 - Culture breakdown
-** Market Crises:
-- ** Regulatory shutdown
+**Market Crises:**
+- Regulatory shutdown
 - Competitive decimation
 - Customer exodus
 - PR disaster
 - Platform delisting
-** Operational Crises:
-- ** Supply chain failure
+**Operational Crises:**
+- Supply chain failure
 - Quality catastrophe
 - Partnership collapse
 - Infrastructure loss
@@ -88,29 +86,29 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>🏃 First 24 Hours</h3>
-**Hour 1-2: Assessment
+**Hour 1-2: Assessment**
 ```
-** Crisis Triage:
+Crisis Triage:
 □ Identify crisis type/scope
 □ Assess immediate dangers
 □ Determine resources available
 □ Identify key stakeholders
 □ Establish command center
 ```
-**Hour 3-6: Stabilization
-- ** Stop the bleeding
+**Hour 3-6: Stabilization**
+- Stop the bleeding
 - Prevent escalation
 - Secure critical assets
 - Initial communications
 - Rally core team
-**Hour 7-12: Planning
-- ** Gather full information
+**Hour 7-12: Planning**
+- Gather full information
 - Develop response options
 - Allocate resources
 - Create action plan
 - Prepare communications
-**Hour 13-24: Execution
-- ** Implement immediate fixes
+**Hour 13-24: Execution**
+- Implement immediate fixes
 - Communicate broadly
 - Monitor progress
 - Adjust as needed
@@ -123,13 +121,15 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>🎖️ Organizing for Action</h3>
-**Crisis Team Roles:** Crisis Leader** (Usually CEO)
-- ** Final decisions
+**Crisis Team Roles:**
+
+**Crisis Leader (Usually CEO)**
+- Final decisions
 - External face
 - Resource allocation
 - Stakeholder management
-**Operations Lead
-- ** Tactical execution
+**Operations Lead**
+- Tactical execution
 - Team coordination
 - Progress tracking
 - Internal communication
@@ -138,13 +138,13 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 - Solution implementation
 - Risk assessment
 - Recovery planning
-**Communications Lead
-- ** Message development
+**Communications Lead**
+- Message development
 - Stakeholder updates
 - Media management
 - Community relations
-** Anchor Role:
-- ** Strategic advisor
+**Anchor Role:**
+- Strategic advisor
 - Calm presence
 - Experience provider
 - Network activator
@@ -158,23 +158,25 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>💸 When Money Runs Out</h3>
-**Immediate Actions:** Week 1: Reality Check```python
-** def assess_financial_crisis():
+**Immediate Actions:**
+
+**Week 1: Reality Check**
+```python
+def assess_financial_crisis():
     current_burn = calculate_monthly_burn()
     runway_left = cash_balance / current_burn
     
-** if runway_left < 3:
+    if runway_left < 3:
         return "CRITICAL"
-** elif runway_left < 6:
+    elif runway_left < 6:
         return "URGENT"
-** else:
+    else:
         return "MANAGEABLE"
 ```
 
-** Cost Reduction Options:
-1. **Personnel**
-- (50
-- 70% of costs)**
+**Cost Reduction Options:**
+
+1. **Personnel** (50-70% of costs)
 - Salary cuts/deferrals
 
 - Hiring freeze
@@ -183,8 +185,7 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 - Contractor reduction
 
-- 2.**Operations**  (20
-- 30%)
+2. **Operations** (20-30%)
 - Office reduction
 
 - Tool consolidation
@@ -193,7 +194,8 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 
 - Marketing pause
 
-3. **Strategic** (Variable)**   - Feature scope reduction
+3. **Strategic** (Variable)
+   - Feature scope reduction
 
 - Market focus
 
@@ -208,28 +210,30 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>💰 Capital in Crisis</h3>
-**Funding Options Ranked:** 1. Revenue Acceleration
-- ** Discounts for prepayment
+**Funding Options Ranked:**
+
+**1. Revenue Acceleration**
+- Discounts for prepayment
 - Annual plan push
 - New revenue streams
 - Service offerings
-2. Bridge Financing
-- ** Existing investor top-up
+**2. Bridge Financing**
+- Existing investor top-up
 - Convertible notes
 - Revenue-based financing
 - Emergency credit
-3. Asset Strategies
-- ** IP licensing
+**3. Asset Strategies**
+- IP licensing
 - Asset sales
 - Talent lending
 - Partnership deals
-4. Last Resort
-- ** Acquisition talks
+**4. Last Resort**
+- Acquisition talks
 - Distress investment
 - Personal funds
 - Shutdown planning
-** Negotiation in Crisis:
-- ** Be transparent
+**Negotiation in Crisis:**
+- Be transparent
 - Show recovery plan
 - Offer upside
 - Move quickly
@@ -244,7 +248,10 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>🔒 Data Breach Protocol</h3>
-**Immediate Response:** Hour 1: Contain```bash
+**Immediate Response:**
+
+**Hour 1: Contain**
+```bash
 # Emergency Protocol
 1. Isolate affected systems
 2. Preserve evidence
@@ -253,20 +260,20 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 5. Activate response team
 ```
 
-**Hour 2-6: Assess
-- ** What was accessed?
+**Hour 2-6: Assess**
+- What was accessed?
 - How many affected?
 - How did it happen?
 - What's at risk?
 - Legal obligations?
-**Hour 7-24: Respond
-- ** Fix vulnerability
+**Hour 7-24: Respond**
+- Fix vulnerability
 - Notify authorities
 - Prepare user comms
 - Implement monitoring
 - Begin recovery
-**Day 2-7: Recover
-- ** Full investigation
+**Day 2-7: Recover**
+- Full investigation
 - User notifications
 - Credit monitoring
 - System hardening
@@ -279,12 +286,15 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>💻 Critical Outage Management</h3>
-** Outage Response Framework:
-- **Severity Levels:** SEV1**: Complete outage
-- **SEV2** : Major degradation 
-- **SEV3** : Partial impact
-- **SEV4** : Minor issues
-** Response Protocol:
+**Outage Response Framework:**
+
+**Severity Levels:**
+- **SEV1**: Complete outage
+- **SEV2**: Major degradation
+- **SEV3**: Partial impact
+- **SEV4**: Minor issues
+**Response Protocol:**
+
 1. **Declare Incident**
 
 - Severity level
@@ -334,25 +344,27 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>👥 When Leaders Clash</h3>
-**Conflict Escalation Stages:** Stage 1: Tension
-- ** Communication breakdown
+**Conflict Escalation Stages:**
+
+**Stage 1: Tension**
+- Communication breakdown
 - Avoidance behaviors
 - Team taking sides
 - Productivity impact
-**Stage 2: Open Conflict
-- ** Public disagreements
+**Stage 2: Open Conflict**
+- Public disagreements
 - Power struggles
 - Trust breakdown
 - Team morale crisis
-**Stage 3: Crisis Point
-- ** Departure threats
+**Stage 3: Crisis Point**
+- Departure threats
 - Legal considerations
 - Investor involvement
 - Company paralysis
-** Intervention Strategy:
+**Intervention Strategy:**
+
 1. **Immediate Separation**
-- Cool
-- down period
+   - Cool-down period
 
 - Individual sessions
 
@@ -367,8 +379,7 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 - Structured dialogue
 
 - Focus on interests
-- Seek win
-- win
+- Seek win-win
 
 3. **Resolution Planning**
 
@@ -377,8 +388,7 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 - Role clarification
 
 - Communication rules
-- Follow
-- up schedule
+- Follow-up schedule
 
 </div>
 
@@ -387,8 +397,10 @@ Crisis management is where Anchors prove their true value. When ventures face ex
 <div class="arena-card" markdown="1">
 
 <h3>🚪 Team Exodus Management</h3>
-**When Teams Leave:**  Immediate Response:
-- ** Understand why
+**When Teams Leave:**
+
+**Immediate Response:**
+- Understand why
 - Identify critical roles
 - Assess knowledge loss
 - Stabilize remainder

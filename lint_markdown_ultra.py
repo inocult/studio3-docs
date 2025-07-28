@@ -81,8 +81,7 @@ class UltraMarkdownLinter:
             
             # HTML headers in divs
             if in_arena_card and re.match(r'^<h[1-6]>', line):
-                if not re.match(r'^<h[1-6]>.*</h[1-6]>\s*$', line):
-                    errors.append((i + 1, "Broken HTML header tag", line))
+                errors.append((i + 1, "HTML header in arena-card div - use markdown ### instead", line))
             
             # Multiple dashes at line start (not in lists or tables)
             if re.match(r'^--+\s+\w', line) and not in_table:
@@ -107,9 +106,15 @@ class UltraMarkdownLinter:
             if bold_count % 2 != 0:
                 errors.append((i + 1, "Unclosed bold marker", line))
             
-            # Space inside bold markers
-            if re.search(r'\*\*\s+\w', line) or re.search(r'\w\s+\*\*', line):
-                errors.append((i + 1, "Space inside bold markers", line))
+            # Space inside bold markers (but not between separate bold sections)
+            # Check for space after opening ** 
+            if re.search(r'\*\*\s+[^*]', line):
+                errors.append((i + 1, "Space after opening bold marker", line))
+            # Check for space before closing ** (but not if it's part of a separate bold section)
+            if re.search(r'[^*]\s+\*\*(?![^*]*\*\*)', line):
+                # Make sure this isn't a case like "**word** **another**"
+                if not re.search(r'\*\*[^*]+\*\*\s+\*\*[^*]+\*\*', line):
+                    errors.append((i + 1, "Space before closing bold marker", line))
             
             # Pattern: **text**text** (missing space between bold sections)
             if re.search(r'\*\*[^*]+\*\*[^\s*:,;.!?)\]}>][^*]*\*\*', line):

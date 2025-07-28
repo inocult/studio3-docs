@@ -16,9 +16,11 @@ As an Echo in Studio3, you're not just an investor - you're a signal broadcaster
 
 Echoes are participants who:
 
-- **Express conviction** Earn rewards
-- **Shape venture trajectories**  Build reputation
-- **Create momentum**  for deserving projects
+- **Express conviction** through token signals
+- **Earn rewards** for accurate predictions
+- **Shape venture trajectories** with collective wisdom
+- **Build reputation** through consistent performance
+- **Create momentum** for deserving projects
 ### Beyond Traditional Investing
 
 | Traditional Investor | Studio3 Echo |
@@ -132,27 +134,27 @@ Echoes are participants who:
 ## Types of Signals
 
 ### Belief Signals
-** When to Believe:
-- ** Strong team credentials
+**When to Believe:**
+- Strong team credentials
 - Clear execution plan
 - Realistic milestones
 - Market validation
 - Community support
-** Belief Rewards:
-- ** 1.5x-3x multipliers on success
+**Belief Rewards:**
+- 1.5x-3x multipliers on success
 - Higher multiples for early signals
 - Reputation boost
 - Community recognition
 
 ### Doubt Signals
-** When to Doubt:
-- ** Unrealistic promises
+**When to Doubt:**
+- Unrealistic promises
 - Weak team background
 - Poor communication
 - Market misalignment
 - Red flags present
-** Doubt Rewards:
-- ** 1.2x-2x multipliers on failure
+**Doubt Rewards:**
+- 1.2x-2x multipliers on failure
 - Protect the ecosystem
 - Valuable feedback loop
 - Contrarian opportunities
@@ -165,43 +167,29 @@ Echoes are participants who:
 
 <h3>📈 Your Growth Trajectory</h3>
 
-- 1.**Novice Echo**  (0
-- 100 XP)
-- Learning basics
+1. **Novice Echo** (0-100 XP)
+   - Learning basics
+   - Small test signals
+   - Observing patterns
+   - Building knowledge
 
-- Small test signals
+2. **Active Echo** (100-500 XP)
+   - Regular participation
+   - Growing accuracy
+   - Developing strategies
+   - Finding specialties
 
-- Observing patterns
+3. **Expert Echo** (500-2000 XP)
+   - High accuracy rate
+   - Larger positions
+   - Community influence
+   - Mentoring others
 
-- Building knowledge
-
-- 2.**Active Echo**  (100
-- 500 XP)
-- Regular participation
-
-- Growing accuracy
-
-- Developing strategies
-
-- Finding specialties
-
-- 3.**Expert Echo**  (500
-- 2000 XP)
-- High accuracy rate
-
-- Larger positions
-
-- Community influence
-
-- Mentoring others
-
-4. **Master Echo** (2000+ XP)**   - Top performer
-
-- Market mover
-
-- Strategy leader
-
-- Platform governance
+4. **Master Echo** (2000+ XP)
+   - Top performer
+   - Market mover
+   - Strategy leader
+   - Platform governance
 
 </div>
 
@@ -212,14 +200,14 @@ Echoes are participants who:
 <div class="arena-card" markdown="1">
 
 <h3>🔍 Research Requirements</h3>
-** Always Investigate:
-- ** Founder backgrounds
+**Always Investigate:**
+- Founder backgrounds
 - Technical feasibility
 - Market opportunity
 - Competition landscape
 - Execution capability
-** Red Flag Checklist:
-- ** Anonymous teams
+**Red Flag Checklist:**
+- Anonymous teams
 - Copied whitepapers
 - Impossible timelines
 - No clear use case
@@ -228,16 +216,16 @@ Echoes are participants who:
 </div>
 
 ### 2. Risk Management
-** Portfolio Principles:
-- ** Never all-in on one signal
+**Portfolio Principles:**
+- Never all-in on one signal
 - Diversify across phases
 - Balance belief and doubt
 - Size stakes appropriately
 - Keep reserve funds
 
 ### 3. Community Participation
-** Engagement Activities:
-- ** Share research findings
+**Engagement Activities:**
+- Share research findings
 - Ask clarifying questions
 - Support quality ventures
 - Report suspicious activity
@@ -342,14 +330,14 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 <div class="arena-card" markdown="1">
 
 <h3>⚠️ Echo Errors</h3>
-** Fatal Mistakes:
-- ** Signaling without research
+**Fatal Mistakes:**
+- Signaling without research
 - Emotional decision making
 - Overexposure to one venture
 - Ignoring red flags
 - Chasing losses
-** Warning Signs:
-- ** Declining accuracy
+**Warning Signs:**
+- Declining accuracy
 - Shrinking bankroll
 - Stress reactions
 - Isolation from community
@@ -360,18 +348,18 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 ## Daily Routine
 
 ### Successful Echo Schedule
-**Morning (30 min)
-- ** Check overnight updates
+**Morning (30 min)**
+- Check overnight updates
 - Review signal performance
 - Scan new ventures
 - Read community insights
-**Midday (45 min)
-- ** Deep dive on 2-3 ventures
+**Midday (45 min)**
+- Deep dive on 2-3 ventures
 - Analyze milestone progress
 - Make signal decisions
 - Engage in discussions
-**Evening (15 min)
-- ** Review daily performance
+**Evening (15 min)**
+- Review daily performance
 - Update tracking sheets
 - Plan tomorrow's research
 - Connect with community
@@ -383,18 +371,18 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 <div class="arena-card" markdown="1">
 
 <h3>🛠️ Your Arsenal</h3>
-** Analysis Tools:
-- ** Signal calculator
+**Analysis Tools:**
+- Signal calculator
 - Risk assessment matrix
 - Portfolio tracker
 - Performance analytics
-** Information Sources:
-- ** Venture dashboards
+**Information Sources:**
+- Venture dashboards
 - Team profiles
 - Market data
 - Community forums
-** Decision Aids:
-- ** Due diligence checklist
+**Decision Aids:**
+- Due diligence checklist
 - Red flag detector
 - Timing optimizer
 - Stake sizing guide
@@ -404,14 +392,14 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 ## Building Your Network
 
 ### Community Connections
-** Key Relationships:
-- ** Fellow Echoes for insights
+**Key Relationships:**
+- Fellow Echoes for insights
 - Senders for direct info
 - Anchors for validation views
 - Mentors for guidance
 - Newcomers to teach
-** Networking Benefits:
-- ** Early information
+**Networking Benefits:**
+- Early information
 - Collective analysis
 - Risk sharing
 - Strategy validation
@@ -424,14 +412,14 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 <div class="arena-card" markdown="1">
 
 <h3>🌟 XP & Reputation</h3>
-** How to Build:
-- ** Consistent accuracy
+**How to Build:**
+- Consistent accuracy
 - Quality contributions
 - Helpful behavior
 - Active participation
 - Ethical conduct
-** How to Lose:
-- ** Poor performance
+**How to Lose:**
+- Poor performance
 - Toxic behavior
 - Misinformation
 - Manipulation attempts
@@ -442,18 +430,18 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 ## Getting Started Checklist
 
 ### Your First Week
-**Day 1:**-2: Foundation
-- ** [ ] Read all Echo guides
+**Day 1-2: Foundation**
+- [ ] Read all Echo guides
 - [ ] Join Echo channels
 - [ ] Set up tracking tools
 - [ ] Observe active signals
-**Day 3-4: Preparation
-- ** [ ] Research 5 ventures
+**Day 3-4: Preparation**
+- [ ] Research 5 ventures
 - [ ] Practice analysis
 - [ ] Connect with Echoes
 - [ ] Plan first signal
-**Day 5-7: Action
-- ** [ ] Make first small signal
+**Day 5-7: Action**
+- [ ] Make first small signal
 - [ ] Document reasoning
 - [ ] Engage with venture
 - [ ] Track performance
@@ -461,20 +449,20 @@ Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
 ## Advanced Concepts
 
 ### Signal Timing
-** Early Signals:
-- ** Higher risk
+**Early Signals:**
+- Higher risk
 - Better multipliers
 - Less information
 - Pioneer advantage
-** Late Signals:
-- ** Lower risk
+**Late Signals:**
+- Lower risk
 - Smaller multipliers
 - More information
 - Follower safety
 
 ### Portfolio Strategy
-** Diversification Model:
-- ** 40% early-phase ventures
+**Diversification Model:**
+- 40% early-phase ventures
 - 30% mid-phase stability
 - 20% contrarian plays
 - 10% experimental
