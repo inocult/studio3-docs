@@ -29,23 +29,28 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
           # Install system dependencies for weasyprint
           sudo apt-get update
           sudo apt-get install -y python3-cffi python3-brotli libpango-1.0-0 libpangoft2-1.0-0
+          # Install all dependencies using make
+          make install
 
       - name: Build documentation with PDFs
         env:
           ENABLE_PDF_EXPORT: 1
         run: |
-          mkdocs build
-          python generate_guide_pdfs.py
+          make build
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./site
 
