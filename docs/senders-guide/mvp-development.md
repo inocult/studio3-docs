@@ -121,34 +121,38 @@
 
 </ul>
 <p>**Example Prioritization:**</p>
-```python
-<p>features = {</p>
-<p>"must_have": [</p>
-<p>"user_authentication",</p>
-<p>"core_workflow",</p>
-<p>"payment_processing",</p>
-<p>"basic_dashboard"</p>
-<p>],</p>
-<p>"should_have": [</p>
-<p>"email_notifications",</p>
-<p>"mobile_responsive",</p>
-<p>"data_export",</p>
-<p>"user_settings"</p>
-<p>],</p>
-<p>"could_have": [</p>
-<p>"dark_mode",</p>
-<p>"social_sharing",</p>
-<p>"advanced_filters",</p>
-<p>"api_access"</p>
-<p>],</p>
-<p>"wont_have": [</p>
-<p>"ai_features",</p>
-<p>"blockchain_integration",</p>
-<p>"vr_interface",</p>
-<p>"iot_connectivity"</p>
-<p>]</p>
-<p>}</p>
-```
+
+<p>**Must Have (P0):**</p>
+<ul>
+<li>User authentication</li>
+<li>Core workflow</li>
+<li>Payment processing</li>
+<li>Basic dashboard</li>
+</ul>
+
+<p>**Should Have (P1):**</p>
+<ul>
+<li>Email notifications</li>
+<li>Mobile responsive</li>
+<li>Data export</li>
+<li>User settings</li>
+</ul>
+
+<p>**Could Have (P2):**</p>
+<ul>
+<li>Dark mode</li>
+<li>Social sharing</li>
+<li>Advanced filters</li>
+<li>API access</li>
+</ul>
+
+<p>**Won't Have (P3):**</p>
+<ul>
+<li>AI features</li>
+<li>Blockchain integration</li>
+<li>VR interface</li>
+<li>IoT connectivity</li>
+</ul>
 
 </div>
 
@@ -159,47 +163,53 @@
 <h3>🗄️ Building User Journeys</h3>
 
 <p>**Story Structure:**</p>
-```
-<p>As a [user type]</p>
-<p>I want to [action]</p>
-<p>So that [benefit]</p>
 
-<p>Acceptance Criteria:</p>
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>As a</strong> [user type]<br/>
+<strong>I want to</strong> [action]<br/>
+<strong>So that</strong> [benefit]</p>
+
+<p><strong>Acceptance Criteria:</strong></p>
 <ul>
-<li>Given [context]</li>
-<li>When [action]</li>
-<li>Then [outcome]</li>
-```
+<li><strong>Given</strong> [context]</li>
+<li><strong>When</strong> [action]</li>
+<li><strong>Then</strong> [outcome]</li>
+</ul>
+</div>
 
 </ul>
 <p>**Example User Stories:**</p>
 
 <p>**Story 1: First-Time User**</p>
-```
-<p>As a new user</p>
-<p>I want to sign up quickly</p>
-<p>So that I can start using the product</p>
 
-<p>Acceptance:</p>
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>As a</strong> new user<br/>
+<strong>I want to</strong> sign up quickly<br/>
+<strong>So that</strong> I can start using the product</p>
+
+<p><strong>Acceptance:</strong></p>
 <ul>
-<li>Given I'm on the landing page</li>
-<li>When I click "Get Started"</li>
-<li>Then I can sign up in <30 seconds</li>
-```
+<li><strong>Given</strong> I'm on the landing page</li>
+<li><strong>When</strong> I click "Get Started"</li>
+<li><strong>Then</strong> I can sign up in <30 seconds</li>
+</ul>
+</div>
 
 </ul>
 <p>**Story 2: Core Value**</p>
-```
-<p>As a daily user</p>
-<p>I want to complete my main task</p>
-<p>So that I get value from the product</p>
 
-<p>Acceptance:</p>
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>As a</strong> daily user<br/>
+<strong>I want to</strong> complete my main task<br/>
+<strong>So that</strong> I get value from the product</p>
+
+<p><strong>Acceptance:</strong></p>
 <ul>
-<li>Given I'm logged in</li>
-<li>When I access the main feature</li>
-<li>Then I can complete my task in <3 clicks</li>
-```
+<li><strong>Given</strong> I'm logged in</li>
+<li><strong>When</strong> I access the main feature</li>
+<li><strong>Then</strong> I can complete my task in <3 clicks</li>
+</ul>
+</div>
 
 </ul>
 </div>
@@ -216,41 +226,39 @@
 
 <p>| Factor | Questions to Ask |</p>
 <p>|--------|------------------|</p>
-<p>| **Team Skills** | What does your team know?  |</p>
-<p>| **Time to Market** | How fast can you build?  |</p>
-<p>| **Scalability** | Will it grow with you?  |</p>
-<p>| **Cost** | What's the budget impact?  |</p>
-<p>| **Community** | Is help available?  |</p>
+<p>| **Team Skills** | What does your team know? |</p>
+<p>| **Time to Market** | How fast can you build? |</p>
+<p>| **Scalability** | Will it grow with you? |</p>
+<p>| **Cost** | What's the budget impact? |</p>
+<p>| **Community** | Is help available? |</p>
 <p>| **Integration** | Does it play nice? |</p>
 
 <p>**Common MVP Stacks:**</p>
 
 <p>**Fast & Simple:**</p>
-```javascript
-<p>// MEAN/MERN Stack</p>
-<p>const mvpStack = {</p>
-<p>frontend: "React",</p>
-<p>backend: "Node.js + Express",</p>
-<p>database: "MongoDB",</p>
-<p>hosting: "Vercel + MongoDB Atlas",</p>
-<p>auth: "Auth0",</p>
-<p>payments: "Stripe"</p>
-<p>};</p>
-```
+
+<p>For a quick MVP, you might choose:</p>
+<ul>
+<li><strong>Frontend</strong>: React for interactive user interfaces</li>
+<li><strong>Backend</strong>: Node.js with Express for server logic</li>
+<li><strong>Database</strong>: MongoDB for flexible data storage</li>
+<li><strong>Hosting</strong>: Vercel for frontend and MongoDB Atlas for database</li>
+<li><strong>Authentication</strong>: Auth0 for secure user login</li>
+<li><strong>Payments</strong>: Stripe for processing transactions</li>
+</ul>
 
 <p>**Robust & Scalable:**</p>
-```python
-<h1>Django + React</h1>
-<p>mvp_stack = {</p>
-<p>"frontend": "React + TypeScript",</p>
-<p>"backend": "Django REST",</p>
-<p>"database": "PostgreSQL",</p>
-<p>"hosting": "AWS/Heroku",</p>
-<p>"auth": "Django Auth",</p>
-<p>"payments": "Stripe",</p>
-<p>"queue": "Celery + Redis"</p>
-<p>}</p>
-```
+
+<p>For a more enterprise-ready MVP:</p>
+<ul>
+<li><strong>Frontend</strong>: React with TypeScript for type-safe code</li>
+<li><strong>Backend</strong>: Django REST framework for powerful APIs</li>
+<li><strong>Database</strong>: PostgreSQL for relational data integrity</li>
+<li><strong>Hosting</strong>: AWS or Heroku for scalable infrastructure</li>
+<li><strong>Authentication</strong>: Django's built-in auth system</li>
+<li><strong>Payments</strong>: Stripe for financial transactions</li>
+<li><strong>Task Queue</strong>: Celery with Redis for background jobs</li>
+</ul>
 
 </div>
 
@@ -261,24 +269,34 @@
 <h3>🏗️ Building for Evolution</h3>
 
 <p>**Architecture Principles:**</p>
-```
-<p>MVP Architecture</p>
-<p>├── Frontend</p>
-<p>│   ├── Landing Page</p>
-<p>│   ├── Auth Flow</p>
-<p>│   ├── Core Features</p>
-<p>│   └── User Dashboard</p>
-<p>├── Backend</p>
-<p>│   ├── API Layer</p>
-<p>│   ├── Business Logic</p>
-<p>│   ├── Data Models</p>
-<p>│   └── External Services</p>
-<p>└── Infrastructure</p>
-<p>├── Database</p>
-<p>├── File Storage</p>
-<p>├── Monitoring</p>
-<p>└── Analytics</p>
-```
+
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>MVP Architecture Structure:</strong></p>
+
+<p><strong>Frontend Components:</strong></p>
+<ul>
+<li>Landing Page</li>
+<li>Authentication Flow</li>
+<li>Core Features</li>
+<li>User Dashboard</li>
+</ul>
+
+<p><strong>Backend Components:</strong></p>
+<ul>
+<li>API Layer</li>
+<li>Business Logic</li>
+<li>Data Models</li>
+<li>External Services</li>
+</ul>
+
+<p><strong>Infrastructure:</strong></p>
+<ul>
+<li>Database</li>
+<li>File Storage</li>
+<li>Monitoring</li>
+<li>Analytics</li>
+</ul>
+</div>
 
 <p>**Best Practices:**</p>
 
@@ -301,41 +319,44 @@
 <p>**Sprint Structure:**</p>
 
 <p>**Week 1: Build**</p>
-```
-<p>Day 1-2: Sprint Planning</p>
+
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>Day 1-2: Sprint Planning</strong></p>
 <ul>
 <li>Define sprint goals</li>
 <li>Break down tasks</li>
 <li>Assign responsibilities</li>
 <li>Set up environments</li>
-
 </ul>
-<p>Day 3-5: Core Development</p>
+
+<p><strong>Day 3-5: Core Development</strong></p>
 <ul>
 <li>Feature implementation</li>
 <li>Daily standups</li>
 <li>Continuous integration</li>
 <li>Code reviews</li>
-```
-
 </ul>
+</div>
+
 <p>**Week 2: Polish**</p>
-```
-<p>Day 6-8: Integration</p>
+
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>Day 6-8: Integration</strong></p>
 <ul>
 <li>Feature integration</li>
 <li>Testing cycles</li>
 <li>Bug fixes</li>
 <li>Performance optimization</li>
-
 </ul>
-<p>Day 9-10: Release Prep</p>
+
+<p><strong>Day 9-10: Release Prep</strong></p>
 <ul>
 <li>Final testing</li>
 <li>Documentation</li>
 <li>Deployment prep</li>
 <li>Sprint review</li>
-```
+</ul>
+</div>
 
 </ul>
 </div>
@@ -349,13 +370,14 @@
 <p>**Prototyping Strategies:**</p>
 
 <p>1. **Use Frameworks**</p>
-   ```bash
-<h1>Quick starts</h1>
-<p>npx create-react-app my-mvp</p>
-<p>django-admin startproject my-mvp</p>
-<p>rails new my-mvp</p>
-<p>flutter create my-mvp</p>
-   ```
+   
+   <p>Popular frameworks offer one-line commands to create new projects:</p>
+   <ul>
+   <li><strong>React</strong>: Creates a new React application with pre-configured build tools</li>
+   <li><strong>Django</strong>: Sets up a Python web project with folder structure</li>
+   <li><strong>Rails</strong>: Generates a Ruby on Rails application skeleton</li>
+   <li><strong>Flutter</strong>: Initializes a cross-platform mobile app project</li>
+   </ul>
 
 <p>2. **Leverage Services**</p>
 <ul>
@@ -395,29 +417,32 @@
 <h3>🔐 First User Experience</h3>
 
 <p>**Auth Requirements:**</p>
-```javascript
-<p>// Minimal auth flow</p>
-<p>const authFlow = {</p>
-<p>signup: {</p>
-<p>fields: ["email", "password"],</p>
-<p>optional: ["name"],</p>
-<p>verification: "email",</p>
-<p>time: "<30 seconds"</p>
-<p>},</p>
-<p>login: {</p>
-<p>methods: ["email", "social"],</p>
-<p>remember_me: true,</p>
-<p>forgot_password: true,</p>
-<p>time: "<5 seconds"</p>
-<p>},</p>
-<p>onboarding: {</p>
-<p>steps: 3,  // Maximum</p>
-<p>skippable: true,</p>
-<p>personalization: "minimal",</p>
-<p>time: "<2 minutes"</p>
-<p>}</p>
-<p>};</p>
-```
+
+<p>**Minimal Authentication Flow:**</p>
+
+<p><strong>Sign Up Requirements:</strong></p>
+<ul>
+<li>Required fields: Email and password only</li>
+<li>Optional fields: Name (can be added later)</li>
+<li>Verification: Simple email confirmation</li>
+<li>Target time: Less than 30 seconds to complete</li>
+</ul>
+
+<p><strong>Login Features:</strong></p>
+<ul>
+<li>Methods: Email/password or social media login</li>
+<li>Convenience: Remember me checkbox</li>
+<li>Recovery: Forgot password option</li>
+<li>Target time: Less than 5 seconds to access</li>
+</ul>
+
+<p><strong>Onboarding Process:</strong></p>
+<ul>
+<li>Maximum steps: 3 screens or less</li>
+<li>Flexibility: All steps can be skipped</li>
+<li>Personalization: Keep it minimal initially</li>
+<li>Target time: Less than 2 minutes total</li>
+</ul>
 
 <p>**Onboarding Best Practices:**</p>
 
@@ -453,14 +478,14 @@
 
 </ul>
 <p>3. **Measure Success**</p>
-   ```python
-<p>success_metrics = {</p>
-<p>"time_to_value": "<5 minutes",</p>
-<p>"activation_rate": ">60%",</p>
-<p>"feature_adoption": ">40%",</p>
-<p>"return_rate": ">30% in 7 days"</p>
-<p>}</p>
-   ```
+   
+   <p><strong>Key Success Metrics to Track:</strong></p>
+   <ul>
+   <li><strong>Time to Value</strong>: Users should experience core benefit within 5 minutes</li>
+   <li><strong>Activation Rate</strong>: Over 60% of signups should complete key action</li>
+   <li><strong>Feature Adoption</strong>: At least 40% should use main features</li>
+   <li><strong>Return Rate</strong>: More than 30% should come back within a week</li>
+   </ul>
 
 </div>
 
@@ -471,32 +496,35 @@
 <h3>📊 Learning from Users</h3>
 
 <p>**Essential Analytics:**</p>
-```javascript
-<p>// Track these from day 1</p>
-<p>const analytics = {</p>
-<p>user_metrics: [</p>
-<p>"signups",</p>
-<p>"activations",</p>
-<p>"daily_active_users",</p>
-<p>"retention_cohorts",</p>
-<p>"churn_rate"</p>
-<p>],</p>
-<p>feature_metrics: [</p>
-<p>"feature_adoption",</p>
-<p>"usage_frequency",</p>
-<p>"completion_rates",</p>
-<p>"error_rates",</p>
-<p>"performance"</p>
-<p>],</p>
-<p>business_metrics: [</p>
-<p>"conversion_rate",</p>
-<p>"customer_acquisition_cost",</p>
-<p>"lifetime_value",</p>
-<p>"revenue_per_user",</p>
-<p>"viral_coefficient"</p>
-<p>]</p>
-<p>};</p>
-```
+
+<p><strong>Track These from Day 1:</strong></p>
+
+<p><strong>User Metrics:</strong></p>
+<ul>
+<li>Number of new signups</li>
+<li>How many users activate (complete setup)</li>
+<li>Daily active users count</li>
+<li>User retention by signup date groups</li>
+<li>Percentage of users who stop using the product</li>
+</ul>
+
+<p><strong>Feature Metrics:</strong></p>
+<ul>
+<li>Which features users actually use</li>
+<li>How often features are accessed</li>
+<li>Percentage completing key workflows</li>
+<li>How often errors occur</li>
+<li>Page load speeds and response times</li>
+</ul>
+
+<p><strong>Business Metrics:</strong></p>
+<ul>
+<li>Percentage of visitors who become users</li>
+<li>Cost to acquire each customer</li>
+<li>Total value a customer brings over time</li>
+<li>Average revenue generated per user</li>
+<li>How many new users each user brings</li>
+</ul>
 
 <p>**Feedback Channels:**</p>
 
@@ -530,16 +558,16 @@
 
 </ul>
 <p>2. **Automated Basics**</p>
-   ```python
-<h1>Minimal test suite</h1>
-<p>def test_mvp():</p>
-<p>test_user_registration()</p>
-<p>test_user_login()</p>
-<p>test_core_feature()</p>
-<p>test_payment_flow()</p>
-<p>test_data_persistence()</p>
-<p>test_basic_security()</p>
-   ```
+   
+   <p><strong>Essential MVP Tests:</strong></p>
+   <ul>
+   <li>User registration works correctly</li>
+   <li>Users can log in successfully</li>
+   <li>Core feature functions as expected</li>
+   <li>Payment processing completes properly</li>
+   <li>User data saves and retrieves correctly</li>
+   <li>Basic security measures are in place</li>
+   </ul>
 
 <p>3. **Manual Testing**</p>
 <ul>
@@ -750,6 +778,7 @@
 ### Continue Building
 
 Ready to grow? Continue to:
+
 1. [Engaging Echoes](engaging-echoes.md) - Community growth
 2. [Building Momentum](building-momentum.md) - Accelerating progress
 3. [Drift Navigation](drift-navigation.md) - Finding product-market fit

@@ -49,6 +49,7 @@
 ### Competitive Intelligence
 
 **Scouting Opponents:**
+
 1. **Identify Likely Competitors**
    - Monitor Spark interest
    - Check supporter lists
@@ -274,6 +275,7 @@
 ### Messaging Framework
 
 **Core Messages:**
+
 1. **Primary Message**
    - One sentence value prop
 2. **Supporting Points** - Three key arguments
@@ -319,6 +321,7 @@
 ### Scenario Planning
 
 **Prepare for Everything:**
+
 1. **Best Case**
    - Leading throughout
 2. **Comeback** - Starting behind

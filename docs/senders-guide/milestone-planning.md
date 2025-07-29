@@ -104,40 +104,43 @@
 <p>**Typical Ignition Milestones:**</p>
 
 <p>**Month 1-2:**</p>
-```markdown
-<p>Milestone: "Complete Technical Architecture"</p>
+
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>Milestone:</strong> "Complete Technical Architecture"</p>
 <ul>
 <li>Finalize tech stack</li>
 <li>Design system architecture</li>
 <li>Set up development environment</li>
 <li>Create deployment pipeline</li>
 </ul>
-<p>Deliverable: Architecture documentation + demo</p>
-```
+<p><strong>Deliverable:</strong> Architecture documentation + demo</p>
+</div>
 
 <p>**Month 3-4:**</p>
-```markdown
-<p>Milestone: "Launch Functional MVP"</p>
+
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>Milestone:</strong> "Launch Functional MVP"</p>
 <ul>
 <li>Core features operational</li>
 <li>Basic UI/UX complete</li>
 <li>User authentication working</li>
 <li>Initial testing complete</li>
 </ul>
-<p>Deliverable: Live MVP + 50 beta users</p>
-```
+<p><strong>Deliverable:</strong> Live MVP + 50 beta users</p>
+</div>
 
 <p>**Month 5-6:**</p>
-```markdown
-<p>Milestone: "Achieve Product-Market Fit Signal"</p>
+
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>Milestone:</strong> "Achieve Product-Market Fit Signal"</p>
 <ul>
 <li>100+ active users</li>
 <li>40% weekly retention</li>
 <li>NPS score >30</li>
 <li>Clear use case validation</li>
 </ul>
-<p>Deliverable: Metrics dashboard + user testimonials</p>
-```
+<p><strong>Deliverable:</strong> Metrics dashboard + user testimonials</p>
+</div>
 
 </div>
 
@@ -216,22 +219,14 @@
 <h3>🦭 Building Your Roadmap</h3>
 <p>** Planning Steps:**</p>
 <p>1. **Vision Setting**</p>
-   ```python
-<p>def set_milestone_vision():</p>
-<h1>Where are we now?</h1>
-<p>current_state = assess_current_position()</p>
-
-<h1>Where do we want to be?</h1>
-<p>target_state = define_success_metrics()</p>
-
-<h1>What's the gap?</h1>
-<p>gap_analysis = target_state - current_state</p>
-
-<h1>How do we get there?</h1>
-<p>milestone_path = create_stepping_stones(gap_analysis)</p>
-
-<p>return milestone_path</p>
-   ```
+   
+   <p>Follow this process to set milestone vision:</p>
+   <ul>
+   <li><strong>Where are we now?</strong> - Assess your current position honestly</li>
+   <li><strong>Where do we want to be?</strong> - Define clear success metrics</li>
+   <li><strong>What's the gap?</strong> - Analyze the difference between current and target state</li>
+   <li><strong>How do we get there?</strong> - Create stepping stones that bridge the gap</li>
+   </ul>
 
 <p>2. **Backwards Planning**</p>
 <ul>
@@ -363,7 +358,8 @@
 <h3>📝 Compelling Milestone Declarations</h3>
 
 <p>**Milestone Proposal Template:**</p>
-```markdown
+
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
 <h1>Milestone: [Clear Title]</h1>
 
 <h2>Objective</h2>
@@ -371,34 +367,38 @@
 
 <h2>Success Criteria</h2>
 <ul>
-<li>[ ] Specific metric 1</li>
-<li>[ ] Specific metric 2</li>
-<li>[ ] Specific metric 3</li>
+<li>☐ Specific metric 1</li>
+<li>☐ Specific metric 2</li>
+<li>☐ Specific metric 3</li>
+</ul>
 
 <h2>Deliverables</h2>
-</ul>
-<p>1. [Tangible output 1]</p>
-<p>2. [Tangible output 2]</p>
-<p>3. [Tangible output 3]</p>
+<ol>
+<li>[Tangible output 1]</li>
+<li>[Tangible output 2]</li>
+<li>[Tangible output 3]</li>
+</ol>
 
 <h2>Timeline</h2>
 <ul>
-<li>Start: [Date]</li>
-<li>Key Checkpoints: [Dates]</li>
-<li>Completion: [Date]</li>
+<li><strong>Start:</strong> [Date]</li>
+<li><strong>Key Checkpoints:</strong> [Dates]</li>
+<li><strong>Completion:</strong> [Date]</li>
+</ul>
 
 <h2>Resources Required</h2>
-<li>Team: [Who's involved]</li>
-<li>Budget: [Financial needs]</li>
-<li>Tools: [Technical requirements]</li>
+<ul>
+<li><strong>Team:</strong> [Who's involved]</li>
+<li><strong>Budget:</strong> [Financial needs]</li>
+<li><strong>Tools:</strong> [Technical requirements]</li>
+</ul>
 
 <h2>Validation Method</h2>
-</ul>
 <p>[How Anchors will verify completion]</p>
 
 <h2>Risk Mitigation</h2>
 <p>[Key risks and management strategies]</p>
-```
+</div>
 
 </div>
 
@@ -460,41 +460,44 @@
 
 <p>**Week 1-2: Foundation**</p>
 
-```
-<p>Sprint 1 Goals:</p>
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>Sprint 1 Goals:</strong></p>
 <ul>
 <li>Set up infrastructure</li>
 <li>Assign responsibilities</li>
 <li>Create tracking systems</li>
 <li>Kick-off meetings</li>
 <li>Initial development</li>
-```
+</ul>
+</div>
 
 </ul>
 <p>**Week 3-6: Core Development**</p>
 
-```
-<p>Sprint 2-3 Goals:</p>
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>Sprint 2-3 Goals:</strong></p>
 <ul>
 <li>Feature development</li>
 <li>Testing cycles</li>
 <li>User feedback</li>
 <li>Iteration loops</li>
 <li>Progress tracking</li>
-```
+</ul>
+</div>
 
 </ul>
 <p>**Week 7-8: Finalization**</p>
 
-```
-<p>Sprint 4 Goals:</p>
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
+<p><strong>Sprint 4 Goals:</strong></p>
 <ul>
 <li>Final testing</li>
 <li>Documentation</li>
 <li>Evidence gathering</li>
 <li>Anchor preparation</li>
 <li>Launch ready</li>
-```
+</ul>
+</div>
 
 </ul>
 </div>
@@ -516,13 +519,14 @@
 
 </ul>
 <p>2. **Responsibility Matrix**</p>
-   ```
-<p>RACI Chart:</p>
-<p>R - Responsible (Does the work)</p>
-<p>A - Accountable (Owns outcome)</p>
-<p>C - Consulted (Provides input)</p>
-<p>I - Informed (Kept updated)</p>
-   ```
+   
+   <p><strong>RACI Chart Definitions:</strong></p>
+   <ul>
+   <li><strong>R - Responsible</strong>: Person who does the actual work</li>
+   <li><strong>A - Accountable</strong>: Person who owns the outcome and has final say</li>
+   <li><strong>C - Consulted</strong>: People who provide input and expertise</li>
+   <li><strong>I - Informed</strong>: People who need to be kept updated on progress</li>
+   </ul>
 
 <p>3. **Motivation Systems**</p>
 <ul>
@@ -602,20 +606,17 @@
 <p>5. Clear documentation</p>
 
 <p>**Adjustment Protocol:**</p>
-```python
-<p>def milestone_adjustment_protocol():</p>
-<p>if significant_change_detected():</p>
-<p>impact = assess_impact()</p>
 
-<p>if impact > threshold:</p>
-<p>proposal = create_adjustment_proposal()</p>
-<p>approval = get_stakeholder_approval(proposal)</p>
-
-<p>if approval:</p>
-<p>update_milestone()</p>
-<p>communicate_changes()</p>
-<p>reset_expectations()</p>
-```
+<p>When significant changes are detected:</p>
+<ol>
+<li><strong>Assess Impact</strong> - Determine how big the change is</li>
+<li><strong>Check Threshold</strong> - If impact exceeds acceptable limits</li>
+<li><strong>Create Proposal</strong> - Document needed adjustments</li>
+<li><strong>Get Approval</strong> - Obtain stakeholder agreement</li>
+<li><strong>Update Milestone</strong> - Implement approved changes</li>
+<li><strong>Communicate Changes</strong> - Inform all parties</li>
+<li><strong>Reset Expectations</strong> - Align on new goals</li>
+</ol>
 
 </div>
 
@@ -653,29 +654,39 @@
 <h3>📊 Real-Time Visibility</h3>
 
 <p>**Dashboard Elements:**</p>
-```javascript
-<p>// Milestone tracking dashboard</p>
-<p>const milestoneDashboard = {</p>
-<p>overall_progress: "68%",</p>
-<p>days_remaining: 22,</p>
-<p>key_metrics: {</p>
-<p>users: { target: 1000, current: 680, trend: "↑" },</p>
-<p>revenue: { target: 50000, current: 34000, trend: "↑" },</p>
-<p>features: { target: 10, current: 7, trend: "→" }</p>
-<p>},</p>
-<p>risk_indicators: {</p>
-<p>timeline: "green",</p>
-<p>budget: "yellow",</p>
-<p>team: "green",</p>
-<p>technical: "green"</p>
-<p>},</p>
-<p>next_actions: [</p>
-<p>"Complete payment integration",</p>
-<p>"Launch marketing campaign",</p>
-<p>"Hire senior developer"</p>
-<p>]</p>
-<p>};</p>
-```
+
+<p>Your milestone tracking dashboard should display:</p>
+
+<p><strong>Progress Overview:</strong></p>
+<ul>
+<li>Overall progress percentage (e.g., 68%)</li>
+<li>Days remaining until deadline</li>
+<li>Visual progress bar with milestones</li>
+</ul>
+
+<p><strong>Key Metrics Tracking:</strong></p>
+<ul>
+<li><strong>Users</strong>: Target vs current count with trend indicator</li>
+<li><strong>Revenue</strong>: Target vs current amount with trend</li>
+<li><strong>Features</strong>: Completed vs planned with status</li>
+<li>Custom metrics relevant to your milestone</li>
+</ul>
+
+<p><strong>Risk Indicators (Traffic Light System):</strong></p>
+<ul>
+<li><strong>Timeline</strong>: Green/Yellow/Red status</li>
+<li><strong>Budget</strong>: On track or at risk</li>
+<li><strong>Team</strong>: Resource availability</li>
+<li><strong>Technical</strong>: Implementation challenges</li>
+</ul>
+
+<p><strong>Next Actions List:</strong></p>
+<ul>
+<li>Top 3-5 priority tasks</li>
+<li>Owner assignments</li>
+<li>Due dates</li>
+<li>Dependencies flagged</li>
+</ul>
 
 </div>
 

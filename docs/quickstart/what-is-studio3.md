@@ -20,7 +20,7 @@ Imagine if building a startup was like playing a video game where:
 - You earn **experience points** (XP) for achievements
 - The **community votes** with tokens on your success
 - Everything happens in **public view** for accountability
-- **Real money and stakes** make it serious, not just fun**
+- **Real money and stakes** make it serious, not just fun
 
 ## 🏟️ The Arena Concept
 
@@ -42,18 +42,21 @@ Imagine if building a startup was like playing a video game where:
 ## 👥 Three Types of Players
 
 ### 1. 🏗️ Senders (The Builders)
+
 - Entrepreneurs with ideas
 - Compete to lead ventures
 - Build in public view
 - Can achieve full ownership
 
 ### 2. 📡 Echoes (The Supporters)
+
 - Community members with capital
 - Signal belief or doubt with tokens
 - Earn rewards for correct predictions
 - Guide ventures with collective wisdom
 
 ### 3. ⚓ Anchors (The Guides)
+
 - Experienced validators
 - Verify milestone completion
 - Mentor founders
@@ -87,6 +90,7 @@ Every venture follows the same path:
 7. **🎖️ Ascension** - Graduate to full independence## 🎯 What Makes Studio3 Different?
 
 ### Traditional Venture Building
+
 - Closed-door decisions
 - Limited access to capital
 - Opaque processes
@@ -94,6 +98,7 @@ Every venture follows the same path:
 - Network advantages
 
 ### Studio3 Approach
+
 - Everything public
 - Open to all participants
 - Transparent milestones

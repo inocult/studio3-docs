@@ -79,30 +79,34 @@
 
 <h3>🧠 Understanding Motivations</h3>
 <p>** Why Echoes Signal:**</p>
-```python
-<p>echo_motivations = {</p>
-<p>"financial": {</p>
-<p>"primary": "Token appreciation",</p>
-<p>"secondary": "Early access deals",</p>
-<p>"tertiary": "Network effects"</p>
-<p>},</p>
-<p>"strategic": {</p>
-<p>"primary": "Industry advancement",</p>
-<p>"secondary": "Innovation access",</p>
-<p>"tertiary": "Influence opportunity"</p>
-<p>},</p>
-<p>"social": {</p>
-<p>"primary": "Community belonging",</p>
-<p>"secondary": "Status signaling",</p>
-<p>"tertiary": "Knowledge sharing"</p>
-<p>},</p>
-<p>"altruistic": {</p>
-<p>"primary": "Supporting innovation",</p>
-<p>"secondary": "Helping founders",</p>
-<p>"tertiary": "Ecosystem growth"</p>
-<p>}</p>
-<p>}</p>
-```
+
+<p><strong>Financial Motivations:</strong></p>
+<ul>
+<li>Primary: Token appreciation potential</li>
+<li>Secondary: Early access to deals and opportunities</li>
+<li>Tertiary: Network effects and value growth</li>
+</ul>
+
+<p><strong>Strategic Motivations:</strong></p>
+<ul>
+<li>Primary: Industry advancement and innovation</li>
+<li>Secondary: Access to cutting-edge technology</li>
+<li>Tertiary: Influence and partnership opportunities</li>
+</ul>
+
+<p><strong>Social Motivations:</strong></p>
+<ul>
+<li>Primary: Community belonging and connection</li>
+<li>Secondary: Status signaling and recognition</li>
+<li>Tertiary: Knowledge sharing and learning</li>
+</ul>
+
+<p><strong>Altruistic Motivations:</strong></p>
+<ul>
+<li>Primary: Supporting innovation and progress</li>
+<li>Secondary: Helping founders succeed</li>
+<li>Tertiary: Contributing to ecosystem growth</li>
+</ul>
 
 
 
@@ -126,15 +130,15 @@
 <h3>🚀 Before You Need Them</h3>
 <p>**Foundation Building:**</p>
 
-<p>**Week -4: Story Development```markdown**</p>
-<p>** Craft Your Narrative:**</p>
+<p>**Week -4: Story Development**</p>
+
+<p><strong>Craft Your Narrative:</strong></p>
 <ul>
 <li>Problem clarity</li>
 <li>Solution vision</li>
 <li>Founder story</li>
 <li>Mission alignment</li>
 <li>Future impact</li>
-```
 
 </ul>
 <p>**Week -3: Content Creation**</p>
@@ -173,25 +177,28 @@
 <h3>💫 Making Your Debut</h3>
 <p>**Launch Week Activities:**</p>
 
-<p>**Day 1: Announcement```javascript**</p>
-<p>const launchStrategy = {</p>
-<p>morning: {</p>
-<p>action: "Milestone declaration",</p>
-<p>channels: ["Platform", "Discord", "Twitter"],</p>
-<p>content: "Vision + Metrics + Timeline"</p>
-<p>},</p>
-<p>afternoon: {</p>
-<p>action: "Founder AMA",</p>
-<p>duration: "2 hours",</p>
-<p>focus: "Q&A + Vision sharing"</p>
-<p>},</p>
-<p>evening: {</p>
-<p>action: "Early bird rewards",</p>
-<p>incentive: "First 100 signals",</p>
-<p>bonus: "Exclusive access/perks"</p>
-<p>}</p>
-<p>};</p>
-```
+<p>**Day 1: Announcement**</p>
+
+<p><strong>Morning Launch (9 AM):</strong></p>
+<ul>
+<li>Action: Milestone declaration on all platforms</li>
+<li>Channels: Studio3 platform, Discord, Twitter</li>
+<li>Content: Vision statement + Success metrics + Timeline</li>
+</ul>
+
+<p><strong>Afternoon Engagement (2 PM):</strong></p>
+<ul>
+<li>Action: Live founder AMA session</li>
+<li>Duration: 2-hour interactive Q&A</li>
+<li>Focus: Vision sharing and community questions</li>
+</ul>
+
+<p><strong>Evening Incentive (6 PM):</strong></p>
+<ul>
+<li>Action: Early bird reward announcement</li>
+<li>Incentive: Special bonus for first 100 signals</li>
+<li>Bonus: Exclusive access and founder perks</li>
+</ul>
 
 <p>**Days 2-7: Momentum Building**</p>
 <ul>
@@ -220,8 +227,8 @@
 <p>| Milestone | Major Update | Achievement | All Channels |</p>
 
 <p>** Update Template:**</p>
-```markdown
 
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
 <h2>Weekly Update #X</h2>
 
 <h3>🎯 Progress</h3>
@@ -229,24 +236,33 @@
 <li>[Key achievement 1]</li>
 <li>[Key achievement 2]</li>
 <li>[Key achievement 3]</li>
+</ul>
 
 <h3>📊 Metrics</h3>
+<ul>
 <li>Users: X (↑Y%)</li>
 <li>Revenue: $X (↑Y%)</li>
 <li>NPS: X (↑Y)</li>
+</ul>
 
 <h3>🚧 Challenges</h3>
+<ul>
 <li>[Challenge + Solution]</li>
 <li>[Blocker + Timeline]</li>
+</ul>
 
 <h3>🎉 Community Wins</h3>
+<ul>
 <li>[Echo contribution]</li>
 <li>[User success story]</li>
+</ul>
 
 <h3>👀 Coming Next</h3>
+<ul>
 <li>[Next week focus]</li>
 <li>[How Echoes can help]</li>
-```
+</ul>
+</div>
 
 </ul>
 </div>
@@ -291,15 +307,15 @@
 <h3>🎮 Making Participation Fun</h3>
 <p>** Engagement Initiatives:**</p>
 <p>1. **Echo Ambassador Program**</p>
-   ```python
-<p>ambassador_rewards = {</p>
-<p>"referrals": "5% signal bonus",</p>
-<p>"content_creation": "100 $SIGNAL/piece",</p>
-<p>"community_moderation": "Monthly rewards",</p>
-<p>"bug_reporting": "Bounty program",</p>
-<p>"feature_suggestions": "Implementation credits"</p>
-<p>}</p>
-   ```
+   
+   <p><strong>Ambassador Reward Structure:</strong></p>
+   <ul>
+   <li><strong>Referrals</strong>: 5% signal bonus for each new Echo</li>
+   <li><strong>Content Creation</strong>: 100 $SIGNAL per quality piece</li>
+   <li><strong>Community Moderation</strong>: Monthly reward packages</li>
+   <li><strong>Bug Reporting</strong>: Bounty program with tiered rewards</li>
+   <li><strong>Feature Suggestions</strong>: Implementation credits and recognition</li>
+   </ul>
 
 <p>2. **Exclusive Access**</p>
 
@@ -366,33 +382,30 @@
 
 </ul>
 <p>** Ask Framework:**</p>
-```markdown
+
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
 <p>"Hey Echoes! We need help with [specific need].</p>
 
-
-
-<p>What we're looking for:**</p>
+<p><strong>What we're looking for:</strong></p>
 <ul>
 <li>[Specific requirement 1]</li>
 <li>[Specific requirement 2]</li>
-
 </ul>
-<p>** How you can help:**</p>
+
+<p><strong>How you can help:</strong></p>
 <ul>
 <li>[Action 1]</li>
 <li>[Action 2]</li>
-
-
-
 </ul>
-<p>What's in it for you:**</p>
+
+<p><strong>What's in it for you:</strong></p>
 <ul>
 <li>[Benefit 1]</li>
 <li>[Benefit 2]</li>
-
 </ul>
+
 <p>DM me if you can help! 🙏"</p>
-```
+</div>
 
 </div>
 
@@ -454,29 +467,30 @@
 
 <h3>💭 Turning Doubt into Growth</h3>
 <p>** Criticism Response Framework:**</p>
-```python
 
-<p>**def handle_echo_criticism(feedback):**</p>
-<h1>1. Acknowledge quickly</h1>
-<p>response = "Thanks for the feedback. Let me address this..."</p>
+<p><strong>Step 1: Acknowledge Quickly</strong></p>
+<p>Start with: "Thanks for the feedback. Let me address this..."</p>
 
-<h1>2. Assess validity</h1>
+<p><strong>Step 2: Assess Validity</strong></p>
+<ul>
+<li>If feedback is valid, acknowledge: "You raise a good point about [issue]"</li>
+<li>Create an improvement plan based on the feedback</li>
+<li>Share your action plan: "Here's what we're doing: [specific actions]"</li>
+</ul>
 
+<p><strong>Step 3: Learn and Improve</strong></p>
+<ul>
+<li>Extract actionable insights from the criticism</li>
+<li>Implement changes based on learnings</li>
+<li>Document improvements for future reference</li>
+</ul>
 
-<p>if feedback.is_valid():**</p>
-<p>response += f"You raise a good point about {issue}."</p>
-<p>action_plan = create_improvement_plan(feedback)</p>
-<p>response += f"Here's what we're doing: {action_plan}"</p>
-
-<h1>3. Learn and improve</h1>
-<p>learnings = extract_insights(feedback)</p>
-<p>implement_changes(learnings)</p>
-
-<h1>4. Follow up</h1>
-<p>schedule_update_on_progress()</p>
-
-<p>return response</p>
-```
+<p><strong>Step 4: Follow Up</strong></p>
+<ul>
+<li>Schedule updates on progress made</li>
+<li>Show how feedback led to improvements</li>
+<li>Thank the critic for helping you grow</li>
+</ul>
 
 <p>** Best Practices:**</p>
 <ul>
@@ -633,8 +647,8 @@
 
 <h3>🎣 Winning Back Inactive Echoes</h3>
 <p>** Re-engagement Process:**</p>
-```markdown
 
+<div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
 <h2>Win-Back Campaign</h2>
 
 <h3>Week 1: Analysis</h3>
@@ -642,29 +656,33 @@
 <li>Identify inactive Echoes</li>
 <li>Understand drop-off reasons</li>
 <li>Segment by potential</li>
+</ul>
 
 <h3>Week 2: Outreach</h3>
-</ul>
-<p>Subject: "We miss you! Here's what you've missed..."</p>
-
+<p><strong>Subject:</strong> "We miss you! Here's what you've missed..."</p>
 <ul>
 <li>Major achievements</li>
 <li>New opportunities</li>
 <li>Exclusive offer</li>
 <li>Personal message</li>
+</ul>
 
 <h3>Week 3: Incentives</h3>
+<ul>
 <li>Comeback bonuses</li>
 <li>Exclusive access</li>
 <li>Direct founder call</li>
 <li>Special recognition</li>
+</ul>
 
 <h3>Week 4: Follow-up</h3>
+<ul>
 <li>Thank active returns</li>
 <li>Gather feedback</li>
 <li>Implement suggestions</li>
 <li>Maintain engagement</li>
-```
+</ul>
+</div>
 
 </ul>
 </div>
@@ -679,34 +697,39 @@
 
 
 <p>Key Metrics:**</p>
-```python
-<p>echo_metrics = {</p>
-<p>"acquisition": {</p>
-<p>"new_echoes_weekly": target(50),</p>
-<p>"signal_velocity": track_trend(),</p>
-<p>"conversion_rate": measure_percentage(),</p>
-<p>"acquisition_cost": calculate_cac()</p>
-<p>},</p>
-<p>"engagement": {</p>
-<p>"active_rate": "% engaged weekly",</p>
-<p>"message_frequency": "avg messages/echo",</p>
-<p>"event_attendance": "% joining calls",</p>
-<p>"content_interaction": "likes/shares/comments"</p>
-<p>},</p>
-<p>"retention": {</p>
-<p>"30_day_retention": target(0.8),</p>
-<p>"90_day_retention": target(0.6),</p>
-<p>"churn_rate": monitor_monthly(),</p>
-<p>"reactivation_rate": track_campaigns()</p>
-<p>},</p>
-<p>"value": {</p>
-<p>"referral_rate": measure_network_growth(),</p>
-<p>"contribution_value": track_help_provided(),</p>
-<p>"signal_growth": monitor_increases(),</p>
-<p>"ltv_calculation": estimate_lifetime_value()</p>
-<p>}</p>
-<p>}</p>
-```
+<p><strong>Echo Community Metrics:</strong></p>
+
+<p><strong>Acquisition Metrics:</strong></p>
+<ul>
+<li><strong>New Echoes Weekly</strong>: Target 50+ new community members</li>
+<li><strong>Signal Velocity</strong>: Track trend of signal growth rate</li>
+<li><strong>Conversion Rate</strong>: Measure % of visitors becoming Echoes</li>
+<li><strong>Acquisition Cost</strong>: Calculate cost per new Echo</li>
+</ul>
+
+<p><strong>Engagement Metrics:</strong></p>
+<ul>
+<li><strong>Active Rate</strong>: % of Echoes engaged weekly</li>
+<li><strong>Message Frequency</strong>: Average messages per Echo</li>
+<li><strong>Event Attendance</strong>: % joining community calls</li>
+<li><strong>Content Interaction</strong>: Likes, shares, and comments</li>
+</ul>
+
+<p><strong>Retention Metrics:</strong></p>
+<ul>
+<li><strong>30-Day Retention</strong>: Target 80% staying active</li>
+<li><strong>90-Day Retention</strong>: Target 60% long-term active</li>
+<li><strong>Churn Rate</strong>: Monitor monthly drop-offs</li>
+<li><strong>Reactivation Rate</strong>: Track win-back campaign success</li>
+</ul>
+
+<p><strong>Value Metrics:</strong></p>
+<ul>
+<li><strong>Referral Rate</strong>: Measure network growth from Echoes</li>
+<li><strong>Contribution Value</strong>: Track help and support provided</li>
+<li><strong>Signal Growth</strong>: Monitor increases in signal amounts</li>
+<li><strong>Lifetime Value</strong>: Estimate long-term Echo value</li>
+</ul>
 
 </div>
 

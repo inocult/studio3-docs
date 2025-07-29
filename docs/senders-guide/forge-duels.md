@@ -149,6 +149,7 @@
 ### Building Your Case
 
 **Five Pillars of Victory:**
+
 1. **Founder Credibility**
    - Relevant experience
    - Past successes
@@ -395,6 +396,7 @@
 ### Converting Doubters
 
 **Strategies for Skeptics:**
+
 1. **Listen First**
    - Understand concerns
    - Acknowledge validity
@@ -477,6 +479,7 @@
 ### Losing Constructively
 
 **If You Lose:**
+
 1. **Accept gracefully**
    - Congratulate winner
    - Thank supporters

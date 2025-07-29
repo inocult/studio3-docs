@@ -60,18 +60,19 @@
 <h3>🔐 Your NFT Treasury</h3>
 
 <p>**Genesis Wallet Structure:**</p>
-```
-<p>Genesis Wallet (Multisig)</p>
-<p>├── Spark NFT (Original Idea)</p>
-<p>├── Signal NFT (Journey Identity)</p>
-<p>└── Halo NFT (Sovereignty Seal - Locked)</p>
 
-<p>**Signers:**</p>
+<p><strong>Wallet Contents:</strong></p>
 <ul>
-<li>Founder(s): 2-3 signatures</li>
-<li>Platform: 1 signature</li>
-<li>Community: 0-1 signature (later phases)</li>
-```
+<li><strong>Spark NFT</strong>: The original idea NFT</li>
+<li><strong>Signal NFT</strong>: Journey identity tracking progress</li>
+<li><strong>Halo NFT</strong>: Sovereignty seal (locked until exit)</li>
+</ul>
+
+<p><strong>Multisig Signers:</strong></p>
+<ul>
+<li><strong>Founder(s)</strong>: 2-3 signatures required</li>
+<li><strong>Platform</strong>: 1 signature for oversight</li>
+<li><strong>Community</strong>: 0-1 signature (added in later phases)</li>
 
 </ul>
 <p>**Security Features:**</p>
@@ -118,23 +119,25 @@
 
 <h3>🚀 Step-by-Step Setup</h3>
 <p>**Phase 1: Initialize (Day 1)**</p>
-```python
-<h1>DAO Initialization</h1>
-<p>def initialize_container_dao():</p>
-<h1>Create Genesis Wallet</h1>
-<p>genesis_wallet = create_multisig_wallet(</p>
-<p>founders=[founder_1, founder_2],</p>
-<p>platform=platform_address,</p>
-<p>threshold=2 # 2 of 3 signatures</p>
-<p>)</p>
 
-<h1>Transfer NFTs</h1>
-<p>transfer_spark_nft(genesis_wallet)</p>
-<p>transfer_signal_nft(genesis_wallet)</p>
-<p>create_halo_nft(genesis_wallet) # Created but locked</p>
-
-<p>return dao_address</p>
-```
+<p>DAO initialization involves these steps:</p>
+<ol>
+<li><strong>Create Genesis Wallet</strong>:
+   <ul>
+   <li>Set up multisig with founder addresses</li>
+   <li>Add platform address as co-signer</li>
+   <li>Set threshold to 2 of 3 signatures</li>
+   </ul>
+</li>
+<li><strong>Transfer NFTs</strong>:
+   <ul>
+   <li>Transfer Spark NFT to Genesis Wallet</li>
+   <li>Transfer Signal NFT to Genesis Wallet</li>
+   <li>Create Halo NFT (locked until exit)</li>
+   </ul>
+</li>
+<li><strong>Return DAO Address</strong>: For future interactions</li>
+</ol>
 
 <p>**Phase 2: Configure (Days 2-3)**</p>
 
@@ -205,10 +208,15 @@
 <h3>📋 Making Decisions</h3>
 
 <p>**Proposal Lifecycle:**</p>
-```
-<p>Idea → Draft → Review → Vote → Execute</p>
-<p>(1d) (2d) (1d) (3d) (1d)</p>
-```
+
+<p>Each proposal follows this timeline:</p>
+<ul>
+<li><strong>Idea Phase</strong> (1 day): Initial concept discussion</li>
+<li><strong>Draft Phase</strong> (2 days): Formal proposal writing</li>
+<li><strong>Review Phase</strong> (1 day): Community feedback</li>
+<li><strong>Vote Phase</strong> (3 days): Token holder voting</li>
+<li><strong>Execute Phase</strong> (1 day): Implementation of decision</li>
+</ul>
 
 <p>**Proposal Types:**</p>
 
@@ -240,25 +248,34 @@
 <h3>💰 Managing DAO Resources</h3>
 
 <p>**Treasury Structure:**</p>
-```
-<p>Container DAO Treasury</p>
-<p>├── Operating Fund (30%)</p>
-<p>│   ├── Development costs</p>
-<p>│   ├── Marketing spend</p>
-<p>│   └── Team compensation</p>
-<p>├── Growth Fund (40%)</p>
-<p>│   ├── Strategic initiatives</p>
-<p>│   ├── Partnerships</p>
-<p>│   └── Expansion</p>
-<p>├── Reserve Fund (20%)</p>
-<p>│   ├── Emergency buffer</p>
-<p>│   ├── Risk mitigation</p>
-<p>│   └── Opportunities</p>
-<p>└── Community Fund (10%)</p>
-<p>├── Echo rewards</p>
-<p>├── Anchor payments</p>
-<p>└── Governance incentives</p>
-```
+
+<p><strong>Operating Fund (30%):</strong></p>
+<ul>
+<li>Development and infrastructure costs</li>
+<li>Marketing and growth spend</li>
+<li>Team salaries and compensation</li>
+</ul>
+
+<p><strong>Growth Fund (40%):</strong></p>
+<ul>
+<li>Strategic initiatives and experiments</li>
+<li>Partnership opportunities</li>
+<li>Market expansion activities</li>
+</ul>
+
+<p><strong>Reserve Fund (20%):</strong></p>
+<ul>
+<li>Emergency buffer for unexpected costs</li>
+<li>Risk mitigation reserves</li>
+<li>Opportunistic investments</li>
+</ul>
+
+<p><strong>Community Fund (10%):</strong></p>
+<ul>
+<li>Echo rewards and incentives</li>
+<li>Anchor validator payments</li>
+<li>Governance participation rewards</li>
+</ul>
 
 <p>**Spending Controls:**</p>
 
@@ -331,18 +348,15 @@
 
 </ul>
 <p>**Participation Incentives:**</p>
-```python
-<h1>Reward active participants</h1>
-<p>def calculate_participation_rewards():</p>
-<p>rewards = {</p>
-<p>"proposal_creation": 100,</p>
-<p>"voting_participation": 10,</p>
-<p>"discussion_contribution": 5,</p>
-<p>"successful_referral": 50,</p>
-<p>"bug_reporting": 20</p>
-<p>}</p>
-<p>return total_rewards</p>
-```
+
+<p>Rewards for active DAO participants:</p>
+<ul>
+<li><strong>Proposal Creation</strong>: 100 $SIGNAL for quality proposals</li>
+<li><strong>Voting Participation</strong>: 10 $SIGNAL per vote cast</li>
+<li><strong>Discussion Contribution</strong>: 5 $SIGNAL for meaningful input</li>
+<li><strong>Successful Referral</strong>: 50 $SIGNAL for bringing new members</li>
+<li><strong>Bug Reporting</strong>: 20 $SIGNAL for finding issues</li>
+</ul>
 
 <p>**Community Roles:**</p>
 

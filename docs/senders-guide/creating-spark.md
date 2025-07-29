@@ -96,8 +96,10 @@
 </div>
 
 ### Evaluating IP Quality
-** Assessment Criteria:**
-**| Factor | What to Look For |**
+
+**Assessment Criteria:**
+
+| Factor | What to Look For |
 |--------|------------------|
 | **Novelty** | Unique approaches, breakthrough methods  |
 | **Applicability** | Broad use cases, clear applications  |
@@ -143,30 +145,24 @@
 </div>
 
 ### Synthesis Examples
-** Successful Combinations:**
+
+**Successful Combinations:**
+
 1. **DeFi + Healthcare**
- Medical records blockchain
-
-- Health data ownership
-
-- Insurance smart contracts
-
-- Treatment financing
+   - Medical records blockchain
+   - Health data ownership
+   - Insurance smart contracts
+   - Treatment financing
 
 2. **AI + Sustainability**
-
-- **Energy optimization**
-- Waste prediction
-
-- Resource allocation
-
-- Carbon tracking
+   - Energy optimization
+   - Waste prediction
+   - Resource allocation
+   - Carbon tracking
 
 3. **Gaming + Education**
-
-- **Learn-to-earn mechanics**
-
-- Skill verification NFTs
+   - Learn-to-earn mechanics
+   - Skill verification NFTs
 
 - Collaborative challenges
 
@@ -218,7 +214,9 @@
 </div>
 
 ### Writing Tips
-** Compelling Spark Descriptions:**
+
+**Compelling Spark Descriptions:**
+
 - **Hook immediately**
 - First sentence matters
 - **Use simple language**
@@ -239,19 +237,16 @@
 <h3>⚙️ Step-by-Step Minting</h3>
 
 <p>1. **Prepare Metadata**</p>
-   ```json
-<p>{</p>
-<p>"name": "Your Spark Name",</p>
-<p>"description": "Compelling description",</p>
-<p>"remixed_ips": [</p>
-<p>"ipfs://QmX...",</p>
-<p>"ipfs://QmY..."</p>
-<p>],</p>
-<p>"synthesis": "How they combine",</p>
-<p>"problem": "What you solve",</p>
-<p>"vision": "Where you're going"</p>
-<p>}</p>
-   ```
+   
+   <p>Your Spark NFT metadata should include:</p>
+   <ul>
+   <li><strong>Name</strong>: A memorable title for your venture</li>
+   <li><strong>Description</strong>: A compelling summary of your idea</li>
+   <li><strong>Remixed IPs</strong>: Links to the 2-5 IP-NFTs you're combining</li>
+   <li><strong>Synthesis</strong>: Explanation of how the IPs work together</li>
+   <li><strong>Problem</strong>: Clear statement of what you're solving</li>
+   <li><strong>Vision</strong>: Your long-term goals and impact</li>
+   </ul>
 
 <p>2. **Connect Wallet**</p>
 
@@ -283,7 +278,10 @@
 </div>
 
 ### Cost Considerations
-**Budget Planning:| Cost Item | Estimated Range |**
+
+**Budget Planning:**
+
+| Cost Item | Estimated Range |
 |-----------|-----------------|
 | IP License Fees | 0.05-0.5 ETH each |
 | Minting Gas | 0.02-0.1 ETH |
@@ -328,29 +326,24 @@
 </div>
 
 ### Visual Presentation
-** Spark Visual Elements:**
+
+**Spark Visual Elements:**
+
 1. **Cover Image**
- Eye-catching design
-
-- Represents synthesis
-
-- Professional quality
-
-- Memorable branding
+   - Eye-catching design
+   - Represents synthesis
+   - Professional quality
+   - Memorable branding
 
 2. **Concept Diagrams**
-
-- **IP relationship map**
-- Solution architecture
-
-- Market opportunity
-
-- Growth trajectory
+   - IP relationship map
+   - Solution architecture
+   - Market opportunity
+   - Growth trajectory
 
 3. **Team Photos**
-
-- **Professional headshots**
-- Authentic personality
+   - Professional headshots
+   - Authentic personality
 
 - Credibility builders
 
@@ -366,7 +359,7 @@
 <p>** Best Times to Launch:**</p>
 <ul>
 <li>**Tuesday**</li>
-<li>Thursday**  10am</li>
+<li>**Thursday 10am**</li>
 <li>2pm EST Avoid holidays</li>
 <li>Full attention</li>
 <li>**Check Arena schedule**</li>
@@ -380,33 +373,26 @@
 </div>
 
 ### First 48 Hours
-** Critical Actions:**
+
+**Critical Actions:**
+
 1. **Hour 1-6**
-
-- **Post detailed introduction**
-- Answer all questions
-
-- Share on social media
-
-- DM key supporters
+   - Post detailed introduction
+   - Answer all questions
+   - Share on social media
+   - DM key supporters
 
 2. **Hour 7-24**
-
-- **Host live AMA**
-- Release roadmap
-
-- Show team credentials
-
-- Build momentum
+   - Host live AMA
+   - Release roadmap
+   - Show team credentials
+   - Build momentum
 
 3. **Hour 25-48**
-
-- **Analyze feedback**
-- Adjust messaging
-
-- Plan Forge strategy
-
-- Maintain engagement
+   - Analyze feedback
+   - Adjust messaging
+   - Plan Forge strategy
+   - Maintain engagement
 
 ## Common Mistakes
 
@@ -436,33 +422,26 @@
 </div>
 
 ### Recovery Strategies
-** If Your Spark Struggles:**
+
+**If Your Spark Struggles:**
+
 1. **Quick Pivots**
- Clarify messaging
-
-- Add visual aids
-
-- Bring on advisors
-
-- Show early traction
+   - Clarify messaging
+   - Add visual aids
+   - Bring on advisors
+   - Show early traction
 
 2. **Community Engagement**
-
-- **Address concerns directly**
-- Show adaptability
-
-- Build relationships
-
-- Prove dedication
+   - Address concerns directly
+   - Show adaptability
+   - Build relationships
+   - Prove dedication
 
 3. **Consider Restart**
-
-- **Learn from feedback**
-- Refine approach
-
-- New IP combination
-
-- Better timing
+   - Learn from feedback
+   - Refine approach
+   - New IP combination
+   - Better timing
 
 ## Success Stories
 
@@ -535,31 +514,22 @@
 ### After Spark Success
 
 1. **Prepare for Forge**
-
-- **Study competitors**
-- Build your case
-
-- Rally supporters
-
-- Plan presentation
+   - Study competitors
+   - Build your case
+   - Rally supporters
+   - Plan presentation
 
 2. **Maintain Momentum**
-
-- **Daily updates**
-- Deepen engagement
-
-- Expand reach
-
-- Build anticipation
+   - Daily updates
+   - Deepen engagement
+   - Expand reach
+   - Build anticipation
 
 3. **Start Building**
-
-- **Prototype development**
-- Team recruitment
-
-- Resource planning
-
-- Milestone mapping
+   - Prototype development
+   - Team recruitment
+   - Resource planning
+   - Milestone mapping
 
 Ready for competition? Continue to [Understanding Duels](forge-duels.md)
 
