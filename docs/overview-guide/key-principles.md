@@ -43,7 +43,7 @@ graph TD
     E --> G[Token Burn]
 ```
 
-** Key aspects:**
+**Key aspects:**
 
 - **Belief must be backed by tokens**
 - **Conviction carries real risk**

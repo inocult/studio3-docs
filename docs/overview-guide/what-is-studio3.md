@@ -99,12 +99,15 @@ Everyone wins when ventures succeed:
 ## The Three Participants
 
 ### 🏗️ Senders (Founders)
+
 Entrepreneurs who build ventures through transparent milestones and community engagement. They compete for ownership, execute in public, and can achieve full independence.
 
 ### 📡 Echoes (Supporters)
+
 Community members who signal belief or doubt in ventures using $SIGNAL tokens. They earn rewards for accurate predictions and help guide venture development through their collective wisdom.
 
 ### ⚓ Anchors (Validators)
+
 Experienced builders who validate progress, mentor founders, and maintain ecosystem quality. They ensure ventures meet standards and provide strategic guidance.
 
 ## Why Studio3 Matters

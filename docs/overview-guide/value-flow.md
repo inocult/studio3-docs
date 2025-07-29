@@ -55,39 +55,37 @@ graph TB
 
 **The Signal Cycle:**
 
-1. **Echoes stake $SIGNAL**
+1. **Echoes stake $SIGNAL** on milestone outcomes
+2. **Stakes pool** in milestone smart contract
+3. **Ventures execute** using pooled confidence
+4. **Validation determines** success or failure
+5. **Rewards distribute** to correct predictors
+6. **Burns remove** tokens from failed predictions
 
-- **on milestone outcomes**
-2. **Stakes pool** in milestone smart contract3. Ventures execute** using pooled confidence**4. **Validation determines** success or failure5. **Rewards distribute** to correct predictors6. **Burns remove** tokens from failed predictions
+**Value Multiplication:**
 
-- **Value Multiplication:**
 - **If milestone succeeds:**
-
-**Belief signals multiply by average 1.5x**
-- **3x**
-- Doubt signals are burned (100% loss)
-
-- Net value created equals rewards minus original stakes
+  - Belief signals multiply by average 1.5x - 3x
+  - Doubt signals are burned (100% loss)
+  - Net value created equals rewards minus original stakes
 
 - **If milestone fails:**
-* Doubt signals multiply by average 1.2x 
-- 2x 
-- Belief signals are burned (100% loss)
-
-- Net value destroyed equals burned tokens
+  - Doubt signals multiply by average 1.2x - 2x
+  - Belief signals are burned (100% loss)
+  - Net value destroyed equals burned tokens
 
 - **Overall impact:**
-* Success creates value through multipliers
-
-- Failure destroys value through burns
-
-- System naturally rewards accuracy
+  - Success creates value through multipliers
+  - Failure destroys value through burns
+  - System naturally rewards accuracy
 
 ### 2. Milestone Funding Flow
 
 ### 💰 Platform → Venture → Execution Flow
 
-**Funding Progression:| Phase | Funding Source | Typical Amount | Use Case |**
+**Funding Progression:**
+
+| Phase | Funding Source | Typical Amount | Use Case |
 |-------|----------------|----------------|----------|
 | **Spark** | Platform grants | 1-5K $SIGNAL | Idea validation |
 | **Ignition** | Echo signals | 10-50K | MVP development |
@@ -96,7 +94,8 @@ graph TB
 | **Flare** | External capital | 1M-10M | Scale expansion |
 | **Ascension** | Buyback funds | Variable | Sovereignty |
 
-** Capital Efficiency:**
+**Capital Efficiency:**
+
 ```mermaid
 flowchart LR
     A[Capital In] --> B[Milestone Budget]
@@ -111,25 +110,21 @@ flowchart LR
 
 ### ⚓ Venture → Anchor → Ecosystem Flow
 
+**Fee Distribution:**
 
-Fee Distribution:
 - **Base fee**: 3% of milestone value
--- Distribution breakdown:
-* 70% to validating anchor
-
-- 20% to anchor backup pool
-
-- 10% to platform operations
+- **Distribution breakdown:**
+  - 70% to validating anchor
+  - 20% to anchor backup pool
+  - 10% to platform operations
 
 - **Performance adjustments:**
+  - Quality score > 90%: 1.5x multiplier
+  - Many anchors reinvest 30% back into ecosystem
+  - Creates compound growth effect
 
-**Quality score > 90%: 1.5x multiplier**
+**Value Multiplication:**
 
-- Many anchors reinvest 30% back into ecosystem
-
-- Creates compound growth effect
-
-** Value Multiplication:**
 - **Quality validation increases venture success**
 - Successful ventures create more milestones
 - More milestones generate more fees
@@ -140,7 +135,9 @@ Fee Distribution:
 ### 4. Reputation Value Flow
 
 ### 🌟 Performance → XP → Opportunities Flow
-** Reputation Economics:**
+
+**Reputation Economics:**
+
 ```mermaid
 graph TD
     A[Successful Actions] --> B[+XP Earned]
@@ -158,15 +155,15 @@ graph TD
     L --> G
 ```
 
+**XP Value Components:**
 
-
-XP Value Components:
 - **Direct monetary value**: 0.01% bonus per 100 XP on signals
 - **Access value**: Unlock exclusive high-value opportunities
 - **Network value**: Trust score equals XP/100 for connections
 - **Governance value**: Voting power uses quadratic formula
 
-** Total Value Impact:**
+**Total Value Impact:**
+
 - **Higher XP compounds all benefits**
 - Creates virtuous cycle of success
 - Reputation becomes valuable asset
@@ -175,58 +172,56 @@ XP Value Components:
 ### 5. NFT Value Flow
 
 ### 🎨 Creation → Journey → Sovereignty Flow
-**NFT Value Progression:| NFT Type | Initial Value | Peak Value | Value Drivers |**
+
+**NFT Value Progression:**
+
+| NFT Type | Initial Value | Peak Value | Value Drivers |
 |----------|---------------|------------|---------------|
 | **Spark** | 0.1-1 ETH | 5-50 ETH | IP quality, venture success |
 | **Signal** | 1-5 ETH | 10-100 ETH | Milestone history, community |
 | **Halo** | Locked | Priceless | Sovereignty rights |
 
-** Value Accrual Mechanics:**
-1. **Spark NFTs**
- gain value from: Successful venture launches
+**Value Accrual Mechanics:**
 
-- IP combination uniqueness
-
-- Historical significance
-
-- Collector demand
+1. **Spark NFTs** gain value from:
+   - Successful venture launches
+   - IP combination uniqueness
+   - Historical significance
+   - Collector demand
 
 2. **Signal NFTs** appreciate through:
-
-- **Milestone achievements**
-- Community growth
-
-- Revenue generation
-
-- Visual evolution
+   - Milestone achievements
+   - Community growth
+   - Revenue generation
+   - Visual evolution
 
 3. **Halo NFTs** unlock value via:
-
-- **Governance rights**
-- Alumni network
-
-- Sub-studio creation
-
-- Legacy status
+   - Governance rights
+   - Alumni network
+   - Sub-studio creation
+   - Legacy status
 
 ### 6. Governance Token Flow
 
 ### 🗿️ Participation → Tokens → Influence Flow
-** Governance Distribution:**
+
+**Governance Distribution:**
+
 - **40%** to active Echoes (supporters)
 - **30%** to successful Senders (graduated ventures)
 - **20%** to Anchor Council (validators)
-
 - **10%** to treasury reserve (future use)
 
-** Earning Mechanics:**
+**Earning Mechanics:**
+
 - **Base rewards** vary by action type
-*Activity multiplier: Monthly actions / 100
+- **Activity multiplier**: Monthly actions / 100
 - **Quality multiplier**: Success rate × 2
 - **Tenure multiplier**: 1 + (months active / 12) × 0.1
 - **Monthly cap** prevents farming
 
-** Token Utility:**
+**Token Utility:**
+
 - **Vote on platform changes**
 - Elect Anchor Council
 - Allocate treasury funds
@@ -279,56 +274,54 @@ graph LR
 ### Anti-Extraction Mechanisms
 
 ### 🚫 Preventing Value Drain
-** Protection Systems:**
+
+**Protection Systems:**
+
 1. **Burn Mechanics**
- Failed signals don't redistribute
-
-- Tokens permanently removed
-
-- Increases scarcity for holders
+   - Failed signals don't redistribute
+   - Tokens permanently removed
+   - Increases scarcity for holders
 
 2. **Reputation Locks**
-
-- **XP can't be transferred**
-- Benefits tied to participation
-
-- No account selling value
+   - XP can't be transferred
+   - Benefits tied to participation
+   - No account selling value
 
 3. **Vesting Schedules**
-
-- **Gradual token release**
-- Long-term alignment
-
-- Reduced dump risk
+   - Gradual token release
+   - Long-term alignment
+   - Reduced dump risk
 
 4. **Graduation Requirements**
-
-- **Must complete all phases**
-- Community approval needed
-
-- Value creation mandatory
+   - Must complete all phases
+   - Community approval needed
+   - Value creation mandatory
 
 ### Economic Security
 
 !!! warning "Value Protection Measures"
+    - **Sybil Resistance**: One person, one reputation
+    - **Wash Trading Prevention**: Signals require real risk
+    - **Manipulation Detection**: AI monitors patterns
+    - **Emergency Halts**: Circuit breakers for anomalies
 
-- **Sybil Resistance**: One person, one reputation
--Wash Trading Prevention: Signals require real risk
--Manipulation Detection: AI monitors patterns
--Emergency Halts**: Circuit breakers for anomalies**## Treasury Management
+## Treasury Management
 
 ### Platform Value Reserves
 
 ### 🏛️ Treasury Flow Management
 
-** Revenue Sources:**
+**Revenue Sources:**
+
 - **Platform fees**: 1% of milestone values
 - **Graduation fees**: 0.5% of venture value at exit
 - **Premium services**: Subscription revenue from advanced features
 - **Partnership deals**: Strategic income from integrations
 - **Investment returns**: Yield on treasury holdings
 
-**Allocation Strategy:| Use Case | Allocation | Purpose |**
+**Allocation Strategy:**
+
+| Use Case | Allocation | Purpose |
 |----------|------------|----------|
 | **Development** | 40% | Platform improvements |
 | **Marketing** | 20% | User acquisition |
@@ -336,7 +329,8 @@ graph LR
 | **Rewards Pool** | 15% | Incentive programs |
 | **Operations** | 5% | Daily expenses |
 
-** Value Recycling:**
+**Value Recycling:**
+
 - **Treasury funds ecosystem growth**
 - Growth creates more revenue
 - Revenue strengthens treasury
@@ -370,14 +364,15 @@ graph LR
 
 ### Value Analytics
 
-### Value Analytics
-** Health Calculation Metrics:**
+**Health Calculation Metrics:**
+
 - **Net value creation**: Total inflows minus outflows and burns
 - **Value velocity**: Outflows divided by total value locked
 - **Sustainability score**: Treasury divided by monthly burn rate
 - **Growth rate**: Net value divided by total locked value
 
-** Health Indicators:**
+**Health Indicators:**
+
 - **Healthy**: Months of runway > 24
 - **Growing**: Positive net value creation
 - **Sustainable**: Balanced velocity ratio
@@ -388,52 +383,61 @@ graph LR
 ### For Participants
 
 ### 🎯 Maximizing Value Capture
-** Echo Strategies:**
+
+**Echo Strategies:**
+
 1. **Compound Earnings**
-
-- **Reinvest rewards**
+   - Reinvest rewards
 2. **Reputation Building**
-- Long-term multipliers
+   - Long-term multipliers
 3. **Network Leverage**
-- Collaborative strategies
+   - Collaborative strategies
 4. **Timing Optimization**
-- Enter/exit efficiency
-- **Sender Strategies:**
+   - Enter/exit efficiency
+
+**Sender Strategies:**
+
 1. **Bootstrap Efficiently**
-
-- **Minimize burn rate**
+   - Minimize burn rate
 2. **Milestone Sizing**
-- Optimal funding amounts
+   - Optimal funding amounts
 3. **Community Building**
-- Increase believer base
+   - Increase believer base
 4. **Value Demonstration**
-- Clear success metrics
-- **Anchor Strategies:**
-1. **Quality Premium**
+   - Clear success metrics
 
-- **Thorough validation**
+**Anchor Strategies:**
+
+1. **Quality Premium**
+   - Thorough validation
 2. **Mentor Actively**
-- Success bonuses
+   - Success bonuses
 3. **Reputation Focus**
-- Compound opportunities
+   - Compound opportunities
 4. **Selective Engagement**
-- High-value milestones
+   - High-value milestones
 
 ### Planned Enhancements
 
 !!! info "Upcoming Value Streams"
-
     - **Cross-Chain Bridges**: Multi-network value
--DeFi Integration: Yield generation
--Partner Tokens: Ecosystem expansion
--Real-World Assets: Bridge to traditional
--Automated Strategies**: AI-optimized flows**## Case Studies
+    - **DeFi Integration**: Yield generation
+    - **Partner Tokens**: Ecosystem expansion
+    - **Real-World Assets**: Bridge to traditional
+    - **Automated Strategies**: AI-optimized flows
+
+## Case Studies
 
 ### Successful Value Creation
 
 #### 🌟 The Network Effect Venture
 
-**Venture:** SocialFi Protocol- Value Created: $10M → $250M in 18 monthsFlow Optimization:
+**Venture:** SocialFi Protocol
+
+- **Value Created**: $10M → $250M in 18 months
+
+**Flow Optimization:**
+
 - **Reinvested 80% of early revenues**
 - Created token incentive loops
 - Built strong network effects
@@ -446,15 +450,17 @@ graph LR
 ### Optimizing Your Flow
 
 1. **Map Your Position**
-- Understand your role's flows
+   - Understand your role's flows
 2. **Identify Multipliers**
-- Find leverage points
+   - Find leverage points
 3. **Minimize Leakage**
-- Avoid value traps
+   - Avoid value traps
 4. **Compound Gains**
-- Reinvest wisely
+   - Reinvest wisely
 5. **Think Long-term**
-- Sustainable strategies win
+   - Sustainable strategies win
+
+**Next Steps:**
 
 - Choose your role with [Choosing Your Role](choosing-role.md)
 - Start participating with [First Steps](first-steps.md)

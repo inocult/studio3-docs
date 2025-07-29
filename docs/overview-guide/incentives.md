@@ -70,7 +70,10 @@ graph TD
 ### For Echoes (Supporters)
 
 ### 📡 Echo Incentive Matrix
-**Direct Returns:** | Signal Type | Accuracy | Return Multiple | Risk ||-------------|----------|-----------------|------|
+**Direct Returns:**
+
+| Signal Type | Accuracy | Return Multiple | Risk |
+|-------------|----------|-----------------|------|
 | Early Belief | Correct | 2.5-3x | High |
 | Late Belief | Correct | 1.5-2x | Medium |
 | Early Doubt | Correct | 1.8-2x | Medium |
@@ -95,11 +98,16 @@ graph TD
 ### ⚓ Anchor Reward System
 ** Fee Structure:**
 
-- **Base fee**: 3% of milestone value
-- **Quality multiplier**: 1x to 3x based on validation score
-- **Speed bonus**: Up to 20% for 24-hour completion
-- **Reputation multiplier**: +10% per 10,000 XP
-- **Maximum fee**: Capped at 10% of milestone value
+- **Base fee**:
+  3% of milestone value
+- **Quality multiplier**:
+  1x to 3x based on validation score
+- **Speed bonus**:
+  Up to 20% for 24-hour completion
+- **Reputation multiplier**:
+  +10% per 10,000 XP
+- **Maximum fee**:
+  Capped at 10% of milestone value
 
 ** Additional Incentives:**
 
@@ -141,6 +149,7 @@ graph LR
 !!! warning "Negative Incentives Also Align"
     
     For Senders:
+    
 - **Failed milestones damage reputation permanently**
 - Poor communication reduces future support
 
@@ -227,7 +236,7 @@ Cannot Be Bought
 - Encourages participation
 4. **Multiplies Opportunities**
 - Success breeds success
-- **Reputation Benefits:**
+- **Reputation Benefits: **
 
 - **🎯 Higher signal multipliers**
 - 🗿️ Governance voting weight
@@ -356,18 +365,22 @@ When incentives seem misaligned:
 ### Continuous Improvement
 
 ** Behavior Monitoring:**
+
 - **Track venture success rates**
 - Measure Echo participation volume
 - Assess Anchor validation quality
 - Monitor ecosystem growth
 
 ** Parameter Adjustment:**
-- **If venture quality drops: Increase failure penalties**
+
+- **If venture quality drops**:
+  Increase failure penalties
 - If Echo participation lags: Boost return multipliers
 - If Anchor performance suffers: Enhance quality bonuses
 - If growth slows: Introduce new incentives
 
 ** Feedback Loop:**
+
 - **Analyze behavior patterns**
 - Identify misalignments
 - Propose adjustments
@@ -377,11 +390,18 @@ When incentives seem misaligned:
 
 !!! tip "Planned Enhancements"
 
-- **Dynamic Multipliers**: Adjust based on market conditions
--Skill-Based Matching: Connect compatible participants
--Achievement Unlocks: Gamified progression rewards
--Cross-Venture Synergies: Incentivize collaboration
--Retroactive Rewards**: Surprise bonuses for excellence**## Success Metrics
+- **Dynamic Multipliers**:
+  Adjust based on market conditions
+- **Skill-Based Matching**:
+  Connect compatible participants
+- **Achievement Unlocks**:
+  Gamified progression rewards
+- **Cross-Venture Synergies**:
+  Incentivize collaboration
+- **Retroactive Rewards**:
+  Surprise bonuses for excellence
+
+## Success Metrics
 
 ### Measuring Alignment
 

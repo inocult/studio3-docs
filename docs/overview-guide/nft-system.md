@@ -31,7 +31,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
 </ul>
 </div>
-    
+
 <div class="arena-card">
 
 <h3>📡 Signal NFT</h3>
@@ -54,7 +54,7 @@ Studio3's innovative three-NFT system creates a complete narrative arc for every
 
 </ul>
 </div>
-    
+
 <div class="arena-card">
 
 <h3>🛡️ Halo NFT</h3>
@@ -101,11 +101,11 @@ graph TD
 !!! info "Spark NFT Details"
 
     **Purpose:** The genesis of every venture
-    
+
     **Creation:** Remix IP-NFTs on Flambette
-    
+
     **Utility:** Entry ticket to Studio3 Arena
-    
+
     **Trading:** Free market on OpenSea
 
 ### Creation Process
@@ -153,11 +153,11 @@ graph TD
 !!! info "Signal NFT Details"
 
     **Purpose:** Tracks venture progress dynamically
-    
+
     **Creation:** Awarded to Forge duel winners
-    
+
     **Utility:** Identity and progress tracker
-    
+
     **Updates:** Real-time milestone status
 
 ### Dynamic Properties
@@ -242,11 +242,11 @@ graph TD
 !!! info "Halo NFT Details"
 
     **Purpose:** Proof of venture sovereignty
-    
+
     **Creation:** Minted at container DAO formation
-    
+
     **Utility:** Unlocks full ownership rights
-    
+
     **Transfer:** Soulbound until buyback
 
 ### Sovereignty Rights
@@ -280,7 +280,7 @@ sequenceDiagram
     participant G as Genesis Wallet
     participant S as Studio3
     participant F as Founders
-    
+
     V->>S: Complete Ascension Phase
     S->>V: Verify All Requirements
     V->>G: Initiate Buyback
@@ -334,7 +334,7 @@ graph LR
     A[Spark NFT] -->|Enhances| B[Signal Value]
     B -->|Unlocks| C[Halo Rights]
     C -->|Validates| A
-    
+
     A -.->|Origin Premium| D[Market Value]
     B -.->|Journey Premium| D
     C -.->|Success Premium| D

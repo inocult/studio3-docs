@@ -160,16 +160,14 @@ flowchart TD
 
 - Consider market conditions
     
-1. 
-2. **Time Your Entry**
+    2. **Time Your Entry**
 
 - **Early signals earn more**
 - But less information available
 
 - Balance risk vs reward
     
-2. 
-3. **Size Your Stakes**
+    3. **Size Your Stakes**
 
 - **Never signal more than you can lose**
 - Diversify across multiple milestones
@@ -318,19 +316,18 @@ Best Signal: 2.7x on DataMesh Phase 3
 Worst Loss: 5,000 $SIGNAL on QuickPay
 ```
 
-### Performance Improvement
+## Performance Improvement
 
 !!! tip "Level Up Your Signaling"
     1. **Track Everything** - Log all signals and outcomes
-1. 
-2. **Analyze Patterns** - Find what works for you
-2. 
-3. **Specialize**
-- Focus on domains you understand
-- **4. Network
-- Learn from successful Echoes
-- **5. Stay Humble
-- Markets can humble anyone
+    
+    2. **Analyze Patterns** - Find what works for you
+    
+    3. **Specialize** - Focus on domains you understand
+    
+    4. **Network** - Learn from successful Echoes
+    
+    5. **Stay Humble** - Markets can humble anyone
 
 ### FAQ
 

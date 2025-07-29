@@ -113,23 +113,20 @@ sequenceDiagram
 
 !!! warning "Non-Negotiable Rules"
     1. **All work must be public** - No private development
-1. 
-2. **All milestones are binding** - Once declared, must be attempted
-2. 
-3. **All signals are final**
-- No takebacks after placing
-- **4. All validations are independent
-- No founder influence
-- **5. All settlements are automatic
-- No manual overrides
+    2. **All milestones are binding** - Once declared, must be attempted
+    3. **All signals are final** - No takebacks after placing
+    4. **All validations are independent** - No founder influence
+    5. **All settlements are automatic** - No manual overrides
 
 #### Spark Arena Rules
+
 - Minimum 100 $SIGNAL initial support to proceed
 - At least 10 unique supporters required
 - Ideas can iterate based on feedback
 - Failed Sparks can be re-submitted after 30 days
 
-#### Forge Arena Rules 
+#### Forge Arena Rules
+
 - Winner takes all 
 - only one founder proceeds
 - Minimum stake of 1,000 $SIGNAL to enter
@@ -137,6 +134,7 @@ sequenceDiagram
 - Judgment based on vision, capability, and commitment
 
 #### Milestone Arena Rules
+
 - Milestones must be SMART (Specific, Measurable, Achievable, Relevant, Time-bound)
 - Minimum 48-hour signal period before work begins
 - Evidence must be submitted before deadline
@@ -200,7 +198,9 @@ graph TD
 ## Arena Transparency
 
 ### Everything is Visible
+
 ** Public Information:**
+
 - **All milestone declarations**
 - All signal amounts and timing
 - All founder updates and evidence
@@ -208,6 +208,7 @@ graph TD
 - All reward distributions
 
 ** Performance Metrics:**
+
 - **Success/failure rates by founder**
 - Signal accuracy by Echo
 - Validation quality by Anchor
@@ -376,21 +377,15 @@ The Arena system evolves through:
 
 !!! danger "Arena Mistakes"
 
-- **Over-promising**
-- Unrealistic milestones destroy credibility
--Under-communicating
-- Silent founders lose support -**Ignoring feedback**
-- Community wisdom is valuable
-
-- **Gaming metrics**
-- Artificial activity is easily detected
-
-- **Blame-shifting**
-- Take responsibility for failures
+    - **Over-promising** - Unrealistic milestones destroy credibility
+    - **Under-communicating** - Silent founders lose support
+    - **Ignoring feedback** - Community wisdom is valuable
+    - **Gaming metrics** - Artificial activity is easily detected
+    - **Blame-shifting** - Take responsibility for failures
 
 ### Your First Arena
 
-- 1. Observe
+1. **Observe**
 - Watch active Arenas to understand dynamics
 2. **Analyze**
 - Study successful and failed patterns

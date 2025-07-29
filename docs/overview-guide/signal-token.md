@@ -18,7 +18,8 @@ The $SIGNAL token is the lifeblood of Studio3's ecosystem, transforming belief i
 - **Distribution**: Fair launch with no pre-mine
 - **Governance**: Future DAO voting rights
 
-** What $SIGNAL is NOT:**
+**What $SIGNAL is NOT:**
+
 - **❌ Not a security or investment contract**
 - ❌ Not a gambling or betting token
 - ❌ Not a speculative trading asset
@@ -94,88 +95,78 @@ graph TD
 ### Earning $SIGNAL
 
 ### 💰 Ways to Earn
-1. Signal Accuracy (Echoes)
 
-- **Earn rewards based on: stake × multiplier × accuracy bonus**
-- Belief multiplier: 1.5x 
+1. **Signal Accuracy (Echoes)**
+   - Earn rewards based on: stake × multiplier × accuracy bonus
+   - Belief multiplier: 1.5x - 3x
+   - Doubt multiplier: 1.2x - 2x
+   - Accuracy bonus based on prediction success rate
 
-- 3x
+2. **Validation Services (Anchors)**
+   - Base fee: 3% of milestone value
+   - Quality multiplier: 1x - 3x based on thoroughness
+   - Additional bonuses for mentorship and speed
 
-- Doubt multiplier: 1.2x 
+3. **Participation Rewards**
+   - Daily active user bonuses
+   - Referral rewards
+   - Governance participation
+   - Bug bounties
 
-- 2x
-
-- Accuracy bonus based on prediction success rate
-2. Validation Services (Anchors)
-
-- **Base fee: 3% of milestone value**
-- Quality multiplier: 1x 
-
-- 3x based on thoroughness
-
-- Additional bonuses for mentorship and speed
-3. Participation Rewards
-
-- **Daily active user bonuses**
-- Referral rewards
-- Governance participation
-- Bug bounties
-4. Liquidity Provision
-
-- **DEX liquidity mining**
-- Lending protocol yields
-- Staking rewards
+4. **Liquidity Provision**
+   - DEX liquidity mining
+   - Lending protocol yields
+   - Staking rewards
 
 ### Using $SIGNAL
 
 !!! info "Primary Use Cases"
     
-   1. Signaling on Milestones
-- **Minimum: 10 $SIGNAL**
-- Maximum: No limit (but diversify!)
-
-- Locked until validation
+    1. **Signaling on Milestones**
+       - Minimum: 10 $SIGNAL
+       - Maximum: No limit (but diversify!)
+       - Locked until validation
     
-   2. Reputation Staking
-- **Lock tokens to boost XP multiplier**
-- Longer locks = higher boost
-
-- Unlocks governance rights
+    2. **Reputation Staking**
+       - Lock tokens to boost XP multiplier
+       - Longer locks = higher boost
+       - Unlocks governance rights
     
-   3. Premium Access
-- **Advanced analytics: 100 $SIGNAL/month**
-- Priority support: 50 $SIGNAL/month
-
-- Early access: 200 $SIGNAL/feature
+    3. **Premium Access**
+       - Advanced analytics: 100 $SIGNAL/month
+       - Priority support: 50 $SIGNAL/month
+       - Early access: 200 $SIGNAL/feature
     
-   4. Founder Services
-- **Milestone declaration: 100 $SIGNAL**
-- Forge entry: 1,000 $SIGNAL
-
-- Emergency extensions: 500 $SIGNAL
+    4. **Founder Services**
+       - Milestone declaration: 100 $SIGNAL
+       - Forge entry: 1,000 $SIGNAL
+       - Emergency extensions: 500 $SIGNAL
 
 ### Burn Scenarios
 
 ### 🔥 When Tokens Burn
-** Permanent Burns Occur When:**
-1. **Wrong Signals**
 
-- **100% of stake burned**
+**Permanent Burns Occur When:**
+
+1. **Wrong Signals**
+   - 100% of stake burned
 2. **Failed Milestones**
-- All belief signals burned
+   - All belief signals burned
 3. **Abandoned Ventures**
-- Founder stakes burned
+   - Founder stakes burned
 4. **Penalty Violations**
-- Bad behavior fines
+   - Bad behavior fines
 5. **Expired Options**
-- Unused allocations
-- **Burn Impact:**
+   - Unused allocations
+
+**Burn Impact:**
+
 - **Supply Reduction**: Permanently removes tokens from circulation
 - **Scarcity Increase**: Remaining tokens become more valuable
 - **Holder Benefit**: All token holders benefit from reduced supply
 - **Deflationary Pressure**: Creates natural price support
 
-**Example:: If 1% of supply burns, remaining tokens gain ~1% in scarcity value
+**Example**: If 1% of supply burns, remaining tokens gain ~1% in scarcity value
 
 ### Circulation Dynamics
 
@@ -224,12 +215,14 @@ graph LR
 
 ### 🗿️ Governance Powers
 
-** Voting Weight Calculation:**
-- **Held tokens: 1.0x weight**
-- Staked tokens: 1.5x weight 
-- Reputation bonus: +0.1x per 1000 XP
+**Voting Weight Calculation:**
 
-** Governance Decisions Include:**
+- **Held tokens**: 1.0x weight
+- **Staked tokens**: 1.5x weight
+- **Reputation bonus**: +0.1x per 1000 XP
+
+**Governance Decisions Include:**
+
 - **Platform parameter adjustments**
 - Fee structure modifications
 - New feature proposals
@@ -237,7 +230,8 @@ graph LR
 - Treasury allocations
 - Anchor Council elections
 
-** Proposal Requirements:**
+**Proposal Requirements:**
+
 - **Minimum 10,000 $SIGNAL to propose**
 - 48-hour discussion period
 - 7-day voting window
@@ -302,19 +296,23 @@ graph LR
 ### Where to Use $SIGNAL
 
 ### 🌐 Ecosystem Integration
-** Native Platform:**
+
+**Native Platform:**
+
 - **Studio3 Arena signaling**
 - Reputation staking
 - Governance voting
 - Premium features
 
-** Partner Integrations:**
+**Partner Integrations:**
+
 - **DEX trading pairs**
 - Lending collateral
 - Yield farming
 - Cross-chain bridges
 
-** Future Integrations:**
+**Future Integrations:**
+
 - **Sub-studio currencies**
 - Partner platform utility
 - NFT marketplace currency
@@ -323,7 +321,9 @@ graph LR
 ## Token Metrics
 
 ### Key Performance Indicators
-** Current Token Metrics (Example):**
+
+**Current Token Metrics (Example):**
+
 - **Circulating Supply**: 45,000,000 $SIGNAL
 - **Total Burned**: 5,000,000 $SIGNAL
 - **Average Daily Volume**: 2,500,000 $SIGNAL
@@ -332,73 +332,74 @@ graph LR
 - **Velocity Ratio**: 0.12
 - **Monthly Burn Rate**: 2%
 
-**Health Score: 8.5/10 - Healthy ecosystem
+**Health Score**: 8.5/10 - Healthy ecosystem
 
 ### Roadmap Items
 
 !!! tip "Upcoming Token Features"
     
-     Q1 2025:
-- **Cross-chain bridges**
-
-- Enhanced staking options
-
-- Governance V2 launch
+    **Q1 2025:**
+    - Cross-chain bridges
+    - Enhanced staking options
+    - Governance V2 launch
     
-    Q2 2025:
-- **Conditional signal tokens**
-- Reputation NFT integration
-
-- Yield optimization
+    **Q2 2025:**
+    - Conditional signal tokens
+    - Reputation NFT integration
+    - Yield optimization
     
-    Q3 2025:
-- **Sub-studio token framework**
-
-- Advanced DeFi integrations
-
-- Mobile wallet support
+    **Q3 2025:**
+    - Sub-studio token framework
+    - Advanced DeFi integrations
+    - Mobile wallet support
     
-    Q4 2025:
-- **Full DAO transition**
-- Treasury diversification
-
-- Global exchange listings
+    **Q4 2025:**
+    - Full DAO transition
+    - Treasury diversification
+    - Global exchange listings
 
 ## Common Questions
 
 ### Token FAQ
+
 **Q: How do I acquire $SIGNAL tokens?**
-**A: Through DEX swaps, earning via participation, or purchasing from holders.**
+**A:** Through DEX swaps, earning via participation, or purchasing from holders.
+
 **Q: Can I mine $SIGNAL tokens?**
-**A: No traditional mining, but you can "mine" through accurate signals.**
+**A:** No traditional mining, but you can "mine" through accurate signals.
+
 **Q: What happens to burned tokens?**
-**A: They're permanently removed from circulation, increasing scarcity.**
+**A:** They're permanently removed from circulation, increasing scarcity.
+
 **Q: Is there a token migration planned?**
-**A: No, the current contract is final with upgrade mechanisms.**
+**A:** No, the current contract is final with upgrade mechanisms.
+
 **Q: Can I stake $SIGNAL for passive income?**
-**A: Yes, through reputation staking and liquidity provision.**
+**A:** Yes, through reputation staking and liquidity provision.
 
 ## Your Token Strategy
 
 ### Getting Started with $SIGNAL
 
 1. **Acquire Initial Tokens**
-- Start small to learn
+   - Start small to learn
 2. **Practice Signaling**
-- Low stakes initially
+   - Low stakes initially
 3. **Build Reputation**
-- Stake for XP boost
+   - Stake for XP boost
 4. **Diversify Usage**
-- Try different features
+   - Try different features
 5. **Participate in Governance**
-- Shape the future
+   - Shape the future
 
 !!! danger "Important Risks"
+    - **Total Loss Possible**: Wrong signals burn 100%
+    - **No Guarantees**: Utility token, not investment
+    - **Volatility**: Price can fluctuate significantly
+    - **Smart Contract Risk**: Despite audits, bugs possible
+    - **Regulatory Risk**: Token laws evolving globally
 
-- **Total Loss Possible**: Wrong signals burn 100%** -No Guarantees**: Utility token, not investment
--Volatility: Price can fluctuate significantly
--Smart Contract Risk: Despite audits, bugs possible
--Regulatory Risk**: Token laws evolving globally**## Next Steps
+## Next Steps
 
 - Learn [Belief & Doubt Signals](belief-signals.md) mechanics
 - Understand [Rewards & Penalties](rewards-system.md) in detail
