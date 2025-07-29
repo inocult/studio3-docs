@@ -42,12 +42,14 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ### Day 2-3: Learn the Basics
 
 **Essential Reading:**
+
 - This Overview Guide (you're here!)
 - Platform Terms of Service
 - Community Code of Conduct
 - Your role-specific guide
 
 **Watch and Learn:**
+
 - Observe 5 active ventures
 - Read 10 milestone declarations
 - Study 5 validation reports
@@ -370,24 +372,28 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ## Building Momentum
 
 ### Week 1: Foundation
+
 - Focus on learning and observing
 - Make small, calculated moves
 - Build initial connections
 - Establish routines
 
 ### Week 2: Experimentation 
+
 - Try different strategies
 - Increase activity level
 - Deepen relationships
 - Refine approach
 
 ### Week 3: Optimization
+
 - Double down on what works
 - Eliminate what doesn't
 - Strengthen weak areas
 - Build consistency
 
 ### Week 4: Acceleration
+
 - Increase commitment level
 - Take calculated risks
 - Share learnings publicly
@@ -434,19 +440,29 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 
 ### Essential Tools
 
-- **Wallet**: MetaMask or compatible
-- **Analytics**: Platform dashboard
-- **Communication**: Discord, Twitter
-- **Documentation**: Notion or similar
-- **Time Tracking**: Toggle or similar
+- **Wallet**:
+  MetaMask or compatible
+- **Analytics**:
+  Platform dashboard
+- **Communication**:
+  Discord, Twitter
+- **Documentation**:
+  Notion or similar
+- **Time Tracking**:
+  Toggle or similar
 
 ### Learning Resources
 
-- **Official Docs**: Always up-to-date
-- **Community Wiki**: Crowd-sourced wisdom
-- **Video Tutorials**: Visual learning
-- **Office Hours**: Live Q&A sessions
-- **Mentor Matching**: 1-on-1 guidance
+- **Official Docs**:
+  Always up-to-date
+- **Community Wiki**:
+  Crowd-sourced wisdom
+- **Video Tutorials**:
+  Visual learning
+- **Office Hours**:
+  Live Q&A sessions
+- **Mentor Matching**:
+  1-on-1 guidance
 
 ## Getting Unstuck
 
