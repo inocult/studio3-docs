@@ -100,22 +100,18 @@ graph TD
 
 !!! info "Spark NFT Details"
 
-    **Purpose:**
-
-**Creation:**
-
-
-
-Utility:
-
-**Trading:**
+    **Purpose:** The genesis of every venture
+    
+    **Creation:** Remix IP-NFTs on Flambette
+    
+    **Utility:** Entry ticket to Studio3 Arena
+    
+    **Trading:** Free market on OpenSea
 
 ### Creation Process
 
-- 1.
-
-Browse Flambette
-- Explore available IP-NFTs
+1. **Browse Flambette**
+   - Explore available IP-NFTs
 2. **Select Components**
 - Choose 2-5 IPs to combine
 3. **Define Synthesis**
@@ -156,15 +152,13 @@ Browse Flambette
 
 !!! info "Signal NFT Details"
 
-   **Purpose:**
-
-**Creation:**
-
-
-
-Utility:
-
-**Updates:**
+    **Purpose:** Tracks venture progress dynamically
+    
+    **Creation:** Awarded to Forge duel winners
+    
+    **Utility:** Identity and progress tracker
+    
+    **Updates:** Real-time milestone status
 
 ### Dynamic Properties
 
@@ -247,15 +241,13 @@ Utility:
 
 !!! info "Halo NFT Details"
 
-   **Purpose:**
-
-**Creation:**
-
-
-
-Utility:
-
-**Transfer:**
+    **Purpose:** Proof of venture sovereignty
+    
+    **Creation:** Minted at container DAO formation
+    
+    **Utility:** Unlocks full ownership rights
+    
+    **Transfer:** Soulbound until buyback
 
 ### Sovereignty Rights
 
@@ -362,10 +354,14 @@ graph LR
 
 !!! tip "Trading Strategies"
 
-- **Spark Trading**: Buy promising ideas early
--Signal Watching: Track rising ventures
--Halo Hunting: Identify near-graduation ventures
--Trinity Collecting**: Acquire complete sets**## Technical Implementation
+- **Spark Trading**:
+  Buy promising ideas early
+- **Signal Watching**:
+  Track rising ventures
+- **Halo Hunting**:
+  Identify near-graduation ventures
+- **Trinity Collecting**:
+  Acquire complete sets## Technical Implementation
 
 ### Smart Contract Architecture
 
@@ -460,7 +456,10 @@ All NFTs follow extended ERC-721 with:
 
 ### Your NFT Journey
 
-1. **As a Creator**: Start on Flambette, mint your Spark2. **As a Founder**: Win the Forge, earn your Signal**3. **As a Collector**: Trade Sparks, watch Signals**4. **As a Builder: Work toward your Halo
+1. **As a Creator**: Start on Flambette, mint your Spark
+2. **As a Founder**: Win the Forge, earn your Signal
+3. **As a Collector**: Trade Sparks, watch Signals
+4. **As a Builder**: Work toward your Halo
 
 - Explore [Seven Phase Lifecycle](seven-phases.md) to understand the journey
 - Learn about [The Arena System](arena-system.md) where NFTs are earned
