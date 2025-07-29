@@ -18,6 +18,7 @@ Studio3's revolutionary design aligns the interests of all participants, creatin
 - Community gets nothing despite creating value
 
 ** Studio3 Alignment:**
+
 - **Everyone profits from venture success**
 - Transparent milestones align timelines
 - Active participation rewarded fairly
@@ -36,8 +37,8 @@ graph TD
     MV --> MO[More Opportunities]
     MO --> VS
     
-    style VS fill:#90EE90
-    style EG fill:#87CEEB
+    style VS fill: #90EE90
+    style EG fill: #87CEEB
 ```
 
 ## Incentive Structures
@@ -46,18 +47,21 @@ graph TD
 
 ### 🏗️ Founder Incentive Stack
 ** Short-term Incentives:**
+
 - **💰 **Milestone Funding: Immediate resources for execution
 - **📡 **Community Support: Belief signals provide validation
 - **🎓 **Expert Guidance: Anchor mentorship accelerates growth
 - **🏆 **Public Recognition: Arena success builds reputation
 
 ** Long-term Incentives:**
+
 - **👑 **Full Ownership: Sovereignty through Ascension
 - **🚀 **Unlimited Upside: No cap on venture value
 - **🌐 **Network Effects: Alumni status opens doors
 - **🏭 **Sub-Studio Rights: Launch your own ecosystem
 
 ** Behavioral Alignment:**
+
 - **Transparency rewarded with more support**
 - Consistent delivery builds belief momentum
 - Community engagement multiplies resources
@@ -73,12 +77,14 @@ graph TD
 | Contrarian | Correct | +0.3x bonus | Varies |
 
 ** Indirect Benefits:**
+
 - **🌟 **Reputation Growth: XP from accurate predictions
 - **🤝 **Network Access: Connect with winners early
 - **🎓 **Learning Opportunity: Understand venture building
 - **🎯 **Influence Power: Shape venture direction
 
 ** Behavioral Incentives:**
+
 - **Research rewarded over speculation**
 - Diversification encouraged through portfolio approach
 - Active engagement improves outcomes
@@ -88,6 +94,7 @@ graph TD
 
 ### ⚓ Anchor Reward System
 ** Fee Structure:**
+
 - **Base fee**: 3% of milestone value
 - **Quality multiplier**: 1x to 3x based on validation score
 - **Speed bonus**: Up to 20% for 24-hour completion
@@ -95,12 +102,14 @@ graph TD
 - **Maximum fee**: Capped at 10% of milestone value
 
 ** Additional Incentives:**
+
 - **🎆 **Success Participation: Tokens in validated ventures
 - **👥 **Network Premium: Access to top founders
 - **🏅 **Status Recognition: Elite validator standing
 - **🌱 **Ecosystem Impact: Shape quality standards
 
 ** Behavioral Alignment:**
+
 - **Thorough validation rewarded over rushed**
 - Mentorship improves venture success rates
 - Fair judgments build long-term reputation
@@ -219,6 +228,7 @@ Cannot Be Bought
 4. **Multiplies Opportunities**
 - Success breeds success
 - **Reputation Benefits:**
+
 - **🎯 Higher signal multipliers**
 - 🗿️ Governance voting weight
 - 🎆 Priority access to opportunities
