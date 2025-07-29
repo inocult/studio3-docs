@@ -39,9 +39,9 @@ graph TD
     S --> RE[Earn Rewards]
     S --> BU[Risk of Burn]
     
-    style T fill:#FFD700
-    style RE fill:#90EE90
-    style BU fill:#FFB6C1
+    style T fill: #FFD700
+    style RE fill: #90EE90
+    style BU fill: #FFB6C1
 ```
 
 ## Token Economics
@@ -181,8 +181,8 @@ graph LR
     P -->|Payments| A[Anchors]
     A -->|Spending| E
     
-    style B fill:#FF6B6B
-    style R fill:#4DABF7
+    style B fill: #FF6B6B
+    style R fill: #4DABF7
 ```
 
 ### Velocity Controls

@@ -42,9 +42,9 @@ graph TB
     BP --> SY
     TP --> SY
     
-    style EC fill:#90EE90
-    style BP fill:#FFB6C1
-    style MS fill:#87CEEB
+    style EC fill: #90EE90
+    style BP fill: #FFB6C1
+    style MS fill: #87CEEB
 ```
 
 ## Primary Value Streams
@@ -265,8 +265,8 @@ graph LR
     F --> G[Bigger Success]
     G --> H[Exponential Growth]
     
-    style A fill:#90EE90
-    style H fill:#FFD700
+    style A fill: #90EE90
+    style H fill: #FFD700
 ```
 
 ## Value Leakage Prevention
