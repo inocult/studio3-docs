@@ -94,8 +94,7 @@ Every participant in Studio3 plays a vital role in the ecosystem's success. Unde
 | Role | Initial Capital | Ongoing Costs | Potential Returns |
 |------|----------------|---------------|-------------------|
 | **Sender** | 1,000+ $SIGNAL | Operating expenses | Unlimited upside |
-| **Echo** | 100+ $SIGNAL | Signal stakes | 1.2x
-- 3x per signal |
+| **Echo** | 100+ $SIGNAL | Signal stakes | 1.2x - 3x per signal |
 | **Anchor** | Minimal | Time investment | 3-10% per validation |
 
 ### Risk Profile
@@ -146,7 +145,11 @@ Rate yourself 1-5 on each:
 - **Team Building**
 - Can you attract talent?
 
-**Score 20+**: You're ready to be a Sender **Score 15-19:**: Build skills first Score <15**: Consider Echo or Anchor role**### For Potential Echoes
+**Score 20+**: You're ready to be a Sender  
+**Score 15-19**: Build skills first  
+**Score <15**: Consider Echo or Anchor role
+
+### For Potential Echoes
 
 Rate yourself 1-5 on each:
 
@@ -161,7 +164,11 @@ Rate yourself 1-5 on each:
 - **Community Engagement**
 - Are you active?
 
-**Score 20+**: Perfect Echo material **Score 15-19:**: Start small and learn Score <15**: Study successful Echoes first**### For Potential Anchors
+**Score 20+**: Perfect Echo material  
+**Score 15-19**: Start small and learn  
+**Score <15**: Study successful Echoes first
+
+### For Potential Anchors
 
 Rate yourself 1-5 on each:
 
@@ -176,16 +183,25 @@ Rate yourself 1-5 on each:
 - **Time Management**
 - Can you meet deadlines?
 
-**Score 20+**: Apply for Anchor status **Score 15-19:**: Gain more experience Score <15**: Build expertise as Echo first**## Multiple Roles
+**Score 20+**: Apply for Anchor status  
+**Score 15-19**: Gain more experience  
+**Score <15**: Build expertise as Echo first
+
+## Multiple Roles
 
 ### Can You Play Multiple Roles?
 
 ** Yes, with restrictions:**
-- **Echo + Future Sender**: Common progression path
-- **Successful Sender → Anchor**: Natural evolution
-- **Echo + Anchor**: Allowed with disclosure
+
+- **Echo + Future Sender**:
+  Common progression path
+- **Successful Sender → Anchor**:
+  Natural evolution
+- **Echo + Anchor**:
+  Allowed with disclosure
 
 ** Conflicts to avoid:**
+
 - **Don't signal on ventures you validate**
 - Don't validate ventures you founded
 - Always disclose any relationships
@@ -265,11 +281,16 @@ graph LR
 
 ### Step 1: Assess Your Resources
 
-- **Time**: How many hours per day?
-- **Capital**: How much $SIGNAL available?
-- **Skills**: What's your superpower?
-- **Risk**: What can you afford to lose?
-- **Goals**: What do you want to achieve?
+- **Time**:
+  How many hours per day?
+- **Capital**:
+  How much $SIGNAL available?
+- **Skills**:
+  What's your superpower?
+- **Risk**:
+  What can you afford to lose?
+- **Goals**:
+  What do you want to achieve?
 
 ### Step 2: Match to Role
 
@@ -317,21 +338,18 @@ Whatever role you choose:
 
 - **Building ventures → Sender**
 - Finding opportunities → Echo
-
 - Guiding others → Anchor
 
 2. **What's your primary constraint?**
 
 - **Need capital → Sender**
 - Need time → Echo
-
 - Need purpose → Anchor
 
 3. **How do you handle failure?**
 
 - **Public learning → Sender**
 - Private analysis → Echo
-
 - Teaching moment → Anchor
 
 ### Ready to Commit?
@@ -340,11 +358,8 @@ Once you've chosen your role:
 
 - **Read the specific guide** for detailed instructions
 - **Join role-specific channels** in the community
-- **Find a mentor**
-
-- * who's succeeded in that role
+- **Find a mentor** who's succeeded in that role
 - **Set realistic goals** for your first 30 days
-
 - **Track your progress** and adjust as needed
 
 ## Role Resources
@@ -374,7 +389,10 @@ Once you've chosen your role:
 
 Now that you understand the roles:
 
-1. **Make your choice** based on the assessment2. Proceed to [First Steps](first-steps.md)** for quick start**3. **Dive into your role-specific guide** for mastery4. **Join the community** and introduce yourself
+1. **Make your choice** based on the assessment
+2. **Proceed to [First Steps](first-steps.md)** for quick start
+3. **Dive into your role-specific guide** for mastery
+4. **Join the community** and introduce yourself
 
 **Remember:**
 
