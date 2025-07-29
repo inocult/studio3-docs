@@ -22,9 +22,9 @@ graph TB
         R -->|Empowers| S
     end
     
-    style S fill:#FFE4B5
-    style E fill:#98D8C8
-    style A fill:#9370DB
+    style S fill: #FFE4B5
+    style E fill: #98D8C8
+    style A fill: #9370DB
 ```
 
 ## Primary Interactions
@@ -295,6 +295,7 @@ graph LR
 !!! tip "Effective Interaction Guidelines"
     
     **For All Parties:**
+    
     - Be respectful and professional
     - Respond promptly to queries
     - Document important decisions
@@ -302,6 +303,7 @@ graph LR
     - Build relationships beyond transactions
     
     **Channel Selection:**
+    
     - Public forums for general updates
     - Direct messages for specific questions
     - Video calls for complex discussions
@@ -353,10 +355,14 @@ graph LR
 
 **Network Value Calculation:**
 
-- **Each role creates value**: Senders² + Echoes² + Anchors²
-- **Cross-role interactions multiply**: Senders × Echoes + Senders × Anchors + Echoes × Anchors
-- **Total network value**: Role value × Interaction multiplier
-- **Result**: Exponential growth as ecosystem expands
+- **Each role creates value**:
+  Senders² + Echoes² + Anchors²
+- **Cross-role interactions multiply**:
+  Senders × Echoes + Senders × Anchors + Echoes × Anchors
+- **Total network value**:
+  Role value × Interaction multiplier
+- **Result**:
+  Exponential growth as ecosystem expands
 
 **Example:** 100 Senders + 1000 Echoes + 50 Anchors = 150,000 base value × 155,000 interactions = 23.25M network value units
 
@@ -450,12 +456,10 @@ graph LR
 
 **TechVenture (Sender), 200+ Echoes, 3 Anchors**
 
-- **Situation:**
-
-**Major pivot needed after market shift**
-- **Interaction:**
-
-**Transparent communication, collaborative replanning**
+- **Situation**:
+  Major pivot needed after market shift
+- **Interaction**:
+  Transparent communication, collaborative replanning
 - **Outcome:** 85% Echo retention, successful pivot, 3x returns
 
 > "The open dialogue during our pivot saved the venture. Our Echoes became true partners, not just investors."
