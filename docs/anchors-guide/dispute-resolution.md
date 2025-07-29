@@ -70,8 +70,8 @@
 
 ```text
 <p>Disagreement → Tension → Conflict → Dispute → Crisis</p>
-<p>↓            ↓          ↓          ↓         ↓</p>
-<p>Discussion   Emotion   Positions   Formal    Damage</p>
+<p>↓ ↓ ↓ ↓ ↓</p>
+<p>Discussion Emotion Positions Formal Damage</p>
 ```
 
 <p>**Common Triggers:**</p>

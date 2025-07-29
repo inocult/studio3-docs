@@ -236,13 +236,13 @@
 ```text
 <p>Professional Channels:</p>
 <p>├── LinkedIn</p>
-<p>│   ├── Weekly insights</p>
-<p>│   ├── Case studies</p>
-<p>│   └── Thought leadership</p>
+<p>│ ├── Weekly insights</p>
+<p>│ ├── Case studies</p>
+<p>│ └── Thought leadership</p>
 <p>├── Twitter/X</p>
-<p>│   ├── Quick tips</p>
-<p>│   ├── Industry news</p>
-<p>│   └── Community building</p>
+<p>│ ├── Quick tips</p>
+<p>│ ├── Industry news</p>
+<p>│ └── Community building</p>
 <p>└── Platform Forums</p>
 <p>├── Help others</p>
 <p>├── Share expertise</p>

@@ -28,8 +28,8 @@
 <li>Situations requiring attention</li>
 
 </ul>
-<p>** Red Flag Categories:**</p>
-<p>-</p>
+<p>**Red Flag Categories:**</p>
+
 <p>1. **Critical**</p>
 <ul>
 <li>Immediate action needed</li>
@@ -48,8 +48,11 @@
 </ul>
 <p>5. **Potential**</p>
 <ul>
-<li>Keep awareness**</li>
-<li>**Why Red Flags Matter:**</li>
+<li>Keep awareness</li>
+</ul>
+
+<p>**Why Red Flags Matter:**</p>
+<ul>
 <li>**Enable early intervention**</li>
 <li>Prevent major failures</li>
 <li>Protect stakeholders</li>
@@ -64,18 +67,16 @@
 <div class="arena-card">
 
 <h3>💸 Consequences of Inaction</h3>
-<p>** Escalation Timeline:**</p>
+<p>**Escalation Timeline:**</p>
 ```
-<p>Warning Sign → Minor Issue → Major Problem → Crisis → Failure</p>
-<p>(Day 1)      (Week 1)      (Month 1)      (Month 3)  (Month 6)</p>
+Warning Sign → Minor Issue → Major Problem → Crisis → Failure
+(Day 1) (Week 1) (Month 1) (Month 3) (Month 6)
 
-<p>Cost to Fix:    $           $$            $$$         $$$$      Total Loss</p>
-<p>Difficulty:      Easy        Moderate      Hard        Critical   Impossible</p>
+Cost to Fix: $ $$ $$$ $$$$ Total Loss
+Difficulty: Easy Moderate Hard Critical Impossible
 ```
 
-
-
-<p>Common Escalation Patterns:**</p>
+<p>**Common Escalation Patterns:**</p>
 <ul>
 <li>**Technical debt → System failure**</li>
 <li>Team tension → Founder split</li>
@@ -93,32 +94,28 @@
 <div class="arena-card">
 
 <h3>💻 Technical Danger Signals</h3>
-<p>** Code Quality Red Flags:**</p>
+<p>**Code Quality Red Flags:**</p>
 ```python
-<h1>RED FLAG: No error handling</h1>
-<p>**def process_payment(amount):**</p>
-<p>charge_card(amount)  # What if this fails?</p>
-<p>update_database()    # What if this fails?</p>
-<p>send_email()        # What if this fails?</p>
+# RED FLAG: No error handling
+def process_payment(amount):
+    charge_card(amount) # What if this fails?
+    update_database() # What if this fails?
+    send_email() # What if this fails?
 
-<h1>RED FLAG: Security vulnerability</h1>
-<p>**def get_user_data(user_id):**</p>
-<p>query = f"SELECT * FROM users WHERE id = {user_id}"  # SQL injection!</p>
-<p>return execute_query(query)</p>
+# RED FLAG: Security vulnerability
+def get_user_data(user_id):
+    query = f"SELECT * FROM users WHERE id = {user_id}" # SQL injection!
+    return execute_query(query)
 
-<h1>RED FLAG: Performance disaster</h1>
-<p>**def calculate_all_users():**</p>
-
-<p>users = get_all_users()  # Loading millions into memory</p>
-
-
-
-<p>for user in users:**</p>
-<p>for other_user in users:  # O(n²) complexity</p>
-<p>calculate_similarity(user, other_user)</p>
+# RED FLAG: Performance disaster
+def calculate_all_users():
+    users = get_all_users() # Loading millions into memory
+    for user in users:
+        for other_user in users: # O(n²) complexity
+            calculate_similarity(user, other_user)
 ```
 
-<p>** Architecture Red Flags:**</p>
+<p>**Architecture Red Flags:**</p>
 <ul>
 <li>**No separation of concerns**</li>
 <li>Monolithic when should be modular</li>
@@ -163,7 +160,7 @@
 <li>Missing incident plan</li>
 
 </ul>
-<p>** Behavioral Signs:**</p>
+<p>**Behavioral Signs:**</p>
 <ul>
 <li>**"Security later" attitude**</li>
 <li>No security testing</li>
@@ -179,22 +176,20 @@
 <div class="arena-card">
 
 <h3>⚡ Performance Red Flags</h3>
-<p>** Performance Warning Signs:**</p>
+<p>**Performance Warning Signs:**</p>
+
 ```
+Load Time Red Flags:
 
-
-
-<p>Load Time Red Flags:**</p>
-<ul>
-<li>Homepage: >3 seconds</li>
-<li>API calls: >1 second</li>
-<li>Database queries: >500ms</li>
-<li>Memory usage: Growing unbounded</li>
-<li>CPU usage: Constant high</li>
+- Homepage: >3 seconds
+- API calls: >1 second
+- Database queries: >500ms
+- Memory usage: Growing unbounded
+- CPU usage: Constant high
 ```
 
 </ul>
-<p>** Scalability Issues:**</p>
+<p>**Scalability Issues:**</p>
 <ul>
 <li>**Hardcoded limits**</li>
 <li>Stateful architecture</li>
@@ -203,7 +198,7 @@
 <li>Synchronous everything</li>
 
 </ul>
-<p>** Growth Inhibitors:**</p>
+<p>**Growth Inhibitors:**</p>
 <ul>
 <li>**Can't handle 2x users**</li>
 <li>Linear cost scaling</li>
@@ -221,7 +216,7 @@
 <div class="arena-card">
 
 <h3>📊 Market Red Flags</h3>
-<p>** Customer Acquisition Issues:**</p>
+<p>**Customer Acquisition Issues:**</p>
 <ul>
 <li>**CAC > LTV**</li>
 <li>Acquisition slowing</li>
@@ -230,19 +225,17 @@
 <li>Paid-only growth</li>
 
 </ul>
-<p>** Customer Retention Problems:**</p>
+<p>**Customer Retention Problems:**</p>
 ```
 
-
-
-<p>Retention Red Flags:**</p>
-<p>Day 1:  <80% (Critical)</p>
-<p>Day 7:  <60% (Serious)</p>
+<p><strong>Retention Red Flags:</strong></p>
+<p>Day 1: <80% (Critical)</p>
+<p>Day 7: <60% (Serious)</p>
 <p>Day 30: <40% (Concerning)</p>
 <p>Month 6: <20% (Major issue)</p>
 ```
 
-<p>** Market Feedback Signals:**</p>
+<p>**Market Feedback Signals:**</p>
 <ul>
 <li>**Low NPS (<30)**</li>
 <li>Complaints increasing</li>
@@ -260,30 +253,23 @@
 <h3>💰 Financial Warning Signs</h3>
 <p>**Cash Management Issues:**</p>
 
-<p>**Burn Rate Problems```python**</p>
-<p>**def calculate_runway_risk(cash, burn_rate, revenue_growth):**</p>
-<p>runway_months = cash / burn_rate</p>
+<p><strong>Burn Rate Problems:</strong></p>
 
-
-
-<p>if runway_months < 3:**</p>
-<p>return "CRITICAL"</p>
-
-<p>** elif runway_months < 6:**</p>
-<p>return "HIGH_RISK"</p>
-
-
-
-<p>elif runway_months < 12:**</p>
-<p>return "MONITOR"</p>
-
-<p>** else:**</p>
-<p>return "HEALTHY"</p>
+```python
+def calculate_runway_risk(cash, burn_rate, revenue_growth):
+    runway_months = cash / burn_rate
+    
+    if runway_months < 3:
+        return "CRITICAL"
+    elif runway_months < 6:
+        return "HIGH_RISK"
+    elif runway_months < 12:
+        return "MONITOR"
+    else:
+        return "HEALTHY"
 ```
 
-
-
-<p>Revenue Red Flags:**</p>
+<p><strong>Revenue Red Flags:</strong></p>
 <ul>
 <li>**Concentration risk (>30% one customer)**</li>
 <li>Declining MRR</li>
@@ -292,7 +278,7 @@
 <li>Contract cancellations</li>
 
 </ul>
-<p>** Spending Patterns:**</p>
+<p>**Spending Patterns:**</p>
 <ul>
 <li>**No budget discipline**</li>
 <li>Hiring ahead of revenue</li>
@@ -308,7 +294,9 @@
 <div class="arena-card">
 
 <h3>📈 Model Viability Red Flags</h3>
-<p>**Unit Economics Issues:| Metric | Red Flag Level |**</p>
+<p><strong>Unit Economics Issues:</strong></p>
+
+<p>| Metric | Red Flag Level |</p>
 <p>|--------|---------------|</p>
 <p>| Gross Margin | <50% |</p>
 <p>| Payback Period | >18 months |</p>
@@ -316,7 +304,7 @@
 <p>| Churn Rate | >10% monthly |</p>
 <p>| Growth Efficiency | <0.5 |</p>
 
-<p>** Strategic Problems:**</p>
+<p>**Strategic Problems:**</p>
 <ul>
 <li>**No clear differentiation**</li>
 <li>Competing on price only</li>
@@ -345,7 +333,7 @@
 <li>Burning out visibly</li>
 
 </ul>
-<p>** Communication Problems:**</p>
+<p>**Communication Problems:**</p>
 <ul>
 <li>**Going dark periods**</li>
 <li>Avoiding investors/advisors</li>
@@ -354,7 +342,7 @@
 <li>Update avoidance</li>
 
 </ul>
-<p>** Relationship Dynamics:**</p>
+<p>**Relationship Dynamics:**</p>
 <ul>
 <li>**Co-founder tension**</li>
 <li>Equity disputes</li>
@@ -370,7 +358,7 @@
 <div class="arena-card">
 
 <h3>😔 Cultural Red Flags</h3>
-<p>** Team Morale Indicators:**</p>
+<p>**Team Morale Indicators:**</p>
 <ul>
 <li>**High turnover (>20% annually)**</li>
 <li>Key people leaving</li>
@@ -379,12 +367,10 @@
 <li>Engagement dropping</li>
 
 </ul>
-<p>** Cultural Problems:**</p>
+<p>**Cultural Problems:**</p>
 ```
 
-
-
-<p>Warning Signs Checklist:**</p>
+<p><strong>Warning Signs Checklist:</strong></p>
 <p>□ Fear-based culture</p>
 <p>□ No psychological safety</p>
 <p>□ Blame culture prevalent</p>
@@ -394,7 +380,7 @@
 <p>□ Toxic behaviors tolerated</p>
 ```
 
-<p>** Capability Gaps:**</p>
+<p>**Capability Gaps:**</p>
 <ul>
 <li>**Critical roles unfilled**</li>
 <li>Skills missing</li>
@@ -412,7 +398,7 @@
 <div class="arena-card">
 
 <h3>⚡ Operational Red Flags</h3>
-<p>** Delivery Problems:**</p>
+<p>**Delivery Problems:**</p>
 <ul>
 <li>**Chronic delays**</li>
 <li>Scope creep constant</li>
@@ -421,7 +407,7 @@
 <li>Excuses prevalent</li>
 
 </ul>
-<p>** Process Indicators:**</p>
+<p>**Process Indicators:**</p>
 <p>**| Issue | Severity |**</p>
 <p>|-------|----------|</p>
 <p>| No documented processes | Medium |</p>
@@ -430,7 +416,7 @@
 <p>| No retrospectives | Medium |</p>
 <p>| No improvement | Critical |</p>
 
-<p>** Communication Breakdown:**</p>
+<p>**Communication Breakdown:**</p>
 <ul>
 <li>**Silos forming**</li>
 <li>Information hoarding</li>
@@ -446,7 +432,7 @@
 <div class="arena-card">
 
 <h3>📚 Growth Stagnation Signs</h3>
-<p>** Learning Red Flags:**</p>
+<p>**Learning Red Flags:**</p>
 <ul>
 <li>**Same mistakes repeated**</li>
 <li>Feedback ignored</li>
@@ -455,7 +441,7 @@
 <li>Innovation ceased</li>
 
 </ul>
-<p>** Adaptation Problems:**</p>
+<p>**Adaptation Problems:**</p>
 <ul>
 <li>**Market changes ignored**</li>
 <li>Customer feedback dismissed</li>
@@ -473,7 +459,7 @@
 <div class="arena-card">
 
 <h3>🌍 Environmental Warning Signs</h3>
-<p>** Market Shifts:**</p>
+<p>**Market Shifts:**</p>
 <ul>
 <li>**Demand declining**</li>
 <li>Substitutes emerging</li>
@@ -482,7 +468,7 @@
 <li>Technology disrupting</li>
 
 </ul>
-<p>** Competitive Threats:**</p>
+<p>**Competitive Threats:**</p>
 <ul>
 <li>**Giants entering space**</li>
 <li>Competitors raising big</li>
@@ -491,7 +477,7 @@
 <li>Partnerships forming against</li>
 
 </ul>
-<p>** Ecosystem Changes:**</p>
+<p>**Ecosystem Changes:**</p>
 <ul>
 <li>**Platform policy shifts**</li>
 <li>API deprecations</li>
@@ -509,23 +495,18 @@
 <div class="arena-card">
 
 <h3>🔍 Red Flag Investigation</h3>
-<p>** Investigation Steps:**</p>
+<p>**Investigation Steps:**</p>
 <p>1. **Verify Flag**</p>
-   ```
 
-<p>** Questions to Ask:**</p>
+```
+Questions to Ask:
 
-<ul>
-<li>Is this real or perceived?</li>
-
-<li>What's the evidence?</li>
-
-<li>How severe is it?</li>
-
-<li>Is it isolated or pattern?</li>
-
-<li>What's the trajectory?</li>
-   ```
+- Is this real or perceived?
+- What's the evidence?
+- How severe is it?
+- Is it isolated or pattern?
+- What's the trajectory?
+```
 
 </ul>
 <p>2. **Assess Impact**</p>
@@ -610,24 +591,25 @@
 <div class="arena-card">
 
 <h3>📊 Predictive Patterns</h3>
-<p>** The Overconfidence Spiral:**</p>
+<p>**The Overconfidence Spiral:**</p>
+
 ```
-<p>Early Success → Overconfidence → Ignore Feedback →</p>
-<p>Bad Decisions → Problems Mount → Denial → Crisis → Failure</p>
+Early Success → Overconfidence → Ignore Feedback →
+Bad Decisions → Problems Mount → Denial → Crisis → Failure
 ```
 
+<p>**The Technical Debt Avalanche:**</p>
 
-
-<p>The Technical Debt Avalanche:**</p>
 ```
-<p>Rush to Market → Skip Best Practices → Accumulate Debt →</p>
-<p>Velocity Slows → More Shortcuts → System Fragility → Collapse</p>
+Rush to Market → Skip Best Practices → Accumulate Debt →
+Velocity Slows → More Shortcuts → System Fragility → Collapse
 ```
 
-<p>** The Team Disintegration:**</p>
+<p>**The Team Disintegration:**</p>
+
 ```
-<p>Communication Issues → Trust Erodes → Silos Form →</p>
-<p>Blame Culture → Key People Leave → Downward Spiral</p>
+Communication Issues → Trust Erodes → Silos Form →
+Blame Culture → Key People Leave → Downward Spiral
 ```
 
 </div>
@@ -641,31 +623,31 @@
 <h3>📝 Recording Concerns</h3>
 
 
-<p>Documentation Template:**</p>
+<p>**Documentation Template:**</p>
+
 ```markdown
+## Red Flag Report
+Date: [Date]
+Venture: [Name]
+Severity: [Critical/High/Medium/Low]
 
-<h2>Red Flag Report</h2>
-<p>Date: [Date]</p>
-<p>Venture: [Name]</p>
-<p>Severity: [Critical/High/Medium/Low]</p>
+### Issue Description
+[What was observed]
 
-<h3>Issue Description</h3>
-<p>[What was observed]</p>
+### Evidence
+[Specific examples]
 
-<h3>Evidence</h3>
-<p>[Specific examples]</p>
+### Impact Assessment
+[Current and potential impact]
 
-<h3>Impact Assessment</h3>
-<p>[Current and potential impact]</p>
+### Recommendation
+[Suggested response]
 
-<h3>Recommendation</h3>
-<p>[Suggested response]</p>
-
-<h3>Follow-up Plan</h3>
-<p>[Next steps and timeline]</p>
+### Follow-up Plan
+[Next steps and timeline]
 ```
 
-<p>** Tracking System:**</p>
+<p>**Tracking System:**</p>
 <ul>
 <li>**Central repository**</li>
 <li>Regular reviews</li>
@@ -683,7 +665,7 @@
 <div class="arena-card">
 
 <h3>🧠 Anchor Intuition</h3>
-<p>** Experience Building:**</p>
+<p>**Experience Building:**</p>
 <ul>
 <li>**Study failure cases**</li>
 <li>Pattern journaling</li>
@@ -692,7 +674,7 @@
 <li>Continuous learning</li>
 
 </ul>
-<p>** Intuition Signals:**</p>
+<p>**Intuition Signals:**</p>
 <ul>
 <li>**"Something feels off"**</li>
 <li>Energy shifts</li>
@@ -701,7 +683,7 @@
 <li>Team dynamics</li>
 
 </ul>
-<p>** Calibration:**</p>
+<p>**Calibration:**</p>
 <ul>
 <li>**Track hunches**</li>
 <li>Verify accuracy</li>
@@ -717,6 +699,7 @@
 ### Red Flag Mastery
 
 Continue developing with:
+
 1. [Best Practices](best-practices.md) - Prevention strategies
 2. [Dispute Resolution](dispute-resolution.md) - Handling disagreements
 3. [Crisis Management](crisis-management.md) - When flags become fires

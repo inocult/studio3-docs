@@ -776,6 +776,7 @@
 ### Advancing Your Career
 
 Continue growing with:
+
 1. [Compensation](compensation.md) - Maximize earnings
 2. [Reputation Management](reputation-management.md) - Build your brand
 3. [Anchor Council](anchor-council.md) - Ultimate achievement

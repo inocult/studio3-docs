@@ -759,6 +759,7 @@
 ### Advancing Your Governance Role
 
 Continue developing with:
+
 1. [Anchor Council](anchor-council.md) - Leadership positions
 2. [Anchor Progression](anchor-progression.md) - Career advancement
 3. [Compensation](compensation.md) - Governance rewards

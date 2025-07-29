@@ -769,6 +769,7 @@
 ### Achieving Excellence
 
 Continue your journey with:
+
 1. [Dispute Resolution](dispute-resolution.md) - Handling conflicts
 2. [Anchor Progression](anchor-progression.md) - Career advancement
 3. [Anchor Council](anchor-council.md) - Community leadership

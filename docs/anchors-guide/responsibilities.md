@@ -664,6 +664,7 @@
 ### Deepen Your Understanding
 
 Continue with:
+
 1. [Qualification Requirements](requirements.md) - How to qualify
 2. [Validation Framework](validation-framework.md) - The process
 3. [Quality Criteria](quality-criteria.md) - Standards to apply

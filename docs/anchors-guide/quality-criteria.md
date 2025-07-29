@@ -63,7 +63,9 @@
 <div class="arena-card">
 
 <h3>🧠 The Quality Mindset</h3>
-<p>**Core Principles:** 1. Context-Appropriate</p>
+<p>**Core Principles:**</p>
+
+<p>1. Context-Appropriate</p>
 <ul>
 <li>**Phase-specific expectations**</li>
 <li>Resource considerations</li>
@@ -104,36 +106,33 @@
 <div class="arena-card">
 
 <h3>💻 Software Excellence Standards</h3>
-<p>** Code Quality Metrics:**</p>
+<p>**Code Quality Metrics:**</p>
 ```python
 
-<p>**class CodeQualityStandards: def __init__(self, phase):**</p>
-<p>self.phase = phase</p>
-
-<p>**def get_standards(self):**</p>
-<p>base_standards = {</p>
-<p>"functionality": 0.95,  # 95% features working</p>
-<p>"test_coverage": 0.80,  # 80% code covered</p>
-<p>"documentation": 0.90,  # 90% documented</p>
-<p>"security": "no_critical",</p>
-<p>"performance": "meets_targets"</p>
-<p>}</p>
-
-<h1>Adjust by phase</h1>
-
-
-<p>if self.phase == "ignition":**</p>
-<p>base_standards["test_coverage"] = 0.60</p>
-
-<p>** elif self.phase == "spark":**</p>
-<p>base_standards["test_coverage"] = 0.40</p>
-
-<p>return base_standards</p>
+class CodeQualityStandards:
+    def __init__(self, phase):
+        self.phase = phase
+    
+    def get_standards(self):
+        base_standards = {
+            "functionality": 0.95, # 95% features working
+            "test_coverage": 0.80, # 80% code covered
+            "documentation": 0.90, # 90% documented
+            "security": "no_critical",
+            "performance": "meets_targets"
+        }
+        
+        # Adjust by phase
+        if self.phase == "ignition":
+            base_standards["test_coverage"] = 0.60
+        elif self.phase == "spark":
+            base_standards["test_coverage"] = 0.40
+            
+        return base_standards
 ```
 
 
-
-<p>Quality Indicators:**</p>
+<p>**Quality Indicators:**</p>
 <ul>
 <li>**Clean code principles followed**</li>
 <li>Consistent style/formatting</li>
@@ -160,7 +159,7 @@
 <p>| Performance | Meets SLA targets | 20% |</p>
 <p>| Reliability | 99.9% uptime capable | 15% |</p>
 
-<p>** Pattern Recognition:**</p>
+<p>**Pattern Recognition:**</p>
 <ul>
 <li>**Appropriate patterns used**</li>
 <li>Over-engineering avoided</li>
@@ -169,7 +168,7 @@
 <li>Innovation balanced</li>
 
 </ul>
-<p>** Red Flags:**</p>
+<p>**Red Flags:**</p>
 <ul>
 <li>**Monolithic when should be modular**</li>
 <li>Premature optimization</li>
@@ -191,31 +190,28 @@
 ```
 
 
+Spark/Forge:
+□ Basic authentication
+□ HTTPS enabled
+□ No obvious vulnerabilities
+□ Data protection considered
 
-<p>Spark/Forge:**</p>
-<p>□ Basic authentication</p>
-<p>□ HTTPS enabled</p>
-<p>□ No obvious vulnerabilities</p>
-<p>□ Data protection considered</p>
+Ignition/Drift:
+□ OWASP Top 10 addressed
+□ Security testing performed
+□ Access controls implemented
+□ Encryption in transit/rest
+□ Audit logging
 
-<p>** Ignition/Drift:**</p>
-<p>□ OWASP Top 10 addressed</p>
-<p>□ Security testing performed</p>
-<p>□ Access controls implemented</p>
-<p>□ Encryption in transit/rest</p>
-<p>□ Audit logging</p>
-
-
-
-<p>Orbit/Flare:**</p>
-<p>□ Security audit passed</p>
-<p>□ Penetration testing</p>
-<p>□ Compliance requirements</p>
-<p>□ Incident response plan</p>
-<p>□ Security monitoring</p>
+Orbit/Flare:
+□ Security audit passed
+□ Penetration testing
+□ Compliance requirements
+□ Incident response plan
+□ Security monitoring
 ```
 
-<p>** Common Vulnerabilities:**</p>
+<p>**Common Vulnerabilities:**</p>
 <ul>
 <li>**SQL injection**</li>
 <li>XSS attacks</li>
@@ -246,27 +242,27 @@
 <p>**Growth Phase (Ignition/Drift)**</p>
 ```
 
-<p>** Key Metrics:**</p>
+<p>**Key Metrics:**</p>
 <ul>
 <li>Customer interviews: 20+</li>
 <li>Pilot customers: 5+</li>
 <li>NPS score: 40+</li>
 <li>Retention: 60%+</li>
 <li>Feature requests align</li>
-```
+</ul>
 
 </ul>
 <p>**Scale Phase (Orbit/Flare)**</p>
 ```
 
-<p>** Success Indicators:**</p>
+<p>**Success Indicators:**</p>
 <ul>
-<li>CAC < LTV/3</li>
+<li>CAC &lt; LTV/3</li>
 <li>Monthly growth: 10%+</li>
 <li>Churn rate: <5%</li>
 <li>Market share growing</li>
 <li>Referral rate: 20%+</li>
-```
+</ul>
 
 </ul>
 </div>
@@ -314,21 +310,23 @@
 <h3>👥 Customer Success Standards</h3>
 <p>**Customer Metrics:**</p>
 
-<p>**Satisfaction Indicators```python**</p>
-<p>customer_quality_score = (</p>
-<p>nps_score * 0.3 +</p>
-<p>retention_rate * 0.3 +</p>
-<p>usage_frequency * 0.2 +</p>
-<p>feature_adoption * 0.2</p>
-<p>)</p>
+<p>**Satisfaction Indicators:**</p>
 
-<p>excellence_threshold = {</p>
-<p>"spark": 60,</p>
-<p>"ignition": 70,</p>
-<p>"drift": 75,</p>
-<p>"orbit": 80,</p>
-<p>"flare": 85</p>
-<p>}</p>
+```python
+customer_quality_score = (
+    nps_score * 0.3 +
+    retention_rate * 0.3 +
+    usage_frequency * 0.2 +
+    feature_adoption * 0.2
+)
+
+excellence_threshold = {
+    "spark": 60,
+    "ignition": 70,
+    "drift": 75,
+    "orbit": 80,
+    "flare": 85
+}
 ```
 
 <p>**Engagement Quality**</p>
@@ -369,7 +367,7 @@
 <p>| 4-Measured | Metrics-driven |</p>
 <p>| 5-Optimized | Continuous improvement |</p>
 
-<p>** Target by Phase:**</p>
+<p>**Target by Phase:**</p>
 <ul>
 <li>**Spark/Forge: Level 2**</li>
 <li>Ignition/Drift: Level 3</li>
@@ -395,14 +393,15 @@
 
 </ul>
 <p>**Cultural Health**</p>
-```
 
-<p>** Health Metrics:**</p>
-<p>□ Team NPS: >40</p>
-<p>□ Turnover: <10% annually</p>
-<p>□ Engagement: >75%</p>
-<p>□ Diversity: Improving</p>
-<p>□ Values: Lived daily</p>
+<p>**Health Metrics:**</p>
+
+```
+□ Team NPS: >40
+□ Turnover: <10% annually
+□ Engagement: >75%
+□ Diversity: Improving
+□ Values: Lived daily
 ```
 
 <p>**Communication Quality**</p>
@@ -443,14 +442,15 @@
 <li>Future options</li>
 
 </ul>
-<p>** Value Calculation:**</p>
+<p>**Value Calculation:**</p>
+
 ```
-<p>Total Value =</p>
-<p>Direct User Value +</p>
-<p>Ecosystem Value +</p>
-<p>Innovation Value +</p>
-<p>Future Option Value -</p>
-<p>Resource Consumption</p>
+Total Value =
+    Direct User Value +
+    Ecosystem Value +
+    Innovation Value +
+    Future Option Value -
+    Resource Consumption
 ```
 
 </div>
@@ -461,10 +461,6 @@
 
 <h3>💡 Innovation Standards</h3>
 
-<ul>
-<li>**Innovation Assessment:**</li>
-
-</ul>
 <p>**Innovation Types**</p>
 <p>1. **Incremental**</p>
 <ul>
@@ -476,7 +472,11 @@
 </ul>
 <p>3. **Transformational**</p>
 <ul>
-<li>Breakthrough**Quality Indicators</li>
+<li>Breakthrough</li>
+</ul>
+
+<p>**Quality Indicators:**</p>
+<ul>
 <li>**Novel approach demonstrated**</li>
 <li>Technical advancement</li>
 <li>Market creation potential</li>
@@ -484,7 +484,7 @@
 <li>Defensibility created</li>
 
 </ul>
-<p>** Phase Expectations:**</p>
+<p>**Phase Expectations:**</p>
 <ul>
 <li>**Early: Any innovation valued**</li>
 <li>Growth: Incremental minimum</li>
@@ -501,29 +501,29 @@
 <div class="arena-card">
 
 <h3>🛠️ Quality Evaluation Tools</h3>
-<p>** Multi-Criteria Framework:**</p>
+<p>**Multi-Criteria Framework:**</p>
 ```python
 
-<p>**def assess_overall_quality(venture, phase):**</p>
-<p>weights = get_phase_weights(phase)</p>
-
-<p>scores = {</p>
-<p>"technical": assess_technical_quality(),</p>
-<p>"business": assess_business_quality(),</p>
-<p>"process": assess_process_quality(),</p>
-<p>"outcome": assess_outcome_quality()</p>
-<p>}</p>
-
-<p>weighted_score = sum(</p>
-<p>scores[area] * weights[area]</p>
-<p>for area in scores</p>
-<p>)</p>
-
-<p>return {</p>
-<p>"score": weighted_score,</p>
-<p>"breakdown": scores,</p>
-<p>"recommendation": get_recommendation(weighted_score)</p>
-<p>}</p>
+def assess_overall_quality(venture, phase):
+    weights = get_phase_weights(phase)
+    
+    scores = {
+        "technical": assess_technical_quality(),
+        "business": assess_business_quality(),
+        "process": assess_process_quality(),
+        "outcome": assess_outcome_quality()
+    }
+    
+    weighted_score = sum(
+        scores[area] * weights[area]
+        for area in scores
+    )
+    
+    return {
+        "score": weighted_score,
+        "breakdown": scores,
+        "recommendation": get_recommendation(weighted_score)
+    }
 ```
 
 <p>**Scoring Rubric:**</p>
@@ -609,16 +609,19 @@
 
 </ul>
 <p>**Phase Progression**</p>
-```
 
-<p>** Quality Expectation Curve:**</p>
-<p>100%|      ___________</p>
-<p>|     /</p>
-<p>|    /</p>
-<p>|   /</p>
-<p>|  /</p>
-<p>0% |_/</p>
-<p>Spark → → → Ascension</p>
+<p>**Quality Expectation Curve:**</p>
+
+```
+Quality Expectation Curve:
+
+100%│ ___________
+    │ /
+    │ /
+    │ /
+    │ /
+ 0% │_/
+    Spark → → → Ascension
 ```
 
 </div>
@@ -630,7 +633,7 @@
 <h3>⚖️ Balanced Application</h3>
 
 
-<p>Consistent Elements:**</p>
+<p>**Consistent Elements:**</p>
 <ul>
 <li>**Core principles**</li>
 <li>Safety standards</li>
@@ -639,7 +642,7 @@
 <li>Documentation needs</li>
 
 </ul>
-<p>** Flexible Elements:**</p>
+<p>**Flexible Elements:**</p>
 <ul>
 <li>**Technical choices**</li>
 <li>Process methods</li>
@@ -648,7 +651,7 @@
 <li>Market approach</li>
 
 </ul>
-<p>** Decision Framework:**</p>
+<p>**Decision Framework:**</p>
 <p>1. Apply core standards</p>
 <p>2. Consider context</p>
 <p>3. Document adjustments</p>
@@ -675,7 +678,7 @@
 <li>Document patterns</li>
 
 </ul>
-<p>** For Ecosystem:**</p>
+<p>**For Ecosystem:**</p>
 <ul>
 <li>**Update standards regularly**</li>
 <li>Share best practices</li>
@@ -684,7 +687,7 @@
 <li>Measure impact</li>
 
 </ul>
-<p>** For Anchors:**</p>
+<p>**For Anchors:**</p>
 <ul>
 <li>**Calibration sessions**</li>
 <li>Peer reviews</li>
@@ -738,7 +741,7 @@
 <div class="arena-card">
 
 <h3>⚠️ Quality Pitfalls</h3>
-<p>** Technical Pitfalls:**</p>
+<p>**Technical Pitfalls:**</p>
 <ul>
 <li>**Shortcuts becoming permanent**</li>
 <li>Security as afterthought</li>
@@ -747,7 +750,7 @@
 <li>Scaling ignored</li>
 
 </ul>
-<p>** Business Pitfalls:**</p>
+<p>**Business Pitfalls:**</p>
 <ul>
 <li>**Vanity metrics focus**</li>
 <li>Customer voice ignored</li>
@@ -756,7 +759,7 @@
 <li>Vision drift</li>
 
 </ul>
-<p>** Process Pitfalls:**</p>
+<p>**Process Pitfalls:**</p>
 <ul>
 <li>**Communication breakdown**</li>
 <li>Team dysfunction</li>
@@ -772,6 +775,7 @@
 ### Quality Mastery
 
 Continue developing with:
+
 1. [Red Flags](red-flags.md) - Problem identification
 2. [Best Practices](best-practices.md) - Excellence patterns
 3. [Dispute Resolution](dispute-resolution.md) - Quality debates

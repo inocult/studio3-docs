@@ -18,7 +18,9 @@
 
 <h3>🧠 Thinking Like a Strategist</h3>
 
-<p>**Strategic vs Tactical Thinking:| Tactical | Strategic |**</p>
+<p>**Strategic vs Tactical Thinking:**</p>
+
+<p>| Tactical | Strategic |</p>
 <p>|----------|-----------|</p>
 <p>| How to build | What to build |</p>
 <p>| This week | Next year |</p>
@@ -26,7 +28,7 @@
 <p>| Execution | Direction |</p>
 <p>| Trees | Forest |</p>
 
-<p>** Strategic Questions:**</p>
+<p>**Strategic Questions:**</p>
 <ul>
 <li>**Where is the market going?**</li>
 <li>What's our unique advantage?</li>
@@ -35,7 +37,7 @@
 <li>When do we pivot/persist?</li>
 
 </ul>
-<p>** Strategic Perspective:**</p>
+<p>**Strategic Perspective:**</p>
 <ul>
 <li>**Industry dynamics**</li>
 <li>Competitive forces</li>
@@ -51,23 +53,21 @@
 <div class="arena-card">
 
 <h3>🔄 Understanding Interconnections</h3>
-<p>** Systems Elements:**</p>
+<p>**Systems Elements:**</p>
 ```mermaid
-<p>graph TD</p>
-<p>A[Market Forces] --> B[Venture Strategy]</p>
-<p>B --> C[Product Decisions]</p>
-<p>C --> D[Customer Response]</p>
-<p>D --> A</p>
-<p>B --> E[Team Capabilities]</p>
-<p>E --> C</p>
-<p>F[Competition] --> A</p>
-<p>G[Technology] --> B</p>
-<p>H[Regulation] --> A</p>
+graph TD
+    A[Market Forces] --> B[Venture Strategy]
+    B --> C[Product Decisions]
+    C --> D[Customer Response]
+    D --> A
+    B --> E[Team Capabilities]
+    E --> C
+    F[Competition] --> A
+    G[Technology] --> B
+    H[Regulation] --> A
 ```
 
-
-
-<p>Systems Analysis:**</p>
+<p>**Systems Analysis:**</p>
 <p>1. **Identify Components**</p>
 
 <ul>
@@ -118,7 +118,7 @@
 <p>**TAM/SAM/SOM Analysis:**</p>
 <p>This framework visualizes market opportunity as nested layers, starting with the Total Addressable Market at the broadest level, narrowing down to your Serviceable Addressable Market (what you can realistically reach), then to your Serviceable Obtainable Market (what you can capture), and finally focusing on your initial target market of the first 100 customers. Each layer represents a more focused and achievable segment of the overall opportunity.</p>
 
-<p>** Market Dynamics:**</p>
+<p>**Market Dynamics:**</p>
 <ul>
 <li>**Growth rate**</li>
 <li>Maturity stage</li>
@@ -127,7 +127,7 @@
 <li>Technology shifts</li>
 
 </ul>
-<p>** Strategic Questions:**</p>
+<p>**Strategic Questions:**</p>
 <p>1. Is the market growing or shrinking?</p>
 <p>2. What forces drive change?</p>
 <p>3. Where is opportunity greatest?</p>
@@ -141,7 +141,9 @@
 <div class="arena-card">
 
 <h3>⚔️ Winning in the Market</h3>
-<p>**Porter's Five Forces Applied:** 1. Competitive Rivalry</p>
+<p>**Porter's Five Forces Applied:**</p>
+
+<p>1. Competitive Rivalry</p>
 <ul>
 <li>**Current competitors**</li>
 <li>Intensity factors</li>
@@ -193,9 +195,7 @@
 <p>**Value Proposition Canvas:**</p>
 <p>This strategic tool maps three key connections: First, it links what customers are trying to accomplish (their jobs) to your products and services. Second, it connects customer pain points to your specific pain relievers. Third, it aligns what customers hope to gain with your gain creators. This ensures your offering directly addresses real customer needs.</p>
 
-
-
-<p>Differentiation Strategies:**</p>
+<p>**Differentiation Strategies:**</p>
 <p>1. **Cost Leadership**</p>
 
 <ul>
@@ -267,7 +267,7 @@
 <li>Hardware + software</li>
 
 </ul>
-<p>** Strategic Considerations:**</p>
+<p>**Strategic Considerations:**</p>
 <ul>
 <li>**Customer lifetime value**</li>
 <li>Acquisition costs</li>
@@ -283,12 +283,10 @@
 <div class="arena-card">
 
 <h3>📈 Building Profitable Growth</h3>
-<p>** Unit Economic Framework:**</p>
+<p>**Unit Economic Framework:**</p>
 <p>The fundamental business health metrics show that Lifetime Value (LTV) equals your Average Revenue Per User times Gross Margin times how long customers stay. Customer Acquisition Cost (CAC) is calculated by dividing total marketing and sales spend by new customers acquired. Healthy ventures typically target an LTV to CAC ratio greater than 3:1, meaning each customer generates at least three times what it costs to acquire them, with payback periods under 12 months for sustainable growth.</p>
 
-
-
-<p>Optimization Strategies:**</p>
+<p><strong>Optimization Strategies:</strong></p>
 <p>1. **Increase LTV**</p>
 
 <ul>
@@ -383,7 +381,7 @@
 <p>| Partnerships | Low | High | Low | Varies |</p>
 <p>| Community | Low | Medium | High | Engaged |</p>
 
-<p>** Channel Strategy Questions:**</p>
+<p>**Channel Strategy Questions:**</p>
 <p>1. Where are our customers?</p>
 <p>2. What channels scale?</p>
 <p>3. How do channels interact?</p>
@@ -425,7 +423,7 @@
 <li>Future options</li>
 
 </ul>
-<p>** Innovation Process:**</p>
+<p>**Innovation Process:**</p>
 <p>1. Continuous scanning</p>
 <p>2. Rapid experimentation</p>
 <p>3. Fail fast learning</p>
@@ -442,21 +440,21 @@
 <p>**Technology Choices:**</p>
 
 <p>**Build vs Buy vs Partner Decision Framework:**</p>
-<p>** Build When:**</p>
+<p>**Build When:**</p>
 <ul>
 <li>Core differentiator</li>
 <li>No good solutions</li>
 <li>Control critical</li>
 <li>IP valuable</li>
 </ul>
-<p>** Buy When:**</p>
+<p>**Buy When:**</p>
 <ul>
 <li>Commodity function</li>
 <li>Time critical</li>
 <li>Cost effective</li>
 <li>Support available</li>
 </ul>
-<p>** Partner When:**</p>
+<p>**Partner When:**</p>
 <ul>
 <li>Complementary skills</li>
 <li>Market access</li>
@@ -464,10 +462,8 @@
 <li>Speed needed</li>
 </ul>
 
-
-
 </ul>
-<p>Technical Debt Management:**</p>
+<p><strong>Technical Debt Management:</strong></p>
 <ul>
 <li>**Strategic debt (conscious)**</li>
 <li>Accidental debt (fix)</li>
@@ -510,7 +506,7 @@
 <li>Culture programs</li>
 
 </ul>
-<p>** Strategic Considerations:**</p>
+<p>**Strategic Considerations:**</p>
 <ul>
 <li>**Communication paths**</li>
 <li>Decision velocity</li>
@@ -525,7 +521,7 @@
 <div class="arena-card">
 
 <h3>🌟 Winning the Talent War</h3>
-<p>** Talent Acquisition:**</p>
+<p>**Talent Acquisition:**</p>
 <ul>
 <li>**Employer brand**</li>
 <li>Sourcing strategy</li>
@@ -533,7 +529,7 @@
 <li>Onboarding excellence</li>
 
 </ul>
-<p>** Talent Development:**</p>
+<p>**Talent Development:**</p>
 <ul>
 <li>**Skill mapping**</li>
 <li>Growth paths</li>
@@ -541,7 +537,7 @@
 <li>Leadership pipeline</li>
 
 </ul>
-<p>** Talent Retention:**</p>
+<p>**Talent Retention:**</p>
 <ul>
 <li>**Compensation philosophy**</li>
 <li>Equity strategy</li>
@@ -549,7 +545,7 @@
 <li>Career development</li>
 
 </ul>
-<p>** Strategic Questions:**</p>
+<p>**Strategic Questions:**</p>
 <p>1. What talent do we need when?</p>
 <p>2. Build, buy, or borrow?</p>
 <p>3. How to compete for talent?</p>
@@ -599,7 +595,7 @@
 <li>Strategic partners</li>
 
 </ul>
-<p>** Strategic Framework:**</p>
+<p>**Strategic Framework:**</p>
 <p>1. How much do we need?</p>
 <p>2. What will we achieve?</p>
 <p>3. What are we trading?</p>
@@ -647,7 +643,7 @@
 <li>Ecosystem value</li>
 
 </ul>
-<p>** Exit Preparation:**</p>
+<p>**Exit Preparation:**</p>
 <ul>
 <li>**Clean financials**</li>
 <li>Scalable operations</li>
@@ -691,7 +687,7 @@
 <li>Geopolitical factors</li>
 
 </ul>
-<p>** Risk Mitigation:**</p>
+<p>**Risk Mitigation:**</p>
 <p>1. Identify systematically</p>
 <p>2. Assess probability/impact</p>
 <p>3. Develop contingencies</p>
@@ -727,7 +723,7 @@
 <li>Success metrics</li>
 
 </ul>
-<p>** Stakeholder Alignment:**</p>
+<p>**Stakeholder Alignment:**</p>
 <ul>
 <li>**Vision consistency**</li>
 <li>Strategy understanding</li>
@@ -745,15 +741,16 @@
 <div class="arena-card">
 
 <h3>🛠️ Strategic Toolbox</h3>
-<p>** Essential Frameworks:**</p>
+<p>**Essential Frameworks:**</p>
 <p>1. **SWOT Analysis**</p>
-<p>: 2. Value Chain Analysis</p>
+<p>2. **Value Chain Analysis**</p>
 <p>3. **BCG Matrix**</p>
-<p>: 4. Ansoff Matrix</p>
+<p>4. **Ansoff Matrix**</p>
 <p>5. **Blue Ocean Strategy**</p>
-<p>: 6. Jobs-to-be-Done</p>
+<p>6. **Jobs-to-be-Done**</p>
 <p>7. **OKR Planning**</p>
-<p>When to Use Each:**</p>
+
+<p>**When to Use Each:**</p>
 
 <ul>
 <li>**SWOT: Initial assessment**</li>
@@ -772,6 +769,7 @@
 ### Advanced Strategic Topics
 
 Continue developing with:
+
 1. [Crisis Management](crisis-management.md) - Strategic crisis response
 2. [Ecosystem Governance](ecosystem-governance.md) - Platform strategy
 3. [Anchor Progression](anchor-progression.md) - Career strategy

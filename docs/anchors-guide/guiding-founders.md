@@ -772,9 +772,7 @@
 <p>4. Celebrate small wins</p>
 <p>5. Stay objective</p>
 
-
-
-<p>Weekly Rituals:**</p>
+<p>**Weekly Rituals:**</p>
 <ul>
 <li>**Scheduled calls**</li>
 <li>Progress reviews</li>
@@ -799,6 +797,7 @@
 ### Enhance Your Skills
 
 Continue developing with:
+
 1. [Strategic Advice](strategic-advice.md) - Advanced guidance
 2. [Crisis Management](crisis-management.md) - Emergency support
 3. [Dispute Resolution](dispute-resolution.md) - Conflict handling
