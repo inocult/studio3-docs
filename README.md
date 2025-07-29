@@ -66,13 +66,16 @@ The documentation is organized into four main guides:
 - **Static Site Generator**: [MkDocs](https://www.mkdocs.org/)
 - **Theme**: [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - **Hosting**: GitHub Pages
-- **PDF Generation**: mkdocs-pdf-export plugin
+- **PDF Generation**: WeasyPrint with custom styling
+- **Markdown Linting**: Custom ultra-strict linter
+- **Code Formatting**: Prettier
 
 ## 🚀 Local Development
 
 ### Prerequisites
 - Python 3.8+
-- pip (Python package manager)
+- Node.js 18+
+- Make (build automation)
 - Git
 
 ### Installation
@@ -83,43 +86,62 @@ git clone https://github.com/inocult/studio3-docs.git
 cd studio3-docs
 ```
 
-2. Create a virtual environment:
+2. Install all dependencies:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+make install
 ```
 
-3. Install dependencies:
+This will:
+- Create a Python virtual environment
+- Install Python dependencies
+- Install Node.js dependencies
+
+### Available Commands
+
+Run `make help` to see all available commands:
+
 ```bash
-pip install -r requirements.txt
+make help         # Show all available commands
+make serve        # Start local development server
+make build        # Build documentation with PDFs
+make lint         # Run markdown linter
+make format       # Format markdown files
+make pdfs         # Generate PDF guides only
+make clean        # Clean build artifacts
+make validate     # Run all validation checks
 ```
 
 ### Running Locally
 
 Start the development server:
 ```bash
-mkdocs serve
+make serve
 ```
 
 Visit `http://localhost:8000` to see the documentation.
 
 ### Building the Site
 
-Build static files:
+Build documentation with PDFs:
 ```bash
-mkdocs build
+make build
 ```
 
 The built site will be in the `site/` directory.
 
 ## 📄 PDF Generation
 
-Generate PDF versions of the guides:
+PDF guides are automatically generated during the build process. To generate PDFs only:
 ```bash
-ENABLE_PDF_EXPORT=1 mkdocs build
+make pdfs
 ```
 
-PDFs will be available in `site/pdf/`.
+PDFs will be available in `docs/pdf/`:
+- `studio3-overview-guide.pdf` - Complete ecosystem overview
+- `studio3-senders-guide.pdf` - Founder handbook
+- `studio3-echoes-guide.pdf` - Supporter strategies
+- `studio3-anchors-guide.pdf` - Validator framework
+- `studio3-quickstart-guide.pdf` - Getting started guide
 
 ## 🚀 Deployment
 
