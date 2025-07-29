@@ -13,9 +13,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 
 <h3>🏛️ Studio3 Platform</h3>
 
-<p><strong>Main Website</strong>: [studio</p>
-<p>3. xyz](https://studio</p>
-<p>3. xyz)</p>
+<p><strong>Main Website</strong>: <a href="https://studio3.xyz">studio3.xyz</a></p>
 
 <ul>
 <li><strong>Launch Arenas</strong></li>
@@ -24,9 +22,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <li>View analytics</li>
 
 </ul>
-<p><strong>Platform Status</strong>: [status.studio</p>
-<p>3. xyz](https://status.studio</p>
-<p>3. xyz)</p>
+<p><strong>Platform Status</strong>: <a href="https://status.studio3.xyz">status.studio3.xyz</a></p>
 
 <ul>
 <li><strong>System health</strong></li>
@@ -47,9 +43,7 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <li>Events</li>
 
 </ul>
-<p><strong>Forum:</strong>: [forum.studio</p>
-<p>3. xyz](https://forum.studio</p>
-<p>3. xyz)</p>
+<p><strong>Forum</strong>: <a href="https://forum.studio3.xyz">forum.studio3.xyz</a></p>
 
 <ul>
 <li><strong>Deep discussions</strong></li>
@@ -134,8 +128,6 @@ This comprehensive resource guide provides links, tools, templates, and support 
 <div class="arena-card">
 
 <h4>🔍 Arena Explorer</h4>
-
-
 
 <p>Browse and filter:</p>
 <ul>

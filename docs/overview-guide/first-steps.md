@@ -512,24 +512,28 @@ Ready to dive into Studio3? This guide provides a practical roadmap for your fir
 ## Your Action Plan
 
 ### Right Now
+
 1. Complete platform setup
 2. Join community channels
 3. Introduce yourself
 4. Start this checklist
 
 ### Today
+
 1. Read your role guide
 2. Connect with 3 people
 3. Observe 5 ventures
 4. Take notes
 
 ### This Week
+
 1. Complete orientation
 2. Make first move
 3. Build routine
 4. Track progress
 
 ### This Month
+
 1. Achieve role milestone
 2. Build reputation
 3. Form relationships

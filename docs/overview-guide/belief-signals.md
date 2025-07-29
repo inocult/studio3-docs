@@ -304,16 +304,17 @@ graph LR
 
 ### Key Metrics to Track
 
-```python
-# Your Signal Performance
-Total Signals Placed: 127
-Successful Signals: 89 (70.1%)
-Total Staked: 45,000 $SIGNAL
-Total Earned: 67,500 $SIGNAL
-Net Profit: 22,500 $SIGNAL (50%)
-Average Multiplier: 1.83x
-Best Signal: 2.7x on DataMesh Phase 3
-Worst Loss: 5,000 $SIGNAL on QuickPay
+```text
+Your Signal Performance Summary:
+
+• Total Signals Placed: 127 signals across various ventures
+• Success Rate: 89 successful predictions out of 127 (70.1% accuracy)
+• Total Investment: 45,000 $SIGNAL tokens staked on milestones
+• Total Earnings: 67,500 $SIGNAL tokens earned from correct predictions
+• Net Profit: 22,500 $SIGNAL tokens profit (50% return on investment)
+• Average Return Multiple: 1.83x on successful signals
+• Best Performance: 2.7x multiplier earned on DataMesh's Phase 3 milestone
+• Largest Loss: 5,000 $SIGNAL tokens lost on QuickPay milestone failure
 ```
 
 ## Performance Improvement

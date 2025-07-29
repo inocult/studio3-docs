@@ -93,10 +93,10 @@ graph TD
     A -->|Provide Resources| S
     S -->|Deliver Results| A
     
-    style S fill:#FFE4B5
-    style E fill:#98D8C8
-    style An fill:#9370DB
-    style A fill:#F0F0F0
+    style S fill: #FFE4B5
+    style E fill: #98D8C8
+    style An fill: #9370DB
+    style A fill: #F0F0F0
 ```
 
 ### Interdependencies
@@ -273,23 +273,23 @@ graph TD
 
 ### Echo Earnings
 
-```python
-# Echo Return Calculation
-def calculate_echo_returns(signal):
-    base_multiplier = 1.5 if signal.type == 'belief' else 1.2
-    
-    # Timing bonus
-    early_bonus = 0.1 * signal.days_early
-    
-    # Contrarian bonus
-    contrarian_bonus = 0.3 if signal.against_majority else 0
-    
-    # Reputation bonus
-    rep_bonus = 0.01 * (echo.xp / 1000)
-    
-    total_multiplier = base_multiplier + early_bonus + contrarian_bonus + rep_bonus
-    
-    return signal.stake * min(total_multiplier, 3.0)
+```text
+Echo Return Calculation:
+
+How your signal returns are calculated:
+
+• Base Multiplier:
+  - Belief signals: 1.5x base return if correct
+  - Doubt signals: 1.2x base return if correct
+
+• Bonus Multipliers:
+  - Early Signal Bonus: +0.1x for each day you signal early
+  - Contrarian Bonus: +0.3x if you signal against the majority and are right
+  - Reputation Bonus: +0.01x for every 1,000 XP points you have
+
+• Maximum Return: Total multiplier is capped at 3.0x
+• Final Payout: Your stake amount × total multiplier (if correct)
+• Wrong Prediction: You lose your entire stake (0x return)
 ```
 
 ## Anchors (Validators) Deep Dive
@@ -405,6 +405,7 @@ sequenceDiagram
 !!! warning "When Roles Clash"
     
     Common Conflicts:
+    
 - **Sender overpromises, Echo loses tokens**
 - Echo signals doubt, Sender feels attacked
 
@@ -465,26 +466,24 @@ sequenceDiagram
 
 ### Current Distribution
 
-```python
-# Studio3 Role Distribution (2024)
-total_participants = 12847
+```text
+Studio3 Role Distribution (2024):
 
-roles = {
-    'senders': 892, # 7% - Fewer builders
-    'echoes': 10423, # 81% - Most are supporters 
-    'anchors': 156, # 1% - Elite validators
-    'multi_role': 1376 # 11% - Wear multiple hats
-}
+Total Participants: 12,847
 
-# Success Rates by Role
-success_metrics = {
-    'sender_graduation_rate': 0.34, # 34% reach Ascension
-    'echo_profit_rate': 0.67, # 67% profitable overall
-    'anchor_accuracy_rate': 0.89 # 89% validation accuracy
-}
+Role Breakdown:
+• Senders (Founders): 892 participants (7%) - Fewer builders
+• Echoes (Supporters): 10,423 participants (81%) - Most are supporters
+• Anchors (Validators): 156 participants (1%) - Elite validators
+• Multi-Role Users: 1,376 participants (11%) - Wear multiple hats
+
+Success Rates by Role:
+• Sender Graduation Rate: 34% of ventures reach Ascension phase
+• Echo Profit Rate: 67% of Echoes are profitable overall
+• Anchor Accuracy Rate: 89% validation accuracy score
 ```
 
-### Role Performance
+## Role Performance
 
 | Metric | Senders | Echoes | Anchors |
 |--------|---------|--------|----------|

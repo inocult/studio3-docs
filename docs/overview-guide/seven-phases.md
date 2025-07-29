@@ -321,13 +321,14 @@ graph LR
 
 ### Growth Metrics
 
-```python
-# Flare Phase Targets
-monthly_growth_rate = 25% # Minimum
-team_size = 20-50 # Typical range
-market_share = 5% # In target segment
-customer_acquisition_cost = < LTV/3
-gross_margins = > 70% # For software
+```text
+Flare Phase Target Metrics:
+
+• Monthly Growth Rate: Minimum 25% month-over-month growth
+• Team Size: Typically between 20-50 employees
+• Market Share: Target 5% share in your specific segment
+• Customer Acquisition Cost: Should be less than 1/3 of customer lifetime value
+• Gross Margins: Target above 70% for software ventures
 ```
 
 ## Phase 7: Ascension 🎖️

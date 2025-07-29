@@ -26,7 +26,7 @@ class UltraMarkdownLinter:
             
             # Missing space after colon (excluding URLs, times, emoji, bold text ending with colon, and HTML)
             if re.search(r':[^\s\n\/]', line):
-                if not re.search(r'https?:|mailto:|file:|ftp:|[0-9]{1,2}:[0-9]{2}|:\w+:|::|\):|\]:|\}:|^\*\*[^*]+:\*\*$|\*\*[^*]+:\*\*\s|<[^>]*>.*</[^>]*>', line):
+                if not re.search(r'https?:|mailto:|file:|ftp:|[0-9]{1,2}:[0-9]{2}|:\w+:|::|\):|\]:|\}:|\*\*[^*]+:\*\*|<[^>]*>.*</[^>]*>', line):
                     # Also exclude HTML tags with attributes containing colons
                     if not re.search(r'<[^>]+:[^>]*>', line):
                         errors.append((i + 1, "Missing space after colon", line))
@@ -110,9 +110,11 @@ class UltraMarkdownLinter:
                 errors.append((i + 1, "Unclosed bold marker", line))
             
             # Only check for truly problematic bold spacing (multiple spaces)
-            if re.search(r'\*\*\s{2,}[^*]', line):  # Multiple spaces after opening
+            # Exclude leading whitespace from the check
+            stripped_line = line.lstrip()
+            if re.search(r'\*\*\s{2,}[^*]', stripped_line):  # Multiple spaces after opening
                 errors.append((i + 1, "Multiple spaces after opening bold marker", line))
-            if re.search(r'[^*]\s{2,}\*\*', line):  # Multiple spaces before closing
+            if re.search(r'[^*\s]\s{2,}\*\*', stripped_line):  # Multiple spaces before closing (not at line start)
                 errors.append((i + 1, "Multiple spaces before closing bold marker", line))
             
             # Pattern: **Something: without closing
@@ -178,9 +180,17 @@ class UltraMarkdownLinter:
                 
             # Special patterns in lists
             if is_list_item:
-                # Pattern: - **text** : content (should split)
-                if re.search(r'^[-*]\s+\*\*[^*]+\*\*\s*:\s*\w', line):
-                    errors.append((i + 1, "List with bold and colon should split content to next line", line))
+                # Pattern: - **text** : content (should split) - but only for long content
+                # Allow short content like email addresses, URLs, and social handles to stay on same line
+                match = re.search(r'^[-*]\s+\*\*[^*]+\*\*\s*:\s*(.+)$', line)
+                if match:
+                    content = match.group(1)
+                    # Don't flag if it's an email, URL, social handle, or simple reference
+                    if '@' in content or 'http' in content or content.startswith('[') or len(content) < 80:
+                        continue
+                    # Only flag as error if content is long (more than 80 chars) or contains many words
+                    if len(content) > 80 or len(content.split()) > 10:
+                        errors.append((i + 1, "List with bold and colon should split content to next line", line))
                     
         return errors
     
@@ -328,7 +338,14 @@ class UltraMarkdownLinter:
                 
         # Check header hierarchy
         prev_level = 0
+        in_code_block = False
         for i, line in enumerate(lines):
+            # Track code blocks
+            if '```' in line:
+                in_code_block = not in_code_block
+            # Skip headers in code blocks
+            if in_code_block:
+                continue
             if line.strip().startswith('#'):
                 level = len(line.strip().split()[0])
                 if prev_level > 0 and level > prev_level + 1:

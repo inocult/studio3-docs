@@ -433,14 +433,14 @@ graph TD
 
 ### Tracking Performance
 
-```python
-# Milestone Success Metrics
-class MilestoneMetrics:
-    completion_rate = 0.75 # 75% success rate
-    average_duration = 21 # days
-    signal_accuracy = 0.68 # 68% correct predictions
-    extension_rate = 0.15 # 15% request extensions
-    dispute_rate = 0.05 # 5% contested results
+```text
+Milestone Success Metrics Overview:
+
+• Completion Rate: 75% of milestones are successfully completed
+• Average Duration: Milestones typically take 21 days to complete
+• Signal Accuracy: 68% of community predictions are correct
+• Extension Rate: 15% of milestones request timeline extensions
+• Dispute Rate: Only 5% of milestone results are contested
 ```
 
 ### Improvement Areas

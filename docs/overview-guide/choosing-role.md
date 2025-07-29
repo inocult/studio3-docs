@@ -365,6 +365,7 @@ Once you've chosen your role:
 ## Role Resources
 
 ### Sender Resources
+
 - [Senders Guide](../senders-guide/index.md)
 - Complete founder handbook
 - Founder community channels
@@ -372,6 +373,7 @@ Once you've chosen your role:
 - Venture templates
 
 ### Echo Resources
+
 - [Echoes Guide](../echoes-guide/index.md)
 - Signal strategy guide
 - Analysis tools and dashboards
@@ -379,6 +381,7 @@ Once you've chosen your role:
 - Portfolio trackers
 
 ### Anchor Resources
+
 - [Anchors Guide](../anchors-guide/index.md)
 - Validation framework
 - Anchor Council access

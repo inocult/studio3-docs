@@ -121,19 +121,18 @@ graph TD
 5. **Enter Arena**
 - Use Spark to launch venture
 
-```json
-{
-  "name": "DeFi Health Records Spark",
-  "description": "Combining blockchain medical records with DeFi lending",
-  "remixed_ips": [
-    "ipfs://QmX..." // Medical records patent
-    "ipfs://QmY..." // DeFi protocol framework
-  ],
-  "synthesis": "Enable medical history-based credit scoring",
-  "creator": "0x742d35Cc6634C0532925a3b844Bc9e7595f7E123",
-  "timestamp": "2024-03-15T10:30:00Z",
-  "spark_id": "SPARK-2024-0342"
-}
+```text
+Example Spark NFT Information:
+
+• Name: DeFi Health Records Spark
+• Description: Combining blockchain medical records with DeFi lending
+• Remixed IPs: 
+  - Medical records patent (stored on IPFS)
+  - DeFi protocol framework (stored on IPFS)
+• Synthesis Concept: Enable medical history-based credit scoring
+• Creator: Wallet address of the person who minted this Spark
+• Creation Date: March 15, 2024 at 10:30 AM
+• Unique Spark ID: SPARK-2024-0342
 ```
 
 ### Spark Value Factors
@@ -199,30 +198,33 @@ graph TD
 
 ### Signal NFT Metadata Structure
 
-```json
-{
-  "name": "MediLend Protocol Signal",
-  "phase": "Orbit",
-  "stats": {
-    "milestones_completed": 8,
-    "milestones_failed": 1,
-    "total_signals_received": 45000000,
-    "belief_ratio": 0.73,
-    "supporter_count": 1847,
-    "days_active": 234
-  },
-  "visual_traits": {
-    "base_color": "#4A90E2",
-    "glow_intensity": 0.8,
-    "pattern_complexity": 7,
-    "special_effects": ["phase_transition", "milestone_sparkle"]
-  },
-  "achievements": [
-    "First Pivot Success",
-    "Community Choice Award",
-    "Anchor Excellence"
-  ]
-}
+```text
+Example Signal NFT Data:
+
+Venture Identity:
+• Name: MediLend Protocol Signal
+• Current Phase: Orbit (stable operations phase)
+
+Performance Statistics:
+• Milestones Completed: 8 successful milestones
+• Milestones Failed: 1 failed milestone
+• Total Signals Received: 45 million $SIGNAL tokens
+• Belief Ratio: 73% of signals are positive (belief)
+• Supporter Count: 1,847 active community members
+• Days Active: 234 days since venture launch
+
+Visual Appearance:
+• Base Color: Bright blue (#4A90E2)
+• Glow Intensity: 80% brightness level
+• Pattern Complexity: Level 7 (highly detailed)
+• Special Effects: 
+  - Phase transition animation
+  - Milestone sparkle effect
+
+Achievements Unlocked:
+• First Pivot Success - Successfully changed direction
+• Community Choice Award - Voted favorite by supporters
+• Anchor Excellence - Top validation scores
 ```
 
 ### Signal NFT Utility
@@ -365,24 +367,22 @@ graph LR
 
 ### Smart Contract Architecture
 
-```solidity
-// Simplified NFT Contract Interfaces
-interface ISparkNFT {
-    function mintFromIPs(address[] memory ipNFTs) external returns (uint256);
-    function getRemixHistory(uint256 tokenId) external view returns (address[] memory);
-}
+```text
+NFT Smart Contract Functions:
 
-interface ISignalNFT {
-    function updateMilestone(uint256 tokenId, bool success) external;
-    function addSignals(uint256 tokenId, uint256 signals) external;
-    function getVentureStats(uint256 tokenId) external view returns (VentureStats memory);
-}
+Spark NFT Capabilities:
+• Mint from IPs: Create new Spark NFTs by combining existing IP-NFTs
+• Get Remix History: View which IP-NFTs were combined to create this Spark
 
-interface IHaloNFT {
-    function lock(uint256 tokenId, address genesisWallet) external;
-    function unlock(uint256 tokenId) external;
-    function isSovereign(uint256 tokenId) external view returns (bool);
-}
+Signal NFT Capabilities:
+• Update Milestone: Record when milestones succeed or fail
+• Add Signals: Track the total belief/doubt signals received
+• Get Venture Stats: Retrieve complete performance data for the venture
+
+Halo NFT Capabilities:
+• Lock: Secure the Halo NFT in the Genesis Wallet during the journey
+• Unlock: Release the Halo NFT when sovereignty is achieved
+• Check Sovereignty: Verify if the venture has achieved full independence
 ```
 
 ### Metadata Standards

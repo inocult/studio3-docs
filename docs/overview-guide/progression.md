@@ -304,28 +304,26 @@ flowchart LR
 
 ### Phase Health Scoring
 
-```python
-def calculate_phase_health(venture):
-    """
-    Score 0-100 indicating readiness for progression
-    """
-    scores = {
-        'milestones': milestone_completion_rate * 40,
-        'community': belief_ratio * 30,
-        'operations': team_efficiency * 20,
-        'growth': growth_metrics * 10
-    }
-    
-    total_score = sum(scores.values())
-    
-    # Apply phase-specific modifiers
-    if venture.phase == 'Drift' and has_pivoted:
-        total_score *= 0.9 # Pivot penalty
-    
-    if venture.phase == 'Orbit' and consistent_delivery:
-        total_score *= 1.1 # Consistency bonus
-    
-    return min(total_score, 100)
+```text
+Phase Health Score Calculation:
+
+The system calculates a venture's readiness for progression on a 0-100 scale:
+
+Score Components:
+• Milestone Completion: 40% of total score
+  - Based on successful milestone completion rate
+• Community Support: 30% of total score  
+  - Measured by belief vs doubt signal ratio
+• Operational Excellence: 20% of total score
+  - Team efficiency and process maturity
+• Growth Metrics: 10% of total score
+  - Revenue, users, or other KPI growth
+
+Special Modifiers:
+• Drift Phase Pivot: -10% penalty if venture has pivoted
+• Orbit Phase Consistency: +10% bonus for consistent delivery
+• Final Score: Capped at maximum 100 points
+• Minimum Required: 70 points to progress to next phase
 ```
 
 ## Special Circumstances
