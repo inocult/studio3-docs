@@ -95,8 +95,7 @@
 
 <h3>👥 Know Your Critics</h3>
 
-
-<p>Doubter Profiles:**</p>
+<p><strong>Doubter Profiles:</strong></p>
 <p>**| Type | Motivation | Value | Response |**</p>
 <p>|------|-----------|-------|----------|</p>
 <p>| **Constructive Critics** | Help improve | High | Engage deeply |</p>
@@ -274,17 +273,25 @@
 <div class="arena-card">
 
 <h3>🔄 From Skeptic to Supporter</h3>
-<p>**Conversion Strategy:** Step 1: Acknowledge**"You raised concerns about [X]. You were right."</p>
 
-<p>**Step 2: Show Action**"Based on your feedback, we [specific changes]."</p>
+<p><strong>Conversion Strategy:</strong></p>
 
-<p>**Step 3: Demonstrate Results**"This led to [measurable improvement]."</p>
+<p><strong>Step 1: Acknowledge</strong><br>
+"You raised concerns about [X]. You were right."</p>
 
-<p>**Step 4: Give Credit**"Thanks to doubters like you, we're stronger."</p>
+<p><strong>Step 2: Show Action</strong><br>
+"Based on your feedback, we [specific changes]."</p>
 
-<p>**Step 5: Invite Collaboration**"What else should we improve?"</p>
+<p><strong>Step 3: Demonstrate Results</strong><br>
+"This led to [measurable improvement]."</p>
 
-<p>** Success Stories:**</p>
+<p><strong>Step 4: Give Credit</strong><br>
+"Thanks to doubters like you, we're stronger."</p>
+
+<p><strong>Step 5: Invite Collaboration</strong><br>
+"What else should we improve?"</p>
+
+<p><strong>Success Stories:</strong></p>
 
 <div style="border: 1px solid #ccc; padding: 15px; margin: 10px 0;">
 <h3>Doubter-to-Advocate Examples</h3>
@@ -473,9 +480,7 @@
 <p>We need your continued feedback as we evolve.</p>
 </div>
 
-
-
-<p>Pivot Best Practices:**</p>
+<p><strong>Pivot Best Practices:</strong></p>
 <ul>
 <li>**Frame as evolution**</li>
 <li>Credit doubters</li>
@@ -702,8 +707,7 @@
 
 <h3>📖 Institutional Memory</h3>
 
-
-<p>Learning System:**</p>
+<p><strong>Learning System:</strong></p>
 <p>1. **Document Everything**</p>
 
 <ul>
@@ -759,6 +763,7 @@
 ### Beyond Doubt Management
 
 Ready to accelerate? Continue to:
+
 1. [Building Momentum](building-momentum.md) - Creating unstoppable progress
 2. [Drift Navigation](drift-navigation.md) - Finding your market fit
 3. [Achieving Orbit](achieving-orbit.md) - Reaching stability

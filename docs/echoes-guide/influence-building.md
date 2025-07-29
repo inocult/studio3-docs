@@ -20,9 +20,7 @@
 
 <p>**Influence Components:**</p>
 
-```
-<p>Influence = (Expertise × Visibility × Trust × Impact) ^ Time</p>
-```
+<p>Your influence grows exponentially when you combine expertise, visibility, trust, and impact over time. Each component multiplies the others - deep expertise with no visibility has limited influence, while high visibility without expertise creates empty popularity. Build all four consistently over time for lasting influence.</p>
 
 
 

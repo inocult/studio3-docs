@@ -97,20 +97,18 @@
 
 <h3>💻 Technical Deep Dive</h3>
 <p>** Code Analysis:**</p>
-```bash
-
-
-
-<p>GitHub Repository Check:**</p>
-<p>□ Commits: ___ (Target: 100+)</p>
-<p>□ Contributors: ___ (Target: 3+)</p>
-<p>□ Stars: ___ (Quality indicator)</p>
-<p>□ Issues: ___/___ (Open/Closed)</p>
-<p>□ Last Update: ___ (Within 7 days)</p>
-<p>□ Documentation: Complete/Partial/None</p>
-<p>□ Tests: ___% coverage</p>
-<p>□ Security: Audited/Pending/None</p>
-```
+<p><strong>GitHub Repository Check:</strong></p>
+<p>When analyzing a venture's code repository, examine these key metrics:</p>
+<ul>
+<li><strong>Commits:</strong> Look for 100+ commits showing consistent development</li>
+<li><strong>Contributors:</strong> Target 3+ active developers for redundancy</li>
+<li><strong>Stars:</strong> Higher star counts indicate community interest</li>
+<li><strong>Issues:</strong> Check the ratio of open to closed issues</li>
+<li><strong>Last Update:</strong> Should be within 7 days for active projects</li>
+<li><strong>Documentation:</strong> Assess if docs are complete, partial, or missing</li>
+<li><strong>Test Coverage:</strong> Look for comprehensive testing practices</li>
+<li><strong>Security:</strong> Check if code has been audited or is pending audit</li>
+</ul>
 
 <p>** Architecture Review:**</p>
 <ul>
@@ -138,15 +136,9 @@
 
 <h3>📊 Market Deep Dive</h3>
 <p>** TAM Calculation:**</p>
-```
-<p>Total Addressable Market (TAM)</p>
-<p>= Target Users × Revenue per User × Market Penetration</p>
-
-
-
-<p>Example:**</p>
-<p>1M potential users × $100/year × 10% penetration = $10M TAM</p>
-```
+<p>Calculate the Total Addressable Market using this formula:</p>
+<p><strong>TAM = Target Users × Revenue per User × Market Penetration</strong></p>
+<p><strong>Example:</strong> For a venture targeting 1 million potential users, charging $100 per year, with an estimated 10% market penetration, the TAM would be $10 million (1M × $100 × 10%).</p>
 
 <p>** Competitive Matrix:**</p>
 <p>**| Competitor | Strengths | Weaknesses | Market Share | Differentiation |**</p>
@@ -173,35 +165,35 @@
 
 <h3>👥 Background Verification</h3>
 <p>** Founder Research Template:**</p>
-```
-<p>Name: _______________</p>
-<p>Role: _______________</p>
+<p>Use this comprehensive checklist to investigate each team member:</p>
 
+<p><strong>Basic Information:</strong></p>
+<ul>
+<li>Full name and role in the venture</li>
+<li>LinkedIn profile verification</li>
+<li>Professional background and previous companies</li>
+<li>Track record of successes and failures</li>
+<li>Years of relevant experience</li>
+<li>Domain expertise in the venture's field</li>
+</ul>
 
+<p><strong>Crypto/Web3 Experience:</strong></p>
+<ul>
+<li>Years of on-chain activity history</li>
+<li>Previous crypto projects and outcomes</li>
+<li>Community reputation and references</li>
+<li>GitHub activity and code contributions</li>
+<li>Thought leadership (articles, talks, podcasts)</li>
+</ul>
 
-<p>Professional:**</p>
-<p>□ LinkedIn verified</p>
-<p>□ Previous companies: ___</p>
-<p>□ Success/failure rate: ___</p>
-<p>□ Years experience: ___</p>
-<p>□ Domain expertise: Y/N</p>
-
-<p>** Crypto/Web3:**</p>
-<p>□ On-chain history: ___ years</p>
-<p>□ Previous projects: ___</p>
-<p>□ Community reputation: ___</p>
-<p>□ GitHub activity: ___</p>
-<p>□ Thought leadership: ___</p>
-
-
-
-<p>Red Flags:**</p>
-<p>□ Employment gaps</p>
-<p>□ Failed ventures (context?)</p>
-<p>□ Legal issues</p>
-<p>□ Reputation problems</p>
-<p>□ Conflicting information</p>
-```
+<p><strong>Red Flag Indicators:</strong></p>
+<ul>
+<li>Unexplained employment gaps</li>
+<li>Pattern of failed ventures (consider context)</li>
+<li>Any legal or regulatory issues</li>
+<li>Negative reputation or community warnings</li>
+<li>Conflicting or inconsistent information</li>
+</ul>
 
 <p>** Reference Checking:**</p>
 <ul>
@@ -220,30 +212,26 @@
 
 <h3>💵 Financial Modeling</h3>
 <p>** Revenue Projection Model:**</p>
-```
+<p>Create financial projections using this framework:</p>
 
-
-
-<p>Year 1:**</p>
+<p><strong>Year 1 Projections:</strong></p>
 <ul>
-<li>Users: 1,000</li>
-<li>Revenue/User: $50</li>
-<li>Total: $50,000</li>
-<li>Costs: $200,000</li>
-<li>Burn: -$150,000</li>
-
+<li><strong>User Base:</strong> Start with realistic numbers (e.g., 1,000 users)</li>
+<li><strong>Revenue per User:</strong> Average transaction value (e.g., $50)</li>
+<li><strong>Total Revenue:</strong> Multiply users by revenue per user</li>
+<li><strong>Operating Costs:</strong> Include all expenses</li>
+<li><strong>Net Burn:</strong> Calculate the funding needed</li>
 </ul>
-<p>** Year 2:**</p>
+
+<p><strong>Year 2 Projections:</strong></p>
 <ul>
-<li>Users: 10,000 (10x)</li>
-<li>Revenue/User: $75</li>
-<li>Total: $750,000</li>
-<li>Costs: $500,000</li>
-<li>Profit: $250,000</li>
-
+<li><strong>User Growth:</strong> Project realistic growth (e.g., 10x to 10,000 users)</li>
+<li><strong>Revenue Expansion:</strong> Account for pricing power or upsells</li>
+<li><strong>Scale Economics:</strong> Model improving unit economics</li>
+<li><strong>Profitability Timeline:</strong> Identify break-even month</li>
 </ul>
-<p>Break-even: Month 18</p>
-```
+
+<p>In this example, the venture would break even around month 18, transitioning from burning $150,000 in year 1 to generating $250,000 profit in year 2.</p>
 
 
 
@@ -363,49 +351,42 @@
 
 <h3>📄 Professional DD Report</h3>
 
-```markdown
-<h1>Due Diligence Report: [Venture Name]</h1>
-<p>Date: ___________</p>
-<p>Analyst: ___________</p>
+<p><strong>Professional DD Report Template:</strong></p>
 
-<h2>Executive Summary</h2>
+<p>Structure your due diligence findings using this comprehensive format:</p>
+
+<p><strong>1. Executive Summary</strong></p>
 <ul>
-<li>Recommendation: Belief/Doubt/Pass</li>
-<li>Confidence Level: ___%</li>
-<li>Suggested Stake: ___ $SIGNAL</li>
-<li>Key Risks: ___________</li>
-
-<h2>Detailed Analysis</h2>
-
-<h3>1. Team Assessment</h3>
+<li>Clear recommendation: Belief, Doubt, or Pass</li>
+<li>Confidence level percentage</li>
+<li>Suggested stake size in $SIGNAL tokens</li>
+<li>Top 3-5 key risks identified</li>
 </ul>
-<p>[Findings]</p>
 
-<h3>2. Technical Evaluation</h3>
-<p>[Findings]</p>
-
-<h3>3. Market Analysis</h3>
-<p>[Findings]</p>
-
-<h3>4. Financial Projections</h3>
-<p>[Findings]</p>
-
-<h3>5. Risk Assessment</h3>
-<p>[Findings]</p>
-
-<h3>6. Competition Analysis</h3>
-<p>[Findings]</p>
-
-<h2>Conclusion</h2>
-<p>[Final thoughts and recommendation]</p>
-
-<h2>Appendices</h2>
+<p><strong>2. Detailed Analysis Sections</strong></p>
 <ul>
-<li>Source links</li>
-<li>Screenshots</li>
-<li>Data tables</li>
-<li>References</li>
-```
+<li><strong>Team Assessment:</strong> Background checks, experience, track record</li>
+<li><strong>Technical Evaluation:</strong> Code quality, architecture, innovation</li>
+<li><strong>Market Analysis:</strong> TAM, competition, timing, differentiation</li>
+<li><strong>Financial Projections:</strong> Revenue model, unit economics, runway</li>
+<li><strong>Risk Assessment:</strong> Technical, market, regulatory, execution risks</li>
+<li><strong>Competition Analysis:</strong> Competitive advantages and threats</li>
+</ul>
+
+<p><strong>3. Conclusion</strong></p>
+<ul>
+<li>Summary of findings</li>
+<li>Final recommendation with rationale</li>
+<li>Suggested position sizing and timing</li>
+</ul>
+
+<p><strong>4. Supporting Documentation</strong></p>
+<ul>
+<li>Links to all sources used</li>
+<li>Screenshots of key evidence</li>
+<li>Data tables and calculations</li>
+<li>References and citations</li>
+</ul>
 
 </ul>
 </div>

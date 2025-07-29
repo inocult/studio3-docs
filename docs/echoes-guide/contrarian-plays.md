@@ -53,16 +53,11 @@
 
 <h3>📊 The Numbers Game</h3>
 <p>** Probability Analysis:**</p>
-```
-
-
-
 <p>If 90% signal belief:**</p>
 <ul>
 <li>Crowd success rate: ~60%</li>
 <li>Your success rate needed: >40%</li>
 <li>Expected value positive at 2.5x+</li>
-```
 
 </ul>
 <p>** Risk/Reward Calculation:**</p>
@@ -353,11 +348,9 @@
 
 </ul>
 <p>** Kelly Criterion Adjusted:**</p>
-```
 <p>Contrarian Size = Standard Kelly × 0.5</p>
 
 <p>Why? Higher uncertainty, binary outcomes</p>
-```
 
 
 
@@ -501,16 +494,14 @@
 
 <h3>🛠️ Contrarian Toolkit</h3>
 <p>** Sentiment Analysis:**</p>
-```python
-<p>Contrarian Score = (</p>
-<p>(Sentiment Extreme - 50) × 2 +</p>
-<p>Information Edge Score +</p>
-<p>Catalyst Probability -</p>
-<p>Risk Factor</p>
-<p>)</p>
-
-<p>Score > 20 = Strong contrarian opportunity</p>
-```
+<p>Calculate your Contrarian Score:</p>
+<ul>
+<li>Start with how extreme the sentiment is (subtract 50 from the belief percentage, then multiply by 2)</li>
+<li>Add your information edge score (0-10 based on your unique knowledge)</li>
+<li>Add the catalyst probability (0-10 for likelihood of a sentiment-changing event)</li>
+<li>Subtract the risk factor (0-10 based on potential downside)</li>
+</ul>
+<p>If your total score exceeds 20, you have a strong contrarian opportunity.</p>
 
 
 
@@ -564,12 +555,13 @@
 
 <h3>⚖️ Portfolio Allocation</h3>
 <p>** Recommended Mix:**</p>
-```
-<p>Core Strategy: 70%</p>
-<p>Momentum: 15%</p>
-<p>Contrarian: 10%</p>
-<p>Experimental: 5%</p>
-```
+<p>Structure your portfolio allocation:</p>
+<ul>
+<li><strong>Core Strategy: 70%</strong> - Your bread-and-butter signals based on solid analysis</li>
+<li><strong>Momentum: 15%</strong> - Following strong trends and market movements</li>
+<li><strong>Contrarian: 10%</strong> - Against-the-grain plays with high potential</li>
+<li><strong>Experimental: 5%</strong> - Testing new strategies and approaches</li>
+</ul>
 
 
 

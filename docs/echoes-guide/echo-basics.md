@@ -319,11 +319,13 @@ Echoes are participants who:
 
 ### Token Flow
 
-```
-Your Stake → Venture Pool → Milestone Outcome → Rewards/Burns
-     ↓              ↓                ↓                ↓
-  At Risk      Funds Work      Validated      You Win/Lose
-```
+The lifecycle of your $SIGNAL tokens follows this path:
+1. **Your Stake:** You commit tokens to signal belief or doubt
+2. **Venture Pool:** Your tokens join others in the milestone pool
+3. **Milestone Outcome:** The venture either succeeds or fails
+4. **Rewards/Burns:** Success multiplies your stake, failure burns it
+
+At each stage, your tokens are at risk but working toward potential rewards based on the venture's execution.
 
 ## Success Factors
 

@@ -180,12 +180,13 @@
 
 <h3>🚀 Step-by-Step Execution</h3>
 <p>**Step 1: Final Decision**</p>
-```
-<p>Research Score: _/10</p>
-<p>Risk Level: Low/Medium/High</p>
-<p>Signal Type: Belief/Doubt</p>
-<p>Confidence: _%</p>
-```
+<p>Before placing your signal, evaluate these factors:</p>
+<ul>
+<li><strong>Research Score:</strong> Rate your due diligence from 1-10</li>
+<li><strong>Risk Level:</strong> Assess as Low, Medium, or High</li>
+<li><strong>Signal Type:</strong> Choose Belief or Doubt</li>
+<li><strong>Confidence Level:</strong> Your conviction percentage</li>
+</ul>
 
 <p>**Step 2: Size Your Stake**</p>
 <ul>
@@ -450,17 +451,18 @@
 
 <h3>📊 Performance Tracking</h3>
 <p>** Signal Log Template:**</p>
-```
-<p>Date: ___________</p>
-<p>Venture: ___________</p>
-<p>Phase: ___________</p>
-<p>Signal Type: Belief/Doubt</p>
-<p>Amount: ___ $SIGNAL</p>
-<p>Reasoning: ___________</p>
-<p>Result: Success/Failure</p>
-<p>Return: ___x</p>
-<p>Lessons: ___________</p>
-```
+<p>Track each signal with this comprehensive template:</p>
+<ul>
+<li><strong>Date:</strong> When you placed the signal</li>
+<li><strong>Venture:</strong> Name of the project</li>
+<li><strong>Phase:</strong> Current phase of the venture</li>
+<li><strong>Signal Type:</strong> Belief or Doubt</li>
+<li><strong>Amount:</strong> How many $SIGNAL tokens staked</li>
+<li><strong>Reasoning:</strong> Why you made this decision</li>
+<li><strong>Result:</strong> Success or Failure outcome</li>
+<li><strong>Return:</strong> Multiplier achieved</li>
+<li><strong>Lessons:</strong> What you learned from this signal</li>
+</ul>
 
 
 

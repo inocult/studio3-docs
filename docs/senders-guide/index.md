@@ -82,10 +82,10 @@ This guide is specifically designed for founders (Senders) who want to build ven
 ## 🎯 Who Should Read This Guide?
 
 - **🚀 Entrepreneurs** ready to build in public
-- **👥 Founding Teams**  preparing to launch
-- **🔄 Serial Builders**  exploring Studio3
-- **💡 Innovators**  with breakthrough ideas
-- **🏆 Ambitious Founders**  seeking sovereignty**
+- **👥 Founding Teams** preparing to launch
+- **🔄 Serial Builders** exploring Studio3
+- **💡 Innovators** with breakthrough ideas
+- **🏆 Ambitious Founders** seeking sovereignty
 
 ## 📄 Download Options
 

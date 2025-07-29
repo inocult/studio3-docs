@@ -56,18 +56,7 @@
 
 <h3>📈 Risk-Return Optimization</h3>
 <p>** Portfolio Efficiency Curve:**</p>
-```
-<p>Return</p>
-<p>^</p>
-<p>4x|     * (High Risk)</p>
-<p>|   *</p>
-<p>3x| *     * (Optimal)</p>
-<p>|   *</p>
-<p>2x|     * (Balanced)</p>
-<p>| *</p>
-<p>1x|___*____________> Risk</p>
-<p>0%  25%  50%  75%</p>
-```
+<p>The efficient frontier shows the relationship between risk and return. As risk increases from 0% to 75%, potential returns rise from 1x to 4x, but with diminishing efficiency. The optimal portfolio typically sits at moderate risk (25-50%) where you get the best return per unit of risk taken - often achieving 2-3x returns without excessive volatility.</p>
 
 <p>**Optimal Portfolio:**</p>
 
@@ -122,37 +111,37 @@
 <h3>🌐 Multi-Factor Diversification</h3>
 <p>** Diversification Dimensions:**</p>
 <p>1. **Phase Distribution**</p>
-   ```
-<p>Spark/Forge: 15%</p>
-<p>Ignition: 25%</p>
-<p>Drift: 30%</p>
-<p>Orbit/Later: 30%</p>
-   ```
+   <ul>
+   <li><strong>Spark/Forge (15%):</strong> High-risk early phases</li>
+   <li><strong>Ignition (25%):</strong> Building phase opportunities</li>
+   <li><strong>Drift (30%):</strong> Market validation plays</li>
+   <li><strong>Orbit/Later (30%):</strong> Stable mature ventures</li>
+   </ul>
 
 <p>2. **Sector Allocation**</p>
-   ```
-<p>DeFi: 25%</p>
-<p>Gaming: 20%</p>
-<p>Infrastructure: 20%</p>
-<p>B2B SaaS: 20%</p>
-<p>Other: 15%</p>
-   ```
+   <ul>
+   <li><strong>DeFi (25%):</strong> Decentralized finance protocols</li>
+   <li><strong>Gaming (20%):</strong> Gaming and entertainment</li>
+   <li><strong>Infrastructure (20%):</strong> Core tech solutions</li>
+   <li><strong>B2B SaaS (20%):</strong> Business software</li>
+   <li><strong>Other (15%):</strong> Emerging categories</li>
+   </ul>
 
 <p>3. **Signal Type Mix**</p>
-   ```
-<p>Strong Belief: 50%</p>
-<p>Moderate Belief: 25%</p>
-<p>Strategic Doubt: 20%</p>
-<p>Hedged Positions: 5%</p>
-   ```
+   <ul>
+   <li><strong>Strong Belief (50%):</strong> High conviction positive signals</li>
+   <li><strong>Moderate Belief (25%):</strong> Good opportunities with some risk</li>
+   <li><strong>Strategic Doubt (20%):</strong> Calculated negative positions</li>
+   <li><strong>Hedged Positions (5%):</strong> Risk mitigation plays</li>
+   </ul>
 
 <p>4. **Time Diversification**</p>
-   ```
-<p>0-30 days: 40%</p>
-<p>31-60 days: 35%</p>
-<p>61-90 days: 20%</p>
-<p>90+ days: 5%</p>
-   ```
+   <ul>
+   <li><strong>0-30 days (40%):</strong> Near-term outcomes</li>
+   <li><strong>31-60 days (35%):</strong> Medium-term plays</li>
+   <li><strong>61-90 days (20%):</strong> Longer horizons</li>
+   <li><strong>90+ days (5%):</strong> Extended timeframes</li>
+   </ul>
 
 </div>
 
@@ -164,17 +153,16 @@
 
 <h3>📏 Scientific Position Sizing</h3>
 <p>** Kelly Criterion (Modified):**</p>
-```
-<p>Position Size = (p × b - q) / b × 0.25</p>
+<p>Calculate optimal position sizes using this formula:</p>
+<p><strong>Position Size = (p × b - q) / b × 0.25</strong></p>
 
-
-
-<p>Where:**</p>
-<p>p = probability of success</p>
-<p>b = odds (multiplier - 1)</p>
-<p>q = probability of failure</p>
-<p>0. 25 = safety factor</p>
-```
+<p>Where:</p>
+<ul>
+<li><strong>p</strong> = Your estimated probability of success</li>
+<li><strong>b</strong> = Net odds (multiplier minus 1)</li>
+<li><strong>q</strong> = Probability of failure (1 minus p)</li>
+<li><strong>0.25</strong> = Conservative safety factor to reduce volatility</li>
+</ul>
 
 <p>** Practical Limits:**</p>
 <ul>
@@ -236,12 +224,13 @@
 
 <h3>🚀 Aggressive Growth Model</h3>
 <p>** Allocation:**</p>
-```
-<p>Early Phase: 40%</p>
-<p>High Conviction: 30%</p>
-<p>Momentum Plays: 20%</p>
-<p>Contrarian: 10%</p>
-```
+<p>Structure an aggressive growth portfolio with:</p>
+<ul>
+<li><strong>Early Phase (40%):</strong> Maximum multiplier opportunities</li>
+<li><strong>High Conviction (30%):</strong> Your strongest belief signals</li>
+<li><strong>Momentum Plays (20%):</strong> Ventures showing acceleration</li>
+<li><strong>Contrarian (10%):</strong> Against-the-grain positions</li>
+</ul>
 
 
 
@@ -270,13 +259,14 @@
 
 <h3>⚖️ Steady Growth Model</h3>
 <p>** Allocation:**</p>
-```
-<p>Core Quality: 40%</p>
-<p>Growth Ventures: 25%</p>
-<p>Income Plays: 20%</p>
-<p>Defensive Doubt: 10%</p>
-<p>Experimental: 5%</p>
-```
+<p>Build a balanced portfolio with:</p>
+<ul>
+<li><strong>Core Quality (40%):</strong> Proven teams and models</li>
+<li><strong>Growth Ventures (25%):</strong> Scaling opportunities</li>
+<li><strong>Income Plays (20%):</strong> Steady return generators</li>
+<li><strong>Defensive Doubt (10%):</strong> Hedging positions</li>
+<li><strong>Experimental (5%):</strong> Learning and lottery tickets</li>
+</ul>
 
 
 
@@ -305,12 +295,13 @@
 
 <h3>🛡️ Capital Preservation Model</h3>
 <p>** Allocation:**</p>
-```
-<p>Late Phase: 50%</p>
-<p>Proven Teams: 30%</p>
-<p>Small Positions: 15%</p>
-<p>Strategic Doubt: 5%</p>
-```
+<p>Construct a conservative portfolio with:</p>
+<ul>
+<li><strong>Late Phase (50%):</strong> Mature, stable ventures</li>
+<li><strong>Proven Teams (30%):</strong> Track record of success</li>
+<li><strong>Small Positions (15%):</strong> Limited risk exposure</li>
+<li><strong>Strategic Doubt (5%):</strong> Minimal contrarian plays</li>
+</ul>
 
 
 
@@ -421,16 +412,17 @@
 
 <h3>📈 Key Performance Indicators</h3>
 <p>** Core Metrics:**</p>
-```
-<p>Total Return: ___%</p>
-<p>Win Rate: ___%</p>
-<p>Average Win: ___x</p>
-<p>Average Loss: -100%</p>
-<p>Profit Factor: ___</p>
-<p>Sharpe Ratio: ___</p>
-<p>Max Drawdown: ___%</p>
-<p>Recovery Time: ___ days</p>
-```
+<p>Track these essential performance indicators:</p>
+<ul>
+<li><strong>Total Return:</strong> Your overall portfolio performance percentage</li>
+<li><strong>Win Rate:</strong> Percentage of successful signals</li>
+<li><strong>Average Win:</strong> Mean multiplier on winning signals</li>
+<li><strong>Average Loss:</strong> Always -100% (total loss on failed signals)</li>
+<li><strong>Profit Factor:</strong> Total gains divided by total losses</li>
+<li><strong>Sharpe Ratio:</strong> Risk-adjusted return measurement</li>
+<li><strong>Max Drawdown:</strong> Largest peak-to-trough decline</li>
+<li><strong>Recovery Time:</strong> Days to recover from drawdowns</li>
+</ul>
 
 
 
@@ -482,12 +474,13 @@
 
 </ul>
 <p>** Monthly Attribution:**</p>
-```
-<p>Selection: +___%</p>
-<p>Timing: +___%</p>
-<p>Sizing: +___%</p>
-<p>Total: ___%</p>
-```
+<p>Break down your returns by source:</p>
+<ul>
+<li><strong>Selection Effect:</strong> Returns from choosing the right ventures</li>
+<li><strong>Timing Effect:</strong> Returns from optimal entry points</li>
+<li><strong>Sizing Effect:</strong> Returns from proper position sizing</li>
+<li><strong>Total Return:</strong> Combined effect of all factors</li>
+</ul>
 
 </div>
 
@@ -501,13 +494,15 @@
 
 
 <p>Correlation Matrix:**</p>
-```
-<p>DeFi  Game  B2B   AI</p>
-<p>DeFi    1.0   0.3   0.2   0.4</p>
-<p>Game    0.3   1.0   0.1   0.2</p>
-<p>B2B     0.2   0.1   1.0   0.3</p>
-<p>AI      0.4   0.2   0.3   1.0</p>
-```
+<p>Understanding sector correlations helps diversify effectively. Here's how different sectors typically correlate (1.0 = perfect correlation, 0 = no correlation):</p>
+<ul>
+<li><strong>DeFi with Gaming:</strong> 0.3 (low correlation - good for diversification)</li>
+<li><strong>DeFi with B2B:</strong> 0.2 (very low correlation)</li>
+<li><strong>DeFi with AI:</strong> 0.4 (moderate correlation)</li>
+<li><strong>Gaming with B2B:</strong> 0.1 (minimal correlation)</li>
+<li><strong>B2B with AI:</strong> 0.3 (low correlation)</li>
+</ul>
+<p>Aim to combine sectors with correlations below 0.5 for optimal diversification.</p>
 
 <p>** Low Correlation Pairs:**</p>
 <ul>
@@ -575,10 +570,19 @@
 
 <h3>📊 Portfolio Tracker Template</h3>
 <p>** Essential Columns:**</p>
-```
-<p>Date | Venture | Phase | Type | Amount | Status |</p>
-<p>Current Value | Return | Weight | Notes</p>
-```
+<p>Your portfolio tracker should include these key data points:</p>
+<ul>
+<li><strong>Date:</strong> When you made the signal</li>
+<li><strong>Venture:</strong> Name of the project</li>
+<li><strong>Phase:</strong> Which lifecycle phase (Spark, Forge, etc.)</li>
+<li><strong>Type:</strong> Belief or Doubt signal</li>
+<li><strong>Amount:</strong> $SIGNAL tokens staked</li>
+<li><strong>Status:</strong> Active, Won, or Lost</li>
+<li><strong>Current Value:</strong> Present worth of position</li>
+<li><strong>Return:</strong> Percentage gain/loss</li>
+<li><strong>Weight:</strong> Position size as % of portfolio</li>
+<li><strong>Notes:</strong> Your analysis and lessons learned</li>
+</ul>
 
 
 

@@ -114,13 +114,15 @@
 <p>**Before Validation Begins:**</p>
 
 <p>1. **Milestone Review**</p>
-   ```text
-<p>□ Original declaration</p>
-<p>□ Success criteria</p>
-<p>□ Timeline committed</p>
-<p>□ Scope boundaries</p>
-<p>□ Context understanding</p>
-   ```
+
+<p>Review these key elements:</p>
+<ul>
+<li>Original declaration</li>
+<li>Success criteria</li>
+<li>Timeline committed</li>
+<li>Scope boundaries</li>
+<li>Context understanding</li>
+</ul>
 
 <p>2. **Venture Background**</p>
 <ul>
@@ -197,14 +199,14 @@
 
 <p>**Step 1: Completeness Check**</p>
 
-```text
-<p>Evidence Checklist:</p>
-<p>□ All deliverables present</p>
-<p>□ Success criteria addressed</p>
-<p>□ Quality standards met</p>
-<p>□ Documentation complete</p>
-<p>□ Timeline adherence</p>
-```
+<p><strong>Evidence Checklist:</strong></p>
+<ul>
+<li>All deliverables present</li>
+<li>Success criteria addressed</li>
+<li>Quality standards met</li>
+<li>Documentation complete</li>
+<li>Timeline adherence</li>
+</ul>
 
 <p>**Step 2: Quality Evaluation**</p>
 
@@ -308,42 +310,33 @@
 
 <p>**Technical Quality:**</p>
 
-```text
-<p>Code Quality Metrics:</p>
+<p><strong>Code Quality Metrics:</strong></p>
 <ul>
-<li>Test coverage: >80%</li>
+<li>Test coverage: Greater than 80%</li>
 <li>Documentation: Complete</li>
 <li>Security: No critical issues</li>
 <li>Performance: Meets targets</li>
 <li>Scalability: Demonstrated</li>
-```
-
 </ul>
 <p>**Business Quality:**</p>
 
-```text
-<p>Business Metrics:</p>
+<p><strong>Business Metrics:</strong></p>
 <ul>
-<li>User satisfaction: >4/5</li>
+<li>User satisfaction: Greater than 4/5</li>
 <li>Growth rate: On target</li>
 <li>Unit economics: Positive trend</li>
 <li>Market position: Defensible</li>
 <li>Team health: Strong</li>
-```
-
 </ul>
 <p>**Process Quality:**</p>
 
-```text
-<p>Execution Metrics:</p>
+<p><strong>Execution Metrics:</strong></p>
 <ul>
-<li>On-time delivery: 90%+</li>
-<li>Scope completion: 95%+</li>
-<li>Budget adherence: ±10%</li>
+<li>On-time delivery: 90% or higher</li>
+<li>Scope completion: 95% or higher</li>
+<li>Budget adherence: Within 10% variance</li>
 <li>Communication: Excellent</li>
 <li>Adaptation: Effective</li>
-```
-
 </ul>
 </div>
 
@@ -389,12 +382,12 @@
 </ul>
 <p>**Decision Matrix:**</p>
 
-```text
-<p>Score 90-100%: Clear PASS</p>
-<p>Score 80-89%: PASS or Conditional</p>
-<p>Score 70-79%: Conditional or FAIL</p>
-<p>Score <70%: Clear FAIL</p>
-```
+<ul>
+<li><strong>Score 90-100%:</strong> Clear PASS</li>
+<li><strong>Score 80-89%:</strong> PASS or Conditional</li>
+<li><strong>Score 70-79%:</strong> Conditional or FAIL</li>
+<li><strong>Score below 70%:</strong> Clear FAIL</li>
+</ul>
 
 </div>
 
@@ -458,64 +451,77 @@
 
 <p>**Standard Report Template:**</p>
 
-```markdown
-<h1>Validation Report</h1>
+<p><strong>Validation Report Structure:</strong></p>
 
-<h2>Summary</h2>
-
+<p><strong>1. Summary Section</strong></p>
 <ul>
-<li>**Venture**: [Name]</li>
-<li>**Milestone**: [Description]</li>
-<li>**Phase**: [Current Phase]</li>
-<li>**Decision**: [PASS/CONDITIONAL/FAIL]</li>
-<li>**Date**: [Validation Date]</li>
-<li>**Anchor**: [Your Name]</li>
-
-<h2>Evidence Review</h2>
-<h3>Submitted Evidence</h3>
-<li>[List all evidence items]</li>
-<li>[Include access links]</li>
-
-<h3>Evidence Assessment</h3>
-<li>[Quality evaluation]</li>
-<li>[Completeness check]</li>
-<li>[Verification results]</li>
-
-<h2>Criteria Application</h2>
-<h3>Success Criteria</h3>
+<li>Venture name</li>
+<li>Milestone description</li>
+<li>Current phase</li>
+<li>Decision (PASS/CONDITIONAL/FAIL)</li>
+<li>Validation date</li>
+<li>Anchor name</li>
 </ul>
-<p>1. [Criterion 1]: [Met/Not Met] - [Details]</p>
-<p>2. [Criterion 2]: [Met/Not Met] - [Details]</p>
-<p>3. [Criterion 3]: [Met/Not Met] - [Details]</p>
 
-<h3>Quality Standards</h3>
+<p><strong>2. Evidence Review</strong></p>
+
+<p><em>Submitted Evidence:</em></p>
 <ul>
-<li>Technical: [Score]/10 - [Comments]</li>
-<li>Business: [Score]/10 - [Comments]</li>
-<li>Process: [Score]/10 - [Comments]</li>
-
-<h2>Decision Rationale</h2>
+<li>List all evidence items</li>
+<li>Include access links</li>
 </ul>
-<p>[Detailed explanation of decision]</p>
-<p>[Objective reasoning]</p>
-<p>[Standard application]</p>
 
-<h2>Recommendations</h2>
-<h3>Immediate Actions</h3>
+<p><em>Evidence Assessment:</em></p>
 <ul>
-<li>[Action items if conditional]</li>
-<li>[Timeline for completion]</li>
+<li>Quality evaluation</li>
+<li>Completeness check</li>
+<li>Verification results</li>
+</ul>
 
-<h3>Future Guidance</h3>
-<li>[Strategic suggestions]</li>
-<li>[Quality improvements]</li>
-<li>[Risk mitigation]</li>
+<p><strong>3. Criteria Application</strong></p>
 
-<h2>Appendices</h2>
-<li>[Supporting documents]</li>
-<li>[Test results]</li>
-<li>[Additional notes]</li>
-```
+<p><em>Success Criteria:</em></p>
+<ol>
+<li>For each criterion: State if Met/Not Met with details</li>
+<li>Provide specific evidence references</li>
+<li>Include quantitative measurements where applicable</li>
+</ol>
+
+<p><em>Quality Standards:</em></p>
+<ul>
+<li>Technical: Score out of 10 with comments</li>
+<li>Business: Score out of 10 with comments</li>
+<li>Process: Score out of 10 with comments</li>
+</ul>
+
+<p><strong>4. Decision Rationale</strong></p>
+<ul>
+<li>Detailed explanation of decision</li>
+<li>Objective reasoning based on evidence</li>
+<li>How standards were applied</li>
+</ul>
+
+<p><strong>5. Recommendations</strong></p>
+
+<p><em>Immediate Actions:</em></p>
+<ul>
+<li>Action items if conditional pass</li>
+<li>Timeline for completion</li>
+</ul>
+
+<p><em>Future Guidance:</em></p>
+<ul>
+<li>Strategic suggestions</li>
+<li>Quality improvements</li>
+<li>Risk mitigation strategies</li>
+</ul>
+
+<p><strong>6. Appendices</strong></p>
+<ul>
+<li>Supporting documents</li>
+<li>Test results</li>
+<li>Additional notes</li>
+</ul>
 
 </ul>
 </div>
@@ -579,17 +585,17 @@
 
 <p>**Before Finalizing:**</p>
 
-```text
-<p>Personal Review:</p>
-<p>□ Bias check completed</p>
-<p>□ Standards consistently applied</p>
-<p>□ Evidence thoroughly reviewed</p>
-<p>□ Decision well-reasoned</p>
-<p>□ Documentation complete</p>
-<p>□ Communication clear</p>
-<p>□ Feedback constructive</p>
-<p>□ Process followed</p>
-```
+<p><strong>Personal Review Checklist:</strong></p>
+<ul>
+<li>Bias check completed</li>
+<li>Standards consistently applied</li>
+<li>Evidence thoroughly reviewed</li>
+<li>Decision well-reasoned</li>
+<li>Documentation complete</li>
+<li>Communication clear</li>
+<li>Feedback constructive</li>
+<li>Process followed</li>
+</ul>
 
 <p>**Peer Review (Optional):**</p>
 

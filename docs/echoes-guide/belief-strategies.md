@@ -386,13 +386,14 @@
 
 <h3>📊 Belief Portfolio Structure</h3>
 <p>** Optimal Mix:**</p>
-```
-<p>Premium Teams: 40% (Safe foundation)</p>
-<p>Momentum Plays: 25% (Growth driver)</p>
-<p>Recovery Plays: 15% (High upside)</p>
-<p>Early Phase: 15% (Maximum multiplier)</p>
-<p>Experimental: 5% (Learning/lottery)</p>
-```
+<p>A well-balanced belief portfolio should include:</p>
+<ul>
+<li><strong>Premium Teams (40%):</strong> Your safe foundation with proven founders</li>
+<li><strong>Momentum Plays (25%):</strong> Growth drivers showing strong progress</li>
+<li><strong>Recovery Plays (15%):</strong> High upside opportunities in turnaround situations</li>
+<li><strong>Early Phase (15%):</strong> Maximum multiplier potential in new ventures</li>
+<li><strong>Experimental (5%):</strong> Learning opportunities and potential lottery tickets</li>
+</ul>
 
 
 
@@ -678,16 +679,17 @@
 
 </ul>
 <p>** Monthly Review:**</p>
-```
-<p>Belief Signals: ___</p>
-<p>Successes: ___</p>
-<p>Failures: ___</p>
-<p>Win Rate: ___%</p>
-<p>Avg Return: ___x</p>
-<p>Best Signal: ___</p>
-<p>Worst Signal: ___</p>
-<p>Lessons: ___</p>
-```
+<p>Track your belief signal performance with this monthly review template:</p>
+<ul>
+<li><strong>Total Belief Signals:</strong> Count all belief signals made this month</li>
+<li><strong>Successes:</strong> Number of successful milestone completions</li>
+<li><strong>Failures:</strong> Number of failed milestones</li>
+<li><strong>Win Rate:</strong> Calculate your success percentage</li>
+<li><strong>Average Return:</strong> Your average multiplier across all signals</li>
+<li><strong>Best Signal:</strong> Your highest performing belief signal</li>
+<li><strong>Worst Signal:</strong> Your biggest loss to learn from</li>
+<li><strong>Key Lessons:</strong> Important insights gained this month</li>
+</ul>
 
 </div>
 

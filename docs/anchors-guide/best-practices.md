@@ -75,30 +75,7 @@
 
 <p>**Weekly Schedule Best Practices:**</p>
 
-```
-<p>Monday: Planning & Prep</p>
-<ul>
-<li>Review week's validations</li>
-<li>Schedule founder meetings</li>
-<li>Prepare materials</li>
-<li>Set priorities</li>
-
-</ul>
-<p>Tuesday-Thursday: Deep Work</p>
-<ul>
-<li>Validation reviews</li>
-<li>Technical assessments</li>
-<li>Founder meetings</li>
-<li>Documentation</li>
-
-</ul>
-<p>Friday: Wrap-up & Learning</p>
-<ul>
-<li>Complete documentation</li>
-<li>Community engagement</li>
-<li>Knowledge sharing</li>
-<li>Week review</li>
-```
+<p>Structure your week for maximum effectiveness: Start Monday with Planning & Prep - review the week's validations, schedule founder meetings, prepare materials, and set priorities. Tuesday through Thursday are your Deep Work days for validation reviews, technical assessments, founder meetings, and documentation. End Friday with Wrap-up & Learning - complete documentation, engage with the community, share knowledge, and review your week's accomplishments.</p>
 
 </ul>
 <p>**Daily Rhythms:**</p>
@@ -131,30 +108,7 @@
 
 <p>**Best Practice Checklist:**</p>
 
-```python
-<p>def prepare_for_validation():</p>
-<p>"""Gold standard preparation process"""</p>
-
-<h1>1. Context gathering (30 min)</h1>
-<p>review_milestone_declaration()</p>
-<p>check_venture_history()</p>
-<p>understand_market_context()</p>
-<p>identify_potential_issues()</p>
-
-<h1>2. Tool preparation</h1>
-<p>setup_testing_environment()</p>
-<p>prepare_evaluation_templates()</p>
-<p>gather_benchmark_data()</p>
-<p>arrange_expert_consultations()</p>
-
-<h1>3. Mental preparation</h1>
-<p>clear_biases()</p>
-<p>set_quality_intention()</p>
-<p>plan_time_allocation()</p>
-<p>prepare_questions()</p>
-
-<p>return ready_to_validate</p>
-```
+<p>Follow this gold standard preparation process: First, spend 30 minutes on Context Gathering - review the milestone declaration, check venture history, understand market context, and identify potential issues. Second, handle Tool Preparation by setting up your testing environment, preparing evaluation templates, gathering benchmark data, and arranging any expert consultations needed. Third, focus on Mental Preparation - clear your biases, set quality intentions, plan time allocation, and prepare your key questions. This systematic approach ensures you're fully ready to deliver a high-quality validation.</p>
 
 <p>**Pre-Validation Communication:**</p>
 
@@ -188,24 +142,7 @@
 </ul>
 <p>**Deep Dive (1-3 hours)**</p>
 
-```
-<p>Evidence Review Framework:</p>
-<p>├── Technical Evidence</p>
-<p>│   ├── Code review</p>
-<p>│   ├── Architecture assessment</p>
-<p>│   ├── Security check</p>
-<p>│   └── Performance validation</p>
-<p>├── Business Evidence</p>
-<p>│   ├── Metrics verification</p>
-<p>│   ├── Customer validation</p>
-<p>│   ├── Financial review</p>
-<p>│   └── Market assessment</p>
-<p>└── Process Evidence</p>
-<p>├── Documentation quality</p>
-<p>├── Team effectiveness</p>
-<p>├── Communication clarity</p>
-<p>└── Execution excellence</p>
-```
+<p>Use this comprehensive Evidence Review Framework with three main categories: Technical Evidence includes code review, architecture assessment, security checks, and performance validation. Business Evidence covers metrics verification, customer validation, financial review, and market assessment. Process Evidence examines documentation quality, team effectiveness, communication clarity, and execution excellence. This structured approach ensures no critical aspect is overlooked during your review.</p>
 
 <p>**Verification Testing**</p>
 
@@ -703,18 +640,18 @@
 ```
 <p>Anchor Records/</p>
 <p>├── Validations/</p>
-<p>│   ├── [Venture Name]/</p>
-<p>│   │   ├── Milestone_1/</p>
-<p>│   │   ├── Milestone_2/</p>
-<p>│   │   └── Notes/</p>
+<p>│ ├── [Venture Name]/</p>
+<p>│ │ ├── Milestone_1/</p>
+<p>│ │ ├── Milestone_2/</p>
+<p>│ │ └── Notes/</p>
 <p>├── Templates/</p>
-<p>│   ├── Validation_Report.md</p>
-<p>│   ├── Meeting_Notes.md</p>
-<p>│   └── Checklists/</p>
+<p>│ ├── Validation_Report.md</p>
+<p>│ ├── Meeting_Notes.md</p>
+<p>│ └── Checklists/</p>
 <p>├── Learning/</p>
-<p>│   ├── Case_Studies/</p>
-<p>│   ├── Best_Practices/</p>
-<p>│   └── Lessons_Learned/</p>
+<p>│ ├── Case_Studies/</p>
+<p>│ ├── Best_Practices/</p>
+<p>│ └── Lessons_Learned/</p>
 <p>└── Resources/</p>
 <p>├── Tools/</p>
 <p>├── Guides/</p>

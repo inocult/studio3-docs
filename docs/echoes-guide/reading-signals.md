@@ -46,17 +46,16 @@
 
 ### Signal Visualization
 
-```
-Example Signal Chart:
-|
-| B ████████████░░░░ 75% (7,500 $SIGNAL)
-| D ████░░░░░░░░░░░░ 25% (2,500 $SIGNAL)
-|
-| Total Pool: 10,000 $SIGNAL
-| Echoes: 89 (71 belief, 18 doubt)
-| Avg Stake: 112 $SIGNAL
-| 24h Change: +35%
-```
+<p><strong>Example Signal Chart:</strong></p>
+<p>Imagine a visual representation showing:</p>
+<ul>
+<li><strong>Belief Bar:</strong> 75% filled (7,500 $SIGNAL staked on belief)</li>
+<li><strong>Doubt Bar:</strong> 25% filled (2,500 $SIGNAL staked on doubt)</li>
+<li><strong>Total Pool:</strong> 10,000 $SIGNAL across all signals</li>
+<li><strong>Echo Count:</strong> 89 total (71 belief, 18 doubt)</li>
+<li><strong>Average Stake:</strong> 112 $SIGNAL per signal</li>
+<li><strong>24h Change:</strong> +35% growth in signal activity</li>
+</ul>
 
 ## Reading Patterns
 
@@ -112,12 +111,13 @@ Example Signal Chart:
 
 <h3>🚀 Velocity Analysis</h3>
 <p>** Acceleration Patterns:**</p>
-```
-<p>Hour 1-6:   ██ (200 signals)</p>
-<p>Hour 7-12:  ████ (400 signals)</p>
-<p>Hour 13-18: ████████ (800 signals)</p>
-<p>Hour 19-24: ████████████████ (1600 signals)</p>
-```
+<p>Signal velocity often follows predictable patterns:</p>
+<ul>
+<li><strong>Hours 1-6:</strong> Slow start with ~200 signals</li>
+<li><strong>Hours 7-12:</strong> Doubling to ~400 signals as word spreads</li>
+<li><strong>Hours 13-18:</strong> Acceleration to ~800 signals with momentum</li>
+<li><strong>Hours 19-24:</strong> Exponential growth to ~1600 signals at peak FOMO</li>
+</ul>
 
 
 
@@ -504,16 +504,13 @@ Example Signal Chart:
 
 ### Custom Indicators
 ** Build Your Own:**
-```javascript
-// Signal Momentum Indicator
-SMI = (Signals[now] - Signals[1h ago]) / Signals[1h ago] * 100
-
-// Smart Money Ratio
-SMR = Smart Money Stakes / Total Stakes
-
-// Sentiment Velocity
-SV = (Belief% [now] - Belief%[1h ago]) / hour
-```
+<p>Create custom metrics to track signal patterns:</p>
+<ul>
+<li><strong>Signal Momentum Indicator (SMI):</strong> Calculate the percentage change in signals over the past hour to gauge acceleration or deceleration</li>
+<li><strong>Smart Money Ratio (SMR):</strong> Divide smart money stakes by total stakes to see what percentage comes from experienced Echoes</li>
+<li><strong>Sentiment Velocity (SV):</strong> Track how quickly the belief percentage is changing per hour to identify sentiment shifts</li>
+</ul>
+<p>These indicators help you spot trends before they become obvious to everyone.</p>
 
 ## Practical Examples
 

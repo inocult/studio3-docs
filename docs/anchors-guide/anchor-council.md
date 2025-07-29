@@ -325,13 +325,13 @@
 ```
 <p>Council Responsibilities:</p>
 <p>├── Define Level Criteria</p>
-<p>│   ├── Skill requirements</p>
-<p>│   ├── Experience thresholds</p>
-<p>│   └── Performance standards</p>
+<p>│ ├── Skill requirements</p>
+<p>│ ├── Experience thresholds</p>
+<p>│ └── Performance standards</p>
 <p>├── Review Promotions</p>
-<p>│   ├── Application assessment</p>
-<p>│   ├── Achievement verification</p>
-<p>│   └── Decision ratification</p>
+<p>│ ├── Application assessment</p>
+<p>│ ├── Achievement verification</p>
+<p>│ └── Decision ratification</p>
 <p>└── Recognition Programs</p>
 <p>├── Excellence awards</p>
 <p>├── Innovation recognition</p>

@@ -65,30 +65,19 @@
 
 <h3>⚖️ The Risk Equation</h3>
 <p>** Expected Value Calculation:**</p>
-```
-<p>EV = (P(Win) × Reward) - (P(Loss) × Stake)</p>
+<p>Calculate your expected value by multiplying your win probability by your reward, then subtracting your loss probability times your stake.</p>
 
-
-
-<p>Example:**</p>
-<p>70% win rate, 2x multiplier</p>
+<p><strong>Example with 70% win rate and 2x multiplier:</strong></p>
 <ul>
-<li>EV = (0.7 × 2)</li>
-<li>(0.3 × 1) = 1.4</li>
-<li>0.3 = 1.1</li>
+<li>Win probability: 70% (0.7)</li>
+<li>Win reward: 2x your stake</li>
+<li>Loss probability: 30% (0.3)</li>
+<li>Expected Value = (0.7 × 2) - (0.3 × 1) = 1.4 - 0.3 = 1.1</li>
+<li>Result: 10% positive expected value - worth taking!</li>
 </ul>
-<p>10% positive expected value</p>
-```
 
 <p>** Risk-Adjusted Returns:**</p>
-```
-<ul>
-<li>Sharpe = (Return</li>
-<li>Risk</li>
-<li>Free Rate) / Volatility</li>
-</ul>
-<p>Target Sharpe > 1.0 for good risk-adjusted returns</p>
-```
+<p>The Sharpe Ratio measures your returns relative to the risk taken. Calculate it by taking your returns minus the risk-free rate, then dividing by volatility. A Sharpe Ratio above 1.0 indicates good risk-adjusted performance - you're being well compensated for the risks you take.</p>
 
 <p>**Practical Application:** Only take risks with positive expected value</p>
 
@@ -120,29 +109,26 @@
 
 <h3>📏 Mathematical Position Sizing</h3>
 <p>** Kelly Criterion (Full):**</p>
-```
-<p>f = (p × b - q) / b</p>
-
-
-
-<p>Where:**</p>
-<p>f = fraction of capital to bet</p>
-<p>p = probability of win</p>
-<p>b = net odds received on win</p>
-<p>q = probability of loss (1-p)</p>
-```
+<p>The Kelly Criterion helps determine optimal position sizing based on your edge. The formula calculates what fraction of your capital to risk:</p>
+<ul>
+<li><strong>f</strong> = Fraction of capital to bet</li>
+<li><strong>p</strong> = Your probability of winning</li>
+<li><strong>b</strong> = Net odds received on a win (e.g., 1 for 2x multiplier)</li>
+<li><strong>q</strong> = Probability of loss (1 minus p)</li>
+</ul>
+<p>The formula: f = (p × b - q) / b</p>
 
 <p>** Kelly for Signals (Conservative):**</p>
-```
-<p>Signal Size = Kelly × 0.25 × Bankroll</p>
+<p>For Studio3 signals, use a conservative Kelly approach by taking only 25% of the full Kelly recommendation:</p>
+<p><strong>Signal Size = Kelly Result × 0.25 × Your Bankroll</strong></p>
 
-<p>Why 0.25?</p>
+<p><strong>Why use only 25% of Kelly?</strong></p>
 <ul>
-<li>Reduces volatility</li>
-<li>Accounts for estimation error</li>
-<li>Prevents ruin</li>
-<li>Smoother growth</li>
-```
+<li>Reduces portfolio volatility significantly</li>
+<li>Accounts for estimation errors in your probabilities</li>
+<li>Prevents catastrophic losses from overconfidence</li>
+<li>Creates smoother, more sustainable growth</li>
+</ul>
 
 </ul>
 <p>**Practical Sizing Table:| Confidence | Win Rate | Multiplier | Max Size |**</p>
@@ -162,18 +148,19 @@
 
 <h3>✅ Risk Assessment Framework</h3>
 <p>** Before Every Signal:**</p>
-```
-<p>□ Position size within limits?</p>
-<p>□ Total exposure acceptable?</p>
-<p>□ Correlation checked?</p>
-<p>□ Phase allocation OK?</p>
-<p>□ Emotional state stable?</p>
-<p>□ Analysis complete?</p>
-<p>□ Exit plan considered?</p>
-<p>□ Portfolio impact assessed?</p>
-<p>□ Black swan considered?</p>
-<p>□ Recovery plan ready?</p>
-```
+<p>Use this comprehensive checklist before placing any signal:</p>
+<ul>
+<li>☐ <strong>Position size within limits?</strong> (Max 2% for single signals)</li>
+<li>☐ <strong>Total exposure acceptable?</strong> (Under 10% total at risk)</li>
+<li>☐ <strong>Correlation checked?</strong> (Not too similar to existing positions)</li>
+<li>☐ <strong>Phase allocation OK?</strong> (Not over 40% in one phase)</li>
+<li>☐ <strong>Emotional state stable?</strong> (Not revenge trading or tilted)</li>
+<li>☐ <strong>Analysis complete?</strong> (Due diligence done thoroughly)</li>
+<li>☐ <strong>Exit plan considered?</strong> (Know your risk scenarios)</li>
+<li>☐ <strong>Portfolio impact assessed?</strong> (How this affects overall risk)</li>
+<li>☐ <strong>Black swan considered?</strong> (Prepared for worst case)</li>
+<li>☐ <strong>Recovery plan ready?</strong> (Know how to handle losses)</li>
+</ul>
 
 
 
@@ -192,15 +179,16 @@
 
 <h3>📊 Key Risk Indicators</h3>
 <p>** Monitor Daily:**</p>
-```
-<p>Current Exposure: ___% of capital</p>
-<p>Max Drawdown: ___% (current)</p>
-<p>Win Rate: ___% (30-day)</p>
-<p>Correlation Score: ___/100</p>
-<p>Phase Concentration: ___%</p>
-<p>Largest Position: ___%</p>
-<p>Volatility: ___% (daily)</p>
-```
+<p>Track these critical risk metrics every day:</p>
+<ul>
+<li><strong>Current Exposure:</strong> What percentage of your capital is at risk</li>
+<li><strong>Max Drawdown:</strong> Your current peak-to-trough decline</li>
+<li><strong>Win Rate:</strong> Your 30-day rolling success percentage</li>
+<li><strong>Correlation Score:</strong> How similar your positions are (0-100)</li>
+<li><strong>Phase Concentration:</strong> Your highest allocation to any phase</li>
+<li><strong>Largest Position:</strong> Your biggest single signal as % of capital</li>
+<li><strong>Volatility:</strong> Daily swings in your portfolio value</li>
+</ul>
 
 
 
@@ -500,31 +488,31 @@
 
 <h3>📊 Essential Tracking Tools</h3>
 <p>** Risk Dashboard Components:**</p>
-```
+<p>Build a comprehensive risk tracking system with these elements:</p>
 
-
-
-<p>Position Tracker:**</p>
+<p><strong>Position Tracker:</strong></p>
 <ul>
-<li>Venture | Phase | Amount | Risk Score | Correlation</li>
-
+<li>Track each venture name, phase, signal amount, risk score, and correlation to other positions</li>
+<li>Sort by risk level to identify your most exposed positions</li>
 </ul>
-<p>** Risk Metrics:**</p>
+
+<p><strong>Risk Metrics:</strong></p>
 <ul>
-<li>Total Exposure | Phase Concentration | Sector Mix</li>
-
-
-
+<li>Monitor total exposure, phase concentration, and sector mix</li>
+<li>Set alerts when any metric exceeds safe thresholds</li>
 </ul>
-<p>Performance:**</p>
-<ul>
-<li>Win Rate | Avg Loss | Max Drawdown | Recovery Time</li>
 
-</ul>
-<p>** Alerts:**</p>
+<p><strong>Performance Tracking:</strong></p>
 <ul>
-<li>Concentration warnings | Drawdown alerts | Correlation flags</li>
-```
+<li>Calculate win rate, average loss size, maximum drawdown, and recovery time</li>
+<li>Use these to refine your risk management approach</li>
+</ul>
+
+<p><strong>Alert System:</strong></p>
+<ul>
+<li>Set up automatic warnings for concentration risks, drawdown thresholds, and correlation issues</li>
+<li>Act immediately when alerts trigger</li>
+</ul>
 
 
 

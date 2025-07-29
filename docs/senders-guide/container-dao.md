@@ -619,6 +619,7 @@
 ### Moving Forward
 
 Ready to plan your milestones? Continue to:
+
 1. [Milestone Planning](milestone-planning.md) - Setting effective goals
 2. [MVP Development](mvp-development.md) - Building your product
 3. [Engaging Echoes](engaging-echoes.md) - Community growth

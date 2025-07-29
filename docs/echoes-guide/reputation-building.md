@@ -498,13 +498,14 @@
 
 <h3>📊 Key Performance Indicators</h3>
 <p>** Weekly Tracking:**</p>
-```
-<p>XP Gained: ___</p>
-<p>Accuracy Rate: ___%</p>
-<p>Community Posts: ___</p>
-<p>Newcomers Helped: ___</p>
-<p>Recognition Events: ___</p>
-```
+<p>Monitor your reputation growth with these weekly metrics:</p>
+<ul>
+<li><strong>XP Gained:</strong> Track your experience point accumulation</li>
+<li><strong>Accuracy Rate:</strong> Calculate your signal success percentage</li>
+<li><strong>Community Posts:</strong> Count valuable contributions made</li>
+<li><strong>Newcomers Helped:</strong> Track mentorship activities</li>
+<li><strong>Recognition Events:</strong> Note when others acknowledge your expertise</li>
+</ul>
 
 
 

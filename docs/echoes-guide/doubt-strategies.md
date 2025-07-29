@@ -451,13 +451,14 @@
 
 <h3>📊 Doubt Portfolio Structure</h3>
 <p>** Optimal Doubt Mix:**</p>
-```
-<p>Technical Doubts: 30% (High conviction)</p>
-<p>Overvaluation: 25% (Market correction)</p>
-<p>Competition: 20% (Better exists)</p>
-<p>Team Concerns: 15% (Execution risk)</p>
-<p>Timing Issues: 10% (Unrealistic)</p>
-```
+<p>Structure your doubt portfolio across these categories:</p>
+<ul>
+<li><strong>Technical Doubts (30%):</strong> High conviction based on technical impossibilities</li>
+<li><strong>Overvaluation (25%):</strong> Market correction opportunities from hype</li>
+<li><strong>Competition (20%):</strong> Better alternatives already exist</li>
+<li><strong>Team Concerns (15%):</strong> Execution risk from team issues</li>
+<li><strong>Timing Issues (10%):</strong> Unrealistic milestone timelines</li>
+</ul>
 
 
 
@@ -596,15 +597,16 @@
 
 </ul>
 <p>** Monthly Analysis:**</p>
-```
-<p>Doubt Signals: ___</p>
-<p>Successful: ___</p>
-<p>Failed: ___</p>
-<p>Win Rate: ___%</p>
-<p>Avg Return: ___x</p>
-<p>Best Doubt: ___</p>
-<p>Lessons: ___</p>
-```
+<p>Track your doubt signal performance:</p>
+<ul>
+<li><strong>Total Doubt Signals:</strong> Number of doubt positions taken</li>
+<li><strong>Successful:</strong> Milestones that failed as predicted</li>
+<li><strong>Failed:</strong> Milestones that succeeded despite doubt</li>
+<li><strong>Win Rate:</strong> Success percentage (target 40%+)</li>
+<li><strong>Average Return:</strong> Mean multiplier achieved</li>
+<li><strong>Best Doubt:</strong> Most profitable doubt signal</li>
+<li><strong>Key Lessons:</strong> What you learned this month</li>
+</ul>
 
 </div>
 

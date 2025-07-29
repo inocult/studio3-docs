@@ -2,11 +2,11 @@
 
 ## Mastering The Forge Competition
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🏆 The Victor's Playbook</h3>
+### 🏆 The Victor's Playbook
 
-<p>Winning The Forge requires more than a good idea - it demands superior strategy, flawless execution, and the ability to inspire belief. This guide reveals the tactics that separate winners from runners-up.</p>
+Winning The Forge requires more than a good idea - it demands superior strategy, flawless execution, and the ability to inspire belief. This guide reveals the tactics that separate winners from runners-up.
 
 </div>
 
@@ -14,47 +14,36 @@
 
 ### Understanding the Voters
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🧠 Voter Motivations</h3>
+### 🧠 Voter Motivations
 
-<p>**Echoes Vote Based On:**</p>
+**Echoes Vote Based On:**
 
-<p>1. **Return Potential** (40%)</p>
-<ul>
-<li>Milestone achievability</li>
-<li>Market opportunity</li>
-<li>Execution capability</li>
-<li>Exit possibilities</li>
+1. **Return Potential** (40%)
+   - Milestone achievability
+   - Market opportunity
+   - Execution capability
+   - Exit possibilities
 
-</ul>
-<p>2. **Founder Quality** (30%)</p>
-<ul>
-<li>Track record</li>
-<li>Communication skills</li>
-<li>Resilience indicators</li>
-<li>Learning ability</li>
+2. **Founder Quality** (30%)
+   - Track record
+   - Communication skills
+   - Resilience indicators
+   - Learning ability
 
-</ul>
-<p>3. **Vision Alignment** (20%)</p>
-<ul>
-<li>Values match</li>
-<li>Long-term thinking</li>
-<li>Community benefit</li>
-<li>Innovation level</li>
+3. **Vision Alignment** (20%)
+   - Values match
+   - Long-term thinking
+   - Community benefit
+   - Innovation level
 
-</ul>
-<p>4. **Risk Assessment** (10%)</p>
-<ul>
-<li>Failure probability</li>
+4. **Risk Assessment** (10%)
+   - Failure probability
+   - Mitigation plans
+   - Backup strategies
+   - Team depth
 
-<li>Mitigation plans</li>
-
-<li>Backup strategies</li>
-
-<li>Team depth</li>
-
-</ul>
 </div>
 
 ### Emotional Triggers
@@ -70,50 +59,43 @@
 
 ### Differentiation Framework
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🎯 Standing Out</h3>
+### 🎯 Standing Out
 
-<p>**Four Positioning Strategies:**</p>
-<p>1. **The Expert**</p>
-<ul>
-<li>Deep domain knowledge</li>
-<li>Technical superiority</li>
-<li>Industry connections</li>
-<li>Proven methods</li>
+**Four Positioning Strategies:**
 
-</ul>
-<p>2. **The Innovator**</p>
-<ul>
-<li>Novel approach</li>
-<li>Creative solutions</li>
-<li>Breakthrough thinking</li>
-<li>First-mover advantage</li>
+1. **The Expert**
+   - Deep domain knowledge
+   - Technical superiority
+   - Industry connections
+   - Proven methods
 
-</ul>
-<p>3. **The Executor**</p>
-<ul>
-<li>Delivery track record</li>
-<li>Operational excellence</li>
-<li>Speed to market</li>
-<li>Reliability focus</li>
+2. **The Innovator**
+   - Novel approach
+   - Creative solutions
+   - Breakthrough thinking
+   - First-mover advantage
 
-</ul>
-<p>4. **The Community Builder**</p>
-<ul>
-<li>Engagement master</li>
-<li>Value sharing</li>
-<li>Collaborative approach</li>
+3. **The Executor**
+   - Delivery track record
+   - Operational excellence
+   - Speed to market
+   - Reliability focus
 
-<li>Network effects</li>
+4. **The Community Builder**
+   - Engagement master
+   - Value sharing
+   - Collaborative approach
+   - Network effects
 
-</ul>
 </div>
 
 ### Competitive Analysis
 
 **Know Your Opponents:**
-**| Analysis Area | What to Assess |**
+
+| Analysis Area | What to Assess |
 |--------------|----------------|
 | **Strengths** | What they do well  |
 | **Weaknesses** | Where they're vulnerable  |
@@ -125,337 +107,269 @@
 
 ### The 30-Day Sprint
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>📅 Preparation Timeline</h3>
+### 📅 Preparation Timeline
 
-<p>**Days 1-7: Foundation**</p>
+**Days 1-7: Foundation**
 
-<ul>
-<li>Analyze the Spark deeply</li>
-<li>Research all IPs involved</li>
-<li>Study market dynamics</li>
-<li>Define your angle</li>
+- Analyze the Spark deeply
+- Research all IPs involved
+- Study market dynamics
+- Define your angle
+**Days 8-14: Building**
 
-</ul>
-<p>**Days 8-14: Building**</p>
+- Create core materials
+- Develop prototypes
+- Secure endorsements
+- Build team
+**Days 15-21: Testing**
 
-<ul>
-<li>Create core materials</li>
-<li>Develop prototypes</li>
-<li>Secure endorsements</li>
-<li>Build team</li>
+- Practice presentations
+- Get feedback
+- Refine messaging
+- Stress test plans
+**Days 22-30: Launch Prep**
 
-</ul>
-<p>**Days 15-21: Testing**</p>
-
-<ul>
-<li>Practice presentations</li>
-<li>Get feedback</li>
-<li>Refine messaging</li>
-<li>Stress test plans</li>
-
-</ul>
-<p>**Days 22-30: Launch Prep**</p>
-
-<ul>
-<li>Coordinate supporters</li>
-<li>Finalize materials</li>
-<li>Mental preparation</li>
-<li>Rest and recharge</li>
-
-</ul>
+- Coordinate supporters
+- Finalize materials
+- Mental preparation
+- Rest and recharge
 </div>
 
 ### Material Development
 
 **Essential Assets:**
+
 1. **Master Deck** (20-30 slides)
    - Vision slides
    - Execution plan
    - Financial model
    - Team showcase
-
-- Milestone roadmap
+   - Milestone roadmap
 
 2. **Demo Assets**
-
-- **Prototype video**
-- User testimonials
-
-- Technical proof
-
-- Market validation
+   - Prototype video
+   - User testimonials
+   - Technical proof
+   - Market validation
 
 3. **Support Documents**
-
-- **One-pager summary**
-
-- Technical whitepaper
-
-- Financial projections
-
-- Risk analysis
+   - One-pager summary
+   - Technical whitepaper
+   - Financial projections
+   - Risk analysis
 
 ## Opening Strategy
 
 ### Day One Dominance
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🚀 Launch Strong</h3>
-<p>** First 6 Hours:**</p>
-<p>1. **The Announcement**</p>
-<p>(Hour 1) Compelling entry post</p>
+### 🚀 Launch Strong
+**First 6 Hours:**
 
-<ul>
-<li>Clear value proposition</li>
+1. **The Announcement** (Hour 1) Compelling entry post
+   - Clear value proposition
+   - Strong visuals
+   - Call to action
 
-<li>Strong visuals</li>
+2. **The Flood** (Hours 2-3)
+   - Supporter testimonials
+   - Media coverage
+   - Social amplification
+   - Discord activity
 
-<li>Call to action</li>
+3. **The Engagement** (Hours 4-6)
+   - Answer every question
+   - Thank supporters
+   - Address concerns
+   - Build momentum
 
-<li>2.**The Flood**  (Hours 2</li>
-<li>3)</li>
-<li>Supporter testimonials</li>
-
-<li>Media coverage</li>
-
-<li>Social amplification</li>
-
-<li>Discord activity</li>
-
-<li>3.**The Engagement**  (Hours 4</li>
-<li>6)</li>
-<li>Answer every question</li>
-
-<li>Thank supporters</li>
-
-<li>Address concerns</li>
-
-<li>Build momentum</li>
-
-</ul>
 </div>
 
 ### Momentum Tactics
-** Building Unstoppable Force:**
-- **Social Proof**
-- Show growing support
-- **Daily Wins**
-- Announce progress
-- **Media Hits**
-- External validation
-- **Influencer Support**
-- Credibility boost
-- **Community Events**
-- Deep engagement
+
+**Building Unstoppable Force:**
+
+- **Social Proof**: Show growing support
+- **Daily Wins**: Announce progress
+- **Media Hits**: External validation
+- **Influencer Support**: Credibility boost
+- **Community Events**: Deep engagement
 
 ## Mid-Duel Tactics
 
 ### Maintaining Leadership
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>⚡ Sustaining Energy</h3>
-<p>**Daily Playbook:** Morning (2 hours)</p>
+### ⚡ Sustaining Energy
+**Daily Playbook:**
+**Morning (2 hours)**
+- Status update
+- Metric review
+- Team sync
+- Content creation
 
-<p>Status update</p>
-<ul>
-<li>**Metric review**</li>
-<li>Team sync</li>
-<li>Content creation</li>
+**Afternoon (4 hours)**
+- Community engagement
+- Competitor monitoring
+- Strategy adjustment
+- Supporter outreach
 
-</ul>
-<p>**Afternoon (4 hours)**</p>
-<ul>
-<li>**Community engagement**</li>
-<li>Competitor monitoring</li>
-<li>Strategy adjustment</li>
-<li>Supporter outreach</li>
+**Evening (2 hours)**
+- Wrap-up post
+- Next day planning
+- Team debrief
+- Rest
 
-</ul>
-<p>**Evening (2 hours)**</p>
-<ul>
-<li>**Wrap-up post**</li>
-<li>Next day planning</li>
-<li>Team debrief</li>
-<li>Rest</li>
-
-</ul>
 </div>
 
 ### Handling Attacks
-** Defensive Strategies:**
+
+**Defensive Strategies:**
+
 1. **Stay Above the Fray**
- Don't engage in mudslinging
-
-- Focus on your strengths
-
-- Let work speak
+   - Don't engage in mudslinging
+   - Focus on your strengths
+   - Let work speak
 
 2. **Address Factually**
-
-- **Correct misinformation**
-- Provide evidence
-
-- Stay professional
+   - Correct misinformation
+   - Provide evidence
+   - Stay professional
 
 3. **Turn Negative to Positive**
-
-- **Show grace under pressure**
-- Demonstrate resilience
-
-- Build sympathy
+   - Show grace under pressure
+   - Demonstrate resilience
+   - Build sympathy
 
 ## Advanced Techniques
 
 ### The Pivot Play
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🔄 Strategic Adaptation</h3>
-<p>** When to Pivot:**</p>
-<ul>
-<li>**Competitor has better angle**</li>
-<li>Community wants different approach</li>
-<li>Market feedback suggests change</li>
-<li>Technical barriers discovered</li>
-
-</ul>
-<p>** How to Pivot:**</p>
-<p>1. Acknowledge honestly</p>
-<p>2. Explain reasoning</p>
-<p>3. Show flexibility</p>
-<p>4. Maintain confidence</p>
-<p>5. Execute flawlessly</p>
-
+### 🔄 Strategic Adaptation
+**When to Pivot:**
+- **Competitor has better angle**
+- Community wants different approach
+- Market feedback suggests change
+- Technical barriers discovered
+**How to Pivot:**
+- Acknowledge honestly
+- Explain reasoning
+- Show flexibility
+- Maintain confidence
+- Execute flawlessly
 </div>
 
 ### Coalition Building
 
+**Creating Alliances:**
 
-Creating Alliances:**
-- **Early Supporters**
-- Your evangelists
-- **Domain Experts**
-- Credibility lenders
-- **Future Team**
-- Skin in the game
-- **Partner Ventures**
-- Ecosystem support
-- **Anchor Interest**
-- Validation preview
+- **Early Supporters**: Your evangelists
+- **Domain Experts**: Credibility lenders
+- **Future Team**: Skin in the game
+- **Partner Ventures**: Ecosystem support
+- **Anchor Interest**: Validation preview
 
 ### The Underdog Strategy
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🎲 David vs Goliath</h3>
-<p>** If You're Behind:**</p>
-<p>1. **Change the Narrative**</p>
-<p>Heart over credentials</p>
+### 🎲 David vs Goliath
+**If You're Behind:**
+1. **Change the Narrative**
+- Heart over credentials
+- Community over capital
+- Innovation over experience
 
-<ul>
-<li>Community over capital</li>
+2. **Take Calculated Risks**
+- Bold promises (achievable)
+- Unique approaches
+- Controversial positions
 
-<li>Innovation over experience</li>
+3. **Rally the Base**
+- Us vs them messaging
+- Emotional appeals
+- Grassroots energy
 
-</ul>
-<p>2. **Take Calculated Risks**</p>
-
-<ul>
-<li>**Bold promises (achievable)**</li>
-<li>Unique approaches</li>
-
-<li>Controversial positions</li>
-
-</ul>
-<p>3. **Rally the Base**</p>
-
-<ul>
-<li>**Us vs them messaging**</li>
-<li>Emotional appeals</li>
-
-<li>Grassroots energy</li>
-
-</ul>
 </div>
 
 ## Closing Strong
 
 ### Final 48 Hours
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🏁 The Final Sprint</h3>
-<p>** 48 Hours Out:**</p>
-<ul>
-<li>**Summary presentation**</li>
-<li>Major announcement</li>
-<li>Media blitz</li>
-<li>Supporter rally</li>
+### 🏁 The Final Sprint
+**48 Hours Out:**
+- Summary presentation
+- Major announcement
+- Media blitz
+- Supporter rally
 
-</ul>
-<p>** 24 Hours Out:**</p>
-<ul>
-<li>**Final AMA**</li>
-<li>Closing argument</li>
-<li>Thank supporters</li>
-<li>Rest briefly</li>
+**24 Hours Out:**
+- Final AMA
+- Closing argument
+- Thank supporters
+- Rest briefly
 
-</ul>
-<p>** Final Day:**</p>
-<ul>
-<li>**Morning motivation**</li>
-<li>Continuous engagement</li>
-<li>Real-time updates</li>
-<li>Victory preparation</li>
+**Final Day:**
+- Morning motivation
+- Continuous engagement
+- Real-time updates
+- Victory preparation
 
-</ul>
 </div>
 
 ### The Closing Argument
-** Structure for Impact:**
-1. **Recap Journey**
 
-- **What you've shown**
-- 2.** Address Concerns
-- Final clarifications  
+**Structure for Impact:**
+1. **Recap Journey**
+   - What you've shown
+
+2. **Address Concerns**
+   - Final clarifications
+
 3. **Paint the Future**
-- Inspiring vision
+   - Inspiring vision
+
 4. **Make the Ask**
-- Clear call to action
+   - Clear call to action
+
 5. **Express Gratitude**
-- Win or lose**## Psychological Warfare
+   - Win or lose
+
+## Psychological Warfare
 
 ### Ethical Influence
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🎭 Persuasion Tactics</h3>
+### 🎭 Persuasion Tactics
 
-<p>** Allowed Techniques:**</p>
-<ul>
-<li>**Highlighting competitor weaknesses**</li>
-<li>Questioning feasibility</li>
-<li>Comparing track records</li>
-<li>Debating approaches</li>
+**Allowed Techniques:**
+- Highlighting competitor weaknesses
+- Questioning feasibility
+- Comparing track records
+- Debating approaches
 
-</ul>
-<p>** Forbidden Tactics:**</p>
-<ul>
-<li>**Personal attacks**</li>
-<li>Spreading falsehoods</li>
-<li>Stake manipulation</li>
-<li>Bribery/collusion</li>
+**Forbidden Tactics:**
+- Personal attacks
+- Spreading falsehoods
+- Stake manipulation
+- Bribery/collusion
 
-</ul>
 </div>
 
 ### Reading the Room
-** Signals to Watch:**
-- **Comment sentiment**
+
+**Signals to Watch:**
+
+- Comment sentiment
 - Question types
 - Supporter growth rate
 - Competitor mistakes
@@ -465,105 +379,93 @@ Creating Alliances:**
 
 ### When You Win
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🎉 Post-Victory Actions</h3>
-<p>** Immediate (1 hour):**</p>
-<p>1. Thank supporters publicly</p>
-<p>2. Acknowledge opponents gracefully</p>
-<p>3. Share immediate plans</p>
-<p>4. Celebrate briefly</p>
+### 🎉 Post-Victory Actions
+**Immediate (1 hour):**
+- Thank supporters publicly
+- Acknowledge opponents gracefully
+- Share immediate plans
+- Celebrate briefly
 
+**First Day:**
+- Claim Signal NFT
+- Contact core supporters
+- Begin DAO formation
+- Plan first milestone
+- Keep momentum
 
+**First Week:**
+- Onboard team
+- Set up operations
+- Launch Container DAO
+- Announce roadmap
+- Maintain engagement
 
-<p>First Day:**</p>
-<ul>
-<li>**Claim Signal NFT**</li>
-<li>Contact core supporters</li>
-<li>Begin DAO formation</li>
-<li>Plan first milestone</li>
-<li>Keep momentum</li>
-
-</ul>
-<p>** First Week:**</p>
-<ul>
-<li>**Onboard team**</li>
-<li>Set up operations</li>
-<li>Launch Container DAO</li>
-<li>Announce roadmap</li>
-<li>Maintain engagement</li>
-
-</ul>
 </div>
 
 ## Learning from Legends
 
 ### Case Studies
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🌟 The Comeback Kid</h3>
-<p>** SolarFi's Victory:**</p>
-<ul>
-<li>**Started 3rd of 4**</li>
-<li>Lost early momentum</li>
-<li>Pivoted approach</li>
-<li>Built coalition</li>
-<li>Won by 2%</li>
+### 🌟 The Comeback Kid
+**SolarFi's Victory:**
+- Started 3rd of 4
+- Lost early momentum
+- Pivoted approach
+- Built coalition
+- Won by 2%
 
-</ul>
-<p>** Key Tactics:**</p>
-<ul>
-<li>**Listened to feedback**</li>
-<li>Adapted quickly</li>
-<li>Stayed positive</li>
-<li>Outworked everyone</li>
-<li>Built genuine connections</li>
+**Key Tactics:**
+- Listened to feedback
+- Adapted quickly
+- Stayed positive
+- Outworked everyone
+- Built genuine connections
 
-</ul>
 </div>
 
 ## Tools & Resources
 
 ### Victory Arsenal
 
-<div class="arena-card">
+<div class="arena-card" markdown="1">
 
-<h3>🛠️ Essential Tools</h3>
-<p>** Analytics:**</p>
-<ul>
-<li>**Signal tracking dashboard**</li>
-<li>Sentiment analysis</li>
-<li>Competitor monitoring</li>
-<li>Engagement metrics</li>
+### 🛠️ Essential Tools
+**Analytics:**
+- Signal tracking dashboard
+- Sentiment analysis
+- Competitor monitoring
+- Engagement metrics
 
-</ul>
-<p>** Content Creation:**</p>
-<ul>
-<li>**Canva for graphics**</li>
-<li>Loom for videos</li>
-<li>Twitter scheduling</li>
-<li>Discord bots</li>
+**Content Creation:**
+- Canva for graphics
+- Loom for videos
+- Twitter scheduling
+- Discord bots
 
-</ul>
-<p>** Team Coordination:**</p>
-<ul>
-<li>**Notion workspace**</li>
-<li>Telegram group</li>
-<li>Calendar sync</li>
-<li>Task management</li>
+**Team Coordination:**
+- Notion workspace
+- Telegram group
+- Calendar sync
+- Task management
 
-</ul>
 </div>
 
 ## Next Steps
 
 ### Continue Your Journey
-**Post-Victory:→ Move to [Container DAO Setup](container-dao.md)**
-** During Competition:**
-**→ Review [Duel Preparation](duel-preparation.md)**
-** Building Phase:**
-**→ Study [Milestone Planning](milestone-planning.md)**
+
+**Post-Victory:**
+→ Move to [Container DAO Setup](container-dao.md)
+
+**During Competition:**
+→ Review [Duel Preparation](duel-preparation.md)
+
+**Building Phase:**
+→ Study [Milestone Planning](milestone-planning.md)
 
 ---
 

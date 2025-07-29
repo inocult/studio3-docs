@@ -516,17 +516,17 @@
 ```
 <p>Evidence Review Structure:</p>
 <p>├── Primary Evidence/</p>
-<p>│   ├── Deliverables/</p>
-<p>│   ├── Demonstrations/</p>
-<p>│   └── Metrics/</p>
+<p>│ ├── Deliverables/</p>
+<p>│ ├── Demonstrations/</p>
+<p>│ └── Metrics/</p>
 <p>├── Secondary Evidence/</p>
-<p>│   ├── Documentation/</p>
-<p>│   ├── Process/</p>
-<p>│   └── Communications/</p>
+<p>│ ├── Documentation/</p>
+<p>│ ├── Process/</p>
+<p>│ └── Communications/</p>
 <p>├── Verification Results/</p>
-<p>│   ├── Testing/</p>
-<p>│   ├── Validation/</p>
-<p>│   └── Cross-checks/</p>
+<p>│ ├── Testing/</p>
+<p>│ ├── Validation/</p>
+<p>│ └── Cross-checks/</p>
 <p>└── Assessment Summary/</p>
 <p>├── Findings/</p>
 <p>├── Concerns/</p>

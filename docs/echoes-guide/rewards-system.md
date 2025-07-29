@@ -39,12 +39,11 @@
 </ul>
 <p>5. **Special Events**</p>
 <ul>
-<li>Limited opportunities**</li>
-<li>**Reward Formula:**</li>
-```
+<li>Limited opportunities</li>
 </ul>
-<p>Total Reward = Base Stake × Multiplier × Bonuses - Fees</p>
-```
+
+<p>**Reward Formula:**</p>
+<p>Your total reward is calculated by multiplying your base stake by your earned multiplier and any bonuses, then subtracting platform fees. For example, a 1,000 $SIGNAL stake with a 2x multiplier and 10% bonus would return 2,200 $SIGNAL minus fees.</p>
 
 </div>
 
@@ -220,13 +219,15 @@
 
 </ul>
 <p>** Portfolio Compounding:**</p>
-```
-<p>Month 1: 10,000 $SIGNAL</p>
-<p>Average return: 1.7x</p>
-<p>Month 2: 17,000 $SIGNAL</p>
-<p>Continued success...</p>
-<p>Month 12: 145,000 $SIGNAL</p>
-```
+<p>Watch your portfolio grow through consistent reinvestment:</p>
+<ul>
+<li><strong>Month 1:</strong> Start with 10,000 $SIGNAL</li>
+<li><strong>Average Return:</strong> Achieve 1.7x average returns</li>
+<li><strong>Month 2:</strong> Grow to 17,000 $SIGNAL</li>
+<li><strong>Continued Success:</strong> Keep reinvesting profits</li>
+<li><strong>Month 12:</strong> Potentially reach 145,000 $SIGNAL</li>
+</ul>
+<p>This example assumes consistent 1.7x returns reinvested monthly - actual results will vary based on your performance.</p>
 
 </div>
 
@@ -497,12 +498,13 @@
 
 <h3>📊 Systematic Rewards</h3>
 <p>** Diversification Model:**</p>
-```
-<p>Early Signals (30%): Maximum multipliers</p>
-<p>Mid Signals (40%): Balanced approach</p>
-<p>Late Signals (20%): Safe accumulation</p>
-<p>Contrarian (10%): High-risk plays</p>
-```
+<p>Balance your signal portfolio across different timing strategies:</p>
+<ul>
+<li><strong>Early Signals (30%):</strong> Chase maximum multipliers with early entries</li>
+<li><strong>Mid Signals (40%):</strong> Take a balanced approach with moderate timing</li>
+<li><strong>Late Signals (20%):</strong> Focus on safe accumulation with proven progress</li>
+<li><strong>Contrarian (10%):</strong> Reserve a small portion for high-risk contrarian plays</li>
+</ul>
 
 
 

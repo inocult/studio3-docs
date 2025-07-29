@@ -246,13 +246,13 @@
 ```
 <p>Focus Areas:</p>
 <p>├── Deep Specialization</p>
-<p>│   ├── Industry vertical</p>
-<p>│   ├── Technology stack</p>
-<p>│   └── Phase expertise</p>
+<p>│ ├── Industry vertical</p>
+<p>│ ├── Technology stack</p>
+<p>│ └── Phase expertise</p>
 <p>├── Cross-Domain Knowledge</p>
-<p>│   ├── Business + Tech</p>
-<p>│   ├── Market understanding</p>
-<p>│   └── Regulatory awareness</p>
+<p>│ ├── Business + Tech</p>
+<p>│ ├── Market understanding</p>
+<p>│ └── Regulatory awareness</p>
 <p>└── Tool Innovation</p>
 <p>├── Process automation</p>
 <p>├── Quality enhancement</p>

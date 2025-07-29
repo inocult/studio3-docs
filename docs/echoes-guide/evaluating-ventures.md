@@ -113,22 +113,21 @@
 </ul>
 <p>**Competition Analysis:**</p>
 
-```
-<p>Direct Competitors:</p>
+<p><strong>Direct Competitors:</strong></p>
 <ul>
-<li>Who exists?</li>
-<li>Market share?</li>
-<li>Strengths/weaknesses?</li>
-<li>Differentiation?</li>
-
+<li>Who are the existing competitors?</li>
+<li>What's their market share?</li>
+<li>What are their strengths and weaknesses?</li>
+<li>How does this venture differentiate?</li>
 </ul>
-<p>Indirect Competition:</p>
+
+<p><strong>Indirect Competition:</strong></p>
 <ul>
-<li>Alternative solutions?</li>
-<li>Substitution risk?</li>
-<li>Switching costs?</li>
-<li>Network effects?</li>
-```
+<li>What alternative solutions exist?</li>
+<li>Is there substitution risk?</li>
+<li>What are the switching costs?</li>
+<li>Are there network effects at play?</li>
+</ul>
 
 </ul>
 </div>
@@ -351,13 +350,14 @@
 
 </ul>
 <p>** Performance Metrics:**</p>
-```
-<p>Milestone Success Rate: ___%</p>
-<p>Average Delay: ___ days</p>
-<p>Budget Accuracy: ___%</p>
-<p>Team Stability: ___%</p>
-<p>Pivot Count: ___</p>
-```
+<p>Track these key performance indicators:</p>
+<ul>
+<li><strong>Milestone Success Rate:</strong> Percentage of milestones achieved on time</li>
+<li><strong>Average Delay:</strong> Typical days beyond deadline</li>
+<li><strong>Budget Accuracy:</strong> How well they estimate costs</li>
+<li><strong>Team Stability:</strong> Retention rate of core members</li>
+<li><strong>Pivot Count:</strong> Number of major strategy changes</li>
+</ul>
 
 </div>
 
@@ -442,21 +442,25 @@
 
 <h3>🛠️ Evaluation Toolkit</h3>
 <p>** Venture Scorecard:**</p>
-```
-<p>FOUNDER (1-10): ___</p>
-<p>OPPORTUNITY (1-10): ___</p>
-<p>RISK (1-10): ___</p>
-<p>TECHNICAL (1-10): ___</p>
-<p>ROADMAP (1-10): ___</p>
-<p>EXECUTION (1-10): ___</p>
-<p>SIGNALS (1-10): ___</p>
-<p>SUSTAINABILITY (1-10): ___</p>
+<p>Use this comprehensive scoring framework:</p>
+<ul>
+<li><strong>FOUNDER (1-10):</strong> Team quality and experience</li>
+<li><strong>OPPORTUNITY (1-10):</strong> Market size and timing</li>
+<li><strong>RISK (1-10):</strong> Technical and execution risks (higher score = lower risk)</li>
+<li><strong>TECHNICAL (1-10):</strong> Product quality and innovation</li>
+<li><strong>ROADMAP (1-10):</strong> Milestone clarity and achievability</li>
+<li><strong>EXECUTION (1-10):</strong> Track record and capability</li>
+<li><strong>SIGNALS (1-10):</strong> Community sentiment and smart money</li>
+<li><strong>SUSTAINABILITY (1-10):</strong> Long-term viability</li>
+</ul>
 
-<p>TOTAL: ___/80</p>
-<p>Decision: Belief/Doubt/Pass</p>
-<p>Confidence: ___%</p>
-<p>Stake Size: ___ $SIGNAL</p>
-```
+<p><strong>Total Score out of 80</strong></p>
+<p>Based on your evaluation:</p>
+<ul>
+<li><strong>Decision:</strong> Belief, Doubt, or Pass</li>
+<li><strong>Confidence Level:</strong> Your certainty percentage</li>
+<li><strong>Stake Size:</strong> Amount of $SIGNAL to risk</li>
+</ul>
 
 </div>
 

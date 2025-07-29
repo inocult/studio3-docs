@@ -115,13 +115,8 @@
 <h3>📊 Understanding Market Dynamics</h3>
 <p>**Market Assessment Framework:**</p>
 
-<p>**TAM/SAM/SOM Analysis```</p>
-<p>TAM (Total Addressable Market)</p>
-<p>├── SAM (Serviceable Addressable Market)</p>
-<p>│   └── SOM (Serviceable Obtainable Market)</p>
-<p>│       └── Initial Target Market</p>
-<p>│           └── First 100 Customers</p>
-```
+<p>**TAM/SAM/SOM Analysis:**</p>
+<p>This framework visualizes market opportunity as nested layers, starting with the Total Addressable Market at the broadest level, narrowing down to your Serviceable Addressable Market (what you can realistically reach), then to your Serviceable Obtainable Market (what you can capture), and finally focusing on your initial target market of the first 100 customers. Each layer represents a more focused and achievable segment of the overall opportunity.</p>
 
 <p>** Market Dynamics:**</p>
 <ul>
@@ -196,11 +191,7 @@
 <p>**Positioning Framework:**</p>
 
 <p>**Value Proposition Canvas:**</p>
-```
-<p>Customer Jobs → Products/Services</p>
-<p>Pain Points → Pain Relievers</p>
-<p>Desired Gains → Gain Creators</p>
-```
+<p>This strategic tool maps three key connections: First, it links what customers are trying to accomplish (their jobs) to your products and services. Second, it connects customer pain points to your specific pain relievers. Third, it aligns what customers hope to gain with your gain creators. This ensures your offering directly addresses real customer needs.</p>
 
 
 
@@ -293,13 +284,7 @@
 
 <h3>📈 Building Profitable Growth</h3>
 <p>** Unit Economic Framework:**</p>
-```
-<p>LTV (Lifetime Value) = ARPU × Gross Margin × Customer Lifetime</p>
-<p>CAC (Customer Acquisition Cost) = Marketing + Sales / New Customers</p>
-
-<p>Target: LTV/CAC > 3:1</p>
-<p>Payback Period < 12 months</p>
-```
+<p>The fundamental business health metrics show that Lifetime Value (LTV) equals your Average Revenue Per User times Gross Margin times how long customers stay. Customer Acquisition Cost (CAC) is calculated by dividing total marketing and sales spend by new customers acquired. Healthy ventures typically target an LTV to CAC ratio greater than 3:1, meaning each customer generates at least three times what it costs to acquire them, with payback periods under 12 months for sustainable growth.</p>
 
 
 
@@ -456,24 +441,20 @@
 <h3>🔧 Technical Strategic Decisions</h3>
 <p>**Technology Choices:**</p>
 
-<p>**Build vs Buy vs Partner```</p>
+<p>**Build vs Buy vs Partner Decision Framework:**</p>
 <p>** Build When:**</p>
 <ul>
 <li>Core differentiator</li>
 <li>No good solutions</li>
 <li>Control critical</li>
 <li>IP valuable</li>
-
-
-
 </ul>
-<p>Buy When:**</p>
+<p>** Buy When:**</p>
 <ul>
 <li>Commodity function</li>
 <li>Time critical</li>
 <li>Cost effective</li>
 <li>Support available</li>
-
 </ul>
 <p>** Partner When:**</p>
 <ul>
@@ -481,7 +462,7 @@
 <li>Market access</li>
 <li>Risk sharing</li>
 <li>Speed needed</li>
-```
+</ul>
 
 
 

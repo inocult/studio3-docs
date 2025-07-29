@@ -79,29 +79,30 @@
 
 <h3>🎯 Optimal Distribution</h3>
 <p>** By Phase:**</p>
-```
-<p>Spark/Forge: 20% (High risk/reward)</p>
-<p>Ignition: 30% (Balanced approach)</p>
-<p>Drift: 30% (Steady returns)</p>
-<p>Later Phases: 20% (Safe accumulation)</p>
-```
+<p>Distribute your tokens across different venture phases:</p>
+<ul>
+<li><strong>Spark/Forge (20%):</strong> High risk/reward early phases</li>
+<li><strong>Ignition (30%):</strong> Balanced approach during building</li>
+<li><strong>Drift (30%):</strong> Steady returns from market validation</li>
+<li><strong>Later Phases (20%):</strong> Safe accumulation from mature ventures</li>
+</ul>
 
-
-
-<p>By Signal Type:**</p>
-```
-<p>Strong Belief: 40%</p>
-<p>Moderate Belief: 30%</p>
-<p>Strategic Doubt: 20%</p>
-<p>Contrarian Plays: 10%</p>
-```
+<p><strong>By Signal Type:</strong></p>
+<p>Balance your portfolio across different conviction levels:</p>
+<ul>
+<li><strong>Strong Belief (40%):</strong> Your highest conviction plays</li>
+<li><strong>Moderate Belief (30%):</strong> Good opportunities with some risk</li>
+<li><strong>Strategic Doubt (20%):</strong> Calculated negative positions</li>
+<li><strong>Contrarian Plays (10%):</strong> High-risk contrarian opportunities</li>
+</ul>
 
 <p>** By Timing:**</p>
-```
-<p>Active Signals: 60%</p>
-<p>Pending Opportunities: 25%</p>
-<p>Emergency Reserve: 15%</p>
-```
+<p>Manage liquidity across different time horizons:</p>
+<ul>
+<li><strong>Active Signals (60%):</strong> Currently deployed in positions</li>
+<li><strong>Pending Opportunities (25%):</strong> Ready for new signals</li>
+<li><strong>Emergency Reserve (15%):</strong> Never-touch safety buffer</li>
+</ul>
 
 </div>
 
@@ -113,14 +114,15 @@
 
 
 <p>Kelly Criterion Formula:**</p>
-```
-<p>Stake Size = (p × b - q) / b</p>
+<p>Use the Kelly Criterion to calculate optimal position sizes based on your edge:</p>
+<p><strong>Stake Size = (p × b - q) / b</strong></p>
 
-<p>** Where:**</p>
-<p>p = probability of success</p>
-<p>b = net odds (multiplier - 1)</p>
-<p>q = probability of failure (1 - p)</p>
-```
+<p>Where:</p>
+<ul>
+<li><strong>p</strong> = Your estimated probability of success</li>
+<li><strong>b</strong> = Net odds (multiplier minus 1)</li>
+<li><strong>q</strong> = Probability of failure (1 minus p)</li>
+</ul>
 
 
 
@@ -205,28 +207,25 @@
 
 <h3>💸 Track Your Flow</h3>
 <p>** Monthly Tracking:**</p>
-```
+<p>Use this template to track your token flow each month:</p>
 
-
-
-<p>Income:**</p>
+<p><strong>Income Sources:</strong></p>
 <ul>
-<li>Signal rewards: ___</li>
-<li>Bonuses earned: ___</li>
-<li>Other rewards: ___</li>
+<li>Signal rewards earned</li>
+<li>Bonus multipliers received</li>
+<li>Other platform rewards</li>
+<li><strong>Total Income</strong></li>
 </ul>
-<p>Total In: ___</p>
 
-<p>** Expenses:**</p>
+<p><strong>Expense Categories:</strong></p>
 <ul>
-<li>Failed signals: ___</li>
-<li>Gas fees: ___</li>
-<li>Platform fees: ___</li>
+<li>Failed signal losses</li>
+<li>Gas fees paid</li>
+<li>Platform fees charged</li>
+<li><strong>Total Expenses</strong></li>
 </ul>
-<p>Total Out: ___</p>
 
-<p>Net Result: ___</p>
-```
+<p><strong>Net Result:</strong> Calculate your monthly profit or loss</p>
 
 
 
@@ -460,14 +459,15 @@
 
 <p>**Maximum Drawdown:**</p>
 <p>**  Monthly Review:**</p>
-```
-<p>Signals Made: ___</p>
-<p>Success Rate: ___%</p>
-<p>Total Staked: ___ $SIGNAL</p>
-<p>Total Returned: ___ $SIGNAL</p>
-<p>Net Profit/Loss: ___ $SIGNAL</p>
-<p>ROI: ___%</p>
-```
+<p>Track these key performance metrics every month:</p>
+<ul>
+<li><strong>Signals Made:</strong> Total number of signals placed</li>
+<li><strong>Success Rate:</strong> Percentage of winning signals</li>
+<li><strong>Total Staked:</strong> Sum of all $SIGNAL risked</li>
+<li><strong>Total Returned:</strong> Sum of all rewards received</li>
+<li><strong>Net Profit/Loss:</strong> Returns minus stakes</li>
+<li><strong>ROI:</strong> Return on investment percentage</li>
+</ul>
 
 </div>
 

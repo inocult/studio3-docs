@@ -30,9 +30,7 @@
 
 <p>**Failure Result:**</p>
 <p>**  Multiplier Formula:**</p>
-```
-<p>Base Multiplier × Time Bonus × Reputation Modifier × Phase Factor</p>
-```
+<p>Your final multiplier is calculated by combining your base multiplier with various bonuses: time bonus (for early signals), reputation modifier (based on your XP), and phase factor (earlier phases have higher multipliers).</p>
 
 </div>
 
@@ -54,9 +52,7 @@
 
 <p>**Failure Result:**</p>
 <p>**  Multiplier Formula:**</p>
-```
-<p>Base Multiplier × Contrarian Bonus × Accuracy Streak × Risk Factor</p>
-```
+<p>Your doubt signal multiplier combines the base rate with bonuses for going against the crowd (contrarian bonus), your track record of correct predictions (accuracy streak), and the overall risk level of the signal.</p>
 
 </div>
 
@@ -114,14 +110,13 @@
 <h3>🔐 Technical Flow</h3>
 
 <p>1. **Signal Initiation**</p>
-   ```javascript
-<p>function createSignal(ventureId, signalType, amount) {</p>
-<p>validateStake(amount);</p>
-<p>checkVentureStatus(ventureId);</p>
-<p>lockTokens(msg.sender, amount);</p>
-<p>recordSignal(signalDetails);</p>
-<p>}</p>
-   ```
+   <p>When you create a signal, the system automatically:</p>
+   <ul>
+   <li>Validates your stake amount meets requirements</li>
+   <li>Checks that the venture is accepting signals</li>
+   <li>Locks your tokens in a secure escrow</li>
+   <li>Records your signal details on the blockchain</li>
+   </ul>
 
 <p>2. **Token Locking**</p>
 
@@ -178,11 +173,12 @@
 
 </ul>
 <p>** Pool Metrics:**</p>
-```
-<p>Total Pool = Belief Stakes + Doubt Stakes</p>
-<p>Belief Ratio = Belief Stakes / Total Pool</p>
-<p>Sentiment = (Belief - Doubt) / Total Pool</p>
-```
+<p>The signal pool tracks three key metrics:</p>
+<ul>
+<li><strong>Total Pool:</strong> The sum of all belief and doubt stakes</li>
+<li><strong>Belief Ratio:</strong> The percentage of the pool backing belief</li>
+<li><strong>Sentiment:</strong> The overall community conviction (positive for more belief, negative for more doubt)</li>
+</ul>
 
 
 
@@ -300,10 +296,7 @@
 
 <h3>📊 Risk/Reward Analysis</h3>
 <p>** Expected Value Formula:**</p>
-```
-<p>EV = (Success Probability × Reward Multiplier × Stake) -</p>
-<p>(Failure Probability × Stake)</p>
-```
+<p>To calculate if a signal is worth making, consider your expected value: multiply your estimated success chance by your potential rewards, then subtract the risk of losing your stake. A positive expected value suggests a good opportunity.</p>
 
 <p>**Example:**</p>
 
@@ -319,12 +312,13 @@
 
 </ul>
 <p>** Break-even Success Rate:**</p>
-```
-<p>Break-even = 1 / Multiplier</p>
-<p>2. 0x multiplier = 50% success needed</p>
-<p>1. 5x multiplier = 67% success needed</p>
-<p>3. 0x multiplier = 33% success needed</p>
-```
+<p>To profit from signals, you need a certain success rate based on the multiplier:</p>
+<ul>
+<li><strong>2.0x multiplier:</strong> You need at least 50% success rate to break even</li>
+<li><strong>1.5x multiplier:</strong> You need at least 67% success rate to break even</li>
+<li><strong>3.0x multiplier:</strong> You need at least 33% success rate to break even</li>
+</ul>
+<p>Higher multipliers mean you can afford more failures while still profiting.</p>
 
 </div>
 
@@ -406,23 +400,25 @@ Optimal Allocation:**
 
 ### API Access
 ** Available Endpoints:**
-```javascript
-GET /api/signals/{userId} - Your signals
-GET /api/ventures/{ventureId}/signals - Venture signals
-POST /api/signals/create - Create signal
-GET /api/signals/{signalId}/status - Check status
-```
+<p>The platform provides several ways to interact with signals programmatically:</p>
+<ul>
+<li><strong>View your signals:</strong> Access your complete signal history and active positions</li>
+<li><strong>Check venture signals:</strong> See all signals for a specific venture</li>
+<li><strong>Create new signals:</strong> Submit belief or doubt signals through the API</li>
+<li><strong>Track signal status:</strong> Monitor the real-time status of your signals</li>
+</ul>
 
 ### Smart Contract Interface
 
 
 Key Functions:**
-```solidity
-createSignal(uint ventureId, bool belief, uint amount)
-claimRewards(uint signalId)
-emergencyExit(uint signalId)
-getSignalDetails(uint signalId)
-```
+<p>The smart contract provides these main functions:</p>
+<ul>
+<li><strong>Create Signal:</strong> Submit a new belief or doubt signal with your chosen stake amount</li>
+<li><strong>Claim Rewards:</strong> Collect your earnings after successful milestone completion</li>
+<li><strong>Emergency Exit:</strong> Withdraw your stake early with a 10% penalty in special circumstances</li>
+<li><strong>Get Signal Details:</strong> View complete information about any signal</li>
+</ul>
 
 ## Monitoring Tools
 

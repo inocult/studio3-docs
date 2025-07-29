@@ -67,7 +67,7 @@
 ```python
 <p>def calculate_anchor_reward(milestone_value, complexity, performance):</p>
 <h1>Base calculation</h1>
-<p>base_reward = milestone_value * 0.03  # 3% base rate</p>
+<p>base_reward = milestone_value * 0.03 # 3% base rate</p>
 
 <h1>Complexity multiplier</h1>
 <p>complexity_bonus = {</p>
@@ -78,7 +78,7 @@
 <p>}</p>
 
 <h1>Performance multiplier</h1>
-<p>performance_bonus = min(performance / 100, 1.5)  # Up to 50% bonus</p>
+<p>performance_bonus = min(performance / 100, 1.5) # Up to 50% bonus</p>
 
 <p>total_reward = base_reward * complexity_bonus[complexity] * performance_bonus</p>
 
@@ -474,11 +474,11 @@
 ```text
 <p>Decision Framework:</p>
 <p>├── Immediate Needs</p>
-<p>│   └── Liquidate minimum required</p>
+<p>│ └── Liquidate minimum required</p>
 <p>├── Growth Potential</p>
-<p>│   └── Hold for appreciation</p>
+<p>│ └── Hold for appreciation</p>
 <p>├── Staking Opportunities</p>
-<p>│   └── Lock for higher returns</p>
+<p>│ └── Lock for higher returns</p>
 <p>└── Tax Optimization</p>
 <p>└── Time liquidations wisely</p>
 ```

@@ -82,17 +82,7 @@
 
 <h3>🏗️ How Studio3 Governs Itself</h3>
 <p>**Governance Layers:**</p>
-```
-<p>Platform Team</p>
-<p>↓</p>
-<p>Governance Council</p>
-<p>↓</p>
-<p>Anchor Council ←→ Echo Assembly ←→ Sender Forum</p>
-<p>↓</p>
-<p>Community Proposals</p>
-<p>↓</p>
-<p>Token Holder Votes</p>
-```
+<p>The governance structure flows from the Platform Team at the top, down through the Governance Council, then to the horizontal layer of Anchor Council, Echo Assembly, and Sender Forum (which all interact with each other). Below this are Community Proposals, and finally Token Holder Votes at the base. This creates a balanced system where technical implementation, policy guidance, and community input all play essential roles.</p>
 
 <p>**Decision Types:**</p>
 
@@ -207,30 +197,7 @@
 
 <h3>⚙️ How the Council Works</h3>
 <p>**Meeting Structure:**</p>
-```
-<p>Weekly Operations Meeting (2 hours)</p>
-<ul>
-<li>Current issues review</li>
-<li>Dispute resolutions</li>
-<li>Standard adjustments</li>
-<li>Quick decisions</li>
-
-</ul>
-<p>Monthly Strategy Meeting (4 hours)</p>
-<ul>
-<li>Policy development</li>
-<li>Long-term planning</li>
-<li>Ecosystem health</li>
-<li>Major proposals</li>
-
-</ul>
-<p>Quarterly Community Meeting (2 hours)</p>
-<ul>
-<li>Open forum</li>
-<li>Feedback session</li>
-<li>Transparency report</li>
-<li>Q&A</li>
-```
+<p>The council operates on a structured meeting schedule: Weekly Operations Meetings (2 hours) focus on current issues review, dispute resolutions, standard adjustments, and quick decisions. Monthly Strategy Meetings (4 hours) address policy development, long-term planning, ecosystem health, and major proposals. Quarterly Community Meetings (2 hours) provide an open forum for feedback sessions, transparency reports, and Q&A with the broader anchor community.</p>
 
 </ul>
 <p>**Decision Making:**</p>
@@ -277,21 +244,7 @@
 
 </ul>
 <p>2. **Development**</p>
-   ```
-<p>Policy Development Process:</p>
-<p>├── Research Phase</p>
-<p>│   ├── Best practices</p>
-<p>│   ├── Stakeholder input</p>
-<p>│   └── Impact analysis</p>
-<p>├── Drafting Phase</p>
-<p>│   ├── Initial proposal</p>
-<p>│   ├── Legal review</p>
-<p>│   └── Technical feasibility</p>
-<p>└── Refinement Phase</p>
-<p>├── Community feedback</p>
-<p>├── Pilot testing</p>
-<p>└── Final adjustments</p>
-   ```
+<p>The Policy Development Process follows three main phases: First, the Research Phase involves gathering best practices, collecting stakeholder input, and conducting impact analysis. Second, the Drafting Phase creates the initial proposal, conducts legal review, and assesses technical feasibility. Finally, the Refinement Phase incorporates community feedback, conducts pilot testing, and makes final adjustments before implementation.</p>
 
 <p>3. **Approval**</p>
 
@@ -408,18 +361,7 @@
 <p>**Anchor Input Areas:**</p>
 
 <p>**Validation Rewards:**</p>
-```python
-<p>reward_parameters = {</p>
-<p>"base_rate": "2-5% of milestone value",</p>
-<p>"quality_bonus": "up to 2x multiplier",</p>
-<p>"complexity_adjustment": "1.5x for technical",</p>
-<p>"phase_modifier": {</p>
-<p>"early": 1.3,</p>
-<p>"growth": 1.0,</p>
-<p>"scale": 0.8</p>
-<p>}</p>
-<p>}</p>
-```
+<p>The validation reward structure includes several components: A base rate of 2-5% of milestone value forms the foundation. Quality bonuses can multiply rewards up to 2x for exceptional work. Technical complexity adds a 1.5x adjustment for challenging validations. Phase modifiers provide 1.3x rewards in early phases to incentivize risk-taking, standard 1.0x during growth phases, and 0.8x in scale phases where ventures are more established.</p>
 
 <p>**Signal Mechanics:**</p>
 
@@ -548,15 +490,7 @@
 
 </ul>
 <p>**Innovation Funding:**</p>
-```
-<p>Innovation Budget Allocation:</p>
-<ul>
-<li>Anchor tools: 30%</li>
-<li>Process improvements: 25%</li>
-<li>Community experiments: 20%</li>
-<li>Technical infrastructure: 15%</li>
-<li>Research/education: 10%</li>
-```
+<p>The innovation budget strategically allocates resources across key areas: 30% goes to developing anchor tools that enhance validation capabilities, 25% funds process improvements for better efficiency, 20% supports community experiments and pilot programs, 15% strengthens technical infrastructure, and 10% invests in research and education initiatives. This balanced approach ensures continuous improvement across all aspects of the ecosystem.</p>
 
 </ul>
 <p>**Success Metrics:**</p>
@@ -777,56 +711,7 @@
 
 </ul>
 <p>**Emergency Protocol:**</p>
-```
-<p>1. Issue Identification (Hour 1)</p>
-
-<ul>
-<li>Threat assessment</li>
-
-<li>Stakeholder alert</li>
-
-<li>Initial response</li>
-
-</ul>
-<p>2. Emergency Assembly (Hours 2-4)</p>
-
-<ul>
-<li>Core team convenes</li>
-
-<li>Situation analysis</li>
-
-<li>Option development</li>
-
-</ul>
-<p>3. Rapid Decision (Hours 4-8)</p>
-
-<ul>
-<li>Streamlined process</li>
-
-<li>Temporary measures</li>
-
-<li>Implementation plan</li>
-
-</ul>
-<p>4. Community Communication (Hour 8+)</p>
-
-<ul>
-<li>Transparent updates</li>
-
-<li>Rationale explanation</li>
-
-<li>Next steps</li>
-
-</ul>
-<p>5. Post-Crisis Review (Week 1)</p>
-
-<ul>
-<li>Effectiveness analysis</li>
-
-<li>Permanent solutions</li>
-
-<li>Process improvement</li>
-```
+<p>The emergency response protocol follows a rapid timeline: In Hour 1, focus on Issue Identification through threat assessment, stakeholder alerts, and initial response. Hours 2-4 involve Emergency Assembly where the core team convenes for situation analysis and option development. Hours 4-8 require Rapid Decision-making using streamlined processes to implement temporary measures. From Hour 8 onward, Community Communication provides transparent updates, rationale explanations, and next steps. Within Week 1, conduct a Post-Crisis Review analyzing effectiveness, developing permanent solutions, and improving processes for future emergencies.</p>
 
 </ul>
 </div>

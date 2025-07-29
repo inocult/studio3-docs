@@ -339,11 +339,7 @@
 
 </ul>
 <p>** Information Flow:**</p>
-```
-<p>Discovery → Analysis → Review → Decision → Execution → Learning</p>
-<p>↑                                                      ↓</p>
-<p>←←←←←←←←←←←←← Feedback Loop ←←←←←←←←←←←←←←←←←←←</p>
-```
+<p>Information moves through your network in a continuous cycle: from initial discovery of opportunities, through collaborative analysis and review, to collective decision-making and execution, with learnings feeding back to improve future discoveries. This creates a powerful feedback loop that continuously improves your network's effectiveness.</p>
 
 </div>
 

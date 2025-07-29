@@ -633,33 +633,34 @@
 
 <h3>📊 Phase Diversification</h3>
 <p>** Aggressive Portfolio:**</p>
-```
-<p>Spark: 25%</p>
-<p>Forge: 20%</p>
-<p>Ignition: 30%</p>
-<p>Drift: 15%</p>
-<p>Later: 10%</p>
-```
+<p>For risk-tolerant Echoes seeking maximum returns:</p>
+<ul>
+<li><strong>Spark Phase: 25%</strong> - High risk, highest potential returns</li>
+<li><strong>Forge Phase: 20%</strong> - Competition outcomes offer strong opportunities</li>
+<li><strong>Ignition Phase: 30%</strong> - Building phase with good risk/reward balance</li>
+<li><strong>Drift Phase: 15%</strong> - Market validation reducing exposure</li>
+<li><strong>Later Phases: 10%</strong> - Minimal allocation to mature ventures</li>
+</ul>
 
-
-
-<p>Balanced Portfolio:**</p>
-```
-<p>Spark: 10%</p>
-<p>Forge: 15%</p>
-<p>Ignition: 25%</p>
-<p>Drift: 25%</p>
-<p>Later: 25%</p>
-```
+<p>** Balanced Portfolio:**</p>
+<p>For steady growth with managed risk:</p>
+<ul>
+<li><strong>Spark Phase: 10%</strong> - Limited exposure to highest risk</li>
+<li><strong>Forge Phase: 15%</strong> - Moderate competition plays</li>
+<li><strong>Ignition Phase: 25%</strong> - Core allocation to building phase</li>
+<li><strong>Drift Phase: 25%</strong> - Equal weight to validation phase</li>
+<li><strong>Later Phases: 25%</strong> - Stability from mature ventures</li>
+</ul>
 
 <p>** Conservative Portfolio:**</p>
-```
-<p>Spark: 5%</p>
-<p>Forge: 10%</p>
-<p>Ignition: 20%</p>
-<p>Drift: 30%</p>
-<p>Later: 35%</p>
-```
+<p>For risk-averse Echoes prioritizing capital preservation:</p>
+<ul>
+<li><strong>Spark Phase: 5%</strong> - Minimal early-stage exposure</li>
+<li><strong>Forge Phase: 10%</strong> - Small allocation to competitions</li>
+<li><strong>Ignition Phase: 20%</strong> - Moderate building phase exposure</li>
+<li><strong>Drift Phase: 30%</strong> - Focus on proven traction</li>
+<li><strong>Later Phases: 35%</strong> - Majority in established ventures</li>
+</ul>
 
 </div>
 
@@ -693,15 +694,54 @@
 
 
 <p>Track Your Success:**</p>
-```
-<p>Phase      | Signals | Wins | Win% | Avg Return</p>
-<p>-----------|---------|------|------|------------</p>
-<p>Spark      |    20   |  11  | 55%  |   2.8x</p>
-<p>Forge      |    15   |  10  | 67%  |   2.3x</p>
-<p>Ignition   |    25   |  18  | 72%  |   1.9x</p>
-<p>Drift      |    20   |  15  | 75%  |   1.7x</p>
-<p>Orbit+     |    20   |  17  | 85%  |   1.4x</p>
-```
+<p>Use this template to monitor your phase-specific performance:</p>
+
+<table>
+<tr>
+<th>Phase</th>
+<th>Total Signals</th>
+<th>Successful</th>
+<th>Win Rate</th>
+<th>Average Return</th>
+</tr>
+<tr>
+<td>Spark</td>
+<td>Track total Spark signals</td>
+<td>Count wins</td>
+<td>Calculate %</td>
+<td>Average multiplier</td>
+</tr>
+<tr>
+<td>Forge</td>
+<td>Track Forge signals</td>
+<td>Count wins</td>
+<td>Calculate %</td>
+<td>Average multiplier</td>
+</tr>
+<tr>
+<td>Ignition</td>
+<td>Track Ignition signals</td>
+<td>Count wins</td>
+<td>Calculate %</td>
+<td>Average multiplier</td>
+</tr>
+<tr>
+<td>Drift</td>
+<td>Track Drift signals</td>
+<td>Count wins</td>
+<td>Calculate %</td>
+<td>Average multiplier</td>
+</tr>
+<tr>
+<td>Later Phases</td>
+<td>Track Orbit+ signals</td>
+<td>Count wins</td>
+<td>Calculate %</td>
+<td>Average multiplier</td>
+</tr>
+</table>
+
+<p>Example benchmarks: Spark (55% win rate, 2.8x return), Forge (67% win rate, 2.3x return), Ignition (72% win rate, 1.9x return), Drift (75% win rate, 1.7x return), Later phases (85% win rate, 1.4x return)</p>
 
 <p>** Optimization Focus:**</p>
 <ul>

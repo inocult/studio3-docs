@@ -17,8 +17,8 @@
 Senders are the entrepreneurs who:
 
 - **Create ventures** from remixed IP-NFTs
-- **Compete publicly**  for the right to build
-- **Execute transparently**  with community oversight
+- **Compete publicly** for the right to build
+- **Execute transparently** with community oversight
 - **Progress through phases** to achieve sovereignty
 
 - **Inspire belief** through consistent delivery
@@ -171,13 +171,13 @@ Senders are the entrepreneurs who:
 ### How Funding Works
 
 **Progressive Capital Access:**
-- **Spark Phase** : Initial signals (100-1,000 $SIGNAL)
-- **Forge Phase** : Competition stakes (1,000-10,000 $SIGNAL)
-- **Ignition Phase** : MVP funding (10,000-50,000 $SIGNAL)
-- **Drift Phase** : Growth capital (50,000-200,000 $SIGNAL)
-- **Orbit Phase** : Stability funding (200,000-1M $SIGNAL)
-- **Flare Phase** : Scale capital (1M-10M $SIGNAL)
-- **Ascension** : Buyback funds (Variable)**
+- **Spark Phase**: Initial signals (100-1,000 $SIGNAL)
+- **Forge Phase**: Competition stakes (1,000-10,000 $SIGNAL)
+- **Ignition Phase**: MVP funding (10,000-50,000 $SIGNAL)
+- **Drift Phase**: Growth capital (50,000-200,000 $SIGNAL)
+- **Orbit Phase**: Stability funding (200,000-1M $SIGNAL)
+- **Flare Phase**: Scale capital (1M-10M $SIGNAL)
+- **Ascension**: Buyback funds (Variable)
 
 ### Token Economics
 

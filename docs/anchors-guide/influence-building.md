@@ -85,35 +85,40 @@ Influence as an Anchor directly correlates with your ability to guide ventures s
 ### Novice Anchor (0-6 months)
 
 - **Influence Score**: 1-25
-- **Validation Weight** : 1x
-- **Benefits** : Basic access
-- **Focus** : Learn and observe**
+- **Validation Weight**: 1x
+- **Benefits**: Basic access
+- **Focus**: Learn and observe
 
 ### Established Anchor (6-18 months)
 
 - **Influence Score**: 26-50
-- **Validation Weight** : 2x
-- **Benefits** : Priority matching
-- **Focus** : Build track record**
+- **Validation Weight**: 2x
+- **Benefits**: Priority matching
+- **Focus**: Build track record
 
 ### Senior Anchor (18+ months)
 
 - **Influence Score**: 51-75
-- **Validation Weight** : 3x
-- **Benefits** : Premium ventures
-- **Focus** : Thought leadership**
+- **Validation Weight**: 3x
+- **Benefits**: Premium ventures
+- **Focus**: Thought leadership
 
 ### Master Anchor (3+ years)
 
 - **Influence Score**: 76-100
-- **Validation Weight** : 5x
-- **Benefits** : Ecosystem shaping
-- **Focus** : Legacy building**
+- **Validation Weight**: 5x
+- **Benefits**: Ecosystem shaping
+- **Focus**: Legacy building
 
 ## Reputation Management
 
 ### Building Trust
-1. **Transparency**: Document decisions**2. **Consistency**: Reliable presence**3. **Integrity**: Ethical standards**4. **Results**: Proven outcomes**### Maintaining Standards
+1. **Transparency**: Document decisions
+2. **Consistency**: Reliable presence
+3. **Integrity**: Ethical standards
+4. **Results**: Proven outcomes
+
+### Maintaining Standards
 - Regular self-assessment
 - Peer review participation
 - Continuous education
@@ -190,16 +195,16 @@ Influence as an Anchor directly correlates with your ability to guide ventures s
 ### Technical Anchor
 
 - **Specialization**: AI/ML ventures
-- **Influence Score** : 89
-- **Success Rate** : 78%
-- **Annual Earnings** : $500K+**
+- **Influence Score**: 89
+- **Success Rate**: 78%
+- **Annual Earnings**: $500K+
 
 ### Business Anchor
 
 - **Specialization**: B2B SaaS
-- **Influence Score** : 92
-- **Success Rate** : 82%
-- **Annual Earnings** : $750K+
+- **Influence Score**: 92
+- **Success Rate**: 82%
+- **Annual Earnings**: $750K+
 
 ## Growth Tactics
 

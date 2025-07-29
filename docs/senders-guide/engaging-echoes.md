@@ -108,9 +108,7 @@
 <li>Tertiary: Contributing to ecosystem growth</li>
 </ul>
 
-
-
-<p>Engagement Principles:**</p>
+<p><strong>Engagement Principles:</strong></p>
 <ul>
 <li>**Acknowledge all motivations**</li>
 <li>Deliver on expectations</li>
@@ -696,7 +694,7 @@
 <h3>📊 Tracking Community Health</h3>
 
 
-<p>Key Metrics:**</p>
+<p><strong>Key Metrics:</strong></p>
 <p><strong>Echo Community Metrics:</strong></p>
 
 <p><strong>Acquisition Metrics:</strong></p>
@@ -789,6 +787,7 @@
 ### Building on Echo Success
 
 Ready to handle challenges? Continue to:
+
 1. [Handling Doubt](handling-doubt.md) - Managing negative signals
 2. [Building Momentum](building-momentum.md) - Accelerating growth
 3. [Drift Navigation](drift-navigation.md) - Finding product-market fit
