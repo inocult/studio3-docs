@@ -58,10 +58,14 @@ graph LR
 
 ### Supporting Infrastructure
 
-- **Container DAOs**: Lightweight governance wrappers for each venture
-- **Genesis Wallets**: Multisig treasuries holding venture NFTs
-- **Signal Pools**: Aggregated belief/doubt for each milestone
-- **Reputation System**: XP tracking for all participants
+- **Container DAOs**:
+  Lightweight governance wrappers for each venture
+- **Genesis Wallets**:
+  Multisig treasuries holding venture NFTs
+- **Signal Pools**:
+  Aggregated belief/doubt for each milestone
+- **Reputation System**:
+  XP tracking for all participants
 
 ## Value Flows
 
@@ -93,10 +97,14 @@ The source of all Spark NFTs through IP remixing:
 
 ### 🤝 Partner Networks
 
-- **Technical Validators**: Specialized anchors for deep tech
-- **Capital Partners**: Funding sources for Flare phase
-- **Service Providers**: Legal, marketing, development support
-- **Alumni Network**: Graduated ventures supporting newcomers
+- **Technical Validators**:
+  Specialized anchors for deep tech assessment
+- **Capital Partners**:
+  Funding sources for Flare phase
+- **Service Providers**:
+  Legal, marketing, development support
+- **Alumni Network**:
+  Graduated ventures supporting newcomers
 
 ## Network Effects
 
@@ -109,10 +117,14 @@ The source of all Spark NFTs through IP remixing:
 
 ### Defensive Moats
 
-- **Reputation persistence**: XP can't be gamed or transferred
-- **Skin in the game**: Real token stakes prevent spam
-- **Public execution**: Transparency deters bad actors
-- **Community memory**: Past performance influences future
+- **Reputation persistence**:
+  XP can't be gamed or transferred
+- **Skin in the game**:
+  Real token stakes prevent spam
+- **Public execution**:
+  Transparency deters bad actors
+- **Community memory**:
+  Past performance influences future
 
 ## Ecosystem Health Metrics
 
