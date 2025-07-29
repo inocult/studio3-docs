@@ -18,15 +18,15 @@
 
 <h3>📈 Risk-Return by Phase</h3>
 
-<p>| Phase | Risk Level | Return Range | Success Rate | Typical Duration |</p>
-<p>|-------|------------|--------------|--------------|-----------------|</p>
-<p>| ✨ Spark | Very High | 2.5x-4x | 55-60% | 7-14 days |</p>
-<p>| ⚔️ Forge | High | 2x-3x | 60-65% | 14-21 days |</p>
-<p>| 🚀 Ignition | High-Med | 1.7x-2.5x | 65-70% | 30-60 days |</p>
-<p>| 🌊 Drift | Medium | 1.5x-2x | 70-75% | 60-90 days |</p>
-<p>| 🛸 Orbit | Low-Med | 1.3x-1.7x | 75-80% | 90-120 days |</p>
-<p>| 🔥 Flare | Low | 1.2x-1.5x | 80-85% | 120-180 days |</p>
-<p>| 🎖️ Ascension | Very Low | 1.1x-1.3x | 85-90% | 180+ days |</p>
+| Phase | Risk Level | Return Range | Success Rate | Typical Duration |
+|-------|------------|--------------|--------------|------------------|
+| ✨ Spark | Very High | 2.5x-4x | 55-60% | 7-14 days |
+| ⚔️ Forge | High | 2x-3x | 60-65% | 14-21 days |
+| 🚀 Ignition | High-Med | 1.7x-2.5x | 65-70% | 30-60 days |
+| 🌊 Drift | Medium | 1.5x-2x | 70-75% | 60-90 days |
+| 🛸 Orbit | Low-Med | 1.3x-1.7x | 75-80% | 90-120 days |
+| 🔥 Flare | Low | 1.2x-1.5x | 80-85% | 120-180 days |
+| 🎖️ Ascension | Very Low | 1.1x-1.3x | 85-90% | 180+ days |
 
 </div>
 
@@ -38,8 +38,7 @@
 
 <h3>✨ Spark Phase Mastery</h3>
 
-<p>**Phase Characteristics:**</p>
-
+<p><strong>Phase Characteristics:</strong></p>
 <ul>
 <li>**Raw ideas enter Arena**</li>
 <li>Minimal validation</li>
@@ -48,7 +47,8 @@
 <li>Shortest duration</li>
 
 </ul>
-<p>** What to Look For:**</p>
+<p><strong>What to Look For:</strong></p>
+
 <ul>
 <li>**Novel IP combinations**</li>
 <li>Clear problem statements</li>
@@ -57,7 +57,7 @@
 <li>Community excitement</li>
 
 </ul>
-<p>** Red Flags:**</p>
+<p><strong>Red Flags:</strong></p>
 <ul>
 <li>**Vague descriptions**</li>
 <li>Anonymous teams</li>
@@ -73,7 +73,7 @@
 <div class="arena-card">
 
 <h3>💡 Spark Tactics</h3>
-<p>** Approach Options:**</p>
+<p><strong>Approach Options:</strong></p>
 <p>1. **Early Bird Strategy**</p>
 
 <ul>
@@ -94,15 +94,14 @@
 <li>Observe initial traction</li>
 
 <li>Read community sentiment</li>
-<li>Enter days 3</li>
-<li>5</li>
+<li>Enter days 3-5</li>
 
 <li>Balanced risk/reward</li>
 
 <li>More information</li>
 
 </ul>
-<p>** Position Sizing:**</p>
+<p><strong>Position Sizing:</strong></p>
 <ul>
 <li>**Maximum 1% of portfolio per signal**</li>
 <li>Diversify across 5-10 Sparks</li>
@@ -119,7 +118,7 @@
 <div class="arena-card">
 
 <h3>⚔️ Forge Phase Mastery</h3>
-<p>** Phase Characteristics:**</p>
+<p><strong>Phase Characteristics:</strong></p>
 <ul>
 <li>**Multiple founders compete**</li>
 <li>Public presentations</li>
@@ -128,7 +127,7 @@
 <li>High drama/engagement</li>
 
 </ul>
-<p>** What to Analyze:**</p>
+<p><strong>What to Analyze:</strong></p>
 <ul>
 <li>**Founder quality comparison**</li>
 <li>Vision clarity</li>
@@ -137,7 +136,7 @@
 <li>Presentation skills</li>
 
 </ul>
-<p>** Key Metrics:**</p>
+<p><strong>Key Metrics:</strong></p>
 <ul>
 <li>**Previous experience**</li>
 <li>Technical competence</li>
@@ -153,7 +152,7 @@
 <div class="arena-card">
 
 <h3>🏆 Competition Tactics</h3>
-<p>** Signal Timing:**</p>
+<p><strong>Signal Timing:</strong></p>
 <p>1. **Pre-Duel Research**</p>
 
 <ul>
@@ -190,7 +189,7 @@
 <li>Support actively</li>
 
 </ul>
-<p>** Advanced Tactics:**</p>
+<p><strong>Advanced Tactics:</strong></p>
 <ul>
 <li>**Hedge top 2 candidates**</li>
 <li>Fade obvious losers</li>
@@ -207,7 +206,7 @@
 <div class="arena-card">
 
 <h3>🚀 Ignition Phase Mastery</h3>
-<p>** Phase Characteristics:**</p>
+<p><strong>Phase Characteristics:</strong></p>
 <ul>
 <li>**MVP development**</li>
 <li>First real building</li>
@@ -216,7 +215,7 @@
 <li>Progress visible</li>
 
 </ul>
-<p>** Critical Milestones:**</p>
+<p><strong>Critical Milestones:</strong></p>
 <ul>
 <li>**Technical architecture**</li>
 <li>First demo</li>
@@ -225,7 +224,7 @@
 <li>Launch readiness</li>
 
 </ul>
-<p>** Success Indicators:**</p>
+<p><strong>Success Indicators:</strong></p>
 <ul>
 <li>**Regular updates**</li>
 <li>Demo quality</li>
@@ -241,13 +240,12 @@
 <div class="arena-card">
 
 <h3>🔧 Building Phase Tactics</h3>
-<p>** Entry Points:**</p>
+<p><strong>Entry Points:</strong></p>
 <p>1. **Early Ignition (Days 1-15)**</p>
 
 <ul>
 <li>Higher risk/reward</li>
-<li>Pre</li>
-<li>demo entry</li>
+<li>Pre-demo entry</li>
 
 <li>Team trust required</li>
 
@@ -278,7 +276,7 @@
 <li>High certainty</li>
 
 </ul>
-<p>** Key Assessments:**</p>
+<p><strong>Key Assessments:</strong></p>
 <ul>
 <li>**Demo functionality**</li>
 <li>Code quality</li>
@@ -296,7 +294,7 @@
 <div class="arena-card">
 
 <h3>🌊 Drift Phase Mastery</h3>
-<p>** Phase Characteristics:**</p>
+<p><strong>Phase Characteristics:</strong></p>
 <ul>
 <li>**Market validation**</li>
 <li>User acquisition</li>
@@ -305,7 +303,7 @@
 <li>Pivot potential</li>
 
 </ul>
-<p>** Key Metrics:**</p>
+<p><strong>Key Metrics:</strong></p>
 <ul>
 <li>**User growth rate**</li>
 <li>Retention metrics</li>
@@ -314,7 +312,7 @@
 <li>Competitive position</li>
 
 </ul>
-<p>** Risk Factors:**</p>
+<p><strong>Risk Factors:</strong></p>
 <ul>
 <li>**Market rejection**</li>
 <li>Slow adoption</li>
@@ -330,7 +328,7 @@
 <div class="arena-card">
 
 <h3>📊 Market Validation Tactics</h3>
-<p>** Signal Approach:**</p>
+<p><strong>Signal Approach:</strong></p>
 <p>1. **Growth Momentum Play**</p>
 
 <ul>
@@ -359,7 +357,7 @@
 <li>Careful timing</li>
 
 </ul>
-<p>** Analysis Focus:**</p>
+<p><strong>Analysis Focus:</strong></p>
 <ul>
 <li>**Weekly active users**</li>
 <li>Revenue growth</li>
@@ -377,7 +375,7 @@
 <div class="arena-card">
 
 <h3>🛸 Orbit Phase Mastery</h3>
-<p>** Phase Characteristics:**</p>
+<p><strong>Phase Characteristics:</strong></p>
 <ul>
 <li>**Stable operations**</li>
 <li>Predictable growth</li>
@@ -386,7 +384,7 @@
 <li>Steady returns</li>
 
 </ul>
-<p>** Investment Thesis:**</p>
+<p><strong>Investment Thesis:</strong></p>
 <ul>
 <li>**Proven model**</li>
 <li>Execution focus</li>
@@ -395,7 +393,7 @@
 <li>Consistent returns</li>
 
 </ul>
-<p>** Due Diligence:**</p>
+<p><strong>Due Diligence:</strong></p>
 <ul>
 <li>**Financial metrics**</li>
 <li>Operational efficiency</li>
@@ -411,7 +409,7 @@
 <div class="arena-card">
 
 <h3>⚖️ Stability Investing</h3>
-<p>** Portfolio Role:**</p>
+<p><strong>Portfolio Role:</strong></p>
 <ul>
 <li>**Core holdings**</li>
 <li>Larger positions</li>
@@ -420,7 +418,7 @@
 <li>Risk balance</li>
 
 </ul>
-<p>** Signal Sizing:**</p>
+<p><strong>Signal Sizing:</strong></p>
 <ul>
 <li>**3-5% positions acceptable**</li>
 <li>Focus on quality</li>
@@ -429,7 +427,7 @@
 <li>Low maintenance</li>
 
 </ul>
-<p>** Selection Criteria:**</p>
+<p><strong>Selection Criteria:</strong></p>
 <ul>
 <li>**6+ months operations**</li>
 <li>Positive unit economics</li>
@@ -447,7 +445,7 @@
 <div class="arena-card">
 
 <h3>🔥 Flare Phase Mastery</h3>
-<p>** Phase Characteristics:**</p>
+<p><strong>Phase Characteristics:</strong></p>
 <ul>
 <li>**Aggressive scaling**</li>
 <li>Major funding</li>
@@ -456,7 +454,7 @@
 <li>Exit preparation</li>
 
 </ul>
-<p>** Growth Indicators:**</p>
+<p><strong>Growth Indicators:</strong></p>
 <ul>
 <li>**Revenue acceleration**</li>
 <li>Geographic expansion</li>
@@ -465,7 +463,7 @@
 <li>Brand recognition</li>
 
 </ul>
-<p>** Risk Considerations:**</p>
+<p><strong>Risk Considerations:</strong></p>
 <ul>
 <li>**Execution complexity**</li>
 <li>Competition response</li>
@@ -481,7 +479,7 @@
 <div class="arena-card">
 
 <h3>📈 Scale Investment Tactics</h3>
-<p>** Investment Approach:**</p>
+<p><strong>Investment Approach:</strong></p>
 <ul>
 <li>**Large, safe positions**</li>
 <li>Lower returns accepted</li>
@@ -490,7 +488,7 @@
 <li>Network effects</li>
 
 </ul>
-<p>** Due Diligence Focus:**</p>
+<p><strong>Due Diligence Focus:</strong></p>
 <ul>
 <li>**Management quality**</li>
 <li>Scalability proof</li>
@@ -499,7 +497,7 @@
 <li>Exit potential</li>
 
 </ul>
-<p>** Position Management:**</p>
+<p><strong>Position Management:</strong></p>
 <ul>
 <li>**5%+ positions possible**</li>
 <li>Long-term perspective</li>
@@ -517,7 +515,7 @@
 <div class="arena-card">
 
 <h3>🎖️ Ascension Phase Mastery</h3>
-<p>** Phase Characteristics:**</p>
+<p><strong>Phase Characteristics:</strong></p>
 <ul>
 <li>**Near sovereignty**</li>
 <li>Proven success</li>
@@ -526,7 +524,7 @@
 <li>Victory lap</li>
 
 </ul>
-<p>** Investment Rationale:**</p>
+<p><strong>Investment Rationale:</strong></p>
 <ul>
 <li>**Celebration participation**</li>
 <li>Community support</li>
@@ -535,7 +533,7 @@
 <li>Historical significance</li>
 
 </ul>
-<p>** Returns Expectation:**</p>
+<p><strong>Returns Expectation:</strong></p>
 <ul>
 <li>**Minimal financial return**</li>
 <li>Reputational value</li>
@@ -553,7 +551,7 @@
 <div class="arena-card">
 
 <h3>🔄 Transition Opportunities</h3>
-<p>** Phase Transition Signals:**</p>
+<p><strong>Phase Transition Signals:</strong></p>
 <ul>
 <li>**End of current phase**</li>
 <li>Strong performance</li>
@@ -562,7 +560,7 @@
 <li>Community confidence</li>
 
 </ul>
-<p>** Tactics:**</p>
+<p><strong>Tactics:</strong></p>
 <p>1. **Pre-Transition Entry**</p>
 
 <ul>
@@ -590,7 +588,7 @@
 <div class="arena-card">
 
 <h3>💎 Multi-Phase Strategies</h3>
-<p>** Arbitrage Patterns:**</p>
+<p><strong>Arbitrage Patterns:</strong></p>
 <p>1. **Similar Ventures, Different Phases**</p>
 
 <ul>
@@ -632,7 +630,7 @@
 <div class="arena-card">
 
 <h3>📊 Phase Diversification</h3>
-<p>** Aggressive Portfolio:**</p>
+<p><strong>Aggressive Portfolio:</strong></p>
 <p>For risk-tolerant Echoes seeking maximum returns:</p>
 <ul>
 <li><strong>Spark Phase: 25%</strong> - High risk, highest potential returns</li>
@@ -642,7 +640,7 @@
 <li><strong>Later Phases: 10%</strong> - Minimal allocation to mature ventures</li>
 </ul>
 
-<p>** Balanced Portfolio:**</p>
+<p><strong>Balanced Portfolio:</strong></p>
 <p>For steady growth with managed risk:</p>
 <ul>
 <li><strong>Spark Phase: 10%</strong> - Limited exposure to highest risk</li>
@@ -652,7 +650,7 @@
 <li><strong>Later Phases: 25%</strong> - Stability from mature ventures</li>
 </ul>
 
-<p>** Conservative Portfolio:**</p>
+<p><strong>Conservative Portfolio:</strong></p>
 <p>For risk-averse Echoes prioritizing capital preservation:</p>
 <ul>
 <li><strong>Spark Phase: 5%</strong> - Minimal early-stage exposure</li>
@@ -672,15 +670,15 @@
 
 <h3>⚠️ Phase Risk Matrix</h3>
 
-<p>| Phase | Primary Risk | Mitigation Strategy |</p>
-<p>|-------|--------------|-------------------|</p>
-<p>| Spark | Idea invalidation | Small positions, diversify |</p>
-<p>| Forge | Wrong winner | Research all candidates |</p>
-<p>| Ignition | Technical failure | Check progress weekly |</p>
-<p>| Drift | No PMF | Monitor metrics closely |</p>
-<p>| Orbit | Growth stall | Focus on quality teams |</p>
-<p>| Flare | Scale failure | Due diligence critical |</p>
-<p>| Ascension | Minimal | Enjoy the ride |</p>
+| Phase | Primary Risk | Mitigation Strategy |
+|-------|--------------|-------------------|
+| Spark | Idea invalidation | Small positions, diversify |
+| Forge | Wrong winner | Research all candidates |
+| Ignition | Technical failure | Check progress weekly |
+| Drift | No PMF | Monitor metrics closely |
+| Orbit | Growth stall | Focus on quality teams |
+| Flare | Scale failure | Due diligence critical |
+| Ascension | Minimal | Enjoy the ride |
 
 </div>
 
@@ -693,7 +691,7 @@
 <h3>📈 Phase Performance Tracking</h3>
 
 
-<p>Track Your Success:**</p>
+<p><strong>Track Your Success:</strong></p>
 <p>Use this template to monitor your phase-specific performance:</p>
 
 <table>
@@ -743,7 +741,7 @@
 
 <p>Example benchmarks: Spark (55% win rate, 2.8x return), Forge (67% win rate, 2.3x return), Ignition (72% win rate, 1.9x return), Drift (75% win rate, 1.7x return), Later phases (85% win rate, 1.4x return)</p>
 
-<p>** Optimization Focus:**</p>
+<p><strong>Optimization Focus:</strong></p>
 <ul>
 <li>**Identify strong phases**</li>
 <li>Improve weak areas</li>
@@ -758,6 +756,7 @@
 ### Complete Your Education
 
 Continue with:
+
 1. [Contrarian Plays](contrarian-plays.md) - Against the grain
 2. [Risk Management](risk-management.md) - Protect capital
 3. [Community Engagement](community-engagement.md) - Build influence

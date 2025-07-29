@@ -28,7 +28,7 @@
 <li>[ ] Join Echo community channels</li>
 
 </ul>
-<p>** Technical Setup:**</p>
+<p>**Technical Setup:**</p>
 <ul>
 <li>**[ ] Wallet connected**</li>
 <li>[ ] $SIGNAL tokens acquired</li>
@@ -37,7 +37,7 @@
 <li>[ ] Notifications enabled</li>
 
 </ul>
-<p>** Mental Preparation:**</p>
+<p>**Mental Preparation:**</p>
 <ul>
 <li>**[ ] Accept risk of loss**</li>
 <li>[ ] Start small mindset</li>
@@ -55,7 +55,7 @@
 <div class="arena-card">
 
 <h3>🔍 What to Look For</h3>
-<p>** Beginner-Friendly Ventures:**</p>
+<p>**Beginner-Friendly Ventures:**</p>
 <p>1. **Clear Milestones**</p>
 
 <ul>
@@ -108,6 +108,7 @@
 
 ### Red Flags to Avoid
 ** Warning Signs:**
+
 - **Anonymous teams**
 - Vague milestones
 - Unrealistic timelines
@@ -218,6 +219,7 @@
 
 ### Post-Signal Actions
 ** Immediate Steps:**
+
 - **Verify transaction success**
 - Check signal appears
 - Read other signals
@@ -225,6 +227,7 @@
 - Ask any questions
 
 ** Ongoing Engagement:**
+
 - **Daily progress checks**
 - Participate in discussions
 - Support the venture
@@ -464,9 +467,7 @@
 <li><strong>Lessons:</strong> What you learned from this signal</li>
 </ul>
 
-
-
-<p>Key Metrics:**</p>
+<p>**Key Metrics:**</p>
 <ul>
 <li>**Total signals made**</li>
 <li>Success rate %</li>
@@ -484,7 +485,7 @@
 <div class="arena-card">
 
 <h3>🎯 Level Up Strategy</h3>
-<p>** If First Signal Succeeded:**</p>
+<p>**If First Signal Succeeded:**</p>
 <ul>
 <li>**Similar venture type**</li>
 <li>Slightly larger stake</li>
@@ -493,7 +494,7 @@
 <li>Stay disciplined</li>
 
 </ul>
-<p>** If First Signal Failed:**</p>
+<p>**If First Signal Failed:**</p>
 <ul>
 <li>**Different approach**</li>
 <li>Smaller stake</li>
@@ -596,6 +597,7 @@
 ### Continue Your Journey
 
 After your first signals:
+
 1. [Token Management](token-management.md) - Optimize your bankroll
 2. [Evaluating Ventures](evaluating-ventures.md) - Deepen analysis
 3. [Portfolio Management](portfolio-management.md) - Scale systematically

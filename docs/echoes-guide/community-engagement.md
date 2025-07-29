@@ -18,51 +18,37 @@
 
 <h3>🌐 Community Structure</h3>
 
-<p>**Key Community Spaces:**</p>
-
-<p>1. **Discord Server:**</p>
+<p><strong>Key Community Spaces:</strong></p>
+<ol>
+<li><strong>Discord Server:</strong>
 <ul>
-<li>Real</li>
-<li>time discussions</li>
-<li>Role</li>
-<li>specific channels</li>
-
+<li>Real-time discussions</li>
+<li>Role-specific channels</li>
 <li>Voice rooms</li>
-
 <li>Event spaces</li>
-
 </ul>
-<p>2. **Forum:**</p>
-
-<p>**Platform**</p>
-
+</li>
+<li><strong>Forum Platform:</strong>
 <ul>
 <li>Deep analysis</li>
-
 <li>Strategy discussions</li>
-
 <li>Educational content</li>
-
 <li>Governance debates</li>
-
 </ul>
-<p>3. **Social Media:**</p>
-
+</li>
+<li><strong>Social Media:</strong>
 <ul>
 <li>Twitter updates</li>
-
 <li>YouTube tutorials</li>
-
 <li>Medium articles</li>
-
 <li>Reddit discussions</li>
-
-
-
 </ul>
-<p>Community Roles:**</p>
+</li>
+</ol>
+
+<p><strong>Community Roles:</strong></p>
 <ul>
-<li>**Newcomers seeking guidance**</li>
+<li><strong>Newcomers seeking guidance</strong></li>
 <li>Active Echoes sharing insights</li>
 <li>Veteran leaders mentoring</li>
 <li>Builders creating tools</li>
@@ -76,18 +62,18 @@
 <div class="arena-card">
 
 <h3>💡 Give and Receive</h3>
-<p>** What You Can Offer:**</p>
+<p><strong>What You Can Offer:</strong></p>
 <ul>
-<li>**Research and analysis**</li>
+<li><strong>Research and analysis</strong></li>
 <li>Experience and lessons</li>
 <li>Tools and resources</li>
 <li>Mentorship time</li>
 <li>Positive energy</li>
 
 </ul>
-<p>** What You Can Gain:**</p>
+<p><strong>What You Can Gain:</strong></p>
 <ul>
-<li>**Early information**</li>
+<li><strong>Early information</strong></li>
 <li>Collective wisdom</li>
 <li>Support network</li>
 <li>Collaboration opportunities</li>
@@ -148,7 +134,7 @@
 <div class="arena-card">
 
 <h3>💬 Effective Communication</h3>
-<p>** Written Communication:**</p>
+<p>**Written Communication:**</p>
 <p>1. **Be Clear**</p>
 
 <ul>
@@ -185,7 +171,7 @@
 <li>Stay positive</li>
 
 </ul>
-<p>** Voice Communication:**</p>
+<p>**Voice Communication:**</p>
 <ul>
 <li>**Prepare talking points**</li>
 <li>Listen actively</li>
@@ -799,7 +785,7 @@
 </ul>
 <p>5. **Innovation**</p>
 <ul>
-<li>Push boundaries**</li>
+<li>**Push boundaries**</li>
 <li>**The Community Pledge:**</li>
 
 </ul>
@@ -812,6 +798,7 @@
 ### Complete Your Journey
 
 Final steps:
+
 1. [Influence Building](influence-building.md) - Thought leadership
 2. [Echo Networks](echo-networks.md) - Advanced collaboration
 

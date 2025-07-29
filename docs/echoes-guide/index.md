@@ -82,7 +82,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 🎯 Who Should Read This Guide?
 
 - **📊 Active Supporters** signaling daily
-- **💰 Token Holders**  maximizing returns
+- **💰 Token Holders** maximizing returns
 - **🔍 Analysts** evaluating ventures
 
 - **🌐 Community Members** growing influence
@@ -171,7 +171,7 @@ This guide is designed for Echoes (Supporters) who want to participate in Studio
 ## 💡 Strategy Highlights
 
 !!! tip "Early Bird Advantage"
-    Signals placed early in a venture's journey earn higher multipliers. Being first requires courage but offers the greatest rewards.
+ Signals placed early in a venture's journey earn higher multipliers. Being first requires courage but offers the greatest rewards.
 
 !!! warning "Avoid Herd Mentality"
     Following the crowd reduces returns. Develop independent analysis skills and trust your conviction.

@@ -18,35 +18,43 @@
 
 <h3>🎓 Adapted Portfolio Theory</h3>
 
-<p>**Core Concepts:**</p>
-
-<p>-</p>
-<p>1. **Diversification**</p>
+<p><strong>Core Concepts:</strong></p>
+<ol>
+<li><strong>Diversification</strong>
 <ul>
 <li>Spread risk across ventures</li>
 </ul>
-<p>2. **Correlation**</p>
+</li>
+<li><strong>Correlation</strong>
 <ul>
 <li>Avoid similar bets</li>
 </ul>
-<p>3. **Risk/Return**</p>
+</li>
+<li><strong>Risk/Return</strong>
 <ul>
 <li>Optimize the ratio</li>
 </ul>
-<p>4. **Rebalancing**</p>
+</li>
+<li><strong>Rebalancing</strong>
 <ul>
 <li>Maintain target allocation</li>
 </ul>
-<p>5. **Time Horizon**</p>
+</li>
+<li><strong>Time Horizon</strong>
 <ul>
-<li>Match strategy to goals**</li>
-<li>**Signal Portfolio Differences:**</li>
-<li>**Binary outcomes (win/lose)**</li>
+<li>Match strategy to goals</li>
+</ul>
+</li>
+</ol>
+
+<p><strong>Signal Portfolio Differences:</strong></p>
+
+<ul>
+<li>Binary outcomes (win/lose)</li>
 <li>No partial exits</li>
 <li>Time-locked positions</li>
 <li>Multiplier variations</li>
 <li>Reputation effects</li>
-
 </ul>
 </div>
 
@@ -55,10 +63,10 @@
 <div class="arena-card">
 
 <h3>📈 Risk-Return Optimization</h3>
-<p>** Portfolio Efficiency Curve:**</p>
+<p><strong>Portfolio Efficiency Curve:</strong></p>
 <p>The efficient frontier shows the relationship between risk and return. As risk increases from 0% to 75%, potential returns rise from 1x to 4x, but with diminishing efficiency. The optimal portfolio typically sits at moderate risk (25-50%) where you get the best return per unit of risk taken - often achieving 2-3x returns without excessive volatility.</p>
 
-<p>**Optimal Portfolio:**</p>
+<p><strong>Optimal Portfolio:</strong></p>
 
 <ul>
 <li>**Maximum return per unit of risk**</li>
@@ -77,6 +85,7 @@
 
 <h3>🎯 Strategic Allocation Model</h3>
 <p>**Core Holdings (70%)**</p>
+
 <ul>
 <li>**Established teams**</li>
 <li>Proven models</li>
@@ -86,6 +95,7 @@
 
 </ul>
 <p>**Satellite Positions (30%)**</p>
+
 <ul>
 <li>**High-risk/reward**</li>
 <li>Early phase</li>
@@ -94,7 +104,7 @@
 <li>Experimental</li>
 
 </ul>
-<p>** Benefits:**</p>
+<p><strong>Benefits:</strong></p>
 <ul>
 <li>**Stable foundation**</li>
 <li>Upside potential</li>
@@ -109,7 +119,7 @@
 <div class="arena-card">
 
 <h3>🌐 Multi-Factor Diversification</h3>
-<p>** Diversification Dimensions:**</p>
+<p><strong>Diversification Dimensions:</strong></p>
 <p>1. **Phase Distribution**</p>
    <ul>
    <li><strong>Spark/Forge (15%):</strong> High-risk early phases</li>
@@ -164,7 +174,7 @@
 <li><strong>0.25</strong> = Conservative safety factor to reduce volatility</li>
 </ul>
 
-<p>** Practical Limits:**</p>
+<p><strong>Practical Limits:</strong></p>
 <ul>
 <li>**Maximum single position: 5%**</li>
 <li>Maximum sector exposure: 30%</li>
@@ -179,7 +189,7 @@
 <div class="arena-card">
 
 <h3>📊 Portfolio Risk Analysis</h3>
-<p>** Key Risk Indicators:**</p>
+<p><strong>Key Risk Indicators:</strong></p>
 <p>1. **Maximum Drawdown**</p>
 
 <ul>
@@ -223,7 +233,7 @@
 <div class="arena-card">
 
 <h3>🚀 Aggressive Growth Model</h3>
-<p>** Allocation:**</p>
+<p><strong>Allocation:</strong></p>
 <p>Structure an aggressive growth portfolio with:</p>
 <ul>
 <li><strong>Early Phase (40%):</strong> Maximum multiplier opportunities</li>
@@ -232,9 +242,7 @@
 <li><strong>Contrarian (10%):</strong> Against-the-grain positions</li>
 </ul>
 
-
-
-<p>Characteristics:**</p>
+<p><strong>Characteristics:</strong></p>
 <ul>
 <li>**Higher volatility**</li>
 <li>2.5x+ target returns</li>
@@ -243,7 +251,7 @@
 <li>Learning focused</li>
 
 </ul>
-<p>** Risk Profile:**</p>
+<p><strong>Risk Profile:</strong></p>
 <ul>
 <li>**Can lose 40% in bad month**</li>
 <li>Requires strong stomach</li>
@@ -258,7 +266,7 @@
 <div class="arena-card">
 
 <h3>⚖️ Steady Growth Model</h3>
-<p>** Allocation:**</p>
+<p><strong>Allocation:</strong></p>
 <p>Build a balanced portfolio with:</p>
 <ul>
 <li><strong>Core Quality (40%):</strong> Proven teams and models</li>
@@ -268,9 +276,7 @@
 <li><strong>Experimental (5%):</strong> Learning and lottery tickets</li>
 </ul>
 
-
-
-<p>Characteristics:**</p>
+<p><strong>Characteristics:</strong></p>
 <ul>
 <li>**Moderate volatility**</li>
 <li>1.8x target returns</li>
@@ -279,7 +285,7 @@
 <li>Sustainable approach</li>
 
 </ul>
-<p>** Risk Profile:**</p>
+<p><strong>Risk Profile:</strong></p>
 <ul>
 <li>**Maximum 25% drawdown**</li>
 <li>Consistent returns</li>
@@ -294,7 +300,7 @@
 <div class="arena-card">
 
 <h3>🛡️ Capital Preservation Model</h3>
-<p>** Allocation:**</p>
+<p><strong>Allocation:</strong></p>
 <p>Construct a conservative portfolio with:</p>
 <ul>
 <li><strong>Late Phase (50%):</strong> Mature, stable ventures</li>
@@ -303,9 +309,7 @@
 <li><strong>Strategic Doubt (5%):</strong> Minimal contrarian plays</li>
 </ul>
 
-
-
-<p>Characteristics:**</p>
+<p><strong>Characteristics:</strong></p>
 <ul>
 <li>**Low volatility**</li>
 <li>1.5x target returns</li>
@@ -314,7 +318,7 @@
 <li>Capital protection</li>
 
 </ul>
-<p>** Risk Profile:**</p>
+<p><strong>Risk Profile:</strong></p>
 <ul>
 <li>**Maximum 15% drawdown**</li>
 <li>Steady accumulation</li>
@@ -331,7 +335,7 @@
 <div class="arena-card">
 
 <h3>🔄 Portfolio Rebalancing</h3>
-<p>** Rebalancing Triggers:**</p>
+<p><strong>Rebalancing Triggers:</strong></p>
 <p>1. **Calendar-Based**</p>
 
 <ul>
@@ -362,12 +366,14 @@
 <li>Premium setups</li>
 
 </ul>
-<p>** Rebalancing Process:**</p>
-<p>1. Calculate current allocation</p>
-<p>2. Compare to target</p>
-<p>3. Identify deviations</p>
-<p>4. Plan new signals</p>
-<p>5. Execute gradually</p>
+<p><strong>Rebalancing Process:</strong></p>
+<ol>
+<li>Calculate current allocation</li>
+<li>Compare to target</li>
+<li>Identify deviations</li>
+<li>Plan new signals</li>
+<li>Execute gradually</li>
+</ol>
 
 </div>
 
@@ -386,7 +392,7 @@
 <li>Momentum strategies</li>
 
 </ul>
-<p>** Bear Market Adjustments:**</p>
+<p><strong>Bear Market Adjustments:</strong></p>
 <ul>
 <li>**Increase quality focus**</li>
 <li>Smaller positions</li>
@@ -394,7 +400,7 @@
 <li>Doubt allocation up</li>
 
 </ul>
-<p>** High Volatility:**</p>
+<p><strong>High Volatility:</strong></p>
 <ul>
 <li>**Reduce position sizes**</li>
 <li>Increase diversification</li>
@@ -411,7 +417,7 @@
 <div class="arena-card">
 
 <h3>📈 Key Performance Indicators</h3>
-<p>** Core Metrics:**</p>
+<p><strong>Core Metrics:</strong></p>
 <p>Track these essential performance indicators:</p>
 <ul>
 <li><strong>Total Return:</strong> Your overall portfolio performance percentage</li>
@@ -424,9 +430,7 @@
 <li><strong>Recovery Time:</strong> Days to recover from drawdowns</li>
 </ul>
 
-
-
-<p>Advanced Metrics:**</p>
+<p><strong>Advanced Metrics:</strong></p>
 <ul>
 <li>**Information Ratio**</li>
 <li>Sortino Ratio</li>
@@ -442,7 +446,7 @@
 <div class="arena-card">
 
 <h3>🔍 Performance Attribution</h3>
-<p>** Return Sources:**</p>
+<p><strong>Return Sources:</strong></p>
 <p>1. **Selection Effect**</p>
 
 <ul>
@@ -473,7 +477,7 @@
 <li>Risk management</li>
 
 </ul>
-<p>** Monthly Attribution:**</p>
+<p><strong>Monthly Attribution:</strong></p>
 <p>Break down your returns by source:</p>
 <ul>
 <li><strong>Selection Effect:</strong> Returns from choosing the right ventures</li>
@@ -493,7 +497,7 @@
 <h3>🔗 Reducing Correlation Risk</h3>
 
 
-<p>Correlation Matrix:**</p>
+<p><strong>Correlation Matrix:</strong></p>
 <p>Understanding sector correlations helps diversify effectively. Here's how different sectors typically correlate (1.0 = perfect correlation, 0 = no correlation):</p>
 <ul>
 <li><strong>DeFi with Gaming:</strong> 0.3 (low correlation - good for diversification)</li>
@@ -504,7 +508,7 @@
 </ul>
 <p>Aim to combine sectors with correlations below 0.5 for optimal diversification.</p>
 
-<p>** Low Correlation Pairs:**</p>
+<p><strong>Low Correlation Pairs:</strong></p>
 <ul>
 <li>**DeFi + Gaming**</li>
 <li>B2B + Consumer</li>
@@ -519,7 +523,7 @@
 <div class="arena-card">
 
 <h3>🎯 Factor-Based Approach</h3>
-<p>** Signal Factors:**</p>
+<p><strong>Signal Factors:</strong></p>
 <p>1. **Quality Factor**</p>
 
 <ul>
@@ -569,7 +573,7 @@
 <div class="arena-card">
 
 <h3>📊 Portfolio Tracker Template</h3>
-<p>** Essential Columns:**</p>
+<p><strong>Essential Columns:</strong></p>
 <p>Your portfolio tracker should include these key data points:</p>
 <ul>
 <li><strong>Date:</strong> When you made the signal</li>
@@ -584,9 +588,7 @@
 <li><strong>Notes:</strong> Your analysis and lessons learned</li>
 </ul>
 
-
-
-<p>Analytics Dashboard:**</p>
+<p><strong>Analytics Dashboard:</strong></p>
 <ul>
 <li>**Real-time P&L**</li>
 <li>Allocation charts</li>
@@ -602,7 +604,7 @@
 <div class="arena-card">
 
 <h3>✅ Signal Decision Checklist</h3>
-<p>** Before Every Signal:**</p>
+<p><strong>Before Every Signal:</strong></p>
 <ul>
 <li>**[ ] Fits portfolio strategy?**</li>
 <li>[ ] Within position limits?</li>
@@ -623,7 +625,7 @@
 <div class="arena-card">
 
 <h3>❌ Portfolio Pitfalls</h3>
-<p>** Construction Errors:**</p>
+<p><strong>Construction Errors:</strong></p>
 <ul>
 <li>**Over-concentration**</li>
 <li>No diversification</li>
@@ -632,7 +634,7 @@
 <li>No strategy</li>
 
 </ul>
-<p>** Management Errors:**</p>
+<p><strong>Management Errors:</strong></p>
 <ul>
 <li>**Never rebalancing**</li>
 <li>Emotional decisions</li>
@@ -681,7 +683,7 @@
 <div class="arena-card">
 
 <h3>🎯 Portfolio Goals</h3>
-<p>** 1-Year Targets:**</p>
+<p><strong>1-Year Targets:</strong></p>
 <ul>
 <li>**50%+ total return**</li>
 <li>70%+ win rate</li>
@@ -689,7 +691,7 @@
 <li>100+ signals made</li>
 
 </ul>
-<p>** 3-Year Vision:**</p>
+<p><strong>3-Year Vision:</strong></p>
 <ul>
 <li>**Consistent profits**</li>
 <li>Recognized expertise</li>
@@ -697,7 +699,7 @@
 <li>Teaching others</li>
 
 </ul>
-<p>** 5-Year Legacy:**</p>
+<p><strong>5-Year Legacy:</strong></p>
 <ul>
 <li>**Top 1% Echo**</li>
 <li>Portfolio manager</li>
@@ -712,6 +714,7 @@
 ### Continue Building
 
 Enhance your portfolio with:
+
 1. [Phase Strategies](phase-strategies.md) - Phase optimization
 2. [Risk Management](risk-management.md) - Advanced protection
 3. [Contrarian Plays](contrarian-plays.md) - Alpha generation

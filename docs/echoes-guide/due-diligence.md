@@ -18,27 +18,27 @@
 
 <h3>📋 Full DD Checklist</h3>
 
-<p>**Phase 1: Initial Screening (30 min)**</p>
+<p><strong>Phase 1: Initial Screening (30 min)</strong></p>
 <ul>
-<li>**Venture overview**</li>
+<li><strong>Venture overview</strong></li>
 <li>Team backgrounds</li>
 <li>Market opportunity</li>
 <li>Red flag check</li>
 <li>Go/No-go decision</li>
 
 </ul>
-<p>**Phase 2: Deep Analysis (2-4 hours)**</p>
+<p><strong>Phase 2: Deep Analysis (2-4 hours)</strong></p>
 <ul>
-<li>**Technical evaluation**</li>
+<li><strong>Technical evaluation</strong></li>
 <li>Market research</li>
 <li>Competitive analysis</li>
 <li>Financial modeling</li>
 <li>Risk assessment</li>
 
 </ul>
-<p>**Phase 3: Final Validation (1-2 hours)**</p>
+<p><strong>Phase 3: Final Validation (1-2 hours)</strong></p>
 <ul>
-<li>**Reference checks**</li>
+<li><strong>Reference checks</strong></li>
 <li>Community sentiment</li>
 <li>Stress testing</li>
 <li>Position sizing</li>
@@ -54,7 +54,7 @@
 <div class="arena-card">
 
 <h3>⚡ 30-Minute Screen</h3>
-<p>** The 10-Point Quick Check:**</p>
+<p><strong>The 10-Point Quick Check:</strong></p>
 <p>1. ✓ Real team with LinkedIn/GitHub</p>
 <p>2. ✓ Clear problem statement</p>
 <p>3. ✓ Working demo/prototype</p>
@@ -66,7 +66,7 @@
 <p>9. ✓ Positive sentiment</p>
 <p>10. ✓ Technical feasibility</p>
 
-<p>**Score 8+ to proceed to Phase 2**</p>
+<p><strong>Score 8+ to proceed to Phase 2</strong></p>
 </div>
 
 ### Red Flag Scanner
@@ -74,9 +74,9 @@
 <div class="arena-card">
 
 <h3>🚩 Instant Disqualifiers</h3>
-<p>** Hard Pass Triggers:**</p>
+<p><strong>Hard Pass Triggers:</strong></p>
 <ul>
-<li>**Anonymous team**</li>
+<li><strong>Anonymous team</strong></li>
 <li>No technical proof</li>
 <li>Copied whitepaper</li>
 <li>Impossible claims</li>
@@ -96,7 +96,7 @@
 <div class="arena-card">
 
 <h3>💻 Technical Deep Dive</h3>
-<p>** Code Analysis:**</p>
+<p>**Code Analysis:**</p>
 <p><strong>GitHub Repository Check:</strong></p>
 <p>When analyzing a venture's code repository, examine these key metrics:</p>
 <ul>
@@ -110,7 +110,7 @@
 <li><strong>Security:</strong> Check if code has been audited or is pending audit</li>
 </ul>
 
-<p>** Architecture Review:**</p>
+<p>**Architecture Review:**</p>
 <ul>
 <li>**System design coherent?**</li>
 <li>Scalability addressed?</li>
@@ -119,7 +119,7 @@
 <li>Innovation level?</li>
 
 </ul>
-<p>** Demo Testing:**</p>
+<p>**Demo Testing:**</p>
 <ul>
 <li>**Functionality works?**</li>
 <li>Performance acceptable?</li>
@@ -234,8 +234,7 @@
 <p>In this example, the venture would break even around month 18, transitioning from burning $150,000 in year 1 to generating $250,000 profit in year 2.</p>
 
 
-
-<p>Unit Economics:**</p>
+<p><strong>Unit Economics:</strong></p>
 <ul>
 <li>**Customer Acquisition Cost (CAC)**</li>
 <li>Lifetime Value (LTV)</li>
@@ -648,6 +647,7 @@
 ### Apply Your Skills
 
 Continue with:
+
 1. [Belief Strategies](belief-strategies.md) - When to go long
 2. [Doubt Strategies](doubt-strategies.md) - When to go short
 3. [Portfolio Management](portfolio-management.md) - Risk management

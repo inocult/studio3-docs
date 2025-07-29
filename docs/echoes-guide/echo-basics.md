@@ -20,7 +20,7 @@ Echoes are participants who:
 - **Earn rewards** for accurate predictions
 - **Shape venture trajectories** with collective wisdom
 - **Build reputation** through consistent performance
-- **Create momentum** for deserving projects**
+- **Create momentum** for deserving projects
 
 ### Beyond Traditional Investing
 
@@ -40,7 +40,7 @@ Echoes are participants who:
 
 <h3>🧠 Think Like an Echo</h3>
 
-<p>1. **Research First**</p>
+<p>1. <strong>Research First</strong></p>
 
 <ul>
 <li>Never signal blindly</li>
@@ -52,7 +52,7 @@ Echoes are participants who:
 <li>Analyze the market</li>
 
 </ul>
-<p>2. **Conviction Matters**</p>
+<p>2. <strong>Conviction Matters</strong></p>
 
 <ul>
 <li>Back your analysis</li>
@@ -64,7 +64,7 @@ Echoes are participants who:
 <li>Learn from outcomes</li>
 
 </ul>
-<p>3. **Community Focus**</p>
+<p>3. <strong>Community Focus</strong></p>
 
 <ul>
 <li>Share insights</li>
@@ -86,7 +86,7 @@ Echoes are participants who:
 
 <h3>⚙️ Signal Flow</h3>
 
-<p>1. **Discovery Phase**</p>
+<p>1. <strong>Discovery Phase</strong></p>
 
 <ul>
 <li>Browse active ventures</li>
@@ -98,7 +98,7 @@ Echoes are participants who:
 <li>Analyze market opportunity</li>
 
 </ul>
-<p>2. **Decision Making**</p>
+<p>2. <strong>Decision Making</strong></p>
 
 <ul>
 <li>Choose belief or doubt</li>
@@ -110,7 +110,7 @@ Echoes are participants who:
 <li>Assess risk/reward</li>
 
 </ul>
-<p>3. **Staking Process**</p>
+<p>3. <strong>Staking Process</strong></p>
 
 <ul>
 <li>Connect wallet</li>
@@ -122,7 +122,7 @@ Echoes are participants who:
 <li>Confirm transaction</li>
 
 </ul>
-<p>4. **Monitoring Period**</p>
+<p>4. <strong>Monitoring Period</strong></p>
 
 <ul>
 <li>Track progress</li>
@@ -134,8 +134,7 @@ Echoes are participants who:
 <li>Prepare for outcome</li>
 
 </ul>
-<p>5. **Settlement**</p>
-
+<p>5. <strong>Settlement</strong></p>
 <ul>
 <li>Milestone validated</li>
 
@@ -151,7 +150,8 @@ Echoes are participants who:
 ## Types of Signals
 
 ### Belief Signals
-**When to Believe:**
+
+<p><strong>When to Believe:</strong></p>
 
 - Strong team credentials
 - Clear execution plan
@@ -159,7 +159,7 @@ Echoes are participants who:
 - Market validation
 - Community support
 
-**Belief Rewards:**
+<p><strong>Belief Rewards:</strong></p>
 
 - 1.5x-3x multipliers on success
 - Higher multiples for early signals
@@ -167,7 +167,8 @@ Echoes are participants who:
 - Community recognition
 
 ### Doubt Signals
-**When to Doubt:**
+
+<p><strong>When to Doubt:</strong></p>
 
 - Unrealistic promises
 - Weak team background
@@ -175,7 +176,7 @@ Echoes are participants who:
 - Market misalignment
 - Red flags present
 
-**Doubt Rewards:**
+<p><strong>Doubt Rewards:</strong></p>
 
 - 1.2x-2x multipliers on failure
 - Protect the ecosystem
@@ -190,7 +191,7 @@ Echoes are participants who:
 
 <h3>📈 Your Growth Trajectory</h3>
 
-<p>1. **Novice Echo** (0-100 XP)</p>
+<p>1. <strong>Novice Echo</strong> (0-100 XP)</p>
 <ul>
 <li>Learning basics</li>
 <li>Small test signals</li>
@@ -198,7 +199,7 @@ Echoes are participants who:
 <li>Building knowledge</li>
 
 </ul>
-<p>2. **Active Echo** (100-500 XP)</p>
+<p>2. <strong>Active Echo</strong> (100-500 XP)</p>
 <ul>
 <li>Regular participation</li>
 <li>Growing accuracy</li>
@@ -206,7 +207,7 @@ Echoes are participants who:
 <li>Finding specialties</li>
 
 </ul>
-<p>3. **Expert Echo** (500-2000 XP)</p>
+<p>3. <strong>Expert Echo</strong> (500-2000 XP)</p>
 <ul>
 <li>High accuracy rate</li>
 <li>Larger positions</li>
@@ -214,7 +215,7 @@ Echoes are participants who:
 <li>Mentoring others</li>
 
 </ul>
-<p>4. **Master Echo** (2000+ XP)</p>
+<p>4. <strong>Master Echo</strong> (2000+ XP)</p>
 <ul>
 <li>Top performer</li>
 <li>Market mover</li>
@@ -231,8 +232,7 @@ Echoes are participants who:
 <div class="arena-card">
 
 <h3>🔍 Research Requirements</h3>
-<p>**Always Investigate:**</p>
-
+<p><strong>Always Investigate:</strong></p>
 <ul>
 <li>Founder backgrounds</li>
 <li>Technical feasibility</li>
@@ -241,8 +241,7 @@ Echoes are participants who:
 <li>Execution capability</li>
 
 </ul>
-<p>**Red Flag Checklist:**</p>
-
+<p><strong>Red Flag Checklist:</strong></p>
 <ul>
 <li>Anonymous teams</li>
 <li>Copied whitepapers</li>
@@ -254,7 +253,8 @@ Echoes are participants who:
 </div>
 
 ### 2. Risk Management
-**Portfolio Principles:**
+
+<p><strong>Portfolio Principles:</strong></p>
 
 - Never all-in on one signal
 - Diversify across phases
@@ -263,7 +263,8 @@ Echoes are participants who:
 - Keep reserve funds
 
 ### 3. Community Participation
-**Engagement Activities:**
+
+<p><strong>Engagement Activities:</strong></p>
 
 - Share research findings
 - Ask clarifying questions
@@ -279,8 +280,7 @@ Echoes are participants who:
 
 <h3>💰 Revenue Streams</h3>
 
-<p>1. **Signal Rewards**</p>
-
+<p>1. <strong>Signal Rewards</strong></p>
 <ul>
 <li>Direct multipliers on correct predictions</li>
 
@@ -291,8 +291,7 @@ Echoes are participants who:
 <li>Streak bonuses</li>
 
 </ul>
-<p>2. **Reputation Benefits**</p>
-
+<p>2. <strong>Reputation Benefits</strong></p>
 <ul>
 <li>Higher stake limits</li>
 
@@ -303,8 +302,7 @@ Echoes are participants who:
 <li>Governance rights</li>
 
 </ul>
-<p>3. **Community Rewards**</p>
-
+<p>3. <strong>Community Rewards</strong></p>
 <ul>
 <li>Referral bonuses</li>
 
@@ -320,10 +318,11 @@ Echoes are participants who:
 ### Token Flow
 
 The lifecycle of your $SIGNAL tokens follows this path:
-1. **Your Stake:** You commit tokens to signal belief or doubt
-2. **Venture Pool:** Your tokens join others in the milestone pool
-3. **Milestone Outcome:** The venture either succeeds or fails
-4. **Rewards/Burns:** Success multiplies your stake, failure burns it
+
+1. <strong>Your Stake:</strong> You commit tokens to signal belief or doubt
+2. <strong>Venture Pool:</strong> Your tokens join others in the milestone pool
+3. <strong>Milestone Outcome:</strong> The venture either succeeds or fails
+4. <strong>Rewards/Burns:</strong> Success multiplies your stake, failure burns it
 
 At each stage, your tokens are at risk but working toward potential rewards based on the venture's execution.
 
@@ -331,45 +330,40 @@ At each stage, your tokens are at risk but working toward potential rewards base
 
 ### What Makes Great Echoes
 
-1. **Analytical Skills**
-
-- Pattern recognition
-
-- Risk assessment
-
-- Market understanding
-
-- Technical knowledge
-
-2. **Emotional Control**
-
-- Avoid FOMO
-
-- Resist FUD
-
-- Stay objective
-
-- Learn from losses
-
-3. **Active Participation**
-
-- Daily engagement
-
-- Continuous learning
-
-- Network building
-
-- Strategy evolution
-
-4. **Long-term Thinking**
-
-- Reputation focus
-
-- Sustainable strategies
-
-- Community building
-
-- Ecosystem growth
+<ol>
+<li><strong>Analytical Skills</strong>
+<ul>
+<li>Pattern recognition</li>
+<li>Risk assessment</li>
+<li>Market understanding</li>
+<li>Technical knowledge</li>
+</ul>
+</li>
+<li><strong>Emotional Control</strong>
+<ul>
+<li>Avoid FOMO</li>
+<li>Resist FUD</li>
+<li>Stay objective</li>
+<li>Learn from losses</li>
+</ul>
+</li>
+<li><strong>Active Participation</strong>
+<ul>
+<li>Daily engagement</li>
+<li>Continuous learning</li>
+<li>Network building</li>
+<li>Strategy evolution</li>
+</ul>
+</li>
+<li><strong>Long-term Thinking</strong>
+<ul>
+<li>Reputation focus</li>
+<li>Sustainable strategies</li>
+<li>Community building</li>
+<li>Ecosystem growth</li>
+</ul>
+</li>
+</ol>
 
 ## Common Mistakes
 
@@ -378,8 +372,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <div class="arena-card">
 
 <h3>⚠️ Echo Errors</h3>
-<p>**Fatal Mistakes:**</p>
-
+<p><strong>Fatal Mistakes:</strong></p>
 <ul>
 <li>Signaling without research</li>
 <li>Emotional decision making</li>
@@ -388,8 +381,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <li>Chasing losses</li>
 
 </ul>
-<p>**Warning Signs:**</p>
-
+<p><strong>Warning Signs:</strong></p>
 <ul>
 <li>Declining accuracy</li>
 <li>Shrinking bankroll</li>
@@ -403,19 +395,23 @@ At each stage, your tokens are at risk but working toward potential rewards base
 ## Daily Routine
 
 ### Successful Echo Schedule
-**Morning (30 min)**
+
+<p><strong>Morning (30 min)</strong></p>
+
 - Check overnight updates
 - Review signal performance
 - Scan new ventures
 - Read community insights
 
-**Midday (45 min)**
+<p><strong>Midday (45 min)</strong></p>
+
 - Deep dive on 2-3 ventures
 - Analyze milestone progress
 - Make signal decisions
 - Engage in discussions
 
-**Evening (15 min)**
+<p><strong>Evening (15 min)</strong></p>
+
 - Review daily performance
 - Update tracking sheets
 - Plan tomorrow's research
@@ -428,8 +424,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <div class="arena-card">
 
 <h3>🛠️ Your Arsenal</h3>
-<p>**Analysis Tools:**</p>
-
+<p><strong>Analysis Tools:</strong></p>
 <ul>
 <li>Signal calculator</li>
 <li>Risk assessment matrix</li>
@@ -437,8 +432,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <li>Performance analytics</li>
 
 </ul>
-<p>**Information Sources:**</p>
-
+<p><strong>Information Sources:</strong></p>
 <ul>
 <li>Venture dashboards</li>
 <li>Team profiles</li>
@@ -446,8 +440,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <li>Community forums</li>
 
 </ul>
-<p>**Decision Aids:**</p>
-
+<p><strong>Decision Aids:</strong></p>
 <ul>
 <li>Due diligence checklist</li>
 <li>Red flag detector</li>
@@ -460,7 +453,8 @@ At each stage, your tokens are at risk but working toward potential rewards base
 ## Building Your Network
 
 ### Community Connections
-**Key Relationships:**
+
+<p><strong>Key Relationships:</strong></p>
 
 - Fellow Echoes for insights
 - Senders for direct info
@@ -468,7 +462,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 - Mentors for guidance
 - Newcomers to teach
 
-**Networking Benefits:**
+<p><strong>Networking Benefits:</strong></p>
 
 - Early information
 - Collective analysis
@@ -483,8 +477,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <div class="arena-card">
 
 <h3>🌟 XP & Reputation</h3>
-<p>**How to Build:**</p>
-
+<p><strong>How to Build:</strong></p>
 <ul>
 <li>Consistent accuracy</li>
 <li>Quality contributions</li>
@@ -493,8 +486,7 @@ At each stage, your tokens are at risk but working toward potential rewards base
 <li>Ethical conduct</li>
 
 </ul>
-<p>**How to Lose:**</p>
-
+<p><strong>How to Lose:</strong></p>
 <ul>
 <li>Poor performance</li>
 <li>Toxic behavior</li>
@@ -508,19 +500,23 @@ At each stage, your tokens are at risk but working toward potential rewards base
 ## Getting Started Checklist
 
 ### Your First Week
-**Day 1-2: Foundation**
+
+<p><strong>Day 1-2: Foundation</strong></p>
+
 - [ ] Read all Echo guides
 - [ ] Join Echo channels
 - [ ] Set up tracking tools
 - [ ] Observe active signals
 
-**Day 3-4: Preparation**
+<p><strong>Day 3-4: Preparation</strong></p>
+
 - [ ] Research 5 ventures
 - [ ] Practice analysis
 - [ ] Connect with Echoes
 - [ ] Plan first signal
 
-**Day 5-7: Action**
+<p><strong>Day 5-7: Action</strong></p>
+
 - [ ] Make first small signal
 - [ ] Document reasoning
 - [ ] Engage with venture
@@ -529,14 +525,15 @@ At each stage, your tokens are at risk but working toward potential rewards base
 ## Advanced Concepts
 
 ### Signal Timing
-**Early Signals:**
+
+<p><strong>Early Signals:</strong></p>
 
 - Higher risk
 - Better multipliers
 - Less information
 - Pioneer advantage
 
-**Late Signals:**
+<p><strong>Late Signals:</strong></p>
 
 - Lower risk
 - Smaller multipliers
@@ -544,7 +541,8 @@ At each stage, your tokens are at risk but working toward potential rewards base
 - Follower safety
 
 ### Portfolio Strategy
-**Diversification Model:**
+
+<p><strong>Diversification Model:</strong></p>
 
 - 40% early-phase ventures
 - 30% mid-phase stability

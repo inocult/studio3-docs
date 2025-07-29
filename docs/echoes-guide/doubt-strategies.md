@@ -18,16 +18,20 @@
 
 <h3>💰 Doubt Reward Structure</h3>
 
-<p>**Doubt Returns:**</p>
-
+<p><strong>Doubt Returns:</strong></p>
 <ul>
-<li>**Base multiplier: 1.2x**</li>
+<li><strong>Base multiplier: 1.2x</strong></li>
 <li>1.5x</li>
 <li>Contrarian bonus: Up to +0.5x</li>
 <li>Accuracy bonus: Up to +0.3x</li>
 <li>Protection bonus: Up to +0.2x</li>
-<li>**Maximum possible: 2.5x**  Success Conditions:</li>
-<li>**Milestone failed**</li>
+<li><strong>Maximum possible: 2.5x</strong></li>
+</ul>
+
+<p><strong>Success Conditions:</strong></p>
+
+<ul>
+<li><strong>Milestone failed</strong></li>
 <li>Major delays</li>
 <li>Quality issues</li>
 <li>Pivot required</li>
@@ -41,7 +45,7 @@
 <div class="arena-card">
 
 <h3>🛡️ Ecosystem Protection</h3>
-<p>** Doubt Benefits:**</p>
+<p><strong>Doubt Benefits:</strong></p>
 <p>1. **Quality Control**</p>
 
 <ul>
@@ -89,24 +93,15 @@
 <h3>🔍 Systematic Doubt Analysis</h3>
 
 <ul>
-<li>**S**</li>
-<li>Suspicious patterns**</li>
-<li>**K**</li>
-<li>Knowledge gaps</li>
-<li>**E**</li>
-<li>Execution concerns</li>
-<li>**P**</li>
-<li>Past failures</li>
-<li>**T**</li>
-<li>Timeline unrealistic</li>
-<li>**I**</li>
-<li>Information missing</li>
-<li>**C**</li>
-<li>Competition superior</li>
-
+<li><strong>S</strong> - Suspicious patterns</li>
+<li><strong>K</strong> - Knowledge gaps</li>
+<li><strong>E</strong> - Execution concerns</li>
+<li><strong>P</strong> - Past failures</li>
+<li><strong>T</strong> - Timeline unrealistic</li>
+<li><strong>I</strong> - Information missing</li>
+<li><strong>C</strong> - Competition superior</li>
 </ul>
-<p>**Score each 1-10, doubt threshold:** 35/70</p>
-
+<p><strong>Score each 1-10, doubt threshold:</strong> 35/70</p>
 </div>
 
 ### Doubt Confidence Levels
@@ -117,23 +112,35 @@
 
 <p>**Ultra-High Doubt (90%+)**</p>
 <ul>
-<li>**Clear red flags**</li>
+<li><strong>Clear red flags</strong></li>
 <li>Impossible claims</li>
 <li>Team issues</li>
 <li>No evidence</li>
-<li>**Stake: 3% of bankroll** High Doubt (75-90%)</li>
-<li>**Multiple concerns**</li>
+<li><strong>Stake: 3% of bankroll</strong></li>
+</ul>
+
+<p><strong>High Doubt (75-90%)</strong></p>
+<ul>
+<li><strong>Multiple concerns</strong></li>
 <li>Weak fundamentals</li>
 <li>Poor progress</li>
-<li>**Stake: 2% of bankroll** Moderate Doubt (60-75%)</li>
-<li>**Significant risks**</li>
+<li><strong>Stake: 2% of bankroll</strong></li>
+</ul>
+
+<p><strong>Moderate Doubt (60-75%)</strong></p>
+<ul>
+<li><strong>Significant risks</strong></li>
 <li>Overvaluation</li>
 <li>Execution questions</li>
-<li>**Stake: 1.5% of bankroll** Low Doubt (50-60%)</li>
-<li>**Some concerns**</li>
+<li><strong>Stake: 1.5% of bankroll</strong></li>
+</ul>
+
+<p><strong>Low Doubt (50-60%)</strong></p>
+<ul>
+<li><strong>Some concerns</strong></li>
 <li>Worth flagging</li>
 <li>Small position</li>
-<li>**Stake: 1% of bankroll**</li>
+<li><strong>Stake: 1% of bankroll</strong></li>
 </ul>
 </div>
 
@@ -144,7 +151,7 @@
 <div class="arena-card">
 
 <h3>🚩 Classic Warning Signs</h3>
-<p>** Team Red Flags:**</p>
+<p><strong>Team Red Flags:</strong></p>
 <ul>
 <li>**Anonymous/pseudonymous**</li>
 <li>No relevant experience</li>
@@ -153,7 +160,7 @@
 <li>Poor communication</li>
 
 </ul>
-<p>** Technical Red Flags:**</p>
+<p><strong>Technical Red Flags:</strong></p>
 <ul>
 <li>**No working demo**</li>
 <li>Copied code</li>
@@ -162,7 +169,7 @@
 <li>Security issues</li>
 
 </ul>
-<p>** Business Red Flags:**</p>
+<p><strong>Business Red Flags:</strong></p>
 <ul>
 <li>**No clear revenue model**</li>
 <li>Addressable market tiny</li>
@@ -178,7 +185,7 @@
 <div class="arena-card">
 
 <h3>📈 Spotting Bubble Signals</h3>
-<p>** Hype Indicators:**</p>
+<p><strong>Hype Indicators:</strong></p>
 <ul>
 <li>**90%+ belief ratio**</li>
 <li>Paid promotion heavy</li>
@@ -187,7 +194,7 @@
 <li>No substantive updates</li>
 
 </ul>
-<p>** Valuation Metrics:**</p>
+<p><strong>Valuation Metrics:</strong></p>
 <ul>
 <li>**Signal/progress ratio off**</li>
 <li>Comparable ventures lower</li>
@@ -236,7 +243,7 @@
 <div class="arena-card">
 
 <h3>⚡ Event-Driven Doubt</h3>
-<p>** Doubt Catalysts:**</p>
+<p><strong>Doubt Catalysts:</strong></p>
 <p>1. **Missed Deadlines**</p>
 
 <ul>
@@ -286,7 +293,7 @@
 <div class="arena-card">
 
 <h3>📉 Fading the Hype</h3>
-<p>** Identifying Hype Ventures:**</p>
+<p><strong>Identifying Hype Ventures:</strong></p>
 <ul>
 <li>**Massive marketing spend**</li>
 <li>No substance</li>
@@ -295,16 +302,17 @@
 <li>Retail FOMO</li>
 
 </ul>
-<p>** Execution Strategy:**</p>
-<p>1. Wait for peak hype</p>
-<p>2. Enter doubt position</p>
-<p>3. Document concerns</p>
-<p>4. Share analysis</p>
-<p>5. Wait for reality</p>
+<p><strong>Execution Strategy:</strong></p>
+<ol>
+<li>Wait for peak hype</li>
+<li>Enter doubt position</li>
+<li>Document concerns</li>
+<li>Share analysis</li>
+<li>Wait for reality</li>
+</ol>
 
+<p><strong>Risk Management:</strong></p>
 
-
-<p>Risk Management:**</p>
 <ul>
 <li>**Never fight momentum**</li>
 <li>Size appropriately</li>
@@ -319,7 +327,7 @@
 <div class="arena-card">
 
 <h3>💻 Code-Based Skepticism</h3>
-<p>** Technical Analysis:**</p>
+<p><strong>Technical Analysis:</strong></p>
 <ul>
 <li>**Review architecture**</li>
 <li>Check dependencies</li>
@@ -328,7 +336,7 @@
 <li>Security audit</li>
 
 </ul>
-<p>** Common Technical Issues:**</p>
+<p><strong>Common Technical Issues:</strong></p>
 <ul>
 <li>**Scaling impossibility**</li>
 <li>Security vulnerabilities</li>
@@ -337,7 +345,7 @@
 <li>Maintenance debt</li>
 
 </ul>
-<p>** Signaling Approach:**</p>
+<p><strong>Signaling Approach:</strong></p>
 <ul>
 <li>**Document technically**</li>
 <li>Share specific concerns</li>
@@ -352,7 +360,7 @@
 <div class="arena-card">
 
 <h3>🏁 Superior Alternative Exists</h3>
-<p>** Competition Analysis:**</p>
+<p><strong>Competition Analysis:</strong></p>
 <ul>
 <li>**Identify better solutions**</li>
 <li>Compare features</li>
@@ -361,8 +369,8 @@
 <li>Review funding</li>
 
 </ul>
-<p>**Doubt Thesis:"Why build this when X exists and is 10x better?"**</p>
-<p>** Evidence Required:**</p>
+<p><strong>Doubt Thesis:</strong> "Why build this when X exists and is 10x better?"</p>
+<p><strong>Evidence Required:</strong></p>
 <ul>
 <li>**Side-by-side comparison**</li>
 <li>Adoption metrics</li>
@@ -380,18 +388,13 @@
 <div class="arena-card">
 
 <h3>🤝 Doubt with Integrity</h3>
-<p>** Ethical Guidelines:**</p>
+<p><strong>Ethical Guidelines:</strong></p>
 <p>1. **Be Factual**</p>
 <ul>
-<li>Evidence</li>
-<li>based only</li>
-
+<li>Evidence-based only</li>
 <li>No personal attacks</li>
-
 <li>Document claims</li>
-
 <li>Stay professional</li>
-
 </ul>
 <p>2. **Be Helpful**</p>
 
@@ -424,7 +427,7 @@
 <div class="arena-card">
 
 <h3>❌ What NOT to Do</h3>
-<p>** Forbidden Tactics:**</p>
+<p><strong>Forbidden Tactics:</strong></p>
 <ul>
 <li>**Spreading FUD**</li>
 <li>Personal attacks</li>
@@ -433,7 +436,7 @@
 <li>Coordinated attacks</li>
 
 </ul>
-<p>** Reputation Damage:**</p>
+<p><strong>Reputation Damage:</strong></p>
 <ul>
 <li>**Community backlash**</li>
 <li>Platform penalties</li>
@@ -450,7 +453,7 @@
 <div class="arena-card">
 
 <h3>📊 Doubt Portfolio Structure</h3>
-<p>** Optimal Doubt Mix:**</p>
+<p><strong>Optimal Doubt Mix:</strong></p>
 <p>Structure your doubt portfolio across these categories:</p>
 <ul>
 <li><strong>Technical Doubts (30%):</strong> High conviction based on technical impossibilities</li>
@@ -460,9 +463,8 @@
 <li><strong>Timing Issues (10%):</strong> Unrealistic milestone timelines</li>
 </ul>
 
+<p><strong>Risk Management:</strong></p>
 
-
-<p>Risk Management:**</p>
 <ul>
 <li>**Max 20% portfolio in doubt**</li>
 <li>Never all-in on doubt</li>
@@ -477,7 +479,7 @@
 <div class="arena-card">
 
 <h3>🔄 Balanced Approaches</h3>
-<p>** Hedge Patterns:**</p>
+<p><strong>Hedge Patterns:</strong></p>
 <p>1. **Market Hedge**</p>
 
 <ul>
@@ -526,7 +528,7 @@
 <li>Result: 2.3x return</li>
 
 </ul>
-<p>** Lessons:**</p>
+<p><strong>Lessons:</strong></p>
 <ul>
 <li>**Technical knowledge paid**</li>
 <li>Early entry rewarded</li>
@@ -543,7 +545,7 @@
 <li>Result: 1.8x return</li>
 
 </ul>
-<p>** Lessons:**</p>
+<p><strong>Lessons:</strong></p>
 <ul>
 <li>**Research wins**</li>
 <li>Contrarian profitable</li>
@@ -560,7 +562,7 @@
 <div class="arena-card">
 
 <h3>⚠️ Doubt Failures</h3>
-<p>** Strategic Errors:**</p>
+<p><strong>Strategic Errors:</strong></p>
 <ul>
 <li>**Doubting quality teams**</li>
 <li>Ignoring momentum</li>
@@ -569,7 +571,7 @@
 <li>Poor timing</li>
 
 </ul>
-<p>** Psychological Errors:**</p>
+<p><strong>Psychological Errors:</strong></p>
 <ul>
 <li>**Excessive negativity**</li>
 <li>Confirmation bias</li>
@@ -587,7 +589,7 @@
 <div class="arena-card">
 
 <h3>📊 Doubt KPIs</h3>
-<p>** Key Metrics:**</p>
+<p><strong>Key Metrics:</strong></p>
 <ul>
 <li>**Doubt win rate: Target 40%+**</li>
 <li>Average return: Target 1.5x+</li>
@@ -596,7 +598,7 @@
 <li>Timing effectiveness</li>
 
 </ul>
-<p>** Monthly Analysis:**</p>
+<p><strong>Monthly Analysis:</strong></p>
 <p>Track your doubt signal performance:</p>
 <ul>
 <li><strong>Total Doubt Signals:</strong> Number of doubt positions taken</li>
@@ -619,7 +621,7 @@
 <h3>🕵️ Knowledge Advantage</h3>
 
 
-<p>Sources of Edge:**</p>
+<p><strong>Sources of Edge:</strong></p>
 <p>1. **Technical Expertise**</p>
 
 <ul>
@@ -657,7 +659,7 @@
 <div class="arena-card">
 
 <h3>🤖 Algorithmic Skepticism</h3>
-<p>** Screening Criteria:**</p>
+<p><strong>Screening Criteria:</strong></p>
 <ul>
 <li>**Anonymous team → Doubt**</li>
 <li>No GitHub → Doubt</li>
@@ -666,7 +668,7 @@
 <li>No demo after 30 days → Doubt</li>
 
 </ul>
-<p>** Automation Potential:**</p>
+<p><strong>Automation Potential:</strong></p>
 <ul>
 <li>**Flag patterns**</li>
 <li>Alert system</li>
@@ -683,7 +685,7 @@
 <div class="arena-card">
 
 <h3>🌟 Quality Doubt Brand</h3>
-<p>** Reputation Building:**</p>
+<p><strong>Reputation Building:</strong></p>
 <p>1. **Always Evidence-Based**</p>
 
 <ul>
@@ -731,6 +733,7 @@
 ### Complete Your Education
 
 Continue with:
+
 1. [Portfolio Management](portfolio-management.md) - Balance strategies
 2. [Risk Management](risk-management.md) - Protect capital
 3. [Contrarian Plays](contrarian-plays.md) - Maximum alpha

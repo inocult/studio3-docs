@@ -18,42 +18,45 @@
 
 <h3>🔗 Network Fundamentals</h3>
 
-<p>**Definition: Echo Networks are organized groups of Echoes who collaborate to:**</p>
+<p><strong>Definition: Echo Networks are organized groups of Echoes who collaborate to:</strong></p>
 <ul>
 <li>Share research and insights</li>
 <li>Pool resources and capital</li>
 <li>Coordinate signal strategies</li>
 <li>Amplify collective impact</li>
 <li>Achieve superior returns</li>
-
-
-
 </ul>
-<p>Network Types:**</p>
-<p>-</p>
-<p>1. **Research Collectives**</p>
+
+<p><strong>Network Types:</strong></p>
+<ol>
+<li><strong>Research Collectives</strong>
 <ul>
 <li>Deep analysis focus</li>
 </ul>
-<p>2. **Signal Syndicates**</p>
+</li>
+<li><strong>Signal Syndicates</strong>
 <ul>
 <li>Coordinated investments</li>
 </ul>
-<p>3. **Sector Specialists**</p>
+</li>
+<li><strong>Sector Specialists</strong>
 <ul>
 <li>Domain expertise</li>
 </ul>
-<p>4. **Regional Groups**</p>
+</li>
+<li><strong>Regional Groups</strong>
 <ul>
 <li>Geographic focus</li>
 </ul>
-<p>5. **Strategy Circles**</p>
+</li>
+<li><strong>Strategy Circles</strong>
 <ul>
-<li>Method alignment**</li>
-<li>**Key Principle:**</li>
-
+<li>Method alignment</li>
 </ul>
-<p>**The whole becomes greater than the sum of its parts**</p>
+</li>
+</ol>
+
+<p><strong>Key Principle: The whole becomes greater than the sum of its parts</strong></p>
 
 </div>
 
@@ -350,7 +353,7 @@
 <h3>💰 Collective Resources</h3>
 
 
-<p>Pooling Models:**</p>
+<p>**Pooling Models:**</p>
 <p>1. **Research Pool**</p>
 
 <ul>

@@ -20,26 +20,12 @@
 
 <p>**Primary Sources:**</p>
 
-<p>-</p>
-<p>1. **Signal Rewards**</p>
 <ul>
-<li>Correct predictions</li>
-</ul>
-<p>2. **Bonus Multipliers**</p>
-<ul>
-<li>Enhanced returns</li>
-</ul>
-<p>3. **Streak Bonuses**</p>
-<ul>
-<li>Consistency rewards</li>
-</ul>
-<p>4. **XP Benefits**</p>
-<ul>
-<li>Reputation perks</li>
-</ul>
-<p>5. **Special Events**</p>
-<ul>
-<li>Limited opportunities</li>
+<li><strong>Signal Rewards:</strong> Correct predictions</li>
+<li><strong>Bonus Multipliers:</strong> Enhanced returns</li>
+<li><strong>Streak Bonuses:</strong> Consistency rewards</li>
+<li><strong>XP Benefits:</strong> Reputation perks</li>
+<li><strong>Special Events:</strong> Limited opportunities</li>
 </ul>
 
 <p>**Reward Formula:**</p>
@@ -64,22 +50,22 @@
 <h3>🏃 First Mover Advantages</h3>
 
 
-<p>Bonus Structure:**</p>
+<p><strong>Bonus Structure:</strong></p>
+
 <ul>
 <li>**First 10 signals:** +50% multiplier</li>
+<li><strong>Signals 11-50:</strong> +30% multiplier</li>
+<li><strong>Signals 51-200:</strong> +15% multiplier</li>
+<li><strong>Signals 201-500:</strong> +5% multiplier</li>
+<li><strong>After 500:</strong> Base multiplier only</li>
 </ul>
-<p>-- **Signals 11-50:**</p>
 
-<p>**Signals 51-200:**</p>
-<p>-- **Signals 201-500:**</p>
+<p><strong>Example:</strong></p>
 
-<p>**After 500:**</p>
-<p>**  Example:**</p>
 <ul>
 <li>Base belief multiplier: 1.5x</li>
 <li>You're signal #7: +50% bonus</li>
 <li>Final multiplier: 2.25x</li>
-
 </ul>
 </div>
 
@@ -88,13 +74,15 @@
 <div class="arena-card">
 
 <h3>⭐ XP-Based Rewards</h3>
-<p>**XP Tiers & Bonuses:| XP Range | Title | Reward Bonus | Other Perks |**</p>
-<p>|----------|-------|--------------|-------------|</p>
-<p>| 0-100 | Novice Echo | 0% | Learning resources |</p>
-<p>| 100-500 | Active Echo | +10% | Priority support |</p>
-<p>| 500-2000 | Expert Echo | +20% | Beta access |</p>
-<p>| 2000-5000 | Master Echo | +30% | Governance votes |</p>
-<p>| 5000+ | Legendary Echo | +40% | Platform influence |</p>
+<p><strong>XP Tiers & Bonuses:</strong></p>
+
+| XP Range | Title | Reward Bonus | Other Perks |
+|----------|-------|--------------|-------------|
+| 0-100 | Novice Echo | 0% | Learning resources |
+| 100-500 | Active Echo | +10% | Priority support |
+| 500-2000 | Expert Echo | +20% | Beta access |
+| 2000-5000 | Master Echo | +30% | Governance votes |
+| 5000+ | Legendary Echo | +40% | Platform influence |
 
 </div>
 
@@ -103,21 +91,20 @@
 <div class="arena-card">
 
 <h3>🔥 Consistency Rewards</h3>
-<p>** Accuracy Streaks:**</p>
+<p><strong>Accuracy Streaks:</strong></p>
 <ul>
-<li>**3 correct in a row: +5% next signal**</li>
+<li><strong>3 correct in a row:</strong> +5% next signal</li>
 <li>5 correct in a row: +10% next signal</li>
 <li>10 correct in a row: +20% next signal</li>
 <li>20 correct in a row: +30% next signal</li>
-
 </ul>
-<p>** Participation Streaks:**</p>
+
+<p><strong>Participation Streaks:</strong></p>
 <ul>
-<li>**7 days active: +50 XP**</li>
+<li><strong>7 days active:</strong> +50 XP</li>
 <li>30 days active: +200 XP</li>
 <li>90 days active: +1000 XP</li>
 <li>365 days active: +5000 XP</li>
-
 </ul>
 </div>
 
@@ -128,51 +115,50 @@
 <div class="arena-card">
 
 <h3>✨ Risk = Reward</h3>
-<p>** Phase Multipliers:**</p>
-<p>-</p>
-<p>1. **Spark Phase**</p>
-<p>(Highest Risk)**</p>
+<p><strong>Phase Multipliers:</strong></p>
+
+<ol>
+<li><strong>Spark Phase</strong> (Highest Risk)
 <ul>
 <li>Base: 2.5x</li>
-<li>3.0x</li>
-
+<li>Max: 3.0x</li>
 <li>Limited information</li>
-
 <li>Maximum potential</li>
-
-<li>2.**Forge Phase**  (High Risk)</li>
-<li>Base: 2.0x</li>
-<li>2.5x</li>
-
-<li>Competition insights</li>
-
-<li>Strong upside</li>
-
-<li>3.**Ignition Phase**  (Moderate Risk)</li>
-<li>Base: 1.7x</li>
-<li>2.0x</li>
-
-<li>MVP validation</li>
-
-<li>Balanced returns</li>
-
-<li>4.**Drift Phase**  (Lower Risk)</li>
-<li>Base: 1.5x</li>
-<li>1.7x</li>
-
-<li>Market feedback</li>
-
-<li>Steady gains</li>
-
-<li>5.**Later Phases**  (Minimal Risk)</li>
-<li>Base: 1.2x</li>
-<li>1.5x</li>
-
-<li>Proven execution</li>
-
-<li>Safe returns</li>
-
 </ul>
+</li>
+<li><strong>Forge Phase</strong> (High Risk)
+<ul>
+<li>Base: 2.0x</li>
+<li>Max: 2.5x</li>
+<li>Competition insights</li>
+<li>Strong upside</li>
+</ul>
+</li>
+<li><strong>Ignition Phase</strong> (Moderate Risk)
+<ul>
+<li>Base: 1.7x</li>
+<li>Max: 2.0x</li>
+<li>MVP validation</li>
+<li>Balanced returns</li>
+</ul>
+</li>
+<li><strong>Drift Phase</strong> (Lower Risk)
+<ul>
+<li>Base: 1.5x</li>
+<li>Max: 1.7x</li>
+<li>Market feedback</li>
+<li>Steady gains</li>
+</ul>
+</li>
+<li><strong>Later Phases</strong> (Minimal Risk)
+<ul>
+<li>Base: 1.2x</li>
+<li>Max: 1.5x</li>
+<li>Proven execution</li>
+<li>Safe returns</li>
+</ul>
+</li>
+</ol>
 </div>
 
 ## Contrarian Rewards
@@ -182,24 +168,23 @@
 <div class="arena-card">
 
 <h3>🎲 Contrarian Bonuses</h3>
-<p>** When Majority is Wrong:**</p>
+<p><strong>When Majority is Wrong:</strong></p>
 <ul>
-<li>**You signal opposite of 70%+ pool**</li>
+<li><strong>You signal opposite of 70%+ pool</strong></li>
 <li>Your position proves correct</li>
 <li>Earn extra 0.5x-1.0x multiplier</li>
-
 </ul>
-<p>**Example:**</p>
 
-<p>**Scenario:**</p>
+<p><strong>Example:</strong></p>
+
+<p><strong>Scenario:</strong></p>
 <ul>
-<li>**90% belief signals on venture**</li>
+<li><strong>90% belief signals on venture</strong></li>
 <li>You signal doubt with 1,000 $SIGNAL</li>
 <li>Venture fails milestone</li>
 <li>Base doubt reward: 1.5x</li>
 <li>Contrarian bonus: +0.7x</li>
 <li>Total return: 2,200 $SIGNAL (2.2x)</li>
-
 </ul>
 </div>
 
@@ -210,15 +195,15 @@
 <div class="arena-card">
 
 <h3>📈 Compounding Effects</h3>
-<p>** Sequential Signals:**</p>
+<p><strong>Sequential Signals:</strong></p>
 <ul>
-<li>**Signal on multiple milestones**</li>
+<li><strong>Signal on multiple milestones</strong></li>
 <li>Reinvest rewards immediately</li>
 <li>Compound growth potential</li>
 <li>Build venture relationships</li>
-
 </ul>
-<p>** Portfolio Compounding:**</p>
+
+<p><strong>Portfolio Compounding:</strong></p>
 <p>Watch your portfolio grow through consistent reinvestment:</p>
 <ul>
 <li><strong>Month 1:</strong> Start with 10,000 $SIGNAL</li>
@@ -240,47 +225,37 @@
 <h3>🎉 Bonus Events</h3>
 
 
-<p>Regular Events:**</p>
-<p>1. **Double XP Weekends**</p>
-
+<p><strong>Regular Events:</strong></p>
+<ol>
+<li><strong>Double XP Weekends</strong>
 <ul>
 <li>2x experience points</li>
-
 <li>Faster tier progression</li>
-
 <li>Reputation building</li>
-
 </ul>
-<p>2. **Multiplier Madness**</p>
-
+</li>
+<li><strong>Multiplier Madness</strong>
 <ul>
 <li>+0.5x all multipliers</li>
-<li>48</li>
-<li>hour windows</li>
-
+<li>48-hour windows</li>
 <li>Announced in advance</li>
-
 </ul>
-<p>3. **Venture Spotlights**</p>
-
+</li>
+<li><strong>Venture Spotlights</strong>
 <ul>
 <li>Featured ventures</li>
-
 <li>Enhanced rewards</li>
-
 <li>Special challenges</li>
-
 </ul>
-<p>4. **Seasonal Competitions**</p>
-
+</li>
+<li><strong>Seasonal Competitions</strong>
 <ul>
 <li>Leaderboard prizes</li>
-
 <li>Achievement rewards</li>
-
 <li>Community recognition</li>
-
 </ul>
+</li>
+</ol>
 </div>
 
 ## Reward Distribution
@@ -290,38 +265,41 @@
 <div class="arena-card">
 
 <h3>💸 Getting Paid</h3>
-<p>** Automatic Distribution:**</p>
-<p>1. Milestone completes</p>
-<p>2. Anchor validates</p>
-<p>3. Smart contract executes</p>
-<p>4. Rewards calculated</p>
-<p>5. Tokens sent to wallet</p>
-<p>6. XP updated</p>
+<p><strong>Automatic Distribution:</strong></p>
+<ol>
+<li>Milestone completes</li>
+<li>Anchor validates</li>
+<li>Smart contract executes</li>
+<li>Rewards calculated</li>
+<li>Tokens sent to wallet</li>
+<li>XP updated</li>
+</ol>
 
-
-
-<p>Manual Claims:**</p>
+<p><strong>Manual Claims:</strong></p>
 <ul>
-<li>**Some rewards require claiming**</li>
+<li><strong>Some rewards require claiming</strong></li>
 <li>Gas-efficient batch claims</li>
 <li>30-day claim window</li>
 <li>Unclaimed = donated</li>
-
 </ul>
 </div>
 
 ### Tax Considerations
-** Reward Types:**
-- **Signal profits: Trading income**
-- Bonus rewards: Additional income
-- XP benefits: Non-taxable
-- Governance tokens: Varies
+<p><strong>Reward Types:</strong></p>
+<ul>
+<li><strong>Signal profits:</strong> Trading income</li>
+<li><strong>Bonus rewards:</strong> Additional income</li>
+<li><strong>XP benefits:</strong> Non-taxable</li>
+<li><strong>Governance tokens:</strong> Varies</li>
+</ul>
 
-** Best Practices:**
-- **Track all transactions**
-- Export platform data
-- Consult tax professional
-- Consider jurisdiction
+<p><strong>Best Practices:</strong></p>
+<ul>
+<li><strong>Track all transactions</strong></li>
+<li>Export platform data</li>
+<li>Consult tax professional</li>
+<li>Consider jurisdiction</li>
+</ul>
 
 ## XP and Reputation
 
@@ -330,23 +308,24 @@
 <div class="arena-card">
 
 <h3>🌟 Building Your Score</h3>
-<p>**XP Earnings:| Action | XP Gained | XP Lost |**</p>
-<p>|--------|-----------|----------|</p>
-<p>| Correct belief signal | +10-50 | 0 |</p>
-<p>| Correct doubt signal | +15-60 | 0 |</p>
-<p>| Failed signal | 0 | -5 |</p>
-<p>| Milestone participation | +5 | 0 |</p>
-<p>| Community contribution | +1-20 | 0 |</p>
-<p>| Toxic behavior | 0 | -100 |</p>
+<p><strong>XP Earnings:</strong></p>
 
-<p>** Reputation Benefits:**</p>
+| Action | XP Gained | XP Lost |
+|--------|-----------|----------|
+| Correct belief signal | +10-50 | 0 |
+| Correct doubt signal | +15-60 | 0 |
+| Failed signal | 0 | -5 |
+| Milestone participation | +5 | 0 |
+| Community contribution | +1-20 | 0 |
+| Toxic behavior | 0 | -100 |
+
+<p><strong>Reputation Benefits:</strong></p>
 <ul>
-<li>**Higher stake limits**</li>
+<li><strong>Higher stake limits</strong></li>
 <li>Better multipliers</li>
 <li>Priority access</li>
 <li>Community trust</li>
 <li>Platform privileges</li>
-
 </ul>
 </div>
 
@@ -358,61 +337,55 @@
 
 <h3>🚀 Pro Tactics</h3>
 
-<p>1. **Early Entry Focus**</p>
-
+<ol>
+<li><strong>Early Entry Focus</strong>
 <ul>
 <li>Monitor new ventures</li>
-
 <li>Quick evaluation process</li>
-<li>First</li>
-<li>mover positioning</li>
-
+<li>First-mover positioning</li>
 </ul>
-<p>2. **Reputation Building**</p>
-
+</li>
+<li><strong>Reputation Building</strong>
 <ul>
 <li>Consistent participation</li>
-
 <li>Quality over quantity</li>
-
 <li>Community engagement</li>
-
 </ul>
-<p>3. **Streak Maintenance**</p>
-
+</li>
+<li><strong>Streak Maintenance</strong>
 <ul>
 <li>Careful selection</li>
-
 <li>Risk management</li>
-
 <li>Avoid breaking streaks</li>
-
 </ul>
-<p>4. **Event Participation**</p>
-
+</li>
+<li><strong>Event Participation</strong>
 <ul>
 <li>Calendar awareness</li>
-
 <li>Preparation time</li>
-
 <li>Maximum advantage</li>
-
 </ul>
+</li>
+</ol>
 </div>
 
 ### ROI Tracking
-** Key Metrics:**
-- **Total return percentage**
-- Average multiplier achieved
-- Success rate
-- XP growth rate
-- Time investment
+<p><strong>Key Metrics:</strong></p>
+<ul>
+<li><strong>Total return percentage</strong></li>
+<li>Average multiplier achieved</li>
+<li>Success rate</li>
+<li>XP growth rate</li>
+<li>Time investment</li>
+</ul>
 
-** Tracking Tools:**
-- **Platform dashboard**
-- Export features
-- Third-party analytics
-- Custom spreadsheets
+<p><strong>Tracking Tools:</strong></p>
+<ul>
+<li><strong>Platform dashboard</strong></li>
+<li>Export features</li>
+<li>Third-party analytics</li>
+<li>Custom spreadsheets</li>
+</ul>
 
 ## Risk vs Reward
 
@@ -421,28 +394,27 @@
 <div class="arena-card">
 
 <h3>⚖️ Strategic Balance</h3>
-<p>** High Risk/Reward:**</p>
+<p><strong>High Risk/Reward:</strong></p>
 <ul>
-<li>**Early phase signals**</li>
+<li><strong>Early phase signals</strong></li>
 <li>Contrarian positions</li>
 <li>Large stakes</li>
 <li>New ventures</li>
-
 </ul>
-<p>** Low Risk/Reward:**</p>
+
+<p><strong>Low Risk/Reward:</strong></p>
 <ul>
-<li>**Late phase signals**</li>
+<li><strong>Late phase signals</strong></li>
 <li>Consensus positions</li>
 <li>Small stakes</li>
 <li>Proven ventures</li>
-
 </ul>
-<p>** Optimal Mix:**</p>
+
+<p><strong>Optimal Mix:</strong></p>
 <ul>
-<li>**60% moderate risk**</li>
+<li><strong>60% moderate risk</strong></li>
 <li>25% high risk</li>
 <li>15% low risk</li>
-
 </ul>
 </div>
 
@@ -453,42 +425,45 @@
 <div class="arena-card">
 
 <h3>❌ Reward Pitfalls</h3>
-<p>** Fatal Errors:**</p>
+<p><strong>Fatal Errors:</strong></p>
 <ul>
-<li>**Chasing losses with bigger stakes**</li>
+<li><strong>Chasing losses with bigger stakes</strong></li>
 <li>Ignoring risk for multipliers</li>
 <li>Breaking streaks carelessly</li>
 <li>Missing claim windows</li>
 <li>Focusing only on rewards</li>
-
 </ul>
-<p>** Optimization Errors:**</p>
+
+<p><strong>Optimization Errors:</strong></p>
 <ul>
-<li>**Not tracking performance**</li>
+<li><strong>Not tracking performance</strong></li>
 <li>Ignoring XP benefits</li>
 <li>Missing bonus events</li>
 <li>Poor timing</li>
 <li>No compounding</li>
-
 </ul>
 </div>
 
 ## Reward Psychology
 
 ### Healthy Mindset
-** Success Principles:**
-- **Rewards are bonuses, not guarantees**
-- Focus on long-term growth
-- Celebrate wins appropriately
-- Learn from losses
-- Stay disciplined
+<p><strong>Success Principles:</strong></p>
+<ul>
+<li><strong>Rewards are bonuses, not guarantees</strong></li>
+<li>Focus on long-term growth</li>
+<li>Celebrate wins appropriately</li>
+<li>Learn from losses</li>
+<li>Stay disciplined</li>
+</ul>
 
-** Avoiding Tilt:**
-- **Set reward targets**
-- Take breaks after losses
-- Don't revenge signal
-- Keep perspective
-- Remember: it's a marathon
+<p><strong>Avoiding Tilt:</strong></p>
+<ul>
+<li><strong>Set reward targets</strong></li>
+<li>Take breaks after losses</li>
+<li>Don't revenge signal</li>
+<li>Keep perspective</li>
+<li>Remember: it's a marathon</li>
+</ul>
 
 ## Advanced Reward Strategies
 
@@ -497,7 +472,7 @@
 <div class="arena-card">
 
 <h3>📊 Systematic Rewards</h3>
-<p>** Diversification Model:**</p>
+<p><strong>Diversification Model:</strong></p>
 <p>Balance your signal portfolio across different timing strategies:</p>
 <ul>
 <li><strong>Early Signals (30%):</strong> Chase maximum multipliers with early entries</li>
@@ -506,15 +481,12 @@
 <li><strong>Contrarian (10%):</strong> Reserve a small portion for high-risk contrarian plays</li>
 </ul>
 
-
-
-<p>Reinvestment Strategy:**</p>
+<p><strong>Reinvestment Strategy:</strong></p>
 <ul>
-<li>**Keep 30% as reserves**</li>
+<li><strong>Keep 30% as reserves</strong></li>
 <li>Reinvest 50% in signals</li>
 <li>Take 20% as profits</li>
 <li>Adjust based on performance</li>
-
 </ul>
 </div>
 
@@ -525,48 +497,44 @@
 <div class="arena-card">
 
 <h3>🌐 Beyond Signals</h3>
-<p>** Additional Rewards:**</p>
-<p>1. **Content Creation**</p>
-<ul>
-<li>Analysis posts: 10</li>
-<li>50 XP</li>
-<li>Video guides: 50</li>
-<li>200 XP</li>
-<li>Tools/calculators: 100</li>
-<li>500 XP</li>
+<p><strong>Additional Rewards:</strong></p>
 
-</ul>
-<p>2. **Community Help**</p>
+<ol>
+<li><strong>Content Creation</strong>
 <ul>
-<li>Answer questions: 1</li>
-<li>5 XP</li>
-<li>Mentor newcomers: 20</li>
-<li>100 XP</li>
-<li>Report issues: 10</li>
-<li>50 XP</li>
-
+<li>Analysis posts: 10-50 XP</li>
+<li>Video guides: 50-200 XP</li>
+<li>Tools/calculators: 100-500 XP</li>
 </ul>
-<p>3. **Governance**</p>
+</li>
+<li><strong>Community Help</strong>
 <ul>
-<li>Vote participation: 5</li>
-<li>20 XP</li>
-<li>Proposal creation: 50</li>
-<li>200 XP</li>
-<li>Implementation: 200</li>
-<li>1000 XP</li>
-
+<li>Answer questions: 1-5 XP</li>
+<li>Mentor newcomers: 20-100 XP</li>
+<li>Report issues: 10-50 XP</li>
 </ul>
+</li>
+<li><strong>Governance</strong>
+<ul>
+<li>Vote participation: 5-20 XP</li>
+<li>Proposal creation: 50-200 XP</li>
+<li>Implementation: 200-1000 XP</li>
+</ul>
+</li>
+</ol>
 </div>
 
 ## Future Rewards
 
 ### Upcoming Features
-** Planned Enhancements:**
-- **Achievement system**
-- NFT rewards
-- Tier benefits
-- Loyalty programs
-- Partnership perks
+<p><strong>Planned Enhancements:</strong></p>
+<ul>
+<li><strong>Achievement system</strong></li>
+<li>NFT rewards</li>
+<li>Tier benefits</li>
+<li>Loyalty programs</li>
+<li>Partnership perks</li>
+</ul>
 
 ## Reward Summary
 
@@ -575,9 +543,9 @@
 <div class="arena-card">
 
 <h3>📝 Reward Checklist</h3>
-<p>** Maximize Returns:**</p>
+<p><strong>Maximize Returns:</strong></p>
 <ul>
-<li>**✓ Signal early for bonuses**</li>
+<li><strong>✓ Signal early for bonuses</strong></li>
 <li>✓ Build reputation consistently</li>
 <li>✓ Maintain accuracy streaks</li>
 <li>✓ Participate in events</li>
@@ -587,13 +555,13 @@
 <li>✓ Reinvest wisely</li>
 <li>✓ Stay engaged</li>
 <li>✓ Think long-term</li>
-
 </ul>
 </div>
 
 ## Next Steps
 
 Continue optimizing with:
+
 1. [Portfolio Management](portfolio-management.md) - Systematic approach
 2. [Risk Management](risk-management.md) - Protect your gains
 3. [Phase Strategies](phase-strategies.md) - Phase-specific tactics
