@@ -361,7 +361,8 @@ def calculate_phase_health(venture):
 !!! danger "When Ventures Move Backward"
     
     Regression only allowed during Drift phase:
-- **Failed product-market fit**
+    
+    - **Failed product-market fit**
 
 - Major pivot required
 
