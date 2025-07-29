@@ -193,25 +193,24 @@ flowchart TD
 !!! info "Valuation Factors"
     Token values should reflect:
 
-- **Difficulty**: Technical or operational complexity
-- **Impact**: Importance to venture success
-
-- Risk: Probability of failure
--Timeline: Urgency and duration
--Dependencies**: External factors**### Valuation Guidelines
+- **Difficulty**:
+  Technical or operational complexity
+- **Impact**:
+  Importance to venture success
+- **Risk**:
+  Probability of failure
+- **Timeline**:
+  Urgency and duration
+- **Dependencies**:
+  External factors### Valuation Guidelines
 
 | Milestone Type | Typical Range | Factors |
 |----------------|---------------|----------|
-| **Minor Feature** | 1K
-- 10K | Low complexity, quick delivery |
-| **Major Feature** | 10K
-- 50K | High complexity, critical path |
-| **Growth Target** | 20K
-- 100K | Market dependent, measurable |
-| **Funding Round** | 50K
-- 500K | High impact, binary outcome |
-| **Phase Transition** | 100K
-- 1M | Comprehensive requirements |
+| **Minor Feature** | 1K - 10K | Low complexity, quick delivery |
+| **Major Feature** | 10K - 50K | High complexity, critical path |
+| **Growth Target** | 20K - 100K | Market dependent, measurable |
+| **Funding Round** | 50K - 500K | High impact, binary outcome |
+| **Phase Transition** | 100K - 1M | Comprehensive requirements |
 
 ## Evidence Requirements
 
@@ -263,11 +262,16 @@ flowchart TD
 
 !!! warning "Evidence Must Be"
 
-- **Authentic**: Not fabricated or manipulated
--Relevant: Directly proves milestone completion
--Sufficient: Comprehensive enough for validation
--Timely: Generated within milestone period
--Accessible**: Validators can verify independently**## Milestone Execution
+- **Authentic**:
+  Not fabricated or manipulated
+- **Relevant**:
+  Directly proves milestone completion
+- **Sufficient**:
+  Comprehensive enough for validation
+- **Timely**:
+  Generated within milestone period
+- **Accessible**:
+  Validators can verify independently## Milestone Execution
 
 ### Best Practices
 
@@ -333,10 +337,14 @@ sequenceDiagram
 
 !!! info "Anchors Evaluate"
     1. **Completeness**: All requirements met?
-1. 
-2. **Quality**: Meets professional standards?
-2. 
-3. **Timeliness**: Delivered on schedule? 4.**Evidence**: Properly documented?** 5.Impact: Achieves intended outcome?
+    
+    2. **Quality**: Meets professional standards?
+    
+    3. **Timeliness**: Delivered on schedule?
+    
+    4. **Evidence**: Properly documented?
+    
+    5. **Impact**: Achieves intended outcome?
 
 | Outcome | Result | Token Impact |
 |---------|--------|-------------|
