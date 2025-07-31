@@ -44,8 +44,6 @@ jobs:
           make install
 
       - name: Build documentation with PDFs
-        env:
-          ENABLE_PDF_EXPORT: 1
         run: |
           make build
 
