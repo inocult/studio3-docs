@@ -232,21 +232,21 @@
 <ul>
 <li>Crowd: "Can't be done"</li>
 <li>You: "I've seen similar work"</li>
-<li>Bet on execution</li>
+<li>Signal on execution capability</li>
 </ul>
 </li>
 <li><strong>"Too Simple" Projects</strong>
 <ul>
 <li>Crowd: "No moat"</li>
 <li>You: "Execution is the moat"</li>
-<li>Bet on team</li>
+<li>Signal on team strength</li>
 </ul>
 </li>
 <li><strong>"Wrong Timing" Projects</strong>
 <ul>
 <li>Crowd: "Too early/late"</li>
 <li>You: "Perfect timing because..."</li>
-<li>Bet on market shift</li>
+<li>Signal on market shift</li>
 </ul>
 </li>
 </ol>
@@ -331,7 +331,7 @@
 <li><strong>Maximum 2% per position</strong></li>
 <li>Maximum 10% total contrarian</li>
 <li>Higher conviction = larger size</li>
-<li>Never bet the farm</li>
+<li>Never risk everything</li>
 </ul>
 
 <p><strong>Kelly Criterion Adjusted:</strong></p>

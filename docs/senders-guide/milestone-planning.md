@@ -210,6 +210,51 @@
 </ul>
 </div>
 
+## Arena Reward Configuration
+
+### Setting Your Arena Split
+
+<div class="arena-card">
+
+<h3>💰 Configuring Milestone Rewards</h3>
+
+<p>**As a Sender, you control how arena rewards are distributed:**</p>
+
+<p>When declaring a milestone, you set the reward split between:</p>
+<ul>
+<li><strong>Company Pool:</strong> Funds allocated for venture development</li>
+<li><strong>Participant Pool:</strong> Rewards for Echoes and Anchors who participate</li>
+</ul>
+
+<p>**Typical Split Configurations:**</p>
+
+<ul>
+<li><strong>Early Stage (Spark/Forge):</strong> 30% Company / 70% Participants
+   - Higher participant rewards to attract initial support</li>
+<li><strong>Growth Stage (Ignition/Drift):</strong> 50% Company / 50% Participants
+   - Balanced allocation as venture gains traction</li>
+<li><strong>Mature Stage (Orbit/Flare):</strong> 70% Company / 30% Participants
+   - More resources for scaling, established community</li>
+</ul>
+
+<p>**Reward Distribution Within Participant Pool:**</p>
+<ul>
+<li><strong>Echoes (Supporters):</strong> 85% of participant pool
+   - Distributed based on signal accuracy and stake size</li>
+<li><strong>Anchors (Validators):</strong> 15% of participant pool
+   - Fixed validation fees plus performance bonuses</li>
+</ul>
+
+<p>**Strategic Considerations:**</p>
+<ul>
+<li>Higher participant splits attract more signals</li>
+<li>Lower company splits may limit execution resources</li>
+<li>Adjust splits based on milestone difficulty</li>
+<li>Consider community sentiment and phase requirements</li>
+</ul>
+
+</div>
+
 ## Planning Process
 
 ### Strategic Planning Framework

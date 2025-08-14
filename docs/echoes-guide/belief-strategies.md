@@ -304,7 +304,7 @@
 
 <div class="arena-card">
 
-<h3>🔄 Betting on Comebacks</h3>
+<h3>🔄 Supporting Recovery Ventures</h3>
 <p><strong>Recovery Patterns:</strong></p>
 <ul>
 <li><strong>Initial struggles</strong></li>

@@ -27,7 +27,7 @@
 </li>
 <li><strong>Correlation</strong>
 <ul>
-<li>Avoid similar bets</li>
+<li>Avoid similar positions</li>
 </ul>
 </li>
 <li><strong>Risk/Return</strong>
@@ -100,7 +100,7 @@
 <li>**High-risk/reward**</li>
 <li>Early phase</li>
 <li>Contrarian plays</li>
-<li>Sector bets</li>
+<li>Sector positions</li>
 <li>Experimental</li>
 
 </ul>

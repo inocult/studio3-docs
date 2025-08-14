@@ -87,25 +87,56 @@ sequenceDiagram
     participant E as Echoes
     participant V as Validators
     
-    F->>A: Declare milestone
+    F->>A: Declare milestone + set reward split
     A->>E: Open for signals
     E->>A: Place belief/doubt
     F->>A: Work publicly
     F->>A: Submit evidence
     A->>V: Request validation
     V->>A: Verify completion
-    A->>E: Distribute rewards/penalties
+    A->>E: Distribute rewards per split
 ```
 
 ### Core Components
 
 | Component | Function | Participants |
 |-----------|----------|-------------|
-| **Declaration** | Public commitment to specific goals | Founders |
+| **Declaration** | Public commitment to goals + reward split | Founders |
 | **Signaling** | Token-backed belief or doubt | Echoes |
 | **Execution** | Transparent work toward goals | Founders |
 | **Validation** | Independent verification of results | Anchors |
-| **Settlement** | Automated reward/penalty distribution | System |
+| **Settlement** | Automated reward distribution per split | System |
+
+### Arena Reward Configuration
+
+<div class="arena-card">
+
+<h3>💎 Sender-Controlled Reward Splits</h3>
+
+<p><strong>Founders set the reward allocation for each milestone:</strong></p>
+
+<ul>
+<li><strong>Company Pool:</strong> Resources for venture operations and growth</li>
+<li><strong>Participant Pool:</strong> Rewards for community members who signal and validate</li>
+</ul>
+
+<p>This split incentivizes participation while ensuring ventures have resources to execute. Senders strategically adjust splits based on:</p>
+<ul>
+<li>Phase of development</li>
+<li>Milestone difficulty</li>
+<li>Community engagement needs</li>
+<li>Resource requirements</li>
+</ul>
+
+<p><strong>The split directly impacts:</strong></p>
+<ul>
+<li>Signal volume and quality</li>
+<li>Community engagement levels</li>
+<li>Available execution resources</li>
+<li>Overall milestone success rates</li>
+</ul>
+
+</div>
 
 ## Arena Rules
 
@@ -150,22 +181,18 @@ sequenceDiagram
 
 <p><strong>Belief Signals</strong> 👍</p>
 <ul>
-<li><strong>Stake tokens on successful completion</strong></li>
-<li>Earn 1.5x</li>
-
-<li>3x multiplier if correct</li>
-
-<li>Lose entire stake if wrong</li>
+<li><strong>Express conviction in venture success by staking tokens</strong></li>
+<li>Support founders with resources and validation</li>
+<li>Earn 1.5x-3x multiplier rewards if correct</li>
+<li>Lose entire stake if milestone fails</li>
 
 </ul>
 <p><strong>Doubt Signals</strong> 👎</p>
 <ul>
-<li><strong>Stake tokens on milestone failure</strong></li>
-<li>Earn 1.2x</li>
-
-<li>2x multiplier if correct</li>
-
-<li>Lose entire stake if wrong</li>
+<li><strong>Express concern about execution by staking tokens</strong></li>
+<li>Provide constructive pressure for improvement</li>
+<li>Earn 1.2x-2x multiplier rewards if correct</li>
+<li>Lose entire stake if milestone succeeds</li>
 
 </ul>
 <p><strong> Multiplier Factors:</strong></p>

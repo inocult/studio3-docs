@@ -124,7 +124,7 @@
 <p><strong>Kelly Criterion (Full):</strong></p>
 <p>The Kelly Criterion helps determine optimal position sizing based on your edge. The formula calculates what fraction of your capital to risk:</p>
 <ul>
-<li><strong>f</strong> = Fraction of capital to bet</li>
+<li><strong>f</strong> = Fraction of capital to allocate</li>
 <li><strong>p</strong> = Your probability of winning</li>
 <li><strong>b</strong> = Net odds received on a win (e.g., 1 for 2x multiplier)</li>
 <li><strong>q</strong> = Probability of loss (1 minus p)</li>

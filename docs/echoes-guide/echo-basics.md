@@ -562,7 +562,7 @@ Ready to dive deeper? Continue with:
 ---
 
 !!! tip "Pro Tip"
-    The best Echoes treat signaling like a craft. Master the fundamentals, develop your style, and remember: consistent small wins beat sporadic big gambles.
+    The best Echoes treat signaling like a craft. Master the fundamentals, develop your style, and remember: consistent small wins beat sporadic large risks.
 
 !!! info "Remember"
     Your signals don't just affect your wallet - they shape which ventures succeed and which fail. Signal responsibly.

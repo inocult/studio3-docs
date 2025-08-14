@@ -321,7 +321,7 @@ Whatever role you choose:
 !!! warning "Avoid These Pitfalls"
 
 - **Ego-driven Sender**: Starting a venture for status
--Gambling Echo: Treating signals like casino bets
+- **Speculative Echo**: Treating signals as pure speculation without research
 -Biased Anchor: Validating based on relationships
 -Overcommitted: Taking on too much too fast
 -Undercommitted**: Not giving enough effort**### Role Misalignment Signs

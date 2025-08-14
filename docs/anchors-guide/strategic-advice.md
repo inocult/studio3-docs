@@ -412,14 +412,14 @@ graph TD
 <li>**Adjacent opportunities**</li>
 <li>New segments</li>
 <li>Channel expansion</li>
-<li>Medium-term bets</li>
+<li>Medium-term opportunities</li>
 
 </ul>
 <p>**Horizon 3: Transformational (10%)**</p>
 <ul>
 <li>**Breakthrough innovation**</li>
 <li>New business models</li>
-<li>Long-term bets</li>
+<li>Long-term investments</li>
 <li>Future options</li>
 
 </ul>

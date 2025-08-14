@@ -6,7 +6,7 @@
 
 <h3>🌟 The One-Liner</h3>
 
-<p>Studio3 is a gamified venture building platform where entrepreneurs compete for resources, supporters bet on success with tokens, and everything happens transparently in public "Arenas."</p>
+<p>Studio3 is a gamified venture building platform where entrepreneurs compete for resources, supporters signal belief with tokens, and everything happens transparently in public "Arenas."</p>
 
 </div>
 
@@ -32,7 +32,7 @@ Imagine if building a startup was like playing a video game where:
 
 <ul>
 <li><strong>Ventures compete</strong> for support and resources</li>
-<li><strong>Spectators place bets</strong> on who will succeed</li>
+<li><strong>Supporters signal belief</strong> in who will succeed</li>
 <li><strong>Performance is public</strong> - no hiding failures</li>
 <li><strong>Winners earn glory</strong> (and funding)</li>
 <li><strong>The crowd decides</strong> who deserves support</li>
